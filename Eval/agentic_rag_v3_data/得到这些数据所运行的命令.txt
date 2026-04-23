@@ -1,0 +1,18 @@
+uv run python Eval/run_eval.py 
+--mode agentic-rag-v3 
+--dataset hotpotqa 
+--max-workers 10 --batch-size 10
+--topk 60 --max-chunks 10  --rerank 
+--planner-model "qwen3.6-plus" --planner-params '{"extra_body": {"enable_thinking": true, "enable_search": false}}'  
+--rewrite-model "qwen3.6-plus" --rewrite-params '{"extra_body": {"enable_thinking": true, "enable_search": false}}' 
+--evaluator-model "qwen3.6-plus" --evaluator-params '{"extra_body": {"enable_thinking": true, "enable_search": false}}'  
+--synthesizer-model "qwen3.6-plus" --synthesizer-params '{"extra_body": {"enable_thinking": true, "enable_search": false}}'  
+--reflector-model "qwen3.6-plus" --reflector-params '{"extra_body": {"enable_thinking": true, "enable_search": false}}'
+
+
+
+2wikimultihopqa/musique
+
+
+
+主模型默认为 qwen3.6-plus，{"extra_body": {"enable_thinking": false, "enable_search": false}}

@@ -1,0 +1,74 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Secrets - NEVER commit
+.env
+
+# Tool temp data
+.orchestra/
+.playwright-cli/
+.playwright-mcp/
+.firecrawl/
+.claude/
+
+# IDE settings
+.vscode/
+
+# Thesis first chapter drafts
+00-First/
+
+# Embeddings (large, reproducible)
+*_embeddings.json
+
+# Checkpoint files (intermediate state)
+*_checkpoint.json
+*.checkpoint.json
+
+# Personal/thesis
+NEU-Thesis-main/
+师兄师姐的文章/
+
+# Generated figures and analysis (not uploading in this phase)
+analyse/
+analyse_v2/
+Img/
+figures/
+results/
+
+# Root-level generated files
+*.log
+heatmap_*.png
+heatmap_*.pdf
+macro_metrics_table.png
+iter_retgen_paper.md
+iter_retgen_part*.txt
+rag_hurt_analysis_*.json
+rag_hurt_analysis_report.md
+excalidraw.log
+
+# Experimental (entire directory - separate research project)
+experimental/
+
+# Large evaluation results that exceed GitHub's 100MB limit
+Eval/agentic_rag_v3_data/result/musique.json
+
+# Benchmark source data (re-downloadable)
+Data/2WikiMultihopQA_dev.json
+Data/hotpot_dev_distractor_v1.json
+Data/musique_ans_v1.0_dev.jsonl
+
+# Standalone scripts not needed for core system (thesis figures, LaTeX fixes, dev notebooks)
+draw_rag_with_judge.py
+fix_cls*.py
+generate_chapter5_figures.py
+render_chapter5_figures.py
+render_mermaid*.py
+test.ipynb

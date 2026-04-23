@@ -1,0 +1,11 @@
+uv run python Eval/run_eval.py 
+--mode iter-retgen 
+--max-workers 5 --batch-size 10 
+--dataset hotpotqa --topk 60 --max-chunks 10  --rerank 
+
+
+2wikimultihopqa/musique
+
+
+
+主模型默认为 qwen3.6-plus，{"extra_body": {"enable_thinking": false, "enable_search": false}}

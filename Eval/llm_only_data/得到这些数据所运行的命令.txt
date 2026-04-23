@@ -1,0 +1,12 @@
+uv run python Eval/run_eval.py 
+--mode llm-only 
+--dataset hotpotqa 
+--max-workers 5 --batch-size 20
+
+
+
+2wikimultihopqa/musique
+
+
+
+主模型默认为 qwen3.6-plus，{"extra_body": {"enable_thinking": false, "enable_search": false}}
