@@ -1,0 +1,663 @@
+{
+  "question_index": 428,
+  "question_id": "3dafdc26089f11ebbd78ac1f6bf848b6",
+  "question": "Which film came out first, P.K.P. (Pilsudski Bought Petliura) or Nalla Idathu Sammandham?",
+  "answer": "P.K.P. (Pilsudski Bought Petliura)",
+  "prediction": "P.K.P. (Pilsudski Bought Petliura)",
+  "error": null,
+  "latency_ms": 261696.8044000023,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T18:54:10.113620+00:00",
+  "chunks": [
+    {
+      "chunk_id": "44cd929e-5f2f-4eff-89cc-a1bd272b685c",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, production years, countries of origin, and directors.",
+      "context_title": "P.K.P. (Pilsudski Bought Petliura)",
+      "page_content": "P.K.P. (Pilsudski Bought Petliura) was directed by Georgi Stabovoi. P.K.P. (Pilsudski Bought Petliura) is a 1926 Soviet film. P.K.P. (Pilsudski Bought Petliura) was directed by Aksel Lundin."
+    },
+    {
+      "chunk_id": "ab0f20d0-16a0-4bbd-80e7-652bdd4bd665",
+      "chunk_title": "Silent Drama Films",
+      "chunk_summary": "This chunk contains information about silent drama films, including their titles and release years.",
+      "context_title": "The Piper's Price",
+      "page_content": "The Piper's Price is a 1917 silent drama film."
+    },
+    {
+      "chunk_id": "73ca9c38-cf58-4a57-b6a7-66ae8fbd7a9d",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, alternative names, and directors.",
+      "context_title": "Second Youth (1938 film)",
+      "page_content": "Second Youth is a 1938 Polish romantic drama film. Second Youth was directed by Michał Waszyński. Second Youth is also known as Druga młodość."
+    },
+    {
+      "chunk_id": "0a431815-bd8a-4af1-bb8f-f88fc9bb766d",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and directors.",
+      "context_title": "The Ballad of Cossack Golota",
+      "page_content": "The Ballad of Cossack Golota is a 1937 Soviet action drama film. The Ballad of Cossack Golota was directed by Igor Savchenko."
+    },
+    {
+      "chunk_id": "55df8b27-fc20-49f4-a971-973f663431e4",
+      "chunk_title": "Movie Release Dates",
+      "chunk_summary": "This chunk contains information about movie release dates and times.",
+      "context_title": "Abhishek Saxena",
+      "page_content": "The film Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+    },
+    {
+      "chunk_id": "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+      "chunk_title": "Movie Release Dates",
+      "chunk_summary": "This chunk contains information about movie release dates and times.",
+      "context_title": "Abhishek Saxena",
+      "page_content": "Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+    },
+    {
+      "chunk_id": "9decd901-486a-48b1-9a87-d490b54cb8b7",
+      "chunk_title": "Films & Release Years",
+      "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+      "context_title": "Matula",
+      "page_content": "Matula is a 1941 film."
+    },
+    {
+      "chunk_id": "869e13f3-b38e-4e90-93f2-9ebffe1b72df",
+      "chunk_title": "Film Cast & Release",
+      "chunk_summary": "This chunk contains information about the cast and release details of specific films, including actors like Rod Steiger and Christopher Plummer in \"Waterloo\" and Veronica De Laurentiis in \"Pandemia\".",
+      "context_title": "Veronica De Laurentiis",
+      "page_content": "The movie \"Pandemia\" was released in 2012. In August 2008, Veronica De Laurentiis starred in the movie \"Pandemia\". The film \"Waterloo\" starred Rod Steiger. The film \"Waterloo\" starred Christopher Plummer."
+    },
+    {
+      "chunk_id": "38665bb3-268b-48ff-93b6-32827c2c9768",
+      "chunk_title": "Films",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+      "context_title": "33 Scenes from Life",
+      "page_content": "33 Scenes From Life is a 2008 Polish film. 33 Scenes From Life was directed by Małgorzata Szumowska."
+    },
+    {
+      "chunk_id": "99fbbc53-5cb9-4a17-9943-11b488b9dc76",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, directors, and festival entries.",
+      "context_title": "The Pipes",
+      "page_content": "The Pipes was entered into the 1966 Cannes Film Festival. The Pipes is a 1966 Czechoslovak film. Vojtěch Jasný directed the 1966 Czechoslovak film The Pipes. The Pipes was directed by Vojtěch Jasný."
+    },
+    {
+      "chunk_id": "dc1bfe80-3645-4f53-9626-2ca3d70c3bf4",
+      "chunk_title": "Nalla Idathu Sammandham Film Details",
+      "chunk_summary": "This chunk contains information about the 1958 Indian Tamil-language drama film Nalla Idathu Sammandham, including its director, writers, production details, cast, and music composer.",
+      "context_title": "Nalla Idathu Sammandham",
+      "page_content": "Nalla Idathu Sammandham is a 1958 Indian Tamil-language drama film. Nalla Idathu Sammandham was the debut production of writer A. P. Nagarajan. Nalla Idathu Sammandham stars Sowcar Janaki. Nalla Idathu Sammandham stars Prem Nazir. The background score for Nalla Idathu Sammandham was composed by K. V. Mahadevan. Nalla Idathu Sammandham stars M. R. Radha. The dialogues for Nalla Idathu Sammandham were written by A. P. Nagarajan. Nalla Idathu Sammandham stars M. N. Rajam. The story for Nalla Idathu Sammandham was provided by V. K. Ramasamy. The soundtrack for Nalla Idathu Sammandham was composed by K. V. Mahadevan. Nalla Idathu Sammandham was directed by K. Somu. A. P. Nagarajan co-produced Nalla Idathu Sammandham with V. K. Ramasamy. The screenplay for Nalla Idathu Sammandham was written by A. P. Nagarajan."
+    },
+    {
+      "chunk_id": "1fb5aac2-1621-4a26-947b-0d442b28891b",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their release year, language, genre, director, and lead actors.",
+      "context_title": "Thulasi (1987 film)",
+      "page_content": "Thulasi is a 1987 Tamil romantic drama film. Seetha featured in a lead role in Thulasi. Thulasi was released on 27 November 1987. Murali featured in a lead role in Thulasi. Thulasi was directed by Ameerjan."
+    },
+    {
+      "chunk_id": "72fabd2b-2a4c-45c1-9371-94410f7a7745",
+      "chunk_title": "Bommalattam Film Details",
+      "chunk_summary": "This chunk contains information about the 2008 Indian Tamil film Bommalattam, including its director, lead actors, original Hindi title, release details, and Nana Patekar's Tamil debut.",
+      "context_title": "Bommalattam (2008 film)",
+      "page_content": "Bommalattam was directed by Bharathiraja. The Hindi version of Bommalattam was retitled \"Final Cut of Director\". Arjun Sarja starred in the lead role in Bommalattam. The film Bommalattam was released first in Tamil. Bommalattam marked Nana Patekar's Tamil film debut. Bommalattam is a 2008 Indian Tamil film. The Hindi version of Bommalattam titled \"Final Cut of Director\" had a limited release in 2016. Bommalattam was originally filmed in Hindi under the title \"Cinema\". Nana Patekar starred in the lead role in Bommalattam."
+    },
+    {
+      "chunk_id": "aac0369d-4ca5-4aaa-b382-085357712066",
+      "chunk_title": "Chithiram Pesuthadi 2 Film Details",
+      "chunk_summary": "This chunk contains information about the 2019 Indian Tamil-language film Chithiram Pesuthadi 2, including its genre, writer, director, cast, music composer, cinematographer, editor, narrative structure, production timeline, and its relationship to the 2006 film of a similar name.",
+      "context_title": "Chithiram Pesuthadi 2",
+      "page_content": "Gayathrie is in the cast of Chithiram Pesuthadi 2. Ashok is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 was directed by Rajan Madhav. Chithiram Pesuthadi 2 and \"Chithiram Pesuthadi\" were produced by the same producer. Nandhan is a newcomer in the cast of Chithiram Pesuthadi 2. The music for Chithiram Pesuthadi 2 was composed by Sajan Madhav. Nivas Adithan is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 began production in 2013. Vidharth is in the cast of Chithiram Pesuthadi 2. The storyline of Chithiram Pesuthadi 2 is entirely different from the storyline of \"Chithiram Pesuthadi\". Chithiram Pesuthadi 2 was shot in and around Chennai. Chithiram Pesuthadi 2 is a connection of four different stories. Nivedhitha is in the cast of Chithiram Pesuthadi 2. The cinematography for Chithiram Pesuthadi 2 was done by Padmesh. Chithiram Pesuthadi 2 was originally titled \"Ula\". Ajmal Ameer is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 was released on 15 February 2019. The four different stories in Chithiram Pesuthadi 2 happen in 48 hours. The title Chithiram Pesuthadi 2 may suggest it is a sequel to the 2006 blockbuster \"Chithiram Pesuthadi\". There is no apparent relationship between Chithiram Pesuthadi 2 and \"Chithiram Pesuthadi\". Chithiram Pesuthadi 2 was written by Rajan Madhav. Radhika Apte is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 features an ensemble cast. Priya Banerjee is a newcomer in the cast of Chithiram Pesuthadi 2. The editing for Chithiram Pesuthadi 2 was done by K.Venkatramanan. Chithiram Pesuthadi 2 is a 2019 Indian Tamil-language hyperlink drama film."
+    },
+    {
+      "chunk_id": "ef76ccfd-fd40-43c7-804b-462c6739c3ce",
+      "chunk_title": "Thulasi Film Details",
+      "chunk_summary": "This chunk contains information about the 1987 Tamil film Thulasi, including its director, cast, producer, musical score, release date, and details about the music director Sampath Selvam.",
+      "context_title": "Thulasi (1987 film)",
+      "page_content": "Thulasi was released on 27 November 1987. Thulasi had a musical score by Sampath Selvam. Sampath Selvam was a music director. Murali featured in a lead role in Thulasi. Seetha featured in a lead role in Thulasi. Sampath Selvam died before the release of Thulasi. Thulasi was directed by Ameerjan. Thulasi was produced by P. S. V. Hariharan. Thulasi is a 1987 Tamil romantic drama film."
+    },
+    {
+      "chunk_id": "15a5a338-ed87-4050-a752-589c71f8bae3",
+      "chunk_title": "Movie Releases & Versions",
+      "chunk_summary": "This chunk contains information about the release dates, versions, and region-specific endings of movies.",
+      "context_title": "Ekk Deewana Tha",
+      "page_content": "The two different versions of Ekk Deewana Tha have a number of endings. The different endings of Ekk Deewana Tha were designed to suit the taste of regional viewers. Ekk Deewana Tha was released in two different versions. Ekk Deewana Tha was released on 17 February 2012. Vinnaithaandi Varuvaayaa was released in 2010."
+    },
+    {
+      "chunk_id": "5f1b1355-2510-4e3c-a8e8-c141c624c4ee",
+      "chunk_title": "Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of various works.",
+      "context_title": "Pulijanmam",
+      "page_content": "Pulijanmam was released on 19 May 2006. Neythukaran was released in 2001."
+    },
+    {
+      "chunk_id": "a3ea7558-d5fd-402f-be66-91ddcfe5dd98",
+      "chunk_title": "Themmadi Velappan Film Details",
+      "chunk_summary": "This chunk contains information about the 1976 Indian Malayalam film Themmadi Velappan, including its director, producer, lead actors, status as a remake, box office performance, and musical score.",
+      "context_title": "Themmadi Velappan",
+      "page_content": "Themmadi Velappan has a musical score by M. S. Viswanathan. Themmadi Velappan was produced by G. P. Balan. Jayabharathi starred in a lead role in Themmadi Velappan. Themmadi Velappan is a remake of the Kannada superhit movie Sampathige Saval. Madhu starred in a lead role in Themmadi Velappan. Themmadi Velappan was a super hit. KPAC Lalitha starred in a lead role in Themmadi Velappan. Prem Nazir starred in a lead role in Themmadi Velappan. Themmadi Velappan was directed by Hariharan. Themmadi Velappan is a 1976 Indian Malayalam film."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.1111111111111111,
+  "retrieval_count": 2,
+  "total_chunks": 18,
+  "total_distinct_titles": 16,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which film came out first, P.K.P. (Pilsudski Bought Petliura) or Nalla Idathu Sammandham?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film came out first, P.K.P. (Pilsudski Bought Petliura) or Nalla Idathu Sammandham?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两部电影的发行日期并比较先后",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1（1926）和 N1_2（1958）均 healthy，推理链完整：1926 < 1958，可直接得出 P.K.P. 先发行的结论。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，可直接用于最终答案生成。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film P.K.P. (Pilsudski Bought Petliura) released?",
+          "answer": "1926",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film P.K.P. (Pilsudski Bought Petliura) released?",
+          "planner_rationale": "Q 要求比较两部电影的发行先后，必须先确立 P.K.P. 的发行日期",
+          "solver_judgment": "question 要求确认电影 P.K.P. (Pilsudski Bought Petliura) 的上映年份。search_query 直接搜索了该问题。chunks 返回了 chunk 44cd929e-5f2f-4eff-89cc-a1bd272b685c，其中明确记载 'P.K.P. (Pilsudski Bought Petliura) is a 1926 Soviet film'，直接提供了上映年份 1926。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 P.K.P. (Pilsudski Bought Petliura)），单来源但直接具体。支撑 chunk 44cd929e 全文逐字记载 'P.K.P. (Pilsudski Bought Petliura) is a 1926 Soviet film'，与声称答案 1926 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接明确，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "44cd929e-5f2f-4eff-89cc-a1bd272b685c"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "44cd929e-5f2f-4eff-89cc-a1bd272b685c",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, production years, countries of origin, and directors.",
+              "context_title": "P.K.P. (Pilsudski Bought Petliura)",
+              "page_content": "P.K.P. (Pilsudski Bought Petliura) was directed by Georgi Stabovoi. P.K.P. (Pilsudski Bought Petliura) is a 1926 Soviet film. P.K.P. (Pilsudski Bought Petliura) was directed by Aksel Lundin."
+            },
+            {
+              "chunk_id": "ab0f20d0-16a0-4bbd-80e7-652bdd4bd665",
+              "chunk_title": "Silent Drama Films",
+              "chunk_summary": "This chunk contains information about silent drama films, including their titles and release years.",
+              "context_title": "The Piper's Price",
+              "page_content": "The Piper's Price is a 1917 silent drama film."
+            },
+            {
+              "chunk_id": "73ca9c38-cf58-4a57-b6a7-66ae8fbd7a9d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, alternative names, and directors.",
+              "context_title": "Second Youth (1938 film)",
+              "page_content": "Second Youth is a 1938 Polish romantic drama film. Second Youth was directed by Michał Waszyński. Second Youth is also known as Druga młodość."
+            },
+            {
+              "chunk_id": "0a431815-bd8a-4af1-bb8f-f88fc9bb766d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and directors.",
+              "context_title": "The Ballad of Cossack Golota",
+              "page_content": "The Ballad of Cossack Golota is a 1937 Soviet action drama film. The Ballad of Cossack Golota was directed by Igor Savchenko."
+            },
+            {
+              "chunk_id": "55df8b27-fc20-49f4-a971-973f663431e4",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "The film Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            },
+            {
+              "chunk_id": "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            },
+            {
+              "chunk_id": "9decd901-486a-48b1-9a87-d490b54cb8b7",
+              "chunk_title": "Films & Release Years",
+              "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+              "context_title": "Matula",
+              "page_content": "Matula is a 1941 film."
+            },
+            {
+              "chunk_id": "869e13f3-b38e-4e90-93f2-9ebffe1b72df",
+              "chunk_title": "Film Cast & Release",
+              "chunk_summary": "This chunk contains information about the cast and release details of specific films, including actors like Rod Steiger and Christopher Plummer in \"Waterloo\" and Veronica De Laurentiis in \"Pandemia\".",
+              "context_title": "Veronica De Laurentiis",
+              "page_content": "The movie \"Pandemia\" was released in 2012. In August 2008, Veronica De Laurentiis starred in the movie \"Pandemia\". The film \"Waterloo\" starred Rod Steiger. The film \"Waterloo\" starred Christopher Plummer."
+            },
+            {
+              "chunk_id": "38665bb3-268b-48ff-93b6-32827c2c9768",
+              "chunk_title": "Films",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+              "context_title": "33 Scenes from Life",
+              "page_content": "33 Scenes From Life is a 2008 Polish film. 33 Scenes From Life was directed by Małgorzata Szumowska."
+            },
+            {
+              "chunk_id": "99fbbc53-5cb9-4a17-9943-11b488b9dc76",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, directors, and festival entries.",
+              "context_title": "The Pipes",
+              "page_content": "The Pipes was entered into the 1966 Cannes Film Festival. The Pipes is a 1966 Czechoslovak film. Vojtěch Jasný directed the 1966 Czechoslovak film The Pipes. The Pipes was directed by Vojtěch Jasný."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film Nalla Idathu Sammandham released?",
+          "answer": "1958",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Nalla Idathu Sammandham released?",
+          "planner_rationale": "Q 要求比较两部电影的发行先后，必须先确立 Nalla Idathu Sammandham 的发行日期",
+          "solver_judgment": "question 要求确认电影 Nalla Idathu Sammandham 的上映时间。search_query 使用了完整的问题进行检索。chunks 返回的 dc1bfe80-3645-4f53-9626-2ca3d70c3bf4 明确记载 'Nalla Idathu Sammandham is a 1958 Indian Tamil-language drama film.'，直接提供了该电影的上映年份 1958。检索精准命中目标实体，虽未提供具体月日，但年份信息已完整回答问题。",
+          "critic_factual_notes": "1 个来源（文档 Nalla Idathu Sammandham），单来源但直接具体。支撑 chunk dc1bfe80 全文逐字记载 'Nalla Idathu Sammandham is a 1958 Indian Tamil-language drama film.'，与声称答案 1958 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接明确，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "dc1bfe80-3645-4f53-9626-2ca3d70c3bf4"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "dc1bfe80-3645-4f53-9626-2ca3d70c3bf4",
+              "chunk_title": "Nalla Idathu Sammandham Film Details",
+              "chunk_summary": "This chunk contains information about the 1958 Indian Tamil-language drama film Nalla Idathu Sammandham, including its director, writers, production details, cast, and music composer.",
+              "context_title": "Nalla Idathu Sammandham",
+              "page_content": "Nalla Idathu Sammandham is a 1958 Indian Tamil-language drama film. Nalla Idathu Sammandham was the debut production of writer A. P. Nagarajan. Nalla Idathu Sammandham stars Sowcar Janaki. Nalla Idathu Sammandham stars Prem Nazir. The background score for Nalla Idathu Sammandham was composed by K. V. Mahadevan. Nalla Idathu Sammandham stars M. R. Radha. The dialogues for Nalla Idathu Sammandham were written by A. P. Nagarajan. Nalla Idathu Sammandham stars M. N. Rajam. The story for Nalla Idathu Sammandham was provided by V. K. Ramasamy. The soundtrack for Nalla Idathu Sammandham was composed by K. V. Mahadevan. Nalla Idathu Sammandham was directed by K. Somu. A. P. Nagarajan co-produced Nalla Idathu Sammandham with V. K. Ramasamy. The screenplay for Nalla Idathu Sammandham was written by A. P. Nagarajan."
+            },
+            {
+              "chunk_id": "1fb5aac2-1621-4a26-947b-0d442b28891b",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their release year, language, genre, director, and lead actors.",
+              "context_title": "Thulasi (1987 film)",
+              "page_content": "Thulasi is a 1987 Tamil romantic drama film. Seetha featured in a lead role in Thulasi. Thulasi was released on 27 November 1987. Murali featured in a lead role in Thulasi. Thulasi was directed by Ameerjan."
+            },
+            {
+              "chunk_id": "72fabd2b-2a4c-45c1-9371-94410f7a7745",
+              "chunk_title": "Bommalattam Film Details",
+              "chunk_summary": "This chunk contains information about the 2008 Indian Tamil film Bommalattam, including its director, lead actors, original Hindi title, release details, and Nana Patekar's Tamil debut.",
+              "context_title": "Bommalattam (2008 film)",
+              "page_content": "Bommalattam was directed by Bharathiraja. The Hindi version of Bommalattam was retitled \"Final Cut of Director\". Arjun Sarja starred in the lead role in Bommalattam. The film Bommalattam was released first in Tamil. Bommalattam marked Nana Patekar's Tamil film debut. Bommalattam is a 2008 Indian Tamil film. The Hindi version of Bommalattam titled \"Final Cut of Director\" had a limited release in 2016. Bommalattam was originally filmed in Hindi under the title \"Cinema\". Nana Patekar starred in the lead role in Bommalattam."
+            },
+            {
+              "chunk_id": "aac0369d-4ca5-4aaa-b382-085357712066",
+              "chunk_title": "Chithiram Pesuthadi 2 Film Details",
+              "chunk_summary": "This chunk contains information about the 2019 Indian Tamil-language film Chithiram Pesuthadi 2, including its genre, writer, director, cast, music composer, cinematographer, editor, narrative structure, production timeline, and its relationship to the 2006 film of a similar name.",
+              "context_title": "Chithiram Pesuthadi 2",
+              "page_content": "Gayathrie is in the cast of Chithiram Pesuthadi 2. Ashok is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 was directed by Rajan Madhav. Chithiram Pesuthadi 2 and \"Chithiram Pesuthadi\" were produced by the same producer. Nandhan is a newcomer in the cast of Chithiram Pesuthadi 2. The music for Chithiram Pesuthadi 2 was composed by Sajan Madhav. Nivas Adithan is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 began production in 2013. Vidharth is in the cast of Chithiram Pesuthadi 2. The storyline of Chithiram Pesuthadi 2 is entirely different from the storyline of \"Chithiram Pesuthadi\". Chithiram Pesuthadi 2 was shot in and around Chennai. Chithiram Pesuthadi 2 is a connection of four different stories. Nivedhitha is in the cast of Chithiram Pesuthadi 2. The cinematography for Chithiram Pesuthadi 2 was done by Padmesh. Chithiram Pesuthadi 2 was originally titled \"Ula\". Ajmal Ameer is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 was released on 15 February 2019. The four different stories in Chithiram Pesuthadi 2 happen in 48 hours. The title Chithiram Pesuthadi 2 may suggest it is a sequel to the 2006 blockbuster \"Chithiram Pesuthadi\". There is no apparent relationship between Chithiram Pesuthadi 2 and \"Chithiram Pesuthadi\". Chithiram Pesuthadi 2 was written by Rajan Madhav. Radhika Apte is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 features an ensemble cast. Priya Banerjee is a newcomer in the cast of Chithiram Pesuthadi 2. The editing for Chithiram Pesuthadi 2 was done by K.Venkatramanan. Chithiram Pesuthadi 2 is a 2019 Indian Tamil-language hyperlink drama film."
+            },
+            {
+              "chunk_id": "ef76ccfd-fd40-43c7-804b-462c6739c3ce",
+              "chunk_title": "Thulasi Film Details",
+              "chunk_summary": "This chunk contains information about the 1987 Tamil film Thulasi, including its director, cast, producer, musical score, release date, and details about the music director Sampath Selvam.",
+              "context_title": "Thulasi (1987 film)",
+              "page_content": "Thulasi was released on 27 November 1987. Thulasi had a musical score by Sampath Selvam. Sampath Selvam was a music director. Murali featured in a lead role in Thulasi. Seetha featured in a lead role in Thulasi. Sampath Selvam died before the release of Thulasi. Thulasi was directed by Ameerjan. Thulasi was produced by P. S. V. Hariharan. Thulasi is a 1987 Tamil romantic drama film."
+            },
+            {
+              "chunk_id": "15a5a338-ed87-4050-a752-589c71f8bae3",
+              "chunk_title": "Movie Releases & Versions",
+              "chunk_summary": "This chunk contains information about the release dates, versions, and region-specific endings of movies.",
+              "context_title": "Ekk Deewana Tha",
+              "page_content": "The two different versions of Ekk Deewana Tha have a number of endings. The different endings of Ekk Deewana Tha were designed to suit the taste of regional viewers. Ekk Deewana Tha was released in two different versions. Ekk Deewana Tha was released on 17 February 2012. Vinnaithaandi Varuvaayaa was released in 2010."
+            },
+            {
+              "chunk_id": "5f1b1355-2510-4e3c-a8e8-c141c624c4ee",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various works.",
+              "context_title": "Pulijanmam",
+              "page_content": "Pulijanmam was released on 19 May 2006. Neythukaran was released in 2001."
+            },
+            {
+              "chunk_id": "55df8b27-fc20-49f4-a971-973f663431e4",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "The film Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            },
+            {
+              "chunk_id": "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            },
+            {
+              "chunk_id": "a3ea7558-d5fd-402f-be66-91ddcfe5dd98",
+              "chunk_title": "Themmadi Velappan Film Details",
+              "chunk_summary": "This chunk contains information about the 1976 Indian Malayalam film Themmadi Velappan, including its director, producer, lead actors, status as a remake, box office performance, and musical score.",
+              "context_title": "Themmadi Velappan",
+              "page_content": "Themmadi Velappan has a musical score by M. S. Viswanathan. Themmadi Velappan was produced by G. P. Balan. Jayabharathi starred in a lead role in Themmadi Velappan. Themmadi Velappan is a remake of the Kannada superhit movie Sampathige Saval. Madhu starred in a lead role in Themmadi Velappan. Themmadi Velappan was a super hit. KPAC Lalitha starred in a lead role in Themmadi Velappan. Prem Nazir starred in a lead role in Themmadi Velappan. Themmadi Velappan was directed by Hariharan. Themmadi Velappan is a 1976 Indian Malayalam film."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which film came out first, P.K.P. (Pilsudski Bought Petliura) or Nalla Idathu Sammandham?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film came out first, P.K.P. (Pilsudski Bought Petliura) or Nalla Idathu Sammandham?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。两个子节点 N1_1（1926）和 N1_2（1958）均已 SOLVED + healthy，推理链完整：1926 < 1958，可直接得出 P.K.P. 先发行的结论。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1（answer=1926）和 N1_2（answer=1958）均已 SOLVED + healthy，推理链完整：1926 < 1958，可直接得出 P.K.P. 先发行的结论。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，可直接用于最终答案生成。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film P.K.P. (Pilsudski Bought Petliura) released?",
+          "answer": "1926",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film P.K.P. (Pilsudski Bought Petliura) released?",
+          "planner_rationale": "Q 要求比较两部电影的发行先后，必须先确立 P.K.P. 的发行日期。已 SOLVED，answer=1926，证据直接明确（chunk 44cd929e 逐字记载 'P.K.P. (Pilsudski Bought Petliura) is a 1926 Soviet film'），Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认电影 P.K.P. (Pilsudski Bought Petliura) 的上映年份。search_query 直接搜索了该问题。chunks 返回了 chunk 44cd929e-5f2f-4eff-89cc-a1bd272b685c，其中明确记载 'P.K.P. (Pilsudski Bought Petliura) is a 1926 Soviet film'，直接提供了上映年份 1926。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 P.K.P. (Pilsudski Bought Petliura)），单来源但直接具体。支撑 chunk 44cd929e 全文逐字记载 'P.K.P. (Pilsudski Bought Petliura) is a 1926 Soviet film'，与声称答案 1926 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接明确，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "44cd929e-5f2f-4eff-89cc-a1bd272b685c"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "44cd929e-5f2f-4eff-89cc-a1bd272b685c",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, production years, countries of origin, and directors.",
+              "context_title": "P.K.P. (Pilsudski Bought Petliura)",
+              "page_content": "P.K.P. (Pilsudski Bought Petliura) was directed by Georgi Stabovoi. P.K.P. (Pilsudski Bought Petliura) is a 1926 Soviet film. P.K.P. (Pilsudski Bought Petliura) was directed by Aksel Lundin."
+            },
+            {
+              "chunk_id": "ab0f20d0-16a0-4bbd-80e7-652bdd4bd665",
+              "chunk_title": "Silent Drama Films",
+              "chunk_summary": "This chunk contains information about silent drama films, including their titles and release years.",
+              "context_title": "The Piper's Price",
+              "page_content": "The Piper's Price is a 1917 silent drama film."
+            },
+            {
+              "chunk_id": "73ca9c38-cf58-4a57-b6a7-66ae8fbd7a9d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, alternative names, and directors.",
+              "context_title": "Second Youth (1938 film)",
+              "page_content": "Second Youth is a 1938 Polish romantic drama film. Second Youth was directed by Michał Waszyński. Second Youth is also known as Druga młodość."
+            },
+            {
+              "chunk_id": "0a431815-bd8a-4af1-bb8f-f88fc9bb766d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and directors.",
+              "context_title": "The Ballad of Cossack Golota",
+              "page_content": "The Ballad of Cossack Golota is a 1937 Soviet action drama film. The Ballad of Cossack Golota was directed by Igor Savchenko."
+            },
+            {
+              "chunk_id": "55df8b27-fc20-49f4-a971-973f663431e4",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "The film Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            },
+            {
+              "chunk_id": "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            },
+            {
+              "chunk_id": "9decd901-486a-48b1-9a87-d490b54cb8b7",
+              "chunk_title": "Films & Release Years",
+              "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+              "context_title": "Matula",
+              "page_content": "Matula is a 1941 film."
+            },
+            {
+              "chunk_id": "869e13f3-b38e-4e90-93f2-9ebffe1b72df",
+              "chunk_title": "Film Cast & Release",
+              "chunk_summary": "This chunk contains information about the cast and release details of specific films, including actors like Rod Steiger and Christopher Plummer in \"Waterloo\" and Veronica De Laurentiis in \"Pandemia\".",
+              "context_title": "Veronica De Laurentiis",
+              "page_content": "The movie \"Pandemia\" was released in 2012. In August 2008, Veronica De Laurentiis starred in the movie \"Pandemia\". The film \"Waterloo\" starred Rod Steiger. The film \"Waterloo\" starred Christopher Plummer."
+            },
+            {
+              "chunk_id": "38665bb3-268b-48ff-93b6-32827c2c9768",
+              "chunk_title": "Films",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+              "context_title": "33 Scenes from Life",
+              "page_content": "33 Scenes From Life is a 2008 Polish film. 33 Scenes From Life was directed by Małgorzata Szumowska."
+            },
+            {
+              "chunk_id": "99fbbc53-5cb9-4a17-9943-11b488b9dc76",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, directors, and festival entries.",
+              "context_title": "The Pipes",
+              "page_content": "The Pipes was entered into the 1966 Cannes Film Festival. The Pipes is a 1966 Czechoslovak film. Vojtěch Jasný directed the 1966 Czechoslovak film The Pipes. The Pipes was directed by Vojtěch Jasný."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film Nalla Idathu Sammandham released?",
+          "answer": "1958",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Nalla Idathu Sammandham released?",
+          "planner_rationale": "Q 要求比较两部电影的发行先后，必须先确立 Nalla Idathu Sammandham 的发行日期。已 SOLVED，answer=1958，证据直接明确（chunk dc1bfe80 逐字记载 'Nalla Idathu Sammandham is a 1958 Indian Tamil-language drama film'），Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认电影 Nalla Idathu Sammandham 的上映时间。search_query 使用了完整的问题进行检索。chunks 返回的 dc1bfe80-3645-4f53-9626-2ca3d70c3bf4 明确记载 'Nalla Idathu Sammandham is a 1958 Indian Tamil-language drama film.'，直接提供了该电影的上映年份 1958。检索精准命中目标实体，虽未提供具体月日，但年份信息已完整回答问题。",
+          "critic_factual_notes": "1 个来源（文档 Nalla Idathu Sammandham），单来源但直接具体。支撑 chunk dc1bfe80 全文逐字记载 'Nalla Idathu Sammandham is a 1958 Indian Tamil-language drama film.'，与声称答案 1958 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接明确，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "dc1bfe80-3645-4f53-9626-2ca3d70c3bf4"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "dc1bfe80-3645-4f53-9626-2ca3d70c3bf4",
+              "chunk_title": "Nalla Idathu Sammandham Film Details",
+              "chunk_summary": "This chunk contains information about the 1958 Indian Tamil-language drama film Nalla Idathu Sammandham, including its director, writers, production details, cast, and music composer.",
+              "context_title": "Nalla Idathu Sammandham",
+              "page_content": "Nalla Idathu Sammandham is a 1958 Indian Tamil-language drama film. Nalla Idathu Sammandham was the debut production of writer A. P. Nagarajan. Nalla Idathu Sammandham stars Sowcar Janaki. Nalla Idathu Sammandham stars Prem Nazir. The background score for Nalla Idathu Sammandham was composed by K. V. Mahadevan. Nalla Idathu Sammandham stars M. R. Radha. The dialogues for Nalla Idathu Sammandham were written by A. P. Nagarajan. Nalla Idathu Sammandham stars M. N. Rajam. The story for Nalla Idathu Sammandham was provided by V. K. Ramasamy. The soundtrack for Nalla Idathu Sammandham was composed by K. V. Mahadevan. Nalla Idathu Sammandham was directed by K. Somu. A. P. Nagarajan co-produced Nalla Idathu Sammandham with V. K. Ramasamy. The screenplay for Nalla Idathu Sammandham was written by A. P. Nagarajan."
+            },
+            {
+              "chunk_id": "1fb5aac2-1621-4a26-947b-0d442b28891b",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their release year, language, genre, director, and lead actors.",
+              "context_title": "Thulasi (1987 film)",
+              "page_content": "Thulasi is a 1987 Tamil romantic drama film. Seetha featured in a lead role in Thulasi. Thulasi was released on 27 November 1987. Murali featured in a lead role in Thulasi. Thulasi was directed by Ameerjan."
+            },
+            {
+              "chunk_id": "72fabd2b-2a4c-45c1-9371-94410f7a7745",
+              "chunk_title": "Bommalattam Film Details",
+              "chunk_summary": "This chunk contains information about the 2008 Indian Tamil film Bommalattam, including its director, lead actors, original Hindi title, release details, and Nana Patekar's Tamil debut.",
+              "context_title": "Bommalattam (2008 film)",
+              "page_content": "Bommalattam was directed by Bharathiraja. The Hindi version of Bommalattam was retitled \"Final Cut of Director\". Arjun Sarja starred in the lead role in Bommalattam. The film Bommalattam was released first in Tamil. Bommalattam marked Nana Patekar's Tamil film debut. Bommalattam is a 2008 Indian Tamil film. The Hindi version of Bommalattam titled \"Final Cut of Director\" had a limited release in 2016. Bommalattam was originally filmed in Hindi under the title \"Cinema\". Nana Patekar starred in the lead role in Bommalattam."
+            },
+            {
+              "chunk_id": "aac0369d-4ca5-4aaa-b382-085357712066",
+              "chunk_title": "Chithiram Pesuthadi 2 Film Details",
+              "chunk_summary": "This chunk contains information about the 2019 Indian Tamil-language film Chithiram Pesuthadi 2, including its genre, writer, director, cast, music composer, cinematographer, editor, narrative structure, production timeline, and its relationship to the 2006 film of a similar name.",
+              "context_title": "Chithiram Pesuthadi 2",
+              "page_content": "Gayathrie is in the cast of Chithiram Pesuthadi 2. Ashok is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 was directed by Rajan Madhav. Chithiram Pesuthadi 2 and \"Chithiram Pesuthadi\" were produced by the same producer. Nandhan is a newcomer in the cast of Chithiram Pesuthadi 2. The music for Chithiram Pesuthadi 2 was composed by Sajan Madhav. Nivas Adithan is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 began production in 2013. Vidharth is in the cast of Chithiram Pesuthadi 2. The storyline of Chithiram Pesuthadi 2 is entirely different from the storyline of \"Chithiram Pesuthadi\". Chithiram Pesuthadi 2 was shot in and around Chennai. Chithiram Pesuthadi 2 is a connection of four different stories. Nivedhitha is in the cast of Chithiram Pesuthadi 2. The cinematography for Chithiram Pesuthadi 2 was done by Padmesh. Chithiram Pesuthadi 2 was originally titled \"Ula\". Ajmal Ameer is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 was released on 15 February 2019. The four different stories in Chithiram Pesuthadi 2 happen in 48 hours. The title Chithiram Pesuthadi 2 may suggest it is a sequel to the 2006 blockbuster \"Chithiram Pesuthadi\". There is no apparent relationship between Chithiram Pesuthadi 2 and \"Chithiram Pesuthadi\". Chithiram Pesuthadi 2 was written by Rajan Madhav. Radhika Apte is in the cast of Chithiram Pesuthadi 2. Chithiram Pesuthadi 2 features an ensemble cast. Priya Banerjee is a newcomer in the cast of Chithiram Pesuthadi 2. The editing for Chithiram Pesuthadi 2 was done by K.Venkatramanan. Chithiram Pesuthadi 2 is a 2019 Indian Tamil-language hyperlink drama film."
+            },
+            {
+              "chunk_id": "ef76ccfd-fd40-43c7-804b-462c6739c3ce",
+              "chunk_title": "Thulasi Film Details",
+              "chunk_summary": "This chunk contains information about the 1987 Tamil film Thulasi, including its director, cast, producer, musical score, release date, and details about the music director Sampath Selvam.",
+              "context_title": "Thulasi (1987 film)",
+              "page_content": "Thulasi was released on 27 November 1987. Thulasi had a musical score by Sampath Selvam. Sampath Selvam was a music director. Murali featured in a lead role in Thulasi. Seetha featured in a lead role in Thulasi. Sampath Selvam died before the release of Thulasi. Thulasi was directed by Ameerjan. Thulasi was produced by P. S. V. Hariharan. Thulasi is a 1987 Tamil romantic drama film."
+            },
+            {
+              "chunk_id": "15a5a338-ed87-4050-a752-589c71f8bae3",
+              "chunk_title": "Movie Releases & Versions",
+              "chunk_summary": "This chunk contains information about the release dates, versions, and region-specific endings of movies.",
+              "context_title": "Ekk Deewana Tha",
+              "page_content": "The two different versions of Ekk Deewana Tha have a number of endings. The different endings of Ekk Deewana Tha were designed to suit the taste of regional viewers. Ekk Deewana Tha was released in two different versions. Ekk Deewana Tha was released on 17 February 2012. Vinnaithaandi Varuvaayaa was released in 2010."
+            },
+            {
+              "chunk_id": "5f1b1355-2510-4e3c-a8e8-c141c624c4ee",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various works.",
+              "context_title": "Pulijanmam",
+              "page_content": "Pulijanmam was released on 19 May 2006. Neythukaran was released in 2001."
+            },
+            {
+              "chunk_id": "55df8b27-fc20-49f4-a971-973f663431e4",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "The film Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            },
+            {
+              "chunk_id": "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            },
+            {
+              "chunk_id": "a3ea7558-d5fd-402f-be66-91ddcfe5dd98",
+              "chunk_title": "Themmadi Velappan Film Details",
+              "chunk_summary": "This chunk contains information about the 1976 Indian Malayalam film Themmadi Velappan, including its director, producer, lead actors, status as a remake, box office performance, and musical score.",
+              "context_title": "Themmadi Velappan",
+              "page_content": "Themmadi Velappan has a musical score by M. S. Viswanathan. Themmadi Velappan was produced by G. P. Balan. Jayabharathi starred in a lead role in Themmadi Velappan. Themmadi Velappan is a remake of the Kannada superhit movie Sampathige Saval. Madhu starred in a lead role in Themmadi Velappan. Themmadi Velappan was a super hit. KPAC Lalitha starred in a lead role in Themmadi Velappan. Prem Nazir starred in a lead role in Themmadi Velappan. Themmadi Velappan was directed by Hariharan. Themmadi Velappan is a 1976 Indian Malayalam film."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was the film P.K.P. (Pilsudski Bought Petliura) released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "44cd929e-5f2f-4eff-89cc-a1bd272b685c",
+        "ab0f20d0-16a0-4bbd-80e7-652bdd4bd665",
+        "73ca9c38-cf58-4a57-b6a7-66ae8fbd7a9d",
+        "0a431815-bd8a-4af1-bb8f-f88fc9bb766d",
+        "55df8b27-fc20-49f4-a971-973f663431e4",
+        "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+        "9decd901-486a-48b1-9a87-d490b54cb8b7",
+        "869e13f3-b38e-4e90-93f2-9ebffe1b72df",
+        "38665bb3-268b-48ff-93b6-32827c2c9768",
+        "99fbbc53-5cb9-4a17-9943-11b488b9dc76"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was the film Nalla Idathu Sammandham released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "dc1bfe80-3645-4f53-9626-2ca3d70c3bf4",
+        "1fb5aac2-1621-4a26-947b-0d442b28891b",
+        "72fabd2b-2a4c-45c1-9371-94410f7a7745",
+        "aac0369d-4ca5-4aaa-b382-085357712066",
+        "ef76ccfd-fd40-43c7-804b-462c6739c3ce",
+        "15a5a338-ed87-4050-a752-589c71f8bae3",
+        "5f1b1355-2510-4e3c-a8e8-c141c624c4ee",
+        "55df8b27-fc20-49f4-a971-973f663431e4",
+        "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+        "a3ea7558-d5fd-402f-be66-91ddcfe5dd98"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was P.K.P. (Pilsudski Bought Petliura) released?（理由：Q 问哪部电影先发行，需先获取 P.K.P. 的发行日期），F2: When was Nalla Idathu Sammandham released?（理由：Q 问哪部电影先发行，需先获取 Nalla Idathu Sammandham 的发行日期）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者是独立的子事实，各自求解后通过比较日期即可回答 Q。F1 和 F2 之间无依赖关系。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个比较型问题（which came out first），需要两个独立的发行日期事实。创建两个 decomposition 子节点分别探测两部电影的发行时间，无 dependency 边因为两个子问题互不依赖。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义完整——N0→N1_1 和 N0→N1_2 均为 decomposition，子问题 question 自包含，上游 answer 无需消解指代；③全部节点（N0/N1_1/N1_2）均为 healthy；④首轮无拓扑变化。N1_1（1926）和 N1_2（1958）证据充分，比较推理链完整，可直接生成最终答案：P.K.P. (1926) "
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was P.K.P. (Pilsudski Bought Petliura) released?（理由：Q 问哪部电影先发行，需先获取 P.K.P. 的发行日期），F2: When was Nalla Idathu Sammandham released?（理由：Q 问哪部电影先发行，需先获取 Nalla Idathu Sammandham 的发行日期）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者是独立的子事实，各自求解后通过比较日期即可回答 Q。F1 和 F2 之间无依赖关系。当前 DAG 已完全覆盖 Q 的语义需求，两个子节点均已 SOLVED + healthy，推理链完整（1926 < 1958 → P.K.P. 先发行）。",
+      "hypothesis_delta": "本轮无结构调整——全部 INHERIT 并显式 LINK 保留原有边。原因：上一轮假设（F1 和 F2 作为 Q 的两个独立 decomposition 子节点）被完全验证。N1_1（answer=1926）和 N1_2（answer=1958）均 SOLVED + healthy，Critic 确认证据直接明确无需重搜。DAG 结构简洁无冗余，完全覆盖 Q 的比较型语义需求。推理链已闭合，可直接用于最终答案生成。修正：显式添加 N0→N1_1 和 N0→N1_2 的 LINK 原语以保留 decomposition 边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足，推理链完整，所有节点证据充分。条件①：所有 2 个非根节点（N1_1, N1_2）均已 SOLVED。条件②：推理链语义匹配——N0→N1_1 和 N0→N1_2 均为 decomposition 边，将比较型问题正确分解为两个独立的日期查询，子节点答案（1926, 1958）聚合后可直接支撑 ROOT 节点的比较推理（1926 < 1958 → P.K.P. 先发行）。条件③：全部"
+      }
+    }
+  ]
+}

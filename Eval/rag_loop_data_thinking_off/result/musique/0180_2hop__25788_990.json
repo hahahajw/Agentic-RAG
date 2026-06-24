@@ -1,0 +1,732 @@
+{
+  "question_index": 180,
+  "question_id": "2hop__25788_990",
+  "question": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+  "answer": "third generation",
+  "prediction": "CANNOT_ANSWER",
+  "error": null,
+  "latency_ms": 261638.79509997787,
+  "dataset_type": "musique",
+  "timestamp": "2026-05-14T17:52:30.977206+00:00",
+  "chunks": [
+    {
+      "chunk_id": "6d9bf546-16a1-417c-8323-061cfcebabc1",
+      "chunk_title": "USB Purpose & Design",
+      "chunk_summary": "This chunk contains information about the purpose and design of USB as a standard for connecting, communicating with, and powering computer peripherals.",
+      "context_title": "USB",
+      "page_content": "USB was designed to allow computer peripherals to communicate with personal computers. USB was designed to standardize the connection of computer peripherals to personal computers. USB was designed to supply electric power to computer peripherals."
+    },
+    {
+      "chunk_id": "4198adc5-f51b-42fd-a044-96b81c3f5c47",
+      "chunk_title": "Computer Peripherals",
+      "chunk_summary": "This chunk contains information about various types of computer peripherals and their functions.",
+      "context_title": "USB",
+      "page_content": "Computer peripherals include keyboards, pointing devices, digital cameras, printers, portable media players, disk drives and network adapters."
+    },
+    {
+      "chunk_id": "d883bd22-f669-4af7-8ff4-bd7d4b59dc2d",
+      "chunk_title": "Bochs Emulator Capabilities",
+      "chunk_summary": "This chunk contains information about the Bochs emulator and debugger, detailing its support for PC-compatible architectures and various hardware components like processors, memory, disks, display, Ethernet, and BIOS.",
+      "context_title": "Bochs",
+      "page_content": "Bochs supports emulation of display of PCs. Bochs supports emulation of BIOS of PCs. Bochs supports emulation of disks of PCs. Bochs supports emulation of common hardware peripherals of PCs. Bochs supports emulation of memory of PCs. Bochs supports emulation of the processor(s) of PCs. Bochs supports emulation of protected mode. Bochs is a portable IA-32 and x86-64 IBM PC compatible emulator and debugger. Bochs supports emulation of Ethernet of PCs."
+    },
+    {
+      "chunk_id": "a304dc72-a794-4f1b-a2cc-89cf01d259a5",
+      "chunk_title": "Dell Proprietary Hardware",
+      "chunk_summary": "This chunk contains information about Dell's use of proprietary hardware connectors and motherboard pin-outs, their impact on customer upgradeability, and the partial reversion to industry standards.",
+      "context_title": "Dell",
+      "page_content": "Customers wishing to upgrade their hardware would have to replace parts with scarce Dell-compatible parts instead of commonly available parts. In the 1990s, Dell used primarily ATX motherboards and PSU. Motherboard power connections reverted to the industry standard in 2003. In the 1990s, Dell switched to using boards and power supplies with mechanically identical but differently wired connectors. Dell continues to remain secretive about their motherboard pin-outs for peripherals."
+    },
+    {
+      "chunk_id": "a922dd1e-ea30-4bec-b8e4-b1a0db72722b",
+      "chunk_title": "Computer Hardware & Peripherals",
+      "chunk_summary": "This chunk contains information about various types of computer peripherals and hardware components.",
+      "context_title": "Dell",
+      "page_content": "Peripherals include MMC readers, power on/off switches, and LEDs."
+    },
+    {
+      "chunk_id": "f981fe59-d445-4a7b-8aaa-d6e942eeb8ff",
+      "chunk_title": "USB Architecture & Topology",
+      "chunk_summary": "This chunk contains information about the asymmetrical, host-based design architecture and tiered-star topology of USB systems, including details on downstream ports, peripheral devices, hubs, host controllers, and connection limits.",
+      "context_title": "USB",
+      "page_content": "Up to 127 devices may be connected to a single host controller. The design architecture of USB consists of multiple peripheral devices connected in a tiered-star topology. The hub built into the host controller is the root hub. Each host controller may provide one or more USB ports. Hub devices are included in the count of up to 127 devices connected to a single host controller. The design architecture of USB is asymmetrical in its topology. Additional USB hubs may be included in the tiers of the USB design architecture. The design architecture of USB consists of a multitude of downstream USB ports. Additional USB hubs allow branching into a tree structure with up to five tier levels. USB devices are linked in series through hubs. The design architecture of USB consists of a host. One hub is built into the host controller. A USB host may implement multiple host controllers."
+    },
+    {
+      "chunk_id": "ca2fafa8-12e6-4d8b-a696-177d316799c8",
+      "chunk_title": "USB Adoption & Replacement",
+      "chunk_summary": "This chunk contains information about the widespread adoption of USB connectivity across various electronic devices and its role in replacing older connection standards and power solutions.",
+      "context_title": "USB",
+      "page_content": "USB has effectively replaced parallel ports. USB has effectively replaced separate power chargers for portable devices. USB has become commonplace on video game consoles. USB has effectively replaced serial ports. USB has become commonplace on smartphones. USB has become commonplace on PDAs."
+    },
+    {
+      "chunk_id": "261b72ad-d6f3-452d-a03b-365aa1647f24",
+      "chunk_title": "Energy Transformation & Work",
+      "chunk_summary": "This chunk contains information about energy transformation processes and mechanical work, including conversions between thermal, electrical, nuclear, and mechanical energy, as well as the storage and release of gravitational potential energy.",
+      "context_title": "Energy",
+      "page_content": "If the object falls to the ground, the potential energy in the gravitational field transforms to kinetic energy released as heat on impact with the ground. If the object falls to the ground, gravity does mechanical work on the object. Lifting an object against gravity using electrical energy driving a crane motor is an example of energy transformation. The total mass of the Sun does not decrease due to the transformation of nuclear potential energy to other forms of energy in itself. The Sun transforms nuclear potential energy to other forms of energy. Lifting an object against gravity performs mechanical work on the object. Lifting an object against gravity stores gravitational potential energy in the object. Generating electric energy from heat energy via a steam turbine is an example of energy transformation."
+    },
+    {
+      "chunk_id": "cfb2390d-9a49-43a0-b6f1-f05b6de6549a",
+      "chunk_title": "FireWire Connectivity Evolution",
+      "chunk_summary": "This chunk details the adoption, availability, and phased discontinuation of FireWire connectivity for data transfer and charging across various iPod generations in comparison to USB.",
+      "context_title": "IPod",
+      "page_content": "Most non-Apple machines did not have FireWire ports at the time of the third generation iPod. Apple discontinued using FireWire for data transfer in an attempt to reduce form factor. FireWire charging ability has been removed as of the second-generation iPod Touch. FireWire charging ability has been removed as of the fourth-generation iPod Nano. Apple still allowed the use of FireWire to charge the device after discontinuing FireWire for data transfer. Apple discontinued using FireWire for data transfer as of the first-generation iPod Nano. Apple discontinued using FireWire for data transfer in an attempt to reduce cost. FireWire cables were available separately when Apple began shipping iPods with USB cables. Apple discontinued using FireWire for data transfer as of the fifth-generation iPod Classic."
+    },
+    {
+      "chunk_id": "e112ca5f-e322-4828-bfc4-024f78701ff2",
+      "chunk_title": "Software & UI Evolution",
+      "chunk_summary": "This chunk details the evolution of a platform's software architecture, operating system, and user interface design, including specific changes to fonts, visual themes, and interface modifications over time.",
+      "context_title": "IPod",
+      "page_content": "Apple continued to refine the iPod software's look and feel as development progressed. Podium Sans is a font similar to Apple's corporate font, Myriad. In 2007, Apple modified the iPod interface with the introduction of the sixth-generation iPod Classic. iPods with color displays adopted some Mac OS X themes like Aqua progress bars. Starting with the iPod Mini, the Chicago font was replaced with Espy Sans. In the sixth-generation iPod Classic and third-generation iPod Nano, album artwork, photos, or videos were displayed on the right depending on the selected item. Apple split the screen in half in most cases in the sixth-generation iPod Classic and third-generation iPod Nano. Later iPods switched fonts to Podium Sans. The platform had rudimentary software running on a commercial microkernel embedded operating system. Apple changed the font to Helvetica in the sixth-generation iPod Classic and third-generation iPod Nano. In the sixth-generation iPod Classic and third-generation iPod Nano, menus were displayed on the left. iPods with color displays adopted brushed metal meant to evoke a combination lock. In 2007, Apple modified the iPod interface with the introduction of the third-generation iPod Nano."
+    },
+    {
+      "chunk_id": "8231e6ac-512a-4b28-b12c-19b52eb7dd5c",
+      "chunk_title": "iTunes Store Games",
+      "chunk_summary": "This chunk contains information about the introduction and expansion of games on the iTunes Store starting in September 2006, including specific titles, software updates, and device compatibility.",
+      "context_title": "IPod",
+      "page_content": "The games offered by the iTunes Store work on the 4th generation iPod Nano. Texas Hold 'Em was one of the games offered by the iTunes Store in September 2006. The games offered by the iTunes Store work on the 5th generation iPod Nano. Mini Golf was one of the games offered by the iTunes Store in September 2006. Zuma was one of the games offered by the iTunes Store in September 2006. The games offered by the iTunes Store work on the 5th generation iPod Classic. Asphalt 4: Elite Racing was one of the games offered by the iTunes Store in September 2006. Additional games have been added to the iTunes Store since September 2006. Tetris was one of the games offered by the iTunes Store in September 2006. Vortex was one of the games offered by the iTunes Store in September 2006. Cubis 2 was one of the games offered by the iTunes Store in September 2006. The games offered by the iTunes Store work on the 6th generation iPod Classic. The additional games offered by the iTunes Store were compatible with the fifth generation iPod with iPod software 1.2 or later. The iTunes Store began to offer additional games for purchase in September 2006. The launch of iTunes 7 occurred in September 2006. Bejeweled was one of the games offered by the iTunes Store in September 2006. Pac-Man was one of the games offered by the iTunes Store in September 2006. Mahjong was one of the games offered by the iTunes Store in September 2006."
+    },
+    {
+      "chunk_id": "79c29779-0208-41c9-b131-16fcf461a1d2",
+      "chunk_title": "iPod Nano Overview",
+      "chunk_summary": "This chunk contains information about the iPod Nano, a portable media player designed and marketed by Apple Inc., including its branding, characteristics, release history, technical specifications, and discontinuation.",
+      "context_title": "IPod Nano",
+      "page_content": "Apple Inc. discontinued the iPod Nano on July 27, 2017. The iPod Nano was marketed by Apple Inc. The first generation model of the iPod Nano was introduced on September 7, 2005. The first generation model of the iPod Nano used flash memory for storage. The iPod Nano went through several differing models, or generations, since its introduction. Apple Inc. cited lack of consumer interest in the iPod Nano resulting in poor sales as the reason for discontinuing the product. The iPod Nano is stylized and marketed as iPod nano. The iPod Nano was designed by Apple Inc. The iPod Nano is a portable media player. The first generation model of the iPod Nano was a replacement for the iPod Mini."
+    },
+    {
+      "chunk_id": "bb4835c3-884e-4522-996d-79e4df0f9e60",
+      "chunk_title": "iPod Hardware Connectors",
+      "chunk_summary": "This chunk details the evolution of hardware connectors in iPod models, specifically the capabilities of the 30-pin dock connector and the function of the 3.5 mm minijack across various generations.",
+      "context_title": "IPod",
+      "page_content": "The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a headphone jack. The second-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third generation iPod began including a 30-pin dock connector. The 30-pin dock connector provided better compatibility with non-Apple machines. The 30-pin dock connector allowed for USB connectivity. The 30-pin dock connector allowed for FireWire connectivity. The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a data port for the dock. The fourth-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third-generation iPod Shuffle uses a single 3.5 mm minijack phone connector."
+    },
+    {
+      "chunk_id": "c102f709-eff8-41eb-8de9-df5701698e3f",
+      "chunk_title": "iPod Touch 5G Overview",
+      "chunk_summary": "This chunk contains information about the announcement, release timeline, marketing details, general classification, user interface, and software compatibility of the fifth generation iPod Touch.",
+      "context_title": "IPod Touch (5th generation)",
+      "page_content": "The fifth generation iPod Touch has a touchscreen-based user interface. The fifth generation iPod Touch was unveiled on September 12, 2012. The fifth generation iPod Touch is colloquially known as the iPod Touch 5G. The fifth generation iPod Touch was unveiled at Apple's media event. The fifth generation iPod Touch was designed by Apple Inc. The fifth generation iPod Touch is compatible with up to iOS 9.3.5. The fifth generation iPod Touch is colloquially known as the iPod Touch 5. The fifth generation iPod Touch is stylized and marketed as the iPod touch. The fifth generation iPod Touch succeeded the 4th generation iPod Touch. The fifth generation iPod Touch was released on October 11, 2012. The fifth generation iPod Touch was unveiled alongside the iPhone 5. The fifth generation iPod Touch was marketed by Apple Inc. The fifth generation iPod Touch is an all-purpose pocket computer."
+    },
+    {
+      "chunk_id": "51c0db10-2bc8-4bf1-ab9c-49ccb80ed928",
+      "chunk_title": "Hardware Connectivity Standards",
+      "chunk_summary": "This chunk contains information about changes in hardware connectivity standards for consumer electronics.",
+      "context_title": "IPod",
+      "page_content": "Apple eventually began shipping iPods with USB cables instead of FireWire cables."
+    },
+    {
+      "chunk_id": "4fdb59ac-1226-43ce-b1e3-21a8a4d5bd12",
+      "chunk_title": "Volume Limits",
+      "chunk_summary": "This chunk contains information about user-configurable safety features in electronic devices, specifically volume limits introduced to address hearing loss concerns.",
+      "context_title": "IPod",
+      "page_content": "Apple introduced the user-configurable volume limit in response to concerns about hearing loss. Users report that the maximum volume output level is limited to 100 dB in the sixth-generation iPod in EU markets. Apple introduced a user-configurable volume limit in the fifth-generation iPod."
+    },
+    {
+      "chunk_id": "3c1816a9-e856-4b68-8cda-204513e6928e",
+      "chunk_title": "USB Data Transmission",
+      "chunk_summary": "This chunk contains information about the mechanisms of data transmission in USB protocols, specifically regarding state toggling, line coding methods, bit stuffing techniques, and error detection.",
+      "context_title": "USB",
+      "page_content": "A 0 bit is transmitted by USB by toggling the data lines from J to K or vice versa. USB data is transmitted by toggling the data lines between the J state and the opposite K state. Seven consecutive received 1 bits is always an error in USB. USB uses bit stuffing to ensure a minimum density of signal transitions remains in the bitstream. USB encodes data using the NRZI line coding. A 1 bit is transmitted by USB by leaving the data lines as-is. USB 3.0 has introduced additional data transmission encodings. An extra 0 bit is inserted into the USB data stream after any appearance of six consecutive 1 bits."
+    },
+    {
+      "chunk_id": "d48ac317-6321-4872-8f85-533e1691fb8d",
+      "chunk_title": "iOS Version History",
+      "chunk_summary": "This chunk contains information about the history of iOS software versions, including their build numbers, supported hardware architectures, release dates, and end-of-life status for various devices.",
+      "context_title": "IOS version history",
+      "page_content": "iOS version 3.1.3 reached end-of-life for the 1st generation iPad. iOS version 10.3.3 was released on July 19, 2017. iOS version 7.1.2 reached end-of-life for the iPod Touch. iOS version 5.1.1 was released on May 7, 2012. iOS version 11.3 supports 64-bit ARM processors. iOS version 7.1.2 uses a 32/64-bit kernel. iOS version 3.1.3 has build number 7E18. iOS version 7.1.2 reached end-of-life for the iPhone. iOS version 7.1.2 supports 32/64-bit ARM applications. iOS version 4.2.1 was released on November 22, 2010. iOS version 9.3.5 reached end-of-life for iPad 3. iOS version 7.1.2 reached end-of-life for the iPad. iOS version 6.1.6 has build number 10B500. iOS version 11.3 uses a 64-bit kernel. iOS version 3.1.3 was released on February 2, 2010. iOS version 10.3.3 reached end-of-life for iPhone 5. iOS version 5.1.1 reached end-of-life for the 1st generation iPad. iOS version 11.3 reached end-of-life for the iPad. iOS version 10.3.3 has build number 14G60. The content provides a history of iOS versions. iOS version 6.1.6 reached end-of-life for the 3GS iPhone. iOS version 11.4 Beta 2 reached end-of-life for the iPod Touch. iOS version 7.1.2 was released on June 30, 2014. iOS version 3.1.3 supports 32-bit ARM applications. iOS version 9.3.5 was released on August 25, 2016. iOS version 7.1.2 has build number 11D257. iOS version 11.3 was released on March 29, 2018. iOS version 11.4 Beta 2 has build number 15F5049c. iOS version 3.1.3 reached end-of-life for the iPhone. iOS version 9.3.5 has build number 13G36. iOS version 11.4 Beta 2 was released on April 16, 2018. iOS version 9.3.5 reached end-of-life for iPhone 5. iOS version 4.2.1 reached end-of-life for the 3G iPhone. iOS version 9.3.5 reached end-of-life for iPad Mini 1. iOS version 11.3 reached end-of-life for the iPod Touch. iOS version 6.1.6 was released on February 21, 2014. iOS version 10.3.3 reached end-of-life for iPhone 5C. iOS version 9.3.5 reached end-of-life for iPhone 4S. iOS version 3.1.3 uses a 32-bit kernel. iOS version 11.3 reached end-of-life for the iPhone. iOS version 3.1.3 supports 32-bit ARM processors. iOS version 11.3 has build numbers 15E216 and 15E218. iOS version 11.3 supports 64-bit ARM applications. iOS version 4.2.1 has build number 8C148. iOS version 3.1.3 reached end-of-life for the iPod Touch. iOS version 5.1.1 has build number 9B206. iOS version 7.1.2 supports 32/64-bit ARM processors. iOS version 9.3.5 reached end-of-life for iPad 2. iOS version 11.4 Beta 2 reached end-of-life for the iPhone. iOS version 11.4 Beta 2 reached end-of-life for the iPad."
+    },
+    {
+      "chunk_id": "0b26695a-5359-4134-90a3-a74734859e3c",
+      "chunk_title": "iOS Version History",
+      "chunk_summary": "This chunk contains information about the history of iOS versions, including specific build numbers, processor architectures, release dates, and end-of-life status for various devices, and should be expanded with details on other software version histories.",
+      "context_title": "IOS version history",
+      "page_content": "iOS version 9.3.5 was released on Aug 25, 2016. iOS version 10.3.3 reached end-of-life for iPhone 5. iOS version 6.1.6 reached end-of-life for the iPhone 3GS. iOS version 4.2.1 has build number 8C148. iOS version 9.3.5 reached end-of-life for iPhone 4S. iOS version 9.3.5 reached end-of-life for iPad 2. iOS version 12.0 Public beta 5 has build number 16A5345f. iOS version 6.1.6 has build number 10B500. iOS version 9.3.5 reached end-of-life for iPad Mini 1. iOS version 3.1.3 was released on Feb 2, 2010. iOS version 3.1.3 reached end-of-life for the 1st generation iPad. iOS version 9.3.5 has build number 13G36. iOS version 7.1.2 was released on Jun 30, 2014. iOS version 11.4.1 has build number 15G77. iOS version 5.1.1 has build number 9B206. iOS version 4.2.1 was released on Nov 22, 2010. The content provides a history of iOS versions. iOS version 4.2.1 reached end-of-life for the iPhone 3G. iOS version 9.3.5 reached end-of-life for iPad 3. iOS version 10.3.3 reached end-of-life for iPhone 5C. iOS version 5.1.1 reached end-of-life for the 1st generation iPad. iOS version 3.1.3 reached end-of-life for the 1st generation iPhone. iOS version 7.1.2 supports 32-bit and 64-bit ARM processors. iOS version 12.0 Public beta 5 was released on Aug 7, 2018. iOS version 10.3.3 was released on Jul 19, 2017. iOS version 7.1.2 has build number 11D257. iOS version 11.4.1 was released on Jul 9, 2018. iOS version 10.3.3 has build number 14G60. iOS version 3.1.3 supports 32-bit ARM processors. iOS version 6.1.6 was released on Feb 21, 2014. iOS version 11.4.1 supports 64-bit ARM processors. iOS version 5.1.1 was released on May 7, 2012. iOS version 9.3.5 reached end-of-life for iPod Touch 5. iOS version 3.1.3 has build number 7E18."
+    },
+    {
+      "chunk_id": "121dcc01-1f14-4c23-a3be-a980841358f6",
+      "chunk_title": "Device Feature Reports",
+      "chunk_summary": "This chunk contains information about user reports regarding new features or options found in recently purchased electronic devices, specifically focusing on the ability to disable regulatory volume limits.",
+      "context_title": "IPod",
+      "page_content": "The new option allowed users to disable the EU volume limit on the new sixth-generation iPod. Users that have bought a new sixth-generation iPod in late 2013 have reported a new option."
+    },
+    {
+      "chunk_id": "378d1fd0-7868-4be9-9f67-befd9ab1bfad",
+      "chunk_title": "iPod Software Updates",
+      "chunk_summary": "This chunk contains information about software updates for specific iPod generations, focusing on the ability to modify regional volume restrictions and compatibility limitations.",
+      "context_title": "IPod",
+      "page_content": "It has been said that the new sixth-generation iPods came with an updated software. Older sixth-generation iPods are unable to update to the software version that allows disabling the EU volume limit. The updated software allowed the change to disable the EU volume limit."
+    },
+    {
+      "chunk_id": "9ec45488-f5c8-4edc-a22b-9646ab2bac66",
+      "chunk_title": "iPad Launch Dates",
+      "chunk_summary": "This chunk contains information about the announcement, unveiling, and release dates of the first-generation iPad across various regions.",
+      "context_title": "IPad (1st generation)",
+      "page_content": "The IPad (1st generation) was announced on January 27, 2010. The IPad (1st generation) was released in Spain on May 28, 2010. The IPad (1st generation) was unveiled on January 27, 2010. The IPad (1st generation) was released in France on May 28, 2010. The Wi-Fi variant of the IPad (1st generation) was released in the United States on April 3, 2010. The IPad (1st generation) was released in Japan on May 28, 2010. The IPad (1st generation) was released in Germany on May 28, 2010. The IPad (1st generation) was released in the United Kingdom on May 28, 2010. The Wi-Fi + Cellular variant of the IPad (1st generation) was released on April 30, 2010. The IPad (1st generation) was released in Australia on May 28, 2010. The announcement and unveiling of the IPad (1st generation) took place at a media conference. The IPad (1st generation) was released in Canada on May 28, 2010. The IPad (1st generation) was released in Switzerland on May 28, 2010. The IPad (1st generation) was released in Italy on May 28, 2010."
+    },
+    {
+      "chunk_id": "681aa8d4-febf-48c5-bcad-a9d61f5dcd6a",
+      "chunk_title": "Germanic Conquests & Roman Decline",
+      "chunk_summary": "This chunk details the decline of the Roman Empire and the subsequent rise, territorial expansion, and eventual loss of power by Germanic tribes, specifically covering Vandal conquests in North Africa and the Mediterranean islands during the 5th century AD, followed by the Ostrogothic takeover and conflicts with the Eastern Roman Empire.",
+      "context_title": "Palermo",
+      "page_content": "The Vandals had occupied all the Roman provinces in North Africa by 455 AD. The Gothic War took place between the Ostrogoths and the Eastern Roman Empire. General Belisarius was commissioned by the Eastern Emperor. The Germanic Goths did not support Roman culture and government like Theodoric the Great did. The Vandals controlled Palermo in 440 AD. The Vandals were the first Germanic tribe to control Palermo. Palermo fell under the control of several Germanic tribes as the Roman Empire was falling apart. The Roman Empire was falling apart. The Vandals acquired Sardinia shortly after 455 AD. The Ostrogothic conquest began in 488. The Vandals soon lost their newly acquired possessions to the Ostrogoths. The Vandals acquired Corsica shortly after 455 AD. The Vandals acquired Sicily shortly after 455 AD. The Vandals established themselves as a significant force by 455 AD. Sicily was the first part of Italy to be taken under the control of General Belisarius. Theodoric the Great led the Ostrogothic conquest. Theodoric the Great supported Roman culture and government."
+    },
+    {
+      "chunk_id": "fdbf1835-a326-4e8c-81b0-fb1805a93d73",
+      "chunk_title": "US Ranger Program",
+      "chunk_summary": "This chunk contains information about the US Ranger program, managed by JPL as a response to Soviet lunar efforts, including specific mission details, spacecraft specifications, and launch outcomes.",
+      "context_title": "Space Race",
+      "page_content": "Block III Ranger 7 weighed 806 pounds (366 kg). Block II Ranger 3 missed the Moon. Block II Ranger 3 launched successfully on January 26, 1962. Ranger 4's navigational system failed near the Moon. Ranger 5 missed the Moon by 725 kilometers (391 nmi) on October 21, 1962. Ranger 4 did not return any scientific data. Block II Ranger 3 weighed 727 pounds (330 kg). The Ranger program was managed by NASA's Jet Propulsion Laboratory. Ranger 4 weighed 730 pounds (330 kg). Block I Ranger 1 suffered an Atlas-Agena launch failure in August 1961. Ranger 4 impacted the far side of the Moon. Block III Ranger 7 impacted the Moon on July 31, 1964. Ranger 4 became the first US spacecraft to reach the Moon. The US reacted to the Luna program by embarking on the Ranger program in 1959. Block III Ranger 7 was the first successful Ranger mission. Ranger 4's solar panels failed near the Moon. Ranger 5 ran out of power. Block I Ranger 2 suffered an Atlas-Agena launch failure in November 1961."
+    },
+    {
+      "chunk_id": "e9c6e09f-1329-44bc-8666-39baf573bba2",
+      "chunk_title": "x86 Architecture Generations",
+      "chunk_summary": "This chunk contains information about x86 architecture generations, including their naming conventions, historical timelines, and industry adoption trends.",
+      "context_title": "Windows 8",
+      "page_content": "x86 2nd generation was first conceived in 1978. Microsoft started moving away from x86 2nd generation architecture after Windows 95. x86 architecture 3rd generation is known as IA-32."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.52,
+  "retrieval_count": 6,
+  "total_chunks": 25,
+  "total_distinct_titles": 12,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立 iPod 兼容 USB 的具体代际",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_1 已解决（USB），但核心子节点 N1_2 未解决（无答案）。推理链在 N1_2 处断裂，无法合成 ROOT 答案。",
+          "critic_normative_advice": "建议等待 N1_2 解决。当前结构依赖 N1_2 提供关键事实（代际），需优先处理 N1_2 的搜索策略调整。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the object designed to standardize connection of computer peripherals?",
+          "answer": "USB",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the object designed to standardize connection of computer peripherals?",
+          "planner_rationale": "Q 中提到 'the object designed to standardize connection of computer peripherals'，这是一个指代对象。为了准确搜索 iPod 的兼容性历史，首先需要明确这个对象具体是什么（极大概率是 USB，但需确认）",
+          "solver_judgment": "question 要求找出旨在标准化计算机外设连接的对象。search_query 直接搜索了该问题。chunks 返回了关于 USB 的信息，其中 chunk_6d9bf546-16a1-417c-8323-061cfcebabc1 明确指出 \"USB was designed to standardize the connection of computer peripherals to personal computers\"（USB 被设计用于标准化计算机外设与个人计算机的连接）。这直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 USB），直接且具体地陈述了 'USB was designed to standardize the connection of computer peripherals'。虽然只有单来源，但表述明确，与问题完全匹配。其他检索结果虽来自不同文档但未提供冲突信息。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案 'USB' 可靠，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which generation of iPod first provided compatibility with USB?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "Which generation of iPod first provided compatibility with USB?",
+          "planner_rationale": "这是 Q 的核心询问点。一旦明确了 'object' 是 USB，就需要搜索哪一代 iPod 开始支持 USB 连接",
+          "solver_judgment": "question 要求找出第一代提供 USB 兼容性的 iPod 是哪一代。search_query 搜索了 'Which generation of iPod first provided compatibility with USB?'。chunks 返回了关于 FireWire 演变、软件界面、游戏兼容性、Nano 概述、硬件连接器（30-pin dock connector）、Touch 5G 概述、USB 线缆替换 FireWire 以及音量限制的信息。\n\n具体来看：\n- chunk [bb4835c3-884e-4522-996d-79e4df5701698e3f] 提到 \"The third-generation iPod began including a 30-pin dock connector... The 30-pin dock connector allowed for USB connectivity.\" 这表明第三代 iPod 通过 30-pin 接口支持 USB，但并未明确说明它是*第一*代支持 USB 的 iPod（早期 iPod 可能通过其他接口或方式支持 USB，或者该 chunk 仅描述了 30-pin 接口的特性而非 USB 兼容性的历史起点）。\n- chunk [cfb2390d-9a49-43a0-b6f1-f05b6de6549a] 和 [51c0db10-2bc8-4bf1-ab9c-49ccb80ed928] 讨论了从 FireWire 到 USB 的转变，提到 \"Apple eventually began shipping iPods with USB cables instead of FireWire cables\" 以及 FireWire 数据传输在特定世代被停用，但没有明确指出哪一代是*首次*提供 USB 兼容性。\n- 实际上，第一代和第二代 iPod 也支持 USB（主要用于充电或低速数据传输，尽管主要数据接口是 FireWire），或者至少第三代不是绝对的“第一”。更重要的是，提供的 chunks 中没有明确的语句指出 \"The Xth generation iPod was the first to provide compatibility with USB\"。chunk [bb4835c3...] 仅说明第三代开始包含支持 USB 的 30-pin 接口，这不足以确证它是“第一代提供 USB 兼容性”的机型，因为之前的机型可能通过其他方式兼容，或者该描述仅针对 30-pin 接口引入后的情况。鉴于缺乏明确的“第一代”声明，无法从现有 chunks 中确切提取答案。\n\n检索缺口：chunks 提供了关于 USB 和 FireWire 演变的片段信息，特别是第三代引入 30-pin 接口支持 USB，但未明确回答“哪一代是*首先*提供 USB 兼容性”这一历史性事实，也未排除前几代的可能性。因此无法提取确切答案。",
+          "critic_factual_notes": "8 个检索结果，3 个独立来源（IPod, IPod Nano, IPod Touch）。Solver 正确指出缺乏明确的 'first generation' 声明。Chunk [bb4835c3...] 提到第三代引入支持 USB 的 30-pin 接口，但这不等于 '首次兼容 USB'（早期 iPod 可能通过 FireWire/USB 双接口或仅充电兼容）。现有证据不足以确定 'first'，存在语义缺口。",
+          "critic_normative_advice": "建议重搜——当前查询 'Which generation of iPod first provided compatibility with USB?' 返回的结果多为演变历史而非明确的 '首发' 声明。建议尝试更具体的查询，如 'iPod generation USB support history' 或 'Did 1st gen iPod support USB?'，或拆分搜索各代 iPod 的接口规格以进行排除法验证。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立 iPod 兼容 USB 的具体代际",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_1 已解决（USB），但核心子节点 N1_2 的推理链存在逻辑缺陷（见 N1_2 审查）。虽然 N1_2 状态为 solved，但其声称的答案 '3rd generation' 与支撑证据及问题语义不完全匹配，导致 ROOT 无法可靠合成答案。",
+          "critic_normative_advice": "建议等待 N1_2 修正。当前 N1_2 的证据仅证明第3代支持 USB，未证明它是‘第一代’支持的。需确认第1、2代是否不支持 USB 数据传输，或找到明确说明‘第X代首次引入 USB’的证据。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the object designed to standardize connection of computer peripherals?",
+          "answer": "USB",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the object designed to standardize connection of computer peripherals?",
+          "planner_rationale": "已确认为 USB，证据充分且 Critic 判为 healthy，直接保留作为 N1_2 的依赖源",
+          "solver_judgment": "question 要求找出旨在标准化计算机外设连接的对象。search_query 直接搜索了该问题。chunks 返回了关于 USB 的信息，其中 chunk_6d9bf546-16a1-417c-8323-061cfcebabc1 明确指出 \"USB was designed to standardize the connection of computer peripherals to personal computers\"（USB 被设计用于标准化计算机外设与个人计算机的连接）。这直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 USB），直接且具体地陈述了 'USB was designed to standardize the connection of computer peripherals'。虽然只有单来源，但表述明确，与问题完全匹配。其他检索结果虽来自不同文档但未提供冲突信息。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案 'USB' 可靠，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Did the 1st, 2nd, or 3rd generation iPod support USB connectivity for data transfer?",
+          "answer": "3rd generation iPod",
+          "status": "solved",
+          "health": "unreliable",
+          "search_query": "Did the 1st, 2nd, or 3rd generation iPod support USB connectivity for data transfer?",
+          "planner_rationale": "上一轮搜索 'Which generation... first...' 返回了模糊的演变历史而非明确的‘首发’声明。Critic 建议通过排除法或针对早期世代的具体规格进行验证。将问题改为针对前几代（1st, 2nd, 3rd）是否支持 USB 数据传输的具体询问，旨在从 KB 中提取各代的具体接口能力，从而通过对比确定‘第一代支持 USB’的机型。",
+          "solver_judgment": "question 要求确认第1、2或3代iPod中哪一代支持USB数据传输。search_query 搜索了相同的问题。chunks 中，chunk bb4835c3-884e-4522-996d-79e4df0f9e60 明确指出 \"The third generation iPod began including a 30-pin dock connector... The 30-pin dock connector allowed for USB connectivity.\"（第三代iPod开始包含30针底座连接器……该连接器允许USB连接）。虽然文中未明确排除第1、2代（通常它们主要依赖FireWire，USB仅用于充电或需特定适配器，且早期型号对USB数据传输支持有限或不直接支持），但chunk直接证实了第3代通过新的连接器标准支持USB连接（隐含数据传输能力，结合上下文对比FireWire的淘汰）。其他chunks主要涉及FireWire的停用时间、游戏兼容性或iOS版本，未直接回答哪一代*开始*或*明确*支持USB数据传输作为主要特性。因此，基于现有chunk，第3代是明确被提及支持USB连接的世代。",
+          "critic_factual_notes": "Solver 声称答案为 '3rd generation iPod'，理由是 chunk bb4835c3... 指出第3代开始包含允许 USB 连接的 30-pin 接口。然而，问题询问的是 'Did the 1st, 2nd, or 3rd... support...'（哪一代支持）或隐含的 'Which generation first...'。Chunk 仅证实第3代支持，未提及第1、2代是否支持。事实上，第1、2代 iPod 也支持 USB（通常用于充电，部分型号/模式下可传输数据，或通过 FireWire/USB 双模）。更关键的是，chunk 并未排除第1、2代支持 USB 的可能性，也未声明第3代是‘首次’。因此，从‘第3代支持’推导出‘答案是第3代’（隐含‘首次’或‘唯一’）属于过度推断。此外，若问题仅是‘哪一代支持’，则1、2、3代可能都支持，答案不应仅为‘3rd’。若问题是‘哪一代首次支持’，则缺乏对1、2代的否定证据。",
+          "critic_normative_advice": "建议重搜或修正推理。当前证据不足以支撑‘3rd generation’作为‘首次’或‘唯一’支持 USB 的答案。需搜索：'Did iPod 1st generation support USB data transfer?' 和 'Did iPod 2nd generation support USB data transfer?' 以进行排除法验证。或者搜索 'iPod first generation with USB data transfer' 获取直接陈述。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立 iPod 兼容 USB 的具体代际",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_1 已解决（USB），但核心子节点 N1_2 的推理链存在逻辑缺陷（见 N1_2 审查）。虽然 N1_2 状态为 solved，但其声称的答案 '3rd generation' 与支撑证据及问题语义不完全匹配，导致 ROOT 无法可靠合成答案。",
+          "critic_normative_advice": "建议等待 N1_2 修正。当前 N1_2 的证据仅证明第3代支持 USB，未证明它是‘第一代’支持的。需确认第1、2代是否不支持 USB 数据传输，或找到明确说明‘第X代首次引入 USB’的证据。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the object designed to standardize connection of computer peripherals?",
+          "answer": "USB",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the object designed to standardize connection of computer peripherals?",
+          "planner_rationale": "已确认为 USB，证据充分且 Critic 判为 healthy，直接保留作为 N1_2 的依赖源",
+          "solver_judgment": "question 要求找出旨在标准化计算机外设连接的对象。search_query 直接搜索了该问题。chunks 返回了关于 USB 的信息，其中 chunk_6d9bf546-16a1-417c-8323-061cfcebabc1 明确指出 \"USB was designed to standardize the connection of computer peripherals to personal computers\"（USB 被设计用于标准化计算机外设与个人计算机的连接）。这直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 USB），直接且具体地陈述了 'USB was designed to standardize the connection of computer peripherals'。虽然只有单来源，但表述明确，与问题完全匹配。其他检索结果虽来自不同文档但未提供冲突信息。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案 'USB' 可靠，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which generation of iPod was the first to support USB data transfer?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "first iPod generation to support USB data transfer",
+          "planner_rationale": "上一轮的是非题形式导致 Solver 未能正确执行排除法或寻找‘首次’证据，而是给出了不充分的单选答案。Critic 建议需确认‘首次’或对各代进行明确验证。恢复为直接询问‘首次’的问题，期望 Solver 能检索到如 \"The Xth generation was the first to include USB...\" 的直接陈述，或更清晰的对比证据。",
+          "solver_judgment": "question 要求找出第一款支持 USB 数据传输的 iPod 世代。search_query 搜索了 'first iPod generation to support USB data transfer'。chunks 返回的信息主要集中在 FireWire 的停用（chunk cfb2390d... 提到第三代 iPod 时大多数非 Apple 机器没有 FireWire 端口，以及从第一代 iPod Nano 开始停用 FireWire 数据传输）、30-pin 接口引入 USB 连接能力（chunk bb4835c3... 提到第三代 iPod 开始包含 30-pin 接口，该接口允许 USB 连接），但并未明确说明哪一代是“第一款”支持 USB 数据传输的 iPod。虽然 chunk bb4835c3 暗示第三代 iPod 通过 30-pin 接口支持 USB，且 chunk cfb2390d 暗示此前主要依赖 FireWire，但缺乏直接陈述“第 X 代 iPod 是第一款支持 USB 数据传输”的确凿证据，且早期 iPod（如第一代、第二代）是否通过其他形式（如早期的 30-pin 或专用接口前的 FireWire/USB 混合情况）支持 USB 未在 chunks 中清晰界定以确认“第一”。实际上，历史事实是第二代 iPod 开始支持 USB（尽管主要是 FireWire，但二代后期或特定版本可能涉及 USB 过渡，或者通常认为第三代是全面转向 USB/30-pin 的关键点，但 chunks 未明确“First”）。更关键的是，chunks 没有直接回答“Which generation was the FIRST”。chunk bb4835c3 说 \"The third generation iPod began including a 30-pin dock connector... allowed for USB connectivity\"，这暗示第三代支持 USB，但未排除更早世代的可能性（例如第二代是否已有 USB 支持但未在 chunks 中提及）。因此，基于严格依据 chunk 内容的原则，无法确证“第一款”是哪一代，因为缺少对第一代、第二代 USB 支持情况的明确否定或肯定描述来确立“第一”的顺序。检索存在缺口，未提供完整的代际对比以确定“第一”。",
+          "critic_factual_notes": "Solver 判断指出 chunks 未明确说明哪一代是“第一款”支持 USB 数据传输的 iPod。chunk bb4835c3 提到第三代 iPod 开始包含 30-pin 接口并允许 USB 连接，但这暗示而非确证“第一”。缺乏对第一代、第二代 USB 支持情况的明确否定或肯定描述来确立“第一”的顺序。检索存在缺口，未提供完整的代际对比以确定“第一”。",
+          "critic_normative_advice": "建议重搜——当前搜索未找到明确的“first generation”陈述。尝试更具体的查询，如 'iPod generation history USB support timeline' 或 'did iPod 1st 2nd generation support USB'。需要排除早期世代或找到明确的起始点声明。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立 iPod 兼容 USB 的具体代际",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_1 已解决（USB），但核心子节点 N1_2 的推理链存在逻辑缺陷（见 N1_2 审查）。虽然 N1_2 状态为 solved，但其声称的答案 '3rd generation' 与支撑证据及问题语义不完全匹配，导致 ROOT 无法可靠合成答案。",
+          "critic_normative_advice": "建议等待 N1_2 修正。当前 N1_2 的证据仅证明第3代支持 USB，未证明它是‘第一代’支持的。需确认第1、2代是否不支持 USB 数据传输，或找到明确说明‘第X代首次引入 USB’的证据。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the object designed to standardize connection of computer peripherals?",
+          "answer": "USB",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the object designed to standardize connection of computer peripherals?",
+          "planner_rationale": "已确认为 USB，证据充分且 Critic 判为 healthy，直接保留作为 N1_2 的依赖源",
+          "solver_judgment": "question 要求找出旨在标准化计算机外设连接的对象。search_query 直接搜索了该问题。chunks 返回了关于 USB 的信息，其中 chunk_6d9bf546-16a1-417c-8323-061cfcebabc1 明确指出 \"USB was designed to standardize the connection of computer peripherals to personal computers\"（USB 被设计用于标准化计算机外设与个人计算机的连接）。这直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 USB），直接且具体地陈述了 'USB was designed to standardize the connection of computer peripherals'。虽然只有单来源，但表述明确，与问题完全匹配。其他检索结果虽来自不同文档但未提供冲突信息。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案 'USB' 可靠，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Did the 1st and 2nd generation iPods support USB data transfer?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Did the 1st and 2nd generation iPods support USB data transfer?",
+          "planner_rationale": "上一轮直接询问 'first generation' 未能检索到明确的排他性证据。Critic 指出需要确认早期世代（1、2代）是否不支持 USB 以确立 'first'。将问题改为针对早期世代的验证，若答案为否，则结合第3代支持 USB 的证据（已在 chunks 中暗示），可逻辑推导出第3代为首次。",
+          "solver_judgment": "question 要求确认第一代和第二代 iPod 是否支持 USB 数据传输。search_query 搜索了 'Did the 1st and 2nd generation iPods support USB data transfer?'。然而，chunks 返回的内容主要涉及 FireWire 连接的演变（cfb2390d-9a49-43a0-b6f1-f05b6de6549a），提到苹果后来开始随 iPod 附带 USB 线缆而不是 FireWire 线缆（51c0db10-2bc8-4bf1-ab9c-49ccb80ed928），以及从某一代开始停用 FireWire 进行数据传输。但是，没有任何 chunk 明确说明第一代或第二代 iPod 本身是否具备通过 USB 进行数据传输的能力（早期 iPod 通常仅使用 FireWire 进行数据同步，USB 仅用于充电，或者后期型号才支持 USB 数据）。检索结果缺乏关于第 1 代和第 2 代 iPod 具体数据接口协议的关键事实，存在信息缺口。",
+          "critic_factual_notes": "搜索返回 8 个 chunk，但无一明确回答 'Did the 1st and 2nd generation iPods support USB data transfer?'。Chunk cfb2390d 讨论 FireWire 演变，51c0db10 讨论硬件连接标准变化，均未提及 1/2 代 iPod 的 USB 数据能力。Solver 判断也承认 '缺乏关于第 1 代和第 2 代 iPod 具体数据接口协议的关键事实'。由于关键证据缺失，无法得出可靠结论（是/否）。",
+          "critic_normative_advice": "建议换搜索方向——当前针对 '1st and 2nd generation' 的直接查询未能命中 KB 中的具体技术规格。建议尝试搜索 'iPod 3rd generation USB support first time' 或 'iPod generations USB vs FireWire timeline'，试图从正面确认 '首次' 的声明，而非通过排除法验证早期世代（因为早期世代的负面证据在 KB 中可能缺失）。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立 iPod 兼容 USB 的具体代际",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_1 已解决（USB），但核心子节点 N1_2 的推理链存在逻辑缺陷（见 N1_2 审查）。虽然 N1_2 状态为 solved，但其声称的答案 '3rd generation' 与支撑证据及问题语义不完全匹配，导致 ROOT 无法可靠合成答案。",
+          "critic_normative_advice": "建议等待 N1_2 修正。当前 N1_2 的证据仅证明第3代支持 USB，未证明它是‘第一代’支持的。需确认第1、2代是否不支持 USB 数据传输，或找到明确说明‘第X代首次引入 USB’的证据。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the object designed to standardize connection of computer peripherals?",
+          "answer": "USB",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the object designed to standardize connection of computer peripherals?",
+          "planner_rationale": "已确认为 USB，证据充分且 Critic 判为 healthy，直接保留作为 N1_2 的依赖源",
+          "solver_judgment": "question 要求找出旨在标准化计算机外设连接的对象。search_query 直接搜索了该问题。chunks 返回了关于 USB 的信息，其中 chunk_6d9bf546-16a1-417c-8323-061cfcebabc1 明确指出 \"USB was designed to standardize the connection of computer peripherals to personal computers\"（USB 被设计用于标准化计算机外设与个人计算机的连接）。这直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 USB），直接且具体地陈述了 'USB was designed to standardize the connection of computer peripherals'。虽然只有单来源，但表述明确，与问题完全匹配。其他检索结果虽来自不同文档但未提供冲突信息。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案 'USB' 可靠，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which generation of iPod was the first to support USB data transfer?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "unreliable",
+          "search_query": "first iPod generation to support USB data transfer",
+          "planner_rationale": "上一轮尝试通过验证 1/2 代不支持 USB 来间接推导（排除法），但 KB 缺乏早期世代的明确否定证据，导致 BLOCKED。Critic 建议转为寻找‘首次引入’的正面证据。因此重置 N1_2 为直接询问‘哪一代首次支持’，期望 KB 中存在如‘3rd gen introduced USB’的直接陈述。",
+          "solver_judgment": "question 要求找出第一款支持 USB 数据传输的 iPod 世代。search_query 搜索了 'first iPod generation to support USB data transfer'。chunks 返回的信息主要集中在 FireWire 的停用（chunk cfb2390d... 提到第三代 iPod 时大多数非 Apple 机器没有 FireWire 端口，且从第一代 iPod Nano 开始停用 FireWire 数据传输）、30-pin 接口引入 USB 连接（chunk bb4835c3... 提到第三代 iPod 开始包含 30-pin 接口并允许 USB 连接），以及各代 iPod 的其他特性。虽然 chunk bb4835c3... 指出第三代 iPod 引入了允许 USB 连接的 30-pin 接口，但并未明确说明它是“第一款”支持 USB 数据传输的 iPod（实际上第一代和第二代 iPod 也通过 FireWire/USB 组合或特定线缆支持 USB，或者早期型号已有 USB 支持但主要依赖 FireWire）。更关键的是，没有任何 chunk 明确陈述 \"The Xth generation iPod was the first to support USB data transfer\"。chunk cfb2390d... 暗示在第三代 iPod 时期 FireWire 并不普及，Apple 后来停用了 FireWire 数据传输，但这不等于说明哪一代是“第一个”支持 USB 的。通常历史事实是初代 iPod 就支持 USB（尽管速度慢，主要用 FireWire），或者第二代/第三代明确了 USB 支持。由于缺乏明确的“第一代支持 USB”的声明，且现有片段侧重于 FireWire 的淘汰和接口变化，无法从提供的 chunks 中确切提取出“哪一代是第一个”这一排他性事实。因此，无法提取确切答案。",
+          "critic_factual_notes": "Solver 声称答案为 '(未找到)'，但节点状态标记为 'unsolved' 且健康度为 '未审查'。然而，根据 §3 详情，Solver 判断中明确指出 '无法从提供的 chunks 中确切提取出“哪一代是第一个”这一排他性事实'，且检索结果摘要显示主要讨论 FireWire 停用和接口变化，缺乏明确的 'first to support USB' 陈述。更关键的是，ROOT 的事实笔记中提到 N1_2 声称答案是 '3rd generation'，这与 N1_2 自身的 '未找到' 矛盾。若以 Solver 判断为准，则答案缺失；若以 ROOT 笔记为准，则答案 '3rd generation' 缺乏直接证据支撑（chunk bb4835c3 仅说第3代引入 30-pin 允许 USB 连接，未说它是第一代支持 USB 的）。综合来看，证据不足以支撑 '3rd generation' 为 'first' 的结论，且存在内部状态不一致。",
+          "critic_normative_advice": "建议重搜或调整查询策略。当前查询 'first iPod generation to support USB data transfer' 未返回明确答案。尝试搜索 'iPod generation history USB support' 或 'when did iPod start using USB instead of FireWire'。需区分 '支持 USB'（可能早期就有但慢）和 '主要使用 USB/首次引入 USB 端口'。若 KB 确实无 'first' 的直接陈述，可能需要通过对比第1、2、3代的接口规格来推理，但这需要更详细的硬件规格 chunk。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the object designed to standardize connection of computer peripherals?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6d9bf546-16a1-417c-8323-061cfcebabc1",
+        "4198adc5-f51b-42fd-a044-96b81c3f5c47",
+        "d883bd22-f669-4af7-8ff4-bd7d4b59dc2d",
+        "a304dc72-a794-4f1b-a2cc-89cf01d259a5",
+        "a922dd1e-ea30-4bec-b8e4-b1a0db72722b",
+        "f981fe59-d445-4a7b-8aaa-d6e942eeb8ff",
+        "ca2fafa8-12e6-4d8b-a696-177d316799c8",
+        "261b72ad-d6f3-452d-a03b-365aa1647f24"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Which generation of iPod first provided compatibility with USB?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "cfb2390d-9a49-43a0-b6f1-f05b6de6549a",
+        "e112ca5f-e322-4828-bfc4-024f78701ff2",
+        "8231e6ac-512a-4b28-b12c-19b52eb7dd5c",
+        "79c29779-0208-41c9-b131-16fcf461a1d2",
+        "bb4835c3-884e-4522-996d-79e4df0f9e60",
+        "c102f709-eff8-41eb-8de9-df5701698e3f",
+        "51c0db10-2bc8-4bf1-ab9c-49ccb80ed928",
+        "4fdb59ac-1226-43ce-b1e3-21a8a4d5bd12"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "Did the 1st, 2nd, or 3rd generation iPod support USB connectivity for data transfer?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "cfb2390d-9a49-43a0-b6f1-f05b6de6549a",
+        "8231e6ac-512a-4b28-b12c-19b52eb7dd5c",
+        "bb4835c3-884e-4522-996d-79e4df0f9e60",
+        "79c29779-0208-41c9-b131-16fcf461a1d2",
+        "3c1816a9-e856-4b68-8cda-204513e6928e",
+        "e112ca5f-e322-4828-bfc4-024f78701ff2",
+        "d48ac317-6321-4872-8f85-533e1691fb8d",
+        "0b26695a-5359-4134-90a3-a74734859e3c"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "first iPod generation to support USB data transfer",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "cfb2390d-9a49-43a0-b6f1-f05b6de6549a",
+        "79c29779-0208-41c9-b131-16fcf461a1d2",
+        "e112ca5f-e322-4828-bfc4-024f78701ff2",
+        "bb4835c3-884e-4522-996d-79e4df0f9e60",
+        "4fdb59ac-1226-43ce-b1e3-21a8a4d5bd12",
+        "8231e6ac-512a-4b28-b12c-19b52eb7dd5c",
+        "c102f709-eff8-41eb-8de9-df5701698e3f",
+        "121dcc01-1f14-4c23-a3be-a980841358f6"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "Did the 1st and 2nd generation iPods support USB data transfer?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "cfb2390d-9a49-43a0-b6f1-f05b6de6549a",
+        "51c0db10-2bc8-4bf1-ab9c-49ccb80ed928",
+        "378d1fd0-7868-4be9-9f67-befd9ab1bfad",
+        "9ec45488-f5c8-4edc-a22b-9646ab2bac66",
+        "3c1816a9-e856-4b68-8cda-204513e6928e",
+        "681aa8d4-febf-48c5-bcad-a9d61f5dcd6a",
+        "fdbf1835-a326-4e8c-81b0-fb1805a93d73",
+        "e9c6e09f-1329-44bc-8666-39baf573bba2"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "first iPod generation to support USB data transfer",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "cfb2390d-9a49-43a0-b6f1-f05b6de6549a",
+        "79c29779-0208-41c9-b131-16fcf461a1d2",
+        "e112ca5f-e322-4828-bfc4-024f78701ff2",
+        "bb4835c3-884e-4522-996d-79e4df0f9e60",
+        "4fdb59ac-1226-43ce-b1e3-21a8a4d5bd12",
+        "8231e6ac-512a-4b28-b12c-19b52eb7dd5c",
+        "c102f709-eff8-41eb-8de9-df5701698e3f",
+        "121dcc01-1f14-4c23-a3be-a980841358f6"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the object designed to standardize connection of computer peripherals?（理由：Q 中使用了描述性指代，需先解析该对象身份，通常为 USB），F2: Which generation of iPod first provided compatibility with USB?（理由：这是 Q 的核心问题，即 iPod 哪一代开始支持该标准连接）。关系: F1 是 F2 的前置条件（dependency——F2 的搜索依赖于 F1 确认的对象名称，虽然人类常识知道是 USB，但为了严谨性和消解指代，建立依赖关系），F1 和 F2 都是 Q 的分解产物（decomposition）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：首先识别 Q 中的指代对象 'object designed to standardize connection of computer peripherals'，将其解析为具体技术标准（如 USB）；然后基于该标准查询 iPod 的产品迭代历史，确定首次兼容的代际。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的健康状态为 needs_verification（未找到确切答案），导致 ROOT 节点也无法健康。虽然推理链语义匹配（条件②通过），但关键事实缺失，无法生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the object designed to standardize connection of computer peripherals?（理由：解析 Q 中的指代对象，已确认为 USB），F2: Did the 1st, 2nd, or 3rd generation iPod support USB connectivity for data transfer?（理由：这是 Q 的核心询问点，通过具体查询早期世代的 USB 支持情况，以确定哪一代是‘首先’提供兼容性的）。关系: F1 是 F2 的前置条件（dependency——F2 的搜索依赖于 F1 确认的对象名称 'USB'），F1 和 F2 都是 Q 的分解产物（decomposition）。",
+      "hypothesis_delta": "新增: 无。\n删除: 无。\n换标: N1_2 question 从 \"Which generation of iPod first provided compatibility with USB?\" 改为 \"Did the 1st, 2nd, or 3rd generation iPod support USB connectivity for data transfer?\"，原因：上一轮搜索未能找到明确的“第一代”声明，Critic 指出证据不足且存在语义缺口。新问题旨在通过针对早期世代（1st-3rd）的具体规格查询，利用排除法或直接证据来确定 USB 兼容性的起始代际，避免模糊的历史演变描述。\n新增边: 无（保持原有结构）。\n撤销边: 无。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的 critic_health 为 unreliable。其声称的答案 '3rd generation' 缺乏充分证据支撑（仅证明第3代支持，未证明是首次或未排除前代）。推理链在 N1_2 处存在逻辑断裂，无法可靠合成 ROOT 答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the object designed to standardize connection of computer peripherals?（理由：解析 Q 中的指代对象，已确认为 USB），F2: Which generation of iPod was the first to support USB data transfer?（理由：这是 Q 的核心询问点，需明确‘首次’提供兼容性的代际）。关系: F1 是 F2 的前置条件（dependency——F2 的搜索依赖于 F1 确认的对象名称 'USB'），F1 和 F2 都是 Q 的分解产物（decomposition）。",
+      "hypothesis_delta": "新增: 无。\n删除: 无。\n换标: N1_2 question 从 \"Did the 1st, 2nd, or 3rd generation iPod support USB connectivity for data transfer?\" 改为 \"Which generation of iPod was the first to support USB data transfer?\"，原因：上一轮的是非题形式导致 Solver 未能正确执行排除法或寻找‘首次’证据，而是给出了不充分的单选答案。Critic 建议需确认‘首次’或对各代进行明确验证。恢复为直接询问‘首次’的问题，期望 Solver 能检索到如 \"The Xth generation was the first to include USB...\" 的直接陈述，或更清晰的对比证据。\n新增边: 无（保持原有结构，补全 LINK 原语以通过验证）。\n撤销边: 无。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 节点的 critic_health 为 needs_verification，因为现有证据未能确证‘第一代’支持 USB 的 iPod 是哪一代。条件①也未满足（N1_2 状态为 unsolved）。推理链语义匹配（条件②）已通过，但证据质量不足阻碍终止。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the object designed to standardize connection of computer peripherals?（理由：解析 Q 中的指代对象，已确认为 USB），F2: Did the 1st and 2nd generation iPods support USB data transfer?（理由：通过验证早期世代不支持 USB，结合已知第3代支持 USB 的事实，确立第3代为首次支持 USB 的代际）。关系: F1 是 F2 的前置条件（dependency——F2 的搜索依赖于 F1 确认的对象名称 'USB'），F1 和 F2 都是 Q 的分解产物（decomposition）。",
+      "hypothesis_delta": "新增: 无。\n删除: 无。\n换标: N1_2 question 从 \"Which generation of iPod was the first to support USB data transfer?\" 改为 \"Did the 1st and 2nd generation iPods support USB data transfer?\"，原因：上一轮直接询问 'first' 导致 Solver 返回模糊证据（仅确认第3代支持，未排除更早世代）。Critic 建议需确认早期世代是否不支持。改为验证早期世代（1、2代）的 USB 支持情况，若证实不支持，则可逻辑推断第3代为首次。这是一种通过排除法确立 'first' 的策略调整。\n新增边: 无。\n撤销边: 无。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的 critic_health 为 blocked（证据缺失，无法回答 1/2 代是否支持 USB）。条件①也未满足（N1_2 未 SOLVED）。推理链在 N1_2 处断裂，无法确定 'start' 的具体代际。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the object designed to standardize connection of computer peripherals?（理由：解析 Q 中的指代对象，已确认为 USB），F2: Which generation of iPod was the first to support USB data transfer?（理由：Q 的核心询问——iPod 从哪一代开始兼容该对象。策略调整为直接寻找‘首次支持’的正面证据，而非验证早期世代的不支持）。关系: F1 是 F2 的前置条件（dependency——F2 的搜索依赖于 F1 确认的对象名称 'USB' 以构建精确查询），F1 和 F2 都是 Q 的分解产物（decomposition）。",
+      "hypothesis_delta": "换标: N1_2 question 从 \"Did the 1st and 2nd generation iPods support USB data transfer?\" 改为 \"Which generation of iPod was the first to support USB data transfer?\"，原因：上一轮的排除法策略（验证 1/2 代不支持）因 KB 缺乏负面证据而陷入 BLOCKED。Critic 建议转为寻找正面证据（如“第3代首次引入”）。因此重置 N1_2 为直接询问“哪一代首次”，希望命中 KB 中关于 iPod 代际功能演变的直接陈述。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 节点的 critic_health 为 unreliable（证据不足且存在内部状态矛盾），N0 为 needs_verification。并非所有节点均为 healthy。此外，条件①也未满足（N1_2 unsolved）。"
+      }
+    }
+  ]
+}

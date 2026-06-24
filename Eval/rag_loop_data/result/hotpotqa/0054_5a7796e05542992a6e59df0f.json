@@ -1,0 +1,869 @@
+{
+  "question_index": 54,
+  "question_id": "5a7796e05542992a6e59df0f",
+  "question": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+  "answer": "Netherlands",
+  "prediction": "The Netherlands",
+  "error": null,
+  "latency_ms": 420204.96600000025,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T05:02:34.667093+00:00",
+  "chunks": [
+    {
+      "chunk_id": "5b373657-27f3-425d-b609-d385ac0d09f3",
+      "chunk_title": "Train Station Locations",
+      "chunk_summary": "This chunk contains information about the locations and associated landmarks of specific train stations.",
+      "context_title": "Huis Ten Bosch (train)",
+      "page_content": "Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park. Hakata Station is located in Fukuoka, Fukuoka."
+    },
+    {
+      "chunk_id": "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1",
+      "chunk_title": "Limited Express Trains",
+      "chunk_summary": "This chunk contains information about specific limited express train services, including their names and routes.",
+      "context_title": "Huis Ten Bosch (train)",
+      "page_content": "Huis Ten Bosch is a limited express train service. Huis Ten Bosch runs between Hakata Station and Huis Ten Bosch Station."
+    },
+    {
+      "chunk_id": "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+      "chunk_title": "Theme Park Locations",
+      "chunk_summary": "This chunk contains information about the locations of theme parks.",
+      "context_title": "Huis Ten Bosch (train)",
+      "page_content": "The Huis Ten Bosch theme park is located in Sasebo, Nagasaki."
+    },
+    {
+      "chunk_id": "4811fe98-80e0-4f63-99d6-4b78867d1a41",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, operating companies, and the lines they are located on.",
+      "context_title": "Huis Ten Bosch Station",
+      "page_content": "Huis Ten Bosch Station is on the Ōmura Line. Huis Ten Bosch Station is a railway station. Huis Ten Bosch Station is in Haenosaki-chō, Sasebo, Nagasaki Prefecture, Japan. Huis Ten Bosch Station is operated by Kyushu Railway Company (JR Kyushu)."
+    },
+    {
+      "chunk_id": "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+      "chunk_title": "Theme Parks & Cultural Recreation",
+      "chunk_summary": "This chunk contains information about theme parks that recreate specific countries or cultures, including details about their architectural displays and cultural themes.",
+      "context_title": "Huis Ten Bosch (theme park)",
+      "page_content": "Huis Ten Bosch recreates the Netherlands. Huis Ten Bosch displays life-sized copies of old Dutch buildings. Huis Ten Bosch is a theme park."
+    },
+    {
+      "chunk_id": "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+      "chunk_title": "Railway Operators",
+      "chunk_summary": "This chunk contains information about the operators of various facilities or locations, specifically focusing on railway companies and their operational regions.",
+      "context_title": "Huis Ten Bosch (train)",
+      "page_content": "Kyushu Railway Company (JR Kyushu) operates in Japan. Huis Ten Bosch is operated by Kyushu Railway Company (JR Kyushu)."
+    },
+    {
+      "chunk_id": "5d13c874-b242-47ec-92fe-5e3380a10887",
+      "chunk_title": "Oranjezaal Ballroom",
+      "chunk_summary": "This chunk contains information about the Oranjezaal, a painted ballroom in the Royal Palace Huis ten Bosch in The Hague, including its historical context and spatial relationship to neighboring rooms like the \"Chinese room\".",
+      "context_title": "Oranjezaal",
+      "page_content": "The Oranjezaal is in the Royal palace Huis ten Bosch. The Oranjezaal and the \"Chinese room\" were neighboring rooms. The Oranjezaal was once part of the first national museum of the Netherlands. The Royal palace Huis ten Bosch is in the Hague. The Oranjezaal refers to a painted ballroom."
+    },
+    {
+      "chunk_id": "e7dec964-abf1-45fa-b823-c94a2563d068",
+      "chunk_title": "Huis Ten Bosch Locations & Identities",
+      "chunk_summary": "This chunk contains information about the locations, identities, and official status of specific places or landmarks named \"Huis Ten Bosch\" in different countries.",
+      "context_title": "Huis Ten Bosch (theme park)",
+      "page_content": "Huis ten Bosch is one of the three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague in the Netherlands. Huis Ten Bosch is located in Sasebo, Nagasaki, Japan. Huis ten Bosch was a former home to Princess Beatrix."
+    },
+    {
+      "chunk_id": "fff95699-f9f9-4ecb-a752-b95372ded3f7",
+      "chunk_title": "Alternative Names & Romanizations",
+      "chunk_summary": "This chunk contains information about the alternative names and romanizations of specific locations or entities.",
+      "context_title": "Huis Ten Bosch (train)",
+      "page_content": "Huis Ten Bosch is also known as Hausutenbosu (ハウステンボス)."
+    },
+    {
+      "chunk_id": "5bb691a6-624f-4c7c-b080-a91210f6999f",
+      "chunk_title": "Art Gallery Locations",
+      "chunk_summary": "This chunk contains information about the locations of art gallery collections.",
+      "context_title": "Cornelis Sebille Roos",
+      "page_content": "The Nationale Konst-Gallery collection was located in Huis ten Bosch."
+    },
+    {
+      "chunk_id": "9ecc76cb-ccc3-48a2-b6db-ce4f728707ee",
+      "chunk_title": "Royal Palaces & Locations",
+      "chunk_summary": "This chunk contains information about specific royal palaces, including their locations and historical residents.",
+      "context_title": "Huis ten Bosch (disambiguation)",
+      "page_content": "Huis ten Bosch was the former home of Queen Beatrix of The Netherlands. Huis ten Bosch is in The Hague, Netherlands. Huis ten Bosch is a Royal palace."
+    },
+    {
+      "chunk_id": "66658ca2-69ee-4a8a-b43f-18d1d209d982",
+      "chunk_title": "Dutch Royal Residences",
+      "chunk_summary": "This chunk contains information about the official residences of the Dutch Royal Family, including their names, locations, and name translations.",
+      "context_title": "Huis ten Bosch palace",
+      "page_content": "Huis ten Bosch is a royal palace. Huis ten Bosch translates to \"House in the Woods\" in English. The Royal Palace is located in Amsterdam. The Royal Palace is an official residence of the Dutch Royal Family. Noordeinde Palace is located in The Hague. Noordeinde Palace is an official residence of the Dutch Royal Family. Huis ten Bosch is one of three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague."
+    },
+    {
+      "chunk_id": "2865d8a6-e23b-4698-bf67-ba5b2930e3c5",
+      "chunk_title": "Name Translations & Meanings",
+      "chunk_summary": "This chunk contains information about the translations and meanings of names, specifically focusing on \"Huis Ten Bosch\".",
+      "context_title": "Huis Ten Bosch (theme park)",
+      "page_content": "Huis Ten Bosch is named after Huis ten Bosch. The name Huis Ten Bosch translates into English as \"House in the Woods/bush\"."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.6153846153846154,
+  "retrieval_count": 2,
+  "total_chunks": 13,
+  "total_distinct_titles": 7,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需通过子事实聚合得出答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链合成。子节点 N1_1 answer='Huis Ten Bosch'，N1_2 answer='The Netherlands'。推理链 N1_1→N1_2 语义有效（'Huis Ten Bosch' 消解了 'that theme park'）。但 DAG 中存在 N0→N1_2 的直接 decomposition 边，该路径上 N1_2 的 question 包含指代 'that theme park' 无法被 N0 的空 answer 消解，构成语义断裂。",
+          "critic_normative_advice": "建议修正 DAG 结构——删除 N0→N1_2 的 decomposition 边。N1_2 的 question 中 'that theme park' 必须依赖 N1_1 的 answer 才能消解，因此 N1_2 不应作为 N0 的直接分解子节点，而应仅通过 N1_1→N1_2 的 dependency 边可达。当前结构导致路径 1.2（N0→N1_2）语义不成立。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What theme park is served by the Huis Ten Bosch train service?",
+          "answer": "Huis Ten Bosch",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What theme park is served by the Huis Ten Bosch train service?",
+          "planner_rationale": "Q 询问的是某个主题公园所仿效的国家，但首先需要确定这个主题公园是什么。Huis Ten Bosch train service 服务的主题公园是 Q 的核心实体，必须先识别它才能继续追问其主题来源。",
+          "solver_judgment": "question 要求确认 Huis Ten Bosch 列车服务所服务的主题公园名称。search_query 直接搜索了该问题。chunks 返回了明确信息：chunk 2954fb08 指出 Huis Ten Bosch 是往返于 Hakata Station 和 Huis Ten Bosch Station 的列车服务；chunk 5b373657 明确指出 'Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "1 个独立来源（Huis Ten Bosch (train) 文档）。2 个支撑 chunk 均来自同一文档：chunk 5b373657 直接陈述 'Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park'；chunk 2954fb08 陈述 'Huis Ten Bosch is a limited express train service' 且 'runs between Hakata Station and Huis Ten Bosch Station'。两个 chunk 内容一致，共同支撑答案 'Huis Ten Bosch'。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案与 chunk 内容完全匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5b373657-27f3-425d-b609-d385ac0d09f3",
+            "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5b373657-27f3-425d-b609-d385ac0d09f3",
+              "chunk_title": "Train Station Locations",
+              "chunk_summary": "This chunk contains information about the locations and associated landmarks of specific train stations.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park. Hakata Station is located in Fukuoka, Fukuoka."
+            },
+            {
+              "chunk_id": "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1",
+              "chunk_title": "Limited Express Trains",
+              "chunk_summary": "This chunk contains information about specific limited express train services, including their names and routes.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch is a limited express train service. Huis Ten Bosch runs between Hakata Station and Huis Ten Bosch Station."
+            },
+            {
+              "chunk_id": "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+              "chunk_title": "Theme Park Locations",
+              "chunk_summary": "This chunk contains information about the locations of theme parks.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "The Huis Ten Bosch theme park is located in Sasebo, Nagasaki."
+            },
+            {
+              "chunk_id": "4811fe98-80e0-4f63-99d6-4b78867d1a41",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, operating companies, and the lines they are located on.",
+              "context_title": "Huis Ten Bosch Station",
+              "page_content": "Huis Ten Bosch Station is on the Ōmura Line. Huis Ten Bosch Station is a railway station. Huis Ten Bosch Station is in Haenosaki-chō, Sasebo, Nagasaki Prefecture, Japan. Huis Ten Bosch Station is operated by Kyushu Railway Company (JR Kyushu)."
+            },
+            {
+              "chunk_id": "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+              "chunk_title": "Theme Parks & Cultural Recreation",
+              "chunk_summary": "This chunk contains information about theme parks that recreate specific countries or cultures, including details about their architectural displays and cultural themes.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis Ten Bosch recreates the Netherlands. Huis Ten Bosch displays life-sized copies of old Dutch buildings. Huis Ten Bosch is a theme park."
+            },
+            {
+              "chunk_id": "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+              "chunk_title": "Railway Operators",
+              "chunk_summary": "This chunk contains information about the operators of various facilities or locations, specifically focusing on railway companies and their operational regions.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Kyushu Railway Company (JR Kyushu) operates in Japan. Huis Ten Bosch is operated by Kyushu Railway Company (JR Kyushu)."
+            },
+            {
+              "chunk_id": "5d13c874-b242-47ec-92fe-5e3380a10887",
+              "chunk_title": "Oranjezaal Ballroom",
+              "chunk_summary": "This chunk contains information about the Oranjezaal, a painted ballroom in the Royal Palace Huis ten Bosch in The Hague, including its historical context and spatial relationship to neighboring rooms like the \"Chinese room\".",
+              "context_title": "Oranjezaal",
+              "page_content": "The Oranjezaal is in the Royal palace Huis ten Bosch. The Oranjezaal and the \"Chinese room\" were neighboring rooms. The Oranjezaal was once part of the first national museum of the Netherlands. The Royal palace Huis ten Bosch is in the Hague. The Oranjezaal refers to a painted ballroom."
+            },
+            {
+              "chunk_id": "e7dec964-abf1-45fa-b823-c94a2563d068",
+              "chunk_title": "Huis Ten Bosch Locations & Identities",
+              "chunk_summary": "This chunk contains information about the locations, identities, and official status of specific places or landmarks named \"Huis Ten Bosch\" in different countries.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis ten Bosch is one of the three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague in the Netherlands. Huis Ten Bosch is located in Sasebo, Nagasaki, Japan. Huis ten Bosch was a former home to Princess Beatrix."
+            },
+            {
+              "chunk_id": "fff95699-f9f9-4ecb-a752-b95372ded3f7",
+              "chunk_title": "Alternative Names & Romanizations",
+              "chunk_summary": "This chunk contains information about the alternative names and romanizations of specific locations or entities.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch is also known as Hausutenbosu (ハウステンボス)."
+            },
+            {
+              "chunk_id": "5bb691a6-624f-4c7c-b080-a91210f6999f",
+              "chunk_title": "Art Gallery Locations",
+              "chunk_summary": "This chunk contains information about the locations of art gallery collections.",
+              "context_title": "Cornelis Sebille Roos",
+              "page_content": "The Nationale Konst-Gallery collection was located in Huis ten Bosch."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is that theme park themed on?",
+          "answer": "The Netherlands",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Huis Ten Bosch theme park themed on?",
+          "planner_rationale": "Q 的最终目标——确定该主题公园仿效/以哪个国家为主题。此问题中的 'that theme park' 指代前一个节点的 answer，必须在其之后求解。",
+          "solver_judgment": "question 要求确认该主题公园是以哪个国家为主题。search_query 明确搜索了 'Huis Ten Bosch theme park'。chunks 返回了相关信息，其中 chunk 6e9be7e6 明确记载 'Huis Ten Bosch recreates the Netherlands' 以及 'displays life-sized copies of old Dutch buildings'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（Huis Ten Bosch (theme park) 文档）。支撑 chunk 6e9be7e6 直接陈述 'Huis Ten Bosch recreates the Netherlands' 以及 'displays life-sized copies of old Dutch buildings'。答案 'The Netherlands' 与 chunk 内容完全匹配。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案与 chunk 内容完全匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "6e9be7e6-2030-4dd9-9296-572ba7cfb45a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+              "chunk_title": "Theme Parks & Cultural Recreation",
+              "chunk_summary": "This chunk contains information about theme parks that recreate specific countries or cultures, including details about their architectural displays and cultural themes.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis Ten Bosch recreates the Netherlands. Huis Ten Bosch displays life-sized copies of old Dutch buildings. Huis Ten Bosch is a theme park."
+            },
+            {
+              "chunk_id": "9ecc76cb-ccc3-48a2-b6db-ce4f728707ee",
+              "chunk_title": "Royal Palaces & Locations",
+              "chunk_summary": "This chunk contains information about specific royal palaces, including their locations and historical residents.",
+              "context_title": "Huis ten Bosch (disambiguation)",
+              "page_content": "Huis ten Bosch was the former home of Queen Beatrix of The Netherlands. Huis ten Bosch is in The Hague, Netherlands. Huis ten Bosch is a Royal palace."
+            },
+            {
+              "chunk_id": "e7dec964-abf1-45fa-b823-c94a2563d068",
+              "chunk_title": "Huis Ten Bosch Locations & Identities",
+              "chunk_summary": "This chunk contains information about the locations, identities, and official status of specific places or landmarks named \"Huis Ten Bosch\" in different countries.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis ten Bosch is one of the three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague in the Netherlands. Huis Ten Bosch is located in Sasebo, Nagasaki, Japan. Huis ten Bosch was a former home to Princess Beatrix."
+            },
+            {
+              "chunk_id": "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+              "chunk_title": "Theme Park Locations",
+              "chunk_summary": "This chunk contains information about the locations of theme parks.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "The Huis Ten Bosch theme park is located in Sasebo, Nagasaki."
+            },
+            {
+              "chunk_id": "66658ca2-69ee-4a8a-b43f-18d1d209d982",
+              "chunk_title": "Dutch Royal Residences",
+              "chunk_summary": "This chunk contains information about the official residences of the Dutch Royal Family, including their names, locations, and name translations.",
+              "context_title": "Huis ten Bosch palace",
+              "page_content": "Huis ten Bosch is a royal palace. Huis ten Bosch translates to \"House in the Woods\" in English. The Royal Palace is located in Amsterdam. The Royal Palace is an official residence of the Dutch Royal Family. Noordeinde Palace is located in The Hague. Noordeinde Palace is an official residence of the Dutch Royal Family. Huis ten Bosch is one of three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague."
+            },
+            {
+              "chunk_id": "5d13c874-b242-47ec-92fe-5e3380a10887",
+              "chunk_title": "Oranjezaal Ballroom",
+              "chunk_summary": "This chunk contains information about the Oranjezaal, a painted ballroom in the Royal Palace Huis ten Bosch in The Hague, including its historical context and spatial relationship to neighboring rooms like the \"Chinese room\".",
+              "context_title": "Oranjezaal",
+              "page_content": "The Oranjezaal is in the Royal palace Huis ten Bosch. The Oranjezaal and the \"Chinese room\" were neighboring rooms. The Oranjezaal was once part of the first national museum of the Netherlands. The Royal palace Huis ten Bosch is in the Hague. The Oranjezaal refers to a painted ballroom."
+            },
+            {
+              "chunk_id": "fff95699-f9f9-4ecb-a752-b95372ded3f7",
+              "chunk_title": "Alternative Names & Romanizations",
+              "chunk_summary": "This chunk contains information about the alternative names and romanizations of specific locations or entities.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch is also known as Hausutenbosu (ハウステンボス)."
+            },
+            {
+              "chunk_id": "2865d8a6-e23b-4698-bf67-ba5b2930e3c5",
+              "chunk_title": "Name Translations & Meanings",
+              "chunk_summary": "This chunk contains information about the translations and meanings of names, specifically focusing on \"Huis Ten Bosch\".",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis Ten Bosch is named after Huis ten Bosch. The name Huis Ten Bosch translates into English as \"House in the Woods/bush\"."
+            },
+            {
+              "chunk_id": "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+              "chunk_title": "Railway Operators",
+              "chunk_summary": "This chunk contains information about the operators of various facilities or locations, specifically focusing on railway companies and their operational regions.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Kyushu Railway Company (JR Kyushu) operates in Japan. Huis Ten Bosch is operated by Kyushu Railway Company (JR Kyushu)."
+            },
+            {
+              "chunk_id": "5bb691a6-624f-4c7c-b080-a91210f6999f",
+              "chunk_title": "Art Gallery Locations",
+              "chunk_summary": "This chunk contains information about the locations of art gallery collections.",
+              "context_title": "Cornelis Sebille Roos",
+              "page_content": "The Nationale Konst-Gallery collection was located in Huis ten Bosch."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1（主题公园识别）和 N1_2（主题国家查询）均已 SOLVED + healthy，推理链 N1_1→N1_2 完整：'Huis Ten Bosch' 消解了 'that theme park'，'The Netherlands' 回答了 Q 的核心询问。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链合成。子节点 N1_1 answer='Huis Ten Bosch'（healthy），N1_2 answer='The Netherlands'（healthy）。推理链 N1_1→N1_2 语义有效：N1_1 的 answer 'Huis Ten Bosch' 消解了 N1_2 question 中的 'that theme park'。当前 DAG 结构（N0→N1_1 decomposition，N1_1→N1_2 dependency）语义完整，路径 N0→N1_1→N1_2 的所有环节均有效。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且语义有效，答案 'The Netherlands' 正确回答 Q。DAG 结构已修正（N0→N1_2 边已删除），当前拓扑合理。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What theme park is served by the Huis Ten Bosch train service?",
+          "answer": "Huis Ten Bosch",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What theme park is served by the Huis Ten Bosch train service?",
+          "planner_rationale": "Q 的第一层分解——识别 Huis Ten Bosch train service 服务的主题公园。已 SOLVED + healthy，answer='Huis Ten Bosch' 由两个支撑 chunk 直接证实，Critic 建议 INHERIT。",
+          "solver_judgment": "question 要求确认 Huis Ten Bosch 列车服务所服务的主题公园名称。search_query 直接搜索了该问题。chunks 返回了明确信息：chunk 2954fb08 指出 Huis Ten Bosch 是往返于 Hakata Station 和 Huis Ten Bosch Station 的列车服务；chunk 5b373657 明确指出 'Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 chunk 均来自同一文档（Huis Ten Bosch (train)），属单来源。chunk 5b373657 直接陈述 'Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park'；chunk 2954fb08 陈述 'Huis Ten Bosch is a limited express train service' 且 'runs between Hakata Station and Huis Ten Bosch Station'。两个 chunk 内容一致，共同支撑答案 'Huis Ten Bosch'。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案与 chunk 内容完全匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5b373657-27f3-425d-b609-d385ac0d09f3",
+            "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5b373657-27f3-425d-b609-d385ac0d09f3",
+              "chunk_title": "Train Station Locations",
+              "chunk_summary": "This chunk contains information about the locations and associated landmarks of specific train stations.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park. Hakata Station is located in Fukuoka, Fukuoka."
+            },
+            {
+              "chunk_id": "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1",
+              "chunk_title": "Limited Express Trains",
+              "chunk_summary": "This chunk contains information about specific limited express train services, including their names and routes.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch is a limited express train service. Huis Ten Bosch runs between Hakata Station and Huis Ten Bosch Station."
+            },
+            {
+              "chunk_id": "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+              "chunk_title": "Theme Park Locations",
+              "chunk_summary": "This chunk contains information about the locations of theme parks.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "The Huis Ten Bosch theme park is located in Sasebo, Nagasaki."
+            },
+            {
+              "chunk_id": "4811fe98-80e0-4f63-99d6-4b78867d1a41",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, operating companies, and the lines they are located on.",
+              "context_title": "Huis Ten Bosch Station",
+              "page_content": "Huis Ten Bosch Station is on the Ōmura Line. Huis Ten Bosch Station is a railway station. Huis Ten Bosch Station is in Haenosaki-chō, Sasebo, Nagasaki Prefecture, Japan. Huis Ten Bosch Station is operated by Kyushu Railway Company (JR Kyushu)."
+            },
+            {
+              "chunk_id": "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+              "chunk_title": "Theme Parks & Cultural Recreation",
+              "chunk_summary": "This chunk contains information about theme parks that recreate specific countries or cultures, including details about their architectural displays and cultural themes.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis Ten Bosch recreates the Netherlands. Huis Ten Bosch displays life-sized copies of old Dutch buildings. Huis Ten Bosch is a theme park."
+            },
+            {
+              "chunk_id": "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+              "chunk_title": "Railway Operators",
+              "chunk_summary": "This chunk contains information about the operators of various facilities or locations, specifically focusing on railway companies and their operational regions.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Kyushu Railway Company (JR Kyushu) operates in Japan. Huis Ten Bosch is operated by Kyushu Railway Company (JR Kyushu)."
+            },
+            {
+              "chunk_id": "5d13c874-b242-47ec-92fe-5e3380a10887",
+              "chunk_title": "Oranjezaal Ballroom",
+              "chunk_summary": "This chunk contains information about the Oranjezaal, a painted ballroom in the Royal Palace Huis ten Bosch in The Hague, including its historical context and spatial relationship to neighboring rooms like the \"Chinese room\".",
+              "context_title": "Oranjezaal",
+              "page_content": "The Oranjezaal is in the Royal palace Huis ten Bosch. The Oranjezaal and the \"Chinese room\" were neighboring rooms. The Oranjezaal was once part of the first national museum of the Netherlands. The Royal palace Huis ten Bosch is in the Hague. The Oranjezaal refers to a painted ballroom."
+            },
+            {
+              "chunk_id": "e7dec964-abf1-45fa-b823-c94a2563d068",
+              "chunk_title": "Huis Ten Bosch Locations & Identities",
+              "chunk_summary": "This chunk contains information about the locations, identities, and official status of specific places or landmarks named \"Huis Ten Bosch\" in different countries.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis ten Bosch is one of the three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague in the Netherlands. Huis Ten Bosch is located in Sasebo, Nagasaki, Japan. Huis ten Bosch was a former home to Princess Beatrix."
+            },
+            {
+              "chunk_id": "fff95699-f9f9-4ecb-a752-b95372ded3f7",
+              "chunk_title": "Alternative Names & Romanizations",
+              "chunk_summary": "This chunk contains information about the alternative names and romanizations of specific locations or entities.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch is also known as Hausutenbosu (ハウステンボス)."
+            },
+            {
+              "chunk_id": "5bb691a6-624f-4c7c-b080-a91210f6999f",
+              "chunk_title": "Art Gallery Locations",
+              "chunk_summary": "This chunk contains information about the locations of art gallery collections.",
+              "context_title": "Cornelis Sebille Roos",
+              "page_content": "The Nationale Konst-Gallery collection was located in Huis ten Bosch."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is that theme park themed on?",
+          "answer": "The Netherlands",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Huis Ten Bosch theme park themed on?",
+          "planner_rationale": "Q 的第二层分解——确定该主题公园的主题来源国家。已 SOLVED + healthy，answer='The Netherlands' 由支撑 chunk 'Huis Ten Bosch recreates the Netherlands' 直接证实，Critic 建议 INHERIT。",
+          "solver_judgment": "question 要求确认该主题公园是以哪个国家为主题。search_query 明确搜索了 'Huis Ten Bosch theme park'。chunks 返回了相关信息，其中 chunk 6e9be7e6 明确记载 'Huis Ten Bosch recreates the Netherlands' 以及 'displays life-sized copies of old Dutch buildings'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（Huis Ten Bosch (theme park) 文档）。支撑 chunk 6e9be7e6 直接陈述 'Huis Ten Bosch recreates the Netherlands' 以及 'displays life-sized copies of old Dutch buildings'。答案 'The Netherlands' 与 chunk 内容完全匹配。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案与 chunk 内容完全匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "6e9be7e6-2030-4dd9-9296-572ba7cfb45a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+              "chunk_title": "Theme Parks & Cultural Recreation",
+              "chunk_summary": "This chunk contains information about theme parks that recreate specific countries or cultures, including details about their architectural displays and cultural themes.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis Ten Bosch recreates the Netherlands. Huis Ten Bosch displays life-sized copies of old Dutch buildings. Huis Ten Bosch is a theme park."
+            },
+            {
+              "chunk_id": "9ecc76cb-ccc3-48a2-b6db-ce4f728707ee",
+              "chunk_title": "Royal Palaces & Locations",
+              "chunk_summary": "This chunk contains information about specific royal palaces, including their locations and historical residents.",
+              "context_title": "Huis ten Bosch (disambiguation)",
+              "page_content": "Huis ten Bosch was the former home of Queen Beatrix of The Netherlands. Huis ten Bosch is in The Hague, Netherlands. Huis ten Bosch is a Royal palace."
+            },
+            {
+              "chunk_id": "e7dec964-abf1-45fa-b823-c94a2563d068",
+              "chunk_title": "Huis Ten Bosch Locations & Identities",
+              "chunk_summary": "This chunk contains information about the locations, identities, and official status of specific places or landmarks named \"Huis Ten Bosch\" in different countries.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis ten Bosch is one of the three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague in the Netherlands. Huis Ten Bosch is located in Sasebo, Nagasaki, Japan. Huis ten Bosch was a former home to Princess Beatrix."
+            },
+            {
+              "chunk_id": "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+              "chunk_title": "Theme Park Locations",
+              "chunk_summary": "This chunk contains information about the locations of theme parks.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "The Huis Ten Bosch theme park is located in Sasebo, Nagasaki."
+            },
+            {
+              "chunk_id": "66658ca2-69ee-4a8a-b43f-18d1d209d982",
+              "chunk_title": "Dutch Royal Residences",
+              "chunk_summary": "This chunk contains information about the official residences of the Dutch Royal Family, including their names, locations, and name translations.",
+              "context_title": "Huis ten Bosch palace",
+              "page_content": "Huis ten Bosch is a royal palace. Huis ten Bosch translates to \"House in the Woods\" in English. The Royal Palace is located in Amsterdam. The Royal Palace is an official residence of the Dutch Royal Family. Noordeinde Palace is located in The Hague. Noordeinde Palace is an official residence of the Dutch Royal Family. Huis ten Bosch is one of three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague."
+            },
+            {
+              "chunk_id": "5d13c874-b242-47ec-92fe-5e3380a10887",
+              "chunk_title": "Oranjezaal Ballroom",
+              "chunk_summary": "This chunk contains information about the Oranjezaal, a painted ballroom in the Royal Palace Huis ten Bosch in The Hague, including its historical context and spatial relationship to neighboring rooms like the \"Chinese room\".",
+              "context_title": "Oranjezaal",
+              "page_content": "The Oranjezaal is in the Royal palace Huis ten Bosch. The Oranjezaal and the \"Chinese room\" were neighboring rooms. The Oranjezaal was once part of the first national museum of the Netherlands. The Royal palace Huis ten Bosch is in the Hague. The Oranjezaal refers to a painted ballroom."
+            },
+            {
+              "chunk_id": "fff95699-f9f9-4ecb-a752-b95372ded3f7",
+              "chunk_title": "Alternative Names & Romanizations",
+              "chunk_summary": "This chunk contains information about the alternative names and romanizations of specific locations or entities.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch is also known as Hausutenbosu (ハウステンボス)."
+            },
+            {
+              "chunk_id": "2865d8a6-e23b-4698-bf67-ba5b2930e3c5",
+              "chunk_title": "Name Translations & Meanings",
+              "chunk_summary": "This chunk contains information about the translations and meanings of names, specifically focusing on \"Huis Ten Bosch\".",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis Ten Bosch is named after Huis ten Bosch. The name Huis Ten Bosch translates into English as \"House in the Woods/bush\"."
+            },
+            {
+              "chunk_id": "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+              "chunk_title": "Railway Operators",
+              "chunk_summary": "This chunk contains information about the operators of various facilities or locations, specifically focusing on railway companies and their operational regions.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Kyushu Railway Company (JR Kyushu) operates in Japan. Huis Ten Bosch is operated by Kyushu Railway Company (JR Kyushu)."
+            },
+            {
+              "chunk_id": "5bb691a6-624f-4c7c-b080-a91210f6999f",
+              "chunk_title": "Art Gallery Locations",
+              "chunk_summary": "This chunk contains information about the locations of art gallery collections.",
+              "context_title": "Cornelis Sebille Roos",
+              "page_content": "The Nationale Konst-Gallery collection was located in Huis ten Bosch."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1（主题公园识别）和 N1_2（主题国家查询）均已 SOLVED + healthy，推理链 N1_1→N1_2 完整：'Huis Ten Bosch' 消解了 'that theme park'，'The Netherlands' 回答了 Q 的核心询问。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链合成。子节点 N1_1 answer='Huis Ten Bosch'（healthy，2个支撑chunk来自同一文档但直接具体），N1_2 answer='The Netherlands'（healthy，1个支撑chunk直接陈述'Huis Ten Bosch recreates the Netherlands'）。推理链 N1_1→N1_2 语义有效：N1_1 的 answer 'Huis Ten Bosch' 消解了 N1_2 question 中的 'that theme park'。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且语义有效，答案 'The Netherlands' 正确回答 Q。DAG 结构（N0→N1_1 decomposition，N1_1→N1_2 dependency）语义完整，无冗余无缺口。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What theme park is served by the Huis Ten Bosch train service?",
+          "answer": "Huis Ten Bosch",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What theme park is served by the Huis Ten Bosch train service?",
+          "planner_rationale": "Q 的第一层分解——识别 Huis Ten Bosch train service 服务的主题公园。已 SOLVED + healthy，answer='Huis Ten Bosch' 由两个支撑 chunk 直接证实。",
+          "solver_judgment": "question 要求确认 Huis Ten Bosch 列车服务所服务的主题公园名称。search_query 直接搜索了该问题。chunks 返回了明确信息：chunk 2954fb08 指出 Huis Ten Bosch 是往返于 Hakata Station 和 Huis Ten Bosch Station 的列车服务；chunk 5b373657 明确指出 'Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2个支撑chunk均来自同一文档（Huis Ten Bosch (train)），属单来源。chunk 5b373657 直接陈述 'Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park'；chunk 2954fb08 陈述 'Huis Ten Bosch is a limited express train service' 且 'runs between Hakata Station and Huis Ten Bosch Station'。两个chunk内容一致，共同支撑答案 'Huis Ten Bosch'。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案与chunk内容完全匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5b373657-27f3-425d-b609-d385ac0d09f3",
+            "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5b373657-27f3-425d-b609-d385ac0d09f3",
+              "chunk_title": "Train Station Locations",
+              "chunk_summary": "This chunk contains information about the locations and associated landmarks of specific train stations.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park. Hakata Station is located in Fukuoka, Fukuoka."
+            },
+            {
+              "chunk_id": "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1",
+              "chunk_title": "Limited Express Trains",
+              "chunk_summary": "This chunk contains information about specific limited express train services, including their names and routes.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch is a limited express train service. Huis Ten Bosch runs between Hakata Station and Huis Ten Bosch Station."
+            },
+            {
+              "chunk_id": "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+              "chunk_title": "Theme Park Locations",
+              "chunk_summary": "This chunk contains information about the locations of theme parks.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "The Huis Ten Bosch theme park is located in Sasebo, Nagasaki."
+            },
+            {
+              "chunk_id": "4811fe98-80e0-4f63-99d6-4b78867d1a41",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, operating companies, and the lines they are located on.",
+              "context_title": "Huis Ten Bosch Station",
+              "page_content": "Huis Ten Bosch Station is on the Ōmura Line. Huis Ten Bosch Station is a railway station. Huis Ten Bosch Station is in Haenosaki-chō, Sasebo, Nagasaki Prefecture, Japan. Huis Ten Bosch Station is operated by Kyushu Railway Company (JR Kyushu)."
+            },
+            {
+              "chunk_id": "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+              "chunk_title": "Theme Parks & Cultural Recreation",
+              "chunk_summary": "This chunk contains information about theme parks that recreate specific countries or cultures, including details about their architectural displays and cultural themes.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis Ten Bosch recreates the Netherlands. Huis Ten Bosch displays life-sized copies of old Dutch buildings. Huis Ten Bosch is a theme park."
+            },
+            {
+              "chunk_id": "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+              "chunk_title": "Railway Operators",
+              "chunk_summary": "This chunk contains information about the operators of various facilities or locations, specifically focusing on railway companies and their operational regions.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Kyushu Railway Company (JR Kyushu) operates in Japan. Huis Ten Bosch is operated by Kyushu Railway Company (JR Kyushu)."
+            },
+            {
+              "chunk_id": "5d13c874-b242-47ec-92fe-5e3380a10887",
+              "chunk_title": "Oranjezaal Ballroom",
+              "chunk_summary": "This chunk contains information about the Oranjezaal, a painted ballroom in the Royal Palace Huis ten Bosch in The Hague, including its historical context and spatial relationship to neighboring rooms like the \"Chinese room\".",
+              "context_title": "Oranjezaal",
+              "page_content": "The Oranjezaal is in the Royal palace Huis ten Bosch. The Oranjezaal and the \"Chinese room\" were neighboring rooms. The Oranjezaal was once part of the first national museum of the Netherlands. The Royal palace Huis ten Bosch is in the Hague. The Oranjezaal refers to a painted ballroom."
+            },
+            {
+              "chunk_id": "e7dec964-abf1-45fa-b823-c94a2563d068",
+              "chunk_title": "Huis Ten Bosch Locations & Identities",
+              "chunk_summary": "This chunk contains information about the locations, identities, and official status of specific places or landmarks named \"Huis Ten Bosch\" in different countries.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis ten Bosch is one of the three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague in the Netherlands. Huis Ten Bosch is located in Sasebo, Nagasaki, Japan. Huis ten Bosch was a former home to Princess Beatrix."
+            },
+            {
+              "chunk_id": "fff95699-f9f9-4ecb-a752-b95372ded3f7",
+              "chunk_title": "Alternative Names & Romanizations",
+              "chunk_summary": "This chunk contains information about the alternative names and romanizations of specific locations or entities.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch is also known as Hausutenbosu (ハウステンボス)."
+            },
+            {
+              "chunk_id": "5bb691a6-624f-4c7c-b080-a91210f6999f",
+              "chunk_title": "Art Gallery Locations",
+              "chunk_summary": "This chunk contains information about the locations of art gallery collections.",
+              "context_title": "Cornelis Sebille Roos",
+              "page_content": "The Nationale Konst-Gallery collection was located in Huis ten Bosch."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is that theme park themed on?",
+          "answer": "The Netherlands",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Huis Ten Bosch theme park themed on?",
+          "planner_rationale": "Q 的第二层分解——确定该主题公园的主题来源国家。已 SOLVED + healthy，answer='The Netherlands' 由支撑 chunk 'Huis Ten Bosch recreates the Netherlands' 直接证实。",
+          "solver_judgment": "question 要求确认该主题公园是以哪个国家为主题。search_query 明确搜索了 'Huis Ten Bosch theme park'。chunks 返回了相关信息，其中 chunk 6e9be7e6 明确记载 'Huis Ten Bosch recreates the Netherlands' 以及 'displays life-sized copies of old Dutch buildings'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1个独立来源（Huis Ten Bosch (theme park) 文档）。支撑chunk 6e9be7e6 直接陈述 'Huis Ten Bosch recreates the Netherlands' 以及 'displays life-sized copies of old Dutch buildings'。答案 'The Netherlands' 与chunk内容完全匹配。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案与chunk内容完全匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "6e9be7e6-2030-4dd9-9296-572ba7cfb45a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+              "chunk_title": "Theme Parks & Cultural Recreation",
+              "chunk_summary": "This chunk contains information about theme parks that recreate specific countries or cultures, including details about their architectural displays and cultural themes.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis Ten Bosch recreates the Netherlands. Huis Ten Bosch displays life-sized copies of old Dutch buildings. Huis Ten Bosch is a theme park."
+            },
+            {
+              "chunk_id": "9ecc76cb-ccc3-48a2-b6db-ce4f728707ee",
+              "chunk_title": "Royal Palaces & Locations",
+              "chunk_summary": "This chunk contains information about specific royal palaces, including their locations and historical residents.",
+              "context_title": "Huis ten Bosch (disambiguation)",
+              "page_content": "Huis ten Bosch was the former home of Queen Beatrix of The Netherlands. Huis ten Bosch is in The Hague, Netherlands. Huis ten Bosch is a Royal palace."
+            },
+            {
+              "chunk_id": "e7dec964-abf1-45fa-b823-c94a2563d068",
+              "chunk_title": "Huis Ten Bosch Locations & Identities",
+              "chunk_summary": "This chunk contains information about the locations, identities, and official status of specific places or landmarks named \"Huis Ten Bosch\" in different countries.",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis ten Bosch is one of the three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague in the Netherlands. Huis Ten Bosch is located in Sasebo, Nagasaki, Japan. Huis ten Bosch was a former home to Princess Beatrix."
+            },
+            {
+              "chunk_id": "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+              "chunk_title": "Theme Park Locations",
+              "chunk_summary": "This chunk contains information about the locations of theme parks.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "The Huis Ten Bosch theme park is located in Sasebo, Nagasaki."
+            },
+            {
+              "chunk_id": "66658ca2-69ee-4a8a-b43f-18d1d209d982",
+              "chunk_title": "Dutch Royal Residences",
+              "chunk_summary": "This chunk contains information about the official residences of the Dutch Royal Family, including their names, locations, and name translations.",
+              "context_title": "Huis ten Bosch palace",
+              "page_content": "Huis ten Bosch is a royal palace. Huis ten Bosch translates to \"House in the Woods\" in English. The Royal Palace is located in Amsterdam. The Royal Palace is an official residence of the Dutch Royal Family. Noordeinde Palace is located in The Hague. Noordeinde Palace is an official residence of the Dutch Royal Family. Huis ten Bosch is one of three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague."
+            },
+            {
+              "chunk_id": "5d13c874-b242-47ec-92fe-5e3380a10887",
+              "chunk_title": "Oranjezaal Ballroom",
+              "chunk_summary": "This chunk contains information about the Oranjezaal, a painted ballroom in the Royal Palace Huis ten Bosch in The Hague, including its historical context and spatial relationship to neighboring rooms like the \"Chinese room\".",
+              "context_title": "Oranjezaal",
+              "page_content": "The Oranjezaal is in the Royal palace Huis ten Bosch. The Oranjezaal and the \"Chinese room\" were neighboring rooms. The Oranjezaal was once part of the first national museum of the Netherlands. The Royal palace Huis ten Bosch is in the Hague. The Oranjezaal refers to a painted ballroom."
+            },
+            {
+              "chunk_id": "fff95699-f9f9-4ecb-a752-b95372ded3f7",
+              "chunk_title": "Alternative Names & Romanizations",
+              "chunk_summary": "This chunk contains information about the alternative names and romanizations of specific locations or entities.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Huis Ten Bosch is also known as Hausutenbosu (ハウステンボス)."
+            },
+            {
+              "chunk_id": "2865d8a6-e23b-4698-bf67-ba5b2930e3c5",
+              "chunk_title": "Name Translations & Meanings",
+              "chunk_summary": "This chunk contains information about the translations and meanings of names, specifically focusing on \"Huis Ten Bosch\".",
+              "context_title": "Huis Ten Bosch (theme park)",
+              "page_content": "Huis Ten Bosch is named after Huis ten Bosch. The name Huis Ten Bosch translates into English as \"House in the Woods/bush\"."
+            },
+            {
+              "chunk_id": "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+              "chunk_title": "Railway Operators",
+              "chunk_summary": "This chunk contains information about the operators of various facilities or locations, specifically focusing on railway companies and their operational regions.",
+              "context_title": "Huis Ten Bosch (train)",
+              "page_content": "Kyushu Railway Company (JR Kyushu) operates in Japan. Huis Ten Bosch is operated by Kyushu Railway Company (JR Kyushu)."
+            },
+            {
+              "chunk_id": "5bb691a6-624f-4c7c-b080-a91210f6999f",
+              "chunk_title": "Art Gallery Locations",
+              "chunk_summary": "This chunk contains information about the locations of art gallery collections.",
+              "context_title": "Cornelis Sebille Roos",
+              "page_content": "The Nationale Konst-Gallery collection was located in Huis ten Bosch."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What theme park is served by the Huis Ten Bosch train service?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "5b373657-27f3-425d-b609-d385ac0d09f3",
+        "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1",
+        "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+        "4811fe98-80e0-4f63-99d6-4b78867d1a41",
+        "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+        "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+        "5d13c874-b242-47ec-92fe-5e3380a10887",
+        "e7dec964-abf1-45fa-b823-c94a2563d068",
+        "fff95699-f9f9-4ecb-a752-b95372ded3f7",
+        "5bb691a6-624f-4c7c-b080-a91210f6999f"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What country is Huis Ten Bosch theme park themed on?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+        "9ecc76cb-ccc3-48a2-b6db-ce4f728707ee",
+        "e7dec964-abf1-45fa-b823-c94a2563d068",
+        "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+        "66658ca2-69ee-4a8a-b43f-18d1d209d982",
+        "5d13c874-b242-47ec-92fe-5e3380a10887",
+        "fff95699-f9f9-4ecb-a752-b95372ded3f7",
+        "2865d8a6-e23b-4698-bf67-ba5b2930e3c5",
+        "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+        "5bb691a6-624f-4c7c-b080-a91210f6999f"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What theme park is served by the Huis Ten Bosch train service?（理由：Q 询问的是某个主题公园所仿效的国家，但首先需要确定这个主题公园的身份——它是推理链的起点），F2: What country is that theme park themed on?（理由：Q 的核心询问——该主题公园以哪个国家为主题/仿效哪个国家）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F1 是 F2 的前置条件（dependency——F2 的 question 中 'that theme park' 必须用 F1 的 answer 消解后才能搜索）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个嵌套式问题，包含两个语义层次——(1) 识别 Huis Ten Bosch train service 服务的主题公园，(2) 确定该主题公园的主题来源国家。因此创建两个子节点，F1 负责实体识别，F2 负责属性查询，F1→F2 建立 dependency 边以确保 F2 搜索时能正确消解指代。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": false,
+        "reason": "条件②未通过：路径 1.2（N0→N1_2）中，N0 answer='(空)' 无法消解 N1_2 question 中的指代 'that theme park'，该 decomposition 边语义断裂。条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（因结构问题导致推理链不完整）。阻碍条件：DAG 中 N0→N1_2 的 decom"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立两个事实：F1: What theme park is served by the Huis Ten Bosch train service?（理由：Q 是嵌套式问题，需先识别目标实体——该列车服务所服务的主题公园），F2: What country is that theme park themed on?（理由：Q 的核心询问——该主题公园仿效/以哪个国家为主题）。关系：F1 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'that theme park' 必须用 F1 的 answer 'Huis Ten Bosch' 消解后才能搜索）。F2 不应作为 Q 的直接分解子节点，因为其 question 含指代词，无法独立于 F1 被理解。",
+      "hypothesis_delta": "删除边: N0→N1_2（decomposition），原因：Critic 指出该边语义无效——N1_2 的 question 包含指代 'that theme park'，在 N0→N1_2 这条直接路径上 N0 的 answer 为空，无法消解该指代。N1_2 应仅通过 N1_1→N1_2 的 dependency 边可达。上一轮 Part 1 中我错误地声明 'F2 是 Q 的分解产物（decomposition）'，本轮修正此结构错误。保留: N0, N1_1, N1_2 均 INHERIT——两个子节点均已 SOLVED + healthy，推理链完整，答案 'The Netherlands' 正确回答 Q。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（删除边 N0→N1_2 decomposition）。虽然条件①（所有非根节点 SOLVED）、条件②（推理链 N0→N1_1→N1_2 语义有效）、条件③（所有节点 healthy）均已满足，但条件④要求拓扑稳定（无变化），本轮因 Planner 修正结构错误导致拓扑变化，故不满足终止条件。建议下轮保持当前 DAG 结构不变，若拓扑再次无变化且其他条件仍"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立两个事实：F1: What theme park is served by the Huis Ten Bosch train service?（理由：Q 是嵌套式问题，需先识别目标实体——该列车服务所服务的主题公园），F2: What country is that theme park themed on?（理由：Q 的核心询问——该主题公园仿效/以哪个国家为主题）。关系：F1 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'that theme park' 必须用 F1 的 answer 'Huis Ten Bosch' 消解后才能搜索）。当前 DAG 结构（N0→N1_1 decomposition，N1_1→N1_2 dependency）语义完整，推理链 N0→N1_1→N1_2 的所有环节均有效，答案 'The Netherlands' 正确回答 Q。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 INHERIT，所有边保留。原因：上一轮的结构假设已完全验证。N1_1 和 N1_2 均 SOLVED + healthy，Critic 确认推理链完整且语义有效，Q 的所有语义需求均已覆盖，无冗余无缺口。DAG 已收敛至理想分解状态，无需进一步调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链 N0→N1_1→N1_2 语义完整——N1_1 answer 'Huis Ten Bosch' 消解 N1_2 question 中的 'that theme park'，分解链答案聚合后支撑 ROOT 推理；③全部节点（N0, N1_1, N1_2）均为 healthy；④本轮拓扑与上一轮一致。答案 'The Netherlands' 置信"
+      }
+    }
+  ]
+}

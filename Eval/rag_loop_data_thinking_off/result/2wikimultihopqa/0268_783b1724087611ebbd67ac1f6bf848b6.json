@@ -1,0 +1,922 @@
+{
+  "question_index": 268,
+  "question_id": "783b1724087611ebbd67ac1f6bf848b6",
+  "question": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+  "answer": "Night And Dawn",
+  "prediction": "Night And Dawn",
+  "error": null,
+  "latency_ms": 229922.12319996906,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T19:42:12.680320+00:00",
+  "chunks": [
+    {
+      "chunk_id": "97ac5c53-5420-43f9-8f6c-a3cd1491d1fc",
+      "chunk_title": "Films",
+      "chunk_summary": "This chunk contains information about films, including their titles (in original and translated languages), release years, countries of origin, genres, and directors.",
+      "context_title": "Night and Dawn",
+      "page_content": "Night and Dawn was directed by José María Forqué. Night and Dawn is a 1958 Spanish drama film. José María Forqué directed the 1958 Spanish drama film Night and Dawn. The Spanish title of Night and Dawn is La noche y el alba."
+    },
+    {
+      "chunk_id": "a06253bd-a417-48e9-aa84-fa60399b11b5",
+      "chunk_title": "Film Cast Members",
+      "chunk_summary": "This chunk contains information about the cast members who starred in specific films.",
+      "context_title": "Night and Dawn",
+      "page_content": "Manuel Alexandre starred in Night and Dawn. Zully Moreno starred in Night and Dawn. Francisco Rabal starred in Night and Dawn."
+    },
+    {
+      "chunk_id": "8ec093b3-9aec-4141-8ea5-39981f751b09",
+      "chunk_title": "Creative Works Credits",
+      "chunk_summary": "This chunk contains information about the production details of creative works, including writers, directors, and starring actors.",
+      "context_title": "The Night of Nights",
+      "page_content": "Lewis Milestone directed Pork Chop Hill. Lewis Milestone directed Ocean's 11. The Night of Nights starred Pat O'Brien. The Night of Nights starred Olympe Bradna. The Night of Nights starred Roland Young. Lewis Milestone was the director of The Night of Nights. The Night of Nights was directed by Lewis Milestone. The Night of Nights was written by Donald Ogden Stewart. Lewis Milestone went on to other successful productions after The Night of Nights came out."
+    },
+    {
+      "chunk_id": "32dc8bea-ece8-4800-8d0f-6eca557c6cf6",
+      "chunk_title": "1939 Film Details",
+      "chunk_summary": "This chunk contains information about the 1939 film \"The Night of Nights,\" including its production details, cast, critical reception, the director's subsequent career, and clarifications on its lack of relation to other entities sharing the same name.",
+      "context_title": "The Night of Nights",
+      "page_content": "The movie The Night of Nights has no relation to the album by musical group The Seekers titled \"Night of Nights\". The Night of Nights received positive contemporary reviews. The movie The Night of Nights has no relation to the use of the phrase \"Night of Nights\" for the night of the Academy Awards ceremony. The Night of Nights is a 1939 black-and-white drama film. The Night of Nights was produced for Paramount Pictures. The Night of Nights was written by Donald Ogden Stewart. The New York Times gave The Night of Nights a positive contemporary review. The Night of Nights starred Roland Young. Lewis Milestone went on to other successful productions after The Night of Nights came out. Lewis Milestone was the director of The Night of Nights. The Night of Nights starred Olympe Bradna. The Night of Nights starred Pat O'Brien. The movie The Night of Nights has no relation to the Touhou Project song titled \"Night of Nights\". The Night of Nights was directed by Lewis Milestone."
+    },
+    {
+      "chunk_id": "e5a49012-1d6a-43bc-b1fe-2519c8121d4c",
+      "chunk_title": "Films & Characteristics",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, visual characteristics like color format, and genres.",
+      "context_title": "The Night of Nights",
+      "page_content": "The Night of Nights is a black-and-white film. The Night of Nights is a drama film. The Night of Nights is a 1939 film."
+    },
+    {
+      "chunk_id": "8550bb3e-b0a6-4eaf-b123-f71c86be57a3",
+      "chunk_title": "Film Production Credits",
+      "chunk_summary": "This chunk contains information about the production details of creative works, including writers, directors, starring actors, and subsequent career developments.",
+      "context_title": "The Night of Nights",
+      "page_content": "Lewis Milestone directed Pork Chop Hill. The Night of Nights starred Olympe Bradna. The Night of Nights was written by Donald Ogden Stewart. Lewis Milestone went on to other successful productions after The Night of Nights came out. The Night of Nights was directed by Lewis Milestone. The Night of Nights starred Roland Young. Lewis Milestone directed Ocean's 11. The Night of Nights starred Pat O'Brien."
+    },
+    {
+      "chunk_id": "88c102fb-b82e-40e9-b430-8b069f08ad1a",
+      "chunk_title": "Films & Characteristics",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, visual characteristics like color format, and genres.",
+      "context_title": "The Night of Nights",
+      "page_content": "The Night of Nights is a 1939 film. The Night of Nights is a black-and-white film. The Night of Nights is a drama film."
+    },
+    {
+      "chunk_id": "ea26c40d-b878-4e3d-a94c-f844a0e223fe",
+      "chunk_title": "Horror Films",
+      "chunk_summary": "This chunk contains information about horror films, including their titles, release years, countries of origin, and relationships to other films such as remakes.",
+      "context_title": "Silent Night, Bloody Night: The Homecoming",
+      "page_content": "Silent Night, Bloody Night: The Homecoming is a remake of the 1972 American film Silent Night, Bloody Night. Silent Night, Bloody Night: The Homecoming is a 2013 British horror film."
+    },
+    {
+      "chunk_id": "aeb0d91f-8638-48f7-a3ad-396d903bc0b9",
+      "chunk_title": "Arena of Fear Details",
+      "chunk_summary": "This chunk contains information about the 1959 Austrian drama film \"Arena of Fear,\" including its director, cast, art directors, and filming locations.",
+      "context_title": "Arena of Fear",
+      "page_content": "The film's sets for Arena of Fear were designed by Werner Schlichting. Werner Schlichting was an art director. Location filming for Arena of Fear took place at the Circus Busch-Roland. Alexander Sawczynski was an art director. Arena of Fear stars Willy Birgel. Arena of Fear stars Margit Nünke. Arena of Fear is a 1959 Austrian drama film. Arena of Fear stars Gerhard Riedmann. Arena of Fear was directed by Arthur Maria Rabenalt. The film's sets for Arena of Fear were designed by Alexander Sawczynski."
+    },
+    {
+      "chunk_id": "361eac08-ff5f-44e7-9e71-a60de904a5d3",
+      "chunk_title": "Lance Mungia's Career",
+      "chunk_summary": "This chunk contains information about the professional background and filmography of American filmmaker Lance Mungia, including his roles as director and screenwriter for specific films, his work with production companies, and his educational history.",
+      "context_title": "Lance Mungia",
+      "page_content": "Lance Mungia is the screenwriter of the film \"Six String Samurai\". The short film \"Garden for Rio\" was produced at Loyola Marymount University. Lance Mungia is an American film director. Lance Mungia wrote the short film \"Garden for Rio\". Lance Mungia is an American screenwriter. Lance Mungia is a director for Dimension Films. Lance Mungia is the director of the film \"Six String Samurai\". Lance Mungia attended Loyola Marymount University. Lance Mungia directed the short film \"Garden for Rio\". Lance Mungia was a film student at Loyola Marymount University. Lance Mungia is a co-writer for Dimension Films."
+    },
+    {
+      "chunk_id": "3f41ce32-9650-453a-9b9c-eb28b389a812",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, writers, producers, and alternative titles.",
+      "context_title": "Never Fear",
+      "page_content": "Never Fear was produced by Ida Lupino. The film Never Fear is also known as The Young Lovers. Never Fear was co-written by Ida Lupino. Never Fear is a 1949 American drama film. Never Fear was directed by Ida Lupino. Never Fear was produced by Collier Young."
+    },
+    {
+      "chunk_id": "295381a4-7e8b-4290-92e7-d76f299b71f9",
+      "chunk_title": "Indian Malayalam Films",
+      "chunk_summary": "This chunk contains information about Indian Malayalam films, including their titles, release years, and directors.",
+      "context_title": "Aardram",
+      "page_content": "Aardram was directed by Suresh Unnithan. Aardram is a 1992 Indian Malayalam film."
+    },
+    {
+      "chunk_id": "99bc543a-d926-476b-b3c9-2d30728d26ec",
+      "chunk_title": "Film Creators",
+      "chunk_summary": "This chunk contains information about the creators, including writers and directors, of the film 'Anna'.",
+      "context_title": "Anna (1970 film)",
+      "page_content": "Anna was directed by Jörn Donner. Anna was written by Eija-Elina Bergholm. Anna was written by Jörn Donner."
+    },
+    {
+      "chunk_id": "9729335c-545d-460a-a726-78b5fae6bf91",
+      "chunk_title": "Howrah Bridge Film Details",
+      "chunk_summary": "This chunk contains information about the film Howrah Bridge, including its director Shakti Samanta, music director O. P. Nayyar, lyricist Qamar Jalalabadi, memorable aspects of the production, and box office performance.",
+      "context_title": "Howrah Bridge (film)",
+      "page_content": "The film Howrah Bridge performed \"above average\" at the box office. The songs of the film Howrah Bridge were penned by Qamar Jalalabadi. Shakti Samanta said that the club number \"Aaiye Meherbaan\" was very memorable. The Music Director of the film Howrah Bridge was O. P. Nayyar. Shakti Samanta is the director of the film Howrah Bridge. Howrah Bridge was directed by Shakti Samanta. The film Howrah Bridge was one of the most successful films of 1958. Qamar Jalalabadi is an Urdu poet. Qamar Jalalabadi is a famous lyricist."
+    },
+    {
+      "chunk_id": "c130573f-4f9f-49e0-a53d-b46fef6a47df",
+      "chunk_title": "Fear Exploration",
+      "chunk_summary": "This chunk contains information about the exploration of fear in various contexts.",
+      "context_title": "To See or Not to See",
+      "page_content": "To See or Not to See is an exploration of fear."
+    },
+    {
+      "chunk_id": "b01f8c9f-dc30-4af6-8d27-dc154651489c",
+      "chunk_title": "Film Details & Cast",
+      "chunk_summary": "This chunk contains information about the 2003 horror thriller film \"Claustrophobia,\" including its alternative title, writer, director, and starring cast.",
+      "context_title": "Claustrophobia (2003 film)",
+      "page_content": "Claustrophobia was retitled Serial Slayer for home video release. Melanie Lynskey stars in Claustrophobia. Judith O'Dea stars in Claustrophobia. Will Collyer stars in Claustrophobia. Claustrophobia is a 2003 horror thriller. Claustrophobia was directed by Mark Tapio Kines. Mary Lynn Rajskub stars in Claustrophobia. Sheeri Rappaport stars in Claustrophobia. Claustrophobia was written by Mark Tapio Kines."
+    },
+    {
+      "chunk_id": "b7da42f6-ea60-478b-8522-55a578e37467",
+      "chunk_title": "Nationality",
+      "chunk_summary": "This chunk contains information about the nationality of individuals.",
+      "context_title": "José María Forqué",
+      "page_content": "José María Forqué Galindo was Spanish."
+    },
+    {
+      "chunk_id": "51b97095-79cc-4b4c-a281-863524409b6e",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "José María Forqué",
+      "page_content": "José María Forqué Galindo died on 17 March 1995. José María Forqué Galindo was born on 8 March 1923."
+    },
+    {
+      "chunk_id": "153c2aaf-0532-4b9c-8db4-e1a006293c7a",
+      "chunk_title": "Screenwriter Careers",
+      "chunk_summary": "This chunk contains information about the professional roles and careers of screenwriters.",
+      "context_title": "José María Forqué",
+      "page_content": "José María Forqué Galindo was a screenwriter."
+    },
+    {
+      "chunk_id": "7ba2106e-6b62-4dde-a858-6099ce283bec",
+      "chunk_title": "Film Directors & Roles",
+      "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+      "context_title": "José María Forqué",
+      "page_content": "José María Forqué Galindo was a film director."
+    },
+    {
+      "chunk_id": "dcb2614f-6f8a-4cbe-8cad-125d3d8e6c15",
+      "chunk_title": "Naming Conventions",
+      "chunk_summary": "This chunk contains information about the birth names and naming conventions of individuals.",
+      "context_title": "Juan J. Colomer",
+      "page_content": "Juan José Colomer was born Juan José Revueltas Colomer."
+    },
+    {
+      "chunk_id": "e9390a3c-0350-4775-a5fa-c870c1cc1cf1",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Juan José López",
+      "page_content": "Juan José López was born on October 31, 1950."
+    },
+    {
+      "chunk_id": "166220a9-44df-48e2-8be9-c9ed893775a8",
+      "chunk_title": "Biographical Origins",
+      "chunk_summary": "This chunk contains biographical information about individuals, including their birthplaces and dates of birth.",
+      "context_title": "Juan José López-Ibor",
+      "page_content": "Juan José López-Ibor was born in Sollana, Valencia. Juan José López-Ibor was born on 22 April 1906."
+    },
+    {
+      "chunk_id": "99a669cc-24c8-440f-bc14-54bc0c4937aa",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Arthur Maria Rabenalt",
+      "page_content": "Arthur Maria Rabenalt was born on 25 June 1905. Arthur Maria Rabenalt died on 26 February 1993."
+    },
+    {
+      "chunk_id": "967194b5-9830-4085-9c98-542594802d61",
+      "chunk_title": "Arthur Maria Rabenalt's Career",
+      "chunk_summary": "This chunk contains information about the Austrian film director Arthur Maria Rabenalt, including his career span, specific works, and festival participations.",
+      "context_title": "Arthur Maria Rabenalt",
+      "page_content": "Arthur Maria Rabenalt directed the 1958 film \"That Won't Keep a Sailor Down\". Arthur Maria Rabenalt directed the 1960 film \"Big Request Concert\". Arthur Maria Rabenalt directed more than 90 films between 1934 and 1978. The 1960 film \"Big Request Concert\" was entered into the 2nd Moscow International Film Festival. Arthur Maria Rabenalt was an Austrian film director. The 1958 film \"That Won't Keep a Sailor Down\" was entered into the 1st Moscow International Film Festival."
+    },
+    {
+      "chunk_id": "ad812855-064e-4564-90ed-9e6eb9b62c3a",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Michael Raeburn",
+      "page_content": "Michael Raeburn was born on 22 January 1943 or 1948."
+    },
+    {
+      "chunk_id": "b168c4a5-e69c-4be7-b67a-6d100843e116",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about birth dates and times of individuals.",
+      "context_title": "Joseph Ruben",
+      "page_content": "Joseph Porter Ruben was born on May 10, 1950."
+    },
+    {
+      "chunk_id": "9f0d2c18-cc4f-4e54-acd3-0526928e9e6f",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Roberto Costa",
+      "page_content": "Roberto Costa Cabral was born on December 8, 1954."
+    },
+    {
+      "chunk_id": "e8fd9a6f-c795-4559-b5ea-dddfd74d6ca4",
+      "chunk_title": "Birth & Death Details",
+      "chunk_summary": "This chunk contains information about the birth and death dates and locations of individuals.",
+      "context_title": "Jay Marchant",
+      "page_content": "Jay Marchant was born on January 7, 1888. Jay Marchant was born in Tripp County, South Dakota. Jay Marchant died in Los Angeles County, California. Jay Marchant died on June 14, 1962."
+    },
+    {
+      "chunk_id": "652300f2-872e-452f-9e34-80552c106e7d",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of notable individuals.",
+      "context_title": "Martin Ritt",
+      "page_content": "Martin Ritt died on December 8, 1990. Martin Ritt was born on March 2, 1914."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3,
+  "retrieval_count": 4,
+  "total_chunks": 30,
+  "total_distinct_titles": 21,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 5,
+  "dag_edges": 4,
+  "dag_snapshots": [
+    {
+      "q": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影导演的出生年份以确定哪部电影的导演出生更晚",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_3 (1923) 和 N1_4 (1905) 均已 solved 且证据充分。逻辑上可推导出 N1_3 > N1_4，因此 Night And Dawn 的导演出生更晚。但当前状态为 unsolved，缺乏最终的比较结论陈述。",
+          "critic_normative_advice": "建议生成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'Night And Dawn' 并标记 ROOT 为 solved。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Night And Dawn?",
+          "answer": "José María Forqué",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Night And Dawn?",
+          "planner_rationale": "为了比较导演出生年份，首先需要确定电影 'Night And Dawn' 的导演是谁",
+          "solver_judgment": "question 要求确认电影《Night And Dawn》的导演。search_query 搜索了 'Who is the director of the film Night And Dawn?'。chunks 返回了关于《Night and Dawn》和《The Night of Nights》的信息。其中 chunk 97ac5c53-5420-43f9-8f6c-a3cd1491d1fc 明确记载 \"Night and Dawn was directed by José María Forqué\"，直接回答了问题。其他 chunks 主要涉及另一部电影《The Night of Nights》，与问题无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (97ac5c53...) 来自文档 'Night and Dawn'，直接陈述 'Night and Dawn was directed by José María Forqué'。答案与 chunk 内容完全匹配。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Arena Of Fear?",
+          "answer": "Arthur Maria Rabenalt",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Arena Of Fear?",
+          "planner_rationale": "为了比较导演出生年份，首先需要确定电影 'Arena Of Fear' 的导演是谁",
+          "solver_judgment": "question 要求找出电影《Arena Of Fear》的导演。search_query 搜索了 'Who is the director of the film Arena Of Fear?'。chunks 返回了关于该电影的详细信息，其中 chunk aeb0d91f-8638-48f7-a3ad-396d903bc0b9 明确记载 \"Arena of Fear was directed by Arthur Maria Rabenalt\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aeb0d91f...) 来自文档 'Arena of Fear'，直接陈述 'Arena of Fear was directed by Arthur Maria Rabenalt'。答案与 chunk 内容完全匹配。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Night And Dawn born?",
+          "answer": "8 March 1923",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "José María Forqué birth date",
+          "planner_rationale": "获取 'Night And Dawn' 导演的出生年份，这是比较的关键数据之一",
+          "solver_judgment": "question 要求找出电影《Night And Dawn》导演的出生日期。search_query 搜索了 'José María Forqué birth date'，这暗示检索系统已经识别出导演为 José María Forqué。chunks 中，chunk 97ac5c53-5420-43f9-8f6c-a3cd1491d1fc 明确指出 \"Night and Dawn was directed by José María Forqué\"，确立了导演身份。chunk 51b97095-79cc-4b4c-a281-863524409b6e 提供了该导演的出生日期：\"José María Forqué Galindo was born on 8 March 1923\"。检索精准命中了目标实体及其属性，信息完整，可以直接回答问题。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk 51b97095... (来源: José María Forqué) 明确陈述 'José María Forqué Galindo was born on 8 March 1923'。Chunk 97ac5c53... (来源: Night and Dawn) 确认导演身份。两个独立来源（人物传记文档和电影文档）交叉验证了导演身份及出生日期。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Arena Of Fear born?",
+          "answer": "25 June 1905",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Arthur Maria Rabenalt birth date",
+          "planner_rationale": "获取 'Arena Of Fear' 导演的出生年份，这是比较的关键数据之二",
+          "solver_judgment": "question 要求找出电影《Arena Of Fear》导演的出生日期。search_query 直接搜索了 'Arthur Maria Rabenalt birth date'，暗示检索系统或用户已知导演身份。chunks 中，chunk aeb0d91f-8638-48f7-a3ad-396d903bc0b9 明确指出 \"Arena of Fear was directed by Arthur Maria Rabenalt\"，确立了导演身份。chunk 99a669cc-24c8-440f-bc14-54bc0c4937aa 提供了该导演的出生信息：\"Arthur Maria Rabenalt was born on 25 June 1905\"。检索精准命中了目标实体及其属性，信息完整且直接支撑答案。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk 99a669cc... (来源: Arthur Maria Rabenalt) 明确陈述 'Arthur Maria Rabenalt was born on 25 June 1905'。Chunk aeb0d91f... (来源: Arena of Fear) 确认导演身份。两个独立来源交叉验证了导演身份及出生日期。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实已确立，需基于子节点答案合成最终结论",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其依赖的子节点 N1_3 (1923) 和 N1_4 (1905) 均已 solved 且证据充分。逻辑上可推导出 N1_3 > N1_4，因此 Night And Dawn 的导演出生更晚。但当前缺乏最终的比较结论陈述，故标记为 needs_verification。",
+          "critic_normative_advice": "建议生成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'Night And Dawn' 并标记 ROOT 为 solved。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Night And Dawn?",
+          "answer": "José María Forqué",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Night And Dawn?",
+          "planner_rationale": "已确立 Night And Dawn 的导演为 José María Forqué，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求确认电影《Night And Dawn》的导演。search_query 搜索了 'Who is the director of the film Night And Dawn?'。chunks 返回了关于《Night and Dawn》和《The Night of Nights》的信息。其中 chunk 97ac5c53-5420-43f9-8f6c-a3cd1491d1fc 明确记载 \"Night and Dawn was directed by José María Forqué\"，直接回答了问题。其他 chunks 主要涉及另一部电影《The Night of Nights》，与问题无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (97ac5c53...) 来自文档 'Night and Dawn'，直接陈述 'Night and Dawn was directed by José María Forqué'。答案与 chunk 内容完全匹配。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Arena Of Fear?",
+          "answer": "Arthur Maria Rabenalt",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Arena Of Fear?",
+          "planner_rationale": "已确立 Arena Of Fear 的导演为 Arthur Maria Rabenalt，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《Arena Of Fear》的导演。search_query 搜索了 'Who is the director of the film Arena Of Fear?'。chunks 返回了关于该电影的详细信息，其中 chunk aeb0d91f-8638-48f7-a3ad-396d903bc0b9 明确记载 \"Arena of Fear was directed by Arthur Maria Rabenalt\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aeb0d91f...) 来自文档 'Arena of Fear'，直接陈述 'Arena of Fear was directed by Arthur Maria Rabenalt'。答案与 chunk 内容完全匹配。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Night And Dawn born?",
+          "answer": "8 March 1923",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "José María Forqué birth date",
+          "planner_rationale": "已确立 José María Forqué 出生于 1923 年，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《Night And Dawn》导演的出生日期。search_query 搜索了 'José María Forqué birth date'，这暗示检索系统已经识别出导演为 José María Forqué。chunks 中，chunk 97ac5c53-5420-43f9-8f6c-a3cd1491d1fc 明确指出 \"Night and Dawn was directed by José María Forqué\"，确立了导演身份。chunk 51b97095-79cc-4b4c-a281-863524409b6e 提供了该导演的出生日期：\"José María Forqué Galindo was born on 8 March 1923\"。检索精准命中了目标实体及其属性，信息完整，可以直接回答问题。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk 51b97095... (来源: José María Forqué) 明确陈述 'José María Forqué Galindo was born on 8 March 1923'。Chunk 97ac5c53... (来源: Night and Dawn) 确认导演身份。两个独立来源（人物传记文档和电影文档）交叉验证了导演身份及出生日期。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Arena Of Fear born?",
+          "answer": "25 June 1905",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Arthur Maria Rabenalt birth date",
+          "planner_rationale": "已确立 Arthur Maria Rabenalt 出生于 1905 年，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《Arena Of Fear》导演的出生日期。search_query 直接搜索了 'Arthur Maria Rabenalt birth date'，暗示检索系统或用户已知导演身份。chunks 中，chunk aeb0d91f-8638-48f7-a3ad-396d903bc0b9 明确指出 \"Arena of Fear was directed by Arthur Maria Rabenalt\"，确立了导演身份。chunk 99a669cc-24c8-440f-bc14-54bc0c4937aa 提供了该导演的出生信息：\"Arthur Maria Rabenalt was born on 25 June 1905\"。检索精准命中了目标实体及其属性，信息完整且直接支撑答案。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk 99a669cc... (来源: Arthur Maria Rabenalt) 明确陈述 'Arthur Maria Rabenalt was born on 25 June 1905'。Chunk aeb0d91f... (来源: Arena of Fear) 确认导演身份。两个独立来源交叉验证了导演身份及出生日期。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实已确立，需基于子节点答案合成最终结论",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其依赖的子节点 N1_3 (answer: 8 March 1923) 和 N1_4 (answer: 25 June 1905) 均已 solved 且证据充分。逻辑上可推导出 1923 > 1905，因此 Night And Dawn 的导演出生更晚。但当前缺乏最终的比较结论陈述，故标记为 needs_verification。",
+          "critic_normative_advice": "建议生成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'Night And Dawn' 并标记 ROOT 为 solved。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Night And Dawn?",
+          "answer": "José María Forqué",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Night And Dawn?",
+          "planner_rationale": "已确立 Night And Dawn 的导演为 José María Forqué，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求确认电影《Night And Dawn》的导演。search_query 搜索了 'Who is the director of the film Night And Dawn?'。chunks 返回了关于《Night and Dawn》和《The Night of Nights》的信息。其中 chunk 97ac5c53-5420-43f9-8f6c-a3cd1491d1fc 明确记载 \"Night and Dawn was directed by José María Forqué\"，直接回答了问题。其他 chunks 主要涉及另一部电影《The Night of Nights》，与问题无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (97ac5c53...) 来自文档 'Night and Dawn'，直接陈述 'Night and Dawn was directed by José María Forqué'。答案与 chunk 内容完全匹配。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Arena Of Fear?",
+          "answer": "Arthur Maria Rabenalt",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Arena Of Fear?",
+          "planner_rationale": "已确立 Arena Of Fear 的导演为 Arthur Maria Rabenalt，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《Arena Of Fear》的导演。search_query 搜索了 'Who is the director of the film Arena Of Fear?'。chunks 返回了关于该电影的详细信息，其中 chunk aeb0d91f-8638-48f7-a3ad-396d903bc0b9 明确记载 \"Arena of Fear was directed by Arthur Maria Rabenalt\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aeb0d91f...) 来自文档 'Arena of Fear'，直接陈述 'Arena of Fear was directed by Arthur Maria Rabenalt'。答案与 chunk 内容完全匹配。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Night And Dawn born?",
+          "answer": "8 March 1923",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "José María Forqué birth date",
+          "planner_rationale": "已确立 José María Forqué 出生于 1923 年，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《Night And Dawn》导演的出生日期。search_query 搜索了 'José María Forqué birth date'，这暗示检索系统已经识别出导演为 José María Forqué。chunks 中，chunk 97ac5c53-5420-43f9-8f6c-a3cd1491d1fc 明确指出 \"Night and Dawn was directed by José María Forqué\"，确立了导演身份。chunk 51b97095-79cc-4b4c-a281-863524409b6e 提供了该导演的出生日期：\"José María Forqué Galindo was born on 8 March 1923\"。检索精准命中了目标实体及其属性，信息完整，可以直接回答问题。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk 51b97095... (来源: José María Forqué) 明确陈述 'José María Forqué Galindo was born on 8 March 1923'。Chunk 97ac5c53... (来源: Night and Dawn) 确认导演身份。两个独立来源（人物传记文档和电影文档）交叉验证了导演身份及出生日期。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Arena Of Fear born?",
+          "answer": "25 June 1905",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Arthur Maria Rabenalt birth date",
+          "planner_rationale": "已确立 Arthur Maria Rabenalt 出生于 1905 年，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《Arena Of Fear》导演的出生日期。search_query 直接搜索了 'Arthur Maria Rabenalt birth date'，暗示检索系统或用户已知导演身份。chunks 中，chunk aeb0d91f-8638-48f7-a3ad-396d903bc0b9 明确指出 \"Arena of Fear was directed by Arthur Maria Rabenalt\"，确立了导演身份。chunk 99a669cc-24c8-440f-bc14-54bc0c4937aa 提供了该导演的出生信息：\"Arthur Maria Rabenalt was born on 25 June 1905\"。检索精准命中了目标实体及其属性，信息完整且直接支撑答案。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk 99a669cc... (来源: Arthur Maria Rabenalt) 明确陈述 'Arthur Maria Rabenalt was born on 25 June 1905'。Chunk aeb0d91f... (来源: Arena of Fear) 确认导演身份。两个独立来源交叉验证了导演身份及出生日期。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份及出生日期）已确立且健康，需基于子节点答案合成最终结论：比较 1923 与 1905，得出 Night And Dawn 的导演出生更晚。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其依赖的子节点 N1_3 (answer: 8 March 1923) 和 N1_4 (answer: 25 June 1905) 均已 solved 且证据充分。逻辑上可推导出 1923 > 1905，因此 Night And Dawn 的导演出生更晚。但当前缺乏最终的比较结论陈述，故标记为 needs_verification。",
+          "critic_normative_advice": "建议生成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'Night And Dawn' 并标记 ROOT 为 solved。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Night And Dawn?",
+          "answer": "José María Forqué",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Night And Dawn?",
+          "planner_rationale": "已确立 Night And Dawn 的导演为 José María Forqué，证据充分且 Critic 判为 healthy，直接保留。",
+          "solver_judgment": "question 要求确认电影《Night And Dawn》的导演。search_query 搜索了 'Who is the director of the film Night And Dawn?'。chunks 返回了关于《Night and Dawn》和《The Night of Nights》的信息。其中 chunk 97ac5c53-5420-43f9-8f6c-a3cd1491d1fc 明确记载 \"Night and Dawn was directed by José María Forqué\"，直接回答了问题。其他 chunks 主要涉及另一部电影《The Night of Nights》，与问题无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (97ac5c53...) 来自文档 'Night and Dawn'，直接陈述 'Night and Dawn was directed by José María Forqué'。答案与 chunk 内容完全匹配。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Arena Of Fear?",
+          "answer": "Arthur Maria Rabenalt",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Arena Of Fear?",
+          "planner_rationale": "已确立 Arena Of Fear 的导演为 Arthur Maria Rabenalt，证据充分且 Critic 判为 healthy，直接保留。",
+          "solver_judgment": "question 要求找出电影《Arena Of Fear》的导演。search_query 搜索了 'Who is the director of the film Arena Of Fear?'。chunks 返回了关于该电影的详细信息，其中 chunk aeb0d91f-8638-48f7-a3ad-396d903bc0b9 明确记载 \"Arena of Fear was directed by Arthur Maria Rabenalt\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aeb0d91f...) 来自文档 'Arena of Fear'，直接陈述 'Arena of Fear was directed by Arthur Maria Rabenalt'。答案与 chunk 内容完全匹配。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Night And Dawn born?",
+          "answer": "8 March 1923",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "José María Forqué birth date",
+          "planner_rationale": "已确立 José María Forqué 出生于 1923 年 3 月 8 日，证据充分且 Critic 判为 healthy，直接保留。",
+          "solver_judgment": "question 要求找出电影《Night And Dawn》导演的出生日期。search_query 搜索了 'José María Forqué birth date'，这暗示检索系统已经识别出导演为 José María Forqué。chunks 中，chunk 97ac5c53-5420-43f9-8f6c-a3cd1491d1fc 明确指出 \"Night and Dawn was directed by José María Forqué\"，确立了导演身份。chunk 51b97095-79cc-4b4c-a281-863524409b6e 提供了该导演的出生日期：\"José María Forqué Galindo was born on 8 March 1923\"。检索精准命中了目标实体及其属性，信息完整，可以直接回答问题。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk 51b97095... (来源: José María Forqué) 明确陈述 'José María Forqué Galindo was born on 8 March 1923'。Chunk 97ac5c53... (来源: Night and Dawn) 确认导演身份。两个独立来源（人物传记文档和电影文档）交叉验证了导演身份及出生日期。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Arena Of Fear born?",
+          "answer": "25 June 1905",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Arthur Maria Rabenalt birth date",
+          "planner_rationale": "已确立 Arthur Maria Rabenalt 出生于 1905 年 6 月 25 日，证据充分且 Critic 判为 healthy，直接保留。",
+          "solver_judgment": "question 要求找出电影《Arena Of Fear》导演的出生日期。search_query 直接搜索了 'Arthur Maria Rabenalt birth date'，暗示检索系统或用户已知导演身份。chunks 中，chunk aeb0d91f-8638-48f7-a3ad-396d903bc0b9 明确指出 \"Arena of Fear was directed by Arthur Maria Rabenalt\"，确立了导演身份。chunk 99a669cc-24c8-440f-bc14-54bc0c4937aa 提供了该导演的出生信息：\"Arthur Maria Rabenalt was born on 25 June 1905\"。检索精准命中了目标实体及其属性，信息完整且直接支撑答案。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk 99a669cc... (来源: Arthur Maria Rabenalt) 明确陈述 'Arthur Maria Rabenalt was born on 25 June 1905'。Chunk aeb0d91f... (来源: Arena of Fear) 确认导演身份。两个独立来源交叉验证了导演身份及出生日期。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born later, Night And Dawn or Arena Of Fear?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份及出生日期）已确立且健康，需基于子节点答案合成最终结论：比较 1923 与 1905，得出 Night And Dawn 的导演出生更晚。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖的子事实已完备：N1_3 (José María Forqué, born 8 March 1923) 和 N1_4 (Arthur Maria Rabenalt, born 25 June 1905) 均为 healthy。逻辑比较 1923 > 1905 成立，可推导出 Night And Dawn 的导演出生更晚。虽然节点状态标记为 unsolved，但证据链完整且无矛盾，具备生成最终答案的全部条件。",
+          "critic_normative_advice": "建议生成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'Night And Dawn' 并将 ROOT 标记为 solved。结构层面无需调整。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Night And Dawn?",
+          "answer": "José María Forqué",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Night And Dawn?",
+          "planner_rationale": "已确立 Night And Dawn 的导演为 José María Forqué，证据充分且 Critic 判为 healthy，直接保留。",
+          "solver_judgment": "question 要求确认电影《Night And Dawn》的导演。search_query 搜索了 'Who is the director of the film Night And Dawn?'。chunks 返回了关于《Night and Dawn》和《The Night of Nights》的信息。其中 chunk 97ac5c53-5420-43f9-8f6c-a3cd1491d1fc 明确记载 \"Night and Dawn was directed by José María Forqué\"，直接回答了问题。其他 chunks 主要涉及另一部电影《The Night of Nights》，与问题无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (97ac5c53...) 来自文档 'Night and Dawn'，直接陈述 'Night and Dawn was directed by José María Forqué'。答案与 chunk 内容完全匹配。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Arena Of Fear?",
+          "answer": "Arthur Maria Rabenalt",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Arena Of Fear?",
+          "planner_rationale": "已确立 Arena Of Fear 的导演为 Arthur Maria Rabenalt，证据充分且 Critic 判为 healthy，直接保留。",
+          "solver_judgment": "question 要求找出电影《Arena Of Fear》的导演。search_query 搜索了 'Who is the director of the film Arena Of Fear?'。chunks 返回了关于该电影的详细信息，其中 chunk aeb0d91f-8638-48f7-a3ad-396d903bc0b9 明确记载 \"Arena of Fear was directed by Arthur Maria Rabenalt\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aeb0d91f...) 来自文档 'Arena of Fear'，直接陈述 'Arena of Fear was directed by Arthur Maria Rabenalt'。答案与 chunk 内容完全匹配。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Night And Dawn born?",
+          "answer": "8 March 1923",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "José María Forqué birth date",
+          "planner_rationale": "已确立 José María Forqué 出生于 1923 年 3 月 8 日，证据充分且 Critic 判为 healthy，直接保留。",
+          "solver_judgment": "question 要求找出电影《Night And Dawn》导演的出生日期。search_query 搜索了 'José María Forqué birth date'，这暗示检索系统已经识别出导演为 José María Forqué。chunks 中，chunk 97ac5c53-5420-43f9-8f6c-a3cd1491d1fc 明确指出 \"Night and Dawn was directed by José María Forqué\"，确立了导演身份。chunk 51b97095-79cc-4b4c-a281-863524409b6e 提供了该导演的出生日期：\"José María Forqué Galindo was born on 8 March 1923\"。检索精准命中了目标实体及其属性，信息完整，可以直接回答问题。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk 51b97095... (来源: José María Forqué) 明确陈述 'José María Forqué Galindo was born on 8 March 1923'。Chunk 97ac5c53... (来源: Night and Dawn) 确认导演身份。两个独立来源（人物传记文档和电影文档）交叉验证了导演身份及出生日期。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Arena Of Fear born?",
+          "answer": "25 June 1905",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Arthur Maria Rabenalt birth date",
+          "planner_rationale": "已确立 Arthur Maria Rabenalt 出生于 1905 年 6 月 25 日，证据充分且 Critic 判为 healthy，直接保留。",
+          "solver_judgment": "question 要求找出电影《Arena Of Fear》导演的出生日期。search_query 直接搜索了 'Arthur Maria Rabenalt birth date'，暗示检索系统或用户已知导演身份。chunks 中，chunk aeb0d91f-8638-48f7-a3ad-396d903bc0b9 明确指出 \"Arena of Fear was directed by Arthur Maria Rabenalt\"，确立了导演身份。chunk 99a669cc-24c8-440f-bc14-54bc0c4937aa 提供了该导演的出生信息：\"Arthur Maria Rabenalt was born on 25 June 1905\"。检索精准命中了目标实体及其属性，信息完整且直接支撑答案。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk 99a669cc... (来源: Arthur Maria Rabenalt) 明确陈述 'Arthur Maria Rabenalt was born on 25 June 1905'。Chunk aeb0d91f... (来源: Arena of Fear) 确认导演身份。两个独立来源交叉验证了导演身份及出生日期。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the director of the film Night And Dawn?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "97ac5c53-5420-43f9-8f6c-a3cd1491d1fc",
+        "a06253bd-a417-48e9-aa84-fa60399b11b5",
+        "8ec093b3-9aec-4141-8ea5-39981f751b09",
+        "32dc8bea-ece8-4800-8d0f-6eca557c6cf6",
+        "e5a49012-1d6a-43bc-b1fe-2519c8121d4c",
+        "8550bb3e-b0a6-4eaf-b123-f71c86be57a3",
+        "88c102fb-b82e-40e9-b430-8b069f08ad1a",
+        "ea26c40d-b878-4e3d-a94c-f844a0e223fe"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who is the director of the film Arena Of Fear?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "aeb0d91f-8638-48f7-a3ad-396d903bc0b9",
+        "361eac08-ff5f-44e7-9e71-a60de904a5d3",
+        "3f41ce32-9650-453a-9b9c-eb28b389a812",
+        "295381a4-7e8b-4290-92e7-d76f299b71f9",
+        "99bc543a-d926-476b-b3c9-2d30728d26ec",
+        "9729335c-545d-460a-a726-78b5fae6bf91",
+        "c130573f-4f9f-49e0-a53d-b46fef6a47df",
+        "b01f8c9f-dc30-4af6-8d27-dc154651489c"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "José María Forqué birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "b7da42f6-ea60-478b-8522-55a578e37467",
+        "51b97095-79cc-4b4c-a281-863524409b6e",
+        "153c2aaf-0532-4b9c-8db4-e1a006293c7a",
+        "7ba2106e-6b62-4dde-a858-6099ce283bec",
+        "dcb2614f-6f8a-4cbe-8cad-125d3d8e6c15",
+        "97ac5c53-5420-43f9-8f6c-a3cd1491d1fc",
+        "e9390a3c-0350-4775-a5fa-c870c1cc1cf1",
+        "166220a9-44df-48e2-8be9-c9ed893775a8"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Arthur Maria Rabenalt birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "99a669cc-24c8-440f-bc14-54bc0c4937aa",
+        "967194b5-9830-4085-9c98-542594802d61",
+        "ad812855-064e-4564-90ed-9e6eb9b62c3a",
+        "b168c4a5-e69c-4be7-b67a-6d100843e116",
+        "aeb0d91f-8638-48f7-a3ad-396d903bc0b9",
+        "9f0d2c18-cc4f-4e54-acd3-0526928e9e6f",
+        "e8fd9a6f-c795-4559-b5ea-dddfd74d6ca4",
+        "652300f2-872e-452f-9e34-80552c106e7d"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of Night And Dawn?（理由：识别比较对象 A 的导演），F2: Who is the director of Arena Of Fear?（理由：识别比较对象 B 的导演），F3: When was the director of Night And Dawn born?（理由：获取对象 A 导演的出生时间），F4: When was the director of Arena Of Fear born?（理由：获取对象 B 导演的出生时间）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F3 依赖于 F1（dependency——因为问题中隐含指代“该导演”，需先知道是谁才能查生日），F4 依赖于 F2（dependency——同理）。最终通过比较 F3 和 F4 的答案来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将比较问题拆解为两个独立的实体识别子任务（找导演）和两个属性获取子任务（找生日），并建立明确的依赖链以确保搜索准确性。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification（因为尚未生成最终比较答案，状态仍为 unsolved）。虽然所有叶子节点 (N1_1-N1_4) 均为 healthy 且推理链语义有效（条件②通过），但根节点未完成最终推理合成，导致整体 DAG 未完全 healthy。建议生成 ROOT 答案后再次审查以终止。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Night And Dawn 的导演是谁 (已确立: José María Forqué)，F2: Arena Of Fear 的导演是谁 (已确立: Arthur Maria Rabenalt)，F3: F1 导演的出生年份 (已确立: 1923)，F4: F2 导演的出生年份 (已确立: 1905)。关系: F1/F2 是 Q 的分解产物 (decomposition)，F3 依赖 F1 (dependency)，F4 依赖 F2 (dependency)。当前 DAG 结构已完整覆盖 Q 的语义需求，所有叶子节点均已 SOLVED 且健康。本轮目标是保持结构稳定，等待系统基于现有事实聚合出 ROOT 节点的最终答案（比较 1923 和 1905，得出 Night And Dawn 的导演出生更晚）。",
+      "hypothesis_delta": "本轮无结构变更。原因：Critic 确认所有子节点 (N1_1 - N1_4) 均已 solved 且 healthy，证据链完整且无冗余。Q 的所有语义缺口已被填补。上一轮的结构假设完全被验证。本轮仅通过 INHERIT 保留所有节点并显式声明保留所有边，维持 DAG 稳定性，以便系统进行最终的答案合成。修正说明：上一轮输出遗漏了显式的 LINK 原语来保留旧边，导致系统报错。本轮已补全所有 LINK 原语以明确保留现有拓扑结构。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification，因为最终答案尚未生成/标记为 solved。虽然所有子节点 (N1_1-N1_4) 均为 healthy，但根节点作为最终输出点，其状态必须为 healthy (即包含正确的最终答案) 才能终止。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Night And Dawn 的导演是谁 (已确立: José María Forqué)，F2: Arena Of Fear 的导演是谁 (已确立: Arthur Maria Rabenalt)，F3: F1 导演的出生年份 (已确立: 1923)，F4: F2 导演的出生年份 (已确立: 1905)。关系: F1/F2 是 Q 的分解产物 (decomposition)，F3 依赖 F1 (dependency)，F4 依赖 F2 (dependency)。当前 DAG 结构已完整覆盖 Q 的语义需求，所有叶子节点均已 SOLVED 且健康。本轮目标是保持结构稳定，等待系统基于现有事实聚合出 ROOT 节点的最终答案（比较 1923 和 1905，得出 Night And Dawn 的导演出生更晚）。",
+      "hypothesis_delta": "本轮无结构变更。原因：Critic 确认所有子节点 (N1_1 - N1_4) 均已 solved 且 healthy，证据链完整且无冗余。Q 的所有语义缺口已被填补。上一轮的结构假设完全被验证。本轮仅通过 INHERIT 保留所有节点并显式声明保留所有边，维持 DAG 稳定性，以便系统进行最终的答案合成。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification。虽然所有叶子节点 (N1_1-N1_4) 均为 healthy 且推理链语义有效 (条件②通过)，但根节点尚未生成最终的比较结论答案，导致整体 DAG 未达到 fully healthy 状态。需先生成 ROOT 答案并将其标记为 solved/healthy，方可终止。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Night And Dawn 的导演是谁 (已确立: José María Forqué)，F2: Arena Of Fear 的导演是谁 (已确立: Arthur Maria Rabenalt)，F3: F1 导演的出生日期 (已确立: 8 March 1923)，F4: F2 导演的出生日期 (已确立: 25 June 1905)。关系: F1/F2 是 Q 的分解产物 (decomposition)，F3 依赖 F1 (dependency)，F4 依赖 F2 (dependency)。当前 DAG 结构已完整覆盖 Q 的语义需求，所有叶子节点均已 SOLVED 且健康。本轮目标是保持结构稳定，等待系统基于现有事实聚合出 ROOT 节点的最终答案（比较 1923 和 1905，得出 Night And Dawn 的导演出生更晚）。",
+      "hypothesis_delta": "本轮无结构变更。原因：Critic 确认所有子节点 (N1_1 - N1_4) 均已 solved 且 healthy，证据链完整且无冗余。Q 的所有语义缺口已被填补。上一轮的结构假设完全被验证。本轮仅通过 INHERIT 保留所有节点并显式声明保留所有边（通过 LINK 原语），维持 DAG 稳定性，以便系统进行最终的答案合成。修正说明：补全了上一轮遗漏的 LINK 原语，以明确保留现有的拓扑结构。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification。虽然所有子节点 (N1_1-N1_4) 均为 healthy 且推理链语义有效（条件②通过），但 ROOT 节点尚未被标记为 solved/healthy，因为它缺少最终的比较结论陈述。系统需先完成 ROOT 的答案合成与状态更新，才能满足终止条件。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Night And Dawn 的导演是谁 (已确立: José María Forqué)，F2: Arena Of Fear 的导演是谁 (已确立: Arthur Maria Rabenalt)，F3: F1 导演的出生日期 (已确立: 8 March 1923)，F4: F2 导演的出生日期 (已确立: 25 June 1905)。关系: F1/F2 是 Q 的分解产物 (decomposition)，F3 依赖 F1 (dependency)，F4 依赖 F2 (dependency)。当前 DAG 结构已完整覆盖 Q 的语义需求，所有叶子节点均已 SOLVED 且健康。本轮目标是保持结构稳定，等待系统基于现有事实聚合出 ROOT 节点的最终答案（比较 1923 和 1905，得出 Night And Dawn 的导演出生更晚）。",
+      "hypothesis_delta": "本轮无结构变更。原因：Critic 确认所有子节点 (N1_1 - N1_4) 均已 solved 且 healthy，证据链完整且无冗余。Q 的所有语义缺口已被填补。上一轮的结构假设完全被验证。本轮仅通过 INHERIT 保留所有节点并显式声明保留所有边（通过 LINK 原语），维持 DAG 稳定性，以便系统进行最终的答案合成。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点 SOLVED；② 推理链语义匹配（N1_1→N1_3 和 N1_2→N1_4 依赖有效）；③ 所有节点（含 ROOT）审查为 healthy；④ 拓扑连续稳定。证据链完整，可生成最终答案 'Night And Dawn'。"
+      }
+    }
+  ]
+}

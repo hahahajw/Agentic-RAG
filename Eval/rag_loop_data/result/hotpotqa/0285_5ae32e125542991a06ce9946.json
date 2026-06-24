@@ -1,0 +1,680 @@
+{
+  "question_index": 285,
+  "question_id": "5ae32e125542991a06ce9946",
+  "question": "According to the 2001 census, what was the population of the city in which Kirton End is located?",
+  "answer": "35,124",
+  "prediction": "35,124",
+  "error": null,
+  "latency_ms": 313003.6989,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T13:40:05.919762+00:00",
+  "chunks": [
+    {
+      "chunk_id": "d2aae315-4d04-4292-a75b-33edd7d05db0",
+      "chunk_title": "Settlements & Administration",
+      "chunk_summary": "This chunk contains information about the classification and administrative hierarchy of specific settlements or populated places, including their status as hamlets and their location within civil parishes and districts.",
+      "context_title": "Kirton End",
+      "page_content": "Kirton End is in the civil parish of Kirton. The civil parish of Kirton is in the Boston district. The Boston district is in Lincolnshire. Kirton End is a hamlet."
+    },
+    {
+      "chunk_id": "cee68a00-e889-4abb-b0fe-6ed4b63375db",
+      "chunk_title": "English Village Locations",
+      "chunk_summary": "This chunk contains information about the location and classification of specific villages in England.",
+      "context_title": "Kirton, Nottinghamshire",
+      "page_content": "Kirton is located 3 mi east of Ollerton. Kirton is a village in Nottinghamshire, England."
+    },
+    {
+      "chunk_id": "ee4b8bf9-1a6c-4336-9a1d-76e7680d7c7b",
+      "chunk_title": "Location & Roads",
+      "chunk_summary": "This chunk contains information about the geographical location, distances from nearby towns, and road connections of specific places.",
+      "context_title": "Kirton End",
+      "page_content": "Kirton End lies on the B1391 road. Kirton End is 1.5 mi north-east from Kirton. Kirton End is 4 mi south-west from Boston."
+    },
+    {
+      "chunk_id": "1bf49503-e4c4-4f6f-a8b3-dcf27b1f0f29",
+      "chunk_title": "Village & Parish Classification",
+      "chunk_summary": "This chunk contains information about the classification and location of specific villages and civil parishes.",
+      "context_title": "Kirton, Suffolk",
+      "page_content": "Kirton is in the shire county of Suffolk. Kirton is a village. Kirton is a civil parish."
+    },
+    {
+      "chunk_id": "88948ec2-8867-45ab-a256-b504639ff9d8",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location and physical characteristics of places in England, including their relation to roads, distances from other towns, proximity to transport links, nearby rivers, and total area.",
+      "context_title": "Kirton, Suffolk",
+      "page_content": "Suffolk is in England. Kirton is located between the River Debben and the River Orwell. Kirton is situated off the A14 road. The village of Kirton covers a total area of 8.3 km2. The closest train station to Kirton is Trimley. Kirton is around 10 km from Ipswich. Kirton is about 4.5 km from Felixstowe."
+    },
+    {
+      "chunk_id": "a1ea2feb-cf83-46ff-82b4-4bfde421d9c2",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of districts and settlements within Lincolnshire, England, including their positions relative to major roads and other towns.",
+      "context_title": "Willoughton",
+      "page_content": "The West Lindsey district is in Lincolnshire. Willoughton is situated 13 mi north from Lincoln. Willoughton is situated 2 mi west from the A15 road. Lincolnshire is in England. Willoughton is situated 3 mi south from Kirton Lindsey."
+    },
+    {
+      "chunk_id": "690709d3-cd93-494b-96ef-0d1990392bac",
+      "chunk_title": "Demographic Data",
+      "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+      "context_title": "Kirton, Suffolk",
+      "page_content": "According to the 2011 census, Kirton had a population of 1,146."
+    },
+    {
+      "chunk_id": "62a54dba-95d9-4c26-b9c7-ec4602c1a381",
+      "chunk_title": "Population Counts",
+      "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+      "context_title": "Kirton, Nottinghamshire",
+      "page_content": "According to the United Kingdom Census 2001, Kirton had a population of 273. The population of Kirton reduced to 261 at the 2011 census."
+    },
+    {
+      "chunk_id": "ee9af2fb-f383-4fac-9e3a-78ec5b0bdf6b",
+      "chunk_title": "Construction Materials",
+      "chunk_summary": "This chunk contains information about the construction materials used in buildings within specific locations.",
+      "context_title": "Kirton, Suffolk",
+      "page_content": "Many of the buildings in Kirton are made from flint, clay and timber."
+    },
+    {
+      "chunk_id": "95f021fa-86cc-41a3-8a62-3f74edd4f4dd",
+      "chunk_title": "Locations",
+      "chunk_summary": "This chunk contains information about the location of specific buildings or establishments.",
+      "context_title": "The Atlantic Club Casino Hotel",
+      "page_content": "The Atlantic Club Casino Hotel is located at the southern end of the boardwalk in Atlantic City, New Jersey."
+    },
+    {
+      "chunk_id": "4c2c1ccf-316f-4d92-93b3-8847fb477190",
+      "chunk_title": "Town Identity & Demographics",
+      "chunk_summary": "This chunk contains information about the classification, identity, location, and population statistics of towns.",
+      "context_title": "Boston, Lincolnshire",
+      "page_content": "Boston is in Lincolnshire. Boston is a town. Boston is on the east coast of England. The town of Boston had a population of 35,124 at the 2001 census. Boston is the largest town of the wider Borough of Boston local government district. The Borough of Boston had a total population of 66,900 at the ONS mid 2015 estimates."
+    },
+    {
+      "chunk_id": "144111c1-f538-4d34-8fcd-b614d83f1b3d",
+      "chunk_title": "2001 Bangladesh Census",
+      "chunk_summary": "This chunk contains information about the 2001 national census in Bangladesh, including its timing relative to previous censuses, the conducting organization, geographic coverage, specific demographic and socioeconomic data collected, and population figures.",
+      "context_title": "2001 Bangladesh census",
+      "page_content": "The 2001 census in Bangladesh included statistical data on religion. The 2001 national census in Bangladesh was conducted ten years after the 1991 census. The 2001 census in Bangladesh included statistical data on the number of children. An adjustment for the standard rate of undercounting boosted the 2001 census population figure for Bangladesh. The 2001 census in Bangladesh included statistical data on households. The 2001 census in Bangladesh included statistical data on the economically active population. According to the adjusted 2001 census figures, Bangladesh's population stood at 129.3 million. The Bangladesh Bureau of Statistics recorded data from main cities in Bangladesh during the 2001 census. The Bangladesh Bureau of Statistics recorded data from all of the upazilas in Bangladesh during the 2001 census. The Bangladesh Bureau of Statistics recorded data from all of the districts in Bangladesh during the 2001 census. The 2001 census in Bangladesh included statistical data on marital status. The 2001 census in Bangladesh included statistical data on literacy and educational attainment. According to the 2001 census, Hindus were 9.2 per cent of the population of Bangladesh. The 2001 census in Bangladesh included statistical data on population size. An initial count of the 2001 census put Bangladesh's population at 124.4 million. The Bangladesh Bureau of Statistics conducted a national census in Bangladesh in 2001. The 2001 census in Bangladesh included statistical data on sex and age distribution."
+    },
+    {
+      "chunk_id": "2b0cbf0b-979d-4df5-b55e-6cc1fe630d2f",
+      "chunk_title": "Demographics",
+      "chunk_summary": "This chunk contains information about the demographic age distribution and population statistics in Parkridge.",
+      "context_title": "Parkridge, Saskatoon",
+      "page_content": "As of 2005, the two main age groups in Parkridge are those in their 40s and teenagers. Parkridge had a 2001 census population of 4,505."
+    },
+    {
+      "chunk_id": "44a6eed2-a621-4158-855a-caeaac4e7b75",
+      "chunk_title": "Population Statistics",
+      "chunk_summary": "This chunk contains demographic data, such as population counts and growth rates from specific censuses, for various locations.",
+      "context_title": "Sauce Viejo, Argentina",
+      "page_content": "Sauce Viejo had 3,631 inhabitants according to the previous census. Sauce Viejo has a population of 6,825 inhabitants according to the 2001 census. The population of Sauce Viejo represents a growth of 87.96% compared to the previous census."
+    },
+    {
+      "chunk_id": "9a8014c0-6fae-486a-8213-4a3b4926ba46",
+      "chunk_title": "Berwick-upon-Tweed Overview",
+      "chunk_summary": "This chunk contains information about the administrative status, geographical location, and demographic characteristics of Berwick-upon-Tweed within Northumberland, England.",
+      "context_title": "Borough of Berwick-upon-Tweed",
+      "page_content": "The district of Berwick-upon-Tweed had a resident population of 25,949 according to the 2001 census. Berwick-upon-Tweed is on the border with Scotland. Eden was more densely populated than Berwick-upon-Tweed. Berwick-upon-Tweed was the third-least densely populated local government district in England. Northumberland is in the north-east of England. Berwick-upon-Tweed was a borough in Northumberland. Berwick-upon-Tweed was the smallest district in England with borough status. The 2001 census notes that Berwick-upon-Tweed is the most ethnically homogeneous district in the country. 99.6% of the population of Berwick-upon-Tweed recorded themselves as \"White\" in the 2001 census. Berwick-upon-Tweed was a local government district in Northumberland."
+    },
+    {
+      "chunk_id": "ceb565b1-5bed-4b36-9967-787b8c1fb130",
+      "chunk_title": "Population Counts",
+      "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+      "context_title": "Willoughton",
+      "page_content": "The population of Willoughton increased to 341 at the 2011 census. According to the 2001 Census, Willoughton had a population of 330."
+    },
+    {
+      "chunk_id": "f2602b19-a81e-4377-aa7c-fc813849814d",
+      "chunk_title": "Urbanization Trends",
+      "chunk_summary": "This chunk contains information about the historical timeline, acceleration, and statistical data regarding urbanization in India.",
+      "context_title": "Urbanisation in India",
+      "page_content": "According to the World Bank, India will lead the world's urban population surge by 2050. According to the 1901 census, the population residing in urban areas in India was 11.4%. According to the 2011 census, the population residing in urban areas in India crossed 30%. According to a survey by the UN State of the World Population report in 2007, 40.76% of India's population is expected to reside in urban areas by 2030. According to the 2011 census, the population residing in urban areas in India stood at 31.16%. According to the 2001 census, the population residing in urban areas in India increased to 28.53%. Urbanisation is taking place at a faster rate in India. Urbanization in India began to accelerate after independence."
+    },
+    {
+      "chunk_id": "b23473ea-8397-4c48-8792-042fbb11fcf8",
+      "chunk_title": "Population Statistics",
+      "chunk_summary": "This chunk contains demographic data, such as population counts and growth rates from census records, for specific locations.",
+      "context_title": "Enfield, North Carolina",
+      "page_content": "The population of Enfield in the 2010 United States Census reflects an increase of almost 8% from the population of 2,347 at the 2000 census. The population of Enfield at the 2000 census was 2,347. As of the 2010 United States Census, the population of Enfield was 2,532."
+    },
+    {
+      "chunk_id": "5ef54c1c-69a5-4722-b280-8c6d8901750f",
+      "chunk_title": "Saskatchewan City Populations",
+      "chunk_summary": "This chunk contains census population data for cities in Saskatchewan, including specific figures for Melville and Humboldt across different years and size comparisons with other municipalities.",
+      "context_title": "Parkridge, Saskatoon",
+      "page_content": "The provincial city of Humboldt had a population of 4,998 in 2006. The Saskatchewan city of Melville had a population of 4,453 in 2001. The provincial city of Humboldt had a population of 5,161 in 2001. Parkridge is a little smaller than the provincial city of Humboldt based on the cited census data. The Saskatchewan city of Melville had a population of 4,149 in 2006. Parkridge is larger than the Saskatchewan city of Melville based on the cited census data."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.15789473684210525,
+  "retrieval_count": 2,
+  "total_chunks": 19,
+  "total_distinct_titles": 12,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "According to the 2001 census, what was the population of the city in which Kirton End is located?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "According to the 2001 census, what was the population of the city in which Kirton End is located?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Kirton End 所在城市在 2001 年人口普查中的人口数",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。推理链：N1_1 确定 Kirton End 位于 Boston（单来源 chunk d2aae315 记载 'The civil parish of Kirton is in the Boston district'），N1_2 获取 Boston 2001 年人口为 35,124（单来源 chunk 4c2c1ccf 记载 'The town of Boston had a population of 35,124 at the 2001 census'）。两条子节点推理链完整，依赖边 N1_1→N1_2 语义有效（'Boston' 消解了 'that city'）。",
+          "critic_normative_advice": "推理链完整，子节点证据充分。建议 INHERIT——当前结构已覆盖 Q 的全部语义需求，无需新增节点。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which city is Kirton End located in?",
+          "answer": "Boston",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which city is Kirton End located in?",
+          "planner_rationale": "Q 询问的是 'the city in which Kirton End is located' 的人口——必须先确定 Kirton End 属于哪个城市，这是回答 Q 的前置事实",
+          "solver_judgment": "question 要求确认 Kirton End 所在的城市。search_query 搜索了 'Which city is Kirton End located in?'。chunks 返回了关于 Kirton End 的行政归属信息。chunk d2aae315 记载 'The civil parish of Kirton is in the Boston district'，表明 Kirton End 位于 Boston 区（Boston district）。虽然 Boston 在英国行政划分中通常被称为镇（town）而非城市（city），但在提供的上下文中，Boston 是其所属的主要行政区域和最近的主要定居点（chunk ee4b8bf9 提到 '4 mi south-west from Boston'）。因此提取 'Boston' 作为答案。检索结果提供了明确的行政归属信息，能够回答问题。",
+          "critic_factual_notes": "1 个来源（文档 Kirton End），单来源。chunk d2aae315 全文记载 'The civil parish of Kirton is in the Boston district'，直接陈述了 Kirton End 的行政归属。Solver 提取 'Boston' 作为答案——chunk 原文为 'Boston district'，存在粒度差异（district vs city），但在 KB 上下文中 Boston 是唯一可识别的行政区域名称。交叉验证：不充分（仅 1 个来源）。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地陈述了答案。注意：KB 中 Boston 被描述为 'district' 和 'town' 而非 'city'，但这是 KB 本身的表述限制，非搜索缺陷。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d2aae315-4d04-4292-a75b-33edd7d05db0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d2aae315-4d04-4292-a75b-33edd7d05db0",
+              "chunk_title": "Settlements & Administration",
+              "chunk_summary": "This chunk contains information about the classification and administrative hierarchy of specific settlements or populated places, including their status as hamlets and their location within civil parishes and districts.",
+              "context_title": "Kirton End",
+              "page_content": "Kirton End is in the civil parish of Kirton. The civil parish of Kirton is in the Boston district. The Boston district is in Lincolnshire. Kirton End is a hamlet."
+            },
+            {
+              "chunk_id": "cee68a00-e889-4abb-b0fe-6ed4b63375db",
+              "chunk_title": "English Village Locations",
+              "chunk_summary": "This chunk contains information about the location and classification of specific villages in England.",
+              "context_title": "Kirton, Nottinghamshire",
+              "page_content": "Kirton is located 3 mi east of Ollerton. Kirton is a village in Nottinghamshire, England."
+            },
+            {
+              "chunk_id": "ee4b8bf9-1a6c-4336-9a1d-76e7680d7c7b",
+              "chunk_title": "Location & Roads",
+              "chunk_summary": "This chunk contains information about the geographical location, distances from nearby towns, and road connections of specific places.",
+              "context_title": "Kirton End",
+              "page_content": "Kirton End lies on the B1391 road. Kirton End is 1.5 mi north-east from Kirton. Kirton End is 4 mi south-west from Boston."
+            },
+            {
+              "chunk_id": "1bf49503-e4c4-4f6f-a8b3-dcf27b1f0f29",
+              "chunk_title": "Village & Parish Classification",
+              "chunk_summary": "This chunk contains information about the classification and location of specific villages and civil parishes.",
+              "context_title": "Kirton, Suffolk",
+              "page_content": "Kirton is in the shire county of Suffolk. Kirton is a village. Kirton is a civil parish."
+            },
+            {
+              "chunk_id": "88948ec2-8867-45ab-a256-b504639ff9d8",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and physical characteristics of places in England, including their relation to roads, distances from other towns, proximity to transport links, nearby rivers, and total area.",
+              "context_title": "Kirton, Suffolk",
+              "page_content": "Suffolk is in England. Kirton is located between the River Debben and the River Orwell. Kirton is situated off the A14 road. The village of Kirton covers a total area of 8.3 km2. The closest train station to Kirton is Trimley. Kirton is around 10 km from Ipswich. Kirton is about 4.5 km from Felixstowe."
+            },
+            {
+              "chunk_id": "a1ea2feb-cf83-46ff-82b4-4bfde421d9c2",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of districts and settlements within Lincolnshire, England, including their positions relative to major roads and other towns.",
+              "context_title": "Willoughton",
+              "page_content": "The West Lindsey district is in Lincolnshire. Willoughton is situated 13 mi north from Lincoln. Willoughton is situated 2 mi west from the A15 road. Lincolnshire is in England. Willoughton is situated 3 mi south from Kirton Lindsey."
+            },
+            {
+              "chunk_id": "690709d3-cd93-494b-96ef-0d1990392bac",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+              "context_title": "Kirton, Suffolk",
+              "page_content": "According to the 2011 census, Kirton had a population of 1,146."
+            },
+            {
+              "chunk_id": "62a54dba-95d9-4c26-b9c7-ec4602c1a381",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+              "context_title": "Kirton, Nottinghamshire",
+              "page_content": "According to the United Kingdom Census 2001, Kirton had a population of 273. The population of Kirton reduced to 261 at the 2011 census."
+            },
+            {
+              "chunk_id": "ee9af2fb-f383-4fac-9e3a-78ec5b0bdf6b",
+              "chunk_title": "Construction Materials",
+              "chunk_summary": "This chunk contains information about the construction materials used in buildings within specific locations.",
+              "context_title": "Kirton, Suffolk",
+              "page_content": "Many of the buildings in Kirton are made from flint, clay and timber."
+            },
+            {
+              "chunk_id": "95f021fa-86cc-41a3-8a62-3f74edd4f4dd",
+              "chunk_title": "Locations",
+              "chunk_summary": "This chunk contains information about the location of specific buildings or establishments.",
+              "context_title": "The Atlantic Club Casino Hotel",
+              "page_content": "The Atlantic Club Casino Hotel is located at the southern end of the boardwalk in Atlantic City, New Jersey."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "According to the 2001 census, what was the population of that city?",
+          "answer": "35,124",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Boston population 2001 census",
+          "planner_rationale": "Q 的核心询问——目标城市在 2001 年人口普查中的人口数。此问题中的 'that city' 指代上一个节点的 answer，必须先消解才能搜索",
+          "solver_judgment": "question 要求根据 2001 年人口普查回答“that city”的人口。search_query 明确搜索了“Boston population 2001 census”。chunks 返回了 Boston, Lincolnshire 的信息，其中 chunk 4c2c1ccf-316f-4d92-93b3-8847fb477190 明确记载“The town of Boston had a population of 35,124 at the 2001 census”，直接提供了目标数据。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Boston, Lincolnshire），单来源。chunk 4c2c1ccf 全文记载 'The town of Boston had a population of 35,124 at the 2001 census'，直接、具体地陈述了答案 35,124。答案与 chunk 内容逐字匹配。交叉验证：不充分（仅 1 个来源）。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地陈述了答案，搜索精准，信息完整。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "4c2c1ccf-316f-4d92-93b3-8847fb477190"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "4c2c1ccf-316f-4d92-93b3-8847fb477190",
+              "chunk_title": "Town Identity & Demographics",
+              "chunk_summary": "This chunk contains information about the classification, identity, location, and population statistics of towns.",
+              "context_title": "Boston, Lincolnshire",
+              "page_content": "Boston is in Lincolnshire. Boston is a town. Boston is on the east coast of England. The town of Boston had a population of 35,124 at the 2001 census. Boston is the largest town of the wider Borough of Boston local government district. The Borough of Boston had a total population of 66,900 at the ONS mid 2015 estimates."
+            },
+            {
+              "chunk_id": "144111c1-f538-4d34-8fcd-b614d83f1b3d",
+              "chunk_title": "2001 Bangladesh Census",
+              "chunk_summary": "This chunk contains information about the 2001 national census in Bangladesh, including its timing relative to previous censuses, the conducting organization, geographic coverage, specific demographic and socioeconomic data collected, and population figures.",
+              "context_title": "2001 Bangladesh census",
+              "page_content": "The 2001 census in Bangladesh included statistical data on religion. The 2001 national census in Bangladesh was conducted ten years after the 1991 census. The 2001 census in Bangladesh included statistical data on the number of children. An adjustment for the standard rate of undercounting boosted the 2001 census population figure for Bangladesh. The 2001 census in Bangladesh included statistical data on households. The 2001 census in Bangladesh included statistical data on the economically active population. According to the adjusted 2001 census figures, Bangladesh's population stood at 129.3 million. The Bangladesh Bureau of Statistics recorded data from main cities in Bangladesh during the 2001 census. The Bangladesh Bureau of Statistics recorded data from all of the upazilas in Bangladesh during the 2001 census. The Bangladesh Bureau of Statistics recorded data from all of the districts in Bangladesh during the 2001 census. The 2001 census in Bangladesh included statistical data on marital status. The 2001 census in Bangladesh included statistical data on literacy and educational attainment. According to the 2001 census, Hindus were 9.2 per cent of the population of Bangladesh. The 2001 census in Bangladesh included statistical data on population size. An initial count of the 2001 census put Bangladesh's population at 124.4 million. The Bangladesh Bureau of Statistics conducted a national census in Bangladesh in 2001. The 2001 census in Bangladesh included statistical data on sex and age distribution."
+            },
+            {
+              "chunk_id": "2b0cbf0b-979d-4df5-b55e-6cc1fe630d2f",
+              "chunk_title": "Demographics",
+              "chunk_summary": "This chunk contains information about the demographic age distribution and population statistics in Parkridge.",
+              "context_title": "Parkridge, Saskatoon",
+              "page_content": "As of 2005, the two main age groups in Parkridge are those in their 40s and teenagers. Parkridge had a 2001 census population of 4,505."
+            },
+            {
+              "chunk_id": "44a6eed2-a621-4158-855a-caeaac4e7b75",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains demographic data, such as population counts and growth rates from specific censuses, for various locations.",
+              "context_title": "Sauce Viejo, Argentina",
+              "page_content": "Sauce Viejo had 3,631 inhabitants according to the previous census. Sauce Viejo has a population of 6,825 inhabitants according to the 2001 census. The population of Sauce Viejo represents a growth of 87.96% compared to the previous census."
+            },
+            {
+              "chunk_id": "9a8014c0-6fae-486a-8213-4a3b4926ba46",
+              "chunk_title": "Berwick-upon-Tweed Overview",
+              "chunk_summary": "This chunk contains information about the administrative status, geographical location, and demographic characteristics of Berwick-upon-Tweed within Northumberland, England.",
+              "context_title": "Borough of Berwick-upon-Tweed",
+              "page_content": "The district of Berwick-upon-Tweed had a resident population of 25,949 according to the 2001 census. Berwick-upon-Tweed is on the border with Scotland. Eden was more densely populated than Berwick-upon-Tweed. Berwick-upon-Tweed was the third-least densely populated local government district in England. Northumberland is in the north-east of England. Berwick-upon-Tweed was a borough in Northumberland. Berwick-upon-Tweed was the smallest district in England with borough status. The 2001 census notes that Berwick-upon-Tweed is the most ethnically homogeneous district in the country. 99.6% of the population of Berwick-upon-Tweed recorded themselves as \"White\" in the 2001 census. Berwick-upon-Tweed was a local government district in Northumberland."
+            },
+            {
+              "chunk_id": "62a54dba-95d9-4c26-b9c7-ec4602c1a381",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+              "context_title": "Kirton, Nottinghamshire",
+              "page_content": "According to the United Kingdom Census 2001, Kirton had a population of 273. The population of Kirton reduced to 261 at the 2011 census."
+            },
+            {
+              "chunk_id": "ceb565b1-5bed-4b36-9967-787b8c1fb130",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+              "context_title": "Willoughton",
+              "page_content": "The population of Willoughton increased to 341 at the 2011 census. According to the 2001 Census, Willoughton had a population of 330."
+            },
+            {
+              "chunk_id": "f2602b19-a81e-4377-aa7c-fc813849814d",
+              "chunk_title": "Urbanization Trends",
+              "chunk_summary": "This chunk contains information about the historical timeline, acceleration, and statistical data regarding urbanization in India.",
+              "context_title": "Urbanisation in India",
+              "page_content": "According to the World Bank, India will lead the world's urban population surge by 2050. According to the 1901 census, the population residing in urban areas in India was 11.4%. According to the 2011 census, the population residing in urban areas in India crossed 30%. According to a survey by the UN State of the World Population report in 2007, 40.76% of India's population is expected to reside in urban areas by 2030. According to the 2011 census, the population residing in urban areas in India stood at 31.16%. According to the 2001 census, the population residing in urban areas in India increased to 28.53%. Urbanisation is taking place at a faster rate in India. Urbanization in India began to accelerate after independence."
+            },
+            {
+              "chunk_id": "b23473ea-8397-4c48-8792-042fbb11fcf8",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains demographic data, such as population counts and growth rates from census records, for specific locations.",
+              "context_title": "Enfield, North Carolina",
+              "page_content": "The population of Enfield in the 2010 United States Census reflects an increase of almost 8% from the population of 2,347 at the 2000 census. The population of Enfield at the 2000 census was 2,347. As of the 2010 United States Census, the population of Enfield was 2,532."
+            },
+            {
+              "chunk_id": "5ef54c1c-69a5-4722-b280-8c6d8901750f",
+              "chunk_title": "Saskatchewan City Populations",
+              "chunk_summary": "This chunk contains census population data for cities in Saskatchewan, including specific figures for Melville and Humboldt across different years and size comparisons with other municipalities.",
+              "context_title": "Parkridge, Saskatoon",
+              "page_content": "The provincial city of Humboldt had a population of 4,998 in 2006. The Saskatchewan city of Melville had a population of 4,453 in 2001. The provincial city of Humboldt had a population of 5,161 in 2001. Parkridge is a little smaller than the provincial city of Humboldt based on the cited census data. The Saskatchewan city of Melville had a population of 4,149 in 2006. Parkridge is larger than the Saskatchewan city of Melville based on the cited census data."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "According to the 2001 census, what was the population of the city in which Kirton End is located?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "According to the 2001 census, what was the population of the city in which Kirton End is located?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Kirton End 所在城市在 2001 年人口普查中的人口数。子节点推理链完整：N1_1 确定城市为 Boston，N1_2 获取 Boston 2001 年人口为 35,124。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。N1_1：单来源（文档 Kirton End，chunk d2aae315）直接陈述 'The civil parish of Kirton is in the Boston district'，答案 Boston 与 chunk 内容一致。N1_2：单来源（文档 Boston, Lincolnshire，chunk 4c2c1ccf）直接陈述 'The town of Boston had a population of 35,124 at the 2001 census'，答案 35,124 与 chunk 内容逐字匹配。两条子节点推理链完整，依赖边 N1_1→N1_2 语义有效（'Boston' 消解了 'that city'）。",
+          "critic_normative_advice": "推理链完整，子节点证据充分。建议 INHERIT——当前结构已覆盖 Q 的全部语义需求，无需新增节点。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which city is Kirton End located in?",
+          "answer": "Boston",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which city is Kirton End located in?",
+          "planner_rationale": "Q 询问的是 'the city in which Kirton End is located' 的人口——必须先确定 Kirton End 属于哪个城市。已 solved + healthy，chunk d2aae315 直接陈述 'The civil parish of Kirton is in the Boston district'，答案 Boston 正确。",
+          "solver_judgment": "question 要求确认 Kirton End 所在的城市。search_query 搜索了 'Which city is Kirton End located in?'。chunks 返回了关于 Kirton End 的行政归属信息。chunk d2aae315 记载 'The civil parish of Kirton is in the Boston district'，表明 Kirton End 位于 Boston 区（Boston district）。虽然 Boston 在英国行政划分中通常被称为镇（town）而非城市（city），但在提供的上下文中，Boston 是其所属的主要行政区域和最近的主要定居点（chunk ee4b8bf9 提到 '4 mi south-west from Boston'）。因此提取 'Boston' 作为答案。检索结果提供了明确的行政归属信息，能够回答问题。",
+          "critic_factual_notes": "1 个来源（文档 Kirton End）。chunk d2aae315 全文记载 'Kirton End is in the civil parish of Kirton. The civil parish of Kirton is in the Boston district.'，直接陈述了 Kirton End 的行政归属。Solver 提取 'Boston' 作为答案——chunk 原文为 'Boston district'，存在粒度差异（district vs city），但在 KB 上下文中 Boston 是唯一可识别的行政区域名称。交叉验证：不充分（仅 1 个来源）。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地陈述了答案。注意：KB 中 Boston 被描述为 'district' 和 'town' 而非 'city'，但这是 KB 本身的表述限制，非搜索缺陷。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d2aae315-4d04-4292-a75b-33edd7d05db0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d2aae315-4d04-4292-a75b-33edd7d05db0",
+              "chunk_title": "Settlements & Administration",
+              "chunk_summary": "This chunk contains information about the classification and administrative hierarchy of specific settlements or populated places, including their status as hamlets and their location within civil parishes and districts.",
+              "context_title": "Kirton End",
+              "page_content": "Kirton End is in the civil parish of Kirton. The civil parish of Kirton is in the Boston district. The Boston district is in Lincolnshire. Kirton End is a hamlet."
+            },
+            {
+              "chunk_id": "cee68a00-e889-4abb-b0fe-6ed4b63375db",
+              "chunk_title": "English Village Locations",
+              "chunk_summary": "This chunk contains information about the location and classification of specific villages in England.",
+              "context_title": "Kirton, Nottinghamshire",
+              "page_content": "Kirton is located 3 mi east of Ollerton. Kirton is a village in Nottinghamshire, England."
+            },
+            {
+              "chunk_id": "ee4b8bf9-1a6c-4336-9a1d-76e7680d7c7b",
+              "chunk_title": "Location & Roads",
+              "chunk_summary": "This chunk contains information about the geographical location, distances from nearby towns, and road connections of specific places.",
+              "context_title": "Kirton End",
+              "page_content": "Kirton End lies on the B1391 road. Kirton End is 1.5 mi north-east from Kirton. Kirton End is 4 mi south-west from Boston."
+            },
+            {
+              "chunk_id": "1bf49503-e4c4-4f6f-a8b3-dcf27b1f0f29",
+              "chunk_title": "Village & Parish Classification",
+              "chunk_summary": "This chunk contains information about the classification and location of specific villages and civil parishes.",
+              "context_title": "Kirton, Suffolk",
+              "page_content": "Kirton is in the shire county of Suffolk. Kirton is a village. Kirton is a civil parish."
+            },
+            {
+              "chunk_id": "88948ec2-8867-45ab-a256-b504639ff9d8",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and physical characteristics of places in England, including their relation to roads, distances from other towns, proximity to transport links, nearby rivers, and total area.",
+              "context_title": "Kirton, Suffolk",
+              "page_content": "Suffolk is in England. Kirton is located between the River Debben and the River Orwell. Kirton is situated off the A14 road. The village of Kirton covers a total area of 8.3 km2. The closest train station to Kirton is Trimley. Kirton is around 10 km from Ipswich. Kirton is about 4.5 km from Felixstowe."
+            },
+            {
+              "chunk_id": "a1ea2feb-cf83-46ff-82b4-4bfde421d9c2",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of districts and settlements within Lincolnshire, England, including their positions relative to major roads and other towns.",
+              "context_title": "Willoughton",
+              "page_content": "The West Lindsey district is in Lincolnshire. Willoughton is situated 13 mi north from Lincoln. Willoughton is situated 2 mi west from the A15 road. Lincolnshire is in England. Willoughton is situated 3 mi south from Kirton Lindsey."
+            },
+            {
+              "chunk_id": "690709d3-cd93-494b-96ef-0d1990392bac",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+              "context_title": "Kirton, Suffolk",
+              "page_content": "According to the 2011 census, Kirton had a population of 1,146."
+            },
+            {
+              "chunk_id": "62a54dba-95d9-4c26-b9c7-ec4602c1a381",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+              "context_title": "Kirton, Nottinghamshire",
+              "page_content": "According to the United Kingdom Census 2001, Kirton had a population of 273. The population of Kirton reduced to 261 at the 2011 census."
+            },
+            {
+              "chunk_id": "ee9af2fb-f383-4fac-9e3a-78ec5b0bdf6b",
+              "chunk_title": "Construction Materials",
+              "chunk_summary": "This chunk contains information about the construction materials used in buildings within specific locations.",
+              "context_title": "Kirton, Suffolk",
+              "page_content": "Many of the buildings in Kirton are made from flint, clay and timber."
+            },
+            {
+              "chunk_id": "95f021fa-86cc-41a3-8a62-3f74edd4f4dd",
+              "chunk_title": "Locations",
+              "chunk_summary": "This chunk contains information about the location of specific buildings or establishments.",
+              "context_title": "The Atlantic Club Casino Hotel",
+              "page_content": "The Atlantic Club Casino Hotel is located at the southern end of the boardwalk in Atlantic City, New Jersey."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "According to the 2001 census, what was the population of that city?",
+          "answer": "35,124",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Boston population 2001 census",
+          "planner_rationale": "Q 的核心询问——目标城市在 2001 年人口普查中的人口数。已 solved + healthy，chunk 4c2c1ccf 直接陈述 'The town of Boston had a population of 35,124 at the 2001 census'，答案 35,124 正确。依赖 N1_1 的 answer 'Boston' 消解了 'that city' 指代。",
+          "solver_judgment": "question 要求根据 2001 年人口普查回答“that city”的人口。search_query 明确搜索了“Boston population 2001 census”。chunks 返回了 Boston, Lincolnshire 的信息，其中 chunk 4c2c1ccf-316f-4d92-93b3-8847fb477190 明确记载“The town of Boston had a population of 35,124 at the 2001 census”，直接提供了目标数据。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Boston, Lincolnshire）。chunk 4c2c1ccf 全文记载 'The town of Boston had a population of 35,124 at the 2001 census'，直接、具体地陈述了答案 35,124。答案与 chunk 内容逐字匹配。交叉验证：不充分（仅 1 个来源）。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地陈述了答案，搜索精准，信息完整。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "4c2c1ccf-316f-4d92-93b3-8847fb477190"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "4c2c1ccf-316f-4d92-93b3-8847fb477190",
+              "chunk_title": "Town Identity & Demographics",
+              "chunk_summary": "This chunk contains information about the classification, identity, location, and population statistics of towns.",
+              "context_title": "Boston, Lincolnshire",
+              "page_content": "Boston is in Lincolnshire. Boston is a town. Boston is on the east coast of England. The town of Boston had a population of 35,124 at the 2001 census. Boston is the largest town of the wider Borough of Boston local government district. The Borough of Boston had a total population of 66,900 at the ONS mid 2015 estimates."
+            },
+            {
+              "chunk_id": "144111c1-f538-4d34-8fcd-b614d83f1b3d",
+              "chunk_title": "2001 Bangladesh Census",
+              "chunk_summary": "This chunk contains information about the 2001 national census in Bangladesh, including its timing relative to previous censuses, the conducting organization, geographic coverage, specific demographic and socioeconomic data collected, and population figures.",
+              "context_title": "2001 Bangladesh census",
+              "page_content": "The 2001 census in Bangladesh included statistical data on religion. The 2001 national census in Bangladesh was conducted ten years after the 1991 census. The 2001 census in Bangladesh included statistical data on the number of children. An adjustment for the standard rate of undercounting boosted the 2001 census population figure for Bangladesh. The 2001 census in Bangladesh included statistical data on households. The 2001 census in Bangladesh included statistical data on the economically active population. According to the adjusted 2001 census figures, Bangladesh's population stood at 129.3 million. The Bangladesh Bureau of Statistics recorded data from main cities in Bangladesh during the 2001 census. The Bangladesh Bureau of Statistics recorded data from all of the upazilas in Bangladesh during the 2001 census. The Bangladesh Bureau of Statistics recorded data from all of the districts in Bangladesh during the 2001 census. The 2001 census in Bangladesh included statistical data on marital status. The 2001 census in Bangladesh included statistical data on literacy and educational attainment. According to the 2001 census, Hindus were 9.2 per cent of the population of Bangladesh. The 2001 census in Bangladesh included statistical data on population size. An initial count of the 2001 census put Bangladesh's population at 124.4 million. The Bangladesh Bureau of Statistics conducted a national census in Bangladesh in 2001. The 2001 census in Bangladesh included statistical data on sex and age distribution."
+            },
+            {
+              "chunk_id": "2b0cbf0b-979d-4df5-b55e-6cc1fe630d2f",
+              "chunk_title": "Demographics",
+              "chunk_summary": "This chunk contains information about the demographic age distribution and population statistics in Parkridge.",
+              "context_title": "Parkridge, Saskatoon",
+              "page_content": "As of 2005, the two main age groups in Parkridge are those in their 40s and teenagers. Parkridge had a 2001 census population of 4,505."
+            },
+            {
+              "chunk_id": "44a6eed2-a621-4158-855a-caeaac4e7b75",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains demographic data, such as population counts and growth rates from specific censuses, for various locations.",
+              "context_title": "Sauce Viejo, Argentina",
+              "page_content": "Sauce Viejo had 3,631 inhabitants according to the previous census. Sauce Viejo has a population of 6,825 inhabitants according to the 2001 census. The population of Sauce Viejo represents a growth of 87.96% compared to the previous census."
+            },
+            {
+              "chunk_id": "9a8014c0-6fae-486a-8213-4a3b4926ba46",
+              "chunk_title": "Berwick-upon-Tweed Overview",
+              "chunk_summary": "This chunk contains information about the administrative status, geographical location, and demographic characteristics of Berwick-upon-Tweed within Northumberland, England.",
+              "context_title": "Borough of Berwick-upon-Tweed",
+              "page_content": "The district of Berwick-upon-Tweed had a resident population of 25,949 according to the 2001 census. Berwick-upon-Tweed is on the border with Scotland. Eden was more densely populated than Berwick-upon-Tweed. Berwick-upon-Tweed was the third-least densely populated local government district in England. Northumberland is in the north-east of England. Berwick-upon-Tweed was a borough in Northumberland. Berwick-upon-Tweed was the smallest district in England with borough status. The 2001 census notes that Berwick-upon-Tweed is the most ethnically homogeneous district in the country. 99.6% of the population of Berwick-upon-Tweed recorded themselves as \"White\" in the 2001 census. Berwick-upon-Tweed was a local government district in Northumberland."
+            },
+            {
+              "chunk_id": "62a54dba-95d9-4c26-b9c7-ec4602c1a381",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+              "context_title": "Kirton, Nottinghamshire",
+              "page_content": "According to the United Kingdom Census 2001, Kirton had a population of 273. The population of Kirton reduced to 261 at the 2011 census."
+            },
+            {
+              "chunk_id": "ceb565b1-5bed-4b36-9967-787b8c1fb130",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various locations.",
+              "context_title": "Willoughton",
+              "page_content": "The population of Willoughton increased to 341 at the 2011 census. According to the 2001 Census, Willoughton had a population of 330."
+            },
+            {
+              "chunk_id": "f2602b19-a81e-4377-aa7c-fc813849814d",
+              "chunk_title": "Urbanization Trends",
+              "chunk_summary": "This chunk contains information about the historical timeline, acceleration, and statistical data regarding urbanization in India.",
+              "context_title": "Urbanisation in India",
+              "page_content": "According to the World Bank, India will lead the world's urban population surge by 2050. According to the 1901 census, the population residing in urban areas in India was 11.4%. According to the 2011 census, the population residing in urban areas in India crossed 30%. According to a survey by the UN State of the World Population report in 2007, 40.76% of India's population is expected to reside in urban areas by 2030. According to the 2011 census, the population residing in urban areas in India stood at 31.16%. According to the 2001 census, the population residing in urban areas in India increased to 28.53%. Urbanisation is taking place at a faster rate in India. Urbanization in India began to accelerate after independence."
+            },
+            {
+              "chunk_id": "b23473ea-8397-4c48-8792-042fbb11fcf8",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains demographic data, such as population counts and growth rates from census records, for specific locations.",
+              "context_title": "Enfield, North Carolina",
+              "page_content": "The population of Enfield in the 2010 United States Census reflects an increase of almost 8% from the population of 2,347 at the 2000 census. The population of Enfield at the 2000 census was 2,347. As of the 2010 United States Census, the population of Enfield was 2,532."
+            },
+            {
+              "chunk_id": "5ef54c1c-69a5-4722-b280-8c6d8901750f",
+              "chunk_title": "Saskatchewan City Populations",
+              "chunk_summary": "This chunk contains census population data for cities in Saskatchewan, including specific figures for Melville and Humboldt across different years and size comparisons with other municipalities.",
+              "context_title": "Parkridge, Saskatoon",
+              "page_content": "The provincial city of Humboldt had a population of 4,998 in 2006. The Saskatchewan city of Melville had a population of 4,453 in 2001. The provincial city of Humboldt had a population of 5,161 in 2001. Parkridge is a little smaller than the provincial city of Humboldt based on the cited census data. The Saskatchewan city of Melville had a population of 4,149 in 2006. Parkridge is larger than the Saskatchewan city of Melville based on the cited census data."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Which city is Kirton End located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "d2aae315-4d04-4292-a75b-33edd7d05db0",
+        "cee68a00-e889-4abb-b0fe-6ed4b63375db",
+        "ee4b8bf9-1a6c-4336-9a1d-76e7680d7c7b",
+        "1bf49503-e4c4-4f6f-a8b3-dcf27b1f0f29",
+        "88948ec2-8867-45ab-a256-b504639ff9d8",
+        "a1ea2feb-cf83-46ff-82b4-4bfde421d9c2",
+        "690709d3-cd93-494b-96ef-0d1990392bac",
+        "62a54dba-95d9-4c26-b9c7-ec4602c1a381",
+        "ee9af2fb-f383-4fac-9e3a-78ec5b0bdf6b",
+        "95f021fa-86cc-41a3-8a62-3f74edd4f4dd"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Boston population 2001 census",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "4c2c1ccf-316f-4d92-93b3-8847fb477190",
+        "144111c1-f538-4d34-8fcd-b614d83f1b3d",
+        "2b0cbf0b-979d-4df5-b55e-6cc1fe630d2f",
+        "44a6eed2-a621-4158-855a-caeaac4e7b75",
+        "9a8014c0-6fae-486a-8213-4a3b4926ba46",
+        "62a54dba-95d9-4c26-b9c7-ec4602c1a381",
+        "ceb565b1-5bed-4b36-9967-787b8c1fb130",
+        "f2602b19-a81e-4377-aa7c-fc813849814d",
+        "b23473ea-8397-4c48-8792-042fbb11fcf8",
+        "5ef54c1c-69a5-4722-b280-8c6d8901750f"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which city is Kirton End located in?（理由：Q 询问的是 Kirton End 所在城市的人口，必须先确定城市身份），F2: According to the 2001 census, what was the population of that city?（理由：Q 的核心询问——该城市 2001 年人口普查数据）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 \"that city\" 必须用 F1 的 answer 消解后才能构造有意义的搜索查询）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question=\"Which city is Kirton End located in?\"），原因：Q 隐含需要先确定 Kirton End 的归属城市；$2（question=\"According to the 2001 census, what was the population of that city?\"），原因：Q 的核心询问目标。新增边: N0→$1（decomposition），N0→$2（decomposition），$1→$2（dependency）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点（N1_1, N1_2）均已 SOLVED；② 推理链语义匹配——N1_1 answer='Boston' 消解了 N1_2 question 中的 'that city'，依赖链完整；③ 全部节点（N0, N1_1, N1_2）critic_health 均为 healthy；④ 首轮无拓扑变化。推理链完整，所有节点证据充分（虽均为单来源，但 chunk 内容直接、"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which city is Kirton End located in?（理由：Q 询问的是 Kirton End 所在城市的人口，必须先确定城市身份），F2: According to the 2001 census, what was the population of that city?（理由：Q 的核心询问——该城市 2001 年人口普查数据）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 \"that city\" 必须用 F1 的 answer 消解后才能构造有意义的搜索查询）。当前 DAG 已完全覆盖此结构，所有节点 solved + healthy，推理链完整。",
+      "hypothesis_delta": "本轮无结构调整——全部 INHERIT 并显式 LINK 保留所有边。原因：上一轮假设（先确定城市→再查人口的两步推理结构）被完全验证。N1_1 正确识别 Kirton End 位于 Boston（单来源 chunk d2aae315 直接支持），N1_2 正确获取 Boston 2001 年人口 35,124（单来源 chunk 4c2c1ccf 直接支持），依赖边 N1_1→N1_2 语义有效（'Boston' 消解了 'that city'）。Critic 确认无结构缺口、无冗余、无需调整。DAG 已收敛至理想状态。修正上一轮遗漏的边声明，确保拓扑结构完整保留。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足，推理链完整，所有节点证据充分。条件①：所有非根节点已 SOLVED（§5 确认）。条件④：本轮拓扑与上一轮一致（§5 确认）。条件②：路径 N0→N1_1→N1_2 中，N1_1 answer='Boston' 语义消解 N1_2 question 中的 'that city'，依赖链有效；路径 N0→N1_2 分解有效。条件③：N0、N1_1、N1_2 均为 healthy。N1_"
+      }
+    }
+  ]
+}

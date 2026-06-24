@@ -1,0 +1,679 @@
+{
+  "question_index": 310,
+  "question_id": "5ab285d1554299449642c8dd",
+  "question": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+  "answer": "United States",
+  "prediction": "United States",
+  "error": null,
+  "latency_ms": 255640.0152999995,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T14:35:23.617891+00:00",
+  "chunks": [
+    {
+      "chunk_id": "3c2b401f-a15b-4e8b-8be5-f9254bcb6075",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the specific locations and geographical details of airports.",
+      "context_title": "Monroe Regional Airport (Louisiana)",
+      "page_content": "Monroe Regional Airport is located three nautical miles (6 km) east of the central business district of Monroe. Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States."
+    },
+    {
+      "chunk_id": "44aea5b8-c45f-4f88-8bad-884397eff1c7",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of Monroe City Regional Airport, including its position relative to the central business district and its county.",
+      "context_title": "Monroe City Regional Airport",
+      "page_content": "Monroe City Regional Airport is located in Monroe County, Missouri, United States. Monroe City Regional Airport is located one nautical mile (1.85 km) south of the central business district of Monroe City."
+    },
+    {
+      "chunk_id": "1f1e80e2-cdd1-4f6d-b825-f0cf792555b9",
+      "chunk_title": "Airport Details",
+      "chunk_summary": "This chunk contains information about the location, ownership, public use status, and former names of specific airports.",
+      "context_title": "Charlotte–Monroe Executive Airport",
+      "page_content": "Charlotte–Monroe Executive Airport was formerly known as Monroe Regional Airport. Charlotte–Monroe Executive Airport is a public use airport. Charlotte–Monroe Executive Airport is owned by the City of Monroe. Charlotte–Monroe Executive Airport is located five nautical miles (9 km) northwest of the central business district of Monroe."
+    },
+    {
+      "chunk_id": "97864e69-98ba-4eb2-a569-83a60ac156d7",
+      "chunk_title": "Airport Codes",
+      "chunk_summary": "This chunk contains information about the various identification codes (IATA, ICAO, and FAA LID) assigned to specific airports.",
+      "context_title": "Monroe Regional Airport (Louisiana)",
+      "page_content": "Monroe Regional Airport has the FAA LID MLU. Monroe Regional Airport has the IATA code MLU. Monroe Regional Airport has the ICAO code KMLU."
+    },
+    {
+      "chunk_id": "c27b241c-695b-458c-9e03-c25d7f4e821e",
+      "chunk_title": "Airport Identifiers & Names",
+      "chunk_summary": "This chunk contains information about airport identifiers, codes, and alternative names.",
+      "context_title": "Monroe City Regional Airport",
+      "page_content": "Monroe City Regional Airport is also known as Capt. Ben Smith Airfield. Monroe City Regional Airport has the FAA LID K52."
+    },
+    {
+      "chunk_id": "12467119-41e7-4d82-b7d1-dda87acdc421",
+      "chunk_title": "City Location & Classification",
+      "chunk_summary": "This chunk contains information about the location and classification of cities.",
+      "context_title": "Charlotte–Monroe Executive Airport",
+      "page_content": "Monroe is a city in Union County, North Carolina, United States."
+    },
+    {
+      "chunk_id": "4efaff3a-44b1-43b0-aa5c-e792c2cd45d4",
+      "chunk_title": "Airport Ownership & Management",
+      "chunk_summary": "This chunk contains information about the ownership and management of airports by municipal entities.",
+      "context_title": "Monroe Regional Airport (Louisiana)",
+      "page_content": "The City of Monroe owns Monroe Regional Airport."
+    },
+    {
+      "chunk_id": "9e80b82a-f889-4eaf-a4a2-987d02c15b77",
+      "chunk_title": "Airport Classification & Usage",
+      "chunk_summary": "This chunk contains information about the classification and usage of airports.",
+      "context_title": "Monroe City Regional Airport",
+      "page_content": "Monroe City Regional Airport is a public use airport."
+    },
+    {
+      "chunk_id": "f3108e6d-cf54-497d-8571-ce2f928f784b",
+      "chunk_title": "Airport Classification & Use",
+      "chunk_summary": "This chunk contains information about the classification and public use status of airports.",
+      "context_title": "Monroe Regional Airport (Louisiana)",
+      "page_content": "Monroe Regional Airport is a public use airport."
+    },
+    {
+      "chunk_id": "611affd7-2409-4aab-b31e-c73854f06f5e",
+      "chunk_title": "Airport Ownership",
+      "chunk_summary": "This chunk contains information about the ownership of airports.",
+      "context_title": "Monroe City Regional Airport",
+      "page_content": "Monroe City Regional Airport is owned by the City of Monroe."
+    },
+    {
+      "chunk_id": "f7b8a583-cfa2-4e64-ba58-a814109010d1",
+      "chunk_title": "Deadhorse Location & Access",
+      "chunk_summary": "This chunk contains information about the geographical location, administrative context, accessibility, and tourist amenities of places, particularly focusing on Deadhorse, Alaska.",
+      "context_title": "Deadhorse, Alaska",
+      "page_content": "Fairbanks is 495 miles south of Deadhorse. Deadhorse is accessible via the Dalton Highway from Fairbanks. Deadhorse is in North Slope Borough, Alaska, United States. Deadhorse is along the North Slope near the Arctic Ocean. Limited accommodations are available for tourists in Deadhorse. Deadhorse is accessible via Deadhorse Airport."
+    },
+    {
+      "chunk_id": "37d24676-8944-4cc1-8634-4421d1bcb280",
+      "chunk_title": "Airport Locations & Access",
+      "chunk_summary": "This chunk contains information about the locations of airports, their surrounding geographical regions, and access routes.",
+      "context_title": "Deadhorse Airport",
+      "page_content": "Deadhorse Airport is near Prudhoe Bay. Deadhorse Airport is located in Deadhorse. Deadhorse Airport can be accessed from Fairbanks via the Elliott and Dalton highways. Deadhorse is on the North Slope of Alaska."
+    },
+    {
+      "chunk_id": "98b5b975-da00-4eec-b0e7-2734ef2c1be2",
+      "chunk_title": "Airport Codes & Names",
+      "chunk_summary": "This chunk contains information about airport codes, identifiers, and alternative names for specific airports.",
+      "context_title": "Deadhorse Airport",
+      "page_content": "Deadhorse Airport is sometimes also called Prudhoe Airport. Deadhorse Airport has the IATA code SCC. Deadhorse Airport has the ICAO code PASC. Deadhorse Airport has the FAA LID SCC."
+    },
+    {
+      "chunk_id": "0b8b6db5-c994-4272-b371-35bb0200a5fe",
+      "chunk_title": "Airport Classification & Status",
+      "chunk_summary": "This chunk contains information about the classification and status of airports.",
+      "context_title": "Deadhorse Airport",
+      "page_content": "Deadhorse Airport is a public airport."
+    },
+    {
+      "chunk_id": "321f832f-2a37-42f1-8a0a-95f0bd9d6d25",
+      "chunk_title": "Community Classification & Status",
+      "chunk_summary": "This chunk contains information about the classification and status of specific communities.",
+      "context_title": "Deadhorse, Alaska",
+      "page_content": "Deadhorse is an unincorporated community."
+    },
+    {
+      "chunk_id": "5b586465-def2-4f2d-8510-e5c788388bbd",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the specific geographic locations of airports, including their distance from cities and administrative regions.",
+      "context_title": "Boise Airport",
+      "page_content": "Boise Airport is located three miles south of Boise. Boise Airport is located in Ada County, Idaho, United States."
+    },
+    {
+      "chunk_id": "d95ee1c2-0772-48e5-bfe0-979d925f5cd2",
+      "chunk_title": "Industrial Town Composition",
+      "chunk_summary": "This chunk contains information about the composition and purpose of towns or settlements, particularly those serving specific industries like oil fields or worker populations.",
+      "context_title": "Deadhorse, Alaska",
+      "page_content": "The town of Deadhorse consists mainly of facilities for companies that operate at the nearby Prudhoe Bay oil fields. The town of Deadhorse consists mainly of facilities for workers."
+    },
+    {
+      "chunk_id": "c40f9542-984f-49ab-8f35-23d2b56011fa",
+      "chunk_title": "Airport Overview & Administration",
+      "chunk_summary": "This chunk contains information about the geographic location, ownership history, operational administration, and strategic purpose of Henderson Executive Airport.",
+      "context_title": "Henderson Executive Airport",
+      "page_content": "Henderson Executive Airport was purchased to be used as a reliever airport for McCarran International Airport. Henderson Executive Airport is operated by the Clark County Department of Aviation. Henderson Executive Airport is located 11 NM south of the central business district of Las Vegas. Henderson Executive Airport is located in Clark County, Nevada, United States. Henderson Executive Airport is owned by Clark County. Clark County purchased Henderson Executive Airport in 1996."
+    },
+    {
+      "chunk_id": "3ead21ae-f98b-4e11-b3cd-76137c97070d",
+      "chunk_title": "Aviation Incidents",
+      "chunk_summary": "This chunk contains information about specific aircraft models, locations, and environmental factors involved in aviation incidents.",
+      "context_title": "Andy Tyson",
+      "page_content": "The plane involved in the crash was a Cessna T210M. The crash investigation noted that wind currents in mountain areas can push small planes around. The Cessna T210M crashed in Custer County, Idaho."
+    },
+    {
+      "chunk_id": "ad223424-fb60-46cd-93d1-85d2c3d3aeea",
+      "chunk_title": "Alaska Locations",
+      "chunk_summary": "This chunk contains information about communities, areas, and regional designations located in Alaska.",
+      "context_title": "Politics of Alaska",
+      "page_content": "North Pole is included in Fairbanks. Midtown Anchorage is an area in Alaska. Downtown Anchorage is an area in Alaska. Juneau is a community in Alaska. Sitka is a community in Alaska. The areas surrounding the College/University of Alaska Fairbanks campus are in Alaska. The \"Alaska Bush\" refers to rural, sparsely populated Alaska. Eielson Air Force Base is included in Fairbanks. Ester is a community in Alaska."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.35,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 9,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问两个机场共同所在的国家",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，答案由子节点推理链聚合。两个子节点 N1_1 和 N1_2 均返回 'United States'，来源独立、结论一致，推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，两个机场均位于 United States，Q 的语义已完全覆盖。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is Monroe Regional Airport located in?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Monroe Regional Airport located in?",
+          "planner_rationale": "Q 询问两个机场共同所在的国家，需要先确定 Monroe Regional Airport 的所属国家",
+          "solver_judgment": "question 要求确认 Monroe Regional Airport 所在的国家。search_query 搜索了相同的问题。chunks 返回了多个机场的信息，其中 chunk 3c2b401f-a15b-4e8b-8be5-f9254bcb6075 明确记载 'Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Monroe Regional Airport (Louisiana)），chunk 3c2b401f 全文直接陈述 'Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States.'，与声称答案 'United States' 完全匹配。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 直接回答问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "3c2b401f-a15b-4e8b-8be5-f9254bcb6075"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "3c2b401f-a15b-4e8b-8be5-f9254bcb6075",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the specific locations and geographical details of airports.",
+              "context_title": "Monroe Regional Airport (Louisiana)",
+              "page_content": "Monroe Regional Airport is located three nautical miles (6 km) east of the central business district of Monroe. Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States."
+            },
+            {
+              "chunk_id": "44aea5b8-c45f-4f88-8bad-884397eff1c7",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of Monroe City Regional Airport, including its position relative to the central business district and its county.",
+              "context_title": "Monroe City Regional Airport",
+              "page_content": "Monroe City Regional Airport is located in Monroe County, Missouri, United States. Monroe City Regional Airport is located one nautical mile (1.85 km) south of the central business district of Monroe City."
+            },
+            {
+              "chunk_id": "1f1e80e2-cdd1-4f6d-b825-f0cf792555b9",
+              "chunk_title": "Airport Details",
+              "chunk_summary": "This chunk contains information about the location, ownership, public use status, and former names of specific airports.",
+              "context_title": "Charlotte–Monroe Executive Airport",
+              "page_content": "Charlotte–Monroe Executive Airport was formerly known as Monroe Regional Airport. Charlotte–Monroe Executive Airport is a public use airport. Charlotte–Monroe Executive Airport is owned by the City of Monroe. Charlotte–Monroe Executive Airport is located five nautical miles (9 km) northwest of the central business district of Monroe."
+            },
+            {
+              "chunk_id": "97864e69-98ba-4eb2-a569-83a60ac156d7",
+              "chunk_title": "Airport Codes",
+              "chunk_summary": "This chunk contains information about the various identification codes (IATA, ICAO, and FAA LID) assigned to specific airports.",
+              "context_title": "Monroe Regional Airport (Louisiana)",
+              "page_content": "Monroe Regional Airport has the FAA LID MLU. Monroe Regional Airport has the IATA code MLU. Monroe Regional Airport has the ICAO code KMLU."
+            },
+            {
+              "chunk_id": "c27b241c-695b-458c-9e03-c25d7f4e821e",
+              "chunk_title": "Airport Identifiers & Names",
+              "chunk_summary": "This chunk contains information about airport identifiers, codes, and alternative names.",
+              "context_title": "Monroe City Regional Airport",
+              "page_content": "Monroe City Regional Airport is also known as Capt. Ben Smith Airfield. Monroe City Regional Airport has the FAA LID K52."
+            },
+            {
+              "chunk_id": "12467119-41e7-4d82-b7d1-dda87acdc421",
+              "chunk_title": "City Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of cities.",
+              "context_title": "Charlotte–Monroe Executive Airport",
+              "page_content": "Monroe is a city in Union County, North Carolina, United States."
+            },
+            {
+              "chunk_id": "4efaff3a-44b1-43b0-aa5c-e792c2cd45d4",
+              "chunk_title": "Airport Ownership & Management",
+              "chunk_summary": "This chunk contains information about the ownership and management of airports by municipal entities.",
+              "context_title": "Monroe Regional Airport (Louisiana)",
+              "page_content": "The City of Monroe owns Monroe Regional Airport."
+            },
+            {
+              "chunk_id": "9e80b82a-f889-4eaf-a4a2-987d02c15b77",
+              "chunk_title": "Airport Classification & Usage",
+              "chunk_summary": "This chunk contains information about the classification and usage of airports.",
+              "context_title": "Monroe City Regional Airport",
+              "page_content": "Monroe City Regional Airport is a public use airport."
+            },
+            {
+              "chunk_id": "f3108e6d-cf54-497d-8571-ce2f928f784b",
+              "chunk_title": "Airport Classification & Use",
+              "chunk_summary": "This chunk contains information about the classification and public use status of airports.",
+              "context_title": "Monroe Regional Airport (Louisiana)",
+              "page_content": "Monroe Regional Airport is a public use airport."
+            },
+            {
+              "chunk_id": "611affd7-2409-4aab-b31e-c73854f06f5e",
+              "chunk_title": "Airport Ownership",
+              "chunk_summary": "This chunk contains information about the ownership of airports.",
+              "context_title": "Monroe City Regional Airport",
+              "page_content": "Monroe City Regional Airport is owned by the City of Monroe."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is Deadhorse Airport located in?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Deadhorse Airport located in?",
+          "planner_rationale": "Q 询问两个机场共同所在的国家，需要先确定 Deadhorse Airport 的所属国家",
+          "solver_judgment": "question 要求确认 Deadhorse Airport 所在的国家。search_query 直接搜索了该问题。chunks 中，chunk 37d24676 指出 'Deadhorse Airport is located in Deadhorse'，而 chunk f7b8a583 指出 'Deadhorse is in North Slope Borough, Alaska, United States'。通过这两个 chunk 的地理位置关联，明确得出该机场位于美国（United States）。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源，来自 2 个独立文档（Deadhorse, Alaska 和 Deadhorse Airport）。chunk 37d24676 陈述 'Deadhorse Airport is located in Deadhorse'，chunk f7b8a583 陈述 'Deadhorse is in North Slope Borough, Alaska, United States'。两步推理链（机场→城市→国家）逻辑自洽，两个独立来源一致支撑最终答案 'United States'。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，两步推理链完整，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f7b8a583-cfa2-4e64-ba58-a814109010d1",
+            "37d24676-8944-4cc1-8634-4421d1bcb280"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f7b8a583-cfa2-4e64-ba58-a814109010d1",
+              "chunk_title": "Deadhorse Location & Access",
+              "chunk_summary": "This chunk contains information about the geographical location, administrative context, accessibility, and tourist amenities of places, particularly focusing on Deadhorse, Alaska.",
+              "context_title": "Deadhorse, Alaska",
+              "page_content": "Fairbanks is 495 miles south of Deadhorse. Deadhorse is accessible via the Dalton Highway from Fairbanks. Deadhorse is in North Slope Borough, Alaska, United States. Deadhorse is along the North Slope near the Arctic Ocean. Limited accommodations are available for tourists in Deadhorse. Deadhorse is accessible via Deadhorse Airport."
+            },
+            {
+              "chunk_id": "37d24676-8944-4cc1-8634-4421d1bcb280",
+              "chunk_title": "Airport Locations & Access",
+              "chunk_summary": "This chunk contains information about the locations of airports, their surrounding geographical regions, and access routes.",
+              "context_title": "Deadhorse Airport",
+              "page_content": "Deadhorse Airport is near Prudhoe Bay. Deadhorse Airport is located in Deadhorse. Deadhorse Airport can be accessed from Fairbanks via the Elliott and Dalton highways. Deadhorse is on the North Slope of Alaska."
+            },
+            {
+              "chunk_id": "98b5b975-da00-4eec-b0e7-2734ef2c1be2",
+              "chunk_title": "Airport Codes & Names",
+              "chunk_summary": "This chunk contains information about airport codes, identifiers, and alternative names for specific airports.",
+              "context_title": "Deadhorse Airport",
+              "page_content": "Deadhorse Airport is sometimes also called Prudhoe Airport. Deadhorse Airport has the IATA code SCC. Deadhorse Airport has the ICAO code PASC. Deadhorse Airport has the FAA LID SCC."
+            },
+            {
+              "chunk_id": "0b8b6db5-c994-4272-b371-35bb0200a5fe",
+              "chunk_title": "Airport Classification & Status",
+              "chunk_summary": "This chunk contains information about the classification and status of airports.",
+              "context_title": "Deadhorse Airport",
+              "page_content": "Deadhorse Airport is a public airport."
+            },
+            {
+              "chunk_id": "321f832f-2a37-42f1-8a0a-95f0bd9d6d25",
+              "chunk_title": "Community Classification & Status",
+              "chunk_summary": "This chunk contains information about the classification and status of specific communities.",
+              "context_title": "Deadhorse, Alaska",
+              "page_content": "Deadhorse is an unincorporated community."
+            },
+            {
+              "chunk_id": "5b586465-def2-4f2d-8510-e5c788388bbd",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the specific geographic locations of airports, including their distance from cities and administrative regions.",
+              "context_title": "Boise Airport",
+              "page_content": "Boise Airport is located three miles south of Boise. Boise Airport is located in Ada County, Idaho, United States."
+            },
+            {
+              "chunk_id": "d95ee1c2-0772-48e5-bfe0-979d925f5cd2",
+              "chunk_title": "Industrial Town Composition",
+              "chunk_summary": "This chunk contains information about the composition and purpose of towns or settlements, particularly those serving specific industries like oil fields or worker populations.",
+              "context_title": "Deadhorse, Alaska",
+              "page_content": "The town of Deadhorse consists mainly of facilities for companies that operate at the nearby Prudhoe Bay oil fields. The town of Deadhorse consists mainly of facilities for workers."
+            },
+            {
+              "chunk_id": "c40f9542-984f-49ab-8f35-23d2b56011fa",
+              "chunk_title": "Airport Overview & Administration",
+              "chunk_summary": "This chunk contains information about the geographic location, ownership history, operational administration, and strategic purpose of Henderson Executive Airport.",
+              "context_title": "Henderson Executive Airport",
+              "page_content": "Henderson Executive Airport was purchased to be used as a reliever airport for McCarran International Airport. Henderson Executive Airport is operated by the Clark County Department of Aviation. Henderson Executive Airport is located 11 NM south of the central business district of Las Vegas. Henderson Executive Airport is located in Clark County, Nevada, United States. Henderson Executive Airport is owned by Clark County. Clark County purchased Henderson Executive Airport in 1996."
+            },
+            {
+              "chunk_id": "3ead21ae-f98b-4e11-b3cd-76137c97070d",
+              "chunk_title": "Aviation Incidents",
+              "chunk_summary": "This chunk contains information about specific aircraft models, locations, and environmental factors involved in aviation incidents.",
+              "context_title": "Andy Tyson",
+              "page_content": "The plane involved in the crash was a Cessna T210M. The crash investigation noted that wind currents in mountain areas can push small planes around. The Cessna T210M crashed in Custer County, Idaho."
+            },
+            {
+              "chunk_id": "ad223424-fb60-46cd-93d1-85d2c3d3aeea",
+              "chunk_title": "Alaska Locations",
+              "chunk_summary": "This chunk contains information about communities, areas, and regional designations located in Alaska.",
+              "context_title": "Politics of Alaska",
+              "page_content": "North Pole is included in Fairbanks. Midtown Anchorage is an area in Alaska. Downtown Anchorage is an area in Alaska. Juneau is a community in Alaska. Sitka is a community in Alaska. The areas surrounding the College/University of Alaska Fairbanks campus are in Alaska. The \"Alaska Bush\" refers to rural, sparsely populated Alaska. Eielson Air Force Base is included in Fairbanks. Ester is a community in Alaska."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。两个子节点 N1_1 和 N1_2 均已 SOLVED + healthy，均返回 'United States'，来源独立、结论一致。Q 的语义已完全覆盖，答案可由子节点推理链聚合得出。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，答案由子节点推理链聚合。两个子节点 N1_1 和 N1_2 均返回 'United States'，来源独立（N1_1 来自 Monroe Regional Airport 文档，N1_2 来自 Deadhorse Airport 和 Deadhorse, Alaska 文档），结论一致，推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，两个机场均位于 United States，Q 的语义已完全覆盖。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is Monroe Regional Airport located in?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Monroe Regional Airport located in?",
+          "planner_rationale": "Q 询问两个机场共同所在的国家，需先确定 Monroe Regional Airport 的所属国家。已 SOLVED + healthy，chunk 3c2b401f 直接陈述该机场位于 'Ouachita Parish, Louisiana, United States'，证据充分。",
+          "solver_judgment": "question 要求确认 Monroe Regional Airport 所在的国家。search_query 搜索了相同的问题。chunks 返回了多个机场的信息，其中 chunk 3c2b401f-a15b-4e8b-8be5-f9254bcb6075 明确记载 'Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Monroe Regional Airport (Louisiana)），chunk 3c2b401f 全文直接陈述 'Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States.'，与声称答案 'United States' 完全匹配。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 直接回答问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "3c2b401f-a15b-4e8b-8be5-f9254bcb6075"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "3c2b401f-a15b-4e8b-8be5-f9254bcb6075",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the specific locations and geographical details of airports.",
+              "context_title": "Monroe Regional Airport (Louisiana)",
+              "page_content": "Monroe Regional Airport is located three nautical miles (6 km) east of the central business district of Monroe. Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States."
+            },
+            {
+              "chunk_id": "44aea5b8-c45f-4f88-8bad-884397eff1c7",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of Monroe City Regional Airport, including its position relative to the central business district and its county.",
+              "context_title": "Monroe City Regional Airport",
+              "page_content": "Monroe City Regional Airport is located in Monroe County, Missouri, United States. Monroe City Regional Airport is located one nautical mile (1.85 km) south of the central business district of Monroe City."
+            },
+            {
+              "chunk_id": "1f1e80e2-cdd1-4f6d-b825-f0cf792555b9",
+              "chunk_title": "Airport Details",
+              "chunk_summary": "This chunk contains information about the location, ownership, public use status, and former names of specific airports.",
+              "context_title": "Charlotte–Monroe Executive Airport",
+              "page_content": "Charlotte–Monroe Executive Airport was formerly known as Monroe Regional Airport. Charlotte–Monroe Executive Airport is a public use airport. Charlotte–Monroe Executive Airport is owned by the City of Monroe. Charlotte–Monroe Executive Airport is located five nautical miles (9 km) northwest of the central business district of Monroe."
+            },
+            {
+              "chunk_id": "97864e69-98ba-4eb2-a569-83a60ac156d7",
+              "chunk_title": "Airport Codes",
+              "chunk_summary": "This chunk contains information about the various identification codes (IATA, ICAO, and FAA LID) assigned to specific airports.",
+              "context_title": "Monroe Regional Airport (Louisiana)",
+              "page_content": "Monroe Regional Airport has the FAA LID MLU. Monroe Regional Airport has the IATA code MLU. Monroe Regional Airport has the ICAO code KMLU."
+            },
+            {
+              "chunk_id": "c27b241c-695b-458c-9e03-c25d7f4e821e",
+              "chunk_title": "Airport Identifiers & Names",
+              "chunk_summary": "This chunk contains information about airport identifiers, codes, and alternative names.",
+              "context_title": "Monroe City Regional Airport",
+              "page_content": "Monroe City Regional Airport is also known as Capt. Ben Smith Airfield. Monroe City Regional Airport has the FAA LID K52."
+            },
+            {
+              "chunk_id": "12467119-41e7-4d82-b7d1-dda87acdc421",
+              "chunk_title": "City Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of cities.",
+              "context_title": "Charlotte–Monroe Executive Airport",
+              "page_content": "Monroe is a city in Union County, North Carolina, United States."
+            },
+            {
+              "chunk_id": "4efaff3a-44b1-43b0-aa5c-e792c2cd45d4",
+              "chunk_title": "Airport Ownership & Management",
+              "chunk_summary": "This chunk contains information about the ownership and management of airports by municipal entities.",
+              "context_title": "Monroe Regional Airport (Louisiana)",
+              "page_content": "The City of Monroe owns Monroe Regional Airport."
+            },
+            {
+              "chunk_id": "9e80b82a-f889-4eaf-a4a2-987d02c15b77",
+              "chunk_title": "Airport Classification & Usage",
+              "chunk_summary": "This chunk contains information about the classification and usage of airports.",
+              "context_title": "Monroe City Regional Airport",
+              "page_content": "Monroe City Regional Airport is a public use airport."
+            },
+            {
+              "chunk_id": "f3108e6d-cf54-497d-8571-ce2f928f784b",
+              "chunk_title": "Airport Classification & Use",
+              "chunk_summary": "This chunk contains information about the classification and public use status of airports.",
+              "context_title": "Monroe Regional Airport (Louisiana)",
+              "page_content": "Monroe Regional Airport is a public use airport."
+            },
+            {
+              "chunk_id": "611affd7-2409-4aab-b31e-c73854f06f5e",
+              "chunk_title": "Airport Ownership",
+              "chunk_summary": "This chunk contains information about the ownership of airports.",
+              "context_title": "Monroe City Regional Airport",
+              "page_content": "Monroe City Regional Airport is owned by the City of Monroe."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is Deadhorse Airport located in?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Deadhorse Airport located in?",
+          "planner_rationale": "Q 询问两个机场共同所在的国家，需先确定 Deadhorse Airport 的所属国家。已 SOLVED + healthy，两步推理链（机场→Deadhorse 城市→Alaska, United States）逻辑自洽，两个独立来源一致支撑答案。",
+          "solver_judgment": "question 要求确认 Deadhorse Airport 所在的国家。search_query 直接搜索了该问题。chunks 中，chunk 37d24676 指出 'Deadhorse Airport is located in Deadhorse'，而 chunk f7b8a583 指出 'Deadhorse is in North Slope Borough, Alaska, United States'。通过这两个 chunk 的地理位置关联，明确得出该机场位于美国（United States）。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源，来自 2 个独立文档（Deadhorse, Alaska 和 Deadhorse Airport）。chunk 37d24676 陈述 'Deadhorse Airport is located in Deadhorse'，chunk f7b8a583 陈述 'Deadhorse is in North Slope Borough, Alaska, United States'。两步推理链（机场→城市→国家）逻辑自洽，两个独立来源一致支撑最终答案 'United States'。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，两步推理链完整，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f7b8a583-cfa2-4e64-ba58-a814109010d1",
+            "37d24676-8944-4cc1-8634-4421d1bcb280"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f7b8a583-cfa2-4e64-ba58-a814109010d1",
+              "chunk_title": "Deadhorse Location & Access",
+              "chunk_summary": "This chunk contains information about the geographical location, administrative context, accessibility, and tourist amenities of places, particularly focusing on Deadhorse, Alaska.",
+              "context_title": "Deadhorse, Alaska",
+              "page_content": "Fairbanks is 495 miles south of Deadhorse. Deadhorse is accessible via the Dalton Highway from Fairbanks. Deadhorse is in North Slope Borough, Alaska, United States. Deadhorse is along the North Slope near the Arctic Ocean. Limited accommodations are available for tourists in Deadhorse. Deadhorse is accessible via Deadhorse Airport."
+            },
+            {
+              "chunk_id": "37d24676-8944-4cc1-8634-4421d1bcb280",
+              "chunk_title": "Airport Locations & Access",
+              "chunk_summary": "This chunk contains information about the locations of airports, their surrounding geographical regions, and access routes.",
+              "context_title": "Deadhorse Airport",
+              "page_content": "Deadhorse Airport is near Prudhoe Bay. Deadhorse Airport is located in Deadhorse. Deadhorse Airport can be accessed from Fairbanks via the Elliott and Dalton highways. Deadhorse is on the North Slope of Alaska."
+            },
+            {
+              "chunk_id": "98b5b975-da00-4eec-b0e7-2734ef2c1be2",
+              "chunk_title": "Airport Codes & Names",
+              "chunk_summary": "This chunk contains information about airport codes, identifiers, and alternative names for specific airports.",
+              "context_title": "Deadhorse Airport",
+              "page_content": "Deadhorse Airport is sometimes also called Prudhoe Airport. Deadhorse Airport has the IATA code SCC. Deadhorse Airport has the ICAO code PASC. Deadhorse Airport has the FAA LID SCC."
+            },
+            {
+              "chunk_id": "0b8b6db5-c994-4272-b371-35bb0200a5fe",
+              "chunk_title": "Airport Classification & Status",
+              "chunk_summary": "This chunk contains information about the classification and status of airports.",
+              "context_title": "Deadhorse Airport",
+              "page_content": "Deadhorse Airport is a public airport."
+            },
+            {
+              "chunk_id": "321f832f-2a37-42f1-8a0a-95f0bd9d6d25",
+              "chunk_title": "Community Classification & Status",
+              "chunk_summary": "This chunk contains information about the classification and status of specific communities.",
+              "context_title": "Deadhorse, Alaska",
+              "page_content": "Deadhorse is an unincorporated community."
+            },
+            {
+              "chunk_id": "5b586465-def2-4f2d-8510-e5c788388bbd",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the specific geographic locations of airports, including their distance from cities and administrative regions.",
+              "context_title": "Boise Airport",
+              "page_content": "Boise Airport is located three miles south of Boise. Boise Airport is located in Ada County, Idaho, United States."
+            },
+            {
+              "chunk_id": "d95ee1c2-0772-48e5-bfe0-979d925f5cd2",
+              "chunk_title": "Industrial Town Composition",
+              "chunk_summary": "This chunk contains information about the composition and purpose of towns or settlements, particularly those serving specific industries like oil fields or worker populations.",
+              "context_title": "Deadhorse, Alaska",
+              "page_content": "The town of Deadhorse consists mainly of facilities for companies that operate at the nearby Prudhoe Bay oil fields. The town of Deadhorse consists mainly of facilities for workers."
+            },
+            {
+              "chunk_id": "c40f9542-984f-49ab-8f35-23d2b56011fa",
+              "chunk_title": "Airport Overview & Administration",
+              "chunk_summary": "This chunk contains information about the geographic location, ownership history, operational administration, and strategic purpose of Henderson Executive Airport.",
+              "context_title": "Henderson Executive Airport",
+              "page_content": "Henderson Executive Airport was purchased to be used as a reliever airport for McCarran International Airport. Henderson Executive Airport is operated by the Clark County Department of Aviation. Henderson Executive Airport is located 11 NM south of the central business district of Las Vegas. Henderson Executive Airport is located in Clark County, Nevada, United States. Henderson Executive Airport is owned by Clark County. Clark County purchased Henderson Executive Airport in 1996."
+            },
+            {
+              "chunk_id": "3ead21ae-f98b-4e11-b3cd-76137c97070d",
+              "chunk_title": "Aviation Incidents",
+              "chunk_summary": "This chunk contains information about specific aircraft models, locations, and environmental factors involved in aviation incidents.",
+              "context_title": "Andy Tyson",
+              "page_content": "The plane involved in the crash was a Cessna T210M. The crash investigation noted that wind currents in mountain areas can push small planes around. The Cessna T210M crashed in Custer County, Idaho."
+            },
+            {
+              "chunk_id": "ad223424-fb60-46cd-93d1-85d2c3d3aeea",
+              "chunk_title": "Alaska Locations",
+              "chunk_summary": "This chunk contains information about communities, areas, and regional designations located in Alaska.",
+              "context_title": "Politics of Alaska",
+              "page_content": "North Pole is included in Fairbanks. Midtown Anchorage is an area in Alaska. Downtown Anchorage is an area in Alaska. Juneau is a community in Alaska. Sitka is a community in Alaska. The areas surrounding the College/University of Alaska Fairbanks campus are in Alaska. The \"Alaska Bush\" refers to rural, sparsely populated Alaska. Eielson Air Force Base is included in Fairbanks. Ester is a community in Alaska."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What country is Monroe Regional Airport located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "3c2b401f-a15b-4e8b-8be5-f9254bcb6075",
+        "44aea5b8-c45f-4f88-8bad-884397eff1c7",
+        "1f1e80e2-cdd1-4f6d-b825-f0cf792555b9",
+        "97864e69-98ba-4eb2-a569-83a60ac156d7",
+        "c27b241c-695b-458c-9e03-c25d7f4e821e",
+        "12467119-41e7-4d82-b7d1-dda87acdc421",
+        "4efaff3a-44b1-43b0-aa5c-e792c2cd45d4",
+        "9e80b82a-f889-4eaf-a4a2-987d02c15b77",
+        "f3108e6d-cf54-497d-8571-ce2f928f784b",
+        "611affd7-2409-4aab-b31e-c73854f06f5e"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What country is Deadhorse Airport located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f7b8a583-cfa2-4e64-ba58-a814109010d1",
+        "37d24676-8944-4cc1-8634-4421d1bcb280",
+        "98b5b975-da00-4eec-b0e7-2734ef2c1be2",
+        "0b8b6db5-c994-4272-b371-35bb0200a5fe",
+        "321f832f-2a37-42f1-8a0a-95f0bd9d6d25",
+        "5b586465-def2-4f2d-8510-e5c788388bbd",
+        "d95ee1c2-0772-48e5-bfe0-979d925f5cd2",
+        "c40f9542-984f-49ab-8f35-23d2b56011fa",
+        "3ead21ae-f98b-4e11-b3cd-76137c97070d",
+        "ad223424-fb60-46cd-93d1-85d2c3d3aeea"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Monroe Regional Airport located in?（理由：Q 问两个机场共同所在的国家，需先确定第一个机场的归属国），F2: What country is Deadhorse Airport located in?（理由：同理，需确定第二个机场的归属国）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两个子事实各自独立可搜索，答案汇总后即可得出 Q 的答案（两国名应相同，即为共同所在国家）。无 dependency 边——两个子问题的 question 都是自包含的，不依赖彼此的答案。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 的核心是找出两个机场的共同所属国，因此将问题分解为两个独立的子查询，分别定位每个机场的国家归属。两个子节点通过 decomposition 边连接到根节点，表示它们是 Q 的组成部分。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点 question 自包含不依赖父节点答案；③全部节点 healthy——N1_1 单来源直接支撑，N1_2 双来源推理链完整，N0 子节点一致聚合；④首轮无拓扑变化。答案置信度高：两个机场均位于 United States，证据充分。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Monroe Regional Airport located in?（理由：Q 问两个机场共同所在的国家，需先确定第一个机场的归属国），F2: What country is Deadhorse Airport located in?（理由：同理，需确定第二个机场的归属国）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两个子事实各自独立可搜索，答案汇总后即可得出 Q 的答案（两国名相同，即为共同所在国家 United States）。无 dependency 边——两个子问题的 question 都是自包含的，不依赖彼此的答案。当前 DAG 已完全覆盖 Q 的所有语义需求，两个子节点均已 SOLVED + healthy，推理链完整且一致。",
+      "hypothesis_delta": "全部 INHERIT + LINK 保留现有结构，无调整。原因：上一轮假设（F1 和 F2 作为 Q 的两个 decomposition 子节点）已被完全验证——N1_1 和 N1_2 均 SOLVED + healthy，均返回 'United States'，来源独立、结论一致。Critic 确认当前 DAG 是 Q 的理想分解结构，无需调整。收敛达成。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子问题自包含无需上游答案消解指代，答案聚合后可支撑父节点推理；条件③全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；条件④拓扑连续不变。两个机场均确认位于 United States，来源独立、结论一致，推理链完整，可生成最"
+      }
+    }
+  ]
+}

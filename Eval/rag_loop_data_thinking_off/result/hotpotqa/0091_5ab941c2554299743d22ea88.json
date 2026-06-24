@@ -1,0 +1,288 @@
+{
+  "question_index": 91,
+  "question_id": "5ab941c2554299743d22ea88",
+  "question": "What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?",
+  "answer": "Carolyn Janice Cherry (born September 1, 1942), better known by the pen name C. J. Cherryh,",
+  "prediction": "C. J. Cherryh",
+  "error": null,
+  "latency_ms": 89069.77699999698,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T17:06:35.262162+00:00",
+  "chunks": [
+    {
+      "chunk_id": "aeb23ed4-baf8-42cc-ae64-b765a9109568",
+      "chunk_title": "Author Names",
+      "chunk_summary": "This chunk contains information about the real names and pen names of authors.",
+      "context_title": "C. J. Cherryh",
+      "page_content": "Carolyn Janice Cherry is better known by the pen name C. J. Cherryh."
+    },
+    {
+      "chunk_id": "81b888bf-0027-4ab0-a789-d01ad35b8d39",
+      "chunk_title": "Birth Dates",
+      "chunk_summary": "This chunk contains biographical information about individuals, specifically their birth dates.",
+      "context_title": "C. J. Cherryh",
+      "page_content": "Carolyn Janice Cherry was born on September 1, 1942."
+    },
+    {
+      "chunk_id": "1ade27a1-53bc-4b9b-b923-b622f4d1b758",
+      "chunk_title": "Authors & Pen Names",
+      "chunk_summary": "This chunk contains information about authors, including their backgrounds, pen names, and the genres they write in.",
+      "context_title": "Carolyn Zane",
+      "page_content": "Carolyn Pizzuti uses the pen name Carolyn Zane. Carolyn Pizzuti has been published as Suzy Pizzuti. Carolyn Pizzuti writes romance novels. Carolyn Pizzuti is an American author."
+    },
+    {
+      "chunk_id": "7658c09e-a795-42df-866f-c3c4886b64e5",
+      "chunk_title": "Authors & Pen Names",
+      "chunk_summary": "This chunk contains information about authors using pen names to manage prolific output.",
+      "context_title": "Jane Thayer",
+      "page_content": "Jane Thayer was a pen name of Catherine Woolley. Jane Thayer was so prolific that her editor suggested she publish some of her works under a pen name."
+    },
+    {
+      "chunk_id": "fc1ae4b6-c736-4c23-bd46-ba65fed96926",
+      "chunk_title": "Author Names & Pen Names",
+      "chunk_summary": "This chunk contains information about the relationship between an author's legal names and pen names, including publishing decisions based on name marketability and the eventual legal adoption of a pen name.",
+      "context_title": "Rosemary Edghill",
+      "page_content": "The pen-name Rosemary Edghill became Rosemary Edghill's legal name in 2004. \"Eluki Bes Shahar\" was Rosemary Edghill's legal name at the time of her first novel's publication. Rosemary Edghill adopted the pen-name Rosemary Edghill. The publishers of Rosemary Edghill's first novel felt that \"Eluki Bes Shahar\" sounded insufficiently English to attract readers."
+    },
+    {
+      "chunk_id": "764cb2bf-be3a-4406-b430-2a3a90138516",
+      "chunk_title": "Jane Thayer Biography",
+      "chunk_summary": "This chunk contains biographical details about the American children's author Jane Thayer (pen name of Catherine Woolley), including her notable works, total number of books written, and the classic status of her publications; add further information regarding her life, bibliography, or literary legacy here.",
+      "context_title": "Jane Thayer",
+      "page_content": "\"The Puppy Who Wanted a Boy for Christmas\" is one of Jane Thayer's books that has become a classic. Jane Thayer was an American writer. Many of Jane Thayer's books have become classics. \"The Blueberry Pie Elf\" is one of Jane Thayer's books that has become a classic. Catherine Woolley authored picture books under the pen name Jane Thayer. Jane Thayer wrote 86 books for children. Jane Thayer is known best for the book \"The Puppy Who Wanted A Boy\". Catherine Woolley wrote books for older children and adults under her real name."
+    },
+    {
+      "chunk_id": "5d8624ab-7467-4a69-8450-e509e0483ee4",
+      "chunk_title": "Authors & Identities",
+      "chunk_summary": "This chunk contains information about authors and their professional identities.",
+      "context_title": "The Story of the Weasel",
+      "page_content": "Carolyn Slaughter is an author."
+    },
+    {
+      "chunk_id": "d974d96f-7ca2-4712-809b-c8a5e5a6a781",
+      "chunk_title": "Author Pen Names",
+      "chunk_summary": "This chunk contains information about the various pen names and real identities of authors, specifically detailing the aliases used by Lionel Snell and other writers.",
+      "context_title": "Lionel Snell",
+      "page_content": "\"The Satanist's Diary\" was published under the pen name The Hon Hugo C StJ l'Estrange. Lionel Snell has also used the pen name Adamai Philotunus. Ramsey Dukes is the current and most well-known pen name of Lionel Snell. Lionel Snell has also used the pen name Angerford and Lea. Lionel Snell has also used the pen name Per Anum Ad Astra. Lionel Snell has also used the pen name Lemuel Johnston."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.352941,
+  "precision": 1.0,
+  "recall": 0.214286,
+  "context_recall": 0.5,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.25,
+  "retrieval_count": 1,
+  "total_chunks": 8,
+  "total_distinct_titles": 6,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 2,
+  "dag_edges": 1,
+  "dag_snapshots": [
+    {
+      "q": "What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Carolyn Janice Cherry 的笔名",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点 N1_1 的证据充分性和推理链完整性。N1_1 提供了明确且被支撑的答案，依赖关系有效。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 已提供充分证据支持 Q 的核心询问，结构完整，无需进一步分解或搜索。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the pen name of Carolyn Janice Cherry?",
+          "answer": "C. J. Cherryh",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the pen name of Carolyn Janice Cherry?",
+          "planner_rationale": "直接回答 Q 的核心问题：Carolyn Janice Cherry 的笔名是什么。这是 Q 的直接分解。",
+          "solver_judgment": "question 要求找出 Carolyn Janice Cherry 的笔名。search_query 直接搜索了 'What is the pen name of Carolyn Janice Cherry?'。chunks 返回的结果中，chunk aeb23ed4-baf8-42cc-ae64-b765a9109568 明确记载 \"Carolyn Janice Cherry is better known by the pen name C. J. Cherryh.\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'C. J. Cherryh'）。该来源直接、具体地陈述了答案：'Carolyn Janice Cherry is better known by the pen name C. J. Cherryh.'。单来源但证据确凿，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案直接来自支撑 chunk，无需重搜或验证。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Carolyn Janice Cherry 的笔名。子节点 N1_1 已提供确凿证据支持答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点 N1_1 的证据充分性和推理链完整性。N1_1 提供了明确且被支撑的答案 'C. J. Cherryh'，依赖关系有效（decomposition）。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 已提供充分证据支持 Q 的核心询问，结构完整，无需进一步分解或搜索。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the pen name of Carolyn Janice Cherry?",
+          "answer": "C. J. Cherryh",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the pen name of Carolyn Janice Cherry?",
+          "planner_rationale": "直接回答 Q 的核心问题：Carolyn Janice Cherry 的笔名是什么。Critic 确认证据充分（支撑 chunk 明确记载 'Carolyn Janice Cherry is better known by the pen name C. J. Cherryh'），无需进一步搜索或验证。",
+          "solver_judgment": "question 要求找出 Carolyn Janice Cherry 的笔名。search_query 直接搜索了 'What is the pen name of Carolyn Janice Cherry?'。chunks 返回的结果中，chunk aeb23ed4-baf8-42cc-ae64-b765a9109568 明确记载 \"Carolyn Janice Cherry is better known by the pen name C. J. Cherryh.\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'C. J. Cherryh'）。该来源直接、具体地陈述了答案：'Carolyn Janice Cherry is better known by the pen name C. J. Cherryh.'。单来源但证据确凿，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案直接来自支撑 chunk，无需重搜或验证。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the pen name of author Carolyn Janice Cherry, who wrote the Fortress Series?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已提供确凿证据支持答案 'C. J. Cherryh'，结构完整，无需进一步分解。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点 N1_1 的证据充分性和推理链完整性。N1_1 提供了明确且被支撑的答案 'C. J. Cherryh'，依赖关系有效（decomposition）。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 已提供充分证据支持 Q 的核心询问，结构完整，无需进一步分解或搜索。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the pen name of Carolyn Janice Cherry?",
+          "answer": "C. J. Cherryh",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the pen name of Carolyn Janice Cherry?",
+          "planner_rationale": "直接回答 Q 的核心问题：Carolyn Janice Cherry 的笔名是什么。Critic 确认证据充分（支撑 chunk 明确记载 'Carolyn Janice Cherry is better known by the pen name C. J. Cherryh'），状态为 solved + healthy，无需重搜。",
+          "solver_judgment": "question 要求找出 Carolyn Janice Cherry 的笔名。search_query 直接搜索了 'What is the pen name of Carolyn Janice Cherry?'。chunks 返回的结果中，chunk aeb23ed4-baf8-42cc-ae64-b765a9109568 明确记载 \"Carolyn Janice Cherry is better known by the pen name C. J. Cherryh.\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'C. J. Cherryh'）。该来源直接、具体地陈述了答案：'Carolyn Janice Cherry is better known by the pen name C. J. Cherryh.'。单来源但证据确凿，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案直接来自支撑 chunk，无需重搜或验证。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the pen name of Carolyn Janice Cherry?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "aeb23ed4-baf8-42cc-ae64-b765a9109568",
+        "81b888bf-0027-4ab0-a789-d01ad35b8d39",
+        "1ade27a1-53bc-4b9b-b923-b622f4d1b758",
+        "7658c09e-a795-42df-866f-c3c4886b64e5",
+        "fc1ae4b6-c736-4c23-bd46-ba65fed96926",
+        "764cb2bf-be3a-4406-b430-2a3a90138516",
+        "5d8624ab-7467-4a69-8450-e509e0483ee4",
+        "d974d96f-7ca2-4712-809b-c8a5e5a6a781"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the pen name of Carolyn Janice Cherry?（理由：Q 的核心询问是作者 Carolyn Janice Cherry 的笔名）。关系: F1 是 Q 的直接分解产物（decomposition）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解将 Q 直接分解为查询笔名的子问题。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 答案直接回答 N0）；③ 所有节点（N0, N1_1）均为 healthy；④ 首轮无拓扑变化阻碍。答案 'C. J. Cherryh' 有直接证据支撑，结构完整。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the pen name of Carolyn Janice Cherry?（理由：Q 的核心询问是作者 Carolyn Janice Cherry 的笔名）。关系: F1 是 Q 的直接分解产物（decomposition）。当前 DAG 中 N1_1 已完全覆盖 F1 且状态为 solved + healthy，结构完整，无需新增节点或调整边。",
+      "hypothesis_delta": "本轮无结构调整。原因：上一轮初始分解策略正确，N1_1 已 SOLVED 且 Critic 判为 healthy，证据确凿（单来源但直接陈述答案）。Q 中 \"who wrote the Fortress Series\" 仅为修饰性限定从句，不构成独立语义需求，无需额外节点验证。因此，直接 INHERIT 现有节点和边，保持 DAG 稳定收敛。修正：显式声明保留 N0→N1_1 的 decomposition 边以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N0→N1_1 有效）；③所有节点（含 ROOT）health 为 healthy；④拓扑连续稳定。答案 'C. J. Cherryh' 证据充分，可终止探索。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the pen name of Carolyn Janice Cherry?（理由：Q 的核心询问是作者 Carolyn Janice Cherry 的笔名）。关系: F1 是 Q 的直接分解产物（decomposition）。当前 DAG 中 N1_1 已完全覆盖 F1 且状态为 solved + healthy，结构完整，无需新增节点或调整边。",
+      "hypothesis_delta": "本轮无结构调整。原因：上一轮初始分解策略正确，N1_1 已 SOLVED 且 Critic 判为 healthy，证据确凿（单来源但直接陈述答案）。Q 中 \"who wrote the Fortress Series\" 仅为修饰性限定从句，不构成独立语义需求，无需额外节点验证。因此，直接 INHERIT 现有节点和边，保持 DAG 稳定收敛。修正：显式声明保留 N0→N1_1 的 decomposition 边以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 答案直接回答 Q）；③ 所有节点（含 ROOT）均为 healthy；④ 拓扑连续稳定。答案 'C. J. Cherryh' 证据充分，可终止探索。"
+      }
+    }
+  ]
+}

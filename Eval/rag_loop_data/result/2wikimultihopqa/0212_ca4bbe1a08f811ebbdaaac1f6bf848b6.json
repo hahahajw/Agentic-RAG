@@ -1,0 +1,677 @@
+{
+  "question_index": 212,
+  "question_id": "ca4bbe1a08f811ebbdaaac1f6bf848b6",
+  "question": "Which film was released first, The Borrower or Sheba, Baby?",
+  "answer": "Sheba, Baby",
+  "prediction": "Sheba, Baby",
+  "error": null,
+  "latency_ms": 224827.42519999738,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T11:28:42.549668+00:00",
+  "chunks": [
+    {
+      "chunk_id": "d967114f-a6bb-4290-81a3-fd699ad87b4a",
+      "chunk_title": "The Borrower Film Details",
+      "chunk_summary": "This chunk contains information about the 1991 film \"The Borrower,\" including its director, cast, plot details, cameo appearances, and production trivia.",
+      "context_title": "The Borrower",
+      "page_content": "The poster referencing one of John McNaughton's previous films can be seen in one scene on the street in The Borrower. A commercial can be overheard warning about the disturbing nature of the film on a television during a scene in the hospital in The Borrower. The alien serial killer in The Borrower is sent to Earth to live among humans as a form of penalty. Pamela Norris cameos as a hooker in The Borrower. The Borrower is a 1991 American science fiction horror film. The story of The Borrower revolves around an alien serial killer. The Borrower was directed by John McNaughton. The Borrower stars Tom Towles. One of John McNaughton's previous films is referenced in a poster in The Borrower. Mädchen Amick briefly appears as a rock groupie in The Borrower. The Borrower stars Antonio Fargas. Tony Amendola has a small role as a doctor in The Borrower. The Borrower stars Rae Dawn Chong."
+    },
+    {
+      "chunk_id": "0a02e076-6ffe-442e-9bc5-ba18468484c3",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of films.",
+      "context_title": "Luigi De Laurentiis",
+      "page_content": "\"Un borghese piccolo piccolo\" was released in 1977. \"Vacanze di Natale\" was released in 1983. \"Amici miei - Atto II°\" was released in 1982. \"Donne con le gonne\" was released in 1991."
+    },
+    {
+      "chunk_id": "d2075de7-1990-4c5e-8ea6-fa435ade258b",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their release year, language, genre, and theatrical release dates.",
+      "context_title": "Bhanwarey",
+      "page_content": "Bhanwarey was released theatrically in India on 24 March 2017. Bhanwarey is a 2017 Indian Hindi-language dark-comedy film."
+    },
+    {
+      "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+      "chunk_title": "Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+      "context_title": "California Winter",
+      "page_content": "California Winter was released in 2012."
+    },
+    {
+      "chunk_id": "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+      "context_title": "California Winter",
+      "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+    },
+    {
+      "chunk_id": "5a0715c9-bc49-406f-818b-113f04f20cdb",
+      "chunk_title": "Films & Cast Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, and notable cast details such as actor debuts.",
+      "context_title": "Freshman Year (film)",
+      "page_content": "Freshman Year is a 1938 film. Arthur O'Connell is an actor. Freshman Year is notable as the uncredited film debut of actor Arthur O'Connell."
+    },
+    {
+      "chunk_id": "a089d423-0d82-4bca-bb1e-5f0a3449395f",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+      "context_title": "California Winter",
+      "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+    },
+    {
+      "chunk_id": "ae8e1310-ad67-44bb-88d1-35c1fcb344c2",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+      "context_title": "California Winter",
+      "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+    },
+    {
+      "chunk_id": "e7086650-0f03-4993-bc3d-48e62632e6f5",
+      "chunk_title": "Film Details & Origins",
+      "chunk_summary": "This chunk contains information about films, including their original titles, release dates, countries of origin, genres, and directors.",
+      "context_title": "Looking for Hortense",
+      "page_content": "Looking for Hortense is a comedy-drama film. Looking for Hortense is a French film. Pascal Bonitzer directed Looking for Hortense. Looking for Hortense was released in 2012. Looking for Hortense is a film. The original title of Looking for Hortense is Cherchez Hortense."
+    },
+    {
+      "chunk_id": "5847cd50-6640-43df-a5ee-eb4a9eb84877",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about release dates and times.",
+      "context_title": "Yoogan",
+      "page_content": "Yoogan was released on 24 April 2015."
+    },
+    {
+      "chunk_id": "fb18adcf-9073-428f-8d94-26670e673f1d",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their release year, genre, origin, directors, and starring actors.",
+      "context_title": "Sheba, Baby",
+      "page_content": "Sheba, Baby was directed by William Girdler. Sheba, Baby stars Pam Grier. Sheba, Baby is a 1975 American blaxploitation action film. Sheba, Baby stars Austin Stoker."
+    },
+    {
+      "chunk_id": "908c7b93-ad7c-430d-9dc8-1c03092eff8a",
+      "chunk_title": "Film Production Details",
+      "chunk_summary": "This chunk contains information about the film \"Coney Island Baby,\" including its release year, genre, director, writer, producer, composer, filming location, festival screenings, awards, and television broadcast.",
+      "context_title": "Coney Island Baby (film)",
+      "page_content": "The music for the film Coney Island Baby was composed by Ryan Shore. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby. Coney Island Baby was the directorial debut of Amy Hobby. Tanya Ryno was the producer of the film Coney Island Baby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was screened at the Newport International Film Festival. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Coney Island Baby is a 2003 comedy-drama film. The film Coney Island Baby was shot in Sligo, Ireland."
+    },
+    {
+      "chunk_id": "f77986bf-a9fa-4550-b951-39fee2a1e73a",
+      "chunk_title": "Song Details & Context",
+      "chunk_summary": "This chunk contains information about songs, including their titles, artists, albums, release dates, composers, intentions behind their composition, critical reception, associated music videos, musical styles, lyrical themes, and chart performance.",
+      "context_title": "Missing My Baby",
+      "page_content": "The track \"Missing My Baby\" peaked at number 22 on the US Rhythmic Top 40 chart after Selena's death. \"Missing My Baby\" is influenced by soul music. Selena included \"Missing My Baby\" on the album \"Entre a Mi Mundo\". \"Missing My Baby\" is influenced by urban music. The posthumous music video for \"Missing My Baby\" was released to promote the triple box-set \"Anthology\". \"Missing My Baby\" was never intended to be released as a single. The triple box-set \"Anthology\" was released in 1998. A posthumous music video for \"Missing My Baby\" was made for VH1. A.B. Quintanilla's intention in composing \"Missing My Baby\" was to showcase Selena's diverse musical abilities. The lyrics of \"Missing My Baby\" describe the love felt by the narrator. \"Missing My Baby\" was composed by A.B. Quintanilla. \"Entre a Mi Mundo\" was released in 1992. \"Missing My Baby\" was released on Selena's third studio album. Critics praised Selena's emotive enunciation in \"Missing My Baby\". Selena's third studio album is titled \"Entre a Mi Mundo\". In some parts of \"Missing My Baby\", the narrator experiences loneliness because of the absence of her boyfriend. The narrator in \"Missing My Baby\" reminisces of rhapsodic events she has shared with her lover. In some parts of \"Missing My Baby\", the narrator experiences anguish because of the absence of her boyfriend. Selena included \"Missing My Baby\" on the album to help her cross over into the English-speaking market. The track \"Missing My Baby\" peaked at number 22 on the US Rhythmic Top 40 chart. \"Missing My Baby\" was released by Selena. \"Missing My Baby\" is a song. \"Missing My Baby\" is a mid-tempo R&B ballad. The track \"Missing My Baby\" peaked at number 22 on the US Rhythmic Top 40 chart in 1995."
+    },
+    {
+      "chunk_id": "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+      "context_title": "Shima (film)",
+      "page_content": "Shima was released in 2007. Shima is a film."
+    },
+    {
+      "chunk_id": "f6a12f87-ebfc-4054-8f1f-6e0cd7399999",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+      "context_title": "Shima (film)",
+      "page_content": "Shima was released in 2007. Shima is a film."
+    },
+    {
+      "chunk_id": "7fb98f7b-46f9-4526-9754-52c7f6b389ef",
+      "chunk_title": "Coney Island Baby Film Details",
+      "chunk_summary": "This chunk contains information about the 2003 film \"Coney Island Baby,\" including its genre, director, writer, producer, composer, filming location, festival screenings, awards, and television broadcast.",
+      "context_title": "Coney Island Baby (film)",
+      "page_content": "The film Coney Island Baby was shot in Sligo, Ireland. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. The film Coney Island Baby was screened at the Newport International Film Festival. Karl Geary wrote the film Coney Island Baby. Tanya Ryno was the producer of the film Coney Island Baby. Coney Island Baby is a 2003 comedy-drama film. Coney Island Baby was the directorial debut of Amy Hobby. The music for the film Coney Island Baby was composed by Ryan Shore. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby."
+    },
+    {
+      "chunk_id": "7d7763a3-4760-4215-8430-951051b2f258",
+      "chunk_title": "Films & Production",
+      "chunk_summary": "This chunk contains information about the 2003 film \"Coney Island Baby\" and its production details, including the director, writer, producers, composer, filming location, festival screenings, awards, and broadcast history.",
+      "context_title": "Coney Island Baby (film)",
+      "page_content": "Coney Island Baby is a 2003 comedy-drama film. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Amy Hobby is a film producer. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby. Tanya Ryno was the producer of the film Coney Island Baby. The film Coney Island Baby was screened at the Newport International Film Festival. Coney Island Baby was the directorial debut of Amy Hobby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was shot in Sligo, Ireland. The music for the film Coney Island Baby was composed by Ryan Shore."
+    },
+    {
+      "chunk_id": "d6b07567-aa19-46c5-a70a-243a1db5395f",
+      "chunk_title": "Critical Reception of The Church",
+      "chunk_summary": "This chunk contains information about authors and publications who have written about The Church, including details on their commentary regarding the band's musical style and specific releases.",
+      "context_title": "The Church (band)",
+      "page_content": "Glenn A. Baker has written about The Church. The Los Angeles Times has described The Church's music as dense, shimmering, exquisite guitar pop. Glenn A. Baker wrote that The Church purveyed a distinctive, ethereal, psychedelic-tinged sound from the release of the 'She Never Said' single in November 1980."
+    },
+    {
+      "chunk_id": "3b5b0a38-d61b-4531-907b-7f096e5374e6",
+      "chunk_title": "Film Production Details",
+      "chunk_summary": "This chunk contains information about the film \"Coney Island Baby,\" including its release year, genre, director, writer, producer, composer, filming location, festival screenings, and awards.",
+      "context_title": "Coney Island Baby (film)",
+      "page_content": "The film Coney Island Baby was screened at the Newport International Film Festival. The music for the film Coney Island Baby was composed by Ryan Shore. Coney Island Baby is a 2003 comedy-drama film. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Coney Island Baby was the directorial debut of Amy Hobby. Tanya Ryno was the producer of the film Coney Island Baby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was shot in Sligo, Ireland. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby."
+    },
+    {
+      "chunk_id": "01e5f6ea-11c3-42fb-bd19-0d32bab04b7a",
+      "chunk_title": "Coney Island Baby Film Details",
+      "chunk_summary": "This chunk contains information about the 2003 film \"Coney Island Baby,\" including its genre, director, writer, producer, composer, filming location, festival screenings, awards, and television broadcast.",
+      "context_title": "Coney Island Baby (film)",
+      "page_content": "Coney Island Baby was the directorial debut of Amy Hobby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was screened at the Newport International Film Festival. The music for the film Coney Island Baby was composed by Ryan Shore. Tanya Ryno was the producer of the film Coney Island Baby. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby. The film Coney Island Baby was shot in Sligo, Ireland. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Coney Island Baby is a 2003 comedy-drama film."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.1,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 12,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which film was released first, The Borrower or Sheba, Baby?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released first, The Borrower or Sheba, Baby?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影的发行日期以确定哪部更早",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 提供 The Borrower 发行年份 1991，N1_2 提供 Sheba, Baby 发行年份 1975。推理链完整：1975 < 1991，因此 Sheba, Baby 先发行。两个子节点证据均充分，推理逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，可直接用于生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was The Borrower released?",
+          "answer": "1991",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was The Borrower released?",
+          "planner_rationale": "Q 要求比较两部电影的发行先后，必须先获取 The Borrower 的发行日期",
+          "solver_judgment": "question 要求确认电影《The Borrower》的上映时间。search_query 搜索了 'When was The Borrower released?'。chunks 返回了关于《The Borrower》的详细信息，其中 chunk d967114f-a6bb-4290-81a3-fd699ad87b4a 明确记载 'The Borrower is a 1991 American science fiction horror film'，直接提供了上映年份 1991。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 The Borrower），单来源但直接具体。支撑 chunk d967114f-a6bb-4290-81a3-fd699ad87b4a 明确陈述 'The Borrower is a 1991 American science fiction horror film'，直接提供发行年份 1991。答案与 chunk 内容完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d967114f-a6bb-4290-81a3-fd699ad87b4a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d967114f-a6bb-4290-81a3-fd699ad87b4a",
+              "chunk_title": "The Borrower Film Details",
+              "chunk_summary": "This chunk contains information about the 1991 film \"The Borrower,\" including its director, cast, plot details, cameo appearances, and production trivia.",
+              "context_title": "The Borrower",
+              "page_content": "The poster referencing one of John McNaughton's previous films can be seen in one scene on the street in The Borrower. A commercial can be overheard warning about the disturbing nature of the film on a television during a scene in the hospital in The Borrower. The alien serial killer in The Borrower is sent to Earth to live among humans as a form of penalty. Pamela Norris cameos as a hooker in The Borrower. The Borrower is a 1991 American science fiction horror film. The story of The Borrower revolves around an alien serial killer. The Borrower was directed by John McNaughton. The Borrower stars Tom Towles. One of John McNaughton's previous films is referenced in a poster in The Borrower. Mädchen Amick briefly appears as a rock groupie in The Borrower. The Borrower stars Antonio Fargas. Tony Amendola has a small role as a doctor in The Borrower. The Borrower stars Rae Dawn Chong."
+            },
+            {
+              "chunk_id": "0a02e076-6ffe-442e-9bc5-ba18468484c3",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films.",
+              "context_title": "Luigi De Laurentiis",
+              "page_content": "\"Un borghese piccolo piccolo\" was released in 1977. \"Vacanze di Natale\" was released in 1983. \"Amici miei - Atto II°\" was released in 1982. \"Donne con le gonne\" was released in 1991."
+            },
+            {
+              "chunk_id": "d2075de7-1990-4c5e-8ea6-fa435ade258b",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their release year, language, genre, and theatrical release dates.",
+              "context_title": "Bhanwarey",
+              "page_content": "Bhanwarey was released theatrically in India on 24 March 2017. Bhanwarey is a 2017 Indian Hindi-language dark-comedy film."
+            },
+            {
+              "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+              "context_title": "California Winter",
+              "page_content": "California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "5a0715c9-bc49-406f-818b-113f04f20cdb",
+              "chunk_title": "Films & Cast Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, and notable cast details such as actor debuts.",
+              "context_title": "Freshman Year (film)",
+              "page_content": "Freshman Year is a 1938 film. Arthur O'Connell is an actor. Freshman Year is notable as the uncredited film debut of actor Arthur O'Connell."
+            },
+            {
+              "chunk_id": "a089d423-0d82-4bca-bb1e-5f0a3449395f",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "ae8e1310-ad67-44bb-88d1-35c1fcb344c2",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "e7086650-0f03-4993-bc3d-48e62632e6f5",
+              "chunk_title": "Film Details & Origins",
+              "chunk_summary": "This chunk contains information about films, including their original titles, release dates, countries of origin, genres, and directors.",
+              "context_title": "Looking for Hortense",
+              "page_content": "Looking for Hortense is a comedy-drama film. Looking for Hortense is a French film. Pascal Bonitzer directed Looking for Hortense. Looking for Hortense was released in 2012. Looking for Hortense is a film. The original title of Looking for Hortense is Cherchez Hortense."
+            },
+            {
+              "chunk_id": "5847cd50-6640-43df-a5ee-eb4a9eb84877",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about release dates and times.",
+              "context_title": "Yoogan",
+              "page_content": "Yoogan was released on 24 April 2015."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Sheba, Baby released?",
+          "answer": "1975",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Sheba, Baby released?",
+          "planner_rationale": "Q 要求比较两部电影的发行先后，必须先获取 Sheba, Baby 的发行日期",
+          "solver_judgment": "question 要求确认电影《Sheba, Baby》的上映时间。search_query 搜索了 'When was Sheba, Baby released?'。chunks 返回了关于该电影的详细信息，其中 chunk fb18adcf-9073-428f-8d94-26670e673f1d 明确指出 'Sheba, Baby is a 1975 American blaxploitation action film'，直接提供了上映年份为 1975 年。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Sheba, Baby），单来源但直接具体。支撑 chunk fb18adcf-9073-428f-8d94-26670e673f1d 明确陈述 'Sheba, Baby is a 1975 American blaxploitation action film'，直接提供发行年份 1975。答案与 chunk 内容完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "fb18adcf-9073-428f-8d94-26670e673f1d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "fb18adcf-9073-428f-8d94-26670e673f1d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their release year, genre, origin, directors, and starring actors.",
+              "context_title": "Sheba, Baby",
+              "page_content": "Sheba, Baby was directed by William Girdler. Sheba, Baby stars Pam Grier. Sheba, Baby is a 1975 American blaxploitation action film. Sheba, Baby stars Austin Stoker."
+            },
+            {
+              "chunk_id": "908c7b93-ad7c-430d-9dc8-1c03092eff8a",
+              "chunk_title": "Film Production Details",
+              "chunk_summary": "This chunk contains information about the film \"Coney Island Baby,\" including its release year, genre, director, writer, producer, composer, filming location, festival screenings, awards, and television broadcast.",
+              "context_title": "Coney Island Baby (film)",
+              "page_content": "The music for the film Coney Island Baby was composed by Ryan Shore. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby. Coney Island Baby was the directorial debut of Amy Hobby. Tanya Ryno was the producer of the film Coney Island Baby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was screened at the Newport International Film Festival. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Coney Island Baby is a 2003 comedy-drama film. The film Coney Island Baby was shot in Sligo, Ireland."
+            },
+            {
+              "chunk_id": "f77986bf-a9fa-4550-b951-39fee2a1e73a",
+              "chunk_title": "Song Details & Context",
+              "chunk_summary": "This chunk contains information about songs, including their titles, artists, albums, release dates, composers, intentions behind their composition, critical reception, associated music videos, musical styles, lyrical themes, and chart performance.",
+              "context_title": "Missing My Baby",
+              "page_content": "The track \"Missing My Baby\" peaked at number 22 on the US Rhythmic Top 40 chart after Selena's death. \"Missing My Baby\" is influenced by soul music. Selena included \"Missing My Baby\" on the album \"Entre a Mi Mundo\". \"Missing My Baby\" is influenced by urban music. The posthumous music video for \"Missing My Baby\" was released to promote the triple box-set \"Anthology\". \"Missing My Baby\" was never intended to be released as a single. The triple box-set \"Anthology\" was released in 1998. A posthumous music video for \"Missing My Baby\" was made for VH1. A.B. Quintanilla's intention in composing \"Missing My Baby\" was to showcase Selena's diverse musical abilities. The lyrics of \"Missing My Baby\" describe the love felt by the narrator. \"Missing My Baby\" was composed by A.B. Quintanilla. \"Entre a Mi Mundo\" was released in 1992. \"Missing My Baby\" was released on Selena's third studio album. Critics praised Selena's emotive enunciation in \"Missing My Baby\". Selena's third studio album is titled \"Entre a Mi Mundo\". In some parts of \"Missing My Baby\", the narrator experiences loneliness because of the absence of her boyfriend. The narrator in \"Missing My Baby\" reminisces of rhapsodic events she has shared with her lover. In some parts of \"Missing My Baby\", the narrator experiences anguish because of the absence of her boyfriend. Selena included \"Missing My Baby\" on the album to help her cross over into the English-speaking market. The track \"Missing My Baby\" peaked at number 22 on the US Rhythmic Top 40 chart. \"Missing My Baby\" was released by Selena. \"Missing My Baby\" is a song. \"Missing My Baby\" is a mid-tempo R&B ballad. The track \"Missing My Baby\" peaked at number 22 on the US Rhythmic Top 40 chart in 1995."
+            },
+            {
+              "chunk_id": "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima was released in 2007. Shima is a film."
+            },
+            {
+              "chunk_id": "f6a12f87-ebfc-4054-8f1f-6e0cd7399999",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima was released in 2007. Shima is a film."
+            },
+            {
+              "chunk_id": "7fb98f7b-46f9-4526-9754-52c7f6b389ef",
+              "chunk_title": "Coney Island Baby Film Details",
+              "chunk_summary": "This chunk contains information about the 2003 film \"Coney Island Baby,\" including its genre, director, writer, producer, composer, filming location, festival screenings, awards, and television broadcast.",
+              "context_title": "Coney Island Baby (film)",
+              "page_content": "The film Coney Island Baby was shot in Sligo, Ireland. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. The film Coney Island Baby was screened at the Newport International Film Festival. Karl Geary wrote the film Coney Island Baby. Tanya Ryno was the producer of the film Coney Island Baby. Coney Island Baby is a 2003 comedy-drama film. Coney Island Baby was the directorial debut of Amy Hobby. The music for the film Coney Island Baby was composed by Ryan Shore. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby."
+            },
+            {
+              "chunk_id": "7d7763a3-4760-4215-8430-951051b2f258",
+              "chunk_title": "Films & Production",
+              "chunk_summary": "This chunk contains information about the 2003 film \"Coney Island Baby\" and its production details, including the director, writer, producers, composer, filming location, festival screenings, awards, and broadcast history.",
+              "context_title": "Coney Island Baby (film)",
+              "page_content": "Coney Island Baby is a 2003 comedy-drama film. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Amy Hobby is a film producer. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby. Tanya Ryno was the producer of the film Coney Island Baby. The film Coney Island Baby was screened at the Newport International Film Festival. Coney Island Baby was the directorial debut of Amy Hobby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was shot in Sligo, Ireland. The music for the film Coney Island Baby was composed by Ryan Shore."
+            },
+            {
+              "chunk_id": "d6b07567-aa19-46c5-a70a-243a1db5395f",
+              "chunk_title": "Critical Reception of The Church",
+              "chunk_summary": "This chunk contains information about authors and publications who have written about The Church, including details on their commentary regarding the band's musical style and specific releases.",
+              "context_title": "The Church (band)",
+              "page_content": "Glenn A. Baker has written about The Church. The Los Angeles Times has described The Church's music as dense, shimmering, exquisite guitar pop. Glenn A. Baker wrote that The Church purveyed a distinctive, ethereal, psychedelic-tinged sound from the release of the 'She Never Said' single in November 1980."
+            },
+            {
+              "chunk_id": "3b5b0a38-d61b-4531-907b-7f096e5374e6",
+              "chunk_title": "Film Production Details",
+              "chunk_summary": "This chunk contains information about the film \"Coney Island Baby,\" including its release year, genre, director, writer, producer, composer, filming location, festival screenings, and awards.",
+              "context_title": "Coney Island Baby (film)",
+              "page_content": "The film Coney Island Baby was screened at the Newport International Film Festival. The music for the film Coney Island Baby was composed by Ryan Shore. Coney Island Baby is a 2003 comedy-drama film. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Coney Island Baby was the directorial debut of Amy Hobby. Tanya Ryno was the producer of the film Coney Island Baby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was shot in Sligo, Ireland. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby."
+            },
+            {
+              "chunk_id": "01e5f6ea-11c3-42fb-bd19-0d32bab04b7a",
+              "chunk_title": "Coney Island Baby Film Details",
+              "chunk_summary": "This chunk contains information about the 2003 film \"Coney Island Baby,\" including its genre, director, writer, producer, composer, filming location, festival screenings, awards, and television broadcast.",
+              "context_title": "Coney Island Baby (film)",
+              "page_content": "Coney Island Baby was the directorial debut of Amy Hobby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was screened at the Newport International Film Festival. The music for the film Coney Island Baby was composed by Ryan Shore. Tanya Ryno was the producer of the film Coney Island Baby. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby. The film Coney Island Baby was shot in Sligo, Ireland. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Coney Island Baby is a 2003 comedy-drama film."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which film was released first, The Borrower or Sheba, Baby?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released first, The Borrower or Sheba, Baby?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1（The Borrower 发行于 1991 年）和 N1_2（Sheba, Baby 发行于 1975 年）均已 SOLVED + healthy，推理链完整：1975 < 1991，因此 Sheba, Baby 先发行。可直接聚合子节点答案生成最终回答。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 提供 The Borrower 发行年份 1991（单来源但直接具体），N1_2 提供 Sheba, Baby 发行年份 1975（单来源但直接具体）。推理链完整：1975 < 1991，因此 Sheba, Baby 先发行。两个子节点证据均充分，推理逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，可直接用于生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was The Borrower released?",
+          "answer": "1991",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was The Borrower released?",
+          "planner_rationale": "Q 要求比较两部电影的发行先后，The Borrower 的发行日期是必要事实之一。已确认答案为 1991 年，证据充分（支撑 chunk 明确记载 'The Borrower is a 1991 American science fiction horror film'）。",
+          "solver_judgment": "question 要求确认电影《The Borrower》的上映时间。search_query 搜索了 'When was The Borrower released?'。chunks 返回了关于《The Borrower》的详细信息，其中 chunk d967114f-a6bb-4290-81a3-fd699ad87b4a 明确记载 'The Borrower is a 1991 American science fiction horror film'，直接提供了上映年份 1991。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 The Borrower），单来源但直接具体。支撑 chunk d967114f-a6bb-4290-81a3-fd699ad87b4a 明确陈述 'The Borrower is a 1991 American science fiction horror film'，直接提供发行年份 1991。答案与 chunk 内容完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d967114f-a6bb-4290-81a3-fd699ad87b4a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d967114f-a6bb-4290-81a3-fd699ad87b4a",
+              "chunk_title": "The Borrower Film Details",
+              "chunk_summary": "This chunk contains information about the 1991 film \"The Borrower,\" including its director, cast, plot details, cameo appearances, and production trivia.",
+              "context_title": "The Borrower",
+              "page_content": "The poster referencing one of John McNaughton's previous films can be seen in one scene on the street in The Borrower. A commercial can be overheard warning about the disturbing nature of the film on a television during a scene in the hospital in The Borrower. The alien serial killer in The Borrower is sent to Earth to live among humans as a form of penalty. Pamela Norris cameos as a hooker in The Borrower. The Borrower is a 1991 American science fiction horror film. The story of The Borrower revolves around an alien serial killer. The Borrower was directed by John McNaughton. The Borrower stars Tom Towles. One of John McNaughton's previous films is referenced in a poster in The Borrower. Mädchen Amick briefly appears as a rock groupie in The Borrower. The Borrower stars Antonio Fargas. Tony Amendola has a small role as a doctor in The Borrower. The Borrower stars Rae Dawn Chong."
+            },
+            {
+              "chunk_id": "0a02e076-6ffe-442e-9bc5-ba18468484c3",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films.",
+              "context_title": "Luigi De Laurentiis",
+              "page_content": "\"Un borghese piccolo piccolo\" was released in 1977. \"Vacanze di Natale\" was released in 1983. \"Amici miei - Atto II°\" was released in 1982. \"Donne con le gonne\" was released in 1991."
+            },
+            {
+              "chunk_id": "d2075de7-1990-4c5e-8ea6-fa435ade258b",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their release year, language, genre, and theatrical release dates.",
+              "context_title": "Bhanwarey",
+              "page_content": "Bhanwarey was released theatrically in India on 24 March 2017. Bhanwarey is a 2017 Indian Hindi-language dark-comedy film."
+            },
+            {
+              "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+              "context_title": "California Winter",
+              "page_content": "California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "5a0715c9-bc49-406f-818b-113f04f20cdb",
+              "chunk_title": "Films & Cast Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, and notable cast details such as actor debuts.",
+              "context_title": "Freshman Year (film)",
+              "page_content": "Freshman Year is a 1938 film. Arthur O'Connell is an actor. Freshman Year is notable as the uncredited film debut of actor Arthur O'Connell."
+            },
+            {
+              "chunk_id": "a089d423-0d82-4bca-bb1e-5f0a3449395f",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "ae8e1310-ad67-44bb-88d1-35c1fcb344c2",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "e7086650-0f03-4993-bc3d-48e62632e6f5",
+              "chunk_title": "Film Details & Origins",
+              "chunk_summary": "This chunk contains information about films, including their original titles, release dates, countries of origin, genres, and directors.",
+              "context_title": "Looking for Hortense",
+              "page_content": "Looking for Hortense is a comedy-drama film. Looking for Hortense is a French film. Pascal Bonitzer directed Looking for Hortense. Looking for Hortense was released in 2012. Looking for Hortense is a film. The original title of Looking for Hortense is Cherchez Hortense."
+            },
+            {
+              "chunk_id": "5847cd50-6640-43df-a5ee-eb4a9eb84877",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about release dates and times.",
+              "context_title": "Yoogan",
+              "page_content": "Yoogan was released on 24 April 2015."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Sheba, Baby released?",
+          "answer": "1975",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Sheba, Baby released?",
+          "planner_rationale": "Q 要求比较两部电影的发行先后，Sheba, Baby 的发行日期是必要事实之一。已确认答案为 1975 年，证据充分（支撑 chunk 明确记载 'Sheba, Baby is a 1975 American blaxploitation action film'）。",
+          "solver_judgment": "question 要求确认电影《Sheba, Baby》的上映时间。search_query 搜索了 'When was Sheba, Baby released?'。chunks 返回了关于该电影的详细信息，其中 chunk fb18adcf-9073-428f-8d94-26670e673f1d 明确指出 'Sheba, Baby is a 1975 American blaxploitation action film'，直接提供了上映年份为 1975 年。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Sheba, Baby），单来源但直接具体。支撑 chunk fb18adcf-9073-428f-8d94-26670e673f1d 明确陈述 'Sheba, Baby is a 1975 American blaxploitation action film'，直接提供发行年份 1975。答案与 chunk 内容完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "fb18adcf-9073-428f-8d94-26670e673f1d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "fb18adcf-9073-428f-8d94-26670e673f1d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their release year, genre, origin, directors, and starring actors.",
+              "context_title": "Sheba, Baby",
+              "page_content": "Sheba, Baby was directed by William Girdler. Sheba, Baby stars Pam Grier. Sheba, Baby is a 1975 American blaxploitation action film. Sheba, Baby stars Austin Stoker."
+            },
+            {
+              "chunk_id": "908c7b93-ad7c-430d-9dc8-1c03092eff8a",
+              "chunk_title": "Film Production Details",
+              "chunk_summary": "This chunk contains information about the film \"Coney Island Baby,\" including its release year, genre, director, writer, producer, composer, filming location, festival screenings, awards, and television broadcast.",
+              "context_title": "Coney Island Baby (film)",
+              "page_content": "The music for the film Coney Island Baby was composed by Ryan Shore. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby. Coney Island Baby was the directorial debut of Amy Hobby. Tanya Ryno was the producer of the film Coney Island Baby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was screened at the Newport International Film Festival. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Coney Island Baby is a 2003 comedy-drama film. The film Coney Island Baby was shot in Sligo, Ireland."
+            },
+            {
+              "chunk_id": "f77986bf-a9fa-4550-b951-39fee2a1e73a",
+              "chunk_title": "Song Details & Context",
+              "chunk_summary": "This chunk contains information about songs, including their titles, artists, albums, release dates, composers, intentions behind their composition, critical reception, associated music videos, musical styles, lyrical themes, and chart performance.",
+              "context_title": "Missing My Baby",
+              "page_content": "The track \"Missing My Baby\" peaked at number 22 on the US Rhythmic Top 40 chart after Selena's death. \"Missing My Baby\" is influenced by soul music. Selena included \"Missing My Baby\" on the album \"Entre a Mi Mundo\". \"Missing My Baby\" is influenced by urban music. The posthumous music video for \"Missing My Baby\" was released to promote the triple box-set \"Anthology\". \"Missing My Baby\" was never intended to be released as a single. The triple box-set \"Anthology\" was released in 1998. A posthumous music video for \"Missing My Baby\" was made for VH1. A.B. Quintanilla's intention in composing \"Missing My Baby\" was to showcase Selena's diverse musical abilities. The lyrics of \"Missing My Baby\" describe the love felt by the narrator. \"Missing My Baby\" was composed by A.B. Quintanilla. \"Entre a Mi Mundo\" was released in 1992. \"Missing My Baby\" was released on Selena's third studio album. Critics praised Selena's emotive enunciation in \"Missing My Baby\". Selena's third studio album is titled \"Entre a Mi Mundo\". In some parts of \"Missing My Baby\", the narrator experiences loneliness because of the absence of her boyfriend. The narrator in \"Missing My Baby\" reminisces of rhapsodic events she has shared with her lover. In some parts of \"Missing My Baby\", the narrator experiences anguish because of the absence of her boyfriend. Selena included \"Missing My Baby\" on the album to help her cross over into the English-speaking market. The track \"Missing My Baby\" peaked at number 22 on the US Rhythmic Top 40 chart. \"Missing My Baby\" was released by Selena. \"Missing My Baby\" is a song. \"Missing My Baby\" is a mid-tempo R&B ballad. The track \"Missing My Baby\" peaked at number 22 on the US Rhythmic Top 40 chart in 1995."
+            },
+            {
+              "chunk_id": "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima was released in 2007. Shima is a film."
+            },
+            {
+              "chunk_id": "f6a12f87-ebfc-4054-8f1f-6e0cd7399999",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima was released in 2007. Shima is a film."
+            },
+            {
+              "chunk_id": "7fb98f7b-46f9-4526-9754-52c7f6b389ef",
+              "chunk_title": "Coney Island Baby Film Details",
+              "chunk_summary": "This chunk contains information about the 2003 film \"Coney Island Baby,\" including its genre, director, writer, producer, composer, filming location, festival screenings, awards, and television broadcast.",
+              "context_title": "Coney Island Baby (film)",
+              "page_content": "The film Coney Island Baby was shot in Sligo, Ireland. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. The film Coney Island Baby was screened at the Newport International Film Festival. Karl Geary wrote the film Coney Island Baby. Tanya Ryno was the producer of the film Coney Island Baby. Coney Island Baby is a 2003 comedy-drama film. Coney Island Baby was the directorial debut of Amy Hobby. The music for the film Coney Island Baby was composed by Ryan Shore. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby."
+            },
+            {
+              "chunk_id": "7d7763a3-4760-4215-8430-951051b2f258",
+              "chunk_title": "Films & Production",
+              "chunk_summary": "This chunk contains information about the 2003 film \"Coney Island Baby\" and its production details, including the director, writer, producers, composer, filming location, festival screenings, awards, and broadcast history.",
+              "context_title": "Coney Island Baby (film)",
+              "page_content": "Coney Island Baby is a 2003 comedy-drama film. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Amy Hobby is a film producer. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby. Tanya Ryno was the producer of the film Coney Island Baby. The film Coney Island Baby was screened at the Newport International Film Festival. Coney Island Baby was the directorial debut of Amy Hobby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was shot in Sligo, Ireland. The music for the film Coney Island Baby was composed by Ryan Shore."
+            },
+            {
+              "chunk_id": "d6b07567-aa19-46c5-a70a-243a1db5395f",
+              "chunk_title": "Critical Reception of The Church",
+              "chunk_summary": "This chunk contains information about authors and publications who have written about The Church, including details on their commentary regarding the band's musical style and specific releases.",
+              "context_title": "The Church (band)",
+              "page_content": "Glenn A. Baker has written about The Church. The Los Angeles Times has described The Church's music as dense, shimmering, exquisite guitar pop. Glenn A. Baker wrote that The Church purveyed a distinctive, ethereal, psychedelic-tinged sound from the release of the 'She Never Said' single in November 1980."
+            },
+            {
+              "chunk_id": "3b5b0a38-d61b-4531-907b-7f096e5374e6",
+              "chunk_title": "Film Production Details",
+              "chunk_summary": "This chunk contains information about the film \"Coney Island Baby,\" including its release year, genre, director, writer, producer, composer, filming location, festival screenings, and awards.",
+              "context_title": "Coney Island Baby (film)",
+              "page_content": "The film Coney Island Baby was screened at the Newport International Film Festival. The music for the film Coney Island Baby was composed by Ryan Shore. Coney Island Baby is a 2003 comedy-drama film. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Coney Island Baby was the directorial debut of Amy Hobby. Tanya Ryno was the producer of the film Coney Island Baby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was shot in Sligo, Ireland. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby."
+            },
+            {
+              "chunk_id": "01e5f6ea-11c3-42fb-bd19-0d32bab04b7a",
+              "chunk_title": "Coney Island Baby Film Details",
+              "chunk_summary": "This chunk contains information about the 2003 film \"Coney Island Baby,\" including its genre, director, writer, producer, composer, filming location, festival screenings, awards, and television broadcast.",
+              "context_title": "Coney Island Baby (film)",
+              "page_content": "Coney Island Baby was the directorial debut of Amy Hobby. Karl Geary wrote the film Coney Island Baby. The film Coney Island Baby was screened at the Newport International Film Festival. The music for the film Coney Island Baby was composed by Ryan Shore. Tanya Ryno was the producer of the film Coney Island Baby. Amy Hobby won the Jury Award for \"Best First Time Director\" for the film Coney Island Baby. The film Coney Island Baby was shot in Sligo, Ireland. The film Coney Island Baby made its premiere television broadcast on the Sundance Channel. Coney Island Baby is a 2003 comedy-drama film."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was The Borrower released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "d967114f-a6bb-4290-81a3-fd699ad87b4a",
+        "0a02e076-6ffe-442e-9bc5-ba18468484c3",
+        "d2075de7-1990-4c5e-8ea6-fa435ade258b",
+        "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+        "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+        "5a0715c9-bc49-406f-818b-113f04f20cdb",
+        "a089d423-0d82-4bca-bb1e-5f0a3449395f",
+        "ae8e1310-ad67-44bb-88d1-35c1fcb344c2",
+        "e7086650-0f03-4993-bc3d-48e62632e6f5",
+        "5847cd50-6640-43df-a5ee-eb4a9eb84877"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was Sheba, Baby released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "fb18adcf-9073-428f-8d94-26670e673f1d",
+        "908c7b93-ad7c-430d-9dc8-1c03092eff8a",
+        "f77986bf-a9fa-4550-b951-39fee2a1e73a",
+        "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+        "f6a12f87-ebfc-4054-8f1f-6e0cd7399999",
+        "7fb98f7b-46f9-4526-9754-52c7f6b389ef",
+        "7d7763a3-4760-4215-8430-951051b2f258",
+        "d6b07567-aa19-46c5-a70a-243a1db5395f",
+        "3b5b0a38-d61b-4531-907b-7f096e5374e6",
+        "01e5f6ea-11c3-42fb-bd19-0d32bab04b7a"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was The Borrower released?（理由：Q 问两部电影哪部发行更早，需先获取 The Borrower 的发行日期），F2: When was Sheba, Baby released?（理由：同理，需获取 Sheba, Baby 的发行日期）。关系: F1 和 F2 都是 Q 的分解产物（decomposition），两者相互独立、可并行搜索，获得两个日期后即可比较得出答案。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question=\"When was The Borrower released?\"），$2（question=\"When was Sheba, Baby released?\"）。新增边: N0→$1（decomposition），N0→$2（decomposition）。结构为平行分解——两个子事实互不依赖，各自独立搜索发行日期。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点 question 自包含，答案聚合后可直接比较得出 Sheba, Baby (1975) 先于 The Borrower (1991) 发行；③全部节点 healthy——N1_1 和 N1_2 各有单来源但直接具体的证据支撑，N0 推理链完整自洽；④"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was The Borrower released?（理由：Q 问两部电影哪部发行更早，需先获取 The Borrower 的发行日期），F2: When was Sheba, Baby released?（理由：同理，需获取 Sheba, Baby 的发行日期）。关系: F1 和 F2 都是 Q 的分解产物（decomposition），两者相互独立、可并行搜索，获得两个日期后即可比较得出答案（1975 < 1991 → Sheba, Baby 先发行）。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均 INHERIT 保留。原因：上一轮的结构假设（平行分解为两个独立子问题）已被完全验证。N1_1 和 N1_2 均已 SOLVED + healthy，答案明确（1991 和 1975），Critic 确认推理链完整且证据充分。DAG 已收敛，无需新增、删除或换标任何节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N0 分解为 N1_1 和 N1_2 两条独立路径，每条路径自包含且答案完整（1991 和 1975），聚合后可直接比较得出 Sheba, Baby 先发行；条件③全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；条件④拓扑稳定（本轮与上一轮一致）。推理链完整，所有节点证据充分，可终止探索并生成最终"
+      }
+    }
+  ]
+}

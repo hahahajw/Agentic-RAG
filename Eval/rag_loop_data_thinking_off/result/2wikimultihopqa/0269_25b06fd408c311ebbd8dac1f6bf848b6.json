@@ -1,0 +1,901 @@
+{
+  "question_index": 269,
+  "question_id": "25b06fd408c311ebbd8dac1f6bf848b6",
+  "question": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+  "answer": "The House By The Cemetery",
+  "prediction": "The House By The Cemetery",
+  "error": null,
+  "latency_ms": 244533.16230000928,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T19:42:27.297622+00:00",
+  "chunks": [
+    {
+      "chunk_id": "59364ecd-2543-4bdd-a95d-62e88d23df4b",
+      "chunk_title": "Film Directors & Works",
+      "chunk_summary": "This chunk contains information about film directors and their notable works, specifically focusing on Martin Donovan's career as a director and screenwriter.",
+      "context_title": "Martin Donovan (screenwriter)",
+      "page_content": "Martin Donovan is a film director. Martin Donovan is mostly recognized for his co-written script for \"Death Becomes Her\". The film \"Apartment Zero\" was released in 1989. Martin Donovan is mostly recognized as the director of the cult film \"Apartment Zero\"."
+    },
+    {
+      "chunk_id": "b26b8c08-2da1-4fef-83d2-e0eda7d7bf33",
+      "chunk_title": "Screenwriter Profiles",
+      "chunk_summary": "This chunk contains information about the biographical details and professional works of screenwriters, specifically focusing on Martin Donovan.",
+      "context_title": "Apartment Zero",
+      "page_content": "Martin Donovan is an Argentine-born screenwriter. Martin Donovan co-wrote Apartment Zero. Martin Donovan directed Apartment Zero."
+    },
+    {
+      "chunk_id": "de1d9139-d28c-4b40-91bf-c01925f387fe",
+      "chunk_title": "Movie Cast & Characters",
+      "chunk_summary": "This chunk contains information about the cast and characters of the movie Apartment Zero, including actors and their roles.",
+      "context_title": "Apartment Zero",
+      "page_content": "Jack Carney is outwardly likeable in the story of Apartment Zero. Jack Carney is an American expatriate in the story of Apartment Zero. Hart Bochner stars in Apartment Zero. Colin Firth stars in Apartment Zero."
+    },
+    {
+      "chunk_id": "1d27b1fe-6bfa-4fd2-a950-9011bb692c64",
+      "chunk_title": "Apartment Zero Film Overview",
+      "chunk_summary": "This chunk contains information about the film Apartment Zero, including its production details, release timeline, genre, countries of origin, alternative titles, critical reception, and thematic elements.",
+      "context_title": "Apartment Zero",
+      "page_content": "Apartment Zero is famously suffused with homoerotic overtones. Apartment Zero was produced in 1988. Apartment Zero is also known as Conviviendo con la muerte. Apartment Zero has been described as \"A brilliantly crafted psychological drama\". Apartment Zero premiered at film festivals throughout the year following 1988. Apartment Zero is a 1989 British-Argentine political thriller film. Apartment Zero is famously suffused with moments of black comedy. Apartment Zero scored a positive reaction from 74% of its viewers on Rotten Tomatoes."
+    },
+    {
+      "chunk_id": "daca131d-5b3e-4c71-86b6-4a28c36991d4",
+      "chunk_title": "Character Dynamics & Suspicion",
+      "chunk_summary": "This chunk contains information about character relationships, living arrangements, and developing suspicions within stories.",
+      "context_title": "Apartment Zero",
+      "page_content": "Adrian LeDuc begins to suspect that Jack Carney is responsible for a series of political assassinations in the story of Apartment Zero. Adrian LeDuc becomes friends with Jack Carney in the story of Apartment Zero. Jack Carney rents a room from Adrian LeDuc in the story of Apartment Zero."
+    },
+    {
+      "chunk_id": "fc1085e9-0f6d-4970-b970-98ccb35b919c",
+      "chunk_title": "Setting & Context",
+      "chunk_summary": "This chunk contains information about the setting and location of stories, including specific details about time periods, geographical areas, and contextual events like political unrest.",
+      "context_title": "Apartment Zero",
+      "page_content": "The story of Apartment Zero centers in a rundown area of Buenos Aires. A series of political assassinations are rocking the city of Buenos Aires in the story of Apartment Zero. The story of Apartment Zero is set at the dawn of the 1980s."
+    },
+    {
+      "chunk_id": "2b963ac8-1917-4424-9a6e-b8f14077794b",
+      "chunk_title": "Screenwriter Profiles",
+      "chunk_summary": "This chunk contains information about the professional background and nationality of screenwriters, specifically focusing on Martin Donovan's Argentine origin, UK-based career, and notable works.",
+      "context_title": "Martin Donovan (screenwriter)",
+      "page_content": "Martin Donovan is mostly recognized as the co-writer of the cult film \"Apartment Zero\". Martin Donovan has developed his career working mainly in the United Kingdom. Martin Donovan is an Argentine screenwriter."
+    },
+    {
+      "chunk_id": "62b4c577-0d13-4484-9939-34ebff3303ec",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1955 American drama film Target Zero, including its director, writers, production studio, and release date.",
+      "context_title": "Target Zero",
+      "page_content": "Target Zero was written by James Warner Bellah. Target Zero is a 1955 American drama film. Target Zero was directed by Harmon Jones. Target Zero was released by Warner Bros. Target Zero was written by Sam Rolfe. Target Zero was released on November 15, 1955."
+    },
+    {
+      "chunk_id": "235e43e5-f537-4968-83d8-afed83991375",
+      "chunk_title": "Films & Directors",
+      "chunk_summary": "This chunk contains information about films, including their directors, release dates, genres, and the reputations of those directors.",
+      "context_title": "House by the Cemetery (EP)",
+      "page_content": "Lucio Fulci is a cult director. The film The House by the Cemetery was released in 1981. The film The House by the Cemetery was directed by Lucio Fulci. The film The House by the Cemetery is a horror film."
+    },
+    {
+      "chunk_id": "d0d0aea8-e7d8-4273-bad5-52b405a2f509",
+      "chunk_title": "The House by the Cemetery Film Details",
+      "chunk_summary": "This chunk contains information about the 1981 Italian horror film \"The House by the Cemetery,\" including its director, starring actors, and plot details.",
+      "context_title": "The House by the Cemetery",
+      "page_content": "The House by the Cemetery stars Dagmar Lassander. The plot of The House by the Cemetery revolves around a series of murders. Lucio Fulci directed The House by the Cemetery. The series of murders in The House by the Cemetery takes place in a New England home. The House by the Cemetery stars Ania Pieroni. The House by the Cemetery stars Giovanni Frezza. The New England home in The House by the Cemetery hides a gruesome secret within its basement walls. The House by the Cemetery stars Paolo Malco. The House by the Cemetery is a 1981 Italian horror film. The House by the Cemetery was directed by Lucio Fulci. The House by the Cemetery stars Silvia Collatina. The House by the Cemetery stars Catriona MacColl."
+    },
+    {
+      "chunk_id": "1737b0d4-032b-41e3-b32b-31cce917da80",
+      "chunk_title": "Ania Pieroni's Filmography",
+      "chunk_summary": "This chunk contains information about the biographical details and filmography of former Italian actress Ania Pieroni, including her notable roles in horror films.",
+      "context_title": "Ania Pieroni",
+      "page_content": "Ania Pieroni is known for the film \"The House by the Cemetery\". Ania Pieroni is a former Italian actress. Ania Pieroni is known for the film \"Tenebrae\". Ania Pieroni is known for the film \"Inferno\"."
+    },
+    {
+      "chunk_id": "424a70e1-fb3e-4982-b1cb-c0912bd17c41",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films or productions.",
+      "context_title": "The Ghosts of Hanley House",
+      "page_content": "The Ghosts of Hanley House was directed by Louise Sherrill."
+    },
+    {
+      "chunk_id": "a8c7d827-20df-40f3-aed7-bba5274100ba",
+      "chunk_title": "Phil Karlson Filmography",
+      "chunk_summary": "This chunk contains information about the professional background and filmography of American director Phil Karlson, including specific titles and release dates spanning from the 1950s to the 1970s.",
+      "context_title": "Phil Karlson",
+      "page_content": "Phil Karlson directed the film \"99 River Street\". Phil Karlson directed the film \"The Texas Rangers\". Phil Karlson directed the film \"Kansas City Confidential\". Phil Karlson directed the film \"The Young Doctors\". \"The Texas Rangers\" was released in 1951. \"Walking Tall\" was released in 1973. \"Gunman's Walk\" was released in 1958. Phil Karlson directed the film \"Walking Tall\". \"The Young Doctors\" was released in 1961. Phil Karlson directed the film \"5 Against the House\". \"The Phenix City Story\" was released in 1955. Phil Karlson directed the film \"Hell's Island\". Phil Karlson directed the film \"Gunman's Walk\". Phil Karlson was an American film director. Phil Karlson directed \"99 River Street\", \"Kansas City Confidential\", and \"Hell's Island\" in the early 1950s. Phil Karlson directed the film \"The Phenix City Story\". \"5 Against the House\" was released in 1955."
+    },
+    {
+      "chunk_id": "c24eed53-cde8-4b6f-bec6-de244e4aefcb",
+      "chunk_title": "Music Releases",
+      "chunk_summary": "This chunk contains information about music releases, specifically EPs and their artists.",
+      "context_title": "House by the Cemetery (EP)",
+      "page_content": "House by the Cemetery is an EP by Mortician. House by the Cemetery is an EP."
+    },
+    {
+      "chunk_id": "5e6b5e27-9340-437e-9aee-27efbacd5008",
+      "chunk_title": "Film-Inspired Albums",
+      "chunk_summary": "This chunk contains information about albums named after films and those featuring samples from horror movies.",
+      "context_title": "House by the Cemetery (EP)",
+      "page_content": "The album House by the Cemetery is named after a film. The album House by the Cemetery features samples from various horror movies."
+    },
+    {
+      "chunk_id": "b23c86ce-85c7-41e2-b063-84dbe1941381",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1968 British horror film \"Curse of the Crimson Altar,\" including its director, cast, producer, production company, alternative US release title, screenwriters, literary source material, and notable trivia regarding Boris Karloff's final appearances.",
+      "context_title": "Curse of the Crimson Altar",
+      "page_content": "The screenplay for Curse of the Crimson Altar was an uncredited adaptation of \"The Dreams in the Witch House\". Curse of the Crimson Altar is a 1968 British horror film. Louis M. Heyward produced the film Curse of the Crimson Altar for Tigon British Film Productions. Curse of the Crimson Altar starred Barbara Steele. The screenplay for Curse of the Crimson Altar was written by Mervyn Haisman and Henry Lincoln. Curse of the Crimson Altar starred Boris Karloff. The screenplay for Curse of the Crimson Altar was based on the short story \"The Dreams in the Witch House\". Curse of the Crimson Altar starred Christopher Lee. The film Curse of the Crimson Altar was edited and released as The Crimson Cult in the United States. Boris Karloff was a horror heavyweight. Curse of the Crimson Altar starred Mark Eden. The film Curse of the Crimson Altar featured one of the final film appearances of Boris Karloff. Curse of the Crimson Altar was directed by Vernon Sewell. The film Curse of the Crimson Altar was produced by Louis M. Heyward."
+    },
+    {
+      "chunk_id": "e67e59b3-a605-47d8-b99e-13496cb5c032",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Martin Donovan (screenwriter)",
+      "page_content": "Martin Donovan was born on January 21, 1950."
+    },
+    {
+      "chunk_id": "ba90f156-0d05-467c-9a71-ddb942fdac02",
+      "chunk_title": "Martin Honert Biography",
+      "chunk_summary": "This chunk contains biographical and artistic information about the German artist Martin Honert, including his birth year, nationality, base of operations, gallery representation, and his focus on veristic sculptures related to childhood memories.",
+      "context_title": "Martin Honert",
+      "page_content": "Martin Honert is a German artist. Martin Honert was born in 1953. Martin Honert is based in Düsseldorf. Martin Honert is represented by the Matthew Marks Gallery. Martin Honert is known for making veristic sculptures of memories or images related to his childhood."
+    },
+    {
+      "chunk_id": "05a936f4-eda5-4d5f-856e-3cddf6cbbf31",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Don Davenport",
+      "page_content": "Don Davenport was born on 18 April 1945."
+    },
+    {
+      "chunk_id": "72487b8e-8ac3-496c-ac22-6bd5560262c5",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "John Anderson (musician)",
+      "page_content": "John David Anderson was born on December 13, 1954."
+    },
+    {
+      "chunk_id": "bf4682e3-fe2e-4f66-8a6c-49ed56e1634e",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Mark Malone",
+      "page_content": "Mark M. Malone was born on November 22, 1958."
+    },
+    {
+      "chunk_id": "5f9b4d2d-453f-48e2-b565-33ae70bd5256",
+      "chunk_title": "Lucio Fulci's Career and Works",
+      "chunk_summary": "This chunk contains information about the professional roles, career span, genre versatility, cult following, notable works, and characteristic graphic violence in the films of Italian director Lucio Fulci.",
+      "context_title": "Lucio Fulci",
+      "page_content": "\"The House by the Cemetery\" (1981) is part of the \"Gates of Hell\" trilogy. Lucio Fulci worked in the science fiction genre. Lucio Fulci worked in the adventure genre. \"A Lizard in a Woman's Skin\" (1971) is one of Lucio Fulci's most notable films. \"Zombi 2\" contains a high level of visceral graphic violence. \"The New York Ripper\" (1982) is one of Lucio Fulci's most notable films. \"Murder Rock\" (1984) is one of Lucio Fulci's most notable films. \"Zombi 2\" (1979) is one of Lucio Fulci's most notable films. \"Four of the Apocalypse\" (1975) is one of Lucio Fulci's most notable films. Lucio Fulci worked in the comedy genre. Lucio Fulci was an Italian film director. Lucio Fulci worked in a wide array of genres through a career spanning nearly five decades. \"Sette note in nero\" (1977) is one of Lucio Fulci's most notable films. Lucio Fulci worked in the erotica genre. \"Contraband\" (1980) is one of Lucio Fulci's most notable films. \"The Beyond\" (1981) is part of the \"Gates of Hell\" trilogy. \"Massacre Time\" (1966) is one of Lucio Fulci's most notable films. \"The Beyond\" contains a high level of visceral graphic violence. \"The Black Cat\" (1981) is one of Lucio Fulci's most notable films. Many of Lucio Fulci's films contain a high level of visceral graphic violence. \"One on Top of the Other\" (1969) is one of Lucio Fulci's most notable films. Lucio Fulci was an actor. \"A Cat in the Brain\" (1990) is one of Lucio Fulci's most notable films. Lucio Fulci was a producer. \"City of the Living Dead\" (1980) is part of the \"Gates of Hell\" trilogy. Lucio Fulci was a screenwriter. Lucio Fulci garnered an international cult following for his horror films. Lucio Fulci garnered an international cult following for his giallo films. Lucio Fulci worked in the spaghetti western genre. \"Don't Torture a Duckling\" (1972) is one of Lucio Fulci's most notable films. Lucio Fulci is frequently referred to as \"The Godfather of Gore\". The \"Gates of Hell\" trilogy is among Lucio Fulci's most notable films. \"White Fang\" (1973) is one of Lucio Fulci's most notable films."
+    },
+    {
+      "chunk_id": "f5b13222-c566-433d-ab97-7ce756c141bf",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of notable individuals.",
+      "context_title": "Lucio Fulci",
+      "page_content": "Lucio Fulci was born on 17 June 1927. Lucio Fulci died on 13 March 1996."
+    },
+    {
+      "chunk_id": "5496a7bd-405c-41c4-950c-9af61d2d2bef",
+      "chunk_title": "Michele Soavi's Career",
+      "chunk_summary": "This chunk contains information about the professional background, nationality, and genre specialization of Michele Soavi, including his roles as a filmmaker, actor, screenwriter, his prominence in the horror film genre, and his collaborations with other directors.",
+      "context_title": "Michele Soavi",
+      "page_content": "Michele Soavi is a screenwriter. Michele Soavi is an actor. Michele Soavi is best known for his work in the horror film genre. Michele Soavi worked alongside director Dario Argento. Michele Soavi worked alongside director Lucio Fulci. Michele Soavi is an Italian filmmaker."
+    },
+    {
+      "chunk_id": "9bad5f29-98c9-4f33-b1aa-de0f0c735cc5",
+      "chunk_title": "Herschell Gordon Lewis Career & Legacy",
+      "chunk_summary": "This chunk contains information about the career and legacy of filmmaker Herschell Gordon Lewis, known as the \"Godfather of Gore\" for creating the splatter subgenre, while also noting that Lucio Fulci shares this title.",
+      "context_title": "Herschell Gordon Lewis",
+      "page_content": "All Movie stated that Herschell Gordon Lewis probed the depths of disgust and discomfort onscreen. Herschell Gordon Lewis's film career included works in a range of exploitation film genres. All Movie stated that Herschell Gordon Lewis used more bad taste and imagination than anyone of his era. Herschell Gordon Lewis's film career included juvenile delinquent films. Herschell Gordon Lewis is best known for creating the \"splatter\" subgenre of horror films. All Movie wrote about Herschell Gordon Lewis's career. The title \"Godfather of Gore\" is also given to Lucio Fulci. Herschell Gordon Lewis's film career included at least one rural comedy. Herschell Gordon Lewis's film career included nudie-cuties. All Movie stated that with his better-known gore films, Herschell Gordon Lewis was a pioneer. Herschell Gordon Lewis's film career included two children's films. Herschell Gordon Lewis was an American filmmaker. Herschell Gordon Lewis is often called the \"Godfather of Gore\". All Movie stated that Herschell Gordon Lewis went farther than anyone else dared."
+    },
+    {
+      "chunk_id": "d1a8c5b3-c0f2-44b8-b67a-c98c178e7fe3",
+      "chunk_title": "Early Political Affiliations",
+      "chunk_summary": "This chunk contains information about the political affiliations and activities of individuals during their early lives.",
+      "context_title": "Lucio Fulci",
+      "page_content": "Lucio Fulci was a politically active radical for the Italian Communist Party in his young adult years."
+    },
+    {
+      "chunk_id": "645dead0-59a5-49ad-b466-0d7f5c89f901",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of notable individuals.",
+      "context_title": "Gillo Pontecorvo",
+      "page_content": "Gillo Pontecorvo was born on 19 November 1919. Gillo Pontecorvo died on 12 October 2006."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.4444444444444444,
+  "retrieval_count": 4,
+  "total_chunks": 27,
+  "total_distinct_titles": 17,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 5,
+  "dag_edges": 4,
+  "dag_snapshots": [
+    {
+      "q": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影导演的出生年份以确定哪部电影的导演出生更早",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_3 (1950) 和 N1_4 (1927) 均已 solved 且证据充分。逻辑上可推导出 Lucio Fulci (1927) 出生早于 Martin Donovan (1950)，因此 'The House By The Cemetery' 的导演出生更早。但当前节点状态为 unsolved，缺乏最终的比较结论陈述。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 Q：'The House By The Cemetery' 的导演 (Lucio Fulci, born 1927) 比 'Apartment Zero' 的导演 (Martin Donovan, born 1950) 出生更早。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Apartment Zero?",
+          "answer": "Martin Donovan",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Apartment Zero?",
+          "planner_rationale": "为了回答 Q，首先需要确定电影《Apartment Zero》的导演是谁，这是获取其出生年份的前提",
+          "solver_judgment": "question 要求找出电影《Apartment Zero》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于该电影及 Martin Donovan 的片段。其中 chunk '59364ecd-2543-4bdd-a95d-62e88d23df4b' 明确记载 \"Martin Donovan is mostly recognized as the director of the cult film 'Apartment Zero'\"，chunk 'b26b8c08-2da1-4fef-83d2-e0eda7d7bf33' 也记载 \"Martin Donovan directed Apartment Zero\"。检索精准命中目标信息，答案明确。",
+          "critic_factual_notes": "2 个独立来源（文档 'Martin Donovan (screenwriter)' 和 'Apartment Zero'）一致确认 Martin Donovan 是电影 'Apartment Zero' 的导演。Chunk 59364ecd 明确记载 'Martin Donovan is mostly recognized as the director of the cult film \"Apartment Zero\"'。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film The House By The Cemetery?",
+          "answer": "Lucio Fulci",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The House By The Cemetery?",
+          "planner_rationale": "为了回答 Q，首先需要确定电影《The House By The Cemetery》的导演是谁，这是获取其出生年份的前提",
+          "solver_judgment": "question 要求找出电影《The House By The Cemetery》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了明确的答案：chunk 235e43e5-f537-4968-83d8-afed83991375 指出 \"The film The House by the Cemetery was directed by Lucio Fulci\"，chunk d0d0aea8-e7d8-4273-bad5-52b405a2f509 也确认 \"Lucio Fulci directed The House by the Cemetery\"。检索精准命中目标信息，答案完整且有多处佐证。",
+          "critic_factual_notes": "2 个独立来源（文档 'House by the Cemetery (EP)' 和 'The House by the Cemetery'）一致确认 Lucio Fulci 是电影 'The House By The Cemetery' 的导演。Chunk 235e43e5 明确记载 'The film The House by the Cemetery was directed by Lucio Fulci'。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Apartment Zero born?",
+          "answer": "January 21, 1950",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Martin Donovan birth date",
+          "planner_rationale": "获取《Apartment Zero》导演的出生年份，以便与另一部电影的导演进行比较",
+          "solver_judgment": "question 要求确认电影《Apartment Zero》导演的出生日期。search_query 搜索了 'Martin Donovan birth date'，隐含假设 Martin Donovan 是该片导演。chunks 返回的信息证实了这一假设：chunk_b26b8c08 和 chunk_59364ecd 明确指出 Martin Donovan 是《Apartment Zero》的导演（\"Martin Donovan directed Apartment Zero\" / \"director of the cult film 'Apartment Zero'\"）。chunk_e67e59b3 提供了 Martin Donovan 的出生日期：\"Martin Donovan was born on January 21, 1950.\"。检索精准命中目标人物及其生平信息，信息完整，可以直接回答问题。",
+          "critic_factual_notes": "3 个来源支持。其中 Chunk e67e59b3 (来源: Martin Donovan (screenwriter)) 直接陈述 'Martin Donovan was born on January 21, 1950'。另外两个支撑 chunk (b26b8c08, 59364ecd) 用于验证 Martin Donovan 与 Apartment Zero 的导演身份关联，确保查询对象正确。核心事实有直接来源支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of The House By The Cemetery born?",
+          "answer": "17 June 1927",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Lucio Fulci birth date",
+          "planner_rationale": "获取《The House By The Cemetery》导演的出生年份，以便与另一部电影的导演进行比较",
+          "solver_judgment": "question 要求确认电影《The House By The Cemetery》导演的出生日期。search_query 搜索了 'Lucio Fulci birth date'，预设已知导演为 Lucio Fulci。chunks 中，chunk_235e43e5 和 chunk_d0d0aea8 明确指出 \"The House by the Cemetery\" 由 Lucio Fulci 执导。chunk_f5b13222 明确记载 \"Lucio Fulci was born on 17 June 1927\"。检索精准命中了导演身份及其出生日期，信息完整且直接支撑答案。",
+          "critic_factual_notes": "2 个独立来源支持。Chunk f5b13222 (来源: Lucio Fulci) 直接陈述 'Lucio Fulci was born on 17 June 1927'。Chunk 235e43e5 用于验证 Lucio Fulci 与 The House By The Cemetery 的导演身份关联。核心事实有直接来源支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实已确立，需基于子节点答案进行最终比较并生成结论",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_3 (answer: January 21, 1950) 和 N1_4 (answer: 17 June 1927) 均已 solved 且证据充分。逻辑上可推导出 Lucio Fulci (1927) 出生早于 Martin Donovan (1950)，因此 'The House By The Cemetery' 的导演出生更早。但当前节点缺乏最终的比较结论陈述，答案字段为空。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 Q：'The House By The Cemetery' 的导演 (Lucio Fulci, born 1927) 比 'Apartment Zero' 的导演 (Martin Donovan, born 1950) 出生更早。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Apartment Zero?",
+          "answer": "Martin Donovan",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Apartment Zero?",
+          "planner_rationale": "已确立《Apartment Zero》的导演为 Martin Donovan，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《Apartment Zero》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于该电影及 Martin Donovan 的片段。其中 chunk '59364ecd-2543-4bdd-a95d-62e88d23df4b' 明确记载 \"Martin Donovan is mostly recognized as the director of the cult film 'Apartment Zero'\"，chunk 'b26b8c08-2da1-4fef-83d2-e0eda7d7bf33' 也记载 \"Martin Donovan directed Apartment Zero\"。检索精准命中目标信息，答案明确。",
+          "critic_factual_notes": "2 个独立来源（文档 'Martin Donovan (screenwriter)' 和 'Apartment Zero'）一致确认 Martin Donovan 是电影 'Apartment Zero' 的导演。Chunk 59364ecd 明确记载 'Martin Donovan is mostly recognized as the director of the cult film \"Apartment Zero\"'。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film The House By The Cemetery?",
+          "answer": "Lucio Fulci",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The House By The Cemetery?",
+          "planner_rationale": "已确立《The House By The Cemetery》的导演为 Lucio Fulci，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《The House By The Cemetery》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了明确的答案：chunk 235e43e5-f537-4968-83d8-afed83991375 指出 \"The film The House by the Cemetery was directed by Lucio Fulci\"，chunk d0d0aea8-e7d8-4273-bad5-52b405a2f509 也确认 \"Lucio Fulci directed The House by the Cemetery\"。检索精准命中目标信息，答案完整且有多处佐证。",
+          "critic_factual_notes": "2 个独立来源（文档 'House by the Cemetery (EP)' 和 'The House by the Cemetery'）一致确认 Lucio Fulci 是电影 'The House By The Cemetery' 的导演。Chunk 235e43e5 明确记载 'The film The House by the Cemetery was directed by Lucio Fulci'。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Apartment Zero born?",
+          "answer": "January 21, 1950",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Martin Donovan birth date",
+          "planner_rationale": "已确立 Martin Donovan 出生于 1950-01-21，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求确认电影《Apartment Zero》导演的出生日期。search_query 搜索了 'Martin Donovan birth date'，隐含假设 Martin Donovan 是该片导演。chunks 返回的信息证实了这一假设：chunk_b26b8c08 和 chunk_59364ecd 明确指出 Martin Donovan 是《Apartment Zero》的导演（\"Martin Donovan directed Apartment Zero\" / \"director of the cult film 'Apartment Zero'\"）。chunk_e67e59b3 提供了 Martin Donovan 的出生日期：\"Martin Donovan was born on January 21, 1950.\"。检索精准命中目标人物及其生平信息，信息完整，可以直接回答问题。",
+          "critic_factual_notes": "3 个来源支持。其中 Chunk e67e59b3 (来源: Martin Donovan (screenwriter)) 直接陈述 'Martin Donovan was born on January 21, 1950'。另外两个支撑 chunk (b26b8c08, 59364ecd) 用于验证 Martin Donovan 与 Apartment Zero 的导演身份关联，确保查询对象正确。核心事实有直接来源支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of The House By The Cemetery born?",
+          "answer": "17 June 1927",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Lucio Fulci birth date",
+          "planner_rationale": "已确立 Lucio Fulci 出生于 1927-06-17，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求确认电影《The House By The Cemetery》导演的出生日期。search_query 搜索了 'Lucio Fulci birth date'，预设已知导演为 Lucio Fulci。chunks 中，chunk_235e43e5 和 chunk_d0d0aea8 明确指出 \"The House by the Cemetery\" 由 Lucio Fulci 执导。chunk_f5b13222 明确记载 \"Lucio Fulci was born on 17 June 1927\"。检索精准命中了导演身份及其出生日期，信息完整且直接支撑答案。",
+          "critic_factual_notes": "2 个独立来源支持。Chunk f5b13222 (来源: Lucio Fulci) 直接陈述 'Lucio Fulci was born on 17 June 1927'。Chunk 235e43e5 用于验证 Lucio Fulci 与 The House By The Cemetery 的导演身份关联。核心事实有直接来源支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实已确立，需基于子节点答案进行最终比较并生成结论",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved，answer 字段为空。其子节点 N1_3 (Martin Donovan, born 1950) 和 N1_4 (Lucio Fulci, born 1927) 均已 solved 且证据充分。逻辑上可推导出 Lucio Fulci 出生更早，但 ROOT 节点尚未生成最终的比较结论陈述。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 Q：'The House By The Cemetery' 的导演 (Lucio Fulci, born 1927) 比 'Apartment Zero' 的导演 (Martin Donovan, born 1950) 出生更早。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Apartment Zero?",
+          "answer": "Martin Donovan",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Apartment Zero?",
+          "planner_rationale": "已确立《Apartment Zero》的导演为 Martin Donovan，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《Apartment Zero》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于该电影及 Martin Donovan 的片段。其中 chunk '59364ecd-2543-4bdd-a95d-62e88d23df4b' 明确记载 \"Martin Donovan is mostly recognized as the director of the cult film 'Apartment Zero'\"，chunk 'b26b8c08-2da1-4fef-83d2-e0eda7d7bf33' 也记载 \"Martin Donovan directed Apartment Zero\"。检索精准命中目标信息，答案明确。",
+          "critic_factual_notes": "2 个独立来源（文档 'Martin Donovan (screenwriter)' 和 'Apartment Zero'）一致确认 Martin Donovan 是电影 'Apartment Zero' 的导演。Chunk 59364ecd 明确记载 'Martin Donovan is mostly recognized as the director of the cult film \"Apartment Zero\"'。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film The House By The Cemetery?",
+          "answer": "Lucio Fulci",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The House By The Cemetery?",
+          "planner_rationale": "已确立《The House By The Cemetery》的导演为 Lucio Fulci，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《The House By The Cemetery》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了明确的答案：chunk 235e43e5-f537-4968-83d8-afed83991375 指出 \"The film The House by the Cemetery was directed by Lucio Fulci\"，chunk d0d0aea8-e7d8-4273-bad5-52b405a2f509 也确认 \"Lucio Fulci directed The House by the Cemetery\"。检索精准命中目标信息，答案完整且有多处佐证。",
+          "critic_factual_notes": "2 个独立来源（文档 'House by the Cemetery (EP)' 和 'The House by the Cemetery'）一致确认 Lucio Fulci 是电影 'The House By The Cemetery' 的导演。Chunk 235e43e5 明确记载 'The film The House by the Cemetery was directed by Lucio Fulci'。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Apartment Zero born?",
+          "answer": "January 21, 1950",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Martin Donovan birth date",
+          "planner_rationale": "已确立 Martin Donovan 出生于 1950-01-21，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求确认电影《Apartment Zero》导演的出生日期。search_query 搜索了 'Martin Donovan birth date'，隐含假设 Martin Donovan 是该片导演。chunks 返回的信息证实了这一假设：chunk_b26b8c08 和 chunk_59364ecd 明确指出 Martin Donovan 是《Apartment Zero》的导演（\"Martin Donovan directed Apartment Zero\" / \"director of the cult film 'Apartment Zero'\"）。chunk_e67e59b3 提供了 Martin Donovan 的出生日期：\"Martin Donovan was born on January 21, 1950.\"。检索精准命中目标人物及其生平信息，信息完整，可以直接回答问题。",
+          "critic_factual_notes": "3 个来源支持。其中 Chunk e67e59b3 (来源: Martin Donovan (screenwriter)) 直接陈述 'Martin Donovan was born on January 21, 1950'。另外两个支撑 chunk (b26b8c08, 59364ecd) 用于验证 Martin Donovan 与 Apartment Zero 的导演身份关联，确保查询对象正确。核心事实有直接来源支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of The House By The Cemetery born?",
+          "answer": "17 June 1927",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Lucio Fulci birth date",
+          "planner_rationale": "已确立 Lucio Fulci 出生于 1927-06-17，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求确认电影《The House By The Cemetery》导演的出生日期。search_query 搜索了 'Lucio Fulci birth date'，预设已知导演为 Lucio Fulci。chunks 中，chunk_235e43e5 和 chunk_d0d0aea8 明确指出 \"The House by the Cemetery\" 由 Lucio Fulci 执导。chunk_f5b13222 明确记载 \"Lucio Fulci was born on 17 June 1927\"。检索精准命中了导演身份及其出生日期，信息完整且直接支撑答案。",
+          "critic_factual_notes": "2 个独立来源支持。Chunk f5b13222 (来源: Lucio Fulci) 直接陈述 'Lucio Fulci was born on 17 June 1927'。Chunk 235e43e5 用于验证 Lucio Fulci 与 The House By The Cemetery 的导演身份关联。核心事实有直接来源支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实已确立，需基于子节点答案进行最终比较并生成结论",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved，answer 字段为空。其子节点 N1_3 (Martin Donovan, born 1950) 和 N1_4 (Lucio Fulci, born 1927) 均已 solved 且证据充分。逻辑上可推导出 Lucio Fulci 出生更早，但 ROOT 节点尚未生成最终的比较结论陈述。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 Q：'The House By The Cemetery' 的导演 (Lucio Fulci, born 1927) 比 'Apartment Zero' 的导演 (Martin Donovan, born 1950) 出生更早。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Apartment Zero?",
+          "answer": "Martin Donovan",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Apartment Zero?",
+          "planner_rationale": "已确立《Apartment Zero》的导演为 Martin Donovan，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《Apartment Zero》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于该电影及 Martin Donovan 的片段。其中 chunk '59364ecd-2543-4bdd-a95d-62e88d23df4b' 明确记载 \"Martin Donovan is mostly recognized as the director of the cult film 'Apartment Zero'\"，chunk 'b26b8c08-2da1-4fef-83d2-e0eda7d7bf33' 也记载 \"Martin Donovan directed Apartment Zero\"。检索精准命中目标信息，答案明确。",
+          "critic_factual_notes": "2 个独立来源（文档 'Martin Donovan (screenwriter)' 和 'Apartment Zero'）一致确认 Martin Donovan 是电影 'Apartment Zero' 的导演。Chunk 59364ecd 明确记载 'Martin Donovan is mostly recognized as the director of the cult film \"Apartment Zero\"'。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film The House By The Cemetery?",
+          "answer": "Lucio Fulci",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The House By The Cemetery?",
+          "planner_rationale": "已确立《The House By The Cemetery》的导演为 Lucio Fulci，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《The House By The Cemetery》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了明确的答案：chunk 235e43e5-f537-4968-83d8-afed83991375 指出 \"The film The House by the Cemetery was directed by Lucio Fulci\"，chunk d0d0aea8-e7d8-4273-bad5-52b405a2f509 也确认 \"Lucio Fulci directed The House by the Cemetery\"。检索精准命中目标信息，答案完整且有多处佐证。",
+          "critic_factual_notes": "2 个独立来源（文档 'House by the Cemetery (EP)' 和 'The House by the Cemetery'）一致确认 Lucio Fulci 是电影 'The House By The Cemetery' 的导演。Chunk 235e43e5 明确记载 'The film The House by the Cemetery was directed by Lucio Fulci'。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Apartment Zero born?",
+          "answer": "January 21, 1950",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Martin Donovan birth date",
+          "planner_rationale": "已确立 Martin Donovan 出生于 1950-01-21，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求确认电影《Apartment Zero》导演的出生日期。search_query 搜索了 'Martin Donovan birth date'，隐含假设 Martin Donovan 是该片导演。chunks 返回的信息证实了这一假设：chunk_b26b8c08 和 chunk_59364ecd 明确指出 Martin Donovan 是《Apartment Zero》的导演（\"Martin Donovan directed Apartment Zero\" / \"director of the cult film 'Apartment Zero'\"）。chunk_e67e59b3 提供了 Martin Donovan 的出生日期：\"Martin Donovan was born on January 21, 1950.\"。检索精准命中目标人物及其生平信息，信息完整，可以直接回答问题。",
+          "critic_factual_notes": "3 个来源支持。其中 Chunk e67e59b3 (来源: Martin Donovan (screenwriter)) 直接陈述 'Martin Donovan was born on January 21, 1950'。另外两个支撑 chunk (b26b8c08, 59364ecd) 用于验证 Martin Donovan 与 Apartment Zero 的导演身份关联，确保查询对象正确。核心事实有直接来源支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of The House By The Cemetery born?",
+          "answer": "17 June 1927",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Lucio Fulci birth date",
+          "planner_rationale": "已确立 Lucio Fulci 出生于 1927-06-17，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求确认电影《The House By The Cemetery》导演的出生日期。search_query 搜索了 'Lucio Fulci birth date'，预设已知导演为 Lucio Fulci。chunks 中，chunk_235e43e5 和 chunk_d0d0aea8 明确指出 \"The House by the Cemetery\" 由 Lucio Fulci 执导。chunk_f5b13222 明确记载 \"Lucio Fulci was born on 17 June 1927\"。检索精准命中了导演身份及其出生日期，信息完整且直接支撑答案。",
+          "critic_factual_notes": "2 个独立来源支持。Chunk f5b13222 (来源: Lucio Fulci) 直接陈述 'Lucio Fulci was born on 17 June 1927'。Chunk 235e43e5 用于验证 Lucio Fulci 与 The House By The Cemetery 的导演身份关联。核心事实有直接来源支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director was born first, Apartment Zero or The House By The Cemetery?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实已确立，需基于子节点答案进行最终比较并生成结论",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved，answer 字段为空。其子节点 N1_3 (Martin Donovan, born 1950) 和 N1_4 (Lucio Fulci, born 1927) 均已 solved 且证据充分。逻辑上可推导出 Lucio Fulci 出生更早，但 ROOT 节点尚未生成最终的比较结论陈述。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 Q：'The House By The Cemetery' 的导演 (Lucio Fulci, born 1927) 比 'Apartment Zero' 的导演 (Martin Donovan, born 1950) 出生更早。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Apartment Zero?",
+          "answer": "Martin Donovan",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Apartment Zero?",
+          "planner_rationale": "已确立《Apartment Zero》的导演为 Martin Donovan，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《Apartment Zero》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于该电影及 Martin Donovan 的片段。其中 chunk '59364ecd-2543-4bdd-a95d-62e88d23df4b' 明确记载 \"Martin Donovan is mostly recognized as the director of the cult film 'Apartment Zero'\"，chunk 'b26b8c08-2da1-4fef-83d2-e0eda7d7bf33' 也记载 \"Martin Donovan directed Apartment Zero\"。检索精准命中目标信息，答案明确。",
+          "critic_factual_notes": "2 个独立来源（文档 'Martin Donovan (screenwriter)' 和 'Apartment Zero'）一致确认 Martin Donovan 是电影 'Apartment Zero' 的导演。Chunk 59364ecd 明确记载 'Martin Donovan is mostly recognized as the director of the cult film \"Apartment Zero\"'。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film The House By The Cemetery?",
+          "answer": "Lucio Fulci",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The House By The Cemetery?",
+          "planner_rationale": "已确立《The House By The Cemetery》的导演为 Lucio Fulci，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求找出电影《The House By The Cemetery》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了明确的答案：chunk 235e43e5-f537-4968-83d8-afed83991375 指出 \"The film The House by the Cemetery was directed by Lucio Fulci\"，chunk d0d0aea8-e7d8-4273-bad5-52b405a2f509 也确认 \"Lucio Fulci directed The House by the Cemetery\"。检索精准命中目标信息，答案完整且有多处佐证。",
+          "critic_factual_notes": "2 个独立来源（文档 'House by the Cemetery (EP)' 和 'The House by the Cemetery'）一致确认 Lucio Fulci 是电影 'The House By The Cemetery' 的导演。Chunk 235e43e5 明确记载 'The film The House by the Cemetery was directed by Lucio Fulci'。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Apartment Zero born?",
+          "answer": "January 21, 1950",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Martin Donovan birth date",
+          "planner_rationale": "已确立 Martin Donovan 出生于 1950-01-21，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求确认电影《Apartment Zero》导演的出生日期。search_query 搜索了 'Martin Donovan birth date'，隐含假设 Martin Donovan 是该片导演。chunks 返回的信息证实了这一假设：chunk_b26b8c08 和 chunk_59364ecd 明确指出 Martin Donovan 是《Apartment Zero》的导演（\"Martin Donovan directed Apartment Zero\" / \"director of the cult film 'Apartment Zero'\"）。chunk_e67e59b3 提供了 Martin Donovan 的出生日期：\"Martin Donovan was born on January 21, 1950.\"。检索精准命中目标人物及其生平信息，信息完整，可以直接回答问题。",
+          "critic_factual_notes": "3 个来源支持。其中 Chunk e67e59b3 (来源: Martin Donovan (screenwriter)) 直接陈述 'Martin Donovan was born on January 21, 1950'。另外两个支撑 chunk (b26b8c08, 59364ecd) 用于验证 Martin Donovan 与 Apartment Zero 的导演身份关联，确保查询对象正确。核心事实有直接来源支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of The House By The Cemetery born?",
+          "answer": "17 June 1927",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Lucio Fulci birth date",
+          "planner_rationale": "已确立 Lucio Fulci 出生于 1927-06-17，证据充分且 Critic 判为 healthy",
+          "solver_judgment": "question 要求确认电影《The House By The Cemetery》导演的出生日期。search_query 搜索了 'Lucio Fulci birth date'，预设已知导演为 Lucio Fulci。chunks 中，chunk_235e43e5 和 chunk_d0d0aea8 明确指出 \"The House by the Cemetery\" 由 Lucio Fulci 执导。chunk_f5b13222 明确记载 \"Lucio Fulci was born on 17 June 1927\"。检索精准命中了导演身份及其出生日期，信息完整且直接支撑答案。",
+          "critic_factual_notes": "2 个独立来源支持。Chunk f5b13222 (来源: Lucio Fulci) 直接陈述 'Lucio Fulci was born on 17 June 1927'。Chunk 235e43e5 用于验证 Lucio Fulci 与 The House By The Cemetery 的导演身份关联。核心事实有直接来源支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the director of the film Apartment Zero?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "59364ecd-2543-4bdd-a95d-62e88d23df4b",
+        "b26b8c08-2da1-4fef-83d2-e0eda7d7bf33",
+        "de1d9139-d28c-4b40-91bf-c01925f387fe",
+        "1d27b1fe-6bfa-4fd2-a950-9011bb692c64",
+        "daca131d-5b3e-4c71-86b6-4a28c36991d4",
+        "fc1085e9-0f6d-4970-b970-98ccb35b919c",
+        "2b963ac8-1917-4424-9a6e-b8f14077794b",
+        "62b4c577-0d13-4484-9939-34ebff3303ec"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who is the director of the film The House By The Cemetery?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "235e43e5-f537-4968-83d8-afed83991375",
+        "d0d0aea8-e7d8-4273-bad5-52b405a2f509",
+        "1737b0d4-032b-41e3-b32b-31cce917da80",
+        "424a70e1-fb3e-4982-b1cb-c0912bd17c41",
+        "a8c7d827-20df-40f3-aed7-bba5274100ba",
+        "c24eed53-cde8-4b6f-bec6-de244e4aefcb",
+        "5e6b5e27-9340-437e-9aee-27efbacd5008",
+        "b23c86ce-85c7-41e2-b063-84dbe1941381"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Martin Donovan birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "e67e59b3-a605-47d8-b99e-13496cb5c032",
+        "2b963ac8-1917-4424-9a6e-b8f14077794b",
+        "b26b8c08-2da1-4fef-83d2-e0eda7d7bf33",
+        "59364ecd-2543-4bdd-a95d-62e88d23df4b",
+        "ba90f156-0d05-467c-9a71-ddb942fdac02",
+        "05a936f4-eda5-4d5f-856e-3cddf6cbbf31",
+        "72487b8e-8ac3-496c-ac22-6bd5560262c5",
+        "bf4682e3-fe2e-4f66-8a6c-49ed56e1634e"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Lucio Fulci birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "235e43e5-f537-4968-83d8-afed83991375",
+        "5f9b4d2d-453f-48e2-b565-33ae70bd5256",
+        "f5b13222-c566-433d-ab97-7ce756c141bf",
+        "5496a7bd-405c-41c4-950c-9af61d2d2bef",
+        "9bad5f29-98c9-4f33-b1aa-de0f0c735cc5",
+        "d1a8c5b3-c0f2-44b8-b67a-c98c178e7fe3",
+        "d0d0aea8-e7d8-4273-bad5-52b405a2f509",
+        "645dead0-59a5-49ad-b466-0d7f5c89f901"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 《Apartment Zero》的导演是谁？（理由：Q 要求比较导演出生时间，需先识别导演身份），F2: 《The House By The Cemetery》的导演是谁？（理由：同上，需识别另一部电影的导演身份），F3: 《Apartment Zero》导演的出生年份是什么？（理由：这是比较的核心数据之一），F4: 《The House By The Cemetery》导演的出生年份是什么？（理由：这是比较的核心数据之二）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F3 依赖于 F1（dependency——需先知道导演是谁才能查其出生年份），F4 依赖于 F2（dependency——同理）。最终通过比较 F3 和 F4 的答案来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将 Q 分解为两个并行分支，分别处理两部电影。每个分支包含“识别导演”和“查询出生年份”两个步骤，其中查询出生年份依赖于识别导演的结果。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification，因为它是 unsolved 状态且尚未生成最终的比较结论。虽然所有叶子节点 (N1_1-N1_4) 均为 healthy 且推理链语义匹配 (条件②通过)，但根节点必须被标记为 healthy 才能终止。建议下一步由答案生成器基于子节点事实合成 ROOT 答案，或将 ROOT 标记为 "
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 《Apartment Zero》的导演是谁？（理由：识别比较对象之一），F2: 《The House By The Cemetery》的导演是谁？（理由：识别比较对象之二），F3: 《Apartment Zero》导演的出生年份？（理由：比较数据之一），F4: 《The House By The Cemetery》导演的出生年份？（理由：比较数据之二）。关系: F1/F2 是 Q 的分解产物（decomposition），F3 依赖 F1（dependency），F4 依赖 F2（dependency）。当前 DAG 已完整覆盖这些事实且全部 SOLVED + healthy。本轮目标是保持结构稳定，等待系统基于已确立的子事实聚合出 ROOT 节点的最终答案。",
+      "hypothesis_delta": "修正：上一轮输出遗漏了显式声明保留旧边的 LINK 原语。根据系统规则，未被原语序列覆盖的旧边会被自动删除，因此必须显式列出所有需要保留的边。本轮无实质结构变更，所有节点和边均通过 INHERIT 和 LINK 原语完整保留。上一轮假设的所有事实（F1-F4）均已确证，DAG 处于收敛状态。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification。虽然所有子节点 (N1_1-N1_4) 均为 healthy 且推理链语义匹配 (条件②通过)，但 ROOT 节点尚未生成最终答案，导致整体 DAG 未达到全部节点 healthy 的状态。需等待 ROOT 节点被标记为 solved/healthy 后方可终止。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 《Apartment Zero》的导演是谁？（理由：识别比较对象之一），F2: 《The House By The Cemetery》的导演是谁？（理由：识别比较对象之二），F3: 《Apartment Zero》导演的出生日期？（理由：比较数据之一），F4: 《The House By The Cemetery》导演的出生日期？（理由：比较数据之二）。关系: F1/F2 是 Q 的分解产物（decomposition），F3 依赖 F1（dependency——消解“director”指代），F4 依赖 F2（dependency——消解“director”指代）。当前 DAG 已完整覆盖这些事实且全部 SOLVED + healthy。本轮目标是保持结构稳定，等待系统基于已确立的子事实聚合出 ROOT 节点的最终答案。",
+      "hypothesis_delta": "本轮无实质结构变更。所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边均通过 LINK 显式声明保留。上一轮假设的所有事实（F1-F4）均已确证，DAG 处于收敛状态。Critic 指出唯一待办事项是 ROOT 节点需基于子节点答案生成最终比较结论，但这属于 Solver 的聚合逻辑，无需调整 DAG 结构。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification，因为其为 unsolved 状态且 answer 为空。虽然所有叶子节点证据充分且推理链语义有效，但根节点尚未生成最终比较结论，导致整体 DAG 未达到 fully healthy 状态。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 《Apartment Zero》的导演是谁？（理由：识别比较对象之一），F2: 《The House By The Cemetery》的导演是谁？（理由：识别比较对象之二），F3: 《Apartment Zero》导演的出生日期？（理由：比较数据之一），F4: 《The House By The Cemetery》导演的出生日期？（理由：比较数据之二）。关系: F1/F2 是 Q 的分解产物（decomposition），F3 依赖 F1（dependency——消解“director”指代），F4 依赖 F2（dependency——消解“director”指代）。当前 DAG 已完整覆盖这些事实且全部 SOLVED + healthy。本轮目标是保持结构稳定，等待系统基于已确立的子事实聚合出 ROOT 节点的最终答案。",
+      "hypothesis_delta": "本轮无实质结构变更。所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边均通过 LINK 显式声明保留。上一轮假设的所有事实（F1-F4）均已确证，DAG 处于收敛状态。Critic 指出唯一待办事项是 ROOT 节点需基于子节点答案生成最终比较结论，但这属于 Solver 的聚合逻辑，无需调整 DAG 结构。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification（因为 answer 为空，尚未生成最终比较结论）。虽然所有叶子节点证据充分且推理链语义有效（条件②通过），但根节点未完成最终答案的合成，导致整体 DAG 未达到 fully healthy 状态。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 《Apartment Zero》的导演是谁？（理由：识别比较对象之一），F2: 《The House By The Cemetery》的导演是谁？（理由：识别比较对象之二），F3: 《Apartment Zero》导演的出生日期？（理由：比较数据之一），F4: 《The House By The Cemetery》导演的出生日期？（理由：比较数据之二）。关系: F1/F2 是 Q 的分解产物（decomposition），F3 依赖 F1（dependency——消解“director”指代），F4 依赖 F2（dependency——消解“director”指代）。当前 DAG 已完整覆盖这些事实且全部 SOLVED + healthy。本轮目标是保持结构稳定，等待系统基于已确立的子事实聚合出 ROOT 节点的最终答案。",
+      "hypothesis_delta": "本轮无实质结构变更。所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边均通过 LINK 显式声明保留。上一轮假设的所有事实（F1-F4）均已确证，DAG 处于收敛状态。Critic 指出唯一待办事项是 ROOT 节点需基于子节点答案生成最终比较结论，但这属于 Solver 的聚合逻辑，无需调整 DAG 结构。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification，因为其为 unsolved 状态且 answer 为空。虽然子节点证据充分，但根节点尚未完成最终答案的合成与填充。"
+      }
+    }
+  ]
+}

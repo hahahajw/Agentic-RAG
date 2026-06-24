@@ -1,0 +1,677 @@
+{
+  "question_index": 400,
+  "question_id": "5ac45b58554299076e296dad",
+  "question": "Which has the larger population, Shanghai or Hanggin Rear Banner?",
+  "answer": "Shanghai",
+  "prediction": "Shanghai",
+  "error": null,
+  "latency_ms": 196519.47560000553,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T17:41:55.486779+00:00",
+  "chunks": [
+    {
+      "chunk_id": "8920d3a9-5387-48de-a8e6-045c37a78530",
+      "chunk_title": "City Population Rankings",
+      "chunk_summary": "This chunk contains information about the population size and global ranking of major cities, specifically focusing on Shanghai.",
+      "context_title": "Shanghai",
+      "page_content": "Shanghai is the most populous city proper in the world as of 2014. Shanghai had a population of more than 24 million as of 2014."
+    },
+    {
+      "chunk_id": "9a2581c8-ec7a-473e-98d2-1cace05c8916",
+      "chunk_title": "Administrative Divisions",
+      "chunk_summary": "This chunk contains information about the administrative divisions and direct-controlled municipalities of China.",
+      "context_title": "Shanghai",
+      "page_content": "Shanghai is one of the four direct-controlled municipalities of China."
+    },
+    {
+      "chunk_id": "9d955eb5-b635-4a3b-83c4-94a891bf50e2",
+      "chunk_title": "Demographics",
+      "chunk_summary": "This chunk contains demographic information about the population of Xingcheng.",
+      "context_title": "Xingcheng",
+      "page_content": "Xingcheng has a population of approximately 140,000 urban inhabitants."
+    },
+    {
+      "chunk_id": "5c49e665-0611-4b9d-838d-512645a3a8b6",
+      "chunk_title": "Global Financial Centers",
+      "chunk_summary": "This chunk contains information about global financial centers and their characteristics.",
+      "context_title": "Shanghai",
+      "page_content": "Shanghai is a global financial centre."
+    },
+    {
+      "chunk_id": "7bd27917-c7c5-4a1b-892b-791e8a6918c3",
+      "chunk_title": "Population Size",
+      "chunk_summary": "This chunk contains information about the population size of a country.",
+      "context_title": "Seoul",
+      "page_content": "The country's population is 51.44 million people."
+    },
+    {
+      "chunk_id": "073be3e6-7fc5-41f2-b675-07e6c0cf0f8d",
+      "chunk_title": "Shanghai's Geography",
+      "chunk_summary": "This chunk contains information about the geographical location and borders of Shanghai.",
+      "context_title": "Shanghai",
+      "page_content": "The municipality of Shanghai is bounded to the east by the East China Sea. Shanghai sits in the middle portion of the East China coast. Shanghai is located in the Yangtze River Delta. Shanghai sits on the south edge of the estuary of the Yangtze. The municipality of Shanghai borders the province of Zhejiang to the north, south and west. The municipality of Shanghai borders the province of Jiangsu to the north, south and west."
+    },
+    {
+      "chunk_id": "cf501afb-1a95-4e32-86aa-494eca476c8f",
+      "chunk_title": "Transport Hubs",
+      "chunk_summary": "This chunk contains information about cities that serve as transport hubs, including details about their ports and logistics infrastructure.",
+      "context_title": "Shanghai",
+      "page_content": "Shanghai is a transport hub. Shanghai has the world's busiest container port."
+    },
+    {
+      "chunk_id": "995ecbba-6392-4265-a658-e59476f14121",
+      "chunk_title": "Unrecognized Ethnic Groups",
+      "chunk_summary": "This chunk contains information about the status, terminology, population size, relative ranking, and linguistic characteristics of unrecognized ethnic groups within the People's Republic of China.",
+      "context_title": "Unrecognized ethnic groups in China",
+      "page_content": "Several ethnic groups of the People's Republic of China are not officially recognized. Some scholars have estimated that there are over 200 distinct ethnic groups that inhabit China. The unrecognized ethnic groups of the People's Republic of China are called \"未识别民族\" (wèi shíbié mínzú). There are small distinct ethnic groups in China that have been classified as part of larger ethnic groups that are officially recognized. The Limgao (Ong-Be) people do not speak a Chinese language. If considered as a single group, the unrecognized ethnic groups of the People's Republic of China would constitute the twentieth most populous ethnic group of China. The unrecognized ethnic groups of the People's Republic of China number more than 730,000 people."
+    },
+    {
+      "chunk_id": "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+      "chunk_title": "Seoul & Capital Area",
+      "chunk_summary": "This chunk contains information about Seoul's status as a major metropolis, its global ranking, and the demographics and composition of the broader Seoul Capital Area.",
+      "context_title": "Seoul",
+      "page_content": "The Seoul Capital Area has 678,102 international residents. The Seoul Capital Area includes the surrounding Gyeonggi province. Seoul forms the heart of the Seoul Capital Area. The Seoul Capital Area houses about half of the country's population. Seoul is the world's 16th largest city. The Seoul Capital Area includes the surrounding Incheon metropolis. Seoul is the largest metropolis of the Republic of Korea."
+    },
+    {
+      "chunk_id": "41fe2a06-aa4b-4280-8173-0f948b618d06",
+      "chunk_title": "Venue Capacity",
+      "chunk_summary": "This chunk contains information about the capacity of venues or locations.",
+      "context_title": "Docks (nightclub)",
+      "page_content": "Docks has a capacity between 1,250 and 1,500 people."
+    },
+    {
+      "chunk_id": "bdfbd478-c186-4052-ab05-7ba0a9246a97",
+      "chunk_title": "Population Counts",
+      "chunk_summary": "This chunk contains information about the population counts of specific regions at given times.",
+      "context_title": "Hanggin Rear Banner",
+      "page_content": "Hanggin Rear Banner had 300,000 inhabitants in 2004."
+    },
+    {
+      "chunk_id": "7474c196-5b63-4421-a5fa-036a35d54e9f",
+      "chunk_title": "Geographical Regions",
+      "chunk_summary": "This chunk contains information about the geographical area of specific regions.",
+      "context_title": "Hanggin Rear Banner",
+      "page_content": "Hanggin Rear Banner has an area of 1,767 km²."
+    },
+    {
+      "chunk_id": "b852dd56-4a71-4644-b77b-1d435fc0f72a",
+      "chunk_title": "Urad Rear Banner Details",
+      "chunk_summary": "This chunk contains information about specific administrative banners in the Inner Mongolia Autonomous Region of China, including their alternative names, native script designations, geographical locations, administrative relationships, area, and population statistics.",
+      "context_title": "Urad Rear Banner",
+      "page_content": "The seat of Urad Rear Banner is located in the town of Bayan Bolag. Urad Rear Banner has a total area of 24,925 km². Urad Rear Banner is located in the west of the Inner Mongolia Autonomous Region. Urad Rear Banner is also known as Urad Houqi. The Mongolian name for Urad Rear Banner is ᠤᠷᠠᠳ ᠤᠨ ᠬᠣᠶᠢᠲᠤ ᠬᠣᠰᠢᠭᠤ (Urad-un Qoyitu Qosiɣu). Urad Rear Banner is a banner of the Inner Mongolia Autonomous Region, People's Republic of China. Urad Rear Banner had a population of 60,000 in 2004. The city of Bayan Nur administers Urad Rear Banner. The Chinese name for the town of Bayan Bolag is 巴音宝力格镇. Urad Rear Banner is located 44 km northwest of the city of Bayan Nur. The Mongolian Cyrillic name for Urad Rear Banner is Урадын хойд хошуу."
+    },
+    {
+      "chunk_id": "a721faed-57f6-47e3-932e-115ee766c664",
+      "chunk_title": "Shuangmiao Overview",
+      "chunk_summary": "This chunk contains information about the town of Shuangmiao, including its administrative status, geographical location in Inner Mongolia, and its internal village divisions.",
+      "context_title": "Shuangmiao, Inner Mongolia",
+      "page_content": "Hanggin Rear Banner is in southwestern Inner Mongolia, China. Shuangmiao is located about 26 km southwest of the banner seat of Hanggin Rear Banner. Shuangmiao is under the administration of Hanggin Rear Banner. Shuangmiao has 14 villages under its administration. Shuangmiao is located about 44 km north-northwest of downtown Bayannur. Shuangmiao is a town."
+    },
+    {
+      "chunk_id": "af64d507-a2ca-4d23-b226-7c6e00b48113",
+      "chunk_title": "Inner Mongolia Regions",
+      "chunk_summary": "This chunk contains information about the historical names, current administrative identities, and notable natives of specific regions in Inner Mongolia.",
+      "context_title": "Altanochir (1882–1949)",
+      "page_content": "Right-Wing Rear Banner, Ordos is today administered as Hanggin Banner, Ordos City. Altanochir was a native of Right-Wing Rear Banner, Ordos. Yeke-juu League is today known as Ordos City."
+    },
+    {
+      "chunk_id": "0b4e3d14-7d24-4f99-b3f4-da0e86efb469",
+      "chunk_title": "Administrative Centers",
+      "chunk_summary": "This chunk contains information about the administrative centers of various regions.",
+      "context_title": "Hanggin Rear Banner",
+      "page_content": "The administrative center of Hanggin Rear Banner is Shanba."
+    },
+    {
+      "chunk_id": "47938214-08b0-454d-a569-e3f97236afaf",
+      "chunk_title": "Place Names & Scripts",
+      "chunk_summary": "This chunk contains information about the various Mongolian script representations, transliterations, and Chinese names of specific places.",
+      "context_title": "Hanggin Rear Banner",
+      "page_content": "Hanggin Rear Banner is known in Mongolian as Қанин Қоыиту қосиу. Hanggin Rear Banner is known in Mongolian as Qaŋɣin Qoyitu qosiɣu. Hanggin Rear Banner is known in Mongolian as ᠬᠠᠩᠭᠢᠨ ᠬᠣᠶᠢᠲᠤ ᠬᠣᠰᠢᠭᠤ. Shanba is also known as 陕坝镇."
+    },
+    {
+      "chunk_id": "812e86fc-559a-462d-879d-6b1e68e4a3df",
+      "chunk_title": "Chahar Right Rear Banner Overview",
+      "chunk_summary": "This chunk contains information about the administrative status, geographical location, bordering regions, and key settlements of Chahar Right Rear Banner in Inner Mongolia, China.",
+      "context_title": "Chahar Right Rear Banner",
+      "page_content": "Chahar Right Rear Banner borders Xinghe County to the southeast. Chahar Right Rear Banner borders Chahar Right Rear Banner to the west. Chahar Right Rear Banner borders Zhuozi County to the southwest. Ulaan Chab City lies to the south of Chahar Right Rear Banner along the G55 Erenhot–Guangzhou Expressway. Chahar Right Rear Banner borders Shangdu County to the northeast. Chahar Right Rear Banner is a banner of Inner Mongolia, People's Republic of China. The most important settlement in Chahar Right Rear Banner is Baiyinchagan. Chahar Right Rear Banner is under the administration of Ulaan Chab City. Chahar Right Rear Banner borders Chahar Right Front Banner to the south. Chahar Right Rear Banner borders Xilin Gol to the north. Chahar Right Rear Banner borders Siziwang Banner to the northwest."
+    },
+    {
+      "chunk_id": "15d76511-de0e-4fb3-9e5b-8671108502ed",
+      "chunk_title": "Horqin Left Rear Banner Overview",
+      "chunk_summary": "This chunk contains information about the geographical location, administrative status, bordering regions, and local names of Horqin Left Rear Banner in Inner Mongolia, China.",
+      "context_title": "Horqin Left Rear Banner",
+      "page_content": "Tongliao City is 75 km to the north of Horqin Left Rear Banner. The Mongolian name 'Qorčin Jegün Ɣarun Qoyitu qosiɣu' means 'Northern banner of the Khorchin east wing'. Horqin Left Rear Banner borders Liaoning province to the south. Horqin Left Rear Banner is under the administration of Tongliao City. Horqin Left Rear Banner is a banner of southeastern Inner Mongolia, People's Republic of China. The Mongolian name for Horqin Left Rear Banner is 'Qorčin Jegün Ɣarun Qoyitu qosiɣu'. The original Mongolian name for Horqin Left Rear Banner was 'Büve vang qosigu'."
+    },
+    {
+      "chunk_id": "59a441d0-9648-423d-a541-c96585e78c1c",
+      "chunk_title": "Population Sizes",
+      "chunk_summary": "This chunk contains information about the population size of specific cities or regions.",
+      "context_title": "Hunchun",
+      "page_content": "Hunchun has over 250,000 inhabitants."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.45,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 12,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which has the larger population, Shanghai or Hanggin Rear Banner?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which has the larger population, Shanghai or Hanggin Rear Banner?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，比较上海和杭锦后旗的人口规模",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 提供上海人口 >2400 万（2014年），N1_2 提供杭锦后旗人口 30 万（2004年）。两个子节点答案量级差异巨大（约 80 倍），推理链完整，比较结论明确：上海人口远大于杭锦后旗。",
+          "critic_normative_advice": "推理链完整，子节点证据充分，建议 INHERIT 保留当前结构。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the population of Shanghai?",
+          "answer": "more than 24 million (as of 2014)",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the population of Shanghai?",
+          "planner_rationale": "Q 要求比较两个地区的人口，需要先获取上海的人口数据作为比较的一方",
+          "solver_judgment": "question 要求获取上海的人口数量。search_query 直接搜索了 'What is the population of Shanghai?'。chunks 返回了多个关于上海的信息，其中 chunk 8920d3a9-5387-48de-a8e6-045c37a78530 明确记载 'Shanghai had a population of more than 24 million as of 2014'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Shanghai），直接且具体地陈述了答案。支撑 chunk 8920d3a9 全文为 'Shanghai had a population of more than 24 million as of 2014'，与声称答案 'more than 24 million (as of 2014)' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "证据充分，单来源但直接具体，建议 INHERIT。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "8920d3a9-5387-48de-a8e6-045c37a78530"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "8920d3a9-5387-48de-a8e6-045c37a78530",
+              "chunk_title": "City Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and global ranking of major cities, specifically focusing on Shanghai.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is the most populous city proper in the world as of 2014. Shanghai had a population of more than 24 million as of 2014."
+            },
+            {
+              "chunk_id": "9a2581c8-ec7a-473e-98d2-1cace05c8916",
+              "chunk_title": "Administrative Divisions",
+              "chunk_summary": "This chunk contains information about the administrative divisions and direct-controlled municipalities of China.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is one of the four direct-controlled municipalities of China."
+            },
+            {
+              "chunk_id": "9d955eb5-b635-4a3b-83c4-94a891bf50e2",
+              "chunk_title": "Demographics",
+              "chunk_summary": "This chunk contains demographic information about the population of Xingcheng.",
+              "context_title": "Xingcheng",
+              "page_content": "Xingcheng has a population of approximately 140,000 urban inhabitants."
+            },
+            {
+              "chunk_id": "5c49e665-0611-4b9d-838d-512645a3a8b6",
+              "chunk_title": "Global Financial Centers",
+              "chunk_summary": "This chunk contains information about global financial centers and their characteristics.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is a global financial centre."
+            },
+            {
+              "chunk_id": "7bd27917-c7c5-4a1b-892b-791e8a6918c3",
+              "chunk_title": "Population Size",
+              "chunk_summary": "This chunk contains information about the population size of a country.",
+              "context_title": "Seoul",
+              "page_content": "The country's population is 51.44 million people."
+            },
+            {
+              "chunk_id": "073be3e6-7fc5-41f2-b675-07e6c0cf0f8d",
+              "chunk_title": "Shanghai's Geography",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of Shanghai.",
+              "context_title": "Shanghai",
+              "page_content": "The municipality of Shanghai is bounded to the east by the East China Sea. Shanghai sits in the middle portion of the East China coast. Shanghai is located in the Yangtze River Delta. Shanghai sits on the south edge of the estuary of the Yangtze. The municipality of Shanghai borders the province of Zhejiang to the north, south and west. The municipality of Shanghai borders the province of Jiangsu to the north, south and west."
+            },
+            {
+              "chunk_id": "cf501afb-1a95-4e32-86aa-494eca476c8f",
+              "chunk_title": "Transport Hubs",
+              "chunk_summary": "This chunk contains information about cities that serve as transport hubs, including details about their ports and logistics infrastructure.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is a transport hub. Shanghai has the world's busiest container port."
+            },
+            {
+              "chunk_id": "995ecbba-6392-4265-a658-e59476f14121",
+              "chunk_title": "Unrecognized Ethnic Groups",
+              "chunk_summary": "This chunk contains information about the status, terminology, population size, relative ranking, and linguistic characteristics of unrecognized ethnic groups within the People's Republic of China.",
+              "context_title": "Unrecognized ethnic groups in China",
+              "page_content": "Several ethnic groups of the People's Republic of China are not officially recognized. Some scholars have estimated that there are over 200 distinct ethnic groups that inhabit China. The unrecognized ethnic groups of the People's Republic of China are called \"未识别民族\" (wèi shíbié mínzú). There are small distinct ethnic groups in China that have been classified as part of larger ethnic groups that are officially recognized. The Limgao (Ong-Be) people do not speak a Chinese language. If considered as a single group, the unrecognized ethnic groups of the People's Republic of China would constitute the twentieth most populous ethnic group of China. The unrecognized ethnic groups of the People's Republic of China number more than 730,000 people."
+            },
+            {
+              "chunk_id": "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+              "chunk_title": "Seoul & Capital Area",
+              "chunk_summary": "This chunk contains information about Seoul's status as a major metropolis, its global ranking, and the demographics and composition of the broader Seoul Capital Area.",
+              "context_title": "Seoul",
+              "page_content": "The Seoul Capital Area has 678,102 international residents. The Seoul Capital Area includes the surrounding Gyeonggi province. Seoul forms the heart of the Seoul Capital Area. The Seoul Capital Area houses about half of the country's population. Seoul is the world's 16th largest city. The Seoul Capital Area includes the surrounding Incheon metropolis. Seoul is the largest metropolis of the Republic of Korea."
+            },
+            {
+              "chunk_id": "41fe2a06-aa4b-4280-8173-0f948b618d06",
+              "chunk_title": "Venue Capacity",
+              "chunk_summary": "This chunk contains information about the capacity of venues or locations.",
+              "context_title": "Docks (nightclub)",
+              "page_content": "Docks has a capacity between 1,250 and 1,500 people."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the population of Hanggin Rear Banner?",
+          "answer": "300,000 (in 2004)",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the population of Hanggin Rear Banner?",
+          "planner_rationale": "Q 要求比较两个地区的人口，需要先获取杭锦后旗的人口数据作为比较的另一方",
+          "solver_judgment": "question 要求获取 Hanggin Rear Banner 的人口数量。search_query 直接搜索了该问题。chunks 返回了多个关于不同 Banner 的信息，其中 chunk bdfbd478-c186-4052-ab05-7ba0a9246a97 明确记载 'Hanggin Rear Banner had 300,000 inhabitants in 2004'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Hanggin Rear Banner），直接且具体地陈述了答案。支撑 chunk bdfbd478 全文为 'Hanggin Rear Banner had 300,000 inhabitants in 2004'，与声称答案 '300,000 (in 2004)' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "证据充分，单来源但直接具体，建议 INHERIT。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "bdfbd478-c186-4052-ab05-7ba0a9246a97"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "bdfbd478-c186-4052-ab05-7ba0a9246a97",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific regions at given times.",
+              "context_title": "Hanggin Rear Banner",
+              "page_content": "Hanggin Rear Banner had 300,000 inhabitants in 2004."
+            },
+            {
+              "chunk_id": "7474c196-5b63-4421-a5fa-036a35d54e9f",
+              "chunk_title": "Geographical Regions",
+              "chunk_summary": "This chunk contains information about the geographical area of specific regions.",
+              "context_title": "Hanggin Rear Banner",
+              "page_content": "Hanggin Rear Banner has an area of 1,767 km²."
+            },
+            {
+              "chunk_id": "b852dd56-4a71-4644-b77b-1d435fc0f72a",
+              "chunk_title": "Urad Rear Banner Details",
+              "chunk_summary": "This chunk contains information about specific administrative banners in the Inner Mongolia Autonomous Region of China, including their alternative names, native script designations, geographical locations, administrative relationships, area, and population statistics.",
+              "context_title": "Urad Rear Banner",
+              "page_content": "The seat of Urad Rear Banner is located in the town of Bayan Bolag. Urad Rear Banner has a total area of 24,925 km². Urad Rear Banner is located in the west of the Inner Mongolia Autonomous Region. Urad Rear Banner is also known as Urad Houqi. The Mongolian name for Urad Rear Banner is ᠤᠷᠠᠳ ᠤᠨ ᠬᠣᠶᠢᠲᠤ ᠬᠣᠰᠢᠭᠤ (Urad-un Qoyitu Qosiɣu). Urad Rear Banner is a banner of the Inner Mongolia Autonomous Region, People's Republic of China. Urad Rear Banner had a population of 60,000 in 2004. The city of Bayan Nur administers Urad Rear Banner. The Chinese name for the town of Bayan Bolag is 巴音宝力格镇. Urad Rear Banner is located 44 km northwest of the city of Bayan Nur. The Mongolian Cyrillic name for Urad Rear Banner is Урадын хойд хошуу."
+            },
+            {
+              "chunk_id": "a721faed-57f6-47e3-932e-115ee766c664",
+              "chunk_title": "Shuangmiao Overview",
+              "chunk_summary": "This chunk contains information about the town of Shuangmiao, including its administrative status, geographical location in Inner Mongolia, and its internal village divisions.",
+              "context_title": "Shuangmiao, Inner Mongolia",
+              "page_content": "Hanggin Rear Banner is in southwestern Inner Mongolia, China. Shuangmiao is located about 26 km southwest of the banner seat of Hanggin Rear Banner. Shuangmiao is under the administration of Hanggin Rear Banner. Shuangmiao has 14 villages under its administration. Shuangmiao is located about 44 km north-northwest of downtown Bayannur. Shuangmiao is a town."
+            },
+            {
+              "chunk_id": "af64d507-a2ca-4d23-b226-7c6e00b48113",
+              "chunk_title": "Inner Mongolia Regions",
+              "chunk_summary": "This chunk contains information about the historical names, current administrative identities, and notable natives of specific regions in Inner Mongolia.",
+              "context_title": "Altanochir (1882–1949)",
+              "page_content": "Right-Wing Rear Banner, Ordos is today administered as Hanggin Banner, Ordos City. Altanochir was a native of Right-Wing Rear Banner, Ordos. Yeke-juu League is today known as Ordos City."
+            },
+            {
+              "chunk_id": "0b4e3d14-7d24-4f99-b3f4-da0e86efb469",
+              "chunk_title": "Administrative Centers",
+              "chunk_summary": "This chunk contains information about the administrative centers of various regions.",
+              "context_title": "Hanggin Rear Banner",
+              "page_content": "The administrative center of Hanggin Rear Banner is Shanba."
+            },
+            {
+              "chunk_id": "47938214-08b0-454d-a569-e3f97236afaf",
+              "chunk_title": "Place Names & Scripts",
+              "chunk_summary": "This chunk contains information about the various Mongolian script representations, transliterations, and Chinese names of specific places.",
+              "context_title": "Hanggin Rear Banner",
+              "page_content": "Hanggin Rear Banner is known in Mongolian as Қанин Қоыиту қосиу. Hanggin Rear Banner is known in Mongolian as Qaŋɣin Qoyitu qosiɣu. Hanggin Rear Banner is known in Mongolian as ᠬᠠᠩᠭᠢᠨ ᠬᠣᠶᠢᠲᠤ ᠬᠣᠰᠢᠭᠤ. Shanba is also known as 陕坝镇."
+            },
+            {
+              "chunk_id": "812e86fc-559a-462d-879d-6b1e68e4a3df",
+              "chunk_title": "Chahar Right Rear Banner Overview",
+              "chunk_summary": "This chunk contains information about the administrative status, geographical location, bordering regions, and key settlements of Chahar Right Rear Banner in Inner Mongolia, China.",
+              "context_title": "Chahar Right Rear Banner",
+              "page_content": "Chahar Right Rear Banner borders Xinghe County to the southeast. Chahar Right Rear Banner borders Chahar Right Rear Banner to the west. Chahar Right Rear Banner borders Zhuozi County to the southwest. Ulaan Chab City lies to the south of Chahar Right Rear Banner along the G55 Erenhot–Guangzhou Expressway. Chahar Right Rear Banner borders Shangdu County to the northeast. Chahar Right Rear Banner is a banner of Inner Mongolia, People's Republic of China. The most important settlement in Chahar Right Rear Banner is Baiyinchagan. Chahar Right Rear Banner is under the administration of Ulaan Chab City. Chahar Right Rear Banner borders Chahar Right Front Banner to the south. Chahar Right Rear Banner borders Xilin Gol to the north. Chahar Right Rear Banner borders Siziwang Banner to the northwest."
+            },
+            {
+              "chunk_id": "15d76511-de0e-4fb3-9e5b-8671108502ed",
+              "chunk_title": "Horqin Left Rear Banner Overview",
+              "chunk_summary": "This chunk contains information about the geographical location, administrative status, bordering regions, and local names of Horqin Left Rear Banner in Inner Mongolia, China.",
+              "context_title": "Horqin Left Rear Banner",
+              "page_content": "Tongliao City is 75 km to the north of Horqin Left Rear Banner. The Mongolian name 'Qorčin Jegün Ɣarun Qoyitu qosiɣu' means 'Northern banner of the Khorchin east wing'. Horqin Left Rear Banner borders Liaoning province to the south. Horqin Left Rear Banner is under the administration of Tongliao City. Horqin Left Rear Banner is a banner of southeastern Inner Mongolia, People's Republic of China. The Mongolian name for Horqin Left Rear Banner is 'Qorčin Jegün Ɣarun Qoyitu qosiɣu'. The original Mongolian name for Horqin Left Rear Banner was 'Büve vang qosigu'."
+            },
+            {
+              "chunk_id": "59a441d0-9648-423d-a541-c96585e78c1c",
+              "chunk_title": "Population Sizes",
+              "chunk_summary": "This chunk contains information about the population size of specific cities or regions.",
+              "context_title": "Hunchun",
+              "page_content": "Hunchun has over 250,000 inhabitants."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which has the larger population, Shanghai or Hanggin Rear Banner?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which has the larger population, Shanghai or Hanggin Rear Banner?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，比较上海和杭锦后旗的人口规模。子节点 N1_1 和 N1_2 均已 SOLVED + healthy，推理链完整，可直接聚合得出答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 提供上海人口 >2400 万（2014年），N1_2 提供杭锦后旗人口 30 万（2004年）。两个子节点答案量级差异巨大（约 80 倍），推理链完整，比较结论明确：上海人口远大于杭锦后旗。",
+          "critic_normative_advice": "推理链完整，子节点证据充分，建议 INHERIT 保留当前结构。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the population of Shanghai?",
+          "answer": "more than 24 million (as of 2014)",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the population of Shanghai?",
+          "planner_rationale": "Q 是比较型问题，需获取上海人口数据作为比较的一方。该节点已 SOLVED + healthy，证据直接具体（>24 million, 2014），无需调整",
+          "solver_judgment": "question 要求获取上海的人口数量。search_query 直接搜索了 'What is the population of Shanghai?'。chunks 返回了多个关于上海的信息，其中 chunk 8920d3a9-5387-48de-a8e6-045c37a78530 明确记载 'Shanghai had a population of more than 24 million as of 2014'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Shanghai），直接且具体地陈述了答案。支撑 chunk 8920d3a9 全文为 'Shanghai had a population of more than 24 million as of 2014'，与声称答案 'more than 24 million (as of 2014)' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "证据充分，单来源但直接具体，建议 INHERIT。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "8920d3a9-5387-48de-a8e6-045c37a78530"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "8920d3a9-5387-48de-a8e6-045c37a78530",
+              "chunk_title": "City Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and global ranking of major cities, specifically focusing on Shanghai.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is the most populous city proper in the world as of 2014. Shanghai had a population of more than 24 million as of 2014."
+            },
+            {
+              "chunk_id": "9a2581c8-ec7a-473e-98d2-1cace05c8916",
+              "chunk_title": "Administrative Divisions",
+              "chunk_summary": "This chunk contains information about the administrative divisions and direct-controlled municipalities of China.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is one of the four direct-controlled municipalities of China."
+            },
+            {
+              "chunk_id": "9d955eb5-b635-4a3b-83c4-94a891bf50e2",
+              "chunk_title": "Demographics",
+              "chunk_summary": "This chunk contains demographic information about the population of Xingcheng.",
+              "context_title": "Xingcheng",
+              "page_content": "Xingcheng has a population of approximately 140,000 urban inhabitants."
+            },
+            {
+              "chunk_id": "5c49e665-0611-4b9d-838d-512645a3a8b6",
+              "chunk_title": "Global Financial Centers",
+              "chunk_summary": "This chunk contains information about global financial centers and their characteristics.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is a global financial centre."
+            },
+            {
+              "chunk_id": "7bd27917-c7c5-4a1b-892b-791e8a6918c3",
+              "chunk_title": "Population Size",
+              "chunk_summary": "This chunk contains information about the population size of a country.",
+              "context_title": "Seoul",
+              "page_content": "The country's population is 51.44 million people."
+            },
+            {
+              "chunk_id": "073be3e6-7fc5-41f2-b675-07e6c0cf0f8d",
+              "chunk_title": "Shanghai's Geography",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of Shanghai.",
+              "context_title": "Shanghai",
+              "page_content": "The municipality of Shanghai is bounded to the east by the East China Sea. Shanghai sits in the middle portion of the East China coast. Shanghai is located in the Yangtze River Delta. Shanghai sits on the south edge of the estuary of the Yangtze. The municipality of Shanghai borders the province of Zhejiang to the north, south and west. The municipality of Shanghai borders the province of Jiangsu to the north, south and west."
+            },
+            {
+              "chunk_id": "cf501afb-1a95-4e32-86aa-494eca476c8f",
+              "chunk_title": "Transport Hubs",
+              "chunk_summary": "This chunk contains information about cities that serve as transport hubs, including details about their ports and logistics infrastructure.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is a transport hub. Shanghai has the world's busiest container port."
+            },
+            {
+              "chunk_id": "995ecbba-6392-4265-a658-e59476f14121",
+              "chunk_title": "Unrecognized Ethnic Groups",
+              "chunk_summary": "This chunk contains information about the status, terminology, population size, relative ranking, and linguistic characteristics of unrecognized ethnic groups within the People's Republic of China.",
+              "context_title": "Unrecognized ethnic groups in China",
+              "page_content": "Several ethnic groups of the People's Republic of China are not officially recognized. Some scholars have estimated that there are over 200 distinct ethnic groups that inhabit China. The unrecognized ethnic groups of the People's Republic of China are called \"未识别民族\" (wèi shíbié mínzú). There are small distinct ethnic groups in China that have been classified as part of larger ethnic groups that are officially recognized. The Limgao (Ong-Be) people do not speak a Chinese language. If considered as a single group, the unrecognized ethnic groups of the People's Republic of China would constitute the twentieth most populous ethnic group of China. The unrecognized ethnic groups of the People's Republic of China number more than 730,000 people."
+            },
+            {
+              "chunk_id": "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+              "chunk_title": "Seoul & Capital Area",
+              "chunk_summary": "This chunk contains information about Seoul's status as a major metropolis, its global ranking, and the demographics and composition of the broader Seoul Capital Area.",
+              "context_title": "Seoul",
+              "page_content": "The Seoul Capital Area has 678,102 international residents. The Seoul Capital Area includes the surrounding Gyeonggi province. Seoul forms the heart of the Seoul Capital Area. The Seoul Capital Area houses about half of the country's population. Seoul is the world's 16th largest city. The Seoul Capital Area includes the surrounding Incheon metropolis. Seoul is the largest metropolis of the Republic of Korea."
+            },
+            {
+              "chunk_id": "41fe2a06-aa4b-4280-8173-0f948b618d06",
+              "chunk_title": "Venue Capacity",
+              "chunk_summary": "This chunk contains information about the capacity of venues or locations.",
+              "context_title": "Docks (nightclub)",
+              "page_content": "Docks has a capacity between 1,250 and 1,500 people."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the population of Hanggin Rear Banner?",
+          "answer": "300,000 (in 2004)",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the population of Hanggin Rear Banner?",
+          "planner_rationale": "Q 是比较型问题，需获取杭锦后旗人口数据作为比较的另一方。该节点已 SOLVED + healthy，证据直接具体（300,000, 2004），无需调整",
+          "solver_judgment": "question 要求获取 Hanggin Rear Banner 的人口数量。search_query 直接搜索了该问题。chunks 返回了多个关于不同 Banner 的信息，其中 chunk bdfbd478-c186-4052-ab05-7ba0a9246a97 明确记载 'Hanggin Rear Banner had 300,000 inhabitants in 2004'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Hanggin Rear Banner），直接且具体地陈述了答案。支撑 chunk bdfbd478 全文为 'Hanggin Rear Banner had 300,000 inhabitants in 2004'，与声称答案 '300,000 (in 2004)' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "证据充分，单来源但直接具体，建议 INHERIT。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "bdfbd478-c186-4052-ab05-7ba0a9246a97"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "bdfbd478-c186-4052-ab05-7ba0a9246a97",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific regions at given times.",
+              "context_title": "Hanggin Rear Banner",
+              "page_content": "Hanggin Rear Banner had 300,000 inhabitants in 2004."
+            },
+            {
+              "chunk_id": "7474c196-5b63-4421-a5fa-036a35d54e9f",
+              "chunk_title": "Geographical Regions",
+              "chunk_summary": "This chunk contains information about the geographical area of specific regions.",
+              "context_title": "Hanggin Rear Banner",
+              "page_content": "Hanggin Rear Banner has an area of 1,767 km²."
+            },
+            {
+              "chunk_id": "b852dd56-4a71-4644-b77b-1d435fc0f72a",
+              "chunk_title": "Urad Rear Banner Details",
+              "chunk_summary": "This chunk contains information about specific administrative banners in the Inner Mongolia Autonomous Region of China, including their alternative names, native script designations, geographical locations, administrative relationships, area, and population statistics.",
+              "context_title": "Urad Rear Banner",
+              "page_content": "The seat of Urad Rear Banner is located in the town of Bayan Bolag. Urad Rear Banner has a total area of 24,925 km². Urad Rear Banner is located in the west of the Inner Mongolia Autonomous Region. Urad Rear Banner is also known as Urad Houqi. The Mongolian name for Urad Rear Banner is ᠤᠷᠠᠳ ᠤᠨ ᠬᠣᠶᠢᠲᠤ ᠬᠣᠰᠢᠭᠤ (Urad-un Qoyitu Qosiɣu). Urad Rear Banner is a banner of the Inner Mongolia Autonomous Region, People's Republic of China. Urad Rear Banner had a population of 60,000 in 2004. The city of Bayan Nur administers Urad Rear Banner. The Chinese name for the town of Bayan Bolag is 巴音宝力格镇. Urad Rear Banner is located 44 km northwest of the city of Bayan Nur. The Mongolian Cyrillic name for Urad Rear Banner is Урадын хойд хошуу."
+            },
+            {
+              "chunk_id": "a721faed-57f6-47e3-932e-115ee766c664",
+              "chunk_title": "Shuangmiao Overview",
+              "chunk_summary": "This chunk contains information about the town of Shuangmiao, including its administrative status, geographical location in Inner Mongolia, and its internal village divisions.",
+              "context_title": "Shuangmiao, Inner Mongolia",
+              "page_content": "Hanggin Rear Banner is in southwestern Inner Mongolia, China. Shuangmiao is located about 26 km southwest of the banner seat of Hanggin Rear Banner. Shuangmiao is under the administration of Hanggin Rear Banner. Shuangmiao has 14 villages under its administration. Shuangmiao is located about 44 km north-northwest of downtown Bayannur. Shuangmiao is a town."
+            },
+            {
+              "chunk_id": "af64d507-a2ca-4d23-b226-7c6e00b48113",
+              "chunk_title": "Inner Mongolia Regions",
+              "chunk_summary": "This chunk contains information about the historical names, current administrative identities, and notable natives of specific regions in Inner Mongolia.",
+              "context_title": "Altanochir (1882–1949)",
+              "page_content": "Right-Wing Rear Banner, Ordos is today administered as Hanggin Banner, Ordos City. Altanochir was a native of Right-Wing Rear Banner, Ordos. Yeke-juu League is today known as Ordos City."
+            },
+            {
+              "chunk_id": "0b4e3d14-7d24-4f99-b3f4-da0e86efb469",
+              "chunk_title": "Administrative Centers",
+              "chunk_summary": "This chunk contains information about the administrative centers of various regions.",
+              "context_title": "Hanggin Rear Banner",
+              "page_content": "The administrative center of Hanggin Rear Banner is Shanba."
+            },
+            {
+              "chunk_id": "47938214-08b0-454d-a569-e3f97236afaf",
+              "chunk_title": "Place Names & Scripts",
+              "chunk_summary": "This chunk contains information about the various Mongolian script representations, transliterations, and Chinese names of specific places.",
+              "context_title": "Hanggin Rear Banner",
+              "page_content": "Hanggin Rear Banner is known in Mongolian as Қанин Қоыиту қосиу. Hanggin Rear Banner is known in Mongolian as Qaŋɣin Qoyitu qosiɣu. Hanggin Rear Banner is known in Mongolian as ᠬᠠᠩᠭᠢᠨ ᠬᠣᠶᠢᠲᠤ ᠬᠣᠰᠢᠭᠤ. Shanba is also known as 陕坝镇."
+            },
+            {
+              "chunk_id": "812e86fc-559a-462d-879d-6b1e68e4a3df",
+              "chunk_title": "Chahar Right Rear Banner Overview",
+              "chunk_summary": "This chunk contains information about the administrative status, geographical location, bordering regions, and key settlements of Chahar Right Rear Banner in Inner Mongolia, China.",
+              "context_title": "Chahar Right Rear Banner",
+              "page_content": "Chahar Right Rear Banner borders Xinghe County to the southeast. Chahar Right Rear Banner borders Chahar Right Rear Banner to the west. Chahar Right Rear Banner borders Zhuozi County to the southwest. Ulaan Chab City lies to the south of Chahar Right Rear Banner along the G55 Erenhot–Guangzhou Expressway. Chahar Right Rear Banner borders Shangdu County to the northeast. Chahar Right Rear Banner is a banner of Inner Mongolia, People's Republic of China. The most important settlement in Chahar Right Rear Banner is Baiyinchagan. Chahar Right Rear Banner is under the administration of Ulaan Chab City. Chahar Right Rear Banner borders Chahar Right Front Banner to the south. Chahar Right Rear Banner borders Xilin Gol to the north. Chahar Right Rear Banner borders Siziwang Banner to the northwest."
+            },
+            {
+              "chunk_id": "15d76511-de0e-4fb3-9e5b-8671108502ed",
+              "chunk_title": "Horqin Left Rear Banner Overview",
+              "chunk_summary": "This chunk contains information about the geographical location, administrative status, bordering regions, and local names of Horqin Left Rear Banner in Inner Mongolia, China.",
+              "context_title": "Horqin Left Rear Banner",
+              "page_content": "Tongliao City is 75 km to the north of Horqin Left Rear Banner. The Mongolian name 'Qorčin Jegün Ɣarun Qoyitu qosiɣu' means 'Northern banner of the Khorchin east wing'. Horqin Left Rear Banner borders Liaoning province to the south. Horqin Left Rear Banner is under the administration of Tongliao City. Horqin Left Rear Banner is a banner of southeastern Inner Mongolia, People's Republic of China. The Mongolian name for Horqin Left Rear Banner is 'Qorčin Jegün Ɣarun Qoyitu qosiɣu'. The original Mongolian name for Horqin Left Rear Banner was 'Büve vang qosigu'."
+            },
+            {
+              "chunk_id": "59a441d0-9648-423d-a541-c96585e78c1c",
+              "chunk_title": "Population Sizes",
+              "chunk_summary": "This chunk contains information about the population size of specific cities or regions.",
+              "context_title": "Hunchun",
+              "page_content": "Hunchun has over 250,000 inhabitants."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the population of Shanghai?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "8920d3a9-5387-48de-a8e6-045c37a78530",
+        "9a2581c8-ec7a-473e-98d2-1cace05c8916",
+        "9d955eb5-b635-4a3b-83c4-94a891bf50e2",
+        "5c49e665-0611-4b9d-838d-512645a3a8b6",
+        "7bd27917-c7c5-4a1b-892b-791e8a6918c3",
+        "073be3e6-7fc5-41f2-b675-07e6c0cf0f8d",
+        "cf501afb-1a95-4e32-86aa-494eca476c8f",
+        "995ecbba-6392-4265-a658-e59476f14121",
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "41fe2a06-aa4b-4280-8173-0f948b618d06"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What is the population of Hanggin Rear Banner?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "bdfbd478-c186-4052-ab05-7ba0a9246a97",
+        "7474c196-5b63-4421-a5fa-036a35d54e9f",
+        "b852dd56-4a71-4644-b77b-1d435fc0f72a",
+        "a721faed-57f6-47e3-932e-115ee766c664",
+        "af64d507-a2ca-4d23-b226-7c6e00b48113",
+        "0b4e3d14-7d24-4f99-b3f4-da0e86efb469",
+        "47938214-08b0-454d-a569-e3f97236afaf",
+        "812e86fc-559a-462d-879d-6b1e68e4a3df",
+        "15d76511-de0e-4fb3-9e5b-8671108502ed",
+        "59a441d0-9648-423d-a541-c96585e78c1c"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the population of Shanghai?（理由：Q 是比较型问题，需先获取上海的人口数据），F2: What is the population of Hanggin Rear Banner?（理由：Q 是比较型问题，需先获取杭锦后旗的人口数据）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系——两者都可直接搜索，求解后比较即可回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是典型的比较型问题（Which has the larger X, A or B?），分解为两个独立的子事实探针——分别获取 A 和 B 的 X 值。两个子节点均为根节点的 decomposition 边，无 dependency 边（两者互不依赖）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义完整——N0 分解为 N1_1 和 N1_2，两条路径均为 decomposition 边，子节点答案（上海 >2400 万 vs 杭锦后旗 30 万）量级差异巨大，比较结论明确；③全部节点 healthy（N1_1 和 N1_2 均为单来源但直接具体，N0 推理链完整）；④首轮无拓扑变化。置信评估：推理链完整，所有节点证据充分，可生成最终"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the population of Shanghai?（理由：Q 是比较型问题，需先获取上海的人口数据作为比较的一方），F2: What is the population of Hanggin Rear Banner?（理由：Q 是比较型问题，需先获取杭锦后旗的人口数据作为比较的另一方）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系——两者都可直接搜索，求解后比较即可回答 Q。当前两个子节点均已 SOLVED + healthy，推理链完整，可直接聚合得出比较结论。",
+      "hypothesis_delta": "全部 INHERIT，无结构调整。原因：上一轮假设（F1=上海人口、F2=杭锦后旗人口，均为 Q 的 decomposition）被完全验证——N1_1 和 N1_2 均 SOLVED + healthy，Critic 确认证据充分、推理链完整。Critic 明确建议\"当前结构已足够，无需调整\"。上海人口 >2400 万（2014年）vs 杭锦后旗人口 30 万（2004年），量级差异约 80 倍，比较结论明确。本轮保持结构不变，等待系统聚合子节点答案完成 Q 的求解。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为 decomposition 分解，子节点问题独立可搜索，答案聚合后可直接比较得出上海人口远大于杭锦后旗的结论；条件③全部节点（N0、N1_1、N1_2）均为 healthy；条件④本轮拓扑与上一轮一致，连续两轮无变化。推理链完整，所有节点证据充分，可终止探索并生成最终答案。"
+      }
+    }
+  ]
+}

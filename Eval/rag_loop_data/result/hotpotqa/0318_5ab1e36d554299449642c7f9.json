@@ -1,0 +1,670 @@
+{
+  "question_index": 318,
+  "question_id": "5ab1e36d554299449642c7f9",
+  "question": "Are Northwestern University and Middlebury College both private schools?",
+  "answer": "yes",
+  "prediction": "yes",
+  "error": null,
+  "latency_ms": 183457.2823999988,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T14:40:41.256699+00:00",
+  "chunks": [
+    {
+      "chunk_id": "3bdaeaae-6384-49aa-8248-704cf76a1ff9",
+      "chunk_title": "Northwestern University Profile",
+      "chunk_summary": "This chunk contains information about the classification, nature, and global locations of Northwestern University.",
+      "context_title": "Northwestern University",
+      "page_content": "Northwestern University (NU) has academic programs and facilities in Washington, D.C. Northwestern University (NU) has other campuses located in Chicago. Northwestern University (NU) has other campuses located in Doha, Qatar. Northwestern University (NU) has academic programs and facilities in San Francisco, California. Northwestern University (NU) is based in Evanston, Illinois. Northwestern University (NU) is a private research university."
+    },
+    {
+      "chunk_id": "b4fe97d1-7400-4da2-b319-f982499c346f",
+      "chunk_title": "University Classification",
+      "chunk_summary": "This chunk contains information about the classification and type of educational institutions, specifically focusing on Azusa Pacific University.",
+      "context_title": "Azusa Pacific University",
+      "page_content": "Azusa Pacific University is an evangelical Christian university. Azusa Pacific University is a private university."
+    },
+    {
+      "chunk_id": "19d725d5-6834-4cd0-be0b-7c133d6a62f4",
+      "chunk_title": "Medical School Attributes",
+      "chunk_summary": "This chunk contains information about the institutional type, classification, and affiliation of specific medical schools.",
+      "context_title": "Saint Louis University School of Medicine",
+      "page_content": "Saint Louis University School of Medicine (SLUSOM) is a private medical school. Saint Louis University School of Medicine (SLUSOM) is an American medical school. Saint Louis University School of Medicine (SLUSOM) is within Saint Louis University."
+    },
+    {
+      "chunk_id": "fa59fbf9-feaf-4781-b370-a59247244110",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+      "context_title": "Middlebury College",
+      "page_content": "Middlebury College is a private liberal arts college."
+    },
+    {
+      "chunk_id": "4543f22e-7070-4c70-8298-a2f958a210be",
+      "chunk_title": "Public Research Institutions",
+      "chunk_summary": "This chunk contains information about public research institutions, specifically detailing their organizational status and affiliations.",
+      "context_title": "Russian School of Private Law",
+      "page_content": "The Research Centre of Private Law under the President of Russian Federation is a public research institution."
+    },
+    {
+      "chunk_id": "8fac635a-a4e7-4139-b6e7-8b4047da1941",
+      "chunk_title": "University Accreditation & Status",
+      "chunk_summary": "This chunk contains information about the accreditation status, official recognition, and institutional type of City University.",
+      "context_title": "City University, Malaysia",
+      "page_content": "City University is an accredited private university. City University is one of the gazetted Malaysian universities. The programs of City University are accredited by the Malaysian Qualifications Agency. City University is officially recognized by the Ministry of Education of the People's Republic of China."
+    },
+    {
+      "chunk_id": "ad87316e-8ffe-4ce5-8542-79768ada4fe0",
+      "chunk_title": "Duke University Overview",
+      "chunk_summary": "This chunk contains information about the classification, location, and founding history of Duke University.",
+      "context_title": "Duke University",
+      "page_content": "Duke University was founded by Methodists and Quakers. The institution changed its name to honor Washington Duke at the time James Buchanan Duke established The Duke Endowment. Duke University is located in Durham, North Carolina. Duke University was founded in the present-day town of Trinity. Duke University was founded in 1838. The school moved to Durham in 1892. Duke University is a private research university. James Buchanan Duke established The Duke Endowment in 1924."
+    },
+    {
+      "chunk_id": "7b48f426-abc5-482d-8300-1746cdaf6989",
+      "chunk_title": "Cardinal Gibbons School Profile",
+      "chunk_summary": "This chunk contains information about the characteristics, history, and enrollment demographics of The Cardinal Gibbons School, a former private Roman Catholic institution for boys serving grades 6–12.",
+      "context_title": "Cardinal Gibbons School (Baltimore, Maryland)",
+      "page_content": "The Cardinal Gibbons School served grades 6–12. The Cardinal Gibbons School was a Roman Catholic high school for boys. Some students at Gibbons came from Harford County. Some students at Gibbons came from Carroll County. Gibbons drew its enrollment from the neighborhoods of southwest Baltimore City. Gibbons drew its enrollment from the counties surrounding the Baltimore metropolitan area. The Cardinal Gibbons School was a private institution. The Cardinal Gibbons School was a Roman Catholic middle school for boys. Some students at Gibbons came from Frederick County."
+    },
+    {
+      "chunk_id": "afb8b05e-a029-4f88-8be8-24fcde90c6cb",
+      "chunk_title": "Saint Louis University Overview",
+      "chunk_summary": "This chunk contains information about the characteristics, classification, locations, founding history, athletic programs, and enrollment statistics of Saint Louis University.",
+      "context_title": "Saint Louis University",
+      "page_content": "Saint Louis University is accredited by the North Central Association of Colleges and Secondary Schools. Saint Louis University was founded in 1818. Saint Louis University is one of 28 member institutions of the Association of Jesuit Colleges and Universities. Saint Louis University has 8,687 undergraduate students. The students at Saint Louis University represent all 50 states. Saint Louis University has a campus in St. Louis, Missouri, United States. The Most Reverend Louis Guillaume Valentin Dubourg founded Saint Louis University. The average class size at Saint Louis University is 23.8. Saint Louis University is the second-oldest Jesuit university in the United States. Saint Louis University is the oldest university west of the Mississippi River. SLU's athletic teams are a member of the Atlantic 10 Conference. SLU's athletic teams compete in NCAA's Division I. The student-faculty ratio at Saint Louis University is 12:1. Saint Louis University is a private Roman Catholic four-year research university. Saint Louis University has an enrollment of 13,505 students. Saint Louis University has 4,818 graduate students. The students at Saint Louis University represent more than 70 foreign countries. Saint Louis University has a campus in Madrid, Spain."
+    },
+    {
+      "chunk_id": "7c55eafe-2c3d-447a-8f21-2ddb64bd1ed5",
+      "chunk_title": "University Rankings & Research",
+      "chunk_summary": "This chunk contains information about the global and national rankings of specific universities, particularly focusing on their research status and public standing.",
+      "context_title": "University of California, Berkeley",
+      "page_content": "The University of California, Berkeley is ranked as the top public university in the United States. The University of California, Berkeley is ranked as one of the world's leading research universities."
+    },
+    {
+      "chunk_id": "98a76874-e9e6-428e-bd6b-0161cc26619c",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about the geographical location and historical significance of educational institutions.",
+      "context_title": "Middlebury College",
+      "page_content": "Middlebury College is the first operating college or university in Vermont. Middlebury College is located in Middlebury, Vermont, United States."
+    },
+    {
+      "chunk_id": "5470d21e-c14c-45c8-97bc-10a485215aac",
+      "chunk_title": "Enrollment & Demographics",
+      "chunk_summary": "This chunk contains information about the enrollment statistics and student demographics of Middlebury College.",
+      "context_title": "Middlebury College",
+      "page_content": "The 2,526 undergraduates at Middlebury College are from all 50 states. Middlebury College currently enrolls 2,526 undergraduates. The 2,526 undergraduates at Middlebury College are from 74 countries."
+    },
+    {
+      "chunk_id": "fe8393ed-fc60-49f9-831b-a9c536963d93",
+      "chunk_title": "Middlebury Institutions & History",
+      "chunk_summary": "This chunk contains information about significant institutions and historical milestones at Middlebury College, including the Bread Loaf School of English, the Language Schools, and the admission of women.",
+      "context_title": "Paul Dwight Moody",
+      "page_content": "Women were first accepted at Middlebury College in 1883. The Middlebury College Language Schools saw growth in reputation during Paul Dwight Moody's tenure as president of Middlebury College. The Middlebury College Language Schools saw growth in quality during Paul Dwight Moody's tenure as president of Middlebury College. A semi-integrated system prevailed at Middlebury College regarding gender from 1883 until Paul Dwight Moody's presidency. The Bread Loaf School of English saw growth in quality during Paul Dwight Moody's tenure as president of Middlebury College. The Middlebury College Language Schools are one of Middlebury College's most important institutions. The Bread Loaf School of English saw growth in reputation during Paul Dwight Moody's tenure as president of Middlebury College. The Bread Loaf School of English is one of Middlebury College's most important institutions."
+    },
+    {
+      "chunk_id": "59ecad49-24e4-4860-b583-62af2a21fabc",
+      "chunk_title": "Religious Education Founding",
+      "chunk_summary": "This chunk contains information about the founding of educational institutions by religious groups.",
+      "context_title": "Middlebury College",
+      "page_content": "Congregationalists founded Middlebury College."
+    },
+    {
+      "chunk_id": "8ddfeb93-5f40-435e-a9a2-db697c3f8bb4",
+      "chunk_title": "Middlebury Schools Abroad",
+      "chunk_summary": "This chunk contains information about the Middlebury C.V. Starr Schools Abroad, including their operational affiliation with Middlebury College, global presence, historical origins, funding sources, and overseas academic programs for both undergraduates and graduate students; add any new details regarding their locations, partnerships, specific program offerings, history, or endowment here.",
+      "context_title": "C.V. Starr-Middlebury Schools Abroad",
+      "page_content": "The School in Paris opened in 1949. The Middlebury C.V. Starr Schools have been endowed by the C.V. Starr Foundation. The Middlebury C.V. Starr Schools Abroad operate in 17 countries across 5 continents. The first School of the Middlebury C.V. Starr Schools Abroad was the School in Paris. The Middlebury C.V. Starr Schools Abroad offer graduate-level programs for students from the Middlebury Institute of International Studies at Monterey. The Middlebury C.V. Starr Schools Abroad offer graduate-level programs for students from the Middlebury Language Schools. The Middlebury C.V. Starr Schools Abroad are operated by Middlebury College. The Middlebury C.V. Starr Schools Abroad offer overseas academic programs for undergraduates from various U.S. institutions."
+    },
+    {
+      "chunk_id": "4fa9afc4-7774-43fe-941e-c952b95a12a8",
+      "chunk_title": "Moody Family Leadership",
+      "chunk_summary": "This chunk contains biographical information about evangelical minister Dwight L. Moody and his relative Paul Dwight Moody, focusing on their respective careers in religious leadership and higher education administration; please add further details regarding their lives, achievements, or historical impact.",
+      "context_title": "Paul Dwight Moody",
+      "page_content": "One of Paul Dwight Moody's chief goals was the creation of a wholly separate women's college at Middlebury College. Paul Dwight Moody served as pastor at South Congregational Church from 1912 to 1917. Paul Dwight Moody served as the 10th president of Middlebury College from 1921 until 1943. World War II stymied Paul Dwight Moody's efforts at segregation by gender at Middlebury College. Dwight L. Moody was a famed evangelical minister. Paul Dwight Moody served as pastor at South Congregational Church in St. Johnsbury, VT. Paul Dwight Moody served as the 10th president of Middlebury College. The Great Depression stymied Paul Dwight Moody's efforts at segregation by gender at Middlebury College."
+    },
+    {
+      "chunk_id": "7972b250-2a08-4ab8-9576-daac23e2f556",
+      "chunk_title": "Jeremiah Atwater Namesakes",
+      "chunk_summary": "This chunk contains information about entities named after Jeremiah Atwater, including residential commons and halls at various colleges.",
+      "context_title": "Jeremiah Atwater",
+      "page_content": "Atwater Commons is one of five residential commons at Middlebury College. Atwater Commons is named for Jeremiah Atwater. Atwater Hall at Dickinson College is named for Jeremiah Atwater."
+    },
+    {
+      "chunk_id": "5d83791e-3120-4cea-8d11-b3e2efe49992",
+      "chunk_title": "Academic Programs",
+      "chunk_summary": "This chunk contains information about the academic programs and majors offered by educational institutions, specifically detailing the number and fields of study at Middlebury College.",
+      "context_title": "Middlebury College",
+      "page_content": "The 44 majors at Middlebury College are in the arts, humanities, literature, foreign languages, social sciences, and natural sciences. Middlebury College offers 44 majors."
+    },
+    {
+      "chunk_id": "469c66c2-e176-4837-81f3-65e12382e603",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the founding dates of educational institutions.",
+      "context_title": "Middlebury College",
+      "page_content": "Middlebury College was founded in 1800."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3684210526315789,
+  "retrieval_count": 2,
+  "total_chunks": 19,
+  "total_distinct_titles": 13,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are Northwestern University and Middlebury College both private schools?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are Northwestern University and Middlebury College both private schools?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Northwestern University 和 Middlebury College 是否均为私立学校",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 和 N1_2 均 healthy，答案分别为 'Yes, it is a private research university' 和 'Yes'，两者一致确认两所学校均为私立。推理链完整：N1_1 确认 Northwestern 为私立 + N1_2 确认 Middlebury 为私立 → 聚合得出 '两所学校均为私立'。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，证据充分，可直接用于最终答案生成。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Is Northwestern University a private school?",
+          "answer": "Yes, it is a private research university.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is Northwestern University a private school?",
+          "planner_rationale": "Q 询问两所学校是否均为私立，需先确立 Northwestern University 的学校性质（公立/私立）",
+          "solver_judgment": "question 要求确认 Northwestern University 是否为私立学校。search_query 直接搜索了该问题。chunks 返回了关于 Northwestern University 的简介，其中 chunk 3bdaeaae-6384-49aa-8248-704cf76a1ff9 明确记载 'Northwestern University (NU) is a private research university.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Northwestern University），单来源但直接、具体地陈述了答案。支撑 chunk [3bdaeaae-6384-49aa-8248-704cf76a1ff9] 全文逐字记载 'Northwestern University (NU) is a private research university.'，与声称答案 'Yes, it is a private research university.' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但证据直接、具体，答案与 chunk 内容完全匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "3bdaeaae-6384-49aa-8248-704cf76a1ff9"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "3bdaeaae-6384-49aa-8248-704cf76a1ff9",
+              "chunk_title": "Northwestern University Profile",
+              "chunk_summary": "This chunk contains information about the classification, nature, and global locations of Northwestern University.",
+              "context_title": "Northwestern University",
+              "page_content": "Northwestern University (NU) has academic programs and facilities in Washington, D.C. Northwestern University (NU) has other campuses located in Chicago. Northwestern University (NU) has other campuses located in Doha, Qatar. Northwestern University (NU) has academic programs and facilities in San Francisco, California. Northwestern University (NU) is based in Evanston, Illinois. Northwestern University (NU) is a private research university."
+            },
+            {
+              "chunk_id": "b4fe97d1-7400-4da2-b319-f982499c346f",
+              "chunk_title": "University Classification",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions, specifically focusing on Azusa Pacific University.",
+              "context_title": "Azusa Pacific University",
+              "page_content": "Azusa Pacific University is an evangelical Christian university. Azusa Pacific University is a private university."
+            },
+            {
+              "chunk_id": "19d725d5-6834-4cd0-be0b-7c133d6a62f4",
+              "chunk_title": "Medical School Attributes",
+              "chunk_summary": "This chunk contains information about the institutional type, classification, and affiliation of specific medical schools.",
+              "context_title": "Saint Louis University School of Medicine",
+              "page_content": "Saint Louis University School of Medicine (SLUSOM) is a private medical school. Saint Louis University School of Medicine (SLUSOM) is an American medical school. Saint Louis University School of Medicine (SLUSOM) is within Saint Louis University."
+            },
+            {
+              "chunk_id": "fa59fbf9-feaf-4781-b370-a59247244110",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Middlebury College",
+              "page_content": "Middlebury College is a private liberal arts college."
+            },
+            {
+              "chunk_id": "4543f22e-7070-4c70-8298-a2f958a210be",
+              "chunk_title": "Public Research Institutions",
+              "chunk_summary": "This chunk contains information about public research institutions, specifically detailing their organizational status and affiliations.",
+              "context_title": "Russian School of Private Law",
+              "page_content": "The Research Centre of Private Law under the President of Russian Federation is a public research institution."
+            },
+            {
+              "chunk_id": "8fac635a-a4e7-4139-b6e7-8b4047da1941",
+              "chunk_title": "University Accreditation & Status",
+              "chunk_summary": "This chunk contains information about the accreditation status, official recognition, and institutional type of City University.",
+              "context_title": "City University, Malaysia",
+              "page_content": "City University is an accredited private university. City University is one of the gazetted Malaysian universities. The programs of City University are accredited by the Malaysian Qualifications Agency. City University is officially recognized by the Ministry of Education of the People's Republic of China."
+            },
+            {
+              "chunk_id": "ad87316e-8ffe-4ce5-8542-79768ada4fe0",
+              "chunk_title": "Duke University Overview",
+              "chunk_summary": "This chunk contains information about the classification, location, and founding history of Duke University.",
+              "context_title": "Duke University",
+              "page_content": "Duke University was founded by Methodists and Quakers. The institution changed its name to honor Washington Duke at the time James Buchanan Duke established The Duke Endowment. Duke University is located in Durham, North Carolina. Duke University was founded in the present-day town of Trinity. Duke University was founded in 1838. The school moved to Durham in 1892. Duke University is a private research university. James Buchanan Duke established The Duke Endowment in 1924."
+            },
+            {
+              "chunk_id": "7b48f426-abc5-482d-8300-1746cdaf6989",
+              "chunk_title": "Cardinal Gibbons School Profile",
+              "chunk_summary": "This chunk contains information about the characteristics, history, and enrollment demographics of The Cardinal Gibbons School, a former private Roman Catholic institution for boys serving grades 6–12.",
+              "context_title": "Cardinal Gibbons School (Baltimore, Maryland)",
+              "page_content": "The Cardinal Gibbons School served grades 6–12. The Cardinal Gibbons School was a Roman Catholic high school for boys. Some students at Gibbons came from Harford County. Some students at Gibbons came from Carroll County. Gibbons drew its enrollment from the neighborhoods of southwest Baltimore City. Gibbons drew its enrollment from the counties surrounding the Baltimore metropolitan area. The Cardinal Gibbons School was a private institution. The Cardinal Gibbons School was a Roman Catholic middle school for boys. Some students at Gibbons came from Frederick County."
+            },
+            {
+              "chunk_id": "afb8b05e-a029-4f88-8be8-24fcde90c6cb",
+              "chunk_title": "Saint Louis University Overview",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, locations, founding history, athletic programs, and enrollment statistics of Saint Louis University.",
+              "context_title": "Saint Louis University",
+              "page_content": "Saint Louis University is accredited by the North Central Association of Colleges and Secondary Schools. Saint Louis University was founded in 1818. Saint Louis University is one of 28 member institutions of the Association of Jesuit Colleges and Universities. Saint Louis University has 8,687 undergraduate students. The students at Saint Louis University represent all 50 states. Saint Louis University has a campus in St. Louis, Missouri, United States. The Most Reverend Louis Guillaume Valentin Dubourg founded Saint Louis University. The average class size at Saint Louis University is 23.8. Saint Louis University is the second-oldest Jesuit university in the United States. Saint Louis University is the oldest university west of the Mississippi River. SLU's athletic teams are a member of the Atlantic 10 Conference. SLU's athletic teams compete in NCAA's Division I. The student-faculty ratio at Saint Louis University is 12:1. Saint Louis University is a private Roman Catholic four-year research university. Saint Louis University has an enrollment of 13,505 students. Saint Louis University has 4,818 graduate students. The students at Saint Louis University represent more than 70 foreign countries. Saint Louis University has a campus in Madrid, Spain."
+            },
+            {
+              "chunk_id": "7c55eafe-2c3d-447a-8f21-2ddb64bd1ed5",
+              "chunk_title": "University Rankings & Research",
+              "chunk_summary": "This chunk contains information about the global and national rankings of specific universities, particularly focusing on their research status and public standing.",
+              "context_title": "University of California, Berkeley",
+              "page_content": "The University of California, Berkeley is ranked as the top public university in the United States. The University of California, Berkeley is ranked as one of the world's leading research universities."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is Middlebury College a private school?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is Middlebury College a private school?",
+          "planner_rationale": "Q 询问两所学校是否均为私立，需确立 Middlebury College 的学校性质（公立/私立）",
+          "solver_judgment": "question 要求确认 Middlebury College 是否为私立学校。search_query 直接搜索了该问题。chunks 返回了关于 Middlebury College 的多个信息片段，其中 chunk `fa59fbf9-feaf-4781-b370-a59247244110` 明确记载 'Middlebury College is a private liberal arts college'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Middlebury College），单来源但直接、具体地陈述了答案。支撑 chunk [fa59fbf9-feaf-4781-b370-a59247244110] 全文逐字记载 'Middlebury College is a private liberal arts college.'，与声称答案 'Yes' 完全匹配（liberal arts college 属于 private school 范畴）。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但证据直接、具体，答案与 chunk 内容完全匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "fa59fbf9-feaf-4781-b370-a59247244110"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "fa59fbf9-feaf-4781-b370-a59247244110",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Middlebury College",
+              "page_content": "Middlebury College is a private liberal arts college."
+            },
+            {
+              "chunk_id": "98a76874-e9e6-428e-bd6b-0161cc26619c",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the geographical location and historical significance of educational institutions.",
+              "context_title": "Middlebury College",
+              "page_content": "Middlebury College is the first operating college or university in Vermont. Middlebury College is located in Middlebury, Vermont, United States."
+            },
+            {
+              "chunk_id": "5470d21e-c14c-45c8-97bc-10a485215aac",
+              "chunk_title": "Enrollment & Demographics",
+              "chunk_summary": "This chunk contains information about the enrollment statistics and student demographics of Middlebury College.",
+              "context_title": "Middlebury College",
+              "page_content": "The 2,526 undergraduates at Middlebury College are from all 50 states. Middlebury College currently enrolls 2,526 undergraduates. The 2,526 undergraduates at Middlebury College are from 74 countries."
+            },
+            {
+              "chunk_id": "fe8393ed-fc60-49f9-831b-a9c536963d93",
+              "chunk_title": "Middlebury Institutions & History",
+              "chunk_summary": "This chunk contains information about significant institutions and historical milestones at Middlebury College, including the Bread Loaf School of English, the Language Schools, and the admission of women.",
+              "context_title": "Paul Dwight Moody",
+              "page_content": "Women were first accepted at Middlebury College in 1883. The Middlebury College Language Schools saw growth in reputation during Paul Dwight Moody's tenure as president of Middlebury College. The Middlebury College Language Schools saw growth in quality during Paul Dwight Moody's tenure as president of Middlebury College. A semi-integrated system prevailed at Middlebury College regarding gender from 1883 until Paul Dwight Moody's presidency. The Bread Loaf School of English saw growth in quality during Paul Dwight Moody's tenure as president of Middlebury College. The Middlebury College Language Schools are one of Middlebury College's most important institutions. The Bread Loaf School of English saw growth in reputation during Paul Dwight Moody's tenure as president of Middlebury College. The Bread Loaf School of English is one of Middlebury College's most important institutions."
+            },
+            {
+              "chunk_id": "59ecad49-24e4-4860-b583-62af2a21fabc",
+              "chunk_title": "Religious Education Founding",
+              "chunk_summary": "This chunk contains information about the founding of educational institutions by religious groups.",
+              "context_title": "Middlebury College",
+              "page_content": "Congregationalists founded Middlebury College."
+            },
+            {
+              "chunk_id": "8ddfeb93-5f40-435e-a9a2-db697c3f8bb4",
+              "chunk_title": "Middlebury Schools Abroad",
+              "chunk_summary": "This chunk contains information about the Middlebury C.V. Starr Schools Abroad, including their operational affiliation with Middlebury College, global presence, historical origins, funding sources, and overseas academic programs for both undergraduates and graduate students; add any new details regarding their locations, partnerships, specific program offerings, history, or endowment here.",
+              "context_title": "C.V. Starr-Middlebury Schools Abroad",
+              "page_content": "The School in Paris opened in 1949. The Middlebury C.V. Starr Schools have been endowed by the C.V. Starr Foundation. The Middlebury C.V. Starr Schools Abroad operate in 17 countries across 5 continents. The first School of the Middlebury C.V. Starr Schools Abroad was the School in Paris. The Middlebury C.V. Starr Schools Abroad offer graduate-level programs for students from the Middlebury Institute of International Studies at Monterey. The Middlebury C.V. Starr Schools Abroad offer graduate-level programs for students from the Middlebury Language Schools. The Middlebury C.V. Starr Schools Abroad are operated by Middlebury College. The Middlebury C.V. Starr Schools Abroad offer overseas academic programs for undergraduates from various U.S. institutions."
+            },
+            {
+              "chunk_id": "4fa9afc4-7774-43fe-941e-c952b95a12a8",
+              "chunk_title": "Moody Family Leadership",
+              "chunk_summary": "This chunk contains biographical information about evangelical minister Dwight L. Moody and his relative Paul Dwight Moody, focusing on their respective careers in religious leadership and higher education administration; please add further details regarding their lives, achievements, or historical impact.",
+              "context_title": "Paul Dwight Moody",
+              "page_content": "One of Paul Dwight Moody's chief goals was the creation of a wholly separate women's college at Middlebury College. Paul Dwight Moody served as pastor at South Congregational Church from 1912 to 1917. Paul Dwight Moody served as the 10th president of Middlebury College from 1921 until 1943. World War II stymied Paul Dwight Moody's efforts at segregation by gender at Middlebury College. Dwight L. Moody was a famed evangelical minister. Paul Dwight Moody served as pastor at South Congregational Church in St. Johnsbury, VT. Paul Dwight Moody served as the 10th president of Middlebury College. The Great Depression stymied Paul Dwight Moody's efforts at segregation by gender at Middlebury College."
+            },
+            {
+              "chunk_id": "7972b250-2a08-4ab8-9576-daac23e2f556",
+              "chunk_title": "Jeremiah Atwater Namesakes",
+              "chunk_summary": "This chunk contains information about entities named after Jeremiah Atwater, including residential commons and halls at various colleges.",
+              "context_title": "Jeremiah Atwater",
+              "page_content": "Atwater Commons is one of five residential commons at Middlebury College. Atwater Commons is named for Jeremiah Atwater. Atwater Hall at Dickinson College is named for Jeremiah Atwater."
+            },
+            {
+              "chunk_id": "5d83791e-3120-4cea-8d11-b3e2efe49992",
+              "chunk_title": "Academic Programs",
+              "chunk_summary": "This chunk contains information about the academic programs and majors offered by educational institutions, specifically detailing the number and fields of study at Middlebury College.",
+              "context_title": "Middlebury College",
+              "page_content": "The 44 majors at Middlebury College are in the arts, humanities, literature, foreign languages, social sciences, and natural sciences. Middlebury College offers 44 majors."
+            },
+            {
+              "chunk_id": "469c66c2-e176-4837-81f3-65e12382e603",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the founding dates of educational institutions.",
+              "context_title": "Middlebury College",
+              "page_content": "Middlebury College was founded in 1800."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are Northwestern University and Middlebury College both private schools?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are Northwestern University and Middlebury College both private schools?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED + healthy，答案分别为 'Yes, it is a private research university' 和 'Yes'，两者一致确认两所学校均为私立。推理链完整，可直接聚合得出最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 和 N1_2 均 healthy，答案分别为 'Yes, it is a private research university' 和 'Yes'，两者一致确认两所学校均为私立。推理链完整：N1_1 确认 Northwestern 为私立 + N1_2 确认 Middlebury 为私立 → 聚合得出 '两所学校均为私立'。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，证据充分，可直接用于最终答案生成。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Is Northwestern University a private school?",
+          "answer": "Yes, it is a private research university.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is Northwestern University a private school?",
+          "planner_rationale": "Q 询问两所学校是否均为私立，需确立 Northwestern University 的学校性质。该节点已 SOLVED + healthy，支撑 chunk 直接记载 'Northwestern University (NU) is a private research university.'，证据充分。",
+          "solver_judgment": "question 要求确认 Northwestern University 是否为私立学校。search_query 直接搜索了该问题。chunks 返回了关于 Northwestern University 的简介，其中 chunk 3bdaeaae-6384-49aa-8248-704cf76a1ff9 明确记载 'Northwestern University (NU) is a private research university.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Northwestern University），单来源但直接、具体地陈述了答案。支撑 chunk [3bdaeaae-6384-49aa-8248-704cf76a1ff9] 全文逐字记载 'Northwestern University (NU) is a private research university.'，与声称答案 'Yes, it is a private research university.' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但证据直接、具体，答案与 chunk 内容完全匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "3bdaeaae-6384-49aa-8248-704cf76a1ff9"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "3bdaeaae-6384-49aa-8248-704cf76a1ff9",
+              "chunk_title": "Northwestern University Profile",
+              "chunk_summary": "This chunk contains information about the classification, nature, and global locations of Northwestern University.",
+              "context_title": "Northwestern University",
+              "page_content": "Northwestern University (NU) has academic programs and facilities in Washington, D.C. Northwestern University (NU) has other campuses located in Chicago. Northwestern University (NU) has other campuses located in Doha, Qatar. Northwestern University (NU) has academic programs and facilities in San Francisco, California. Northwestern University (NU) is based in Evanston, Illinois. Northwestern University (NU) is a private research university."
+            },
+            {
+              "chunk_id": "b4fe97d1-7400-4da2-b319-f982499c346f",
+              "chunk_title": "University Classification",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions, specifically focusing on Azusa Pacific University.",
+              "context_title": "Azusa Pacific University",
+              "page_content": "Azusa Pacific University is an evangelical Christian university. Azusa Pacific University is a private university."
+            },
+            {
+              "chunk_id": "19d725d5-6834-4cd0-be0b-7c133d6a62f4",
+              "chunk_title": "Medical School Attributes",
+              "chunk_summary": "This chunk contains information about the institutional type, classification, and affiliation of specific medical schools.",
+              "context_title": "Saint Louis University School of Medicine",
+              "page_content": "Saint Louis University School of Medicine (SLUSOM) is a private medical school. Saint Louis University School of Medicine (SLUSOM) is an American medical school. Saint Louis University School of Medicine (SLUSOM) is within Saint Louis University."
+            },
+            {
+              "chunk_id": "fa59fbf9-feaf-4781-b370-a59247244110",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Middlebury College",
+              "page_content": "Middlebury College is a private liberal arts college."
+            },
+            {
+              "chunk_id": "4543f22e-7070-4c70-8298-a2f958a210be",
+              "chunk_title": "Public Research Institutions",
+              "chunk_summary": "This chunk contains information about public research institutions, specifically detailing their organizational status and affiliations.",
+              "context_title": "Russian School of Private Law",
+              "page_content": "The Research Centre of Private Law under the President of Russian Federation is a public research institution."
+            },
+            {
+              "chunk_id": "8fac635a-a4e7-4139-b6e7-8b4047da1941",
+              "chunk_title": "University Accreditation & Status",
+              "chunk_summary": "This chunk contains information about the accreditation status, official recognition, and institutional type of City University.",
+              "context_title": "City University, Malaysia",
+              "page_content": "City University is an accredited private university. City University is one of the gazetted Malaysian universities. The programs of City University are accredited by the Malaysian Qualifications Agency. City University is officially recognized by the Ministry of Education of the People's Republic of China."
+            },
+            {
+              "chunk_id": "ad87316e-8ffe-4ce5-8542-79768ada4fe0",
+              "chunk_title": "Duke University Overview",
+              "chunk_summary": "This chunk contains information about the classification, location, and founding history of Duke University.",
+              "context_title": "Duke University",
+              "page_content": "Duke University was founded by Methodists and Quakers. The institution changed its name to honor Washington Duke at the time James Buchanan Duke established The Duke Endowment. Duke University is located in Durham, North Carolina. Duke University was founded in the present-day town of Trinity. Duke University was founded in 1838. The school moved to Durham in 1892. Duke University is a private research university. James Buchanan Duke established The Duke Endowment in 1924."
+            },
+            {
+              "chunk_id": "7b48f426-abc5-482d-8300-1746cdaf6989",
+              "chunk_title": "Cardinal Gibbons School Profile",
+              "chunk_summary": "This chunk contains information about the characteristics, history, and enrollment demographics of The Cardinal Gibbons School, a former private Roman Catholic institution for boys serving grades 6–12.",
+              "context_title": "Cardinal Gibbons School (Baltimore, Maryland)",
+              "page_content": "The Cardinal Gibbons School served grades 6–12. The Cardinal Gibbons School was a Roman Catholic high school for boys. Some students at Gibbons came from Harford County. Some students at Gibbons came from Carroll County. Gibbons drew its enrollment from the neighborhoods of southwest Baltimore City. Gibbons drew its enrollment from the counties surrounding the Baltimore metropolitan area. The Cardinal Gibbons School was a private institution. The Cardinal Gibbons School was a Roman Catholic middle school for boys. Some students at Gibbons came from Frederick County."
+            },
+            {
+              "chunk_id": "afb8b05e-a029-4f88-8be8-24fcde90c6cb",
+              "chunk_title": "Saint Louis University Overview",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, locations, founding history, athletic programs, and enrollment statistics of Saint Louis University.",
+              "context_title": "Saint Louis University",
+              "page_content": "Saint Louis University is accredited by the North Central Association of Colleges and Secondary Schools. Saint Louis University was founded in 1818. Saint Louis University is one of 28 member institutions of the Association of Jesuit Colleges and Universities. Saint Louis University has 8,687 undergraduate students. The students at Saint Louis University represent all 50 states. Saint Louis University has a campus in St. Louis, Missouri, United States. The Most Reverend Louis Guillaume Valentin Dubourg founded Saint Louis University. The average class size at Saint Louis University is 23.8. Saint Louis University is the second-oldest Jesuit university in the United States. Saint Louis University is the oldest university west of the Mississippi River. SLU's athletic teams are a member of the Atlantic 10 Conference. SLU's athletic teams compete in NCAA's Division I. The student-faculty ratio at Saint Louis University is 12:1. Saint Louis University is a private Roman Catholic four-year research university. Saint Louis University has an enrollment of 13,505 students. Saint Louis University has 4,818 graduate students. The students at Saint Louis University represent more than 70 foreign countries. Saint Louis University has a campus in Madrid, Spain."
+            },
+            {
+              "chunk_id": "7c55eafe-2c3d-447a-8f21-2ddb64bd1ed5",
+              "chunk_title": "University Rankings & Research",
+              "chunk_summary": "This chunk contains information about the global and national rankings of specific universities, particularly focusing on their research status and public standing.",
+              "context_title": "University of California, Berkeley",
+              "page_content": "The University of California, Berkeley is ranked as the top public university in the United States. The University of California, Berkeley is ranked as one of the world's leading research universities."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is Middlebury College a private school?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is Middlebury College a private school?",
+          "planner_rationale": "Q 询问两所学校是否均为私立，需确立 Middlebury College 的学校性质。该节点已 SOLVED + healthy，支撑 chunk 直接记载 'Middlebury College is a private liberal arts college.'，证据充分。",
+          "solver_judgment": "question 要求确认 Middlebury College 是否为私立学校。search_query 直接搜索了该问题。chunks 返回了关于 Middlebury College 的多个信息片段，其中 chunk `fa59fbf9-feaf-4781-b370-a59247244110` 明确记载 'Middlebury College is a private liberal arts college'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Middlebury College），单来源但直接、具体地陈述了答案。支撑 chunk [fa59fbf9-feaf-4781-b370-a59247244110] 全文逐字记载 'Middlebury College is a private liberal arts college.'，与声称答案 'Yes' 完全匹配（liberal arts college 属于 private school 范畴）。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但证据直接、具体，答案与 chunk 内容完全匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "fa59fbf9-feaf-4781-b370-a59247244110"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "fa59fbf9-feaf-4781-b370-a59247244110",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Middlebury College",
+              "page_content": "Middlebury College is a private liberal arts college."
+            },
+            {
+              "chunk_id": "98a76874-e9e6-428e-bd6b-0161cc26619c",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the geographical location and historical significance of educational institutions.",
+              "context_title": "Middlebury College",
+              "page_content": "Middlebury College is the first operating college or university in Vermont. Middlebury College is located in Middlebury, Vermont, United States."
+            },
+            {
+              "chunk_id": "5470d21e-c14c-45c8-97bc-10a485215aac",
+              "chunk_title": "Enrollment & Demographics",
+              "chunk_summary": "This chunk contains information about the enrollment statistics and student demographics of Middlebury College.",
+              "context_title": "Middlebury College",
+              "page_content": "The 2,526 undergraduates at Middlebury College are from all 50 states. Middlebury College currently enrolls 2,526 undergraduates. The 2,526 undergraduates at Middlebury College are from 74 countries."
+            },
+            {
+              "chunk_id": "fe8393ed-fc60-49f9-831b-a9c536963d93",
+              "chunk_title": "Middlebury Institutions & History",
+              "chunk_summary": "This chunk contains information about significant institutions and historical milestones at Middlebury College, including the Bread Loaf School of English, the Language Schools, and the admission of women.",
+              "context_title": "Paul Dwight Moody",
+              "page_content": "Women were first accepted at Middlebury College in 1883. The Middlebury College Language Schools saw growth in reputation during Paul Dwight Moody's tenure as president of Middlebury College. The Middlebury College Language Schools saw growth in quality during Paul Dwight Moody's tenure as president of Middlebury College. A semi-integrated system prevailed at Middlebury College regarding gender from 1883 until Paul Dwight Moody's presidency. The Bread Loaf School of English saw growth in quality during Paul Dwight Moody's tenure as president of Middlebury College. The Middlebury College Language Schools are one of Middlebury College's most important institutions. The Bread Loaf School of English saw growth in reputation during Paul Dwight Moody's tenure as president of Middlebury College. The Bread Loaf School of English is one of Middlebury College's most important institutions."
+            },
+            {
+              "chunk_id": "59ecad49-24e4-4860-b583-62af2a21fabc",
+              "chunk_title": "Religious Education Founding",
+              "chunk_summary": "This chunk contains information about the founding of educational institutions by religious groups.",
+              "context_title": "Middlebury College",
+              "page_content": "Congregationalists founded Middlebury College."
+            },
+            {
+              "chunk_id": "8ddfeb93-5f40-435e-a9a2-db697c3f8bb4",
+              "chunk_title": "Middlebury Schools Abroad",
+              "chunk_summary": "This chunk contains information about the Middlebury C.V. Starr Schools Abroad, including their operational affiliation with Middlebury College, global presence, historical origins, funding sources, and overseas academic programs for both undergraduates and graduate students; add any new details regarding their locations, partnerships, specific program offerings, history, or endowment here.",
+              "context_title": "C.V. Starr-Middlebury Schools Abroad",
+              "page_content": "The School in Paris opened in 1949. The Middlebury C.V. Starr Schools have been endowed by the C.V. Starr Foundation. The Middlebury C.V. Starr Schools Abroad operate in 17 countries across 5 continents. The first School of the Middlebury C.V. Starr Schools Abroad was the School in Paris. The Middlebury C.V. Starr Schools Abroad offer graduate-level programs for students from the Middlebury Institute of International Studies at Monterey. The Middlebury C.V. Starr Schools Abroad offer graduate-level programs for students from the Middlebury Language Schools. The Middlebury C.V. Starr Schools Abroad are operated by Middlebury College. The Middlebury C.V. Starr Schools Abroad offer overseas academic programs for undergraduates from various U.S. institutions."
+            },
+            {
+              "chunk_id": "4fa9afc4-7774-43fe-941e-c952b95a12a8",
+              "chunk_title": "Moody Family Leadership",
+              "chunk_summary": "This chunk contains biographical information about evangelical minister Dwight L. Moody and his relative Paul Dwight Moody, focusing on their respective careers in religious leadership and higher education administration; please add further details regarding their lives, achievements, or historical impact.",
+              "context_title": "Paul Dwight Moody",
+              "page_content": "One of Paul Dwight Moody's chief goals was the creation of a wholly separate women's college at Middlebury College. Paul Dwight Moody served as pastor at South Congregational Church from 1912 to 1917. Paul Dwight Moody served as the 10th president of Middlebury College from 1921 until 1943. World War II stymied Paul Dwight Moody's efforts at segregation by gender at Middlebury College. Dwight L. Moody was a famed evangelical minister. Paul Dwight Moody served as pastor at South Congregational Church in St. Johnsbury, VT. Paul Dwight Moody served as the 10th president of Middlebury College. The Great Depression stymied Paul Dwight Moody's efforts at segregation by gender at Middlebury College."
+            },
+            {
+              "chunk_id": "7972b250-2a08-4ab8-9576-daac23e2f556",
+              "chunk_title": "Jeremiah Atwater Namesakes",
+              "chunk_summary": "This chunk contains information about entities named after Jeremiah Atwater, including residential commons and halls at various colleges.",
+              "context_title": "Jeremiah Atwater",
+              "page_content": "Atwater Commons is one of five residential commons at Middlebury College. Atwater Commons is named for Jeremiah Atwater. Atwater Hall at Dickinson College is named for Jeremiah Atwater."
+            },
+            {
+              "chunk_id": "5d83791e-3120-4cea-8d11-b3e2efe49992",
+              "chunk_title": "Academic Programs",
+              "chunk_summary": "This chunk contains information about the academic programs and majors offered by educational institutions, specifically detailing the number and fields of study at Middlebury College.",
+              "context_title": "Middlebury College",
+              "page_content": "The 44 majors at Middlebury College are in the arts, humanities, literature, foreign languages, social sciences, and natural sciences. Middlebury College offers 44 majors."
+            },
+            {
+              "chunk_id": "469c66c2-e176-4837-81f3-65e12382e603",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the founding dates of educational institutions.",
+              "context_title": "Middlebury College",
+              "page_content": "Middlebury College was founded in 1800."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Is Northwestern University a private school?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "3bdaeaae-6384-49aa-8248-704cf76a1ff9",
+        "b4fe97d1-7400-4da2-b319-f982499c346f",
+        "19d725d5-6834-4cd0-be0b-7c133d6a62f4",
+        "fa59fbf9-feaf-4781-b370-a59247244110",
+        "4543f22e-7070-4c70-8298-a2f958a210be",
+        "8fac635a-a4e7-4139-b6e7-8b4047da1941",
+        "ad87316e-8ffe-4ce5-8542-79768ada4fe0",
+        "7b48f426-abc5-482d-8300-1746cdaf6989",
+        "afb8b05e-a029-4f88-8be8-24fcde90c6cb",
+        "7c55eafe-2c3d-447a-8f21-2ddb64bd1ed5"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Is Middlebury College a private school?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "fa59fbf9-feaf-4781-b370-a59247244110",
+        "98a76874-e9e6-428e-bd6b-0161cc26619c",
+        "5470d21e-c14c-45c8-97bc-10a485215aac",
+        "fe8393ed-fc60-49f9-831b-a9c536963d93",
+        "59ecad49-24e4-4860-b583-62af2a21fabc",
+        "8ddfeb93-5f40-435e-a9a2-db697c3f8bb4",
+        "4fa9afc4-7774-43fe-941e-c952b95a12a8",
+        "7972b250-2a08-4ab8-9576-daac23e2f556",
+        "5d83791e-3120-4cea-8d11-b3e2efe49992",
+        "469c66c2-e176-4837-81f3-65e12382e603"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Is Northwestern University a private school?（理由：Q 问两所学校是否均为私立，需先确认 Northwestern University 的性质），F2: Is Middlebury College a private school?（理由：同理，需确认 Middlebury College 的性质）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者独立，无相互依赖，各自回答后即可聚合判断「是否均为私立」。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将 Q 的复合判断（两所学校是否均为私立）拆分为两个独立的子事实探针，分别查询每所学校的性质。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点（N1_1, N1_2）均已 SOLVED；② 推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点 question 自包含，答案聚合后可支撑 ROOT 推理；③ 全部节点 healthy——N0（子节点推理链完整一致）、N1_1（单来源直接具体）、N1_2（单来源直接具体）均为 healthy；④ 首轮无拓扑变化。推理"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Is Northwestern University a private school?（理由：Q 问两所学校是否均为私立，需先确认 Northwestern University 的性质），F2: Is Middlebury College a private school?（理由：同理，需确认 Middlebury College 的性质）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者独立，无相互依赖，各自回答后即可聚合判断「是否均为私立」。当前 DAG 已完全覆盖此结构，N1_1 和 N1_2 均已 SOLVED + healthy，推理链完整。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均 INHERIT。原因：上一轮假设（F1/F2 作为 Q 的两个独立分解子节点）已被完全验证。N1_1 和 N1_2 均 SOLVED + healthy，Critic 确认证据直接且具体，推理链完整。DAG 已逼近理想分解结构，无需新增、删除或换标任何节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足，推理链完整，所有节点证据充分。条件①：所有 2 个非根节点均已 SOLVED。条件②：两条 decomposition 路径（N0→N1_1 和 N0→N1_2）语义有效——子节点 question 自包含，无需父节点 answer 消解指代；答案聚合后可直接支撑 ROOT 推理。条件③：全部 3 个节点（N0、N1_1、N1_2）均为 healthy。条件④：本轮拓扑与上一轮一致（"
+      }
+    }
+  ]
+}

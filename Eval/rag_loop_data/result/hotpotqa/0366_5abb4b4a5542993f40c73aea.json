@@ -1,0 +1,681 @@
+{
+  "question_index": 366,
+  "question_id": "5abb4b4a5542993f40c73aea",
+  "question": "Which university, attended by Jonas Tilly, is part of California's three-system public higher education plan?",
+  "answer": "University of California",
+  "prediction": "University of California",
+  "error": null,
+  "latency_ms": 239690.77979999565,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T16:32:51.645136+00:00",
+  "chunks": [
+    {
+      "chunk_id": "7b40b31c-7e42-42aa-8afd-6c4afca5ec39",
+      "chunk_title": "Education & Athletics",
+      "chunk_summary": "This chunk contains information about the educational background and athletic participation of individuals at universities.",
+      "context_title": "Jonas Tilly",
+      "page_content": "Jonas Tilly studied at the University of California. Jonas Tilly swam in the University of California swim team between 2003 and 2006."
+    },
+    {
+      "chunk_id": "981d608a-cd51-4e72-963f-bad038142553",
+      "chunk_title": "Swedish Swimmers' Achievements",
+      "chunk_summary": "This chunk contains information about the careers and achievements of Swedish freestyle swimmers, including their participation in world record teams.",
+      "context_title": "Jonas Tilly",
+      "page_content": "Stefan Nystrand was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006. Marcus Piehl was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006. Jonas Tilly is a freestyle swimmer. Jonas Tilly was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006. Petter Stymne was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006."
+    },
+    {
+      "chunk_id": "a9f68c9f-1cd0-46f4-9227-588d161cdefc",
+      "chunk_title": "Nationalities & Origins",
+      "chunk_summary": "This chunk contains information about the nationalities or origins of individuals.",
+      "context_title": "Jonas Tilly",
+      "page_content": "Jonas Tilly is from Sweden."
+    },
+    {
+      "chunk_id": "5905a2e5-e1f1-435e-b5dd-0f201661f5ff",
+      "chunk_title": "Education & Alma Mater",
+      "chunk_summary": "This chunk contains information about the educational background and alma mater of individuals.",
+      "context_title": "Totally Games",
+      "page_content": "Lawrence Holland was a Cornell University graduate."
+    },
+    {
+      "chunk_id": "5a7a4842-b818-4ee5-bfc3-38ef78cf7fca",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about the educational institutions attended by individuals.",
+      "context_title": "George T. Johnson",
+      "page_content": "George Thomas Johnson attended Dillard University."
+    },
+    {
+      "chunk_id": "437616f2-3ccd-4fca-8594-e3d859532509",
+      "chunk_title": "Education Background",
+      "chunk_summary": "This chunk contains information about Yannis Pappas's educational background, including the institutions he attended and his fields of study.",
+      "context_title": "Yannis Pappas",
+      "page_content": "Yannis Pappas studied American Studies at the American University in Washington, D.C. Yannis Pappas studied History at the American University in Washington, D.C. Yannis Pappas attended college at the American University in Washington, D.C."
+    },
+    {
+      "chunk_id": "aee2a67b-d917-475e-987b-7937defe97e9",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Jonas Tilly",
+      "page_content": "Jonas Tilly was born on June 29, 1984."
+    },
+    {
+      "chunk_id": "de100288-207b-49b6-9ff7-a24c2f10b638",
+      "chunk_title": "Alumni Lists",
+      "chunk_summary": "This chunk contains information about lists of alumni from specific institutions, such as Middlebury College.",
+      "context_title": "List of Middlebury College faculty",
+      "page_content": "A list of Middlebury alumni exists. One should refer to the list of Middlebury College alumni for a list of Middlebury alumni."
+    },
+    {
+      "chunk_id": "e4fb94f8-1ff8-4ef9-914d-3f60ed14737d",
+      "chunk_title": "Faculty Lists",
+      "chunk_summary": "This chunk contains information about lists of faculty members at educational institutions.",
+      "context_title": "List of Middlebury College alumni",
+      "page_content": "A list of Middlebury faculty exists."
+    },
+    {
+      "chunk_id": "96af5bb6-d242-4f81-b1d6-7fbda8d26c61",
+      "chunk_title": "Education Background",
+      "chunk_summary": "This chunk contains information about the educational background and institutions attended by individuals.",
+      "context_title": "Denis Sinor",
+      "page_content": "Denis Sinor went to university in Budapest."
+    },
+    {
+      "chunk_id": "33d08021-bfd3-4eb4-b42a-2a30690306b4",
+      "chunk_title": "California Higher Education Systems",
+      "chunk_summary": "This chunk contains information about the University of California (UC) system, its role within California's three-system public higher education plan alongside the California State University and Community Colleges systems, and related planning frameworks.",
+      "context_title": "University of California",
+      "page_content": "The California Master Plan for Higher Education exists. The state's three-system public higher education plan includes the California State University system. Under the California Master Plan for Higher Education, the University of California is a part of the state's three-system public higher education plan. The University of California (UC) is in the U.S. state of California. The University of California (UC) is a public university system. The state's three-system public higher education plan includes the California Community Colleges System."
+    },
+    {
+      "chunk_id": "0b26a654-fcf1-48bb-a3cd-6dc026b500fa",
+      "chunk_title": "Public Higher Education Systems",
+      "chunk_summary": "This chunk contains information about the structure and components of a state's public higher education system, specifically detailing its multi-tiered nature and major university systems.",
+      "context_title": "San Diego Community College District",
+      "page_content": "The state's three-tier public higher education system includes the California State University system. The state's three-tier public higher education system includes the University of California system."
+    },
+    {
+      "chunk_id": "fa976280-cce4-4a2d-abcf-5578db0a00ce",
+      "chunk_title": "SDCCD Overview",
+      "chunk_summary": "This chunk contains information about the San Diego Community College District (SDCCD), including its status as a public institution, its location in San Diego, California, and its role within the broader California Community College system and state higher education framework.",
+      "context_title": "San Diego Community College District",
+      "page_content": "The San Diego Community College District (SDCCD) is a public community college district. The San Diego Community College District (SDCCD) is part of the greater California Community College system. The San Diego Community College District (SDCCD) is one of the five community college districts in San Diego County. The San Diego Community College District (SDCCD) is in the city of San Diego, California. Under the California Master Plan for Higher Education, the California Community College system is a part of the state's three-tier public higher education system."
+    },
+    {
+      "chunk_id": "a57fdc64-8624-4d85-8941-af86cb624a74",
+      "chunk_title": "UC System Founding Dates",
+      "chunk_summary": "This chunk contains information about the founding dates and historical status of universities within the University of California system.",
+      "context_title": "University of California, Berkeley",
+      "page_content": "UCSF was founded in 1864. UCSF predates the establishment of the University of California system. The University of California, Berkeley was founded in 1868. The University of California, Berkeley is the oldest of the ten research universities affiliated with the University of California system."
+    },
+    {
+      "chunk_id": "7fb27e40-8d3e-4ee7-8675-a7cdd1fff4bf",
+      "chunk_title": "Fremont High School Profile",
+      "chunk_summary": "This chunk contains information about the location, classification, historical structure, and current academic model of Fremont High School.",
+      "context_title": "Fremont High School (Oakland, California)",
+      "page_content": "The 9th Grade House feeds into one of three California Partnership Academies (CPA). The three California Partnership Academies (CPA) are the Architecture Academy, Mandela Law & Public Service Academy, and Media Academy. Fremont High School was formerly a group of smaller high schools. The group of smaller high schools was known as Fremont Federation of High Schools. Fremont High School is an urban public high school. Fremont High School is located in the Fruitvale District of East Oakland, California, United States. The \"wall to wall\" career academies model consists of a 9th Grade House. The group of smaller high schools was located on the same campus as Fremont High School. The school's present configuration is that of the \"wall to wall\" career academies model."
+    },
+    {
+      "chunk_id": "3596dfbb-56ae-449c-ac2c-7ac673c04a76",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about the classification and nature of educational institutions.",
+      "context_title": "University of California, Berkeley",
+      "page_content": "The University of California, Berkeley is a public research university."
+    },
+    {
+      "chunk_id": "de5e4966-dd63-4feb-a1cd-2da88438d06b",
+      "chunk_title": "Institution Aliases",
+      "chunk_summary": "This chunk contains information about alternative names and aliases for educational institutions, specifically focusing on the University of California, Berkeley.",
+      "context_title": "University of California, Berkeley",
+      "page_content": "The University of California, Berkeley is also referred to as Cal. The University of California, Berkeley is also referred to as Berkeley. The University of California, Berkeley is also referred to as UC Berkeley."
+    },
+    {
+      "chunk_id": "7c55eafe-2c3d-447a-8f21-2ddb64bd1ed5",
+      "chunk_title": "University Rankings & Research",
+      "chunk_summary": "This chunk contains information about the global and national rankings of specific universities, particularly focusing on their research status and public standing.",
+      "context_title": "University of California, Berkeley",
+      "page_content": "The University of California, Berkeley is ranked as the top public university in the United States. The University of California, Berkeley is ranked as one of the world's leading research universities."
+    },
+    {
+      "chunk_id": "95d3d69f-3ad1-4d96-bcff-6621c7428254",
+      "chunk_title": "Ovidius University History",
+      "chunk_summary": "This chunk contains information about the history, location, founding details, and institutional evolution of Ovidius University of Constanta.",
+      "context_title": "Ovidius University",
+      "page_content": "By State Council Decree no. 209 of 1977, the Pedagogical Institute became a Higher Education Institute. Ovidius University of Constanta is a public higher education institution. The naming of the university as Ovidius University of Constanta occurred one year after the university was established in 1990. The Charter of Ovidius University of Constanta states that the Pedagogical Institute was founded by Order of the Ministry of Education no. 654 of 1961. Ovidius University of Constanta was founded as a Pedagogical Institute. Ovidius University of Constanta was transformed into a comprehensive university in 1990. Ovidius University of Constanta was founded in 1961. Ovidius University of Constanta is located in Constanţa, Romania. The Pedagogical Institute comprised four faculties upon its founding. By Order of the Ministry of Education and Science no. 4894 of 1991, the university was given the name Ovidius University of Constanta. By Government Decision 209 of 1990, the Higher Education Institute became a university. By State Council Decree no. 209 of 1977, the Pedagogical Institute was reorganized."
+    },
+    {
+      "chunk_id": "475e00dc-079f-4aa5-b1f8-27f661e270ae",
+      "chunk_title": "THEC Establishment & Mandates",
+      "chunk_summary": "This chunk contains information about the establishment, purpose, and statutory requirements of state higher education commissions, specifically detailing when, by whom, why, and what mandates the Tennessee Higher Education Commission was created.",
+      "context_title": "Tennessee Higher Education Commission",
+      "page_content": "The Tennessee Higher Education Commission (THEC) was established in 1967. The Tennessee Higher Education Commission (THEC) was established by the Tennessee General Assembly. One of the statutory requirements of the Tennessee Higher Education Commission (THEC) is to create a master plan for developing public higher education in Tennessee. The Tennessee Higher Education Commission (THEC) was established to coordinate and support the efforts of higher education institutions in the State of Tennessee."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.25,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 13,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which university, attended by Jonas Tilly, is part of California's three-system public higher education plan?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which university, attended by Jonas Tilly, is part of California's three-system public higher education plan?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Jonas Tilly 就读的、属于加州三大公立高等教育系统的大学",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。推理依据：N1_1 答案='University of California'（Jonas Tilly 就读的大学）+ N1_2 答案='California State University system, University of California system, California Community Colleges System'（加州三大公立高等教育系统）。推理链：Jonas Tilly 就读 University of California → University of California 是三大系统之一 → 答案=University of California。推理逻辑自洽。",
+          "critic_normative_advice": "推理链完整，子节点证据充分。建议 INHERIT——当前分解结构已覆盖 Q 的全部语义需求，无需新增节点。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What universities did Jonas Tilly attend?",
+          "answer": "University of California",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What universities did Jonas Tilly attend?",
+          "planner_rationale": "Q 询问 Jonas Tilly 就读的大学，需先确立他的教育背景以获取候选大学列表",
+          "solver_judgment": "question 要求确认 Jonas Tilly 就读的大学。search_query 搜索了 'What universities did Jonas Tilly attend?'。chunks 返回了 Jonas Tilly 的教育背景信息，其中 chunk 7b40b31c-7e42-42aa-8afd-6c4afca5ec39 明确记载 'Jonas Tilly studied at the University of California'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Jonas Tilly 文档），单来源但直接、具体。支撑 chunk 7b40b31c 全文逐字记载 'Jonas Tilly studied at the University of California'，与声称答案 'University of California' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据直接支撑答案，无需重搜。注意：答案给出的是 'University of California' 系统层面，而非具体校区（如 Berkeley、UCLA 等），但 KB 仅提供了系统级别的信息，已满足当前问题需求。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "7b40b31c-7e42-42aa-8afd-6c4afca5ec39"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "7b40b31c-7e42-42aa-8afd-6c4afca5ec39",
+              "chunk_title": "Education & Athletics",
+              "chunk_summary": "This chunk contains information about the educational background and athletic participation of individuals at universities.",
+              "context_title": "Jonas Tilly",
+              "page_content": "Jonas Tilly studied at the University of California. Jonas Tilly swam in the University of California swim team between 2003 and 2006."
+            },
+            {
+              "chunk_id": "981d608a-cd51-4e72-963f-bad038142553",
+              "chunk_title": "Swedish Swimmers' Achievements",
+              "chunk_summary": "This chunk contains information about the careers and achievements of Swedish freestyle swimmers, including their participation in world record teams.",
+              "context_title": "Jonas Tilly",
+              "page_content": "Stefan Nystrand was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006. Marcus Piehl was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006. Jonas Tilly is a freestyle swimmer. Jonas Tilly was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006. Petter Stymne was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006."
+            },
+            {
+              "chunk_id": "a9f68c9f-1cd0-46f4-9227-588d161cdefc",
+              "chunk_title": "Nationalities & Origins",
+              "chunk_summary": "This chunk contains information about the nationalities or origins of individuals.",
+              "context_title": "Jonas Tilly",
+              "page_content": "Jonas Tilly is from Sweden."
+            },
+            {
+              "chunk_id": "5905a2e5-e1f1-435e-b5dd-0f201661f5ff",
+              "chunk_title": "Education & Alma Mater",
+              "chunk_summary": "This chunk contains information about the educational background and alma mater of individuals.",
+              "context_title": "Totally Games",
+              "page_content": "Lawrence Holland was a Cornell University graduate."
+            },
+            {
+              "chunk_id": "5a7a4842-b818-4ee5-bfc3-38ef78cf7fca",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the educational institutions attended by individuals.",
+              "context_title": "George T. Johnson",
+              "page_content": "George Thomas Johnson attended Dillard University."
+            },
+            {
+              "chunk_id": "437616f2-3ccd-4fca-8594-e3d859532509",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about Yannis Pappas's educational background, including the institutions he attended and his fields of study.",
+              "context_title": "Yannis Pappas",
+              "page_content": "Yannis Pappas studied American Studies at the American University in Washington, D.C. Yannis Pappas studied History at the American University in Washington, D.C. Yannis Pappas attended college at the American University in Washington, D.C."
+            },
+            {
+              "chunk_id": "aee2a67b-d917-475e-987b-7937defe97e9",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Jonas Tilly",
+              "page_content": "Jonas Tilly was born on June 29, 1984."
+            },
+            {
+              "chunk_id": "de100288-207b-49b6-9ff7-a24c2f10b638",
+              "chunk_title": "Alumni Lists",
+              "chunk_summary": "This chunk contains information about lists of alumni from specific institutions, such as Middlebury College.",
+              "context_title": "List of Middlebury College faculty",
+              "page_content": "A list of Middlebury alumni exists. One should refer to the list of Middlebury College alumni for a list of Middlebury alumni."
+            },
+            {
+              "chunk_id": "e4fb94f8-1ff8-4ef9-914d-3f60ed14737d",
+              "chunk_title": "Faculty Lists",
+              "chunk_summary": "This chunk contains information about lists of faculty members at educational institutions.",
+              "context_title": "List of Middlebury College alumni",
+              "page_content": "A list of Middlebury faculty exists."
+            },
+            {
+              "chunk_id": "96af5bb6-d242-4f81-b1d6-7fbda8d26c61",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about the educational background and institutions attended by individuals.",
+              "context_title": "Denis Sinor",
+              "page_content": "Denis Sinor went to university in Budapest."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What are the three systems in California's public higher education plan?",
+          "answer": "California State University system, University of California system, California Community Colleges System",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What are the three systems in California's public higher education plan?",
+          "planner_rationale": "Q 提到加州三大公立高等教育系统，需明确这三个系统的名称和组成，以便筛选 Jonas Tilly 就读的大学中哪些属于该系统",
+          "solver_judgment": "question 要求列出加州公立高等教育计划中的三个系统。search_query 直接搜索了该问题。chunks 返回了明确的信息：chunk 33d08021 指出该计划包括 California State University system、University of California 和 California Community Colleges System；chunk 0b26a654 和 fa976280 也分别确认了这三个系统。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "3 个来源，其中 2 个独立（University of California 文档、San Diego Community College District 文档）。chunk 33d08021 明确列出三大系统：California State University system、University of California、California Community Colleges System；chunk 0b26a654 和 fa976280 分别确认了 CSU/UC 系统和 CCC 系统。两个独立来源对核心事实表述一致。交叉验证：通过。",
+          "critic_normative_advice": "建议 INHERIT——多来源交叉验证通过，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "33d08021-bfd3-4eb4-b42a-2a30690306b4",
+            "0b26a654-fcf1-48bb-a3cd-6dc026b500fa",
+            "fa976280-cce4-4a2d-abcf-5578db0a00ce"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "33d08021-bfd3-4eb4-b42a-2a30690306b4",
+              "chunk_title": "California Higher Education Systems",
+              "chunk_summary": "This chunk contains information about the University of California (UC) system, its role within California's three-system public higher education plan alongside the California State University and Community Colleges systems, and related planning frameworks.",
+              "context_title": "University of California",
+              "page_content": "The California Master Plan for Higher Education exists. The state's three-system public higher education plan includes the California State University system. Under the California Master Plan for Higher Education, the University of California is a part of the state's three-system public higher education plan. The University of California (UC) is in the U.S. state of California. The University of California (UC) is a public university system. The state's three-system public higher education plan includes the California Community Colleges System."
+            },
+            {
+              "chunk_id": "0b26a654-fcf1-48bb-a3cd-6dc026b500fa",
+              "chunk_title": "Public Higher Education Systems",
+              "chunk_summary": "This chunk contains information about the structure and components of a state's public higher education system, specifically detailing its multi-tiered nature and major university systems.",
+              "context_title": "San Diego Community College District",
+              "page_content": "The state's three-tier public higher education system includes the California State University system. The state's three-tier public higher education system includes the University of California system."
+            },
+            {
+              "chunk_id": "fa976280-cce4-4a2d-abcf-5578db0a00ce",
+              "chunk_title": "SDCCD Overview",
+              "chunk_summary": "This chunk contains information about the San Diego Community College District (SDCCD), including its status as a public institution, its location in San Diego, California, and its role within the broader California Community College system and state higher education framework.",
+              "context_title": "San Diego Community College District",
+              "page_content": "The San Diego Community College District (SDCCD) is a public community college district. The San Diego Community College District (SDCCD) is part of the greater California Community College system. The San Diego Community College District (SDCCD) is one of the five community college districts in San Diego County. The San Diego Community College District (SDCCD) is in the city of San Diego, California. Under the California Master Plan for Higher Education, the California Community College system is a part of the state's three-tier public higher education system."
+            },
+            {
+              "chunk_id": "a57fdc64-8624-4d85-8941-af86cb624a74",
+              "chunk_title": "UC System Founding Dates",
+              "chunk_summary": "This chunk contains information about the founding dates and historical status of universities within the University of California system.",
+              "context_title": "University of California, Berkeley",
+              "page_content": "UCSF was founded in 1864. UCSF predates the establishment of the University of California system. The University of California, Berkeley was founded in 1868. The University of California, Berkeley is the oldest of the ten research universities affiliated with the University of California system."
+            },
+            {
+              "chunk_id": "7fb27e40-8d3e-4ee7-8675-a7cdd1fff4bf",
+              "chunk_title": "Fremont High School Profile",
+              "chunk_summary": "This chunk contains information about the location, classification, historical structure, and current academic model of Fremont High School.",
+              "context_title": "Fremont High School (Oakland, California)",
+              "page_content": "The 9th Grade House feeds into one of three California Partnership Academies (CPA). The three California Partnership Academies (CPA) are the Architecture Academy, Mandela Law & Public Service Academy, and Media Academy. Fremont High School was formerly a group of smaller high schools. The group of smaller high schools was known as Fremont Federation of High Schools. Fremont High School is an urban public high school. Fremont High School is located in the Fruitvale District of East Oakland, California, United States. The \"wall to wall\" career academies model consists of a 9th Grade House. The group of smaller high schools was located on the same campus as Fremont High School. The school's present configuration is that of the \"wall to wall\" career academies model."
+            },
+            {
+              "chunk_id": "3596dfbb-56ae-449c-ac2c-7ac673c04a76",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and nature of educational institutions.",
+              "context_title": "University of California, Berkeley",
+              "page_content": "The University of California, Berkeley is a public research university."
+            },
+            {
+              "chunk_id": "de5e4966-dd63-4feb-a1cd-2da88438d06b",
+              "chunk_title": "Institution Aliases",
+              "chunk_summary": "This chunk contains information about alternative names and aliases for educational institutions, specifically focusing on the University of California, Berkeley.",
+              "context_title": "University of California, Berkeley",
+              "page_content": "The University of California, Berkeley is also referred to as Cal. The University of California, Berkeley is also referred to as Berkeley. The University of California, Berkeley is also referred to as UC Berkeley."
+            },
+            {
+              "chunk_id": "7c55eafe-2c3d-447a-8f21-2ddb64bd1ed5",
+              "chunk_title": "University Rankings & Research",
+              "chunk_summary": "This chunk contains information about the global and national rankings of specific universities, particularly focusing on their research status and public standing.",
+              "context_title": "University of California, Berkeley",
+              "page_content": "The University of California, Berkeley is ranked as the top public university in the United States. The University of California, Berkeley is ranked as one of the world's leading research universities."
+            },
+            {
+              "chunk_id": "95d3d69f-3ad1-4d96-bcff-6621c7428254",
+              "chunk_title": "Ovidius University History",
+              "chunk_summary": "This chunk contains information about the history, location, founding details, and institutional evolution of Ovidius University of Constanta.",
+              "context_title": "Ovidius University",
+              "page_content": "By State Council Decree no. 209 of 1977, the Pedagogical Institute became a Higher Education Institute. Ovidius University of Constanta is a public higher education institution. The naming of the university as Ovidius University of Constanta occurred one year after the university was established in 1990. The Charter of Ovidius University of Constanta states that the Pedagogical Institute was founded by Order of the Ministry of Education no. 654 of 1961. Ovidius University of Constanta was founded as a Pedagogical Institute. Ovidius University of Constanta was transformed into a comprehensive university in 1990. Ovidius University of Constanta was founded in 1961. Ovidius University of Constanta is located in Constanţa, Romania. The Pedagogical Institute comprised four faculties upon its founding. By Order of the Ministry of Education and Science no. 4894 of 1991, the university was given the name Ovidius University of Constanta. By Government Decision 209 of 1990, the Higher Education Institute became a university. By State Council Decree no. 209 of 1977, the Pedagogical Institute was reorganized."
+            },
+            {
+              "chunk_id": "475e00dc-079f-4aa5-b1f8-27f661e270ae",
+              "chunk_title": "THEC Establishment & Mandates",
+              "chunk_summary": "This chunk contains information about the establishment, purpose, and statutory requirements of state higher education commissions, specifically detailing when, by whom, why, and what mandates the Tennessee Higher Education Commission was created.",
+              "context_title": "Tennessee Higher Education Commission",
+              "page_content": "The Tennessee Higher Education Commission (THEC) was established in 1967. The Tennessee Higher Education Commission (THEC) was established by the Tennessee General Assembly. One of the statutory requirements of the Tennessee Higher Education Commission (THEC) is to create a master plan for developing public higher education in Tennessee. The Tennessee Higher Education Commission (THEC) was established to coordinate and support the efforts of higher education institutions in the State of Tennessee."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which university, attended by Jonas Tilly, is part of California's three-system public higher education plan?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which university, attended by Jonas Tilly, is part of California's three-system public higher education plan?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Jonas Tilly 就读的、属于加州三大公立高等教育系统的大学。子节点 N1_1 和 N1_2 均已 SOLVED + healthy，推理链完整：N1_1 answer='University of California' ∩ N1_2 answer 包含 'University of California system' → Q 的答案为 University of California",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。推理依据：N1_1 答案='University of California'（Jonas Tilly 就读的大学，单来源 chunk 7b40b31c 直接记载）+ N1_2 答案='California State University system, University of California system, California Community Colleges System'（3 个来源、2 个独立文档交叉验证通过）。推理链：Jonas Tilly 就读 University of California → University of California 是加州三大公立高等教育系统之一 → Q 的答案为 University of California。推理逻辑自洽，无过度推断。",
+          "critic_normative_advice": "推理链完整，子节点证据充分。建议 INHERIT——当前分解结构已覆盖 Q 的全部语义需求（Jonas Tilly 的教育背景 + 加州三大系统定义），无需新增节点。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What universities did Jonas Tilly attend?",
+          "answer": "University of California",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What universities did Jonas Tilly attend?",
+          "planner_rationale": "Q 询问 Jonas Tilly 就读的大学，需先确立他的教育背景以获取候选大学列表。已 SOLVED + healthy，支撑 chunk 7b40b31c 明确记载 'Jonas Tilly studied at the University of California'，证据直接充分",
+          "solver_judgment": "question 要求确认 Jonas Tilly 就读的大学。search_query 搜索了 'What universities did Jonas Tilly attend?'。chunks 返回了 Jonas Tilly 的教育背景信息，其中 chunk 7b40b31c-7e42-42aa-8afd-6c4afca5ec39 明确记载 'Jonas Tilly studied at the University of California'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（Jonas Tilly 文档，chunk 7b40b31c）。chunk 全文逐字记载 'Jonas Tilly studied at the University of California'，与声称答案 'University of California' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据直接支撑答案，无需重搜。注意：答案给出的是 'University of California' 系统层面而非具体校区，但 KB 仅提供了系统级别信息，已满足当前问题需求。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "7b40b31c-7e42-42aa-8afd-6c4afca5ec39"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "7b40b31c-7e42-42aa-8afd-6c4afca5ec39",
+              "chunk_title": "Education & Athletics",
+              "chunk_summary": "This chunk contains information about the educational background and athletic participation of individuals at universities.",
+              "context_title": "Jonas Tilly",
+              "page_content": "Jonas Tilly studied at the University of California. Jonas Tilly swam in the University of California swim team between 2003 and 2006."
+            },
+            {
+              "chunk_id": "981d608a-cd51-4e72-963f-bad038142553",
+              "chunk_title": "Swedish Swimmers' Achievements",
+              "chunk_summary": "This chunk contains information about the careers and achievements of Swedish freestyle swimmers, including their participation in world record teams.",
+              "context_title": "Jonas Tilly",
+              "page_content": "Stefan Nystrand was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006. Marcus Piehl was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006. Jonas Tilly is a freestyle swimmer. Jonas Tilly was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006. Petter Stymne was a member of the Swedish world record team in 4x50m freestyle at the European Short Course Swimming Championships 2006."
+            },
+            {
+              "chunk_id": "a9f68c9f-1cd0-46f4-9227-588d161cdefc",
+              "chunk_title": "Nationalities & Origins",
+              "chunk_summary": "This chunk contains information about the nationalities or origins of individuals.",
+              "context_title": "Jonas Tilly",
+              "page_content": "Jonas Tilly is from Sweden."
+            },
+            {
+              "chunk_id": "5905a2e5-e1f1-435e-b5dd-0f201661f5ff",
+              "chunk_title": "Education & Alma Mater",
+              "chunk_summary": "This chunk contains information about the educational background and alma mater of individuals.",
+              "context_title": "Totally Games",
+              "page_content": "Lawrence Holland was a Cornell University graduate."
+            },
+            {
+              "chunk_id": "5a7a4842-b818-4ee5-bfc3-38ef78cf7fca",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the educational institutions attended by individuals.",
+              "context_title": "George T. Johnson",
+              "page_content": "George Thomas Johnson attended Dillard University."
+            },
+            {
+              "chunk_id": "437616f2-3ccd-4fca-8594-e3d859532509",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about Yannis Pappas's educational background, including the institutions he attended and his fields of study.",
+              "context_title": "Yannis Pappas",
+              "page_content": "Yannis Pappas studied American Studies at the American University in Washington, D.C. Yannis Pappas studied History at the American University in Washington, D.C. Yannis Pappas attended college at the American University in Washington, D.C."
+            },
+            {
+              "chunk_id": "aee2a67b-d917-475e-987b-7937defe97e9",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Jonas Tilly",
+              "page_content": "Jonas Tilly was born on June 29, 1984."
+            },
+            {
+              "chunk_id": "de100288-207b-49b6-9ff7-a24c2f10b638",
+              "chunk_title": "Alumni Lists",
+              "chunk_summary": "This chunk contains information about lists of alumni from specific institutions, such as Middlebury College.",
+              "context_title": "List of Middlebury College faculty",
+              "page_content": "A list of Middlebury alumni exists. One should refer to the list of Middlebury College alumni for a list of Middlebury alumni."
+            },
+            {
+              "chunk_id": "e4fb94f8-1ff8-4ef9-914d-3f60ed14737d",
+              "chunk_title": "Faculty Lists",
+              "chunk_summary": "This chunk contains information about lists of faculty members at educational institutions.",
+              "context_title": "List of Middlebury College alumni",
+              "page_content": "A list of Middlebury faculty exists."
+            },
+            {
+              "chunk_id": "96af5bb6-d242-4f81-b1d6-7fbda8d26c61",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about the educational background and institutions attended by individuals.",
+              "context_title": "Denis Sinor",
+              "page_content": "Denis Sinor went to university in Budapest."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What are the three systems in California's public higher education plan?",
+          "answer": "California State University system, University of California system, California Community Colleges System",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What are the three systems in California's public higher education plan?",
+          "planner_rationale": "Q 限定该大学必须属于加州三大公立高等教育系统，需明确这三个系统的定义和组成以进行筛选。已 SOLVED + healthy，三个支撑 chunk 交叉验证通过，确认三大系统为 CSU、UC、CCC",
+          "solver_judgment": "question 要求列出加州公立高等教育计划中的三个系统。search_query 直接搜索了该问题。chunks 返回了明确的信息：chunk 33d08021 指出该计划包括 California State University system、University of California 和 California Community Colleges System；chunk 0b26a654 和 fa976280 也分别确认了这三个系统。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "3 个支撑来源，其中 2 个独立文档（University of California 文档 chunk 33d08021、San Diego Community College District 文档 chunks 0b26a654 和 fa976280）。chunk 33d08021 明确列出三大系统：California State University system、University of California、California Community Colleges System；chunks 0b26a654 和 fa976280 分别确认了 CSU/UC 系统和 CCC 系统。两个独立来源对核心事实表述一致。交叉验证：通过。",
+          "critic_normative_advice": "建议 INHERIT——多来源交叉验证通过，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "33d08021-bfd3-4eb4-b42a-2a30690306b4",
+            "0b26a654-fcf1-48bb-a3cd-6dc026b500fa",
+            "fa976280-cce4-4a2d-abcf-5578db0a00ce"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "33d08021-bfd3-4eb4-b42a-2a30690306b4",
+              "chunk_title": "California Higher Education Systems",
+              "chunk_summary": "This chunk contains information about the University of California (UC) system, its role within California's three-system public higher education plan alongside the California State University and Community Colleges systems, and related planning frameworks.",
+              "context_title": "University of California",
+              "page_content": "The California Master Plan for Higher Education exists. The state's three-system public higher education plan includes the California State University system. Under the California Master Plan for Higher Education, the University of California is a part of the state's three-system public higher education plan. The University of California (UC) is in the U.S. state of California. The University of California (UC) is a public university system. The state's three-system public higher education plan includes the California Community Colleges System."
+            },
+            {
+              "chunk_id": "0b26a654-fcf1-48bb-a3cd-6dc026b500fa",
+              "chunk_title": "Public Higher Education Systems",
+              "chunk_summary": "This chunk contains information about the structure and components of a state's public higher education system, specifically detailing its multi-tiered nature and major university systems.",
+              "context_title": "San Diego Community College District",
+              "page_content": "The state's three-tier public higher education system includes the California State University system. The state's three-tier public higher education system includes the University of California system."
+            },
+            {
+              "chunk_id": "fa976280-cce4-4a2d-abcf-5578db0a00ce",
+              "chunk_title": "SDCCD Overview",
+              "chunk_summary": "This chunk contains information about the San Diego Community College District (SDCCD), including its status as a public institution, its location in San Diego, California, and its role within the broader California Community College system and state higher education framework.",
+              "context_title": "San Diego Community College District",
+              "page_content": "The San Diego Community College District (SDCCD) is a public community college district. The San Diego Community College District (SDCCD) is part of the greater California Community College system. The San Diego Community College District (SDCCD) is one of the five community college districts in San Diego County. The San Diego Community College District (SDCCD) is in the city of San Diego, California. Under the California Master Plan for Higher Education, the California Community College system is a part of the state's three-tier public higher education system."
+            },
+            {
+              "chunk_id": "a57fdc64-8624-4d85-8941-af86cb624a74",
+              "chunk_title": "UC System Founding Dates",
+              "chunk_summary": "This chunk contains information about the founding dates and historical status of universities within the University of California system.",
+              "context_title": "University of California, Berkeley",
+              "page_content": "UCSF was founded in 1864. UCSF predates the establishment of the University of California system. The University of California, Berkeley was founded in 1868. The University of California, Berkeley is the oldest of the ten research universities affiliated with the University of California system."
+            },
+            {
+              "chunk_id": "7fb27e40-8d3e-4ee7-8675-a7cdd1fff4bf",
+              "chunk_title": "Fremont High School Profile",
+              "chunk_summary": "This chunk contains information about the location, classification, historical structure, and current academic model of Fremont High School.",
+              "context_title": "Fremont High School (Oakland, California)",
+              "page_content": "The 9th Grade House feeds into one of three California Partnership Academies (CPA). The three California Partnership Academies (CPA) are the Architecture Academy, Mandela Law & Public Service Academy, and Media Academy. Fremont High School was formerly a group of smaller high schools. The group of smaller high schools was known as Fremont Federation of High Schools. Fremont High School is an urban public high school. Fremont High School is located in the Fruitvale District of East Oakland, California, United States. The \"wall to wall\" career academies model consists of a 9th Grade House. The group of smaller high schools was located on the same campus as Fremont High School. The school's present configuration is that of the \"wall to wall\" career academies model."
+            },
+            {
+              "chunk_id": "3596dfbb-56ae-449c-ac2c-7ac673c04a76",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and nature of educational institutions.",
+              "context_title": "University of California, Berkeley",
+              "page_content": "The University of California, Berkeley is a public research university."
+            },
+            {
+              "chunk_id": "de5e4966-dd63-4feb-a1cd-2da88438d06b",
+              "chunk_title": "Institution Aliases",
+              "chunk_summary": "This chunk contains information about alternative names and aliases for educational institutions, specifically focusing on the University of California, Berkeley.",
+              "context_title": "University of California, Berkeley",
+              "page_content": "The University of California, Berkeley is also referred to as Cal. The University of California, Berkeley is also referred to as Berkeley. The University of California, Berkeley is also referred to as UC Berkeley."
+            },
+            {
+              "chunk_id": "7c55eafe-2c3d-447a-8f21-2ddb64bd1ed5",
+              "chunk_title": "University Rankings & Research",
+              "chunk_summary": "This chunk contains information about the global and national rankings of specific universities, particularly focusing on their research status and public standing.",
+              "context_title": "University of California, Berkeley",
+              "page_content": "The University of California, Berkeley is ranked as the top public university in the United States. The University of California, Berkeley is ranked as one of the world's leading research universities."
+            },
+            {
+              "chunk_id": "95d3d69f-3ad1-4d96-bcff-6621c7428254",
+              "chunk_title": "Ovidius University History",
+              "chunk_summary": "This chunk contains information about the history, location, founding details, and institutional evolution of Ovidius University of Constanta.",
+              "context_title": "Ovidius University",
+              "page_content": "By State Council Decree no. 209 of 1977, the Pedagogical Institute became a Higher Education Institute. Ovidius University of Constanta is a public higher education institution. The naming of the university as Ovidius University of Constanta occurred one year after the university was established in 1990. The Charter of Ovidius University of Constanta states that the Pedagogical Institute was founded by Order of the Ministry of Education no. 654 of 1961. Ovidius University of Constanta was founded as a Pedagogical Institute. Ovidius University of Constanta was transformed into a comprehensive university in 1990. Ovidius University of Constanta was founded in 1961. Ovidius University of Constanta is located in Constanţa, Romania. The Pedagogical Institute comprised four faculties upon its founding. By Order of the Ministry of Education and Science no. 4894 of 1991, the university was given the name Ovidius University of Constanta. By Government Decision 209 of 1990, the Higher Education Institute became a university. By State Council Decree no. 209 of 1977, the Pedagogical Institute was reorganized."
+            },
+            {
+              "chunk_id": "475e00dc-079f-4aa5-b1f8-27f661e270ae",
+              "chunk_title": "THEC Establishment & Mandates",
+              "chunk_summary": "This chunk contains information about the establishment, purpose, and statutory requirements of state higher education commissions, specifically detailing when, by whom, why, and what mandates the Tennessee Higher Education Commission was created.",
+              "context_title": "Tennessee Higher Education Commission",
+              "page_content": "The Tennessee Higher Education Commission (THEC) was established in 1967. The Tennessee Higher Education Commission (THEC) was established by the Tennessee General Assembly. One of the statutory requirements of the Tennessee Higher Education Commission (THEC) is to create a master plan for developing public higher education in Tennessee. The Tennessee Higher Education Commission (THEC) was established to coordinate and support the efforts of higher education institutions in the State of Tennessee."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What universities did Jonas Tilly attend?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "7b40b31c-7e42-42aa-8afd-6c4afca5ec39",
+        "981d608a-cd51-4e72-963f-bad038142553",
+        "a9f68c9f-1cd0-46f4-9227-588d161cdefc",
+        "5905a2e5-e1f1-435e-b5dd-0f201661f5ff",
+        "5a7a4842-b818-4ee5-bfc3-38ef78cf7fca",
+        "437616f2-3ccd-4fca-8594-e3d859532509",
+        "aee2a67b-d917-475e-987b-7937defe97e9",
+        "de100288-207b-49b6-9ff7-a24c2f10b638",
+        "e4fb94f8-1ff8-4ef9-914d-3f60ed14737d",
+        "96af5bb6-d242-4f81-b1d6-7fbda8d26c61"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What are the three systems in California's public higher education plan?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "33d08021-bfd3-4eb4-b42a-2a30690306b4",
+        "0b26a654-fcf1-48bb-a3cd-6dc026b500fa",
+        "fa976280-cce4-4a2d-abcf-5578db0a00ce",
+        "a57fdc64-8624-4d85-8941-af86cb624a74",
+        "7fb27e40-8d3e-4ee7-8675-a7cdd1fff4bf",
+        "3596dfbb-56ae-449c-ac2c-7ac673c04a76",
+        "de5e4966-dd63-4feb-a1cd-2da88438d06b",
+        "7c55eafe-2c3d-447a-8f21-2ddb64bd1ed5",
+        "95d3d69f-3ad1-4d96-bcff-6621c7428254",
+        "475e00dc-079f-4aa5-b1f8-27f661e270ae"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Jonas Tilly 就读过哪些大学？（理由：Q 的核心是找出 Jonas Tilly 就读的某所大学，需先获取他的教育背景作为候选集），F2: 加州三大公立高等教育系统是什么？（理由：Q 限定该大学必须属于加州三大公立高等教育系统，需明确这三个系统的定义和组成以进行筛选）。关系: F1 是 Q 的分解产物（decomposition——提供候选大学列表），F2 是 Q 的分解产物（decomposition——提供筛选标准）。两个子事实的答案结合后即可确定 Q 的答案。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question=\"What universities did Jonas Tilly attend?\"，rationale=\"获取 Jonas Tilly 的教育背景\"），$2（question=\"What are the three systems in California's public higher education plan?\"，rationale=\"明确加州三大公立高等教育系统的组成\"）。新增边: N0→$1（decomposition，F1 是 Q 的分解产物），N0→$2（decomposition，F2 是 Q 的分解产物）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为 decomposition 边，并行分解无需上游 answer 消解指代，两条路径语义有效；条件③全部节点 healthy——N0（推理链完整自洽）、N1_1（单来源直接具体）、N1_2（双独立来源交叉验证通过）均为 healthy；条件④首轮不适用。推理链完整，所有节点证据充分，可"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Jonas Tilly 就读过哪些大学？（理由：Q 的核心是找出 Jonas Tilly 就读的某所大学，需先获取他的教育背景作为候选集），F2: 加州三大公立高等教育系统是什么？（理由：Q 限定该大学必须属于加州三大公立高等教育系统，需明确这三个系统的定义和组成以进行筛选）。关系: F1 是 Q 的分解产物（decomposition——提供候选大学列表），F2 是 Q 的分解产物（decomposition——提供筛选标准）。两个子事实的答案通过交集推理即可确定 Q 的答案：University of California 既是 Jonas Tilly 就读的大学，又是三大系统之一。",
+      "hypothesis_delta": "本轮无结构调整——全部 INHERIT。原因：上一轮（首轮）的分解假设已被完全验证。N1_1（Jonas Tilly 的教育背景）和 N1_2（加州三大系统定义）均已 SOLVED + healthy，Critic 确认推理链完整、语义覆盖无缺口、无冗余。两个子节点的答案交集（University of California）直接回答了 Q。DAG 结构已达到收敛状态，无需新增、删除或换标任何节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有 2 个非根节点（N1_1, N1_2）均已 SOLVED；② 推理链语义匹配——N0→N1_1 和 N0→N1_2 两条 decomposition 边语义有效，子节点答案聚合（University of California ∩ 三大系统之一）可支撑 ROOT 推理；③ 全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；④ 本轮拓扑与上一轮一致，"
+      }
+    }
+  ]
+}

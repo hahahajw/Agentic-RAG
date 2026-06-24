@@ -1,0 +1,934 @@
+{
+  "question_index": 106,
+  "question_id": "952c943508a311ebbd7bac1f6bf848b6",
+  "question": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+  "answer": "Leverian Collection",
+  "prediction": "Leverian Collection",
+  "error": null,
+  "latency_ms": 492598.52409999986,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T07:15:27.400474+00:00",
+  "chunks": [
+    {
+      "chunk_id": "9ee76d00-37a3-4197-831d-777e76ec34ef",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the founding dates of art museums.",
+      "context_title": "Casoria Contemporary Art Museum",
+      "page_content": "The Casoria Contemporary Art Museum was founded in 2005."
+    },
+    {
+      "chunk_id": "47ee80ad-10c5-47a2-9330-e78a968c2988",
+      "chunk_title": "Historical Events & Interactions",
+      "chunk_summary": "This chunk contains information about historical interactions and events involving specific individuals and organizations, including dates and actions taken.",
+      "context_title": "Casoria Contemporary Art Museum",
+      "page_content": "In 2003 the comune approached Antonio Manfredi. In April 2012 the Casoria Contemporary Art Museum began burning its collection. The Casoria Contemporary Art Museum began burning its collection in protest at the impact of austerity measures."
+    },
+    {
+      "chunk_id": "f37eaeeb-edfc-48c3-8be3-67c08b025303",
+      "chunk_title": "USF Contemporary Art Museum",
+      "chunk_summary": "This chunk contains information about the University of South Florida Contemporary Art Museum, including its location, history, status as a contemporary art institution, and types of exhibitions.",
+      "context_title": "University of South Florida Contemporary Art Museum",
+      "page_content": "The University of South Florida Contemporary Art Museum is a contemporary art museum. Exhibitions at the University of South Florida Contemporary Art Museum include graphic designs. The University of South Florida Contemporary Art Museum opened at its current location in 1989. The University of South Florida Contemporary Art Museum is located at the University of South Florida. The University of South Florida is in Tampa, Florida. Exhibitions at the University of South Florida Contemporary Art Museum include sculpture."
+    },
+    {
+      "chunk_id": "31495f4b-8d6e-4c4d-a022-9b2b8f3daf0e",
+      "chunk_title": "Museum Space & Collections",
+      "chunk_summary": "This chunk contains information about the physical characteristics and collection scope of art museums, specifically focusing on exhibition space size, allocation, and the volume and origin of works in permanent collections.",
+      "context_title": "Casoria Contemporary Art Museum",
+      "page_content": "The permanent collection of the Casoria Contemporary Art Museum consists of some thousand works. The Casoria Contemporary Art Museum has an exhibition space of 3,500 m². The works in the permanent collection of the Casoria Contemporary Art Museum are by international artists. The exhibition space of the Casoria Contemporary Art Museum is largely devoted to its permanent collection."
+    },
+    {
+      "chunk_id": "c6f324ee-3640-47b4-b303-e00841c9ceae",
+      "chunk_title": "Palazzo Riso Identity",
+      "chunk_summary": "This chunk contains information about the names, aliases, translations, and regional classification of the Palazzo Riso contemporary art museum.",
+      "context_title": "Palazzo Riso",
+      "page_content": "Museo d’ Arte Contemporanea della Sicilia translates to \"RISO, Contemporary Art Museum of Sicily\". The Palazzo Riso is also known as Museo d’ Arte Contemporanea della Sicilia. The Palazzo Riso is also known as Palazzo Belmonte Riso. The Palazzo Riso is a regional contemporary art museum. The Palazzo Riso is also known as RISO."
+    },
+    {
+      "chunk_id": "38ac8086-b5ec-4cba-b967-290ae6b86403",
+      "chunk_title": "Museum Locations",
+      "chunk_summary": "This chunk contains information about the locations of museums and cultural institutions.",
+      "context_title": "Casoria Contemporary Art Museum",
+      "page_content": "Casoria Contemporary Art Museum is located in Casoria."
+    },
+    {
+      "chunk_id": "f9ab0e33-9ed1-43db-aa3d-2436f781a343",
+      "chunk_title": "Art Museums",
+      "chunk_summary": "This chunk contains information about contemporary art museums.",
+      "context_title": "Bildmuseet",
+      "page_content": "Bildmuseet is a contemporary art museum."
+    },
+    {
+      "chunk_id": "61e5fd98-f5f1-401e-a77a-cc8a726eeae7",
+      "chunk_title": "Museum on the Seam",
+      "chunk_summary": "This chunk contains information about the Museum on the Seam, a socio-political contemporary art museum located in Jerusalem, Israel.",
+      "context_title": "Museum on the Seam",
+      "page_content": "The Museum on the Seam is in Jerusalem, Israel. The Museum on the Seam is a socio-political contemporary art museum."
+    },
+    {
+      "chunk_id": "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+      "chunk_title": "Art Museums",
+      "chunk_summary": "This chunk contains information about specific art museums, including their names, locations, founding dates, and collections.",
+      "context_title": "Dordrechts Museum",
+      "page_content": "Dordrechts Museum is an art museum. Dordrechts Museum has a collection of artists. Dordrechts Museum is in Dordrecht. Dordrechts Museum was founded in 1842. The collection of artists of Dordrechts Museum spans the last 400 years."
+    },
+    {
+      "chunk_id": "7804a967-6e8f-4942-9c5f-6eeedc2a4e9e",
+      "chunk_title": "Artists & Advocacy",
+      "chunk_summary": "This chunk contains information about the identities and artistic advocacy of specific individuals.",
+      "context_title": "Casoria Contemporary Art Museum",
+      "page_content": "Antonio Manfredi is an advocate of international contemporary art. Antonio Manfredi is a local artist."
+    },
+    {
+      "chunk_id": "c8708803-3b3d-407c-a860-2b1df00fb34d",
+      "chunk_title": "Leverian Collection History",
+      "chunk_summary": "This chunk contains information about the history of the Leverian collection, including its assembly by Ashton Lever, contents from Captain Cook's voyages, exhibition locations in London, and eventual auction.",
+      "context_title": "Leverian collection",
+      "page_content": "The Leverian collection was broken up by auction in 1806. The Leverian collection was on display in London for three decades. The first public location of the Leverian collection was the Holophusikon. When the Leverian collection was displayed near the south end of Blackfriars Bridge, it was often known as the Museum Leverianum. The Leverian collection was noted in particular for the content it acquired from the voyages of Captain James Cook. After passing from Ashton Lever's ownership, the Leverian collection was displayed for nearly 20 years more near the south end of Blackfriars Bridge. The Leverian collection passed from Ashton Lever's ownership. The Leverian collection was assembled by Ashton Lever."
+    },
+    {
+      "chunk_id": "9227f642-7ac4-4e2d-aaa0-c1a7b5bc73b4",
+      "chunk_title": "Historical Collections",
+      "chunk_summary": "This chunk contains information about the nature and scope of historical collections, specifically focusing on natural history and ethnographic artifacts.",
+      "context_title": "Leverian collection",
+      "page_content": "The Leverian collection was a natural history and ethnographic collection."
+    },
+    {
+      "chunk_id": "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+      "chunk_title": "Locations & Timelines",
+      "chunk_summary": "This chunk contains information about the specific geographical locations and historical timelines of exhibits or institutions, detailing their placement within cities and countries as well as their operational periods.",
+      "context_title": "Leverian collection",
+      "page_content": "The Holophusikon was located at Leicester House. The Leverian collection was at the Holophusikon from 1775 to 1786. Leicester House was on Leicester Square. Leicester Square is in London, England."
+    },
+    {
+      "chunk_id": "cc138e02-42d6-44b4-bf3d-7efcab2cf235",
+      "chunk_title": "Alternative Names & Spellings",
+      "chunk_summary": "This chunk contains information about alternative names or spelling variations for specific terms or entities.",
+      "context_title": "Leverian collection",
+      "page_content": "The Holophusikon is also known as the Holophusicon. The Holophusikon is also known as the Leverian Museum."
+    },
+    {
+      "chunk_id": "46987883-a958-4438-a030-3ced55117533",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Robert W. Levering",
+      "page_content": "Robert Woodrow Levering was born on October 3, 1914. Robert Woodrow Levering died on August 11, 1989."
+    },
+    {
+      "chunk_id": "c57c91b2-5245-45f5-a3e8-4af965bbf958",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of historical figures.",
+      "context_title": "André Provana de Leyni",
+      "page_content": "André Provana de Leyni was born in 1511."
+    },
+    {
+      "chunk_id": "61889243-2ea9-41a1-8707-9af04ba8ed0e",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of historical figures.",
+      "context_title": "André Provana de Leyni",
+      "page_content": "André Provana de Leyni was born in 1511."
+    },
+    {
+      "chunk_id": "d98b1b9a-b133-477f-87cf-4d847729a665",
+      "chunk_title": "Museum Fodor Overview",
+      "chunk_summary": "This chunk contains information about the former art museum Museum Fodor, including its history, location in Amsterdam, founding and dissolution dates, collection details, and current management.",
+      "context_title": "Museum Fodor",
+      "page_content": "Museum Fodor was dissolved in 1993. Fodor's collection is now managed by the Amsterdam Museum. Museum Fodor was opened in 1863. Museum Fodor displayed Fodor's art collection. Museum Fodor is a former art museum. Museum Fodor was located in the building that currently houses the Foam Fotografiemuseum Amsterdam. Museum Fodor was located in the Netherlands. Museum Fodor was founded following the death of Fodor. Museum Fodor was located in Amsterdam. Museum Fodor was located at the Keizersgracht."
+    },
+    {
+      "chunk_id": "f20e28ba-59c0-448d-a359-5b3a285cc40d",
+      "chunk_title": "Media Releases & Publishers",
+      "chunk_summary": "This chunk contains information about media releases and their publishers.",
+      "context_title": "Kurt Voss",
+      "page_content": "\"Border Radio\" was published by The Criterion Collection."
+    },
+    {
+      "chunk_id": "ad6168b2-376b-4fba-97b0-2f9647f851d9",
+      "chunk_title": "Manuscript Locations",
+      "chunk_summary": "This chunk contains information about the location and custody of historical manuscripts.",
+      "context_title": "Ieuan ab Owain Glyndŵr",
+      "page_content": "The original \"Peniarth Manuscript 287\" is kept at the National Library of Wales, Aberystwyth. The original \"Harley 1969\" manuscript is kept at the British Library."
+    },
+    {
+      "chunk_id": "466496e2-664b-460d-a64e-32ddd427b20d",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date and time when Christine Collister first came to public attention.",
+      "context_title": "Christine Collister",
+      "page_content": "Christine Collister first came to public attention in 1986."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.42857142857142855,
+  "retrieval_count": 3,
+  "total_chunks": 21,
+  "total_distinct_titles": 13,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两个博物馆的创立时间以确定哪个更早",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链合成。当前子节点状态：N1_1(solved, answer=2005)，N1_2(unsolved, answer=无)。推理链不完整，无法进行比较判断。",
+          "critic_normative_advice": "建议等待 N1_2 求解后再进行推理合成。当前结构合理——两个独立分解子节点覆盖 Q 的比较语义需求。若 N1_2 持续无法获取明确创立年份，建议考虑替代策略（如使用最早可验证的活动年份作为代理）。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Casoria Contemporary Art Museum founded?",
+          "answer": "2005",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Casoria Contemporary Art Museum founded?",
+          "planner_rationale": "Q 要求比较两个博物馆的创立时间，必须先获取 Casoria Contemporary Art Museum 的创立年份",
+          "solver_judgment": "question 要求确认 Casoria Contemporary Art Museum 的成立年份。search_query 直接搜索了该博物馆的成立时间。chunks 返回了多个关于该博物馆的信息，其中 chunk 9ee76d00-37a3-4197-831d-777e76ec34ef 明确记载 'The Casoria Contemporary Art Museum was founded in 2005.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档：Casoria Contemporary Art Museum）。支撑 chunk [9ee76d00-37a3-4197-831d-777e76ec34ef] 全文直接陈述 'The Casoria Contemporary Art Museum was founded in 2005.'，与声称答案 2005 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "9ee76d00-37a3-4197-831d-777e76ec34ef"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "9ee76d00-37a3-4197-831d-777e76ec34ef",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the founding dates of art museums.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "The Casoria Contemporary Art Museum was founded in 2005."
+            },
+            {
+              "chunk_id": "47ee80ad-10c5-47a2-9330-e78a968c2988",
+              "chunk_title": "Historical Events & Interactions",
+              "chunk_summary": "This chunk contains information about historical interactions and events involving specific individuals and organizations, including dates and actions taken.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "In 2003 the comune approached Antonio Manfredi. In April 2012 the Casoria Contemporary Art Museum began burning its collection. The Casoria Contemporary Art Museum began burning its collection in protest at the impact of austerity measures."
+            },
+            {
+              "chunk_id": "f37eaeeb-edfc-48c3-8be3-67c08b025303",
+              "chunk_title": "USF Contemporary Art Museum",
+              "chunk_summary": "This chunk contains information about the University of South Florida Contemporary Art Museum, including its location, history, status as a contemporary art institution, and types of exhibitions.",
+              "context_title": "University of South Florida Contemporary Art Museum",
+              "page_content": "The University of South Florida Contemporary Art Museum is a contemporary art museum. Exhibitions at the University of South Florida Contemporary Art Museum include graphic designs. The University of South Florida Contemporary Art Museum opened at its current location in 1989. The University of South Florida Contemporary Art Museum is located at the University of South Florida. The University of South Florida is in Tampa, Florida. Exhibitions at the University of South Florida Contemporary Art Museum include sculpture."
+            },
+            {
+              "chunk_id": "31495f4b-8d6e-4c4d-a022-9b2b8f3daf0e",
+              "chunk_title": "Museum Space & Collections",
+              "chunk_summary": "This chunk contains information about the physical characteristics and collection scope of art museums, specifically focusing on exhibition space size, allocation, and the volume and origin of works in permanent collections.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "The permanent collection of the Casoria Contemporary Art Museum consists of some thousand works. The Casoria Contemporary Art Museum has an exhibition space of 3,500 m². The works in the permanent collection of the Casoria Contemporary Art Museum are by international artists. The exhibition space of the Casoria Contemporary Art Museum is largely devoted to its permanent collection."
+            },
+            {
+              "chunk_id": "c6f324ee-3640-47b4-b303-e00841c9ceae",
+              "chunk_title": "Palazzo Riso Identity",
+              "chunk_summary": "This chunk contains information about the names, aliases, translations, and regional classification of the Palazzo Riso contemporary art museum.",
+              "context_title": "Palazzo Riso",
+              "page_content": "Museo d’ Arte Contemporanea della Sicilia translates to \"RISO, Contemporary Art Museum of Sicily\". The Palazzo Riso is also known as Museo d’ Arte Contemporanea della Sicilia. The Palazzo Riso is also known as Palazzo Belmonte Riso. The Palazzo Riso is a regional contemporary art museum. The Palazzo Riso is also known as RISO."
+            },
+            {
+              "chunk_id": "38ac8086-b5ec-4cba-b967-290ae6b86403",
+              "chunk_title": "Museum Locations",
+              "chunk_summary": "This chunk contains information about the locations of museums and cultural institutions.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "Casoria Contemporary Art Museum is located in Casoria."
+            },
+            {
+              "chunk_id": "f9ab0e33-9ed1-43db-aa3d-2436f781a343",
+              "chunk_title": "Art Museums",
+              "chunk_summary": "This chunk contains information about contemporary art museums.",
+              "context_title": "Bildmuseet",
+              "page_content": "Bildmuseet is a contemporary art museum."
+            },
+            {
+              "chunk_id": "61e5fd98-f5f1-401e-a77a-cc8a726eeae7",
+              "chunk_title": "Museum on the Seam",
+              "chunk_summary": "This chunk contains information about the Museum on the Seam, a socio-political contemporary art museum located in Jerusalem, Israel.",
+              "context_title": "Museum on the Seam",
+              "page_content": "The Museum on the Seam is in Jerusalem, Israel. The Museum on the Seam is a socio-political contemporary art museum."
+            },
+            {
+              "chunk_id": "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+              "chunk_title": "Art Museums",
+              "chunk_summary": "This chunk contains information about specific art museums, including their names, locations, founding dates, and collections.",
+              "context_title": "Dordrechts Museum",
+              "page_content": "Dordrechts Museum is an art museum. Dordrechts Museum has a collection of artists. Dordrechts Museum is in Dordrecht. Dordrechts Museum was founded in 1842. The collection of artists of Dordrechts Museum spans the last 400 years."
+            },
+            {
+              "chunk_id": "7804a967-6e8f-4942-9c5f-6eeedc2a4e9e",
+              "chunk_title": "Artists & Advocacy",
+              "chunk_summary": "This chunk contains information about the identities and artistic advocacy of specific individuals.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "Antonio Manfredi is an advocate of international contemporary art. Antonio Manfredi is a local artist."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Leverian Collection founded?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "When was Leverian Collection founded?",
+          "planner_rationale": "Q 要求比较两个博物馆的创立时间，必须先获取 Leverian Collection 的创立年份",
+          "solver_judgment": "Question asks for the founding date of the Leverian Collection. The search query matches the question. The retrieved chunks provide information about the collection's contents (natural history and ethnographic artifacts), its assembly by Ashton Lever, its display at the Holophusikon from 1775 to 1786, and its auction in 1806. However, none of the chunks explicitly state when the collection was founded. The earliest date mentioned (1775) refers to the start of its display at a specific location, not the founding of the collection itself. Therefore, the answer cannot be extracted from the provided text.",
+          "critic_factual_notes": "4 个来源来自 Leverian collection 文档（chunks: c8708803, 9227f642, 16dad69d, cc138e02）。检索内容涉及：由 Ashton Lever 组装、1775-1786 年在 Holophusikon 展出、1806 年拍卖。但无 chunk 明确陈述 'founded' 年份。Solver 判断与 chunk 内容一致——确实未找到明确创立日期。交叉验证：不充分（无直接答案来源）。",
+          "critic_normative_advice": "建议换搜索方向——当前查询 'When was Leverian Collection founded?' 未返回明确答案。可尝试：(1) 搜索 'Ashton Lever collection established/created/began' 寻找集合形成的最早时间点；(2) 搜索 'Holophusikon 1775' 确认 1775 年是否可作为事实上的公开起始年份用于比较。若 KB 确实无覆盖，可考虑以 1775（首次公开展示年）作为代理值，并在最终答案中注明不确定性。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c8708803-3b3d-407c-a860-2b1df00fb34d",
+              "chunk_title": "Leverian Collection History",
+              "chunk_summary": "This chunk contains information about the history of the Leverian collection, including its assembly by Ashton Lever, contents from Captain Cook's voyages, exhibition locations in London, and eventual auction.",
+              "context_title": "Leverian collection",
+              "page_content": "The Leverian collection was broken up by auction in 1806. The Leverian collection was on display in London for three decades. The first public location of the Leverian collection was the Holophusikon. When the Leverian collection was displayed near the south end of Blackfriars Bridge, it was often known as the Museum Leverianum. The Leverian collection was noted in particular for the content it acquired from the voyages of Captain James Cook. After passing from Ashton Lever's ownership, the Leverian collection was displayed for nearly 20 years more near the south end of Blackfriars Bridge. The Leverian collection passed from Ashton Lever's ownership. The Leverian collection was assembled by Ashton Lever."
+            },
+            {
+              "chunk_id": "9227f642-7ac4-4e2d-aaa0-c1a7b5bc73b4",
+              "chunk_title": "Historical Collections",
+              "chunk_summary": "This chunk contains information about the nature and scope of historical collections, specifically focusing on natural history and ethnographic artifacts.",
+              "context_title": "Leverian collection",
+              "page_content": "The Leverian collection was a natural history and ethnographic collection."
+            },
+            {
+              "chunk_id": "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+              "chunk_title": "Art Museums",
+              "chunk_summary": "This chunk contains information about specific art museums, including their names, locations, founding dates, and collections.",
+              "context_title": "Dordrechts Museum",
+              "page_content": "Dordrechts Museum is an art museum. Dordrechts Museum has a collection of artists. Dordrechts Museum is in Dordrecht. Dordrechts Museum was founded in 1842. The collection of artists of Dordrechts Museum spans the last 400 years."
+            },
+            {
+              "chunk_id": "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+              "chunk_title": "Locations & Timelines",
+              "chunk_summary": "This chunk contains information about the specific geographical locations and historical timelines of exhibits or institutions, detailing their placement within cities and countries as well as their operational periods.",
+              "context_title": "Leverian collection",
+              "page_content": "The Holophusikon was located at Leicester House. The Leverian collection was at the Holophusikon from 1775 to 1786. Leicester House was on Leicester Square. Leicester Square is in London, England."
+            },
+            {
+              "chunk_id": "cc138e02-42d6-44b4-bf3d-7efcab2cf235",
+              "chunk_title": "Alternative Names & Spellings",
+              "chunk_summary": "This chunk contains information about alternative names or spelling variations for specific terms or entities.",
+              "context_title": "Leverian collection",
+              "page_content": "The Holophusikon is also known as the Holophusicon. The Holophusikon is also known as the Leverian Museum."
+            },
+            {
+              "chunk_id": "46987883-a958-4438-a030-3ced55117533",
+              "chunk_title": "Birth & Death Dates",
+              "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+              "context_title": "Robert W. Levering",
+              "page_content": "Robert Woodrow Levering was born on October 3, 1914. Robert Woodrow Levering died on August 11, 1989."
+            },
+            {
+              "chunk_id": "c57c91b2-5245-45f5-a3e8-4af965bbf958",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of historical figures.",
+              "context_title": "André Provana de Leyni",
+              "page_content": "André Provana de Leyni was born in 1511."
+            },
+            {
+              "chunk_id": "61889243-2ea9-41a1-8707-9af04ba8ed0e",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of historical figures.",
+              "context_title": "André Provana de Leyni",
+              "page_content": "André Provana de Leyni was born in 1511."
+            },
+            {
+              "chunk_id": "d98b1b9a-b133-477f-87cf-4d847729a665",
+              "chunk_title": "Museum Fodor Overview",
+              "chunk_summary": "This chunk contains information about the former art museum Museum Fodor, including its history, location in Amsterdam, founding and dissolution dates, collection details, and current management.",
+              "context_title": "Museum Fodor",
+              "page_content": "Museum Fodor was dissolved in 1993. Fodor's collection is now managed by the Amsterdam Museum. Museum Fodor was opened in 1863. Museum Fodor displayed Fodor's art collection. Museum Fodor is a former art museum. Museum Fodor was located in the building that currently houses the Foam Fotografiemuseum Amsterdam. Museum Fodor was located in the Netherlands. Museum Fodor was founded following the death of Fodor. Museum Fodor was located in Amsterdam. Museum Fodor was located at the Keizersgracht."
+            },
+            {
+              "chunk_id": "f20e28ba-59c0-448d-a359-5b3a285cc40d",
+              "chunk_title": "Media Releases & Publishers",
+              "chunk_summary": "This chunk contains information about media releases and their publishers.",
+              "context_title": "Kurt Voss",
+              "page_content": "\"Border Radio\" was published by The Criterion Collection."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较 Casoria Contemporary Art Museum 和 Leverian Collection 的创立时间以确定哪个更早。当前 N1_1 已解（2005），等待 N1_2 求解后进行比较推理。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链合成。子节点 N1_1 答案=2005（Casoria Contemporary Art Museum 创立年份），N1_2 答案=1775（Leverian Collection 首次公开展出年份）。推理链完整：1775 < 2005，可得出 Leverian Collection 更早的结论。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，结构合理。两个独立分解子节点覆盖 Q 的比较语义需求，无需调整。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Casoria Contemporary Art Museum founded?",
+          "answer": "2005",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Casoria Contemporary Art Museum founded?",
+          "planner_rationale": "Q 要求比较两个博物馆的创立时间，Casoria Contemporary Art Museum 的创立年份（2005）已成功获取，证据充分（Critic healthy），本轮直接保留。",
+          "solver_judgment": "question 要求确认 Casoria Contemporary Art Museum 的成立年份。search_query 直接搜索了该博物馆的成立时间。chunks 返回了多个关于该博物馆的信息，其中 chunk 9ee76d00-37a3-4197-831d-777e76ec34ef 明确记载 'The Casoria Contemporary Art Museum was founded in 2005.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档：Casoria Contemporary Art Museum）。支撑 chunk [9ee76d00-37a3-4197-831d-777e76ec34ef] 全文直接陈述 'The Casoria Contemporary Art Museum was founded in 2005.'，与声称答案 2005 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "9ee76d00-37a3-4197-831d-777e76ec34ef"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "9ee76d00-37a3-4197-831d-777e76ec34ef",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the founding dates of art museums.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "The Casoria Contemporary Art Museum was founded in 2005."
+            },
+            {
+              "chunk_id": "47ee80ad-10c5-47a2-9330-e78a968c2988",
+              "chunk_title": "Historical Events & Interactions",
+              "chunk_summary": "This chunk contains information about historical interactions and events involving specific individuals and organizations, including dates and actions taken.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "In 2003 the comune approached Antonio Manfredi. In April 2012 the Casoria Contemporary Art Museum began burning its collection. The Casoria Contemporary Art Museum began burning its collection in protest at the impact of austerity measures."
+            },
+            {
+              "chunk_id": "f37eaeeb-edfc-48c3-8be3-67c08b025303",
+              "chunk_title": "USF Contemporary Art Museum",
+              "chunk_summary": "This chunk contains information about the University of South Florida Contemporary Art Museum, including its location, history, status as a contemporary art institution, and types of exhibitions.",
+              "context_title": "University of South Florida Contemporary Art Museum",
+              "page_content": "The University of South Florida Contemporary Art Museum is a contemporary art museum. Exhibitions at the University of South Florida Contemporary Art Museum include graphic designs. The University of South Florida Contemporary Art Museum opened at its current location in 1989. The University of South Florida Contemporary Art Museum is located at the University of South Florida. The University of South Florida is in Tampa, Florida. Exhibitions at the University of South Florida Contemporary Art Museum include sculpture."
+            },
+            {
+              "chunk_id": "31495f4b-8d6e-4c4d-a022-9b2b8f3daf0e",
+              "chunk_title": "Museum Space & Collections",
+              "chunk_summary": "This chunk contains information about the physical characteristics and collection scope of art museums, specifically focusing on exhibition space size, allocation, and the volume and origin of works in permanent collections.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "The permanent collection of the Casoria Contemporary Art Museum consists of some thousand works. The Casoria Contemporary Art Museum has an exhibition space of 3,500 m². The works in the permanent collection of the Casoria Contemporary Art Museum are by international artists. The exhibition space of the Casoria Contemporary Art Museum is largely devoted to its permanent collection."
+            },
+            {
+              "chunk_id": "c6f324ee-3640-47b4-b303-e00841c9ceae",
+              "chunk_title": "Palazzo Riso Identity",
+              "chunk_summary": "This chunk contains information about the names, aliases, translations, and regional classification of the Palazzo Riso contemporary art museum.",
+              "context_title": "Palazzo Riso",
+              "page_content": "Museo d’ Arte Contemporanea della Sicilia translates to \"RISO, Contemporary Art Museum of Sicily\". The Palazzo Riso is also known as Museo d’ Arte Contemporanea della Sicilia. The Palazzo Riso is also known as Palazzo Belmonte Riso. The Palazzo Riso is a regional contemporary art museum. The Palazzo Riso is also known as RISO."
+            },
+            {
+              "chunk_id": "38ac8086-b5ec-4cba-b967-290ae6b86403",
+              "chunk_title": "Museum Locations",
+              "chunk_summary": "This chunk contains information about the locations of museums and cultural institutions.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "Casoria Contemporary Art Museum is located in Casoria."
+            },
+            {
+              "chunk_id": "f9ab0e33-9ed1-43db-aa3d-2436f781a343",
+              "chunk_title": "Art Museums",
+              "chunk_summary": "This chunk contains information about contemporary art museums.",
+              "context_title": "Bildmuseet",
+              "page_content": "Bildmuseet is a contemporary art museum."
+            },
+            {
+              "chunk_id": "61e5fd98-f5f1-401e-a77a-cc8a726eeae7",
+              "chunk_title": "Museum on the Seam",
+              "chunk_summary": "This chunk contains information about the Museum on the Seam, a socio-political contemporary art museum located in Jerusalem, Israel.",
+              "context_title": "Museum on the Seam",
+              "page_content": "The Museum on the Seam is in Jerusalem, Israel. The Museum on the Seam is a socio-political contemporary art museum."
+            },
+            {
+              "chunk_id": "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+              "chunk_title": "Art Museums",
+              "chunk_summary": "This chunk contains information about specific art museums, including their names, locations, founding dates, and collections.",
+              "context_title": "Dordrechts Museum",
+              "page_content": "Dordrechts Museum is an art museum. Dordrechts Museum has a collection of artists. Dordrechts Museum is in Dordrecht. Dordrechts Museum was founded in 1842. The collection of artists of Dordrechts Museum spans the last 400 years."
+            },
+            {
+              "chunk_id": "7804a967-6e8f-4942-9c5f-6eeedc2a4e9e",
+              "chunk_title": "Artists & Advocacy",
+              "chunk_summary": "This chunk contains information about the identities and artistic advocacy of specific individuals.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "Antonio Manfredi is an advocate of international contemporary art. Antonio Manfredi is a local artist."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the Leverian Collection first established or publicly displayed (e.g., at the Holophusikon)?",
+          "answer": "1775",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the Leverian Collection first established or publicly displayed (e.g., at the Holophusikon)?",
+          "planner_rationale": "上一轮搜索 'When was Leverian Collection founded?' 未返回明确创立年份。Critic 指出 KB 中有 1775-1786 年在 Holophusikon 展出的记录，但无明确 'founded' 表述。换探测角度：搜索 'established'、'first publicly displayed' 或 'Holophusikon' 相关日期，以获取可用于比较的最早可验证时间点（可能为 1775 年）。",
+          "solver_judgment": "question 要求确认 Leverian Collection 首次建立或公开展出的时间。search_query 直接搜索了该问题。chunks 返回了相关信息：chunk 16dad69d 指出 'The Leverian collection was at the Holophusikon from 1775 to 1786'，而 chunk c8708803 补充说明 'The first public location of the Leverian collection was the Holophusikon'。结合两者可知，该收藏于 1775 年在 Holophusikon 首次公开展出。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk 均来自同一文档（Leverian collection）。chunk [16dad69d-1e0f-451a-8cb8-2ccf77772b0d] 明确记载 'The Leverian collection was at the Holophusikon from 1775 to 1786'，chunk [c8708803-3b3d-407c-a860-2b1df00fb34d] 补充 'The first public location of the Leverian collection was the Holophusikon'。两者结合可推断 1775 年为首次公开展出时间。交叉验证：单文档内多 chunk 一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分。注意：1775 年是首次公开展出时间而非严格意义上的 'founded' 年份，但 KB 中无更明确的创立日期，此代理值可用于比较。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+            "c8708803-3b3d-407c-a860-2b1df00fb34d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+              "chunk_title": "Locations & Timelines",
+              "chunk_summary": "This chunk contains information about the specific geographical locations and historical timelines of exhibits or institutions, detailing their placement within cities and countries as well as their operational periods.",
+              "context_title": "Leverian collection",
+              "page_content": "The Holophusikon was located at Leicester House. The Leverian collection was at the Holophusikon from 1775 to 1786. Leicester House was on Leicester Square. Leicester Square is in London, England."
+            },
+            {
+              "chunk_id": "c8708803-3b3d-407c-a860-2b1df00fb34d",
+              "chunk_title": "Leverian Collection History",
+              "chunk_summary": "This chunk contains information about the history of the Leverian collection, including its assembly by Ashton Lever, contents from Captain Cook's voyages, exhibition locations in London, and eventual auction.",
+              "context_title": "Leverian collection",
+              "page_content": "The Leverian collection was broken up by auction in 1806. The Leverian collection was on display in London for three decades. The first public location of the Leverian collection was the Holophusikon. When the Leverian collection was displayed near the south end of Blackfriars Bridge, it was often known as the Museum Leverianum. The Leverian collection was noted in particular for the content it acquired from the voyages of Captain James Cook. After passing from Ashton Lever's ownership, the Leverian collection was displayed for nearly 20 years more near the south end of Blackfriars Bridge. The Leverian collection passed from Ashton Lever's ownership. The Leverian collection was assembled by Ashton Lever."
+            },
+            {
+              "chunk_id": "9227f642-7ac4-4e2d-aaa0-c1a7b5bc73b4",
+              "chunk_title": "Historical Collections",
+              "chunk_summary": "This chunk contains information about the nature and scope of historical collections, specifically focusing on natural history and ethnographic artifacts.",
+              "context_title": "Leverian collection",
+              "page_content": "The Leverian collection was a natural history and ethnographic collection."
+            },
+            {
+              "chunk_id": "cc138e02-42d6-44b4-bf3d-7efcab2cf235",
+              "chunk_title": "Alternative Names & Spellings",
+              "chunk_summary": "This chunk contains information about alternative names or spelling variations for specific terms or entities.",
+              "context_title": "Leverian collection",
+              "page_content": "The Holophusikon is also known as the Holophusicon. The Holophusikon is also known as the Leverian Museum."
+            },
+            {
+              "chunk_id": "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+              "chunk_title": "Art Museums",
+              "chunk_summary": "This chunk contains information about specific art museums, including their names, locations, founding dates, and collections.",
+              "context_title": "Dordrechts Museum",
+              "page_content": "Dordrechts Museum is an art museum. Dordrechts Museum has a collection of artists. Dordrechts Museum is in Dordrecht. Dordrechts Museum was founded in 1842. The collection of artists of Dordrechts Museum spans the last 400 years."
+            },
+            {
+              "chunk_id": "46987883-a958-4438-a030-3ced55117533",
+              "chunk_title": "Birth & Death Dates",
+              "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+              "context_title": "Robert W. Levering",
+              "page_content": "Robert Woodrow Levering was born on October 3, 1914. Robert Woodrow Levering died on August 11, 1989."
+            },
+            {
+              "chunk_id": "d98b1b9a-b133-477f-87cf-4d847729a665",
+              "chunk_title": "Museum Fodor Overview",
+              "chunk_summary": "This chunk contains information about the former art museum Museum Fodor, including its history, location in Amsterdam, founding and dissolution dates, collection details, and current management.",
+              "context_title": "Museum Fodor",
+              "page_content": "Museum Fodor was dissolved in 1993. Fodor's collection is now managed by the Amsterdam Museum. Museum Fodor was opened in 1863. Museum Fodor displayed Fodor's art collection. Museum Fodor is a former art museum. Museum Fodor was located in the building that currently houses the Foam Fotografiemuseum Amsterdam. Museum Fodor was located in the Netherlands. Museum Fodor was founded following the death of Fodor. Museum Fodor was located in Amsterdam. Museum Fodor was located at the Keizersgracht."
+            },
+            {
+              "chunk_id": "c57c91b2-5245-45f5-a3e8-4af965bbf958",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of historical figures.",
+              "context_title": "André Provana de Leyni",
+              "page_content": "André Provana de Leyni was born in 1511."
+            },
+            {
+              "chunk_id": "ad6168b2-376b-4fba-97b0-2f9647f851d9",
+              "chunk_title": "Manuscript Locations",
+              "chunk_summary": "This chunk contains information about the location and custody of historical manuscripts.",
+              "context_title": "Ieuan ab Owain Glyndŵr",
+              "page_content": "The original \"Peniarth Manuscript 287\" is kept at the National Library of Wales, Aberystwyth. The original \"Harley 1969\" manuscript is kept at the British Library."
+            },
+            {
+              "chunk_id": "466496e2-664b-460d-a64e-32ddd427b20d",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date and time when Christine Collister first came to public attention.",
+              "context_title": "Christine Collister",
+              "page_content": "Christine Collister first came to public attention in 1986."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。两个子节点均已 SOLVED：N1_1 确认 Casoria Contemporary Art Museum 创立于 2005 年，N1_2 确认 Leverian Collection 首次公开展出于 1775 年。比较推理链完整：1775 < 2005，可得出 Leverian Collection 更早的结论。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链合成。子节点 N1_1 答案=2005（Casoria Contemporary Art Museum 创立年份），N1_2 答案=1775（Leverian Collection 首次公开展出年份）。两个子节点均已 SOLVED 且 healthy，推理链完整：1775 < 2005，可得出 Leverian Collection 更早的结论。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，结构合理。两个独立分解子节点覆盖 Q 的比较语义需求，无需调整。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Casoria Contemporary Art Museum founded?",
+          "answer": "2005",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Casoria Contemporary Art Museum founded?",
+          "planner_rationale": "Q 要求比较两个博物馆的创立时间，Casoria Contemporary Art Museum 的创立年份（2005）已成功获取，证据充分（Critic healthy），本轮直接保留。",
+          "solver_judgment": "question 要求确认 Casoria Contemporary Art Museum 的成立年份。search_query 直接搜索了该博物馆的成立时间。chunks 返回了多个关于该博物馆的信息，其中 chunk 9ee76d00-37a3-4197-831d-777e76ec34ef 明确记载 'The Casoria Contemporary Art Museum was founded in 2005.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档：Casoria Contemporary Art Museum）。支撑 chunk [9ee76d00-37a3-4197-831d-777e76ec34ef] 全文直接陈述 'The Casoria Contemporary Art Museum was founded in 2005.'，与声称答案 2005 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "9ee76d00-37a3-4197-831d-777e76ec34ef"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "9ee76d00-37a3-4197-831d-777e76ec34ef",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the founding dates of art museums.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "The Casoria Contemporary Art Museum was founded in 2005."
+            },
+            {
+              "chunk_id": "47ee80ad-10c5-47a2-9330-e78a968c2988",
+              "chunk_title": "Historical Events & Interactions",
+              "chunk_summary": "This chunk contains information about historical interactions and events involving specific individuals and organizations, including dates and actions taken.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "In 2003 the comune approached Antonio Manfredi. In April 2012 the Casoria Contemporary Art Museum began burning its collection. The Casoria Contemporary Art Museum began burning its collection in protest at the impact of austerity measures."
+            },
+            {
+              "chunk_id": "f37eaeeb-edfc-48c3-8be3-67c08b025303",
+              "chunk_title": "USF Contemporary Art Museum",
+              "chunk_summary": "This chunk contains information about the University of South Florida Contemporary Art Museum, including its location, history, status as a contemporary art institution, and types of exhibitions.",
+              "context_title": "University of South Florida Contemporary Art Museum",
+              "page_content": "The University of South Florida Contemporary Art Museum is a contemporary art museum. Exhibitions at the University of South Florida Contemporary Art Museum include graphic designs. The University of South Florida Contemporary Art Museum opened at its current location in 1989. The University of South Florida Contemporary Art Museum is located at the University of South Florida. The University of South Florida is in Tampa, Florida. Exhibitions at the University of South Florida Contemporary Art Museum include sculpture."
+            },
+            {
+              "chunk_id": "31495f4b-8d6e-4c4d-a022-9b2b8f3daf0e",
+              "chunk_title": "Museum Space & Collections",
+              "chunk_summary": "This chunk contains information about the physical characteristics and collection scope of art museums, specifically focusing on exhibition space size, allocation, and the volume and origin of works in permanent collections.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "The permanent collection of the Casoria Contemporary Art Museum consists of some thousand works. The Casoria Contemporary Art Museum has an exhibition space of 3,500 m². The works in the permanent collection of the Casoria Contemporary Art Museum are by international artists. The exhibition space of the Casoria Contemporary Art Museum is largely devoted to its permanent collection."
+            },
+            {
+              "chunk_id": "c6f324ee-3640-47b4-b303-e00841c9ceae",
+              "chunk_title": "Palazzo Riso Identity",
+              "chunk_summary": "This chunk contains information about the names, aliases, translations, and regional classification of the Palazzo Riso contemporary art museum.",
+              "context_title": "Palazzo Riso",
+              "page_content": "Museo d’ Arte Contemporanea della Sicilia translates to \"RISO, Contemporary Art Museum of Sicily\". The Palazzo Riso is also known as Museo d’ Arte Contemporanea della Sicilia. The Palazzo Riso is also known as Palazzo Belmonte Riso. The Palazzo Riso is a regional contemporary art museum. The Palazzo Riso is also known as RISO."
+            },
+            {
+              "chunk_id": "38ac8086-b5ec-4cba-b967-290ae6b86403",
+              "chunk_title": "Museum Locations",
+              "chunk_summary": "This chunk contains information about the locations of museums and cultural institutions.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "Casoria Contemporary Art Museum is located in Casoria."
+            },
+            {
+              "chunk_id": "f9ab0e33-9ed1-43db-aa3d-2436f781a343",
+              "chunk_title": "Art Museums",
+              "chunk_summary": "This chunk contains information about contemporary art museums.",
+              "context_title": "Bildmuseet",
+              "page_content": "Bildmuseet is a contemporary art museum."
+            },
+            {
+              "chunk_id": "61e5fd98-f5f1-401e-a77a-cc8a726eeae7",
+              "chunk_title": "Museum on the Seam",
+              "chunk_summary": "This chunk contains information about the Museum on the Seam, a socio-political contemporary art museum located in Jerusalem, Israel.",
+              "context_title": "Museum on the Seam",
+              "page_content": "The Museum on the Seam is in Jerusalem, Israel. The Museum on the Seam is a socio-political contemporary art museum."
+            },
+            {
+              "chunk_id": "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+              "chunk_title": "Art Museums",
+              "chunk_summary": "This chunk contains information about specific art museums, including their names, locations, founding dates, and collections.",
+              "context_title": "Dordrechts Museum",
+              "page_content": "Dordrechts Museum is an art museum. Dordrechts Museum has a collection of artists. Dordrechts Museum is in Dordrecht. Dordrechts Museum was founded in 1842. The collection of artists of Dordrechts Museum spans the last 400 years."
+            },
+            {
+              "chunk_id": "7804a967-6e8f-4942-9c5f-6eeedc2a4e9e",
+              "chunk_title": "Artists & Advocacy",
+              "chunk_summary": "This chunk contains information about the identities and artistic advocacy of specific individuals.",
+              "context_title": "Casoria Contemporary Art Museum",
+              "page_content": "Antonio Manfredi is an advocate of international contemporary art. Antonio Manfredi is a local artist."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the Leverian Collection first established or publicly displayed (e.g., at the Holophusikon)?",
+          "answer": "1775",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the Leverian Collection first established or publicly displayed (e.g., at the Holophusikon)?",
+          "planner_rationale": "Leverian Collection 的最早可验证时间点（1775 年首次公开展出）已成功获取，证据充分（Critic healthy），可用于与 N1_1 比较。",
+          "solver_judgment": "question 要求确认 Leverian Collection 首次建立或公开展出的时间。search_query 直接搜索了该问题。chunks 返回了相关信息：chunk 16dad69d 指出 'The Leverian collection was at the Holophusikon from 1775 to 1786'，而 chunk c8708803 补充说明 'The first public location of the Leverian collection was the Holophusikon'。结合两者可知，该收藏于 1775 年在 Holophusikon 首次公开展出。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk 均来自同一文档（Leverian collection）。chunk [16dad69d-1e0f-451a-8cb8-2ccf77772b0d] 明确记载 'The Leverian collection was at the Holophusikon from 1775 to 1786'，chunk [c8708803-3b3d-407c-a860-2b1df00fb34d] 补充 'The first public location of the Leverian collection was the Holophusikon'。两者结合可推断 1775 年为首次公开展出时间。交叉验证：单文档内多 chunk 一致。注意：1775 年是首次公开展出时间而非严格意义上的 'founded' 年份，但 KB 中无更明确的创立日期，此代理值可用于比较。",
+          "critic_normative_advice": "建议 INHERIT——证据充分。1775 年作为首次公开展出时间是 KB 中可获取的最早可验证时间点，可用于与 N1_1 的 2005 年进行比较。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+            "c8708803-3b3d-407c-a860-2b1df00fb34d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+              "chunk_title": "Locations & Timelines",
+              "chunk_summary": "This chunk contains information about the specific geographical locations and historical timelines of exhibits or institutions, detailing their placement within cities and countries as well as their operational periods.",
+              "context_title": "Leverian collection",
+              "page_content": "The Holophusikon was located at Leicester House. The Leverian collection was at the Holophusikon from 1775 to 1786. Leicester House was on Leicester Square. Leicester Square is in London, England."
+            },
+            {
+              "chunk_id": "c8708803-3b3d-407c-a860-2b1df00fb34d",
+              "chunk_title": "Leverian Collection History",
+              "chunk_summary": "This chunk contains information about the history of the Leverian collection, including its assembly by Ashton Lever, contents from Captain Cook's voyages, exhibition locations in London, and eventual auction.",
+              "context_title": "Leverian collection",
+              "page_content": "The Leverian collection was broken up by auction in 1806. The Leverian collection was on display in London for three decades. The first public location of the Leverian collection was the Holophusikon. When the Leverian collection was displayed near the south end of Blackfriars Bridge, it was often known as the Museum Leverianum. The Leverian collection was noted in particular for the content it acquired from the voyages of Captain James Cook. After passing from Ashton Lever's ownership, the Leverian collection was displayed for nearly 20 years more near the south end of Blackfriars Bridge. The Leverian collection passed from Ashton Lever's ownership. The Leverian collection was assembled by Ashton Lever."
+            },
+            {
+              "chunk_id": "9227f642-7ac4-4e2d-aaa0-c1a7b5bc73b4",
+              "chunk_title": "Historical Collections",
+              "chunk_summary": "This chunk contains information about the nature and scope of historical collections, specifically focusing on natural history and ethnographic artifacts.",
+              "context_title": "Leverian collection",
+              "page_content": "The Leverian collection was a natural history and ethnographic collection."
+            },
+            {
+              "chunk_id": "cc138e02-42d6-44b4-bf3d-7efcab2cf235",
+              "chunk_title": "Alternative Names & Spellings",
+              "chunk_summary": "This chunk contains information about alternative names or spelling variations for specific terms or entities.",
+              "context_title": "Leverian collection",
+              "page_content": "The Holophusikon is also known as the Holophusicon. The Holophusikon is also known as the Leverian Museum."
+            },
+            {
+              "chunk_id": "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+              "chunk_title": "Art Museums",
+              "chunk_summary": "This chunk contains information about specific art museums, including their names, locations, founding dates, and collections.",
+              "context_title": "Dordrechts Museum",
+              "page_content": "Dordrechts Museum is an art museum. Dordrechts Museum has a collection of artists. Dordrechts Museum is in Dordrecht. Dordrechts Museum was founded in 1842. The collection of artists of Dordrechts Museum spans the last 400 years."
+            },
+            {
+              "chunk_id": "46987883-a958-4438-a030-3ced55117533",
+              "chunk_title": "Birth & Death Dates",
+              "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+              "context_title": "Robert W. Levering",
+              "page_content": "Robert Woodrow Levering was born on October 3, 1914. Robert Woodrow Levering died on August 11, 1989."
+            },
+            {
+              "chunk_id": "d98b1b9a-b133-477f-87cf-4d847729a665",
+              "chunk_title": "Museum Fodor Overview",
+              "chunk_summary": "This chunk contains information about the former art museum Museum Fodor, including its history, location in Amsterdam, founding and dissolution dates, collection details, and current management.",
+              "context_title": "Museum Fodor",
+              "page_content": "Museum Fodor was dissolved in 1993. Fodor's collection is now managed by the Amsterdam Museum. Museum Fodor was opened in 1863. Museum Fodor displayed Fodor's art collection. Museum Fodor is a former art museum. Museum Fodor was located in the building that currently houses the Foam Fotografiemuseum Amsterdam. Museum Fodor was located in the Netherlands. Museum Fodor was founded following the death of Fodor. Museum Fodor was located in Amsterdam. Museum Fodor was located at the Keizersgracht."
+            },
+            {
+              "chunk_id": "c57c91b2-5245-45f5-a3e8-4af965bbf958",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of historical figures.",
+              "context_title": "André Provana de Leyni",
+              "page_content": "André Provana de Leyni was born in 1511."
+            },
+            {
+              "chunk_id": "ad6168b2-376b-4fba-97b0-2f9647f851d9",
+              "chunk_title": "Manuscript Locations",
+              "chunk_summary": "This chunk contains information about the location and custody of historical manuscripts.",
+              "context_title": "Ieuan ab Owain Glyndŵr",
+              "page_content": "The original \"Peniarth Manuscript 287\" is kept at the National Library of Wales, Aberystwyth. The original \"Harley 1969\" manuscript is kept at the British Library."
+            },
+            {
+              "chunk_id": "466496e2-664b-460d-a64e-32ddd427b20d",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date and time when Christine Collister first came to public attention.",
+              "context_title": "Christine Collister",
+              "page_content": "Christine Collister first came to public attention in 1986."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was Casoria Contemporary Art Museum founded?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "9ee76d00-37a3-4197-831d-777e76ec34ef",
+        "47ee80ad-10c5-47a2-9330-e78a968c2988",
+        "f37eaeeb-edfc-48c3-8be3-67c08b025303",
+        "31495f4b-8d6e-4c4d-a022-9b2b8f3daf0e",
+        "c6f324ee-3640-47b4-b303-e00841c9ceae",
+        "38ac8086-b5ec-4cba-b967-290ae6b86403",
+        "f9ab0e33-9ed1-43db-aa3d-2436f781a343",
+        "61e5fd98-f5f1-401e-a77a-cc8a726eeae7",
+        "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+        "7804a967-6e8f-4942-9c5f-6eeedc2a4e9e"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was Leverian Collection founded?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "c8708803-3b3d-407c-a860-2b1df00fb34d",
+        "9227f642-7ac4-4e2d-aaa0-c1a7b5bc73b4",
+        "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+        "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+        "cc138e02-42d6-44b4-bf3d-7efcab2cf235",
+        "46987883-a958-4438-a030-3ced55117533",
+        "c57c91b2-5245-45f5-a3e8-4af965bbf958",
+        "61889243-2ea9-41a1-8707-9af04ba8ed0e",
+        "d98b1b9a-b133-477f-87cf-4d847729a665",
+        "f20e28ba-59c0-448d-a359-5b3a285cc40d"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "When was the Leverian Collection first established or publicly displayed (e.g., at the Holophusikon)?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+        "c8708803-3b3d-407c-a860-2b1df00fb34d",
+        "9227f642-7ac4-4e2d-aaa0-c1a7b5bc73b4",
+        "cc138e02-42d6-44b4-bf3d-7efcab2cf235",
+        "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+        "46987883-a958-4438-a030-3ced55117533",
+        "d98b1b9a-b133-477f-87cf-4d847729a665",
+        "c57c91b2-5245-45f5-a3e8-4af965bbf958",
+        "ad6168b2-376b-4fba-97b0-2f9647f851d9",
+        "466496e2-664b-460d-a64e-32ddd427b20d"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Casoria Contemporary Art Museum founded?（理由：Q 是比较两个博物馆创立时间的先后，需先获取第一个博物馆的创立年份），F2: When was Leverian Collection founded?（理由：同理，需获取第二个博物馆的创立年份）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系——两者都是关于不同实体的独立事实查询，获得两个年份后即可直接比较得出 Q 的答案。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个比较型问题（'which was founded first, A or B?'），其核心语义需求是获取 A 和 B 各自的创立时间。因此创建两个独立的子节点分别探测两个博物馆的创立年份，均作为根节点的 decomposition 子节点。无 dependency 边——两个子问题互不依赖。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 的 critic_health 为 needs_verification（未找到明确创立年份），N0 的 critic_health 也为 needs_verification（推理链不完整）。条件②通过：两条 decomposition 路径语义有效，无依赖链断裂。条件①未满足：N1_2 状态为 unsolved。需等待 N1_2 求解或采用替代策略后再评估终止。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Casoria Contemporary Art Museum founded?（理由：Q 是比较两个博物馆创立时间先后的问题，需先获取第一个博物馆的创立年份），F2: When was the Leverian Collection first established or publicly displayed?（理由：同理，需获取第二个博物馆/收藏的最早可验证时间点，用于与 F1 比较）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系——两者都是关于不同实体的独立事实查询，获得两个年份后即可直接比较得出 Q 的答案。",
+      "hypothesis_delta": "保留: N0（根节点），原因：根节点永远存在，更新 rationale 反映当前进度（N1_1 已解，等待 N1_2）。保留: N1_1（question=\"When was Casoria Contemporary Art Museum founded?\"），原因：已 SOLVED + Critic healthy，证据充分（chunk 明确记载 founded in 2005），无需调整。换标: N1_2 question 从 \"When was Leverian Collection founded?\" 改为 \"When was the Leverian Collection first established or publicly displayed (e.g., at the Holophusikon)?\"，原因：上一轮搜索未返回明确创立年份，Critic 指出 KB 中有 1775 年 Holophusikon 展出记录但无 'founded' 表述，换更宽泛的探测角度以捕获最早可验证时间点。保留边: N0→N1_1（decomposition）和 N0→N1_2（dec",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（N1_2 被删除后重新新增，question 表述调整）。虽然条件①②③均满足（所有非根节点 SOLVED、推理链语义匹配、全部节点 healthy），但条件④要求拓扑稳定，本轮未满足。建议下轮保持拓扑不变以通过条件④。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Casoria Contemporary Art Museum founded?（理由：Q 是比较两个博物馆创立时间先后的问题，需先获取第一个博物馆的创立年份），F2: When was the Leverian Collection first established or publicly displayed?（理由：同理，需获取第二个博物馆/收藏的最早可验证时间点，用于与 F1 比较）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系——两者都是关于不同实体的独立事实查询，获得两个年份后即可直接比较得出 Q 的答案。当前 DAG 已完全覆盖此结构，两个子节点均已 SOLVED + healthy，推理链完整。",
+      "hypothesis_delta": "保留: N0（根节点），原因：根节点永远存在，更新 rationale 反映当前进度——两个子节点均已 SOLVED，推理链完整（1775 < 2005 → Leverian Collection 更早）。保留: N1_1（question=\"When was Casoria Contemporary Art Museum founded?\"），原因：已 SOLVED + Critic healthy，证据充分（chunk 明确记载 founded in 2005），无需调整。保留: N1_2（question=\"When was the Leverian Collection first established or publicly displayed (e.g., at the Holophusikon)?\"），原因：已 SOLVED + Critic healthy，证据充分（两个 chunk 一致指向 1775 年首次公开展出），无需调整。显式 LINK: N0→N1_1（decomposition）和 N0→N1_2（decomposition），原因：系统要求显式声明保留",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未完全满足：本轮是首次出现拓扑不变（节点集、questions、边集均未变化），但条件④要求连续 2 轮拓扑快照相同，需下一轮确认。条件①②③均已满足：所有非根节点 SOLVED，推理链语义有效（N0→N1_1 和 N0→N1_2 的 decomposition 边语义成立），所有节点 healthy。若下一轮拓扑继续保持不变，则四条件全满足，可终止。"
+      }
+    }
+  ]
+}

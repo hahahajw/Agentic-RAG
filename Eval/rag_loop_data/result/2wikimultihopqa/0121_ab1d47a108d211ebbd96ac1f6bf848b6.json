@@ -1,0 +1,679 @@
+{
+  "question_index": 121,
+  "question_id": "ab1d47a108d211ebbd96ac1f6bf848b6",
+  "question": "Are both Caracu River and South Fork Rogue River located in the same country?",
+  "answer": "no",
+  "prediction": "no",
+  "error": null,
+  "latency_ms": 237027.53120000125,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T07:36:25.440778+00:00",
+  "chunks": [
+    {
+      "chunk_id": "a537d34d-370e-4112-b7b3-8644aba5b30c",
+      "chunk_title": "Rivers & Locations",
+      "chunk_summary": "This chunk contains information about rivers and their locations.",
+      "context_title": "Caracu River",
+      "page_content": "The Caracu River is a river of Paraná state."
+    },
+    {
+      "chunk_id": "3166bf4b-022b-4a9d-9c61-917e777ceaca",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of states or regions.",
+      "context_title": "Caracu River",
+      "page_content": "Paraná state is in southern Brazil."
+    },
+    {
+      "chunk_id": "75fa2082-4276-42e7-b059-1e69bd7ce6db",
+      "chunk_title": "Municipalities & Locations",
+      "chunk_summary": "This chunk contains information about specific municipalities, including their names and locations within states and regions.",
+      "context_title": "São João da Mata",
+      "page_content": "São João da Mata is a municipality. São João da Mata is in the state of Minas Gerais. Minas Gerais is in the Southeast region of Brazil."
+    },
+    {
+      "chunk_id": "4901d452-f72a-4eeb-8063-6806797b8a2c",
+      "chunk_title": "School Locations",
+      "chunk_summary": "This chunk contains information about the locations of schools.",
+      "context_title": "Jesús Rosas Marcano",
+      "page_content": "The Rural School Caurimare is located in east Caracas."
+    },
+    {
+      "chunk_id": "03462e78-df0b-449a-ae9a-726060d0241d",
+      "chunk_title": "Indigenous Leaders",
+      "chunk_summary": "This chunk contains information about historical indigenous leaders and their roles in specific regions.",
+      "context_title": "Paccha Duchicela",
+      "page_content": "Cacha Duchicela was the Puruhá chief of Quito in Ecuador."
+    },
+    {
+      "chunk_id": "c0037774-a19a-4dd0-b2f2-c9125af0fa02",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of indigenous groups or civilizations.",
+      "context_title": "Quilago",
+      "page_content": "The Cochasquí were located around the city of Tabacundo in Ecuador."
+    },
+    {
+      "chunk_id": "0d367d28-9fe5-47bf-a04d-2461d6860634",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of regions within countries.",
+      "context_title": "Alexios Komnenos (son of Andronikos I)",
+      "page_content": "Kakhetia is in the east of Georgia."
+    },
+    {
+      "chunk_id": "ddb1e72f-fd50-4673-bb2e-bd43875d3ea8",
+      "chunk_title": "Birth & Death Locations",
+      "chunk_summary": "This chunk contains information about the birth and death locations of individuals.",
+      "context_title": "Enrique Caravia Montenegro",
+      "page_content": "Enrique Caravia Montenegro died in Havana. Enrique Caravia Montenegro was born in Havana, Cuba."
+    },
+    {
+      "chunk_id": "e4bee6d9-ff23-4501-8823-f9a10e751bdd",
+      "chunk_title": "Personal Background & Profession",
+      "chunk_summary": "This chunk contains biographical details about individuals, including their birthplace, nationality, and professional roles.",
+      "context_title": "Ever Caballero",
+      "page_content": "Ever Alexis Caballero is a Paraguayan footballer. Ever Alexis Caballero plays as a goalkeeper. Ever Alexis Caballero was born in Asunción, Paraguay."
+    },
+    {
+      "chunk_id": "53309704-4e79-43b4-a6d7-9215abd5864f",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of rivers.",
+      "context_title": "Cannibal Tours",
+      "page_content": "The middle Sepik River is located in Papua New Guinea."
+    },
+    {
+      "chunk_id": "5726ffe5-1d45-4603-ba37-31894dd385f1",
+      "chunk_title": "River Geography",
+      "chunk_summary": "This chunk contains information about the geographical location, origin, flow direction, and surrounding protected areas of specific rivers and natural landmarks.",
+      "context_title": "South Fork Rogue River",
+      "page_content": "The Sky Lakes Wilderness is in the Cascade Range. The South Fork Rogue River flows generally northeast. The South Fork Rogue River is in the U.S. state of Oregon. The South Fork Rogue River rises in the Sky Lakes Wilderness. The South Fork Rogue River flows through the Rogue River – Siskiyou National Forest."
+    },
+    {
+      "chunk_id": "5a28cc1f-5b3c-4e3f-b622-91505f80106a",
+      "chunk_title": "Rogue River Geography",
+      "chunk_summary": "This chunk contains information about the geographical characteristics, flow path, tributaries, communities along, and conservation designations of the Rogue River.",
+      "context_title": "Course of the Rogue River (Oregon)",
+      "page_content": "The Rogue River flows to the Pacific Ocean at Gold Beach. The Rogue River flows through the Rogue River – Siskiyou National Forest. Gold Beach is a community along the course of the Rogue River. The Rogue River arises at an elevation above sea level. The Rogue River loses elevation by the time it reaches the Pacific Ocean. The Rogue River flows through the Klamath Mountains. Agness is a community along the course of the Rogue River. Trail is a community along the course of the Rogue River. Part of the upper Rogue River is designated as National Wild and Scenic River. The Rogue River flows generally west from the Cascade Range. Prospect is a community along the course of the Rogue River. The South Fork Rogue River is a significant tributary of the Rogue River. Rogue River is a community along the course of the Rogue River. Shady Cove is a community along the course of the Rogue River. About 58 percent of the Rogue River's total length is designated as National Wild and Scenic River. Bear Creek is a significant tributary of the Rogue River. Elk Creek is a significant tributary of the Rogue River. The Rogue River is one of only three rivers that start in or east of the Cascade Mountain Range in Oregon and reach the Pacific Ocean. Part of the lower Rogue River is designated as National Wild and Scenic River. Galice is a community along the course of the Rogue River. Gold Hill is a community along the course of the Rogue River. Wedderburn is a community along the course of the Rogue River. Grants Pass is a community along the course of the Rogue River. The Rogue River is in the U.S. state of Oregon. Union Creek is a community along the course of the Rogue River. The Rogue River begins at Boundary Springs. The Illinois River is a significant tributary of the Rogue River. The Applegate River is a significant tributary of the Rogue River."
+    },
+    {
+      "chunk_id": "10655758-145d-4f34-871e-f6ebfd4ccfa4",
+      "chunk_title": "Middle Fork Rogue River Geography",
+      "chunk_summary": "This chunk contains information about the geographical location, origin, flow characteristics, and confluence of the Middle Fork Rogue River in Oregon.",
+      "context_title": "Middle Fork Rogue River",
+      "page_content": "The Middle Fork Rogue River begins in the Sky Lakes Wilderness. The Middle Fork Rogue River is in the U.S. state of Oregon. The Middle Fork Rogue River enters the South Fork Rogue River about from the South Fork's confluence with the Rogue River. The Middle Fork Rogue River flows generally northwest. The Middle Fork Rogue River flows through the Rogue River – Siskiyou National Forest. The Middle Fork Rogue River meets the South Fork Rogue River south of Prospect. The Middle Fork Rogue River begins in Klamath County."
+    },
+    {
+      "chunk_id": "4f900feb-dbc0-4745-bb1d-0077c38e85ac",
+      "chunk_title": "River Tributaries & Confluences",
+      "chunk_summary": "This chunk contains information about river tributaries, their confluence points relative to landmarks, and their relationships to main rivers.",
+      "context_title": "South Fork Rogue River",
+      "page_content": "The South Fork Rogue River meets the Rogue River slightly upstream of Lost Creek Lake. The South Fork Rogue River is a tributary of the Rogue River. The South Fork Rogue River meets the Rogue River downstream of Prospect."
+    },
+    {
+      "chunk_id": "101f8c16-90c2-4783-923f-a5334d34f601",
+      "chunk_title": "Southern Oregon Rivers",
+      "chunk_summary": "This chunk contains information about Southern Oregon rivers, specifically their geographic origins in or east of the Cascade Mountain Range, their drainage of mountains south of the Willamette Valley, and their destinations at the Pacific Ocean.",
+      "context_title": "Course of the Rogue River (Oregon)",
+      "page_content": "The Umpqua River starts in or east of the Cascade Mountain Range in Oregon and reaches the Pacific Ocean. The Klamath River starts in or east of the Cascade Mountain Range in Oregon and reaches the Pacific Ocean. The Rogue River, the Umpqua River, and the Klamath River are Southern Oregon rivers. The Rogue River, the Umpqua River, and the Klamath River drain the mountains south of the Willamette Valley."
+    },
+    {
+      "chunk_id": "6ee10ab7-5241-4c24-93f5-46dba18d0902",
+      "chunk_title": "South Fork Spring River Geography",
+      "chunk_summary": "This chunk contains information about the geographical location, physical features, and watershed classification of the South Fork Spring River.",
+      "context_title": "South Fork Spring River",
+      "page_content": "The South Fork Spring River is located in southern Missouri. The source of the South Fork Spring River is southwest of West Plains. The source of the South Fork Spring River is northeast of the unincorporated community of South Fork. The South Fork Spring River is located in the United States. The South Fork Spring River is part of the Spring River Tributaries Watershed. The South Fork Spring River flows through the Salem Plateau of the Ozarks. The South Fork Spring River is located in northern Arkansas. The South Fork Spring River rises in Howell County. The South Fork Spring River flows generally southeast from Howell County. The South Fork Spring River flows through Fulton County."
+    },
+    {
+      "chunk_id": "264810c5-1f62-45d8-abf0-f26bec894b1a",
+      "chunk_title": "River Tributaries",
+      "chunk_summary": "This chunk contains information about river tributaries and their relationships to parent rivers.",
+      "context_title": "Middle Fork Rogue River",
+      "page_content": "The Middle Fork Rogue River is a tributary of the South Fork Rogue River."
+    },
+    {
+      "chunk_id": "c0b32471-a618-4731-9060-8416c873bd05",
+      "chunk_title": "Oregon Locations & Counties",
+      "chunk_summary": "This chunk contains information about the geographical locations and county affiliations of specific places in Oregon, including those near Crater Lake National Park and along the Rogue River; add further details about Oregon place names and their respective counties.",
+      "context_title": "Course of the Rogue River (Oregon)",
+      "page_content": "Shady Cove is in Jackson County. Trail is in Jackson County. Gold Beach is in Curry County. Gold Hill is in Jackson County. Rogue River (community) is in Jackson County. Boundary Springs is on the border between Klamath County and Douglas County. Union Creek is in Jackson County. Grants Pass is in Josephine County. Galice is in Josephine County. Boundary Springs is near the northern edge of Crater Lake National Park. Prospect is in Jackson County. Wedderburn is in Curry County. Agness is in Curry County."
+    },
+    {
+      "chunk_id": "851ee89f-08a2-4bd0-8b6e-da3e39229822",
+      "chunk_title": "South Fork Spring River",
+      "chunk_summary": "This chunk contains information about the naming conventions, tributary relationships, and confluence locations of the South Fork Spring River.",
+      "context_title": "South Fork Spring River",
+      "page_content": "The South Fork Spring River is commonly known as the South Fork River. The confluence of the South Fork Spring River and the Spring River is west of Hardy. The South Fork Spring River is a tributary of the Spring River. The South Fork Spring River joins with the Spring River in Sharp County. The South Fork Spring River is commonly known as the South Fork of the Spring River."
+    },
+    {
+      "chunk_id": "f6652469-dbdb-4239-b8f3-977c7b5660cd",
+      "chunk_title": "River Dimensions & Characteristics",
+      "chunk_summary": "This chunk contains information about the physical dimensions and characteristics of rivers.",
+      "context_title": "South Fork Spring River",
+      "page_content": "The South Fork Spring River is roughly long."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 13,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are both Caracu River and South Fork Rogue River located in the same country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both Caracu River and South Fork Rogue River located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问两条河流是否位于同一国家",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 answer=Brazil，N1_2 answer=United States。两条河流位于不同国家，推理链完整且一致。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，答案可直接合成：Brazil ≠ United States → No。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is Caracu River located in?",
+          "answer": "Brazil",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Caracu River located in?",
+          "planner_rationale": "Q 询问两条河流是否位于同一国家，需要先确定 Caracu River 所在的国家",
+          "solver_judgment": "Question asks for the country where Caracu River is located. Search query matches the question. Chunk a537d34d-370e-4112-b7b3-8644aba5b30c states 'The Caracu River is a river of Paraná state.' Chunk 3166bf4b-022b-4a9d-9c61-917e777ceaca states 'Paraná state is in southern Brazil.' Combining these two chunks confirms the river is in Brazil. The retrieval is precise and complete.",
+          "critic_factual_notes": "2 个来源，均来自同一文档 'Caracu River'（非独立来源）。Chunk a537d34d 陈述 'The Caracu River is a river of Paraná state.'，Chunk 3166bf4b 陈述 'Paraná state is in southern Brazil.'。两个 chunk 形成完整推理链：Caracu River → Paraná state → Brazil。单来源但直接、具体地支撑答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，推理链清晰，答案 Brazil 得到直接支撑。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a537d34d-370e-4112-b7b3-8644aba5b30c",
+            "3166bf4b-022b-4a9d-9c61-917e777ceaca"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a537d34d-370e-4112-b7b3-8644aba5b30c",
+              "chunk_title": "Rivers & Locations",
+              "chunk_summary": "This chunk contains information about rivers and their locations.",
+              "context_title": "Caracu River",
+              "page_content": "The Caracu River is a river of Paraná state."
+            },
+            {
+              "chunk_id": "3166bf4b-022b-4a9d-9c61-917e777ceaca",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of states or regions.",
+              "context_title": "Caracu River",
+              "page_content": "Paraná state is in southern Brazil."
+            },
+            {
+              "chunk_id": "75fa2082-4276-42e7-b059-1e69bd7ce6db",
+              "chunk_title": "Municipalities & Locations",
+              "chunk_summary": "This chunk contains information about specific municipalities, including their names and locations within states and regions.",
+              "context_title": "São João da Mata",
+              "page_content": "São João da Mata is a municipality. São João da Mata is in the state of Minas Gerais. Minas Gerais is in the Southeast region of Brazil."
+            },
+            {
+              "chunk_id": "4901d452-f72a-4eeb-8063-6806797b8a2c",
+              "chunk_title": "School Locations",
+              "chunk_summary": "This chunk contains information about the locations of schools.",
+              "context_title": "Jesús Rosas Marcano",
+              "page_content": "The Rural School Caurimare is located in east Caracas."
+            },
+            {
+              "chunk_id": "03462e78-df0b-449a-ae9a-726060d0241d",
+              "chunk_title": "Indigenous Leaders",
+              "chunk_summary": "This chunk contains information about historical indigenous leaders and their roles in specific regions.",
+              "context_title": "Paccha Duchicela",
+              "page_content": "Cacha Duchicela was the Puruhá chief of Quito in Ecuador."
+            },
+            {
+              "chunk_id": "c0037774-a19a-4dd0-b2f2-c9125af0fa02",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of indigenous groups or civilizations.",
+              "context_title": "Quilago",
+              "page_content": "The Cochasquí were located around the city of Tabacundo in Ecuador."
+            },
+            {
+              "chunk_id": "0d367d28-9fe5-47bf-a04d-2461d6860634",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of regions within countries.",
+              "context_title": "Alexios Komnenos (son of Andronikos I)",
+              "page_content": "Kakhetia is in the east of Georgia."
+            },
+            {
+              "chunk_id": "ddb1e72f-fd50-4673-bb2e-bd43875d3ea8",
+              "chunk_title": "Birth & Death Locations",
+              "chunk_summary": "This chunk contains information about the birth and death locations of individuals.",
+              "context_title": "Enrique Caravia Montenegro",
+              "page_content": "Enrique Caravia Montenegro died in Havana. Enrique Caravia Montenegro was born in Havana, Cuba."
+            },
+            {
+              "chunk_id": "e4bee6d9-ff23-4501-8823-f9a10e751bdd",
+              "chunk_title": "Personal Background & Profession",
+              "chunk_summary": "This chunk contains biographical details about individuals, including their birthplace, nationality, and professional roles.",
+              "context_title": "Ever Caballero",
+              "page_content": "Ever Alexis Caballero is a Paraguayan footballer. Ever Alexis Caballero plays as a goalkeeper. Ever Alexis Caballero was born in Asunción, Paraguay."
+            },
+            {
+              "chunk_id": "53309704-4e79-43b4-a6d7-9215abd5864f",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of rivers.",
+              "context_title": "Cannibal Tours",
+              "page_content": "The middle Sepik River is located in Papua New Guinea."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is South Fork Rogue River located in?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is South Fork Rogue River located in?",
+          "planner_rationale": "Q 询问两条河流是否位于同一国家，需要先确定 South Fork Rogue River 所在的国家",
+          "solver_judgment": "Question asks for the country where the South Fork Rogue River is located. The search query matches the question exactly. Chunk 5726ffe5-1d45-4603-ba37-31894dd385f1 explicitly states 'The South Fork Rogue River is in the U.S. state of Oregon', which directly identifies the country as the United States. The retrieval is precise and provides the complete answer.",
+          "critic_factual_notes": "1 个来源（文档 'South Fork Rogue River'）。Chunk 5726ffe5 明确陈述 'The South Fork Rogue River is in the U.S. state of Oregon'。单来源但直接、具体地指出该河流位于美国俄勒冈州，答案 United States 得到直接支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案 United States 得到直接支撑。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5726ffe5-1d45-4603-ba37-31894dd385f1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5726ffe5-1d45-4603-ba37-31894dd385f1",
+              "chunk_title": "River Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, origin, flow direction, and surrounding protected areas of specific rivers and natural landmarks.",
+              "context_title": "South Fork Rogue River",
+              "page_content": "The Sky Lakes Wilderness is in the Cascade Range. The South Fork Rogue River flows generally northeast. The South Fork Rogue River is in the U.S. state of Oregon. The South Fork Rogue River rises in the Sky Lakes Wilderness. The South Fork Rogue River flows through the Rogue River – Siskiyou National Forest."
+            },
+            {
+              "chunk_id": "5a28cc1f-5b3c-4e3f-b622-91505f80106a",
+              "chunk_title": "Rogue River Geography",
+              "chunk_summary": "This chunk contains information about the geographical characteristics, flow path, tributaries, communities along, and conservation designations of the Rogue River.",
+              "context_title": "Course of the Rogue River (Oregon)",
+              "page_content": "The Rogue River flows to the Pacific Ocean at Gold Beach. The Rogue River flows through the Rogue River – Siskiyou National Forest. Gold Beach is a community along the course of the Rogue River. The Rogue River arises at an elevation above sea level. The Rogue River loses elevation by the time it reaches the Pacific Ocean. The Rogue River flows through the Klamath Mountains. Agness is a community along the course of the Rogue River. Trail is a community along the course of the Rogue River. Part of the upper Rogue River is designated as National Wild and Scenic River. The Rogue River flows generally west from the Cascade Range. Prospect is a community along the course of the Rogue River. The South Fork Rogue River is a significant tributary of the Rogue River. Rogue River is a community along the course of the Rogue River. Shady Cove is a community along the course of the Rogue River. About 58 percent of the Rogue River's total length is designated as National Wild and Scenic River. Bear Creek is a significant tributary of the Rogue River. Elk Creek is a significant tributary of the Rogue River. The Rogue River is one of only three rivers that start in or east of the Cascade Mountain Range in Oregon and reach the Pacific Ocean. Part of the lower Rogue River is designated as National Wild and Scenic River. Galice is a community along the course of the Rogue River. Gold Hill is a community along the course of the Rogue River. Wedderburn is a community along the course of the Rogue River. Grants Pass is a community along the course of the Rogue River. The Rogue River is in the U.S. state of Oregon. Union Creek is a community along the course of the Rogue River. The Rogue River begins at Boundary Springs. The Illinois River is a significant tributary of the Rogue River. The Applegate River is a significant tributary of the Rogue River."
+            },
+            {
+              "chunk_id": "10655758-145d-4f34-871e-f6ebfd4ccfa4",
+              "chunk_title": "Middle Fork Rogue River Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, origin, flow characteristics, and confluence of the Middle Fork Rogue River in Oregon.",
+              "context_title": "Middle Fork Rogue River",
+              "page_content": "The Middle Fork Rogue River begins in the Sky Lakes Wilderness. The Middle Fork Rogue River is in the U.S. state of Oregon. The Middle Fork Rogue River enters the South Fork Rogue River about from the South Fork's confluence with the Rogue River. The Middle Fork Rogue River flows generally northwest. The Middle Fork Rogue River flows through the Rogue River – Siskiyou National Forest. The Middle Fork Rogue River meets the South Fork Rogue River south of Prospect. The Middle Fork Rogue River begins in Klamath County."
+            },
+            {
+              "chunk_id": "4f900feb-dbc0-4745-bb1d-0077c38e85ac",
+              "chunk_title": "River Tributaries & Confluences",
+              "chunk_summary": "This chunk contains information about river tributaries, their confluence points relative to landmarks, and their relationships to main rivers.",
+              "context_title": "South Fork Rogue River",
+              "page_content": "The South Fork Rogue River meets the Rogue River slightly upstream of Lost Creek Lake. The South Fork Rogue River is a tributary of the Rogue River. The South Fork Rogue River meets the Rogue River downstream of Prospect."
+            },
+            {
+              "chunk_id": "101f8c16-90c2-4783-923f-a5334d34f601",
+              "chunk_title": "Southern Oregon Rivers",
+              "chunk_summary": "This chunk contains information about Southern Oregon rivers, specifically their geographic origins in or east of the Cascade Mountain Range, their drainage of mountains south of the Willamette Valley, and their destinations at the Pacific Ocean.",
+              "context_title": "Course of the Rogue River (Oregon)",
+              "page_content": "The Umpqua River starts in or east of the Cascade Mountain Range in Oregon and reaches the Pacific Ocean. The Klamath River starts in or east of the Cascade Mountain Range in Oregon and reaches the Pacific Ocean. The Rogue River, the Umpqua River, and the Klamath River are Southern Oregon rivers. The Rogue River, the Umpqua River, and the Klamath River drain the mountains south of the Willamette Valley."
+            },
+            {
+              "chunk_id": "6ee10ab7-5241-4c24-93f5-46dba18d0902",
+              "chunk_title": "South Fork Spring River Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, physical features, and watershed classification of the South Fork Spring River.",
+              "context_title": "South Fork Spring River",
+              "page_content": "The South Fork Spring River is located in southern Missouri. The source of the South Fork Spring River is southwest of West Plains. The source of the South Fork Spring River is northeast of the unincorporated community of South Fork. The South Fork Spring River is located in the United States. The South Fork Spring River is part of the Spring River Tributaries Watershed. The South Fork Spring River flows through the Salem Plateau of the Ozarks. The South Fork Spring River is located in northern Arkansas. The South Fork Spring River rises in Howell County. The South Fork Spring River flows generally southeast from Howell County. The South Fork Spring River flows through Fulton County."
+            },
+            {
+              "chunk_id": "264810c5-1f62-45d8-abf0-f26bec894b1a",
+              "chunk_title": "River Tributaries",
+              "chunk_summary": "This chunk contains information about river tributaries and their relationships to parent rivers.",
+              "context_title": "Middle Fork Rogue River",
+              "page_content": "The Middle Fork Rogue River is a tributary of the South Fork Rogue River."
+            },
+            {
+              "chunk_id": "c0b32471-a618-4731-9060-8416c873bd05",
+              "chunk_title": "Oregon Locations & Counties",
+              "chunk_summary": "This chunk contains information about the geographical locations and county affiliations of specific places in Oregon, including those near Crater Lake National Park and along the Rogue River; add further details about Oregon place names and their respective counties.",
+              "context_title": "Course of the Rogue River (Oregon)",
+              "page_content": "Shady Cove is in Jackson County. Trail is in Jackson County. Gold Beach is in Curry County. Gold Hill is in Jackson County. Rogue River (community) is in Jackson County. Boundary Springs is on the border between Klamath County and Douglas County. Union Creek is in Jackson County. Grants Pass is in Josephine County. Galice is in Josephine County. Boundary Springs is near the northern edge of Crater Lake National Park. Prospect is in Jackson County. Wedderburn is in Curry County. Agness is in Curry County."
+            },
+            {
+              "chunk_id": "851ee89f-08a2-4bd0-8b6e-da3e39229822",
+              "chunk_title": "South Fork Spring River",
+              "chunk_summary": "This chunk contains information about the naming conventions, tributary relationships, and confluence locations of the South Fork Spring River.",
+              "context_title": "South Fork Spring River",
+              "page_content": "The South Fork Spring River is commonly known as the South Fork River. The confluence of the South Fork Spring River and the Spring River is west of Hardy. The South Fork Spring River is a tributary of the Spring River. The South Fork Spring River joins with the Spring River in Sharp County. The South Fork Spring River is commonly known as the South Fork of the Spring River."
+            },
+            {
+              "chunk_id": "f6652469-dbdb-4239-b8f3-977c7b5660cd",
+              "chunk_title": "River Dimensions & Characteristics",
+              "chunk_summary": "This chunk contains information about the physical dimensions and characteristics of rivers.",
+              "context_title": "South Fork Spring River",
+              "page_content": "The South Fork Spring River is roughly long."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are both Caracu River and South Fork Rogue River located in the same country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both Caracu River and South Fork Rogue River located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 answer=Brazil，N1_2 answer=United States。Brazil ≠ United States，推理链完整，可直接合成答案 No。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 answer=Brazil，N1_2 answer=United States。两条河流位于不同国家，推理链完整且一致。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，答案可直接合成：Brazil ≠ United States → No。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is Caracu River located in?",
+          "answer": "Brazil",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Caracu River located in?",
+          "planner_rationale": "Q 询问两条河流是否位于同一国家，需确定 Caracu River 的归属国。已 SOLVED，answer=Brazil，证据链完整（Caracu River → Paraná state → Brazil），Critic 判为 healthy。",
+          "solver_judgment": "Question asks for the country where Caracu River is located. Search query matches the question. Chunk a537d34d-370e-4112-b7b3-8644aba5b30c states 'The Caracu River is a river of Paraná state.' Chunk 3166bf4b-022b-4a9d-9c61-917e777ceaca states 'Paraná state is in southern Brazil.' Combining these two chunks confirms the river is in Brazil. The retrieval is precise and complete.",
+          "critic_factual_notes": "2 个来源，均来自同一文档 'Caracu River'（非独立来源）。Chunk a537d34d 陈述 'The Caracu River is a river of Paraná state.'，Chunk 3166bf4b 陈述 'Paraná state is in southern Brazil.'。两个 chunk 形成完整推理链：Caracu River → Paraná state → Brazil。单来源但直接、具体地支撑答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，推理链清晰，答案 Brazil 得到直接支撑。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a537d34d-370e-4112-b7b3-8644aba5b30c",
+            "3166bf4b-022b-4a9d-9c61-917e777ceaca"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a537d34d-370e-4112-b7b3-8644aba5b30c",
+              "chunk_title": "Rivers & Locations",
+              "chunk_summary": "This chunk contains information about rivers and their locations.",
+              "context_title": "Caracu River",
+              "page_content": "The Caracu River is a river of Paraná state."
+            },
+            {
+              "chunk_id": "3166bf4b-022b-4a9d-9c61-917e777ceaca",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of states or regions.",
+              "context_title": "Caracu River",
+              "page_content": "Paraná state is in southern Brazil."
+            },
+            {
+              "chunk_id": "75fa2082-4276-42e7-b059-1e69bd7ce6db",
+              "chunk_title": "Municipalities & Locations",
+              "chunk_summary": "This chunk contains information about specific municipalities, including their names and locations within states and regions.",
+              "context_title": "São João da Mata",
+              "page_content": "São João da Mata is a municipality. São João da Mata is in the state of Minas Gerais. Minas Gerais is in the Southeast region of Brazil."
+            },
+            {
+              "chunk_id": "4901d452-f72a-4eeb-8063-6806797b8a2c",
+              "chunk_title": "School Locations",
+              "chunk_summary": "This chunk contains information about the locations of schools.",
+              "context_title": "Jesús Rosas Marcano",
+              "page_content": "The Rural School Caurimare is located in east Caracas."
+            },
+            {
+              "chunk_id": "03462e78-df0b-449a-ae9a-726060d0241d",
+              "chunk_title": "Indigenous Leaders",
+              "chunk_summary": "This chunk contains information about historical indigenous leaders and their roles in specific regions.",
+              "context_title": "Paccha Duchicela",
+              "page_content": "Cacha Duchicela was the Puruhá chief of Quito in Ecuador."
+            },
+            {
+              "chunk_id": "c0037774-a19a-4dd0-b2f2-c9125af0fa02",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of indigenous groups or civilizations.",
+              "context_title": "Quilago",
+              "page_content": "The Cochasquí were located around the city of Tabacundo in Ecuador."
+            },
+            {
+              "chunk_id": "0d367d28-9fe5-47bf-a04d-2461d6860634",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of regions within countries.",
+              "context_title": "Alexios Komnenos (son of Andronikos I)",
+              "page_content": "Kakhetia is in the east of Georgia."
+            },
+            {
+              "chunk_id": "ddb1e72f-fd50-4673-bb2e-bd43875d3ea8",
+              "chunk_title": "Birth & Death Locations",
+              "chunk_summary": "This chunk contains information about the birth and death locations of individuals.",
+              "context_title": "Enrique Caravia Montenegro",
+              "page_content": "Enrique Caravia Montenegro died in Havana. Enrique Caravia Montenegro was born in Havana, Cuba."
+            },
+            {
+              "chunk_id": "e4bee6d9-ff23-4501-8823-f9a10e751bdd",
+              "chunk_title": "Personal Background & Profession",
+              "chunk_summary": "This chunk contains biographical details about individuals, including their birthplace, nationality, and professional roles.",
+              "context_title": "Ever Caballero",
+              "page_content": "Ever Alexis Caballero is a Paraguayan footballer. Ever Alexis Caballero plays as a goalkeeper. Ever Alexis Caballero was born in Asunción, Paraguay."
+            },
+            {
+              "chunk_id": "53309704-4e79-43b4-a6d7-9215abd5864f",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of rivers.",
+              "context_title": "Cannibal Tours",
+              "page_content": "The middle Sepik River is located in Papua New Guinea."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is South Fork Rogue River located in?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is South Fork Rogue River located in?",
+          "planner_rationale": "Q 询问两条河流是否位于同一国家，需确定 South Fork Rogue River 的归属国。已 SOLVED，answer=United States，证据直接（South Fork Rogue River is in the U.S. state of Oregon），Critic 判为 healthy。",
+          "solver_judgment": "Question asks for the country where the South Fork Rogue River is located. The search query matches the question exactly. Chunk 5726ffe5-1d45-4603-ba37-31894dd385f1 explicitly states 'The South Fork Rogue River is in the U.S. state of Oregon', which directly identifies the country as the United States. The retrieval is precise and provides the complete answer.",
+          "critic_factual_notes": "1 个来源（文档 'South Fork Rogue River'）。Chunk 5726ffe5 明确陈述 'The South Fork Rogue River is in the U.S. state of Oregon'。单来源但直接、具体地指出该河流位于美国俄勒冈州，答案 United States 得到直接支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案 United States 得到直接支撑。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5726ffe5-1d45-4603-ba37-31894dd385f1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5726ffe5-1d45-4603-ba37-31894dd385f1",
+              "chunk_title": "River Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, origin, flow direction, and surrounding protected areas of specific rivers and natural landmarks.",
+              "context_title": "South Fork Rogue River",
+              "page_content": "The Sky Lakes Wilderness is in the Cascade Range. The South Fork Rogue River flows generally northeast. The South Fork Rogue River is in the U.S. state of Oregon. The South Fork Rogue River rises in the Sky Lakes Wilderness. The South Fork Rogue River flows through the Rogue River – Siskiyou National Forest."
+            },
+            {
+              "chunk_id": "5a28cc1f-5b3c-4e3f-b622-91505f80106a",
+              "chunk_title": "Rogue River Geography",
+              "chunk_summary": "This chunk contains information about the geographical characteristics, flow path, tributaries, communities along, and conservation designations of the Rogue River.",
+              "context_title": "Course of the Rogue River (Oregon)",
+              "page_content": "The Rogue River flows to the Pacific Ocean at Gold Beach. The Rogue River flows through the Rogue River – Siskiyou National Forest. Gold Beach is a community along the course of the Rogue River. The Rogue River arises at an elevation above sea level. The Rogue River loses elevation by the time it reaches the Pacific Ocean. The Rogue River flows through the Klamath Mountains. Agness is a community along the course of the Rogue River. Trail is a community along the course of the Rogue River. Part of the upper Rogue River is designated as National Wild and Scenic River. The Rogue River flows generally west from the Cascade Range. Prospect is a community along the course of the Rogue River. The South Fork Rogue River is a significant tributary of the Rogue River. Rogue River is a community along the course of the Rogue River. Shady Cove is a community along the course of the Rogue River. About 58 percent of the Rogue River's total length is designated as National Wild and Scenic River. Bear Creek is a significant tributary of the Rogue River. Elk Creek is a significant tributary of the Rogue River. The Rogue River is one of only three rivers that start in or east of the Cascade Mountain Range in Oregon and reach the Pacific Ocean. Part of the lower Rogue River is designated as National Wild and Scenic River. Galice is a community along the course of the Rogue River. Gold Hill is a community along the course of the Rogue River. Wedderburn is a community along the course of the Rogue River. Grants Pass is a community along the course of the Rogue River. The Rogue River is in the U.S. state of Oregon. Union Creek is a community along the course of the Rogue River. The Rogue River begins at Boundary Springs. The Illinois River is a significant tributary of the Rogue River. The Applegate River is a significant tributary of the Rogue River."
+            },
+            {
+              "chunk_id": "10655758-145d-4f34-871e-f6ebfd4ccfa4",
+              "chunk_title": "Middle Fork Rogue River Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, origin, flow characteristics, and confluence of the Middle Fork Rogue River in Oregon.",
+              "context_title": "Middle Fork Rogue River",
+              "page_content": "The Middle Fork Rogue River begins in the Sky Lakes Wilderness. The Middle Fork Rogue River is in the U.S. state of Oregon. The Middle Fork Rogue River enters the South Fork Rogue River about from the South Fork's confluence with the Rogue River. The Middle Fork Rogue River flows generally northwest. The Middle Fork Rogue River flows through the Rogue River – Siskiyou National Forest. The Middle Fork Rogue River meets the South Fork Rogue River south of Prospect. The Middle Fork Rogue River begins in Klamath County."
+            },
+            {
+              "chunk_id": "4f900feb-dbc0-4745-bb1d-0077c38e85ac",
+              "chunk_title": "River Tributaries & Confluences",
+              "chunk_summary": "This chunk contains information about river tributaries, their confluence points relative to landmarks, and their relationships to main rivers.",
+              "context_title": "South Fork Rogue River",
+              "page_content": "The South Fork Rogue River meets the Rogue River slightly upstream of Lost Creek Lake. The South Fork Rogue River is a tributary of the Rogue River. The South Fork Rogue River meets the Rogue River downstream of Prospect."
+            },
+            {
+              "chunk_id": "101f8c16-90c2-4783-923f-a5334d34f601",
+              "chunk_title": "Southern Oregon Rivers",
+              "chunk_summary": "This chunk contains information about Southern Oregon rivers, specifically their geographic origins in or east of the Cascade Mountain Range, their drainage of mountains south of the Willamette Valley, and their destinations at the Pacific Ocean.",
+              "context_title": "Course of the Rogue River (Oregon)",
+              "page_content": "The Umpqua River starts in or east of the Cascade Mountain Range in Oregon and reaches the Pacific Ocean. The Klamath River starts in or east of the Cascade Mountain Range in Oregon and reaches the Pacific Ocean. The Rogue River, the Umpqua River, and the Klamath River are Southern Oregon rivers. The Rogue River, the Umpqua River, and the Klamath River drain the mountains south of the Willamette Valley."
+            },
+            {
+              "chunk_id": "6ee10ab7-5241-4c24-93f5-46dba18d0902",
+              "chunk_title": "South Fork Spring River Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, physical features, and watershed classification of the South Fork Spring River.",
+              "context_title": "South Fork Spring River",
+              "page_content": "The South Fork Spring River is located in southern Missouri. The source of the South Fork Spring River is southwest of West Plains. The source of the South Fork Spring River is northeast of the unincorporated community of South Fork. The South Fork Spring River is located in the United States. The South Fork Spring River is part of the Spring River Tributaries Watershed. The South Fork Spring River flows through the Salem Plateau of the Ozarks. The South Fork Spring River is located in northern Arkansas. The South Fork Spring River rises in Howell County. The South Fork Spring River flows generally southeast from Howell County. The South Fork Spring River flows through Fulton County."
+            },
+            {
+              "chunk_id": "264810c5-1f62-45d8-abf0-f26bec894b1a",
+              "chunk_title": "River Tributaries",
+              "chunk_summary": "This chunk contains information about river tributaries and their relationships to parent rivers.",
+              "context_title": "Middle Fork Rogue River",
+              "page_content": "The Middle Fork Rogue River is a tributary of the South Fork Rogue River."
+            },
+            {
+              "chunk_id": "c0b32471-a618-4731-9060-8416c873bd05",
+              "chunk_title": "Oregon Locations & Counties",
+              "chunk_summary": "This chunk contains information about the geographical locations and county affiliations of specific places in Oregon, including those near Crater Lake National Park and along the Rogue River; add further details about Oregon place names and their respective counties.",
+              "context_title": "Course of the Rogue River (Oregon)",
+              "page_content": "Shady Cove is in Jackson County. Trail is in Jackson County. Gold Beach is in Curry County. Gold Hill is in Jackson County. Rogue River (community) is in Jackson County. Boundary Springs is on the border between Klamath County and Douglas County. Union Creek is in Jackson County. Grants Pass is in Josephine County. Galice is in Josephine County. Boundary Springs is near the northern edge of Crater Lake National Park. Prospect is in Jackson County. Wedderburn is in Curry County. Agness is in Curry County."
+            },
+            {
+              "chunk_id": "851ee89f-08a2-4bd0-8b6e-da3e39229822",
+              "chunk_title": "South Fork Spring River",
+              "chunk_summary": "This chunk contains information about the naming conventions, tributary relationships, and confluence locations of the South Fork Spring River.",
+              "context_title": "South Fork Spring River",
+              "page_content": "The South Fork Spring River is commonly known as the South Fork River. The confluence of the South Fork Spring River and the Spring River is west of Hardy. The South Fork Spring River is a tributary of the Spring River. The South Fork Spring River joins with the Spring River in Sharp County. The South Fork Spring River is commonly known as the South Fork of the Spring River."
+            },
+            {
+              "chunk_id": "f6652469-dbdb-4239-b8f3-977c7b5660cd",
+              "chunk_title": "River Dimensions & Characteristics",
+              "chunk_summary": "This chunk contains information about the physical dimensions and characteristics of rivers.",
+              "context_title": "South Fork Spring River",
+              "page_content": "The South Fork Spring River is roughly long."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What country is Caracu River located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "a537d34d-370e-4112-b7b3-8644aba5b30c",
+        "3166bf4b-022b-4a9d-9c61-917e777ceaca",
+        "75fa2082-4276-42e7-b059-1e69bd7ce6db",
+        "4901d452-f72a-4eeb-8063-6806797b8a2c",
+        "03462e78-df0b-449a-ae9a-726060d0241d",
+        "c0037774-a19a-4dd0-b2f2-c9125af0fa02",
+        "0d367d28-9fe5-47bf-a04d-2461d6860634",
+        "ddb1e72f-fd50-4673-bb2e-bd43875d3ea8",
+        "e4bee6d9-ff23-4501-8823-f9a10e751bdd",
+        "53309704-4e79-43b4-a6d7-9215abd5864f"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What country is South Fork Rogue River located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "5726ffe5-1d45-4603-ba37-31894dd385f1",
+        "5a28cc1f-5b3c-4e3f-b622-91505f80106a",
+        "10655758-145d-4f34-871e-f6ebfd4ccfa4",
+        "4f900feb-dbc0-4745-bb1d-0077c38e85ac",
+        "101f8c16-90c2-4783-923f-a5334d34f601",
+        "6ee10ab7-5241-4c24-93f5-46dba18d0902",
+        "264810c5-1f62-45d8-abf0-f26bec894b1a",
+        "c0b32471-a618-4731-9060-8416c873bd05",
+        "851ee89f-08a2-4bd0-8b6e-da3e39229822",
+        "f6652469-dbdb-4239-b8f3-977c7b5660cd"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Caracu River located in?（理由：Q 问两条河是否在同一国家，需先确定第一条河的归属国），F2: What country is South Fork Rogue River located in?（理由：同理，需确定第二条河的归属国）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者独立可搜索，无相互依赖。当 F1 和 F2 都 SOLVED 后，比较两者的 answer 即可回答 Q（相同 → yes，不同 → no）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: $1（question='What country is Caracu River located in?'），原因：Q 的语义需求之一——确定第一条河流的国家归属；新增: $2（question='What country is South Fork Rogue River located in?'），原因：Q 的语义需求之二——确定第二条河流的国家归属；新增边: N0→$1（decomposition），原因：$1 是 Q 的分解子事实；新增边: N0→$2（decomposition），原因：$2 是 Q 的分解子事实。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点答案（Brazil, United States）聚合后可直接回答 Q（不同国家 → No）；③全部节点 healthy——N1_1 单来源但推理链清晰支撑 Brazil，N1_2 单来源直接支撑 United States，N0 子节点推理链完整一致；"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Caracu River located in?（理由：Q 问两条河是否在同一国家，需先确定第一条河的归属国），F2: What country is South Fork Rogue River located in?（理由：同理，需确定第二条河的归属国）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者独立可搜索，无相互依赖。当 F1 和 F2 都 SOLVED 后，比较两者的 answer 即可回答 Q（相同 → yes，不同 → no）。当前状态：F1=Brazil，F2=United States，Brazil ≠ United States → Q 的答案为 No。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均 INHERIT，所有边均 LINK 保留。原因：上一轮假设完全被验证。N1_1 和 N1_2 均已 SOLVED 且 Critic 判为 healthy，答案 Brazil 和 United States 分别得到直接证据支撑。DAG 结构已收敛至理想状态，无需增删节点或边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足，推理链完整，所有节点证据充分。条件①：所有 2 个非根节点均已 SOLVED。条件②：两条推理链路径（N0→N1_1 和 N0→N1_2）均为 decomposition 边，语义有效——根问题被正确分解为两个独立子问题。条件③：全部 3 个节点（N0、N1_1、N1_2）critic_health 均为 healthy。条件④：本轮拓扑与上一轮一致。N1_1 answer=Braz"
+      }
+    }
+  ]
+}

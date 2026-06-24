@@ -1,0 +1,401 @@
+{
+  "question_index": 82,
+  "question_id": "6b0a2728087811ebbd67ac1f6bf848b6",
+  "question": "Who is younger, Zhang Lifang or Lalengzama Vangchhia?",
+  "answer": "Lalengzama Vangchhia",
+  "prediction": "Lalengzama Vangchhia",
+  "error": null,
+  "latency_ms": 107422.449900012,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T16:59:04.649645+00:00",
+  "chunks": [
+    {
+      "chunk_id": "9717ae10-47ac-44fa-91a2-52ab747ecf00",
+      "chunk_title": "Birthplaces",
+      "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+      "context_title": "Zhang Lifang",
+      "page_content": "Zhang Lifang was born in Henan."
+    },
+    {
+      "chunk_id": "943d5843-ed67-421a-860e-56092b0a1165",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Zhang Lifang",
+      "page_content": "Zhang Lifang was born on January 3, 1982."
+    },
+    {
+      "chunk_id": "5d0c0201-3bc0-4c48-94ab-f7e15236fd79",
+      "chunk_title": "Zhang Lifang's Career",
+      "chunk_summary": "This chunk contains information about the career and achievements of Chinese softball player Zhang Lifang.",
+      "context_title": "Zhang Lifang",
+      "page_content": "Zhang Lifang competed for Team China at the 2008 Summer Olympics. Zhang Lifang was part of the fourth-placed team at the 2006 World Championship. Zhang Lifang is a female Chinese softball player."
+    },
+    {
+      "chunk_id": "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals, including cases where these dates are unknown.",
+      "context_title": "Brian Saunders (weightlifter)",
+      "page_content": "Brian Saunders's date of birth is unknown. Brian Saunders's date of death is unknown."
+    },
+    {
+      "chunk_id": "92b4b831-ba04-4eda-83e6-61219a3e711c",
+      "chunk_title": "Male Weightlifter Biographies",
+      "chunk_summary": "This chunk contains biographical details about male weightlifters, including their names and birth dates.",
+      "context_title": "Brian Saunders (weightlifter)",
+      "page_content": "Brian Saunders was a male weightlifter. Brian Saunders's date of birth is unknown."
+    },
+    {
+      "chunk_id": "0d1df253-95e7-4097-8685-f70b1a09d88c",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Zhu Yunlai",
+      "page_content": "Levin Zhu Yunlai was born in 1957."
+    },
+    {
+      "chunk_id": "a81e3a63-fcd5-494d-93fe-88d35a8c5636",
+      "chunk_title": "Moffat Sinkala Biography",
+      "chunk_summary": "This chunk contains biographical information about the Zambian footballer Moffat Sinkala, including his Olympic participation and life dates.",
+      "context_title": "Moffat Sinkala",
+      "page_content": "Moffat Sinkala's date of birth is unknown. Moffat Sinkala was a Zambian footballer. Moffat Sinkala died in June 2004. Moffat Sinkala competed in the men's tournament at the 1980 Summer Olympics."
+    },
+    {
+      "chunk_id": "1ebafd92-ef4d-4796-a5ce-84a5139518d8",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Zhang Zhehan",
+      "page_content": "Zhang Zhehan was born on 11 May 1991."
+    },
+    {
+      "chunk_id": "171a70b0-c99f-4730-ba6b-ca35a4213cd8",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Lalengzama Vangchhia",
+      "page_content": "Lalengzama Vangchhia was born on 12 November 1999."
+    },
+    {
+      "chunk_id": "662e536f-8192-40f7-a306-dc8b18af7321",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date of birth for specific individuals.",
+      "context_title": "Pamela Jain",
+      "page_content": "Pamela Jain's date of birth is 16th March."
+    },
+    {
+      "chunk_id": "0d780fc8-d1eb-40e6-9b33-8bb34f1db807",
+      "chunk_title": "Professional Footballers",
+      "chunk_summary": "This chunk contains information about professional footballers, including their names, nationalities, positions, and clubs.",
+      "context_title": "Lalengzama Vangchhia",
+      "page_content": "Lalengzama Vangchhia plays as a Midfielder for Churchill Brothers. Lalengzama Vangchhia is an Indian professional footballer."
+    },
+    {
+      "chunk_id": "6d3aa59a-2a9f-4fce-9973-7f7e4092b6a4",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of notable figures.",
+      "context_title": "Khyentse Norbu",
+      "page_content": "Dzongsar Jamyang Khyentse Rinpoche was born on June 18, 1961."
+    },
+    {
+      "chunk_id": "f41998ef-e50c-4036-8cac-fbce9fa24d25",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Lance Mungia",
+      "page_content": "Lance Mungia was born in 1972."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.38461538461538464,
+  "retrieval_count": 2,
+  "total_chunks": 13,
+  "total_distinct_titles": 9,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Who is younger, Zhang Lifang or Lalengzama Vangchhia?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is younger, Zhang Lifang or Lalengzama Vangchhia?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较 Zhang Lifang 和 Lalengzama Vangchhia 的年龄",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生新事实，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，N1_1 和 N1_2 均已 SOLVED 且证据充分（见下文审查）。N1_1 提供 Zhang Lifang 出生日期为 1982-01-03，N1_2 提供 Lalengzama Vangchhia 出生日期为 1999-11-12。基于这两个独立且可靠的事实，可以明确推断出 Lalengzama Vangchhia (1999) 比 Zhang Lifang (1982) 年轻。推理链完整，无逻辑断裂。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，推理逻辑清晰（比较两个日期即可得出谁更年轻），无需进一步搜索或结构调整。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is Zhang Lifang's date of birth?",
+          "answer": "January 3, 1982",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is Zhang Lifang's date of birth?",
+          "planner_rationale": "为了比较两人的年龄，首先需要知道 Zhang Lifang 的出生日期",
+          "solver_judgment": "question 要求提供 Zhang Lifang 的出生日期。search_query 直接搜索了 'What is Zhang Lifang's date of birth?'。chunks 返回了多个片段，其中 chunk 943d5843-ed67-421a-860e-56092b0a1165 明确记载 'Zhang Lifang was born on January 3, 1982.'，直接提供了所需信息。其他 chunks 涉及出生地、职业生涯或其他人物，与问题核心无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Zhang Lifang'）。支撑 chunk [943d5843-ed67-421a-860e-56092b0a1165] 全文明确陈述：'Zhang Lifang was born on January 3, 1982.'。Solver 声称的答案 'January 3, 1982' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，且来源标题与实体一致，可信度高。其他检索结果虽来自不同文档，但多为无关信息或摘要，未提供冲突证据。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或验证。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is Lalengzama Vangchhia's date of birth?",
+          "answer": "12 November 1999",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is Lalengzama Vangchhia's date of birth?",
+          "planner_rationale": "为了比较两人的年龄，还需要知道 Lalengzama Vangchhia 的出生日期",
+          "solver_judgment": "question 要求提供 Lalengzama Vangchhia 的出生日期。search_query 直接搜索了 'What is Lalengzama Vangchhia's date of birth?'。chunks 返回了多个不同人物的信息，其中 chunk_171a70b0-c99f-4730-ba6b-ca35a4213cd8 明确记载 'Lalengzama Vangchhia was born on 12 November 1999.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Lalengzama Vangchhia'）。支撑 chunk [171a70b0-c99f-4730-ba6b-ca35a4213cd8] 全文明确陈述：'Lalengzama Vangchhia was born on 12 November 1999.'。Solver 声称的答案 '12 November 1999' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，且来源标题与实体一致，可信度高。其他检索结果未提供冲突证据。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或验证。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who is younger, Zhang Lifang or Lalengzama Vangchhia?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is younger, Zhang Lifang or Lalengzama Vangchhia?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较 Zhang Lifang 和 Lalengzama Vangchhia 的年龄",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生新事实，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，N1_1 和 N1_2 均已 SOLVED 且证据充分。N1_1 提供 Zhang Lifang 出生日期为 1982-01-03，N1_2 提供 Lalengzama Vangchhia 出生日期为 1999-11-12。基于这两个独立且可靠的事实，可以明确推断出 Lalengzama Vangchhia (1999) 比 Zhang Lifang (1982) 年轻。推理链完整，无逻辑断裂。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，推理逻辑清晰（比较两个日期即可得出谁更年轻），无需进一步搜索或结构调整。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is Zhang Lifang's date of birth?",
+          "answer": "January 3, 1982",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is Zhang Lifang's date of birth?",
+          "planner_rationale": "为了比较两人的年龄，首先需要知道 Zhang Lifang 的出生日期。该事实已确立（SOLVED + healthy），证据充分。",
+          "solver_judgment": "question 要求提供 Zhang Lifang 的出生日期。search_query 直接搜索了 'What is Zhang Lifang's date of birth?'。chunks 返回了多个片段，其中 chunk 943d5843-ed67-421a-860e-56092b0a1165 明确记载 'Zhang Lifang was born on January 3, 1982.'，直接提供了所需信息。其他 chunks 涉及出生地、职业生涯或其他人物，与问题核心无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Zhang Lifang'）。支撑 chunk [943d5843-ed67-421a-860e-56092b0a1165] 全文明确陈述：'Zhang Lifang was born on January 3, 1982.'。Solver 声称的答案 'January 3, 1982' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，且来源标题与实体一致，可信度高。其他检索结果虽来自不同文档，但多为无关信息或摘要，未提供冲突证据。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或验证。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is Lalengzama Vangchhia's date of birth?",
+          "answer": "12 November 1999",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is Lalengzama Vangchhia's date of birth?",
+          "planner_rationale": "为了比较两人的年龄，还需要知道 Lalengzama Vangchhia 的出生日期。该事实已确立（SOLVED + healthy），证据充分。",
+          "solver_judgment": "question 要求提供 Lalengzama Vangchhia 的出生日期。search_query 直接搜索了 'What is Lalengzama Vangchhia's date of birth?'。chunks 返回了多个不同人物的信息，其中 chunk_171a70b0-c99f-4730-ba6b-ca35a4213cd8 明确记载 'Lalengzama Vangchhia was born on 12 November 1999.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Lalengzama Vangchhia'）。支撑 chunk [171a70b0-c99f-4730-ba6b-ca35a4213cd8] 全文明确陈述：'Lalengzama Vangchhia was born on 12 November 1999.'。Solver 声称的答案 '12 November 1999' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，且来源标题与实体一致，可信度高。其他检索结果未提供冲突证据。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或验证。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who is younger, Zhang Lifang or Lalengzama Vangchhia?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is younger, Zhang Lifang or Lalengzama Vangchhia?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且 healthy，提供了比较年龄所需的完整事实基础（Zhang Lifang: 1982-01-03, Lalengzama Vangchhia: 1999-11-12）。推理链完整，无需进一步搜索。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生新事实，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，N1_1 和 N1_2 均已 SOLVED 且证据充分。N1_1 提供 Zhang Lifang 出生日期为 1982-01-03，N1_2 提供 Lalengzama Vangchhia 出生日期为 1999-11-12。基于这两个独立且可靠的事实，可以明确推断出 Lalengzama Vangchhia (1999) 比 Zhang Lifang (1982) 年轻。推理链完整，无逻辑断裂。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，推理逻辑清晰（比较两个日期即可得出谁更年轻），无需进一步搜索或结构调整。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is Zhang Lifang's date of birth?",
+          "answer": "January 3, 1982",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is Zhang Lifang's date of birth?",
+          "planner_rationale": "为了比较两人的年龄，首先需要知道 Zhang Lifang 的出生日期。该事实已确立（SOLVED + healthy），证据充分（chunk 明确记载 'born on January 3, 1982'），无需重搜。",
+          "solver_judgment": "question 要求提供 Zhang Lifang 的出生日期。search_query 直接搜索了 'What is Zhang Lifang's date of birth?'。chunks 返回了多个片段，其中 chunk 943d5843-ed67-421a-860e-56092b0a1165 明确记载 'Zhang Lifang was born on January 3, 1982.'，直接提供了所需信息。其他 chunks 涉及出生地、职业生涯或其他人物，与问题核心无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Zhang Lifang'）。支撑 chunk [943d5843-ed67-421a-860e-56092b0a1165] 全文明确陈述：'Zhang Lifang was born on January 3, 1982.'。Solver 声称的答案 'January 3, 1982' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，且来源标题与实体一致，可信度高。其他检索结果虽来自不同文档，但多为无关信息或摘要，未提供冲突证据。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或验证。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is Lalengzama Vangchhia's date of birth?",
+          "answer": "12 November 1999",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is Lalengzama Vangchhia's date of birth?",
+          "planner_rationale": "为了比较两人的年龄，还需要知道 Lalengzama Vangchhia 的出生日期。该事实已确立（SOLVED + healthy），证据充分（chunk 明确记载 'born on 12 November 1999'），无需重搜。",
+          "solver_judgment": "question 要求提供 Lalengzama Vangchhia 的出生日期。search_query 直接搜索了 'What is Lalengzama Vangchhia's date of birth?'。chunks 返回了多个不同人物的信息，其中 chunk_171a70b0-c99f-4730-ba6b-ca35a4213cd8 明确记载 'Lalengzama Vangchhia was born on 12 November 1999.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Lalengzama Vangchhia'）。支撑 chunk [171a70b0-c99f-4730-ba6b-ca35a4213cd8] 全文明确陈述：'Lalengzama Vangchhia was born on 12 November 1999.'。Solver 声称的答案 '12 November 1999' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，且来源标题与实体一致，可信度高。其他检索结果未提供冲突证据。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或验证。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is Zhang Lifang's date of birth?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "9717ae10-47ac-44fa-91a2-52ab747ecf00",
+        "943d5843-ed67-421a-860e-56092b0a1165",
+        "5d0c0201-3bc0-4c48-94ab-f7e15236fd79",
+        "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+        "92b4b831-ba04-4eda-83e6-61219a3e711c",
+        "0d1df253-95e7-4097-8685-f70b1a09d88c",
+        "a81e3a63-fcd5-494d-93fe-88d35a8c5636",
+        "1ebafd92-ef4d-4796-a5ce-84a5139518d8"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What is Lalengzama Vangchhia's date of birth?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "171a70b0-c99f-4730-ba6b-ca35a4213cd8",
+        "662e536f-8192-40f7-a306-dc8b18af7321",
+        "0d780fc8-d1eb-40e6-9b33-8bb34f1db807",
+        "943d5843-ed67-421a-860e-56092b0a1165",
+        "6d3aa59a-2a9f-4fce-9973-7f7e4092b6a4",
+        "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+        "f41998ef-e50c-4036-8cac-fbce9fa24d25",
+        "92b4b831-ba04-4eda-83e6-61219a3e711c"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is Zhang Lifang's date of birth?（理由：比较年龄需要知道 Zhang Lifang 的出生信息），F2: What is Lalengzama Vangchhia's date of birth?（理由：比较年龄需要知道 Lalengzama Vangchhia 的出生信息）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。一旦获得这两个日期，就可以直接比较得出谁更年轻。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略是将比较问题拆解为获取两个独立实体的出生日期。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2 获取日期，逻辑有效）；③ 全部节点 healthy（N1_1/N1_2 证据充分且一致，N0 推理链完整）；④ 首轮无拓扑变化阻碍。置信评估：高。两个独立实体的出生日期均有直接文献支持，比较逻辑简单明确，可生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is Zhang Lifang's date of birth?（理由：比较年龄需要知道 Zhang Lifang 的出生信息），F2: What is Lalengzama Vangchhia's date of birth?（理由：比较年龄需要知道 Lalengzama Vangchhia 的出生信息）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。一旦获得这两个日期，就可以直接比较得出谁更年轻。当前 DAG 中 N1_1 和 N1_2 均已 SOLVED 且健康，推理链完整。",
+      "hypothesis_delta": "本轮无结构变更。上一轮假设的目标状态（获取两人出生日期并作为 Q 的分解）已被完全验证：N1_1 和 N1_2 均 SOLVED 且 Critic 判为 healthy。Critic 建议 INHERIT 所有节点，确认 DAG 结构完美覆盖 Q 语义需求，无缺口或冗余。因此，本轮保留所有节点和边，等待系统基于已解子节点聚合根节点答案。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1/N1_2 的出生日期答案可直接用于比较年龄以回答 N0）；③ 全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④ 拓扑连续两轮无变化。DAG 已收敛至理想结构，证据充分，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is Zhang Lifang's date of birth?（理由：比较年龄需要知道 Zhang Lifang 的出生信息），F2: What is Lalengzama Vangchhia's date of birth?（理由：比较年龄需要知道 Lalengzama Vangchhia 的出生信息）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。一旦获得这两个日期，就可以直接比较得出谁更年轻。当前 DAG 中 N1_1 和 N1_2 均已 SOLVED 且健康，推理链完整。",
+      "hypothesis_delta": "本轮无结构变更。上一轮假设的目标状态（获取两人出生日期并作为 Q 的分解）已被完全验证：N1_1 和 N1_2 均 SOLVED 且 Critic 判为 healthy。Critic 建议 INHERIT 所有节点，确认 DAG 结构完美覆盖 Q 语义需求，无缺口或冗余。因此，本轮保留所有节点和边，等待系统基于已解子节点聚合根节点答案。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点 (N1_1, N1_2) 均已 SOLVED；② 推理链语义匹配，N0 到 N1_1/N1_2 的分解依赖有效，子节点答案足以支撑 ROOT 节点的最终比较推理；③ 全部节点 (N0, N1_1, N1_2) 的 critic_health 均为 healthy；④ 拓扑结构连续稳定（本轮无变化，结合上下文暗示已满足连续性要求或系统将在下一轮确认，但就当前 LLM "
+      }
+    }
+  ]
+}

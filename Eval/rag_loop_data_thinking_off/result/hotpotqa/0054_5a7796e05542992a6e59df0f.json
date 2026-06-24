@@ -1,0 +1,380 @@
+{
+  "question_index": 54,
+  "question_id": "5a7796e05542992a6e59df0f",
+  "question": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+  "answer": "Netherlands",
+  "prediction": "the Netherlands",
+  "error": null,
+  "latency_ms": 103863.04099997506,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T16:33:00.593162+00:00",
+  "chunks": [
+    {
+      "chunk_id": "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+      "chunk_title": "Theme Parks & Cultural Recreation",
+      "chunk_summary": "This chunk contains information about theme parks that recreate specific countries or cultures, including details about their architectural displays and cultural themes.",
+      "context_title": "Huis Ten Bosch (theme park)",
+      "page_content": "Huis Ten Bosch recreates the Netherlands. Huis Ten Bosch displays life-sized copies of old Dutch buildings. Huis Ten Bosch is a theme park."
+    },
+    {
+      "chunk_id": "5b373657-27f3-425d-b609-d385ac0d09f3",
+      "chunk_title": "Train Station Locations",
+      "chunk_summary": "This chunk contains information about the locations and associated landmarks of specific train stations.",
+      "context_title": "Huis Ten Bosch (train)",
+      "page_content": "Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park. Hakata Station is located in Fukuoka, Fukuoka."
+    },
+    {
+      "chunk_id": "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1",
+      "chunk_title": "Limited Express Trains",
+      "chunk_summary": "This chunk contains information about specific limited express train services, including their names and routes.",
+      "context_title": "Huis Ten Bosch (train)",
+      "page_content": "Huis Ten Bosch is a limited express train service. Huis Ten Bosch runs between Hakata Station and Huis Ten Bosch Station."
+    },
+    {
+      "chunk_id": "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+      "chunk_title": "Theme Park Locations",
+      "chunk_summary": "This chunk contains information about the locations of theme parks.",
+      "context_title": "Huis Ten Bosch (train)",
+      "page_content": "The Huis Ten Bosch theme park is located in Sasebo, Nagasaki."
+    },
+    {
+      "chunk_id": "4811fe98-80e0-4f63-99d6-4b78867d1a41",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, operating companies, and the lines they are located on.",
+      "context_title": "Huis Ten Bosch Station",
+      "page_content": "Huis Ten Bosch Station is on the Ōmura Line. Huis Ten Bosch Station is a railway station. Huis Ten Bosch Station is in Haenosaki-chō, Sasebo, Nagasaki Prefecture, Japan. Huis Ten Bosch Station is operated by Kyushu Railway Company (JR Kyushu)."
+    },
+    {
+      "chunk_id": "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+      "chunk_title": "Railway Operators",
+      "chunk_summary": "This chunk contains information about the operators of various facilities or locations, specifically focusing on railway companies and their operational regions.",
+      "context_title": "Huis Ten Bosch (train)",
+      "page_content": "Kyushu Railway Company (JR Kyushu) operates in Japan. Huis Ten Bosch is operated by Kyushu Railway Company (JR Kyushu)."
+    },
+    {
+      "chunk_id": "66658ca2-69ee-4a8a-b43f-18d1d209d982",
+      "chunk_title": "Dutch Royal Residences",
+      "chunk_summary": "This chunk contains information about the official residences of the Dutch Royal Family, including their names, locations, and name translations.",
+      "context_title": "Huis ten Bosch palace",
+      "page_content": "Huis ten Bosch is a royal palace. Huis ten Bosch translates to \"House in the Woods\" in English. The Royal Palace is located in Amsterdam. The Royal Palace is an official residence of the Dutch Royal Family. Noordeinde Palace is located in The Hague. Noordeinde Palace is an official residence of the Dutch Royal Family. Huis ten Bosch is one of three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague."
+    },
+    {
+      "chunk_id": "9ecc76cb-ccc3-48a2-b6db-ce4f728707ee",
+      "chunk_title": "Royal Palaces & Locations",
+      "chunk_summary": "This chunk contains information about specific royal palaces, including their locations and historical residents.",
+      "context_title": "Huis ten Bosch (disambiguation)",
+      "page_content": "Huis ten Bosch was the former home of Queen Beatrix of The Netherlands. Huis ten Bosch is in The Hague, Netherlands. Huis ten Bosch is a Royal palace."
+    },
+    {
+      "chunk_id": "e7dec964-abf1-45fa-b823-c94a2563d068",
+      "chunk_title": "Huis Ten Bosch Locations & Identities",
+      "chunk_summary": "This chunk contains information about the locations, identities, and official status of specific places or landmarks named \"Huis Ten Bosch\" in different countries.",
+      "context_title": "Huis Ten Bosch (theme park)",
+      "page_content": "Huis ten Bosch is one of the three official residences of the Dutch Royal Family. Huis ten Bosch is located in The Hague in the Netherlands. Huis Ten Bosch is located in Sasebo, Nagasaki, Japan. Huis ten Bosch was a former home to Princess Beatrix."
+    },
+    {
+      "chunk_id": "5d13c874-b242-47ec-92fe-5e3380a10887",
+      "chunk_title": "Oranjezaal Ballroom",
+      "chunk_summary": "This chunk contains information about the Oranjezaal, a painted ballroom in the Royal Palace Huis ten Bosch in The Hague, including its historical context and spatial relationship to neighboring rooms like the \"Chinese room\".",
+      "context_title": "Oranjezaal",
+      "page_content": "The Oranjezaal is in the Royal palace Huis ten Bosch. The Oranjezaal and the \"Chinese room\" were neighboring rooms. The Oranjezaal was once part of the first national museum of the Netherlands. The Royal palace Huis ten Bosch is in the Hague. The Oranjezaal refers to a painted ballroom."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.6,
+  "retrieval_count": 2,
+  "total_chunks": 10,
+  "total_distinct_titles": 6,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立被 Huis Ten Bosch 列车服务所服务的主题公园的主题国家",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。子节点 N1_1 确定了主题公园为 'Huis Ten Bosch'，子节点 N1_2 确定了该公园主题为 'the Netherlands'。推理链完整，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，可生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What theme park is served by the Huis Ten Bosch train service?",
+          "answer": "Huis Ten Bosch",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What theme park is served by the Huis Ten Bosch train service?",
+          "planner_rationale": "Q 询问的是‘被 Huis Ten Bosch 列车服务所服务的主题公园’的主题国家。首先需要确定这个主题公园的具体名称或身份，这是后续查询其主题来源的前提。",
+          "solver_judgment": "question 要求找出由 Huis Ten Bosch 列车服务提供服务的主题公园。search_query 直接搜索了该问题。chunks 返回了关键信息：chunk 2954fb08-339b-4e6a-ac6a-a7bacb17d1a1 指出 \"Huis Ten Bosch is a limited express train service\" 且运行于 Hakata Station 和 Huis Ten Bosch Station 之间；chunk 5b373657-27f3-4e6a-ac6a-a7bacb17d1a1 明确指出 \"Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park\"。结合这两点，可以确定该列车服务服务于 Huis Ten Bosch 主题公园。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源（文档 'Huis Ten Bosch (train)' 和 'Huis Ten Bosch Station'）一致支持答案。Chunk [2954fb08...] 确认列车服务名称及路线终点站；Chunk [5b373657...]（虽未展示全文但摘要及 Solver 判断指出其确认车站服务于主题公园）共同确立了 'Huis Ten Bosch' 列车服务于 'Huis Ten Bosch' 主题公园。证据直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is the theme park [identified in previous step] themed on?",
+          "answer": "the Netherlands",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is the theme park Huis Ten Bosch themed on?",
+          "planner_rationale": "在确定了具体的主题公园后，需要查询该公园的主题是基于哪个国家的。这是 Q 的核心询问目标。",
+          "solver_judgment": "question 要求回答主题公园 Huis Ten Bosch 是以哪个国家为主题。search_query 搜索了 'What country is the theme park Huis Ten Bosch themed on?'。chunks 返回了关于该主题公园的信息，其中 chunk 6e9be7e6-2030-4dd9-9296-572ba7cfb45a 明确记载 \"Huis Ten Bosch recreates the Netherlands\" 和 \"displays life-sized copies of old Dutch buildings\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个直接来源（文档 'Huis Ten Bosch (theme park)'）明确陈述答案。Chunk [6e9be7e6...] 全文显示 'Huis Ten Bosch recreates the Netherlands'，直接回答了问题。单来源但内容直接、无歧义，足以支撑事实声称。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 已分别确立了主题公园身份及其主题国家，推理链完整，可聚合最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。子节点 N1_1 确定了主题公园为 'Huis Ten Bosch'，子节点 N1_2 确定了该公园主题为 'the Netherlands'。推理链完整，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，可生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What theme park is served by the Huis Ten Bosch train service?",
+          "answer": "Huis Ten Bosch",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What theme park is served by the Huis Ten Bosch train service?",
+          "planner_rationale": "该事实已被正确确立（SOLVED + healthy）。N1_1 准确识别了被 Huis Ten Bosch 列车服务所服务的主题公园为 'Huis Ten Bosch'，证据充分且无歧义，是后续查询的基础。",
+          "solver_judgment": "question 要求找出由 Huis Ten Bosch 列车服务提供服务的主题公园。search_query 直接搜索了该问题。chunks 返回了关键信息：chunk 2954fb08-339b-4e6a-ac6a-a7bacb17d1a1 指出 \"Huis Ten Bosch is a limited express train service\" 且运行于 Hakata Station 和 Huis Ten Bosch Station 之间；chunk 5b373657-27f3-4e6a-ac6a-a7bacb17d1a1 明确指出 \"Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park\"。结合这两点，可以确定该列车服务服务于 Huis Ten Bosch 主题公园。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源（文档 'Huis Ten Bosch (train)' 和 'Huis Ten Bosch Station'）一致支持答案。Chunk [2954fb08...] 确认列车服务名称及路线终点站；Chunk [5b373657...]（虽未展示全文但摘要及 Solver 判断指出其确认车站服务于主题公园）共同确立了 'Huis Ten Bosch' 列车服务于 'Huis Ten Bosch' 主题公园。证据直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is the theme park [identified in previous step] themed on?",
+          "answer": "the Netherlands",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is the theme park Huis Ten Bosch themed on?",
+          "planner_rationale": "该事实已被正确确立（SOLVED + healthy）。N1_2 准确回答了 Q 的核心询问——Huis Ten Bosch 主题公园的主题国家是 'the Netherlands'，有直接证据支撑。",
+          "solver_judgment": "question 要求回答主题公园 Huis Ten Bosch 是以哪个国家为主题。search_query 搜索了 'What country is the theme park Huis Ten Bosch themed on?'。chunks 返回了关于该主题公园的信息，其中 chunk 6e9be7e6-2030-4dd9-9296-572ba7cfb45a 明确记载 \"Huis Ten Bosch recreates the Netherlands\" 和 \"displays life-sized copies of old Dutch buildings\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个直接来源（文档 'Huis Ten Bosch (theme park)'）明确陈述答案。Chunk [6e9be7e6...] 全文显示 'Huis Ten Bosch recreates the Netherlands'，直接回答了问题。单来源但内容直接、无歧义，足以支撑事实声称。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What country is the theme park served by the Huis Ten Bosch train service themed on?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 已分别确立了主题公园身份及其主题国家，推理链完整，可聚合最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。子节点 N1_1 确定了主题公园为 'Huis Ten Bosch'，子节点 N1_2 确定了该公园主题为 'the Netherlands'。推理链完整，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，可生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What theme park is served by the Huis Ten Bosch train service?",
+          "answer": "Huis Ten Bosch",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What theme park is served by the Huis Ten Bosch train service?",
+          "planner_rationale": "该事实已被正确确立（SOLVED + healthy）。N1_1 准确识别了被 Huis Ten Bosch 列车服务所服务的主题公园为 'Huis Ten Bosch'，证据充分且无歧义，是后续查询的基础。",
+          "solver_judgment": "question 要求找出由 Huis Ten Bosch 列车服务提供服务的主题公园。search_query 直接搜索了该问题。chunks 返回了关键信息：chunk 2954fb08-339b-4e6a-ac6a-a7bacb17d1a1 指出 \"Huis Ten Bosch is a limited express train service\" 且运行于 Hakata Station 和 Huis Ten Bosch Station 之间；chunk 5b373657-27f3-4e6a-ac6a-a7bacb17d1a1 明确指出 \"Huis Ten Bosch Station is the station for the Huis Ten Bosch theme park\"。结合这两点，可以确定该列车服务服务于 Huis Ten Bosch 主题公园。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源（文档 'Huis Ten Bosch (train)' 和 'Huis Ten Bosch Station'）一致支持答案。Chunk [2954fb08...] 确认列车服务名称及路线终点站；Chunk [5b373657...]（虽未展示全文但摘要及 Solver 判断指出其确认车站服务于主题公园）共同确立了 'Huis Ten Bosch' 列车服务于 'Huis Ten Bosch' 主题公园。证据直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is the theme park [identified in previous step] themed on?",
+          "answer": "the Netherlands",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is the theme park Huis Ten Bosch themed on?",
+          "planner_rationale": "该事实已被正确确立（SOLVED + healthy）。N1_2 准确回答了 Q 的核心询问——Huis Ten Bosch 主题公园的主题国家是 'the Netherlands'，有直接证据支撑。",
+          "solver_judgment": "question 要求回答主题公园 Huis Ten Bosch 是以哪个国家为主题。search_query 搜索了 'What country is the theme park Huis Ten Bosch themed on?'。chunks 返回了关于该主题公园的信息，其中 chunk 6e9be7e6-2030-4dd9-9296-572ba7cfb45a 明确记载 \"Huis Ten Bosch recreates the Netherlands\" 和 \"displays life-sized copies of old Dutch buildings\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个直接来源（文档 'Huis Ten Bosch (theme park)'）明确陈述答案。Chunk [6e9be7e6...] 全文显示 'Huis Ten Bosch recreates the Netherlands'，直接回答了问题。单来源但内容直接、无歧义，足以支撑事实声称。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What theme park is served by the Huis Ten Bosch train service?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+        "5b373657-27f3-425d-b609-d385ac0d09f3",
+        "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1",
+        "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+        "4811fe98-80e0-4f63-99d6-4b78867d1a41",
+        "cf402aa5-2aff-4c9a-ae2b-2f29f748bf69",
+        "66658ca2-69ee-4a8a-b43f-18d1d209d982",
+        "9ecc76cb-ccc3-48a2-b6db-ce4f728707ee"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What country is the theme park Huis Ten Bosch themed on?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6e9be7e6-2030-4dd9-9296-572ba7cfb45a",
+        "5b373657-27f3-425d-b609-d385ac0d09f3",
+        "411633f2-aa3f-461b-83ba-8e99dbab3fd6",
+        "9ecc76cb-ccc3-48a2-b6db-ce4f728707ee",
+        "66658ca2-69ee-4a8a-b43f-18d1d209d982",
+        "e7dec964-abf1-45fa-b823-c94a2563d068",
+        "5d13c874-b242-47ec-92fe-5e3380a10887",
+        "2954fb08-339b-4e6a-ac6a-a7bacb17d1a1"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What theme park is served by the Huis Ten Bosch train service?（理由：Q 的主语是“被 Huis Ten Bosch 列车服务所服务的主题公园”，必须先识别出这个公园是谁），F2: What country is that theme park themed on?（理由：Q 的核心谓语是询问该公园的主题国家）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1 的答案（dependency——因为 F2 中的“that theme park”指代 F1 的结果，且只有知道公园名字才能搜索其主题背景）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：先识别实体（主题公园），再查询属性（主题国家）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 答案消解 N1_2 指代）；③ 所有节点（含 ROOT）审查结果为 healthy；④ 首轮无拓扑变化阻碍。置信度高，可生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What theme park is served by the Huis Ten Bosch train service?（理由：Q 的主语是“被 Huis Ten Bosch 列车服务所服务的主题公园”，必须先识别出这个公园是谁），F2: What country is that theme park themed on?（理由：Q 的核心谓语是询问该公园的主题国家）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1 的答案（dependency——因为 F2 中的指代必须用 F1 的结果消解）。当前 DAG 中 N1_1 对应 F1，N1_2 对应 F2，且均已 SOLVED + healthy，结构完整覆盖 Q 的语义需求。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2）均通过 INHERIT 保留，所有边（N0→N1_1, N1_1→N1_2）均通过 LINK 显式声明保留。原因：Critic 确认 N1_1 和 N1_2 均已正确求解且证据充分（healthy），DAG 结构紧凑、无冗余、无缺口，推理链完整，可直接生成最终答案。无需新增、删除或修改任何节点/边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N1_1 答案消解 N1_2 指代）；③所有节点（含 ROOT）critic_health 均为 healthy；④拓扑连续稳定。DAG 结构完整，证据充分，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What theme park is served by the Huis Ten Bosch train service?（理由：Q 的主语是“被 Huis Ten Bosch 列车服务所服务的主题公园”，必须先识别出这个公园是谁），F2: What country is that theme park themed on?（理由：Q 的核心谓语是询问该公园的主题国家）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1 的答案（dependency——因为 F2 中的指代必须用 F1 的结果消解）。当前 DAG 中 N1_1 对应 F1，N1_2 对应 F2，且均已 SOLVED + healthy，结构完整覆盖 Q 的语义需求。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2）均通过 INHERIT 保留，所有边（N0→N1_1, N1_1→N1_2）均通过 LINK 显式声明保留。原因：Critic 确认 N1_1 和 N1_2 均已正确求解且证据充分（healthy），DAG 结构紧凑、无冗余、无缺口，推理链完整，可直接生成最终答案。无需新增、删除或修改任何节点/边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点 SOLVED；② 推理链语义匹配（N1_1 答案消解 N1_2 指代）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续稳定。置信度高，可生成最终答案 'the Netherlands'。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,929 @@
+{
+  "question_index": 94,
+  "question_id": "85cc412008b611ebbd88ac1f6bf848b6",
+  "question": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+  "answer": "yes",
+  "prediction": "no",
+  "error": null,
+  "latency_ms": 251030.7198999799,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T17:09:54.670845+00:00",
+  "chunks": [
+    {
+      "chunk_id": "d99408db-a339-4e0b-a089-39dbfe6b4523",
+      "chunk_title": "Captain Calamity Film Details",
+      "chunk_summary": "This chunk contains information about the 1936 film Captain Calamity, including its director, star, production company, filming location, and color process.",
+      "context_title": "Captain Calamity (film)",
+      "page_content": "Captain Calamity starred George Houston. Captain Calamity was released by Grand National Pictures. Captain Calamity was filmed in an early colour process called Hirlicolor. Captain Calamity was filmed at Talisman Studios. Captain Calamity was directed by John Reinhardt. Captain Calamity is a 1936 American South Seas adventure film. Captain Calamity was filmed at Santa Catalina Island, California."
+    },
+    {
+      "chunk_id": "361eac08-ff5f-44e7-9e71-a60de904a5d3",
+      "chunk_title": "Lance Mungia's Career",
+      "chunk_summary": "This chunk contains information about the professional background and filmography of American filmmaker Lance Mungia, including his roles as director and screenwriter for specific films, his work with production companies, and his educational history.",
+      "context_title": "Lance Mungia",
+      "page_content": "Lance Mungia is the screenwriter of the film \"Six String Samurai\". The short film \"Garden for Rio\" was produced at Loyola Marymount University. Lance Mungia is an American film director. Lance Mungia wrote the short film \"Garden for Rio\". Lance Mungia is an American screenwriter. Lance Mungia is a director for Dimension Films. Lance Mungia is the director of the film \"Six String Samurai\". Lance Mungia attended Loyola Marymount University. Lance Mungia directed the short film \"Garden for Rio\". Lance Mungia was a film student at Loyola Marymount University. Lance Mungia is a co-writer for Dimension Films."
+    },
+    {
+      "chunk_id": "deadbbc8-5647-4866-92fe-957bec28a22b",
+      "chunk_title": "Crime Against Joe Film Details",
+      "chunk_summary": "This chunk contains information about the 1956 film noir \"Crime Against Joe,\" including its director and starring actors.",
+      "context_title": "Crime Against Joe",
+      "page_content": "Crime Against Joe is a 1956 American film noir crime film. Crime Against Joe was directed by Lee Sholem. The film Crime Against Joe stars Robert Keys. The film Crime Against Joe stars Henry Calvin. The film Crime Against Joe stars Patricia Blair. The film Crime Against Joe stars John Bromfield. The film Crime Against Joe stars Joel Ashley. The film Crime Against Joe stars Julie London."
+    },
+    {
+      "chunk_id": "4d0365c2-ecb4-4507-ac28-84503a80b708",
+      "chunk_title": "Film Details & Themes",
+      "chunk_summary": "This chunk contains information about the 1996 Italian film \"Sacred Silence,\" including its director, plot themes involving Southern Italy, and title translation.",
+      "context_title": "Sacred Silence",
+      "page_content": "The title Sacred Silence translates as \"Pianese Nunzio, 14 in May\". Sacred Silence is a 1996 Italian film. Antonio Capuano is a director. Sacred Silence was directed by Antonio Capuano. Sacred Silence deals with a pederastic relationship between a Catholic priest and a Napolitan street boy. The movie Sacred Silence was released in the USA with the title \"Sacred Silence\". Sacred Silence deals with the domination of daily life in Southern Italy by the Camorra."
+    },
+    {
+      "chunk_id": "45d44d44-13ff-46e0-a877-fc9028f5067e",
+      "chunk_title": "Film Directors & Nationalities",
+      "chunk_summary": "This chunk contains information about film directors and their nationalities.",
+      "context_title": "Antonio Capuano (director)",
+      "page_content": "Antonio Capuano is an Italian film director."
+    },
+    {
+      "chunk_id": "39d49de5-7852-4a16-9533-d884b582c093",
+      "chunk_title": "1952 Italian Melodrama",
+      "chunk_summary": "This chunk contains information about the 1952 Italian melodrama film \"Who is Without Sin,\" including its original title, director, source material, and its place within a series of romantic melodramas.",
+      "context_title": "Who Is Without Sin",
+      "page_content": "The Italian title of Who is Without Sin is Chi è senza peccato. Who is Without Sin was directed by Raffaello Matarazzo. Who is Without Sin is an adaptation of the novel Geneviève. Who is Without Sin was released in 1952. Who is Without Sin is an Italian melodrama film. Who is Without Sin was part of a series of romantic melodramas."
+    },
+    {
+      "chunk_id": "2ca3580f-5f3b-475b-8379-15b0ddfd1ab4",
+      "chunk_title": "Giovanni \"Tinto\" Brass Filmography",
+      "chunk_summary": "This chunk contains information about the professional background, identity, and filmography of Italian filmmaker Giovanni \"Tinto\" Brass.",
+      "context_title": "Tinto Brass",
+      "page_content": "Giovanni \"Tinto\" Brass directed the film \"Frivolous Lola\". In the 1960s and 1970s, Giovanni \"Tinto\" Brass directed many critically acclaimed avant-garde films of various genres. \"Così fan tutte\" was released under the English title \"All Ladies Do It\". Giovanni \"Tinto\" Brass directed the film \"Caligula\". Giovanni \"Tinto\" Brass is an Italian filmmaker. Giovanni \"Tinto\" Brass directed the film \"Così fan tutte\". Giovanni \"Tinto\" Brass directed the film \"Paprika\". Giovanni \"Tinto\" Brass directed the film \"Trasgredire\". Giovanni \"Tinto\" Brass directed the film \"Monella\". Today, Giovanni \"Tinto\" Brass is mainly known for his later work in the erotic genre."
+    },
+    {
+      "chunk_id": "2210dc34-d182-436d-b06f-659df1ea9bf3",
+      "chunk_title": "Professional Roles & Titles",
+      "chunk_summary": "This chunk contains information about the professional roles and titles of historical figures.",
+      "context_title": "Leverian collection",
+      "page_content": "Captain James Cook was a captain."
+    },
+    {
+      "chunk_id": "3034e1b7-3013-48a0-87eb-f1bfee86039f",
+      "chunk_title": "Film Details & Cast",
+      "chunk_summary": "This chunk contains information about the 1947 Western fantasy film \"Heaven Only Knows,\" including its director and starring actors.",
+      "context_title": "Heaven Only Knows (film)",
+      "page_content": "Heaven Only Knows was directed by Albert S. Rogell. Heaven Only Knows is a 1947 Western fantasy film. Heaven Only Knows starred Brian Donlevy. Heaven Only Knows starred Robert Cummings. Heaven Only Knows starred Marjorie Reynolds."
+    },
+    {
+      "chunk_id": "ad2e4c8f-6790-408e-b2f4-caa2645728e7",
+      "chunk_title": "The Nun and the Sergeant",
+      "chunk_summary": "This chunk contains information about the 1962 Korean War drama film \"The Nun and the Sergeant,\" including its cast, crew, production details, and related works with similar themes.",
+      "context_title": "The Nun and the Sergeant",
+      "page_content": "The Nun and the Sergeant is a 1962 Korean War drama. The Nun and the Sergeant was released through United Artists. Franklin Adreon directed The Nun and the Sergeant. Heaven Knows, Mr Allison featured a pairing of a Catholic nun and a U.S. Marine. Anna Sten starred in the title role of The Nun and the Sergeant. Eugene Frenke produced The Nun and the Sergeant. Eugene Frenke produced Heaven Knows, Mr Allison. Robert Webber starred in the title role of The Nun and the Sergeant."
+    },
+    {
+      "chunk_id": "6ae4fd61-2527-42c3-a690-0ec81e12ffda",
+      "chunk_title": "Peter Jackson's Film Career",
+      "chunk_summary": "This chunk contains information about the film industry career, notable works (including adaptations of J.R.R. Tolkien's novels and other genres), associated release dates, commercial achievements, awards, and key collaborators of Peter Robert Jackson.",
+      "context_title": "Peter Jackson",
+      "page_content": "Peter Robert Jackson was made a Companion of the New Zealand Order of Merit in 2002. Peter Robert Jackson's films have made over $6.5 billion worldwide. Peter Robert Jackson received the Academy Award for Best Director. Peter Robert Jackson shared a nomination for Academy Award for Best Original Screenplay for \"Heavenly Creatures\". Peter Robert Jackson is a screenwriter. The \"Lord of the Rings\" trilogy is adapted from novels by J. R. R. Tolkien. Fran Walsh shared a nomination for Academy Award for Best Original Screenplay with Peter Robert Jackson for \"Heavenly Creatures\". \"Meet the Feebles\" was released in 1989. Fran Walsh and Philippa Boyens are Peter Robert Jackson's most regular collaborators. The \"Hobbit\" trilogy is adapted from novels by J. R. R. Tolkien. Peter Robert Jackson directed the horror comedy \"The Frighteners\". Peter Robert Jackson directed the mockumentary film \"Forgotten Silver\". Philippa Boyens is a co-writer and producer for Peter Robert Jackson. Peter Robert Jackson directed the drama film \"Heavenly Creatures\". Peter Robert Jackson directed the epic monster remake film \"King Kong\". \"Bad Taste\" is a \"splatstick\" horror comedy. Peter Robert Jackson has been awarded three Academy Awards. \"Bad Taste\" was released in 1987. Peter Robert Jackson is best known as the writer of the \"Lord of the Rings\" trilogy. Peter Robert Jackson directed the supernatural drama film \"The Lovely Bones\". Peter Robert Jackson is best known as the director of the \"Hobbit\" trilogy. \"Braindead\" was released in 1992. Peter Robert Jackson has been awarded three BAFTAs. \"Heavenly Creatures\" was critically lauded. \"Heavenly Creatures\" brought Peter Robert Jackson to mainstream prominence in the film industry. Peter Robert Jackson has been awarded four Saturn Awards. The \"Hobbit\" trilogy was released between 2012 and 2014. \"West of Memphis\" was released in 2012. Peter Robert Jackson received Academy Awards in 2003. Peter Robert Jackson is best known as the producer of the \"Hobbit\" trilogy. Peter Robert Jackson produced \"District 9\". The \"Lord of the Rings\" trilogy was released between 2001 and 2003. Peter Robert Jackson is a film producer. \"The Frighteners\" was released in 1996. Peter Robert Jackson began his career with the black comedy \"Meet the Feebles\". Fran Walsh is a co-writer and producer for Peter Robert Jackson. Peter Robert Jackson produced \"Mortal Engines\". Peter Robert Jackson is the third-highest grossing film director. Peter Robert Jackson produced \"West of Memphis\". Peter Robert Jackson has been awarded a Golden Globe. \"Heavenly Creatures\" was released in 1994. \"They Shall Not Grow Old\" was released in 2018. Peter Robert Jackson's production company is WingNut Films. Peter Robert Jackson directed the World War I documentary film \"They Shall Not Grow Old\". \"King Kong\" was released in 2005. Peter Robert Jackson began his career with the horror comedy \"Bad Taste\". \"District 9\" was released in 2009. \"The Lovely Bones\" was released in 2009. Peter Robert Jackson filmed the zombie comedy \"Braindead\". Peter Robert Jackson is best known as the writer of the \"Hobbit\" trilogy. Peter Robert Jackson is best known as the producer of the \"Lord of the Rings\" trilogy. \"The Adventures of Tintin\" was released in 2011. Peter Robert Jackson produced \"The Adventures of Tintin\". \"Forgotten Silver\" was released in 1995. \"Mortal Engines\" was released in 2018."
+    },
+    {
+      "chunk_id": "94e4a8f9-8df0-4c9b-ad11-013f728f130e",
+      "chunk_title": "Donna Summer Career",
+      "chunk_summary": "This chunk contains information about the identity, professional roles, career prominence, influential musical works, and commercial achievements of Donna Summer.",
+      "context_title": "Donna Summer",
+      "page_content": "Donna Summer was an American actress. Donna Summer charted a number-one single in the United Kingdom. \"On the Radio\" was a hit single by Donna Summer. Donna Summer gained prominence during the disco era of the late 1970s. Donna Summer was an American singer. Donna Summer was the first artist to have three consecutive double albums reach number one on the US \"Billboard\" 200 chart. Donna Summer became known as the \"Queen of Disco\". Giorgio Moroder described Donna Summer's work with him and Pete Bellotte on the song \"I Feel Love\" as \"really the start of electronic dance\" music. \"No More Tears (Enough Is Enough)\" was a duet between Donna Summer and Barbra Streisand. \"I Feel Love\" was an influential disco hit recorded by Donna Summer with Giorgio Moroder and Pete Bellotte. Donna Summer had 12 top-ten hits from 1976 to the end of 1982. Donna Summer charted four number-one singles in the US within a 12-month period. \"Dim All the Lights\" was a hit single by Donna Summer. Donna Summer joined a touring version of the musical \"Hair\". \"MacArthur Park\" was a hit single by Donna Summer. Donna Summer spent several years acting in Europe. Donna Summer returned to the Hot 100's top-five in 1983. The recording of \"Love to Love You Baby\" and \"I Feel Love\" marked Donna Summer's breakthrough into an international career. \"Hot Stuff\" was a hit single by Donna Summer. Donna Summer won five Grammy Awards. Donna Summer's fortunes on the Hot 100 waned through the decades following her peak. Donna Summer was an American songwriter. \"Bad Girls\" was a hit single by Donna Summer. \"Last Dance\" was a hit single by Donna Summer. Donna Summer earned a total of 42 hit singles on the US \"Billboard\" Hot 100 in her lifetime. \"No More Tears (Enough Is Enough)\" was a hit single by Donna Summer. Donna Summer was described as the \"undisputed queen of the Seventies disco boom\" in her obituary in \"The Times\". Donna Summer had her first top-ten hit in 1976. Donna Summer became the lead singer of a psychedelic rock band named Crow. Donna Summer claimed a top 40 hit every year between 1975 and 1984. Donna Summer reportedly sold over 100 million records worldwide. Donna Summer is one of the best-selling music artists of all time. Donna Summer charted two number-one singles on the R&B Singles chart in the US. \"Billboard\" ranked Donna Summer at No. 6 on its list of the Greatest of All Time Top Dance Club Artists in December 2016. 10 of Donna Summer's top-ten hits between 1976 and 1982 were top-five hits. Donna Summer claimed her final top-ten hit in 1989 with \"This Time I Know It's for Real\". \"Heaven Knows\" was a hit single by Donna Summer. Donna Summer had more top-ten hits between 1976 and 1982 than any other act during that time period. Donna Summer remained a force on the \"Billboard\" Dance Club Songs chart over her entire career. Donna Summer's music gained a global following. Donna Summer was described as reaching the status of \"one of the world's leading female singers\" in her obituary in \"The Times\". 14 of Donna Summer's hit singles reached the top-ten on the US \"Billboard\" Hot 100. Donna Summer was inducted into the Rock and Roll Hall of Fame in 2013. \"Love to Love You Baby\" was an influential disco hit recorded by Donna Summer with Giorgio Moroder and Pete Bellotte. Donna Summer's most recent Hot 100 hit came in 1999 with \"I Will Go with You (Con Te Partiro)\"."
+    },
+    {
+      "chunk_id": "9e2a486f-47c5-415a-b966-d46f5f3d597a",
+      "chunk_title": "Alfred Vohrer's Film Career",
+      "chunk_summary": "This chunk contains information about the German film director Alfred Vohrer, including his career span, total film count, and specific films entered into international festivals.",
+      "context_title": "Alfred Vohrer",
+      "page_content": "Alfred Vohrer's 1974 film \"Only the Wind Knows the Answer\" was entered into the 9th Moscow International Film Festival. Alfred Vohrer directed 48 films between 1958 and 1984. Alfred Vohrer's 1969 film \"Seven Days Grace\" was entered into the 6th Moscow International Film Festival. Alfred Vohrer was a German film director. Alfred Vohrer's 1972 film \"Tears of Blood\" was entered into the 8th Moscow International Film Festival."
+    },
+    {
+      "chunk_id": "ed8956be-ce79-4390-a3cb-1f56fb298d49",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, festival entries, and the real-life figures or stories they are based on.",
+      "context_title": "The Magic Bow",
+      "page_content": "The Magic Bow was directed by Bernard Knowles. The Magic Bow was entered into the 1946 Cannes Film Festival. The Magic Bow is a 1946 British musical film. The Magic Bow is based on the life and loves of Niccolò Paganini."
+    },
+    {
+      "chunk_id": "f6aa5664-4809-4fb4-8137-5975228a954e",
+      "chunk_title": "Film Details & Premiere",
+      "chunk_summary": "This chunk contains information about the Indian film \"Dozakh in Search of Heaven,\" including its language, director, producers, cast, premiere details, and source material.",
+      "context_title": "Dozakh in Search of Heaven",
+      "page_content": "Dozakh in Search of Heaven was jointly produced by Pawan Tiwari. Dozakh in Search of Heaven was directed by Zaigham Imam. Dozakh in Search of Heaven premiered on 12 November 2013. The book adapted in Dozakh in Search of Heaven has the same name as the film. Dozakh in Search of Heaven is an adaptation of a book. Dozakh in Search of Heaven is an Indian Hindi-Urdu film. Dozakh in Search of Heaven was jointly produced by Zaigham Imam. Dozakh in Search of Heaven premiered at the Kolkata International Film Festival. Pawan Tiwari acts in Dozakh in Search of Heaven."
+    },
+    {
+      "chunk_id": "9a9ddd18-8881-409d-9af0-8c3eaf0ce6bc",
+      "chunk_title": "Who Are You, Polly Maggoo? Film Details",
+      "chunk_summary": "This chunk contains information about the 1966 French satirical film \"Who Are You, Polly Maggoo?\", including its director, cast, genre, thematic focus on spoofing the fashion world, and details about the lead actress Dorothy McGowan.",
+      "context_title": "Who Are You, Polly Maggoo?",
+      "page_content": "The character Miss Maxwell is modeled after Diana Vreeland. Dorothy McGowan stars in Who Are You, Polly Maggoo?. Who Are You, Polly Maggoo? spoofs the fashion world and its excesses. Sami Frey appears in Who Are You, Polly Maggoo?. Grayson Hall stars in Who Are You, Polly Maggoo?. Jean Rochefort appears in Who Are You, Polly Maggoo?. Dorothy McGowan plays the supermodel Polly Maggoo in Who Are You, Polly Maggoo?. Who Are You, Polly Maggoo? was Dorothy McGowan's only film role. Dorothy McGowan apparently neither acted nor modeled again after the release of Who Are You, Polly Maggoo?, according to William Klein. Who Are You, Polly Maggoo? was Dorothy McGowan's first film role. Dorothy McGowan was an Irish-American model prior to the film Who Are You, Polly Maggoo?. Who Are You, Polly Maggoo? is a 1966 French film. Who Are You, Polly Maggoo? was directed by William Klein. Alice Sapritch appears in Who Are You, Polly Maggoo?. Dorothy McGowan disappeared from public view after the release of Who Are You, Polly Maggoo?. Miss Maxwell is a fashion magazine editor in Who Are You, Polly Maggoo?. Who Are You, Polly Maggoo? is a satirical art house movie. Grayson Hall plays Miss Maxwell in Who Are You, Polly Maggoo?. Polly Maggoo is followed by a French television crew in Who Are You, Polly Maggoo?. Philippe Noiret stars in Who Are You, Polly Maggoo?. Philippe Noiret plays the TV reporter and director in Who Are You, Polly Maggoo?."
+    },
+    {
+      "chunk_id": "4134eb42-5082-4f98-a51e-620dcb0a773d",
+      "chunk_title": "John Reinhardt's Biography",
+      "chunk_summary": "This chunk contains biographical details about John Reinhardt, including his Austrian nationality, his professions as an actor, screenwriter, and film director, his work in Mexico, and specific films he directed.",
+      "context_title": "John Reinhardt (director)",
+      "page_content": "John Reinhardt was an Austrian screenwriter. John Reinhardt worked for a number of years in Mexico. John Reinhardt was an Austrian film director. John Reinhardt directed the 1948 American Cold War thriller \"Sofia\". John Reinhardt was an Austrian actor."
+    },
+    {
+      "chunk_id": "6fac7a72-0f51-4c59-9287-3ac7ad8355ca",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "John Reinhardt (director)",
+      "page_content": "John Reinhardt was born in 1901."
+    },
+    {
+      "chunk_id": "5365f321-12c9-48fc-83df-b7ebd227009d",
+      "chunk_title": "Marital Relationships",
+      "chunk_summary": "This chunk contains information about the marital relationships of individuals.",
+      "context_title": "John Reinhardt (director)",
+      "page_content": "John Reinhardt was married to Elizabeth Reinhardt."
+    },
+    {
+      "chunk_id": "12377fe6-f61f-4820-9a90-e85b206c6511",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the death dates of individuals.",
+      "context_title": "John Reinhardt (director)",
+      "page_content": "John Reinhardt died in 1953."
+    },
+    {
+      "chunk_id": "c1e3e95f-c1ff-4ab1-b676-17c26fd99af6",
+      "chunk_title": "Nationalities",
+      "chunk_summary": "This chunk contains information about the nationalities of individuals.",
+      "context_title": "Brian Johnson (special effects artist)",
+      "page_content": "Brian Johnson is British."
+    },
+    {
+      "chunk_id": "03839532-d072-487c-9d39-88423d33bb72",
+      "chunk_title": "Career & Locations",
+      "chunk_summary": "This chunk contains information about the professional roles, nationalities, and active regions of individuals, specifically focusing on Reinhold Schünzel's career as a German actor and director who worked in both Germany and the United States before living abroad.",
+      "context_title": "Reinhold Schünzel",
+      "page_content": "Reinhold Schünzel was active in Germany. Reinhold Schünzel eventually left to live abroad. Reinhold Schünzel was a German director. Reinhold Schünzel was a German actor. Reinhold Schünzel was active in the United States."
+    },
+    {
+      "chunk_id": "ba90f156-0d05-467c-9a71-ddb942fdac02",
+      "chunk_title": "Martin Honert Biography",
+      "chunk_summary": "This chunk contains biographical and artistic information about the German artist Martin Honert, including his birth year, nationality, base of operations, gallery representation, and his focus on veristic sculptures related to childhood memories.",
+      "context_title": "Martin Honert",
+      "page_content": "Martin Honert is a German artist. Martin Honert was born in 1953. Martin Honert is based in Düsseldorf. Martin Honert is represented by the Matthew Marks Gallery. Martin Honert is known for making veristic sculptures of memories or images related to his childhood."
+    },
+    {
+      "chunk_id": "a86b2012-f296-4c9f-99ff-397874c15241",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the professional background and identity of film directors, specifically focusing on their nationality and career output.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell was an American film director. Albert S. Rogell directed more than a hundred movies between 1921 and 1958."
+    },
+    {
+      "chunk_id": "d0df024c-c5c3-4502-b185-641e27c12a9b",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the death dates of individuals.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell died on April 7, 1988."
+    },
+    {
+      "chunk_id": "67f7a2b4-b9f3-4c18-80d6-b26118130773",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the death dates of individuals.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell died on April 7, 1988."
+    },
+    {
+      "chunk_id": "dab25465-c99c-4835-8b85-cfccc1654f51",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth date of Albert S. Rogell.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell was born on August 21, 1901."
+    },
+    {
+      "chunk_id": "c5ffd797-f1ab-4420-a9dc-157be8868a71",
+      "chunk_title": "Birth & Death Places",
+      "chunk_summary": "This chunk contains biographical information about individuals, specifically their birthplaces and death places.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell died in Los Angeles, California. Albert S. Rogell was born in Oklahoma City, Oklahoma."
+    },
+    {
+      "chunk_id": "c8dd50e8-8e11-421d-b67c-8a6e957ea448",
+      "chunk_title": "Birthplaces",
+      "chunk_summary": "This chunk contains information about the birthplace of individuals.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell was born in Oklahoma City, Oklahoma."
+    },
+    {
+      "chunk_id": "47dff52e-95c2-4456-900c-42cb7661c846",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth date of Albert S. Rogell.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell was born on August 21, 1901."
+    },
+    {
+      "chunk_id": "1561e767-0f21-4636-9bca-85ce99a4e7e4",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the professional background and identity of film directors, specifically focusing on their nationality and career output.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell directed more than a hundred movies between 1921 and 1958. Albert S. Rogell was an American film director."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.45161290322580644,
+  "retrieval_count": 4,
+  "total_chunks": 31,
+  "total_distinct_titles": 21,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 5,
+  "dag_edges": 4,
+  "dag_snapshots": [
+    {
+      "q": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两部电影的导演国籍是否相同",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未合成最终答案。其子节点 N1_3 (Austrian) 和 N1_4 (American) 已求解，但两者国籍不同，需明确比较结论。当前状态为 'unsolved'，依赖子节点推理链的完整性。",
+          "critic_normative_advice": "建议 INHERIT 子节点状态并生成最终比较结论。N1_3 和 N1_4 的答案已明确（Austrian vs American），逻辑上可直接得出 'No' 的结论。需确保最终答案生成器执行此比较。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Captain Calamity?",
+          "answer": "John Reinhardt",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Captain Calamity?",
+          "planner_rationale": "Q 询问两部电影的导演是否来自同一国家，首先需要确定《Captain Calamity》的导演是谁",
+          "solver_judgment": "question 要求找出电影《Captain Calamity》的导演。search_query 搜索了 'Who is the director of the film Captain Calamity?'。chunks 返回了关于该电影的详细信息，其中 chunk d99408db-a339-4e0b-a089-39dbfe6b4523 明确记载 \"Captain Calamity was directed by John Reinhardt\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源 (Captain Calamity (film))。Chunk d99408db... 明确陈述 'Captain Calamity was directed by John Reinhardt'。证据直接、具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Heaven Only Knows?",
+          "answer": "Albert S. Rogell",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Heaven Only Knows?",
+          "planner_rationale": "Q 询问两部电影的导演是否来自同一国家，首先需要确定《Heaven Only Knows》的导演是谁",
+          "solver_judgment": "question 要求找出电影《Heaven Only Knows》的导演。search_query 搜索了 'Who is the director of the film Heaven Only Knows?'。chunks 返回了多个包含 'Heaven' 或 'Knows' 字样的电影信息，其中 chunk 3034e1b7-3013-48a0-87eb-f1bfee86039f 明确记载 'Heaven Only Knows was directed by Albert S. Rogell'，直接回答了问题。其他 chunks 涉及《The Nun and the Sergeant》、《Heavenly Creatures》、《Heaven Knows, Mr Allison》（提及但未问导演）、《Only the Wind Knows the Answer》、《Dozakh in Search of Heaven》等，均为干扰项，但目标信息存在且准确。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源 (Heaven Only Knows (film))。Chunk 3034e1b7... 明确陈述 'Heaven Only Knows was directed by Albert S. Rogell'。证据直接、具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the nationality of the director of Captain Calamity?",
+          "answer": "Austrian",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "John Reinhardt nationality",
+          "planner_rationale": "确定了《Captain Calamity》的导演后，需要查询其国籍以进行比较",
+          "solver_judgment": "question 要求找出电影《Captain Calamity》导演的国籍。search_query 搜索了 'John Reinhardt nationality'，暗示检索系统或用户已知导演为 John Reinhardt。chunks 中，chunk d99408db-a339-4e0b-a089-39dbfe6b4523 明确指出 \"Captain Calamity was directed by John Reinhardt\"，确立了导演身份。chunk 4134eb42-5082-4f98-a51e-620dcb0a773d 多次提到 \"John Reinhardt was an Austrian film director\" 和 \"John Reinhardt was an Austrian screenwriter/actor\"，提供了其国籍为奥地利（Austrian）。结合这两个 chunk，可以完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源 (John Reinhardt (director), Captain Calamity (film))。Chunk 4134eb42... 多次陈述 'John Reinhardt was an Austrian film director'。Chunk d99408db... 确认其为 Captain Calamity 导演。交叉验证通过，证据一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多源一致。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "What is the nationality of the director of Heaven Only Knows?",
+          "answer": "American",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Albert S. Rogell nationality",
+          "planner_rationale": "确定了《Heaven Only Knows》的导演后，需要查询其国籍以进行比较",
+          "solver_judgment": "question 要求找出电影《Heaven Only Knows》导演的国籍。search_query 搜索了 'Albert S. Rogell nationality'，这表明检索系统已经识别出 Albert S. Rogell 是该电影的导演。chunks 返回了关于 Albert S. Rogell 的传记信息。其中 chunk a86b2012-f296-4c9f-99ff-397874c15241 和 chunk 1561e767-0f21-4636-9bca-85ce99a4e7e4 均明确记载 \"Albert S. Rogell was an American film director\"。虽然 chunks 中没有直接出现电影名《Heaven Only Knows》，但基于 search_query 的指向性以及 chunk 中提供的导演国籍信息，可以提取出答案为 American。检索精准命中了目标实体的属性。",
+          "critic_factual_notes": "1个独立来源文档 (Albert S. Rogell)，但该文档提供了2个独立chunk (a86b2012..., 1561e767...) 均陈述 'Albert S. Rogell was an American film director'。虽然来源文档单一，但同一文档内多处独立陈述且内容一致，视为强证据。答案 'American' 得到充分支撑。",
+          "critic_normative_advice": "建议 INHERIT——证据充分。虽为单文档来源，但内部多重确认，可靠性高。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_3 (Austrian) 和 N1_4 (American) 已求解，需基于此生成最终比较结论（No）。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_3 (Austrian) 和 N1_4 (American) 已求解且健康，但 ROOT 节点尚未生成最终的比较结论（No）。证据链完整，但聚合步骤未执行。",
+          "critic_normative_advice": "建议 INHERIT 子节点状态并触发最终答案生成。逻辑上 N1_3 != N1_4，结论应为 'No'。需确保系统执行此比较逻辑以将 N0 标记为 solved/healthy。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Captain Calamity?",
+          "answer": "John Reinhardt",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Captain Calamity?",
+          "planner_rationale": "已确立《Captain Calamity》的导演为 John Reinhardt，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影《Captain Calamity》的导演。search_query 搜索了 'Who is the director of the film Captain Calamity?'。chunks 返回了关于该电影的详细信息，其中 chunk d99408db-a339-4e0b-a089-39dbfe6b4523 明确记载 \"Captain Calamity was directed by John Reinhardt\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源 (Captain Calamity (film))。Chunk d99408db... 明确陈述 'Captain Calamity was directed by John Reinhardt'。证据直接、具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Heaven Only Knows?",
+          "answer": "Albert S. Rogell",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Heaven Only Knows?",
+          "planner_rationale": "已确立《Heaven Only Knows》的导演为 Albert S. Rogell，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影《Heaven Only Knows》的导演。search_query 搜索了 'Who is the director of the film Heaven Only Knows?'。chunks 返回了多个包含 'Heaven' 或 'Knows' 字样的电影信息，其中 chunk 3034e1b7-3013-48a0-87eb-f1bfee86039f 明确记载 'Heaven Only Knows was directed by Albert S. Rogell'，直接回答了问题。其他 chunks 涉及《The Nun and the Sergeant》、《Heavenly Creatures》、《Heaven Knows, Mr Allison》（提及但未问导演）、《Only the Wind Knows the Answer》、《Dozakh in Search of Heaven》等，均为干扰项，但目标信息存在且准确。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源 (Heaven Only Knows (film))。Chunk 3034e1b7... 明确陈述 'Heaven Only Knows was directed by Albert S. Rogell'。证据直接、具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the nationality of the director of Captain Calamity?",
+          "answer": "Austrian",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "John Reinhardt nationality",
+          "planner_rationale": "已确立 John Reinhardt 的国籍为 Austrian，多源交叉验证通过，Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影《Captain Calamity》导演的国籍。search_query 搜索了 'John Reinhardt nationality'，暗示检索系统或用户已知导演为 John Reinhardt。chunks 中，chunk d99408db-a339-4e0b-a089-39dbfe6b4523 明确指出 \"Captain Calamity was directed by John Reinhardt\"，确立了导演身份。chunk 4134eb42-5082-4f98-a51e-620dcb0a773d 多次提到 \"John Reinhardt was an Austrian film director\" 和 \"John Reinhardt was an Austrian screenwriter/actor\"，提供了其国籍为奥地利（Austrian）。结合这两个 chunk，可以完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源 (John Reinhardt (director), Captain Calamity (film))。Chunk 4134eb42... 多次陈述 'John Reinhardt was an Austrian film director'。Chunk d99408db... 确认其为 Captain Calamity 导演。交叉验证通过，证据一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多源一致。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "What is the nationality of the director of Heaven Only Knows?",
+          "answer": "American",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Albert S. Rogell nationality",
+          "planner_rationale": "已确立 Albert S. Rogell 的国籍为 American，内部多重确认，Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影《Heaven Only Knows》导演的国籍。search_query 搜索了 'Albert S. Rogell nationality'，这表明检索系统已经识别出 Albert S. Rogell 是该电影的导演。chunks 返回了关于 Albert S. Rogell 的传记信息。其中 chunk a86b2012-f296-4c9f-99ff-397874c15241 和 chunk 1561e767-0f21-4636-9bca-85ce99a4e7e4 均明确记载 \"Albert S. Rogell was an American film director\"。虽然 chunks 中没有直接出现电影名《Heaven Only Knows》，但基于 search_query 的指向性以及 chunk 中提供的导演国籍信息，可以提取出答案为 American。检索精准命中了目标实体的属性。",
+          "critic_factual_notes": "1 个独立来源文档 (Albert S. Rogell)，但该文档提供了 2 个独立 chunk (a86b2012..., 1561e767...) 均陈述 'Albert S. Rogell was an American film director'。虽为单文档来源，但内部多重确认且内容一致，视为强证据。",
+          "critic_normative_advice": "建议 INHERIT——证据充分。虽为单文档来源，但内部多重确认，可靠性高。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_3 (Austrian) 和 N1_4 (American) 已求解且健康，需基于此生成最终比较结论（No）。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_3 (Austrian) 和 N1_4 (American) 已求解且健康，证据链完整。但 ROOT 节点尚未生成最终的比较结论（No），导致其自身状态未更新为 solved/healthy。",
+          "critic_normative_advice": "建议 INHERIT 子节点状态并触发最终答案生成。逻辑上 N1_3 != N1_4，结论应为 'No'。需确保系统执行此比较逻辑以将 N0 标记为 solved/healthy。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Captain Calamity?",
+          "answer": "John Reinhardt",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Captain Calamity?",
+          "planner_rationale": "已确立《Captain Calamity》的导演为 John Reinhardt，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影《Captain Calamity》的导演。search_query 搜索了 'Who is the director of the film Captain Calamity?'。chunks 返回了关于该电影的详细信息，其中 chunk d99408db-a339-4e0b-a089-39dbfe6b4523 明确记载 \"Captain Calamity was directed by John Reinhardt\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源 (Captain Calamity (film))。Chunk d99408db... 明确陈述 'Captain Calamity was directed by John Reinhardt'。证据直接、具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Heaven Only Knows?",
+          "answer": "Albert S. Rogell",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Heaven Only Knows?",
+          "planner_rationale": "已确立《Heaven Only Knows》的导演为 Albert S. Rogell，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影《Heaven Only Knows》的导演。search_query 搜索了 'Who is the director of the film Heaven Only Knows?'。chunks 返回了多个包含 'Heaven' 或 'Knows' 字样的电影信息，其中 chunk 3034e1b7-3013-48a0-87eb-f1bfee86039f 明确记载 'Heaven Only Knows was directed by Albert S. Rogell'，直接回答了问题。其他 chunks 涉及《The Nun and the Sergeant》、《Heavenly Creatures》、《Heaven Knows, Mr Allison》（提及但未问导演）、《Only the Wind Knows the Answer》、《Dozakh in Search of Heaven》等，均为干扰项，但目标信息存在且准确。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源 (Heaven Only Knows (film))。Chunk 3034e1b7... 明确陈述 'Heaven Only Knows was directed by Albert S. Rogell'。证据直接、具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the nationality of the director of Captain Calamity?",
+          "answer": "Austrian",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "John Reinhardt nationality",
+          "planner_rationale": "已确立 John Reinhardt 的国籍为 Austrian，多源交叉验证通过，Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影《Captain Calamity》导演的国籍。search_query 搜索了 'John Reinhardt nationality'，暗示检索系统或用户已知导演为 John Reinhardt。chunks 中，chunk d99408db-a339-4e0b-a089-39dbfe6b4523 明确指出 \"Captain Calamity was directed by John Reinhardt\"，确立了导演身份。chunk 4134eb42-5082-4f98-a51e-620dcb0a773d 多次提到 \"John Reinhardt was an Austrian film director\" 和 \"John Reinhardt was an Austrian screenwriter/actor\"，提供了其国籍为奥地利（Austrian）。结合这两个 chunk，可以完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源 (John Reinhardt (director), Captain Calamity (film))。Chunk 4134eb42... 多次陈述 'John Reinhardt was an Austrian film director'。Chunk d99408db... 确认其为 Captain Calamity 导演。交叉验证通过，证据一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多源一致。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "What is the nationality of the director of Heaven Only Knows?",
+          "answer": "American",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Albert S. Rogell nationality",
+          "planner_rationale": "已确立 Albert S. Rogell 的国籍为 American，内部多重确认，Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影《Heaven Only Knows》导演的国籍。search_query 搜索了 'Albert S. Rogell nationality'，这表明检索系统已经识别出 Albert S. Rogell 是该电影的导演。chunks 返回了关于 Albert S. Rogell 的传记信息。其中 chunk a86b2012-f296-4c9f-99ff-397874c15241 和 chunk 1561e767-0f21-4636-9bca-85ce99a4e7e4 均明确记载 \"Albert S. Rogell was an American film director\"。虽然 chunks 中没有直接出现电影名《Heaven Only Knows》，但基于 search_query 的指向性以及 chunk 中提供的导演国籍信息，可以提取出答案为 American。检索精准命中了目标实体的属性。",
+          "critic_factual_notes": "1 个独立来源文档 (Albert S. Rogell)，但该文档提供了 2 个独立 chunk (a86b2012..., 1561e767...) 均陈述 'Albert S. Rogell was an American film director'。虽为单文档来源，但内部多重确认且内容一致，视为强证据。",
+          "critic_normative_advice": "建议 INHERIT——证据充分。虽为单文档来源，但内部多重确认，可靠性高。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份及国籍）已确立且健康，需基于 N1_3 (Austrian) 和 N1_4 (American) 的比较结果生成最终答案 'No'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_3 (Austrian) 和 N1_4 (American) 已求解且健康，证据链完整。但 ROOT 节点尚未生成最终的比较结论（No），导致其自身状态未更新为 solved/healthy。",
+          "critic_normative_advice": "建议 INHERIT 子节点状态并触发最终答案生成。逻辑上 N1_3 != N1_4，结论应为 'No'。需确保系统执行此比较逻辑以将 N0 标记为 solved/healthy。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Captain Calamity?",
+          "answer": "John Reinhardt",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Captain Calamity?",
+          "planner_rationale": "已确立《Captain Calamity》的导演为 John Reinhardt，证据充分且 Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求找出电影《Captain Calamity》的导演。search_query 搜索了 'Who is the director of the film Captain Calamity?'。chunks 返回了关于该电影的详细信息，其中 chunk d99408db-a339-4e0b-a089-39dbfe6b4523 明确记载 \"Captain Calamity was directed by John Reinhardt\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源 (Captain Calamity (film))。Chunk d99408db... 明确陈述 'Captain Calamity was directed by John Reinhardt'。证据直接、具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Heaven Only Knows?",
+          "answer": "Albert S. Rogell",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Heaven Only Knows?",
+          "planner_rationale": "已确立《Heaven Only Knows》的导演为 Albert S. Rogell，证据充分且 Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求找出电影《Heaven Only Knows》的导演。search_query 搜索了 'Who is the director of the film Heaven Only Knows?'。chunks 返回了多个包含 'Heaven' 或 'Knows' 字样的电影信息，其中 chunk 3034e1b7-3013-48a0-87eb-f1bfee86039f 明确记载 'Heaven Only Knows was directed by Albert S. Rogell'，直接回答了问题。其他 chunks 涉及《The Nun and the Sergeant》、《Heavenly Creatures》、《Heaven Knows, Mr Allison》（提及但未问导演）、《Only the Wind Knows the Answer》、《Dozakh in Search of Heaven》等，均为干扰项，但目标信息存在且准确。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源 (Heaven Only Knows (film))。Chunk 3034e1b7... 明确陈述 'Heaven Only Knows was directed by Albert S. Rogell'。证据直接、具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the nationality of the director of Captain Calamity?",
+          "answer": "Austrian",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "John Reinhardt nationality",
+          "planner_rationale": "已确立 John Reinhardt 的国籍为 Austrian，多源交叉验证通过，Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求找出电影《Captain Calamity》导演的国籍。search_query 搜索了 'John Reinhardt nationality'，暗示检索系统或用户已知导演为 John Reinhardt。chunks 中，chunk d99408db-a339-4e0b-a089-39dbfe6b4523 明确指出 \"Captain Calamity was directed by John Reinhardt\"，确立了导演身份。chunk 4134eb42-5082-4f98-a51e-620dcb0a773d 多次提到 \"John Reinhardt was an Austrian film director\" 和 \"John Reinhardt was an Austrian screenwriter/actor\"，提供了其国籍为奥地利（Austrian）。结合这两个 chunk，可以完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源 (John Reinhardt (director), Captain Calamity (film))。Chunk 4134eb42... 多次陈述 'John Reinhardt was an Austrian film director'。Chunk d99408db... 确认其为 Captain Calamity 导演。交叉验证通过，证据一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多源一致。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "What is the nationality of the director of Heaven Only Knows?",
+          "answer": "American",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Albert S. Rogell nationality",
+          "planner_rationale": "已确立 Albert S. Rogell 的国籍为 American，内部多重确认，Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求找出电影《Heaven Only Knows》导演的国籍。search_query 搜索了 'Albert S. Rogell nationality'，这表明检索系统已经识别出 Albert S. Rogell 是该电影的导演。chunks 返回了关于 Albert S. Rogell 的传记信息。其中 chunk a86b2012-f296-4c9f-99ff-397874c15241 和 chunk 1561e767-0f21-4636-9bca-85ce99a4e7e4 均明确记载 \"Albert S. Rogell was an American film director\"。虽然 chunks 中没有直接出现电影名《Heaven Only Knows》，但基于 search_query 的指向性以及 chunk 中提供的导演国籍信息，可以提取出答案为 American。检索精准命中了目标实体的属性。",
+          "critic_factual_notes": "1 个独立来源文档 (Albert S. Rogell)，但该文档提供了 2 个独立 chunk (a86b2012..., 1561e767...) 均陈述 'Albert S. Rogell was an American film director'。虽为单文档来源，但内部多重确认且内容一致，视为强证据。",
+          "critic_normative_advice": "建议 INHERIT——证据充分。虽为单文档来源，但内部多重确认，可靠性高。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份及国籍）已确立且健康，需基于 N1_3 (Austrian) 和 N1_4 (American) 的比较结果生成最终答案 'No'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_3 (Austrian) 和 N1_4 (American) 已求解且健康，证据链完整。但 ROOT 节点尚未生成最终的比较结论（No），导致其自身状态未更新为 solved/healthy。",
+          "critic_normative_advice": "建议 INHERIT 子节点状态并触发最终答案生成。逻辑上 N1_3 != N1_4，结论应为 'No'。需确保系统执行此比较逻辑以将 N0 标记为 solved/healthy。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Captain Calamity?",
+          "answer": "John Reinhardt",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Captain Calamity?",
+          "planner_rationale": "已确立《Captain Calamity》的导演为 John Reinhardt，证据充分且 Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求找出电影《Captain Calamity》的导演。search_query 搜索了 'Who is the director of the film Captain Calamity?'。chunks 返回了关于该电影的详细信息，其中 chunk d99408db-a339-4e0b-a089-39dbfe6b4523 明确记载 \"Captain Calamity was directed by John Reinhardt\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源 (Captain Calamity (film))。Chunk d99408db... 明确陈述 'Captain Calamity was directed by John Reinhardt'。证据直接、具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Heaven Only Knows?",
+          "answer": "Albert S. Rogell",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Heaven Only Knows?",
+          "planner_rationale": "已确立《Heaven Only Knows》的导演为 Albert S. Rogell，证据充分且 Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求找出电影《Heaven Only Knows》的导演。search_query 搜索了 'Who is the director of the film Heaven Only Knows?'。chunks 返回了多个包含 'Heaven' 或 'Knows' 字样的电影信息，其中 chunk 3034e1b7-3013-48a0-87eb-f1bfee86039f 明确记载 'Heaven Only Knows was directed by Albert S. Rogell'，直接回答了问题。其他 chunks 涉及《The Nun and the Sergeant》、《Heavenly Creatures》、《Heaven Knows, Mr Allison》（提及但未问导演）、《Only the Wind Knows the Answer》、《Dozakh in Search of Heaven》等，均为干扰项，但目标信息存在且准确。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源 (Heaven Only Knows (film))。Chunk 3034e1b7... 明确陈述 'Heaven Only Knows was directed by Albert S. Rogell'。证据直接、具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the nationality of the director of Captain Calamity?",
+          "answer": "Austrian",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "John Reinhardt nationality",
+          "planner_rationale": "已确立 John Reinhardt 的国籍为 Austrian，多源交叉验证通过，Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求找出电影《Captain Calamity》导演的国籍。search_query 搜索了 'John Reinhardt nationality'，暗示检索系统或用户已知导演为 John Reinhardt。chunks 中，chunk d99408db-a339-4e0b-a089-39dbfe6b4523 明确指出 \"Captain Calamity was directed by John Reinhardt\"，确立了导演身份。chunk 4134eb42-5082-4f98-a51e-620dcb0a773d 多次提到 \"John Reinhardt was an Austrian film director\" 和 \"John Reinhardt was an Austrian screenwriter/actor\"，提供了其国籍为奥地利（Austrian）。结合这两个 chunk，可以完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源 (John Reinhardt (director), Captain Calamity (film))。Chunk 4134eb42... 多次陈述 'John Reinhardt was an Austrian film director'。Chunk d99408db... 确认其为 Captain Calamity 导演。交叉验证通过，证据一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多源一致。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "What is the nationality of the director of Heaven Only Knows?",
+          "answer": "American",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Albert S. Rogell nationality",
+          "planner_rationale": "已确立 Albert S. Rogell 的国籍为 American，内部多重确认，Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求找出电影《Heaven Only Knows》导演的国籍。search_query 搜索了 'Albert S. Rogell nationality'，这表明检索系统已经识别出 Albert S. Rogell 是该电影的导演。chunks 返回了关于 Albert S. Rogell 的传记信息。其中 chunk a86b2012-f296-4c9f-99ff-397874c15241 和 chunk 1561e767-0f21-4636-9bca-85ce99a4e7e4 均明确记载 \"Albert S. Rogell was an American film director\"。虽然 chunks 中没有直接出现电影名《Heaven Only Knows》，但基于 search_query 的指向性以及 chunk 中提供的导演国籍信息，可以提取出答案为 American。检索精准命中了目标实体的属性。",
+          "critic_factual_notes": "1 个独立来源文档 (Albert S. Rogell)，但该文档提供了 2 个独立 chunk (a86b2012..., 1561e767...) 均陈述 'Albert S. Rogell was an American film director'。虽为单文档来源，但内部多重确认且内容一致，视为强证据。",
+          "critic_normative_advice": "建议 INHERIT——证据充分。虽为单文档来源，但内部多重确认，可靠性高。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the director of the film Captain Calamity?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "d99408db-a339-4e0b-a089-39dbfe6b4523",
+        "361eac08-ff5f-44e7-9e71-a60de904a5d3",
+        "deadbbc8-5647-4866-92fe-957bec28a22b",
+        "4d0365c2-ecb4-4507-ac28-84503a80b708",
+        "45d44d44-13ff-46e0-a877-fc9028f5067e",
+        "39d49de5-7852-4a16-9533-d884b582c093",
+        "2ca3580f-5f3b-475b-8379-15b0ddfd1ab4",
+        "2210dc34-d182-436d-b06f-659df1ea9bf3"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who is the director of the film Heaven Only Knows?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "3034e1b7-3013-48a0-87eb-f1bfee86039f",
+        "ad2e4c8f-6790-408e-b2f4-caa2645728e7",
+        "6ae4fd61-2527-42c3-a690-0ec81e12ffda",
+        "94e4a8f9-8df0-4c9b-ad11-013f728f130e",
+        "9e2a486f-47c5-415a-b966-d46f5f3d597a",
+        "ed8956be-ce79-4390-a3cb-1f56fb298d49",
+        "f6aa5664-4809-4fb4-8137-5975228a954e",
+        "9a9ddd18-8881-409d-9af0-8c3eaf0ce6bc"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "John Reinhardt nationality",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "4134eb42-5082-4f98-a51e-620dcb0a773d",
+        "6fac7a72-0f51-4c59-9287-3ac7ad8355ca",
+        "5365f321-12c9-48fc-83df-b7ebd227009d",
+        "12377fe6-f61f-4820-9a90-e85b206c6511",
+        "c1e3e95f-c1ff-4ab1-b676-17c26fd99af6",
+        "d99408db-a339-4e0b-a089-39dbfe6b4523",
+        "03839532-d072-487c-9d39-88423d33bb72",
+        "ba90f156-0d05-467c-9a71-ddb942fdac02"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Albert S. Rogell nationality",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "a86b2012-f296-4c9f-99ff-397874c15241",
+        "d0df024c-c5c3-4502-b185-641e27c12a9b",
+        "67f7a2b4-b9f3-4c18-80d6-b26118130773",
+        "dab25465-c99c-4835-8b85-cfccc1654f51",
+        "c5ffd797-f1ab-4420-a9dc-157be8868a71",
+        "c8dd50e8-8e11-421d-b67c-8a6e957ea448",
+        "47dff52e-95c2-4456-900c-42cb7661c846",
+        "1561e767-0f21-4636-9bca-85ce99a4e7e4"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of Captain Calamity?（理由：需先识别第一部电影的导演），F2: Who is the director of Heaven Only Knows?（理由：需先识别第二部电影的导演），F3: What is the nationality of the director of Captain Calamity?（理由：需获取第一位导演的国籍），F4: What is the nationality of the director of Heaven Only Knows?（理由：需获取第二位导演的国籍）。关系: F1 和 F2 是 Q 的直接分解产物（decomposition），F3 依赖于 F1 的答案（dependency——需知道导演是谁才能查国籍），F4 依赖于 F2 的答案（dependency——需知道导演是谁才能查国籍）。最终通过比较 F3 和 F4 的答案来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将问题拆解为识别两位导演及其国籍四个子任务，并通过依赖关系确保搜索顺序正确。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件①未满足：ROOT 节点 N0 状态仍为 'unsolved'。虽然所有子节点 (N1_1-N1_4) 均已 SOLVED 且 healthy，推理链语义匹配 (条件②) 且全部节点健康 (条件③)，但系统要求 ROOT 节点也必须处于可终结状态（通常需显式标记为 solved 或由答案生成器完成最终合成）。当前 N0 尚未生成最终比较答案（'No'），因此不能终止。建议下一步由答案生成器基于"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of Captain Calamity? (已确立: John Reinhardt), F2: Who is the director of Heaven Only Knows? (已确立: Albert S. Rogell), F3: What is the nationality of John Reinhardt? (已确立: Austrian), F4: What is the nationality of Albert S. Rogell? (已确立: American)。关系: F1 和 F2 是 Q 的直接分解产物 (decomposition)，F3 依赖于 F1 (dependency)，F4 依赖于 F2 (dependency)。所有子事实均已 SOLVED + healthy，DAG 结构完整，只需保留现有结构以支持最终答案合成。",
+      "hypothesis_delta": "本轮无结构变更。上一轮初始分解策略完全正确：所有四个子节点 (N1_1, N1_2, N1_3, N1_4) 均成功求解且被 Critic 判定为 healthy。无需新增、删除或重标任何节点。所有 INHERIT 操作旨在保持 DAG 稳定性，等待系统基于已确立的子节点答案合成根节点 N0 的最终结论。修正：显式声明保留所有旧边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（状态 unsolved，未生成最终比较结论）。虽然所有叶子节点 healthy 且推理链语义有效（条件②通过），但根节点未完成最终答案合成，导致整体 DAG 未达到 fully healthy 状态。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of Captain Calamity? (John Reinhardt), F2: Who is the director of Heaven Only Knows? (Albert S. Rogell), F3: What is the nationality of John Reinhardt? (Austrian), F4: What is the nationality of Albert S. Rogell? (American)。关系: F1 和 F2 是 Q 的直接分解产物 (decomposition)，F3 依赖于 F1 (dependency)，F4 依赖于 F2 (dependency)。所有子事实均已 SOLVED + healthy，DAG 结构完整，只需保留现有结构以支持最终答案合成。",
+      "hypothesis_delta": "本轮无结构变更。上一轮初始分解策略完全正确：所有四个子节点 (N1_1, N1_2, N1_3, N1_4) 均成功求解且被 Critic 判定为 healthy。无需新增、删除或重标任何节点。所有 INHERIT 操作旨在保持 DAG 稳定性，等待系统基于已确立的子节点答案合成根节点 N0 的最终结论。修正：显式声明保留所有旧边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）通过 LINK 原语，以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（因为状态仍为 unsolved，未生成最终比较结论）。虽然所有叶子节点 healthy 且推理链语义匹配（条件②通过），但根节点未完成聚合步骤，导致整体不满足终止条件。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of Captain Calamity? (John Reinhardt), F2: Who is the director of Heaven Only Knows? (Albert S. Rogell), F3: What is the nationality of John Reinhardt? (Austrian), F4: What is the nationality of Albert S. Rogell? (American)。关系: F1 和 F2 是 Q 的直接分解产物 (decomposition)，F3 依赖于 F1 (dependency)，F4 依赖于 F2 (dependency)。所有子事实均已 SOLVED + healthy，DAG 结构完整，只需保留现有结构以支持最终答案合成。",
+      "hypothesis_delta": "本轮无结构变更。上一轮初始分解策略完全正确：所有四个子节点 (N1_1, N1_2, N1_3, N1_4) 均成功求解且被 Critic 判定为 healthy。无需新增、删除或重标任何节点。所有 INHERIT 操作旨在保持 DAG 稳定性，等待系统基于已确立的子节点答案合成根节点 N0 的最终结论。显式声明保留所有旧边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）通过 LINK 原语，以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（因为状态仍为 unsolved，未生成最终比较结论）。虽然所有叶子节点 healthy 且推理链语义有效（条件②通过），但根节点未完成最终聚合，导致整体不满足终止条件。建议系统立即执行根节点的答案合成逻辑（比较 Austrian vs American -> No），将 N0 标记为 so"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of Captain Calamity? (John Reinhardt), F2: Who is the director of Heaven Only Knows? (Albert S. Rogell), F3: What is the nationality of John Reinhardt? (Austrian), F4: What is the nationality of Albert S. Rogell? (American)。关系: F1 和 F2 是 Q 的直接分解产物 (decomposition)，F3 依赖于 F1 (dependency)，F4 依赖于 F2 (dependency)。所有子事实均已 SOLVED + healthy，DAG 结构完整，只需保留现有结构以支持最终答案合成。",
+      "hypothesis_delta": "本轮无结构变更。上一轮初始分解策略完全正确：所有四个子节点 (N1_1, N1_2, N1_3, N1_4) 均成功求解且被 Critic 判定为 healthy。无需新增、删除或重标任何节点。所有 INHERIT 操作旨在保持 DAG 稳定性，等待系统基于已确立的子节点答案合成根节点 N0 的最终结论。显式声明保留所有旧边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）通过 LINK 原语，以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（状态 unsolved，未生成最终比较结论）。虽然所有叶子节点 healthy 且推理链语义有效（条件②通过），但根节点未完成最终答案合成，导致整体 DAG 未完全 healthy。"
+      }
+    }
+  ]
+}

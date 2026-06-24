@@ -1,0 +1,677 @@
+{
+  "question_index": 479,
+  "question_id": "1816ca87095011ebbdaeac1f6bf848b6",
+  "question": "Which film came out earlier, The Gentle Gunman or A Maori Maid'S Love?",
+  "answer": "A Maori Maid'S Love",
+  "prediction": "A Maori Maid'S Love",
+  "error": null,
+  "latency_ms": 203829.8752999981,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T20:11:53.946596+00:00",
+  "chunks": [
+    {
+      "chunk_id": "206f43da-43a1-40b1-9374-528f976d6631",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of films.",
+      "context_title": "The Gentle Gunman",
+      "page_content": "The Gentle Gunman was released in 1952."
+    },
+    {
+      "chunk_id": "2f9c6d61-8c19-425d-a42e-b832e888a282",
+      "chunk_title": "Source Material & Adaptations",
+      "chunk_summary": "This chunk contains information about the source material for \"The Gentle Gunman,\" specifically detailing its origin as a 1950 play by Roger MacDougall that was televised by the BBC.",
+      "context_title": "The Gentle Gunman",
+      "page_content": "The play that The Gentle Gunman is based on was from 1950. The play that The Gentle Gunman is based on was televised by the BBC. The play that The Gentle Gunman is based on was written by Roger MacDougall. The Gentle Gunman is based on a play. The play that The Gentle Gunman is based on was televised by the BBC in September 1950."
+    },
+    {
+      "chunk_id": "c9d730a8-8296-43ae-9914-e673592f5b29",
+      "chunk_title": "Films & Studios",
+      "chunk_summary": "This chunk contains information about films, including their titles, production studios, and starring actors.",
+      "context_title": "The Gentle Gunman",
+      "page_content": "The Gentle Gunman stars Dirk Bogarde. The Gentle Gunman is an Ealing Studios drama film. The Gentle Gunman stars John Mills."
+    },
+    {
+      "chunk_id": "be1cb10f-11a2-4388-816e-73309270c69b",
+      "chunk_title": "Thai Film Details",
+      "chunk_summary": "This chunk contains information about the 1983 Thai crime film \"Gunman,\" including its alternative titles, director, starring actor, and character details.",
+      "context_title": "Gunman (film)",
+      "page_content": "Gunman is a 1983 Thai crime film. Gunman is also known as \"The Sister-in-Law\". Sorapong Chatree plays an amputee assassin in Gunman. Gunman stars Sorapong Chatree. Gunman was directed by Chatrichalerm Yukol. Gunman is also known as \"Mue puen\"."
+    },
+    {
+      "chunk_id": "53b734a5-52f6-4cba-a467-b1c199877696",
+      "chunk_title": "Film Visuals & Format",
+      "chunk_summary": "This chunk contains information about the visual characteristics and format of films.",
+      "context_title": "The Gentle Gunman",
+      "page_content": "The Gentle Gunman is a black-and-white film."
+    },
+    {
+      "chunk_id": "a1afa393-6e5d-4ca8-8ecd-94ed10d39eba",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about film release dates and years, including specific details about the timing of releases relative to other events.",
+      "context_title": "James Edward Grant",
+      "page_content": "The film \"Support Your Local Gunfighter\" was released five years after James Edward Grant's death. The film \"Support Your Local Gunfighter\" was released in 1971."
+    },
+    {
+      "chunk_id": "277ca45c-60d3-4dd4-b88f-5c28fb4740d8",
+      "chunk_title": "Gunman's Walk Film Details",
+      "chunk_summary": "This chunk contains information about the 1958 Western film \"Gunman's Walk,\" including its technical formats, genre, director, and cast.",
+      "context_title": "Gunman's Walk",
+      "page_content": "Gunman's Walk is a 1958 American film. Gunman's Walk stars Van Heflin. Gunman's Walk is a Western film. Gunman's Walk is a CinemaScope film. Gunman's Walk is a Technicolor film. Gunman's Walk stars Tab Hunter. Gunman's Walk was directed by Phil Karlson."
+    },
+    {
+      "chunk_id": "afdd9427-095d-4e0a-bb17-e097195e70d2",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, formats, directors, and archival status.",
+      "context_title": "The Gentle Intruder",
+      "page_content": "The Gentle Intruder was directed by James Kirkwood. The Gentle Intruder is a 1917 American silent drama film. A copy of the film The Gentle Intruder still exists at the Dutch Filmmuseum."
+    },
+    {
+      "chunk_id": "b3a6caf3-d884-4a1a-918d-944f00ad6c88",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and directors.",
+      "context_title": "The Gentle Terror",
+      "page_content": "The Gentle Terror was directed by Frank Marshall. The Gentle Terror is a 1961 British thriller film."
+    },
+    {
+      "chunk_id": "75561f2b-7691-4db6-9086-87ce15f95a4b",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "The Gentle Gunman",
+      "page_content": "The Gentle Gunman was directed by Basil Dearden."
+    },
+    {
+      "chunk_id": "446103fb-9b7a-4fc3-be58-c12d977d697a",
+      "chunk_title": "A Maori Maid's Love Film Details",
+      "chunk_summary": "This chunk contains information about the production details, plot, and status of the 1916 Australian silent film \"A Maori Maid's Love\".",
+      "context_title": "A Maori Maid's Love",
+      "page_content": "There are no known copies of A Maori Maid's Love. A Maori Maid's Love is about an interracial romance between a white man and a Māori girl. A Maori Maid's Love was originally titled The Surveyor's Daughter. A Maori Maid's Love was directed by Raymond Longford. A Maori Maid's Love is considered a lost film. A Maori Maid's Love is a 1916 Australian silent film."
+    },
+    {
+      "chunk_id": "4657701e-7494-4307-a112-220093b03509",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date and time of Malcolm Pointon's death and related media events.",
+      "context_title": "Malcolm Pointon",
+      "page_content": "The film \"Malcolm and Barbara- A Love Story\" was shown in 1999. Malcolm Pointon died in February 2007. The Independent Television program \"Malcolm and Barbara: Love’s Farewell\" was broadcast on Wednesday, 8 August 2007."
+    },
+    {
+      "chunk_id": "1d5fca11-da0a-41df-9495-ae9d28cb69a3",
+      "chunk_title": "1984 Film Details",
+      "chunk_summary": "This chunk contains information about the 1984 Philippine comedy film \"May Lamok sa Loob ng Kulambo,\" including its production team, cast, release details, and related films.",
+      "context_title": "May Lamok sa Loob ng Kulambo",
+      "page_content": "Tommy Abuel stars in May Lamok sa Loob ng Kulambo. Eddie Garcia stars in May Lamok sa Loob ng Kulambo. May Daga sa Labas ng Lungga is a film related to May Lamok sa Loob ng Kulambo. May Lamok sa Loob ng Kulambo was released in 1984. Danny L. Zialcita was the executive producer of May Lamok sa Loob ng Kulambo. May Lamok sa Loob ng Kulambo was produced by Hirene Lopez. May Daga sa Labas ng Lungga was released earlier in 1984. May Lamok sa Loob ng Kulambo is a 1984 Philippine comedy film. Amy Austria stars in May Lamok sa Loob ng Kulambo. Gloria Diaz stars in May Lamok sa Loob ng Kulambo. Essex Films released May Lamok sa Loob ng Kulambo."
+    },
+    {
+      "chunk_id": "a52ae535-441e-4a61-abb6-794803aff355",
+      "chunk_title": "Films & Release Years",
+      "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+      "context_title": "Politics of Love",
+      "page_content": "Politics of Love is a 2011 film."
+    },
+    {
+      "chunk_id": "2d9d8615-de38-48af-a8f6-981204ed51fb",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1984 Philippine comedy film \"May Lamok sa Loob ng Kulambo,\" including its director, producers, cast, release details, and related films.",
+      "context_title": "May Lamok sa Loob ng Kulambo",
+      "page_content": "Tommy Abuel stars in May Lamok sa Loob ng Kulambo. Essex Films released May Lamok sa Loob ng Kulambo. Gloria Diaz stars in May Lamok sa Loob ng Kulambo. May Lamok sa Loob ng Kulambo was released in 1984. May Lamok sa Loob ng Kulambo was directed by Hirene Lopez. Amy Austria stars in May Lamok sa Loob ng Kulambo. Eddie Garcia stars in May Lamok sa Loob ng Kulambo. May Daga sa Labas ng Lungga was released earlier in 1984. Danny L. Zialcita was the executive producer of May Lamok sa Loob ng Kulambo. A related film called May Daga sa Labas ng Lungga exists. May Lamok sa Loob ng Kulambo is a 1984 Philippine comedy film. May Lamok sa Loob ng Kulambo was produced by Hirene Lopez."
+    },
+    {
+      "chunk_id": "301feadf-1698-4805-9f69-50fbdeabb14a",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, directors, and festival entries.",
+      "context_title": "My Love, My Love (film)",
+      "page_content": "Nadine Trintignant is a director. My Love, My Love is a 1967 French drama film. My Love, My Love was directed by Nadine Trintignant. My Love, My Love was entered into the 1967 Cannes Film Festival."
+    },
+    {
+      "chunk_id": "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+      "context_title": "Shima (film)",
+      "page_content": "Shima was released in 2007. Shima is a film."
+    },
+    {
+      "chunk_id": "f6a12f87-ebfc-4054-8f1f-6e0cd7399999",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+      "context_title": "Shima (film)",
+      "page_content": "Shima was released in 2007. Shima is a film."
+    },
+    {
+      "chunk_id": "510e0db8-afbc-4edc-994b-f6480f64baf9",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+      "context_title": "Shima (film)",
+      "page_content": "Shima is a film. Shima was released in 2007."
+    },
+    {
+      "chunk_id": "246b1362-6119-4de6-ac0f-8582df65aa0e",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+      "context_title": "Shima (film)",
+      "page_content": "Shima is a film. Shima was released in 2007."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 12,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which film came out earlier, The Gentle Gunman or A Maori Maid'S Love?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film came out earlier, The Gentle Gunman or A Maori Maid'S Love?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影的发行日期以确定哪部更早",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 提供 The Gentle Gunman 发行年份 1952，N1_2 提供 A Maori Maid's Love 发行年份 1916。推理链完整：1916 < 1952，因此 A Maori Maid's Love 更早发行。两个子节点证据均直接具体，推理逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，比较逻辑清晰（1916 vs 1952），可直接用于生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film The Gentle Gunman released?",
+          "answer": "1952",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film The Gentle Gunman released?",
+          "planner_rationale": "Q 要求比较两部电影的发行时间，需要先获取 The Gentle Gunman 的发行日期",
+          "solver_judgment": "question 要求确认电影 The Gentle Gunman 的上映时间。search_query 搜索了 'When was the film The Gentle Gunman released?'。chunks 返回了关于 The Gentle Gunman 的多个信息片段，其中 chunk 206f43da-43a1-40b1-9374-528f976d6631 明确记载 'The Gentle Gunman was released in 1952'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 The Gentle Gunman）。支撑 chunk [206f43da-43a1-40b1-9374-528f976d6631] 全文为 'The Gentle Gunman was released in 1952.'，直接、具体地陈述了答案 1952。交叉验证：不充分（仅 1 个来源），但来源直接匹配问题。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地回答了问题，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "206f43da-43a1-40b1-9374-528f976d6631"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "206f43da-43a1-40b1-9374-528f976d6631",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films.",
+              "context_title": "The Gentle Gunman",
+              "page_content": "The Gentle Gunman was released in 1952."
+            },
+            {
+              "chunk_id": "2f9c6d61-8c19-425d-a42e-b832e888a282",
+              "chunk_title": "Source Material & Adaptations",
+              "chunk_summary": "This chunk contains information about the source material for \"The Gentle Gunman,\" specifically detailing its origin as a 1950 play by Roger MacDougall that was televised by the BBC.",
+              "context_title": "The Gentle Gunman",
+              "page_content": "The play that The Gentle Gunman is based on was from 1950. The play that The Gentle Gunman is based on was televised by the BBC. The play that The Gentle Gunman is based on was written by Roger MacDougall. The Gentle Gunman is based on a play. The play that The Gentle Gunman is based on was televised by the BBC in September 1950."
+            },
+            {
+              "chunk_id": "c9d730a8-8296-43ae-9914-e673592f5b29",
+              "chunk_title": "Films & Studios",
+              "chunk_summary": "This chunk contains information about films, including their titles, production studios, and starring actors.",
+              "context_title": "The Gentle Gunman",
+              "page_content": "The Gentle Gunman stars Dirk Bogarde. The Gentle Gunman is an Ealing Studios drama film. The Gentle Gunman stars John Mills."
+            },
+            {
+              "chunk_id": "be1cb10f-11a2-4388-816e-73309270c69b",
+              "chunk_title": "Thai Film Details",
+              "chunk_summary": "This chunk contains information about the 1983 Thai crime film \"Gunman,\" including its alternative titles, director, starring actor, and character details.",
+              "context_title": "Gunman (film)",
+              "page_content": "Gunman is a 1983 Thai crime film. Gunman is also known as \"The Sister-in-Law\". Sorapong Chatree plays an amputee assassin in Gunman. Gunman stars Sorapong Chatree. Gunman was directed by Chatrichalerm Yukol. Gunman is also known as \"Mue puen\"."
+            },
+            {
+              "chunk_id": "53b734a5-52f6-4cba-a467-b1c199877696",
+              "chunk_title": "Film Visuals & Format",
+              "chunk_summary": "This chunk contains information about the visual characteristics and format of films.",
+              "context_title": "The Gentle Gunman",
+              "page_content": "The Gentle Gunman is a black-and-white film."
+            },
+            {
+              "chunk_id": "a1afa393-6e5d-4ca8-8ecd-94ed10d39eba",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about film release dates and years, including specific details about the timing of releases relative to other events.",
+              "context_title": "James Edward Grant",
+              "page_content": "The film \"Support Your Local Gunfighter\" was released five years after James Edward Grant's death. The film \"Support Your Local Gunfighter\" was released in 1971."
+            },
+            {
+              "chunk_id": "277ca45c-60d3-4dd4-b88f-5c28fb4740d8",
+              "chunk_title": "Gunman's Walk Film Details",
+              "chunk_summary": "This chunk contains information about the 1958 Western film \"Gunman's Walk,\" including its technical formats, genre, director, and cast.",
+              "context_title": "Gunman's Walk",
+              "page_content": "Gunman's Walk is a 1958 American film. Gunman's Walk stars Van Heflin. Gunman's Walk is a Western film. Gunman's Walk is a CinemaScope film. Gunman's Walk is a Technicolor film. Gunman's Walk stars Tab Hunter. Gunman's Walk was directed by Phil Karlson."
+            },
+            {
+              "chunk_id": "afdd9427-095d-4e0a-bb17-e097195e70d2",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, formats, directors, and archival status.",
+              "context_title": "The Gentle Intruder",
+              "page_content": "The Gentle Intruder was directed by James Kirkwood. The Gentle Intruder is a 1917 American silent drama film. A copy of the film The Gentle Intruder still exists at the Dutch Filmmuseum."
+            },
+            {
+              "chunk_id": "b3a6caf3-d884-4a1a-918d-944f00ad6c88",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and directors.",
+              "context_title": "The Gentle Terror",
+              "page_content": "The Gentle Terror was directed by Frank Marshall. The Gentle Terror is a 1961 British thriller film."
+            },
+            {
+              "chunk_id": "75561f2b-7691-4db6-9086-87ce15f95a4b",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "The Gentle Gunman",
+              "page_content": "The Gentle Gunman was directed by Basil Dearden."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film A Maori Maid's Love released?",
+          "answer": "1916",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film A Maori Maid's Love released?",
+          "planner_rationale": "Q 要求比较两部电影的发行时间，需要先获取 A Maori Maid's Love 的发行日期",
+          "solver_judgment": "question 要求确认电影 'A Maori Maid's Love' 的上映时间。search_query 搜索了 'When was the film A Maori Maid's Love released?'。chunks 返回了关于该电影的详细信息，其中 chunk 446103fb-9b7a-4fc3-be58-c12d977d697a 明确记载 'A Maori Maid's Love is a 1916 Australian silent film'，直接提供了上映年份 1916。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 A Maori Maid's Love）。支撑 chunk [446103fb-9b7a-4fc3-be58-c12d977d697a] 全文包含 'A Maori Maid's Love is a 1916 Australian silent film.'，直接、具体地陈述了答案 1916。交叉验证：不充分（仅 1 个来源），但来源直接匹配问题。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地回答了问题，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "446103fb-9b7a-4fc3-be58-c12d977d697a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "446103fb-9b7a-4fc3-be58-c12d977d697a",
+              "chunk_title": "A Maori Maid's Love Film Details",
+              "chunk_summary": "This chunk contains information about the production details, plot, and status of the 1916 Australian silent film \"A Maori Maid's Love\".",
+              "context_title": "A Maori Maid's Love",
+              "page_content": "There are no known copies of A Maori Maid's Love. A Maori Maid's Love is about an interracial romance between a white man and a Māori girl. A Maori Maid's Love was originally titled The Surveyor's Daughter. A Maori Maid's Love was directed by Raymond Longford. A Maori Maid's Love is considered a lost film. A Maori Maid's Love is a 1916 Australian silent film."
+            },
+            {
+              "chunk_id": "4657701e-7494-4307-a112-220093b03509",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date and time of Malcolm Pointon's death and related media events.",
+              "context_title": "Malcolm Pointon",
+              "page_content": "The film \"Malcolm and Barbara- A Love Story\" was shown in 1999. Malcolm Pointon died in February 2007. The Independent Television program \"Malcolm and Barbara: Love’s Farewell\" was broadcast on Wednesday, 8 August 2007."
+            },
+            {
+              "chunk_id": "1d5fca11-da0a-41df-9495-ae9d28cb69a3",
+              "chunk_title": "1984 Film Details",
+              "chunk_summary": "This chunk contains information about the 1984 Philippine comedy film \"May Lamok sa Loob ng Kulambo,\" including its production team, cast, release details, and related films.",
+              "context_title": "May Lamok sa Loob ng Kulambo",
+              "page_content": "Tommy Abuel stars in May Lamok sa Loob ng Kulambo. Eddie Garcia stars in May Lamok sa Loob ng Kulambo. May Daga sa Labas ng Lungga is a film related to May Lamok sa Loob ng Kulambo. May Lamok sa Loob ng Kulambo was released in 1984. Danny L. Zialcita was the executive producer of May Lamok sa Loob ng Kulambo. May Lamok sa Loob ng Kulambo was produced by Hirene Lopez. May Daga sa Labas ng Lungga was released earlier in 1984. May Lamok sa Loob ng Kulambo is a 1984 Philippine comedy film. Amy Austria stars in May Lamok sa Loob ng Kulambo. Gloria Diaz stars in May Lamok sa Loob ng Kulambo. Essex Films released May Lamok sa Loob ng Kulambo."
+            },
+            {
+              "chunk_id": "a52ae535-441e-4a61-abb6-794803aff355",
+              "chunk_title": "Films & Release Years",
+              "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+              "context_title": "Politics of Love",
+              "page_content": "Politics of Love is a 2011 film."
+            },
+            {
+              "chunk_id": "2d9d8615-de38-48af-a8f6-981204ed51fb",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1984 Philippine comedy film \"May Lamok sa Loob ng Kulambo,\" including its director, producers, cast, release details, and related films.",
+              "context_title": "May Lamok sa Loob ng Kulambo",
+              "page_content": "Tommy Abuel stars in May Lamok sa Loob ng Kulambo. Essex Films released May Lamok sa Loob ng Kulambo. Gloria Diaz stars in May Lamok sa Loob ng Kulambo. May Lamok sa Loob ng Kulambo was released in 1984. May Lamok sa Loob ng Kulambo was directed by Hirene Lopez. Amy Austria stars in May Lamok sa Loob ng Kulambo. Eddie Garcia stars in May Lamok sa Loob ng Kulambo. May Daga sa Labas ng Lungga was released earlier in 1984. Danny L. Zialcita was the executive producer of May Lamok sa Loob ng Kulambo. A related film called May Daga sa Labas ng Lungga exists. May Lamok sa Loob ng Kulambo is a 1984 Philippine comedy film. May Lamok sa Loob ng Kulambo was produced by Hirene Lopez."
+            },
+            {
+              "chunk_id": "301feadf-1698-4805-9f69-50fbdeabb14a",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, directors, and festival entries.",
+              "context_title": "My Love, My Love (film)",
+              "page_content": "Nadine Trintignant is a director. My Love, My Love is a 1967 French drama film. My Love, My Love was directed by Nadine Trintignant. My Love, My Love was entered into the 1967 Cannes Film Festival."
+            },
+            {
+              "chunk_id": "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima was released in 2007. Shima is a film."
+            },
+            {
+              "chunk_id": "f6a12f87-ebfc-4054-8f1f-6e0cd7399999",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima was released in 2007. Shima is a film."
+            },
+            {
+              "chunk_id": "510e0db8-afbc-4edc-994b-f6480f64baf9",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima is a film. Shima was released in 2007."
+            },
+            {
+              "chunk_id": "246b1362-6119-4de6-ac0f-8582df65aa0e",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima is a film. Shima was released in 2007."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which film came out earlier, The Gentle Gunman or A Maori Maid'S Love?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film came out earlier, The Gentle Gunman or A Maori Maid'S Love?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1（The Gentle Gunman 发行于 1952 年）和 N1_2（A Maori Maid's Love 发行于 1916 年）均已 SOLVED + healthy，比较逻辑完整：1916 < 1952，因此 A Maori Maid's Love 更早发行",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 提供 The Gentle Gunman 发行年份 1952（单来源，直接具体），N1_2 提供 A Maori Maid's Love 发行年份 1916（单来源，直接具体）。推理链完整：1916 < 1952，因此 A Maori Maid's Love 更早发行。两个子节点证据均直接匹配问题，推理逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，比较逻辑清晰（1916 vs 1952），可直接用于生成最终答案。DAG 结构已完全覆盖 Q 的语义需求，无需调整。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film The Gentle Gunman released?",
+          "answer": "1952",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film The Gentle Gunman released?",
+          "planner_rationale": "Q 是比较型问题，需获取 The Gentle Gunman 的发行日期以进行比较。该节点已 SOLVED，answer=1952，证据直接具体（支撑 chunk 明确记载 'The Gentle Gunman was released in 1952'）",
+          "solver_judgment": "question 要求确认电影 The Gentle Gunman 的上映时间。search_query 搜索了 'When was the film The Gentle Gunman released?'。chunks 返回了关于 The Gentle Gunman 的多个信息片段，其中 chunk 206f43da-43a1-40b1-9374-528f976d6631 明确记载 'The Gentle Gunman was released in 1952'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 The Gentle Gunman）。支撑 chunk [206f43da-43a1-40b1-9374-528f976d6631] 全文为 'The Gentle Gunman was released in 1952.'，直接、具体地陈述了答案 1952。交叉验证：不充分（仅 1 个来源），但来源直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地回答了问题，证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "206f43da-43a1-40b1-9374-528f976d6631"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "206f43da-43a1-40b1-9374-528f976d6631",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films.",
+              "context_title": "The Gentle Gunman",
+              "page_content": "The Gentle Gunman was released in 1952."
+            },
+            {
+              "chunk_id": "2f9c6d61-8c19-425d-a42e-b832e888a282",
+              "chunk_title": "Source Material & Adaptations",
+              "chunk_summary": "This chunk contains information about the source material for \"The Gentle Gunman,\" specifically detailing its origin as a 1950 play by Roger MacDougall that was televised by the BBC.",
+              "context_title": "The Gentle Gunman",
+              "page_content": "The play that The Gentle Gunman is based on was from 1950. The play that The Gentle Gunman is based on was televised by the BBC. The play that The Gentle Gunman is based on was written by Roger MacDougall. The Gentle Gunman is based on a play. The play that The Gentle Gunman is based on was televised by the BBC in September 1950."
+            },
+            {
+              "chunk_id": "c9d730a8-8296-43ae-9914-e673592f5b29",
+              "chunk_title": "Films & Studios",
+              "chunk_summary": "This chunk contains information about films, including their titles, production studios, and starring actors.",
+              "context_title": "The Gentle Gunman",
+              "page_content": "The Gentle Gunman stars Dirk Bogarde. The Gentle Gunman is an Ealing Studios drama film. The Gentle Gunman stars John Mills."
+            },
+            {
+              "chunk_id": "be1cb10f-11a2-4388-816e-73309270c69b",
+              "chunk_title": "Thai Film Details",
+              "chunk_summary": "This chunk contains information about the 1983 Thai crime film \"Gunman,\" including its alternative titles, director, starring actor, and character details.",
+              "context_title": "Gunman (film)",
+              "page_content": "Gunman is a 1983 Thai crime film. Gunman is also known as \"The Sister-in-Law\". Sorapong Chatree plays an amputee assassin in Gunman. Gunman stars Sorapong Chatree. Gunman was directed by Chatrichalerm Yukol. Gunman is also known as \"Mue puen\"."
+            },
+            {
+              "chunk_id": "53b734a5-52f6-4cba-a467-b1c199877696",
+              "chunk_title": "Film Visuals & Format",
+              "chunk_summary": "This chunk contains information about the visual characteristics and format of films.",
+              "context_title": "The Gentle Gunman",
+              "page_content": "The Gentle Gunman is a black-and-white film."
+            },
+            {
+              "chunk_id": "a1afa393-6e5d-4ca8-8ecd-94ed10d39eba",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about film release dates and years, including specific details about the timing of releases relative to other events.",
+              "context_title": "James Edward Grant",
+              "page_content": "The film \"Support Your Local Gunfighter\" was released five years after James Edward Grant's death. The film \"Support Your Local Gunfighter\" was released in 1971."
+            },
+            {
+              "chunk_id": "277ca45c-60d3-4dd4-b88f-5c28fb4740d8",
+              "chunk_title": "Gunman's Walk Film Details",
+              "chunk_summary": "This chunk contains information about the 1958 Western film \"Gunman's Walk,\" including its technical formats, genre, director, and cast.",
+              "context_title": "Gunman's Walk",
+              "page_content": "Gunman's Walk is a 1958 American film. Gunman's Walk stars Van Heflin. Gunman's Walk is a Western film. Gunman's Walk is a CinemaScope film. Gunman's Walk is a Technicolor film. Gunman's Walk stars Tab Hunter. Gunman's Walk was directed by Phil Karlson."
+            },
+            {
+              "chunk_id": "afdd9427-095d-4e0a-bb17-e097195e70d2",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, formats, directors, and archival status.",
+              "context_title": "The Gentle Intruder",
+              "page_content": "The Gentle Intruder was directed by James Kirkwood. The Gentle Intruder is a 1917 American silent drama film. A copy of the film The Gentle Intruder still exists at the Dutch Filmmuseum."
+            },
+            {
+              "chunk_id": "b3a6caf3-d884-4a1a-918d-944f00ad6c88",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and directors.",
+              "context_title": "The Gentle Terror",
+              "page_content": "The Gentle Terror was directed by Frank Marshall. The Gentle Terror is a 1961 British thriller film."
+            },
+            {
+              "chunk_id": "75561f2b-7691-4db6-9086-87ce15f95a4b",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "The Gentle Gunman",
+              "page_content": "The Gentle Gunman was directed by Basil Dearden."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film A Maori Maid's Love released?",
+          "answer": "1916",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film A Maori Maid's Love released?",
+          "planner_rationale": "Q 是比较型问题，需获取 A Maori Maid's Love 的发行日期以进行比较。该节点已 SOLVED，answer=1916，证据直接具体（支撑 chunk 明确记载 'A Maori Maid's Love is a 1916 Australian silent film'）",
+          "solver_judgment": "question 要求确认电影 'A Maori Maid's Love' 的上映时间。search_query 搜索了 'When was the film A Maori Maid's Love released?'。chunks 返回了关于该电影的详细信息，其中 chunk 446103fb-9b7a-4fc3-be58-c12d977d697a 明确记载 'A Maori Maid's Love is a 1916 Australian silent film'，直接提供了上映年份 1916。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 A Maori Maid's Love）。支撑 chunk [446103fb-9b7a-4fc3-be58-c12d977d697a] 全文包含 'A Maori Maid's Love is a 1916 Australian silent film.'，直接、具体地陈述了答案 1916。交叉验证：不充分（仅 1 个来源），但来源直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地回答了问题，证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "446103fb-9b7a-4fc3-be58-c12d977d697a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "446103fb-9b7a-4fc3-be58-c12d977d697a",
+              "chunk_title": "A Maori Maid's Love Film Details",
+              "chunk_summary": "This chunk contains information about the production details, plot, and status of the 1916 Australian silent film \"A Maori Maid's Love\".",
+              "context_title": "A Maori Maid's Love",
+              "page_content": "There are no known copies of A Maori Maid's Love. A Maori Maid's Love is about an interracial romance between a white man and a Māori girl. A Maori Maid's Love was originally titled The Surveyor's Daughter. A Maori Maid's Love was directed by Raymond Longford. A Maori Maid's Love is considered a lost film. A Maori Maid's Love is a 1916 Australian silent film."
+            },
+            {
+              "chunk_id": "4657701e-7494-4307-a112-220093b03509",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date and time of Malcolm Pointon's death and related media events.",
+              "context_title": "Malcolm Pointon",
+              "page_content": "The film \"Malcolm and Barbara- A Love Story\" was shown in 1999. Malcolm Pointon died in February 2007. The Independent Television program \"Malcolm and Barbara: Love’s Farewell\" was broadcast on Wednesday, 8 August 2007."
+            },
+            {
+              "chunk_id": "1d5fca11-da0a-41df-9495-ae9d28cb69a3",
+              "chunk_title": "1984 Film Details",
+              "chunk_summary": "This chunk contains information about the 1984 Philippine comedy film \"May Lamok sa Loob ng Kulambo,\" including its production team, cast, release details, and related films.",
+              "context_title": "May Lamok sa Loob ng Kulambo",
+              "page_content": "Tommy Abuel stars in May Lamok sa Loob ng Kulambo. Eddie Garcia stars in May Lamok sa Loob ng Kulambo. May Daga sa Labas ng Lungga is a film related to May Lamok sa Loob ng Kulambo. May Lamok sa Loob ng Kulambo was released in 1984. Danny L. Zialcita was the executive producer of May Lamok sa Loob ng Kulambo. May Lamok sa Loob ng Kulambo was produced by Hirene Lopez. May Daga sa Labas ng Lungga was released earlier in 1984. May Lamok sa Loob ng Kulambo is a 1984 Philippine comedy film. Amy Austria stars in May Lamok sa Loob ng Kulambo. Gloria Diaz stars in May Lamok sa Loob ng Kulambo. Essex Films released May Lamok sa Loob ng Kulambo."
+            },
+            {
+              "chunk_id": "a52ae535-441e-4a61-abb6-794803aff355",
+              "chunk_title": "Films & Release Years",
+              "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+              "context_title": "Politics of Love",
+              "page_content": "Politics of Love is a 2011 film."
+            },
+            {
+              "chunk_id": "2d9d8615-de38-48af-a8f6-981204ed51fb",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1984 Philippine comedy film \"May Lamok sa Loob ng Kulambo,\" including its director, producers, cast, release details, and related films.",
+              "context_title": "May Lamok sa Loob ng Kulambo",
+              "page_content": "Tommy Abuel stars in May Lamok sa Loob ng Kulambo. Essex Films released May Lamok sa Loob ng Kulambo. Gloria Diaz stars in May Lamok sa Loob ng Kulambo. May Lamok sa Loob ng Kulambo was released in 1984. May Lamok sa Loob ng Kulambo was directed by Hirene Lopez. Amy Austria stars in May Lamok sa Loob ng Kulambo. Eddie Garcia stars in May Lamok sa Loob ng Kulambo. May Daga sa Labas ng Lungga was released earlier in 1984. Danny L. Zialcita was the executive producer of May Lamok sa Loob ng Kulambo. A related film called May Daga sa Labas ng Lungga exists. May Lamok sa Loob ng Kulambo is a 1984 Philippine comedy film. May Lamok sa Loob ng Kulambo was produced by Hirene Lopez."
+            },
+            {
+              "chunk_id": "301feadf-1698-4805-9f69-50fbdeabb14a",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, directors, and festival entries.",
+              "context_title": "My Love, My Love (film)",
+              "page_content": "Nadine Trintignant is a director. My Love, My Love is a 1967 French drama film. My Love, My Love was directed by Nadine Trintignant. My Love, My Love was entered into the 1967 Cannes Film Festival."
+            },
+            {
+              "chunk_id": "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima was released in 2007. Shima is a film."
+            },
+            {
+              "chunk_id": "f6a12f87-ebfc-4054-8f1f-6e0cd7399999",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima was released in 2007. Shima is a film."
+            },
+            {
+              "chunk_id": "510e0db8-afbc-4edc-994b-f6480f64baf9",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima is a film. Shima was released in 2007."
+            },
+            {
+              "chunk_id": "246b1362-6119-4de6-ac0f-8582df65aa0e",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima is a film. Shima was released in 2007."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was the film The Gentle Gunman released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "206f43da-43a1-40b1-9374-528f976d6631",
+        "2f9c6d61-8c19-425d-a42e-b832e888a282",
+        "c9d730a8-8296-43ae-9914-e673592f5b29",
+        "be1cb10f-11a2-4388-816e-73309270c69b",
+        "53b734a5-52f6-4cba-a467-b1c199877696",
+        "a1afa393-6e5d-4ca8-8ecd-94ed10d39eba",
+        "277ca45c-60d3-4dd4-b88f-5c28fb4740d8",
+        "afdd9427-095d-4e0a-bb17-e097195e70d2",
+        "b3a6caf3-d884-4a1a-918d-944f00ad6c88",
+        "75561f2b-7691-4db6-9086-87ce15f95a4b"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was the film A Maori Maid's Love released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "446103fb-9b7a-4fc3-be58-c12d977d697a",
+        "4657701e-7494-4307-a112-220093b03509",
+        "1d5fca11-da0a-41df-9495-ae9d28cb69a3",
+        "a52ae535-441e-4a61-abb6-794803aff355",
+        "2d9d8615-de38-48af-a8f6-981204ed51fb",
+        "301feadf-1698-4805-9f69-50fbdeabb14a",
+        "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+        "f6a12f87-ebfc-4054-8f1f-6e0cd7399999",
+        "510e0db8-afbc-4edc-994b-f6480f64baf9",
+        "246b1362-6119-4de6-ac0f-8582df65aa0e"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was The Gentle Gunman released?（理由：Q 是比较型问题，需先获取第一部电影的发行日期），F2: When was A Maori Maid's Love released?（理由：需获取第二部电影的发行日期）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者是独立的子事实，求解后通过比较日期即可回答 Q。F1 和 F2 之间无依赖关系，可并行搜索。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（The Gentle Gunman 发行日期），$2（A Maori Maid's Love 发行日期）。新增边: N0→$1（decomposition），N0→$2（decomposition）。原因：Q 是典型的比较型问题，结构为「比较 A 和 B 的某属性」，分解为两个独立的属性查询节点即可覆盖全部语义需求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N0→N1_1 和 N0→N1_2 的 decomposition 边语义有效，子节点 question 自包含可执行，答案聚合后可支撑父节点比较推理；条件③全部节点 healthy（N0 推理链完整一致，N1_1 和 N1_2 均有直接具体的单来源证据）；条件④首轮不适用。推理链完整，所有节点证据充分，可终止探索并生成最终"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was The Gentle Gunman released?（理由：Q 是比较型问题，需先获取第一部电影的发行日期），F2: When was A Maori Maid's Love released?（理由：需获取第二部电影的发行日期）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者是独立的子事实，求解后通过比较日期即可回答 Q。F1 和 F2 之间无依赖关系。当前 DAG 已完全覆盖 Q 的语义需求，两个子节点均已 SOLVED + healthy，推理链完整（1916 < 1952 → A Maori Maid's Love 更早）。",
+      "hypothesis_delta": "本轮无结构变更——全部 INHERIT + LINK 保留旧边。原因：上一轮的结构假设完全正确，两个子节点 N1_1 和 N1_2 均已 SOLVED + healthy，Critic 确认推理链完整且一致。比较逻辑清晰（1916 vs 1952），可直接用于生成最终答案。无需新增、删除或换标任何节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义匹配——N0 分解为 N1_1 和 N1_2 两条独立路径，每条路径语义有效（比较型问题→获取各电影发行年份），答案聚合后可支撑比较推理（1916 < 1952 → A Maori Maid's Love 更早）；③全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；④拓扑与上一轮一致（Pl"
+      }
+    }
+  ]
+}

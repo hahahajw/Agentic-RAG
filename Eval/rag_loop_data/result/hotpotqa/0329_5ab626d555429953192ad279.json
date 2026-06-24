@@ -1,0 +1,928 @@
+{
+  "question_index": 329,
+  "question_id": "5ab626d555429953192ad279",
+  "question": "Anthony Avent played basketball fo a High School that is located in a city approcimately 8 mi west of where?",
+  "answer": "lower Manhattan",
+  "prediction": "lower Manhattan",
+  "error": null,
+  "latency_ms": 318096.504299996,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T15:10:30.760000+00:00",
+  "chunks": [
+    {
+      "chunk_id": "1637a577-6c20-4362-be1b-c08fe0509c94",
+      "chunk_title": "Anthony Avent's Career",
+      "chunk_summary": "This chunk contains information about the professional and collegiate basketball career of Anthony Avent, including his draft history, teams played for, career duration, and educational background.",
+      "context_title": "Anthony Avent",
+      "page_content": "Anthony Avent played for the Orlando Magic. Anthony Avent played for the Vancouver Grizzlies. Anthony Avent played for the Los Angeles Clippers. Anthony Avent played six NBA seasons. Anthony Avent played for the Utah Jazz. Anthony Avent is a retired American professional basketball player. Anthony Avent was the 15th pick overall in the 1991 NBA Draft. Anthony Avent played collegiately at Seton Hall University. Anthony Avent played in the 1989 NCAA championship game. Anthony Avent played for the Milwaukee Bucks. Anthony Avent played at Malcolm X Shabazz High School prior to attending Seton Hall University. Anthony Avent was selected by the Atlanta Hawks in the first round of the 1991 NBA Draft."
+    },
+    {
+      "chunk_id": "864dbc4e-5269-46f7-be0b-c487eccfe5d7",
+      "chunk_title": "High School Profiles",
+      "chunk_summary": "This chunk contains information about specific high schools, including their locations and academic standing.",
+      "context_title": "Bob Hurley",
+      "page_content": "St. Anthony High School is in Jersey City, New Jersey. Newark's Saint Benedict's Preparatory School is one of the top high school programs in the nation."
+    },
+    {
+      "chunk_id": "d7edd7c9-f995-41d0-83fd-de834a911e47",
+      "chunk_title": "Horner Family Coaching",
+      "chunk_summary": "This chunk contains information about the high school varsity basketball coaching roles of members of the Horner family, including specific tenures and schools.",
+      "context_title": "Jeff Horner",
+      "page_content": "Jeff Horner was the head varsity basketball coach at Valley High School. Jeff Horner was the head varsity basketball coach at Valley High School from 2010 to 2014. Bob Horner was the Mason City High School varsity basketball coach."
+    },
+    {
+      "chunk_id": "de043b08-9faa-4887-a729-b2faf8038623",
+      "chunk_title": "Athletic Achievements & Roles",
+      "chunk_summary": "This chunk contains information about individuals' athletic achievements and roles on school sports teams.",
+      "context_title": "Jerome Williams (basketball)",
+      "page_content": "Jerome Williams was a star player on the Magruder High School basketball team."
+    },
+    {
+      "chunk_id": "d648928f-b851-45e7-b17b-a3600db19c51",
+      "chunk_title": "Birthplace & Origin",
+      "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+      "context_title": "Anthony Avent",
+      "page_content": "Anthony Avent was born in Rocky Mount, North Carolina."
+    },
+    {
+      "chunk_id": "154099f3-d984-43e4-98c5-5aa242299361",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+      "context_title": "Miami High School",
+      "page_content": "Miami Senior High School is a public high school."
+    },
+    {
+      "chunk_id": "09d58bd1-7afe-48f2-a1aa-1b16f963d74a",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+      "context_title": "Robertson High School",
+      "page_content": "Robertson High School is a public senior high school."
+    },
+    {
+      "chunk_id": "f59fc52d-a8bf-458e-9790-afdc4456779c",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Anthony Avent",
+      "page_content": "Anthony Avent was born on October 18, 1969."
+    },
+    {
+      "chunk_id": "6245429e-4f4d-4f80-b975-732f54bdb019",
+      "chunk_title": "Coaching Achievements",
+      "chunk_summary": "This chunk contains information about the coaching careers and achievements of basketball coaches at various educational institutions, specifically focusing on their roles in building successful high school programs.",
+      "context_title": "Dan Hurley",
+      "page_content": "Daniel S. Hurley had a standout career as head coach of Saint Benedict's Preparatory School prior to his time at Wagner College. Daniel S. Hurley built Saint Benedict's Preparatory School into one of the top high school basketball programs in America. Bob Hurley is a Hall of Fame high school coach."
+    },
+    {
+      "chunk_id": "36ecd527-2639-41e6-8aef-a3e62440fd55",
+      "chunk_title": "Name Origins",
+      "chunk_summary": "This chunk contains information about the origins of names, specifically how they are derived from local mascots or symbols.",
+      "context_title": "Berkeley High Jacket",
+      "page_content": "The mascot of Berkeley High School is the Yellowjacket. The name of The Jacket is taken from the mascot of Berkeley High School."
+    },
+    {
+      "chunk_id": "e7009e1c-9777-4c9c-8191-eb75d0b4d73f",
+      "chunk_title": "School Locations",
+      "chunk_summary": "This chunk contains information about the locations of schools.",
+      "context_title": "Anthony Avent",
+      "page_content": "Malcolm X Shabazz High School is located in Newark, New Jersey."
+    },
+    {
+      "chunk_id": "0f5937d3-b2fe-4296-ae5e-b91fb8ba721a",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about the classification, type, and location of educational institutions, including specific details about Pullman High School and its relation to Washington State University.",
+      "context_title": "Pullman High School",
+      "page_content": "Pullman High School is in the city of Pullman, Washington. The city of Pullman, Washington is the home of Washington State University. Pullman High School is a public secondary school."
+    },
+    {
+      "chunk_id": "af85b7d7-0e15-425e-82a1-fa6e1e25817e",
+      "chunk_title": "Locations & Addresses",
+      "chunk_summary": "This chunk contains information about the physical locations and addresses of educational institutions.",
+      "context_title": "Miami High School",
+      "page_content": "Miami Senior High School is located at 2450 SW 1st Street in Miami, Florida, United States."
+    },
+    {
+      "chunk_id": "c5c8de78-1f6b-4f21-88a8-5d005ce53f42",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about the classification, type, and system affiliation of specific educational institutions.",
+      "context_title": "William R. Boone High School",
+      "page_content": "William R. Boone High School is a public high school. William R. Boone High School is one of twenty high schools in the Orange County Public Schools system."
+    },
+    {
+      "chunk_id": "c830d2af-4782-4add-a7d4-2b3181fc7b5d",
+      "chunk_title": "Educational Locations",
+      "chunk_summary": "This chunk contains information about the locations of educational institutions.",
+      "context_title": "Bob Simmons (American football coach)",
+      "page_content": "Boulder High School is located in Boulder, Colorado."
+    },
+    {
+      "chunk_id": "c511dbea-1568-4d4d-96ca-bf34a3b3fa95",
+      "chunk_title": "Historic Architecture & Landmarks",
+      "chunk_summary": "This chunk contains information about the architectural significance and historic status of specific buildings or institutions.",
+      "context_title": "Miami High School",
+      "page_content": "The Miami Senior High School building is a historic landmark. The Miami Senior High School building is famous for its architecture."
+    },
+    {
+      "chunk_id": "a48c128b-5da3-48ad-bcf7-6bd07ab4bbc7",
+      "chunk_title": "Newark, NJ Overview",
+      "chunk_summary": "This chunk contains information about the population trends, administrative status, transportation infrastructure, and geographic location of Newark, New Jersey.",
+      "context_title": "Newark, New Jersey",
+      "page_content": "Newark is the seat of Essex County. The population of 281,944 for Newark in 2015 ranked the city the 70th largest in the nation. Newark was ranked 63rd in the nation in 2000. Newark is the most populous city in the U.S. state of New Jersey. Newark is one of the nation's major air, shipping, and rail hubs. The population of 281,944 for Newark in 2015 was an increase of 1.7% from the 2010 enumeration. For 2015, the Census Bureau's Population Estimates Program calculated a population of 281,944 for Newark. Newark is the second largest city in the New York metropolitan area. The city of Newark had a population of 277,140 in 2010. The population of 277,140 in 2010 made Newark the nation's 67th most-populous municipality. Newark is located approximately 8 mi west of lower Manhattan."
+    },
+    {
+      "chunk_id": "20b094bb-f8a6-44bf-b15a-a6b7b0dd4f6d",
+      "chunk_title": "Michigan Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of places within Michigan, including Wayne County and Canton.",
+      "context_title": "Canton, Michigan",
+      "page_content": "Wayne County is in the U.S. state of Michigan. Canton is located about 8 mi west of the city limits of Detroit. Canton is located about 8 mi east of the city limits of Ann Arbor."
+    },
+    {
+      "chunk_id": "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+      "chunk_title": "City Classification & Location",
+      "chunk_summary": "This chunk contains information about the classification and geographic location of cities, specifically identifying Minnetonka as a suburban city in Hennepin County, Minnesota, including its relative position to Minneapolis.",
+      "context_title": "Minnetonka, Minnesota",
+      "page_content": "Minnetonka is in Hennepin County. Minnetonka is 13 km west of Minneapolis. Minnetonka is eight miles west of Minneapolis. Hennepin County is in Minnesota. Minnetonka is a suburban city. Minnesota is in the United States."
+    },
+    {
+      "chunk_id": "c98c0d8a-7a90-4228-b692-27000f56b470",
+      "chunk_title": "Sports Complex Locations",
+      "chunk_summary": "This chunk contains information about the locations of sports complexes and similar venues.",
+      "context_title": "New Jersey State Fair",
+      "page_content": "The Meadowlands Sports Complex is located in East Rutherford, New Jersey."
+    },
+    {
+      "chunk_id": "eaa79767-5db2-4f9f-b187-d4b0251bc653",
+      "chunk_title": "Mine Locations & Geology",
+      "chunk_summary": "This chunk contains information about the locations and geological characteristics of mines, specifically focusing on coal-rich regions.",
+      "context_title": "Dry Fork Mine",
+      "page_content": "The Dry Fork mine is in the Powder River Basin. The Powder River Basin is coal-rich. The Dry Fork mine is located 8 miles north of Gillette, Wyoming."
+    },
+    {
+      "chunk_id": "743ba622-88be-41be-92ee-54b34ca42321",
+      "chunk_title": "Kelsall Overview & Location",
+      "chunk_summary": "This chunk contains information about the characteristics, classification, and geographical location of Kelsall.",
+      "context_title": "Kelsall",
+      "page_content": "Kelsall is located around 8 mi west of Northwich. Kelsall is a medium-sized agricultural/commuter village. Kelsall is in the unitary authority of Cheshire West and Chester. Kelsall is a civil parish. Kelsall is located around 4 mi north west of Tarporley. Kelsall is in the ceremonial county of Cheshire. Kelsall is in England. Kelsall is located around 8 mi east of Chester. The village of Kelsall is situated on Kelsall Hill. Kelsall Hill is a part of the Mid-Cheshire Ridge."
+    },
+    {
+      "chunk_id": "31952cee-b35c-49f9-94bf-7b6eadd7a0ad",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of cities.",
+      "context_title": "New Rochelle Walk of Fame",
+      "page_content": "The city of New Rochelle is located in Westchester County, New York."
+    },
+    {
+      "chunk_id": "ebadad8b-08c5-4396-802c-b7f7b79d2976",
+      "chunk_title": "Distance Conversions",
+      "chunk_summary": "This chunk contains information about unit conversions for distance measurements, specifically relating nautical miles to statute miles and kilometers.",
+      "context_title": "Raleigh Executive Jetport",
+      "page_content": "Seven nautical miles is equivalent to 13 kilometers. Seven nautical miles is equivalent to 8 miles."
+    },
+    {
+      "chunk_id": "b0f42d61-3779-4c72-9889-792646d3b759",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of counties, cities, and hamlets in the United States, including their relative positions to landmarks and routes.",
+      "context_title": "New York State Route 9R",
+      "page_content": "The city of Cohoes is located 1.5 mi to the east of U.S. Route 9. The hamlet of Latham is located in the town of Colonie. Albany County is located in the United States. The hamlet of Boght Corners is located in the town of Colonie."
+    },
+    {
+      "chunk_id": "298c120a-2296-489e-be89-b38aabbc722a",
+      "chunk_title": "Political Positions & Tenure",
+      "chunk_summary": "This chunk contains information about the political positions and tenure of Cory A. Booker.",
+      "context_title": "Marquis D. Jones Jr.",
+      "page_content": "Cory A. Booker was the Mayor of Newark from 2006 to 2008."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.19230769230769232,
+  "retrieval_count": 3,
+  "total_chunks": 26,
+  "total_distinct_titles": 21,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 4,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "Anthony Avent played basketball fo a High School that is located in a city approcimately 8 mi west of where?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Anthony Avent played basketball fo a High School that is located in a city approcimately 8 mi west of where?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Anthony Avent 的高中、该高中所在城市、以及该城市位于其西边约 8 英里的参照地点",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。推理链：N1_1 answer='Malcolm X Shabazz High School' → N1_2 answer='Newark' → N1_3 answer='lower Manhattan'。三个子节点答案均被各自支撑 chunk 直接证实，推理链完整且逻辑自洽。",
+          "critic_normative_advice": "推理链完整，所有子节点证据充分，建议 INHERIT 保留当前结构。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which high school did Anthony Avent play basketball for?",
+          "answer": "Malcolm X Shabazz High School",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which high school did Anthony Avent play basketball for?",
+          "planner_rationale": "Q 的核心实体是 Anthony Avent 就读的高中——必须先确定具体是哪所高中，才能继续追踪其地理位置",
+          "solver_judgment": "question 要求确认 Anthony Avent 就读并打篮球的高中。search_query 直接搜索了该问题。chunks 返回了 Anthony Avent 的职业生涯信息，其中 chunk 1637a577-6c20-4362-be1b-c08fe0509c94 明确记载 'Anthony Avent played at Malcolm X Shabazz High School prior to attending Seton Hall University.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Anthony Avent），单来源但直接具体。支撑 chunk [1637a577-6c20-4362-be1b-c08fe0509c94] 全文逐字包含 'Anthony Avent played at Malcolm X Shabazz High School prior to attending Seton Hall University.'，与声称答案完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1637a577-6c20-4362-be1b-c08fe0509c94"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "1637a577-6c20-4362-be1b-c08fe0509c94",
+              "chunk_title": "Anthony Avent's Career",
+              "chunk_summary": "This chunk contains information about the professional and collegiate basketball career of Anthony Avent, including his draft history, teams played for, career duration, and educational background.",
+              "context_title": "Anthony Avent",
+              "page_content": "Anthony Avent played for the Orlando Magic. Anthony Avent played for the Vancouver Grizzlies. Anthony Avent played for the Los Angeles Clippers. Anthony Avent played six NBA seasons. Anthony Avent played for the Utah Jazz. Anthony Avent is a retired American professional basketball player. Anthony Avent was the 15th pick overall in the 1991 NBA Draft. Anthony Avent played collegiately at Seton Hall University. Anthony Avent played in the 1989 NCAA championship game. Anthony Avent played for the Milwaukee Bucks. Anthony Avent played at Malcolm X Shabazz High School prior to attending Seton Hall University. Anthony Avent was selected by the Atlanta Hawks in the first round of the 1991 NBA Draft."
+            },
+            {
+              "chunk_id": "864dbc4e-5269-46f7-be0b-c487eccfe5d7",
+              "chunk_title": "High School Profiles",
+              "chunk_summary": "This chunk contains information about specific high schools, including their locations and academic standing.",
+              "context_title": "Bob Hurley",
+              "page_content": "St. Anthony High School is in Jersey City, New Jersey. Newark's Saint Benedict's Preparatory School is one of the top high school programs in the nation."
+            },
+            {
+              "chunk_id": "d7edd7c9-f995-41d0-83fd-de834a911e47",
+              "chunk_title": "Horner Family Coaching",
+              "chunk_summary": "This chunk contains information about the high school varsity basketball coaching roles of members of the Horner family, including specific tenures and schools.",
+              "context_title": "Jeff Horner",
+              "page_content": "Jeff Horner was the head varsity basketball coach at Valley High School. Jeff Horner was the head varsity basketball coach at Valley High School from 2010 to 2014. Bob Horner was the Mason City High School varsity basketball coach."
+            },
+            {
+              "chunk_id": "de043b08-9faa-4887-a729-b2faf8038623",
+              "chunk_title": "Athletic Achievements & Roles",
+              "chunk_summary": "This chunk contains information about individuals' athletic achievements and roles on school sports teams.",
+              "context_title": "Jerome Williams (basketball)",
+              "page_content": "Jerome Williams was a star player on the Magruder High School basketball team."
+            },
+            {
+              "chunk_id": "d648928f-b851-45e7-b17b-a3600db19c51",
+              "chunk_title": "Birthplace & Origin",
+              "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+              "context_title": "Anthony Avent",
+              "page_content": "Anthony Avent was born in Rocky Mount, North Carolina."
+            },
+            {
+              "chunk_id": "154099f3-d984-43e4-98c5-5aa242299361",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Miami High School",
+              "page_content": "Miami Senior High School is a public high school."
+            },
+            {
+              "chunk_id": "09d58bd1-7afe-48f2-a1aa-1b16f963d74a",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Robertson High School",
+              "page_content": "Robertson High School is a public senior high school."
+            },
+            {
+              "chunk_id": "f59fc52d-a8bf-458e-9790-afdc4456779c",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Anthony Avent",
+              "page_content": "Anthony Avent was born on October 18, 1969."
+            },
+            {
+              "chunk_id": "6245429e-4f4d-4f80-b975-732f54bdb019",
+              "chunk_title": "Coaching Achievements",
+              "chunk_summary": "This chunk contains information about the coaching careers and achievements of basketball coaches at various educational institutions, specifically focusing on their roles in building successful high school programs.",
+              "context_title": "Dan Hurley",
+              "page_content": "Daniel S. Hurley had a standout career as head coach of Saint Benedict's Preparatory School prior to his time at Wagner College. Daniel S. Hurley built Saint Benedict's Preparatory School into one of the top high school basketball programs in America. Bob Hurley is a Hall of Fame high school coach."
+            },
+            {
+              "chunk_id": "36ecd527-2639-41e6-8aef-a3e62440fd55",
+              "chunk_title": "Name Origins",
+              "chunk_summary": "This chunk contains information about the origins of names, specifically how they are derived from local mascots or symbols.",
+              "context_title": "Berkeley High Jacket",
+              "page_content": "The mascot of Berkeley High School is the Yellowjacket. The name of The Jacket is taken from the mascot of Berkeley High School."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What city is that high school located in?",
+          "answer": "Newark",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Malcolm X Shabazz High School location city",
+          "planner_rationale": "Q 提到高中位于某个城市，需要确定该城市名称，才能进一步回答该城市位于何处西边约 8 英里",
+          "solver_judgment": "question 要求确认'that high school'所在的城市。search_query 搜索了'Malcolm X Shabazz High School location city'。chunks 返回了 e7009e1c-9777-4c9c-8191-eb75d0b4d73f，其中明确记载'Malcolm X Shabazz High School is located in Newark, New Jersey'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Anthony Avent），单来源但直接具体。支撑 chunk [e7009e1c-9777-4c9c-8191-eb75d0b4d73f] 全文为 'Malcolm X Shabazz High School is located in Newark, New Jersey.'，与声称答案 'Newark' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "e7009e1c-9777-4c9c-8191-eb75d0b4d73f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "e7009e1c-9777-4c9c-8191-eb75d0b4d73f",
+              "chunk_title": "School Locations",
+              "chunk_summary": "This chunk contains information about the locations of schools.",
+              "context_title": "Anthony Avent",
+              "page_content": "Malcolm X Shabazz High School is located in Newark, New Jersey."
+            },
+            {
+              "chunk_id": "1637a577-6c20-4362-be1b-c08fe0509c94",
+              "chunk_title": "Anthony Avent's Career",
+              "chunk_summary": "This chunk contains information about the professional and collegiate basketball career of Anthony Avent, including his draft history, teams played for, career duration, and educational background.",
+              "context_title": "Anthony Avent",
+              "page_content": "Anthony Avent played for the Orlando Magic. Anthony Avent played for the Vancouver Grizzlies. Anthony Avent played for the Los Angeles Clippers. Anthony Avent played six NBA seasons. Anthony Avent played for the Utah Jazz. Anthony Avent is a retired American professional basketball player. Anthony Avent was the 15th pick overall in the 1991 NBA Draft. Anthony Avent played collegiately at Seton Hall University. Anthony Avent played in the 1989 NCAA championship game. Anthony Avent played for the Milwaukee Bucks. Anthony Avent played at Malcolm X Shabazz High School prior to attending Seton Hall University. Anthony Avent was selected by the Atlanta Hawks in the first round of the 1991 NBA Draft."
+            },
+            {
+              "chunk_id": "154099f3-d984-43e4-98c5-5aa242299361",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Miami High School",
+              "page_content": "Miami Senior High School is a public high school."
+            },
+            {
+              "chunk_id": "09d58bd1-7afe-48f2-a1aa-1b16f963d74a",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Robertson High School",
+              "page_content": "Robertson High School is a public senior high school."
+            },
+            {
+              "chunk_id": "0f5937d3-b2fe-4296-ae5e-b91fb8ba721a",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification, type, and location of educational institutions, including specific details about Pullman High School and its relation to Washington State University.",
+              "context_title": "Pullman High School",
+              "page_content": "Pullman High School is in the city of Pullman, Washington. The city of Pullman, Washington is the home of Washington State University. Pullman High School is a public secondary school."
+            },
+            {
+              "chunk_id": "af85b7d7-0e15-425e-82a1-fa6e1e25817e",
+              "chunk_title": "Locations & Addresses",
+              "chunk_summary": "This chunk contains information about the physical locations and addresses of educational institutions.",
+              "context_title": "Miami High School",
+              "page_content": "Miami Senior High School is located at 2450 SW 1st Street in Miami, Florida, United States."
+            },
+            {
+              "chunk_id": "c5c8de78-1f6b-4f21-88a8-5d005ce53f42",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification, type, and system affiliation of specific educational institutions.",
+              "context_title": "William R. Boone High School",
+              "page_content": "William R. Boone High School is a public high school. William R. Boone High School is one of twenty high schools in the Orange County Public Schools system."
+            },
+            {
+              "chunk_id": "864dbc4e-5269-46f7-be0b-c487eccfe5d7",
+              "chunk_title": "High School Profiles",
+              "chunk_summary": "This chunk contains information about specific high schools, including their locations and academic standing.",
+              "context_title": "Bob Hurley",
+              "page_content": "St. Anthony High School is in Jersey City, New Jersey. Newark's Saint Benedict's Preparatory School is one of the top high school programs in the nation."
+            },
+            {
+              "chunk_id": "c830d2af-4782-4add-a7d4-2b3181fc7b5d",
+              "chunk_title": "Educational Locations",
+              "chunk_summary": "This chunk contains information about the locations of educational institutions.",
+              "context_title": "Bob Simmons (American football coach)",
+              "page_content": "Boulder High School is located in Boulder, Colorado."
+            },
+            {
+              "chunk_id": "c511dbea-1568-4d4d-96ca-bf34a3b3fa95",
+              "chunk_title": "Historic Architecture & Landmarks",
+              "chunk_summary": "This chunk contains information about the architectural significance and historic status of specific buildings or institutions.",
+              "context_title": "Miami High School",
+              "page_content": "The Miami Senior High School building is a historic landmark. The Miami Senior High School building is famous for its architecture."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "That city is approximately 8 mi west of where?",
+          "answer": "lower Manhattan",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Newark is approximately 8 mi west of what city",
+          "planner_rationale": "Q 的最终询问——高中所在城市位于哪个地点的西边约 8 英里，这是 Q 的直接答案",
+          "solver_judgment": "question 要求确认'That city'（根据 search_query 指 Newark）位于其以西约 8 英里的地点。search_query 搜索了'Newark is approximately 8 mi west of what city'。chunks 返回了 Newark, NJ Overview，其中 chunk a48c128b-5da3-48ad-bcf7-6bd07ab4bbc7 明确记载'Newark is located approximately 8 mi west of lower Manhattan'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Newark, New Jersey），单来源但直接具体。支撑 chunk [a48c128b-5da3-48ad-bcf7-6bd07ab4bbc7] 全文包含 'Newark is located approximately 8 mi west of lower Manhattan.'，与声称答案 'lower Manhattan' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a48c128b-5da3-48ad-bcf7-6bd07ab4bbc7"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a48c128b-5da3-48ad-bcf7-6bd07ab4bbc7",
+              "chunk_title": "Newark, NJ Overview",
+              "chunk_summary": "This chunk contains information about the population trends, administrative status, transportation infrastructure, and geographic location of Newark, New Jersey.",
+              "context_title": "Newark, New Jersey",
+              "page_content": "Newark is the seat of Essex County. The population of 281,944 for Newark in 2015 ranked the city the 70th largest in the nation. Newark was ranked 63rd in the nation in 2000. Newark is the most populous city in the U.S. state of New Jersey. Newark is one of the nation's major air, shipping, and rail hubs. The population of 281,944 for Newark in 2015 was an increase of 1.7% from the 2010 enumeration. For 2015, the Census Bureau's Population Estimates Program calculated a population of 281,944 for Newark. Newark is the second largest city in the New York metropolitan area. The city of Newark had a population of 277,140 in 2010. The population of 277,140 in 2010 made Newark the nation's 67th most-populous municipality. Newark is located approximately 8 mi west of lower Manhattan."
+            },
+            {
+              "chunk_id": "20b094bb-f8a6-44bf-b15a-a6b7b0dd4f6d",
+              "chunk_title": "Michigan Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places within Michigan, including Wayne County and Canton.",
+              "context_title": "Canton, Michigan",
+              "page_content": "Wayne County is in the U.S. state of Michigan. Canton is located about 8 mi west of the city limits of Detroit. Canton is located about 8 mi east of the city limits of Ann Arbor."
+            },
+            {
+              "chunk_id": "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+              "chunk_title": "City Classification & Location",
+              "chunk_summary": "This chunk contains information about the classification and geographic location of cities, specifically identifying Minnetonka as a suburban city in Hennepin County, Minnesota, including its relative position to Minneapolis.",
+              "context_title": "Minnetonka, Minnesota",
+              "page_content": "Minnetonka is in Hennepin County. Minnetonka is 13 km west of Minneapolis. Minnetonka is eight miles west of Minneapolis. Hennepin County is in Minnesota. Minnetonka is a suburban city. Minnesota is in the United States."
+            },
+            {
+              "chunk_id": "c98c0d8a-7a90-4228-b692-27000f56b470",
+              "chunk_title": "Sports Complex Locations",
+              "chunk_summary": "This chunk contains information about the locations of sports complexes and similar venues.",
+              "context_title": "New Jersey State Fair",
+              "page_content": "The Meadowlands Sports Complex is located in East Rutherford, New Jersey."
+            },
+            {
+              "chunk_id": "eaa79767-5db2-4f9f-b187-d4b0251bc653",
+              "chunk_title": "Mine Locations & Geology",
+              "chunk_summary": "This chunk contains information about the locations and geological characteristics of mines, specifically focusing on coal-rich regions.",
+              "context_title": "Dry Fork Mine",
+              "page_content": "The Dry Fork mine is in the Powder River Basin. The Powder River Basin is coal-rich. The Dry Fork mine is located 8 miles north of Gillette, Wyoming."
+            },
+            {
+              "chunk_id": "743ba622-88be-41be-92ee-54b34ca42321",
+              "chunk_title": "Kelsall Overview & Location",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, and geographical location of Kelsall.",
+              "context_title": "Kelsall",
+              "page_content": "Kelsall is located around 8 mi west of Northwich. Kelsall is a medium-sized agricultural/commuter village. Kelsall is in the unitary authority of Cheshire West and Chester. Kelsall is a civil parish. Kelsall is located around 4 mi north west of Tarporley. Kelsall is in the ceremonial county of Cheshire. Kelsall is in England. Kelsall is located around 8 mi east of Chester. The village of Kelsall is situated on Kelsall Hill. Kelsall Hill is a part of the Mid-Cheshire Ridge."
+            },
+            {
+              "chunk_id": "31952cee-b35c-49f9-94bf-7b6eadd7a0ad",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities.",
+              "context_title": "New Rochelle Walk of Fame",
+              "page_content": "The city of New Rochelle is located in Westchester County, New York."
+            },
+            {
+              "chunk_id": "ebadad8b-08c5-4396-802c-b7f7b79d2976",
+              "chunk_title": "Distance Conversions",
+              "chunk_summary": "This chunk contains information about unit conversions for distance measurements, specifically relating nautical miles to statute miles and kilometers.",
+              "context_title": "Raleigh Executive Jetport",
+              "page_content": "Seven nautical miles is equivalent to 13 kilometers. Seven nautical miles is equivalent to 8 miles."
+            },
+            {
+              "chunk_id": "b0f42d61-3779-4c72-9889-792646d3b759",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of counties, cities, and hamlets in the United States, including their relative positions to landmarks and routes.",
+              "context_title": "New York State Route 9R",
+              "page_content": "The city of Cohoes is located 1.5 mi to the east of U.S. Route 9. The hamlet of Latham is located in the town of Colonie. Albany County is located in the United States. The hamlet of Boght Corners is located in the town of Colonie."
+            },
+            {
+              "chunk_id": "298c120a-2296-489e-be89-b38aabbc722a",
+              "chunk_title": "Political Positions & Tenure",
+              "chunk_summary": "This chunk contains information about the political positions and tenure of Cory A. Booker.",
+              "context_title": "Marquis D. Jones Jr.",
+              "page_content": "Cory A. Booker was the Mayor of Newark from 2006 to 2008."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Anthony Avent played basketball fo a High School that is located in a city approcimately 8 mi west of where?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Anthony Avent played basketball fo a High School that is located in a city approcimately 8 mi west of where?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。推理链已完整：N1_1 answer='Malcolm X Shabazz High School' → N1_2 answer='Newark' → N1_3 answer='lower Manhattan'。三个子节点均 SOLVED + healthy，Q 的答案可由推理链聚合得出：lower Manhattan",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。推理链：N1_1 answer='Malcolm X Shabazz High School' → N1_2 answer='Newark' → N1_3 answer='lower Manhattan'。三个子节点答案均被各自支撑 chunk 直接证实，推理链完整且逻辑自洽。",
+          "critic_normative_advice": "推理链完整，所有子节点证据充分，建议 INHERIT 保留当前结构。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which high school did Anthony Avent play basketball for?",
+          "answer": "Malcolm X Shabazz High School",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which high school did Anthony Avent play basketball for?",
+          "planner_rationale": "Q 的第一层分解——确定 Anthony Avent 就读的高中。已 SOLVED + healthy，支撑 chunk 直接证实 'Anthony Avent played at Malcolm X Shabazz High School'",
+          "solver_judgment": "question 要求确认 Anthony Avent 就读并打篮球的高中。search_query 直接搜索了该问题。chunks 返回了 Anthony Avent 的职业生涯信息，其中 chunk 1637a577-6c20-4362-be1b-c08fe0509c94 明确记载 'Anthony Avent played at Malcolm X Shabazz High School prior to attending Seton Hall University.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Anthony Avent），单来源但直接具体。支撑 chunk [1637a577-6c20-4362-be1b-c08fe0509c94] 全文逐字包含 'Anthony Avent played at Malcolm X Shabazz High School prior to attending Seton Hall University.'，与声称答案 'Malcolm X Shabazz High School' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1637a577-6c20-4362-be1b-c08fe0509c94"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "1637a577-6c20-4362-be1b-c08fe0509c94",
+              "chunk_title": "Anthony Avent's Career",
+              "chunk_summary": "This chunk contains information about the professional and collegiate basketball career of Anthony Avent, including his draft history, teams played for, career duration, and educational background.",
+              "context_title": "Anthony Avent",
+              "page_content": "Anthony Avent played for the Orlando Magic. Anthony Avent played for the Vancouver Grizzlies. Anthony Avent played for the Los Angeles Clippers. Anthony Avent played six NBA seasons. Anthony Avent played for the Utah Jazz. Anthony Avent is a retired American professional basketball player. Anthony Avent was the 15th pick overall in the 1991 NBA Draft. Anthony Avent played collegiately at Seton Hall University. Anthony Avent played in the 1989 NCAA championship game. Anthony Avent played for the Milwaukee Bucks. Anthony Avent played at Malcolm X Shabazz High School prior to attending Seton Hall University. Anthony Avent was selected by the Atlanta Hawks in the first round of the 1991 NBA Draft."
+            },
+            {
+              "chunk_id": "864dbc4e-5269-46f7-be0b-c487eccfe5d7",
+              "chunk_title": "High School Profiles",
+              "chunk_summary": "This chunk contains information about specific high schools, including their locations and academic standing.",
+              "context_title": "Bob Hurley",
+              "page_content": "St. Anthony High School is in Jersey City, New Jersey. Newark's Saint Benedict's Preparatory School is one of the top high school programs in the nation."
+            },
+            {
+              "chunk_id": "d7edd7c9-f995-41d0-83fd-de834a911e47",
+              "chunk_title": "Horner Family Coaching",
+              "chunk_summary": "This chunk contains information about the high school varsity basketball coaching roles of members of the Horner family, including specific tenures and schools.",
+              "context_title": "Jeff Horner",
+              "page_content": "Jeff Horner was the head varsity basketball coach at Valley High School. Jeff Horner was the head varsity basketball coach at Valley High School from 2010 to 2014. Bob Horner was the Mason City High School varsity basketball coach."
+            },
+            {
+              "chunk_id": "de043b08-9faa-4887-a729-b2faf8038623",
+              "chunk_title": "Athletic Achievements & Roles",
+              "chunk_summary": "This chunk contains information about individuals' athletic achievements and roles on school sports teams.",
+              "context_title": "Jerome Williams (basketball)",
+              "page_content": "Jerome Williams was a star player on the Magruder High School basketball team."
+            },
+            {
+              "chunk_id": "d648928f-b851-45e7-b17b-a3600db19c51",
+              "chunk_title": "Birthplace & Origin",
+              "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+              "context_title": "Anthony Avent",
+              "page_content": "Anthony Avent was born in Rocky Mount, North Carolina."
+            },
+            {
+              "chunk_id": "154099f3-d984-43e4-98c5-5aa242299361",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Miami High School",
+              "page_content": "Miami Senior High School is a public high school."
+            },
+            {
+              "chunk_id": "09d58bd1-7afe-48f2-a1aa-1b16f963d74a",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Robertson High School",
+              "page_content": "Robertson High School is a public senior high school."
+            },
+            {
+              "chunk_id": "f59fc52d-a8bf-458e-9790-afdc4456779c",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Anthony Avent",
+              "page_content": "Anthony Avent was born on October 18, 1969."
+            },
+            {
+              "chunk_id": "6245429e-4f4d-4f80-b975-732f54bdb019",
+              "chunk_title": "Coaching Achievements",
+              "chunk_summary": "This chunk contains information about the coaching careers and achievements of basketball coaches at various educational institutions, specifically focusing on their roles in building successful high school programs.",
+              "context_title": "Dan Hurley",
+              "page_content": "Daniel S. Hurley had a standout career as head coach of Saint Benedict's Preparatory School prior to his time at Wagner College. Daniel S. Hurley built Saint Benedict's Preparatory School into one of the top high school basketball programs in America. Bob Hurley is a Hall of Fame high school coach."
+            },
+            {
+              "chunk_id": "36ecd527-2639-41e6-8aef-a3e62440fd55",
+              "chunk_title": "Name Origins",
+              "chunk_summary": "This chunk contains information about the origins of names, specifically how they are derived from local mascots or symbols.",
+              "context_title": "Berkeley High Jacket",
+              "page_content": "The mascot of Berkeley High School is the Yellowjacket. The name of The Jacket is taken from the mascot of Berkeley High School."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What city is that high school located in?",
+          "answer": "Newark",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Malcolm X Shabazz High School location city",
+          "planner_rationale": "Q 的第二层分解——确定高中所在城市。已 SOLVED + healthy，dependency 于 N1_1（'that high school' 指代 N1_1 answer），支撑 chunk 直接证实 'Malcolm X Shabazz High School is located in Newark, New Jersey'",
+          "solver_judgment": "question 要求确认'that high school'所在的城市。search_query 搜索了'Malcolm X Shabazz High School location city'。chunks 返回了 e7009e1c-9777-4c9c-8191-eb75d0b4d73f，其中明确记载'Malcolm X Shabazz High School is located in Newark, New Jersey'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Anthony Avent），单来源但直接具体。支撑 chunk [e7009e1c-9777-4c9c-8191-eb75d0b4d73f] 全文为 'Malcolm X Shabazz High School is located in Newark, New Jersey.'，与声称答案 'Newark' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "e7009e1c-9777-4c9c-8191-eb75d0b4d73f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "e7009e1c-9777-4c9c-8191-eb75d0b4d73f",
+              "chunk_title": "School Locations",
+              "chunk_summary": "This chunk contains information about the locations of schools.",
+              "context_title": "Anthony Avent",
+              "page_content": "Malcolm X Shabazz High School is located in Newark, New Jersey."
+            },
+            {
+              "chunk_id": "1637a577-6c20-4362-be1b-c08fe0509c94",
+              "chunk_title": "Anthony Avent's Career",
+              "chunk_summary": "This chunk contains information about the professional and collegiate basketball career of Anthony Avent, including his draft history, teams played for, career duration, and educational background.",
+              "context_title": "Anthony Avent",
+              "page_content": "Anthony Avent played for the Orlando Magic. Anthony Avent played for the Vancouver Grizzlies. Anthony Avent played for the Los Angeles Clippers. Anthony Avent played six NBA seasons. Anthony Avent played for the Utah Jazz. Anthony Avent is a retired American professional basketball player. Anthony Avent was the 15th pick overall in the 1991 NBA Draft. Anthony Avent played collegiately at Seton Hall University. Anthony Avent played in the 1989 NCAA championship game. Anthony Avent played for the Milwaukee Bucks. Anthony Avent played at Malcolm X Shabazz High School prior to attending Seton Hall University. Anthony Avent was selected by the Atlanta Hawks in the first round of the 1991 NBA Draft."
+            },
+            {
+              "chunk_id": "154099f3-d984-43e4-98c5-5aa242299361",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Miami High School",
+              "page_content": "Miami Senior High School is a public high school."
+            },
+            {
+              "chunk_id": "09d58bd1-7afe-48f2-a1aa-1b16f963d74a",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification and type of educational institutions.",
+              "context_title": "Robertson High School",
+              "page_content": "Robertson High School is a public senior high school."
+            },
+            {
+              "chunk_id": "0f5937d3-b2fe-4296-ae5e-b91fb8ba721a",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification, type, and location of educational institutions, including specific details about Pullman High School and its relation to Washington State University.",
+              "context_title": "Pullman High School",
+              "page_content": "Pullman High School is in the city of Pullman, Washington. The city of Pullman, Washington is the home of Washington State University. Pullman High School is a public secondary school."
+            },
+            {
+              "chunk_id": "af85b7d7-0e15-425e-82a1-fa6e1e25817e",
+              "chunk_title": "Locations & Addresses",
+              "chunk_summary": "This chunk contains information about the physical locations and addresses of educational institutions.",
+              "context_title": "Miami High School",
+              "page_content": "Miami Senior High School is located at 2450 SW 1st Street in Miami, Florida, United States."
+            },
+            {
+              "chunk_id": "c5c8de78-1f6b-4f21-88a8-5d005ce53f42",
+              "chunk_title": "Educational Institutions",
+              "chunk_summary": "This chunk contains information about the classification, type, and system affiliation of specific educational institutions.",
+              "context_title": "William R. Boone High School",
+              "page_content": "William R. Boone High School is a public high school. William R. Boone High School is one of twenty high schools in the Orange County Public Schools system."
+            },
+            {
+              "chunk_id": "864dbc4e-5269-46f7-be0b-c487eccfe5d7",
+              "chunk_title": "High School Profiles",
+              "chunk_summary": "This chunk contains information about specific high schools, including their locations and academic standing.",
+              "context_title": "Bob Hurley",
+              "page_content": "St. Anthony High School is in Jersey City, New Jersey. Newark's Saint Benedict's Preparatory School is one of the top high school programs in the nation."
+            },
+            {
+              "chunk_id": "c830d2af-4782-4add-a7d4-2b3181fc7b5d",
+              "chunk_title": "Educational Locations",
+              "chunk_summary": "This chunk contains information about the locations of educational institutions.",
+              "context_title": "Bob Simmons (American football coach)",
+              "page_content": "Boulder High School is located in Boulder, Colorado."
+            },
+            {
+              "chunk_id": "c511dbea-1568-4d4d-96ca-bf34a3b3fa95",
+              "chunk_title": "Historic Architecture & Landmarks",
+              "chunk_summary": "This chunk contains information about the architectural significance and historic status of specific buildings or institutions.",
+              "context_title": "Miami High School",
+              "page_content": "The Miami Senior High School building is a historic landmark. The Miami Senior High School building is famous for its architecture."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "That city is approximately 8 mi west of where?",
+          "answer": "lower Manhattan",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Newark is approximately 8 mi west of what city",
+          "planner_rationale": "Q 的第三层分解——最终答案。已 SOLVED + healthy，dependency 于 N1_2（'That city' 指代 N1_2 answer），支撑 chunk 直接证实 'Newark is located approximately 8 mi west of lower Manhattan'",
+          "solver_judgment": "question 要求确认'That city'（根据 search_query 指 Newark）位于其以西约 8 英里的地点。search_query 搜索了'Newark is approximately 8 mi west of what city'。chunks 返回了 Newark, NJ Overview，其中 chunk a48c128b-5da3-48ad-bcf7-6bd07ab4bbc7 明确记载'Newark is located approximately 8 mi west of lower Manhattan'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Newark, New Jersey），单来源但直接具体。支撑 chunk [a48c128b-5da3-48ad-bcf7-6bd07ab4bbc7] 全文包含 'Newark is located approximately 8 mi west of lower Manhattan.'，与声称答案 'lower Manhattan' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a48c128b-5da3-48ad-bcf7-6bd07ab4bbc7"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a48c128b-5da3-48ad-bcf7-6bd07ab4bbc7",
+              "chunk_title": "Newark, NJ Overview",
+              "chunk_summary": "This chunk contains information about the population trends, administrative status, transportation infrastructure, and geographic location of Newark, New Jersey.",
+              "context_title": "Newark, New Jersey",
+              "page_content": "Newark is the seat of Essex County. The population of 281,944 for Newark in 2015 ranked the city the 70th largest in the nation. Newark was ranked 63rd in the nation in 2000. Newark is the most populous city in the U.S. state of New Jersey. Newark is one of the nation's major air, shipping, and rail hubs. The population of 281,944 for Newark in 2015 was an increase of 1.7% from the 2010 enumeration. For 2015, the Census Bureau's Population Estimates Program calculated a population of 281,944 for Newark. Newark is the second largest city in the New York metropolitan area. The city of Newark had a population of 277,140 in 2010. The population of 277,140 in 2010 made Newark the nation's 67th most-populous municipality. Newark is located approximately 8 mi west of lower Manhattan."
+            },
+            {
+              "chunk_id": "20b094bb-f8a6-44bf-b15a-a6b7b0dd4f6d",
+              "chunk_title": "Michigan Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places within Michigan, including Wayne County and Canton.",
+              "context_title": "Canton, Michigan",
+              "page_content": "Wayne County is in the U.S. state of Michigan. Canton is located about 8 mi west of the city limits of Detroit. Canton is located about 8 mi east of the city limits of Ann Arbor."
+            },
+            {
+              "chunk_id": "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+              "chunk_title": "City Classification & Location",
+              "chunk_summary": "This chunk contains information about the classification and geographic location of cities, specifically identifying Minnetonka as a suburban city in Hennepin County, Minnesota, including its relative position to Minneapolis.",
+              "context_title": "Minnetonka, Minnesota",
+              "page_content": "Minnetonka is in Hennepin County. Minnetonka is 13 km west of Minneapolis. Minnetonka is eight miles west of Minneapolis. Hennepin County is in Minnesota. Minnetonka is a suburban city. Minnesota is in the United States."
+            },
+            {
+              "chunk_id": "c98c0d8a-7a90-4228-b692-27000f56b470",
+              "chunk_title": "Sports Complex Locations",
+              "chunk_summary": "This chunk contains information about the locations of sports complexes and similar venues.",
+              "context_title": "New Jersey State Fair",
+              "page_content": "The Meadowlands Sports Complex is located in East Rutherford, New Jersey."
+            },
+            {
+              "chunk_id": "eaa79767-5db2-4f9f-b187-d4b0251bc653",
+              "chunk_title": "Mine Locations & Geology",
+              "chunk_summary": "This chunk contains information about the locations and geological characteristics of mines, specifically focusing on coal-rich regions.",
+              "context_title": "Dry Fork Mine",
+              "page_content": "The Dry Fork mine is in the Powder River Basin. The Powder River Basin is coal-rich. The Dry Fork mine is located 8 miles north of Gillette, Wyoming."
+            },
+            {
+              "chunk_id": "743ba622-88be-41be-92ee-54b34ca42321",
+              "chunk_title": "Kelsall Overview & Location",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, and geographical location of Kelsall.",
+              "context_title": "Kelsall",
+              "page_content": "Kelsall is located around 8 mi west of Northwich. Kelsall is a medium-sized agricultural/commuter village. Kelsall is in the unitary authority of Cheshire West and Chester. Kelsall is a civil parish. Kelsall is located around 4 mi north west of Tarporley. Kelsall is in the ceremonial county of Cheshire. Kelsall is in England. Kelsall is located around 8 mi east of Chester. The village of Kelsall is situated on Kelsall Hill. Kelsall Hill is a part of the Mid-Cheshire Ridge."
+            },
+            {
+              "chunk_id": "31952cee-b35c-49f9-94bf-7b6eadd7a0ad",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities.",
+              "context_title": "New Rochelle Walk of Fame",
+              "page_content": "The city of New Rochelle is located in Westchester County, New York."
+            },
+            {
+              "chunk_id": "ebadad8b-08c5-4396-802c-b7f7b79d2976",
+              "chunk_title": "Distance Conversions",
+              "chunk_summary": "This chunk contains information about unit conversions for distance measurements, specifically relating nautical miles to statute miles and kilometers.",
+              "context_title": "Raleigh Executive Jetport",
+              "page_content": "Seven nautical miles is equivalent to 13 kilometers. Seven nautical miles is equivalent to 8 miles."
+            },
+            {
+              "chunk_id": "b0f42d61-3779-4c72-9889-792646d3b759",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of counties, cities, and hamlets in the United States, including their relative positions to landmarks and routes.",
+              "context_title": "New York State Route 9R",
+              "page_content": "The city of Cohoes is located 1.5 mi to the east of U.S. Route 9. The hamlet of Latham is located in the town of Colonie. Albany County is located in the United States. The hamlet of Boght Corners is located in the town of Colonie."
+            },
+            {
+              "chunk_id": "298c120a-2296-489e-be89-b38aabbc722a",
+              "chunk_title": "Political Positions & Tenure",
+              "chunk_summary": "This chunk contains information about the political positions and tenure of Cory A. Booker.",
+              "context_title": "Marquis D. Jones Jr.",
+              "page_content": "Cory A. Booker was the Mayor of Newark from 2006 to 2008."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Which high school did Anthony Avent play basketball for?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "1637a577-6c20-4362-be1b-c08fe0509c94",
+        "864dbc4e-5269-46f7-be0b-c487eccfe5d7",
+        "d7edd7c9-f995-41d0-83fd-de834a911e47",
+        "de043b08-9faa-4887-a729-b2faf8038623",
+        "d648928f-b851-45e7-b17b-a3600db19c51",
+        "154099f3-d984-43e4-98c5-5aa242299361",
+        "09d58bd1-7afe-48f2-a1aa-1b16f963d74a",
+        "f59fc52d-a8bf-458e-9790-afdc4456779c",
+        "6245429e-4f4d-4f80-b975-732f54bdb019",
+        "36ecd527-2639-41e6-8aef-a3e62440fd55"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Malcolm X Shabazz High School location city",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "e7009e1c-9777-4c9c-8191-eb75d0b4d73f",
+        "1637a577-6c20-4362-be1b-c08fe0509c94",
+        "154099f3-d984-43e4-98c5-5aa242299361",
+        "09d58bd1-7afe-48f2-a1aa-1b16f963d74a",
+        "0f5937d3-b2fe-4296-ae5e-b91fb8ba721a",
+        "af85b7d7-0e15-425e-82a1-fa6e1e25817e",
+        "c5c8de78-1f6b-4f21-88a8-5d005ce53f42",
+        "864dbc4e-5269-46f7-be0b-c487eccfe5d7",
+        "c830d2af-4782-4add-a7d4-2b3181fc7b5d",
+        "c511dbea-1568-4d4d-96ca-bf34a3b3fa95"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Newark is approximately 8 mi west of what city",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "a48c128b-5da3-48ad-bcf7-6bd07ab4bbc7",
+        "20b094bb-f8a6-44bf-b15a-a6b7b0dd4f6d",
+        "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+        "c98c0d8a-7a90-4228-b692-27000f56b470",
+        "eaa79767-5db2-4f9f-b187-d4b0251bc653",
+        "743ba622-88be-41be-92ee-54b34ca42321",
+        "31952cee-b35c-49f9-94bf-7b6eadd7a0ad",
+        "ebadad8b-08c5-4396-802c-b7f7b79d2976",
+        "b0f42d61-3779-4c72-9889-792646d3b759",
+        "298c120a-2296-489e-be89-b38aabbc722a"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 3,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Anthony Avent 就读的是哪所高中？（理由：Q 的核心实体，必须先确定具体学校），F2: 那所高中位于哪个城市？（理由：Q 提到高中位于某城市，需确定城市名才能继续追踪地理关系），F3: 该城市位于何处西边约 8 英里？（理由：Q 的最终询问——这是答案本身）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'that high school' 需要用 F1 的 answer 消解），F3 依赖 F2（dependency——F3 的 question 中 'That city' 需要用 F2 的 answer 消解）。整体形成链式依赖：N0→F1→F2→F3。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question='Which high school did Anthony Avent play basketball for?'，rationale='确定 Anthony Avent 的高中'），$2（question='What city is that high school located in?'，rationale='确定高中所在城市'），$3（question='That city is approximately 8 mi west of where?'，rationale='确定最终答案'）。新增边: N0→$1（decomposition，$1 是 Q 的第一个分解步骤），$1→$2（dependency，$2 的 'that high school' 指代 $1 的 answer），$2→$3（dependency，$3 的 'That city' 指代 $2 的 answer）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有 3 个非根节点均已 SOLVED；②推理链语义匹配——N1_1 answer 消解 N1_2 指代，N1_2 answer 消解 N1_3 指代，所有 dependency 环节语义有效；③全部节点 healthy——N0/N1_1/N1_2/N1_3 均为 healthy，每个节点的支撑 chunk 全文逐字包含声称答案；④首轮无拓扑变化。推理链完整，所有节点证据充分，可生"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Anthony Avent 就读的是哪所高中？（理由：Q 的核心实体，必须先确定具体学校），F2: 那所高中位于哪个城市？（理由：Q 提到高中位于某城市，需确定城市名才能继续追踪地理关系），F3: 该城市位于何处西边约 8 英里？（理由：Q 的最终询问——这是答案本身）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'that high school' 需要用 F1 的 answer 消解），F3 依赖 F2（dependency——F3 的 question 中 'That city' 需要用 F2 的 answer 消解）。整体形成链式依赖：N0→F1→F2→F3。所有三个子节点均已 SOLVED + healthy，推理链完整，Q 的答案可由链式聚合得出：lower Manhattan。",
+      "hypothesis_delta": "本轮无结构调整——全部 INHERIT。原因：上一轮（首轮）的结构假设被完全验证。N1_1/N1_2/N1_3 三个节点均 SOLVED + healthy，每个节点的 answer 都被 KB 支撑 chunk 直接证实，Critic 建议 INHERIT。链式依赖结构（N0→N1_1→N1_2→N1_3）正确无误，无阻塞、无缺口、无冗余。DAG 已收敛至理想结构，无需任何变更。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有 3 个非根节点均已 SOLVED；②推理链 N0→N1_1→N1_2→N1_3 语义完整，N1_1 answer 消解 N1_2 的 'that high school'，N1_2 answer 消解 N1_3 的 'That city'，无断裂；③全部节点（含 ROOT）critic_health 均为 healthy；④本轮拓扑与上一轮一致（全部 INHERIT）。推理链"
+      }
+    }
+  ]
+}

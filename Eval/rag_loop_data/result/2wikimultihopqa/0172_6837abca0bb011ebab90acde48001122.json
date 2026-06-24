@@ -1,0 +1,454 @@
+{
+  "question_index": 172,
+  "question_id": "6837abca0bb011ebab90acde48001122",
+  "question": "Who is Princess Adrienne, Duchess Of Blekinge's mother?",
+  "answer": "Princess Madeleine, Duchess of Hälsingland and Gästrikland",
+  "prediction": "Princess Madeleine",
+  "error": null,
+  "latency_ms": 229903.40210000068,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T09:48:43.977010+00:00",
+  "chunks": [
+    {
+      "chunk_id": "aaba69ad-b5b2-400b-b650-096d9ac556b2",
+      "chunk_title": "Princess Adrienne Biography",
+      "chunk_summary": "This chunk contains biographical details about Princess Adrienne of Sweden, including her titles, full name, birth date, parentage, royal lineage, and place in the line of succession.",
+      "context_title": "Princess Adrienne, Duchess of Blekinge",
+      "page_content": "Princess Adrienne of Sweden was born on 9 March 2018. Princess Adrienne of Sweden is a granddaughter of King Carl XVI Gustaf. Princess Adrienne of Sweden is the third child of Princess Madeleine and Christopher O'Neill. Princess Adrienne of Sweden is a granddaughter of Queen Silvia. Princess Adrienne of Sweden is the Duchess of Blekinge. Princess Adrienne of Sweden is the second daughter of Princess Madeleine and Christopher O'Neill. Princess Adrienne of Sweden is tenth in the line of succession to the Swedish throne. Princess Adrienne of Sweden's full name is Adrienne Josephine Alice Bernadotte."
+    },
+    {
+      "chunk_id": "450edb0e-b148-4697-bf43-8713fde5b16b",
+      "chunk_title": "Royal Titles & Holders",
+      "chunk_summary": "This chunk contains information about royal titles and the individuals who hold them, including specific monarchs and dukes.",
+      "context_title": "Christopher O'Neill",
+      "page_content": "King Carl XVI Gustaf is the King of Sweden. Princess Madeleine holds the title Duchess of Hälsingland and Gästrikland."
+    },
+    {
+      "chunk_id": "182b2b47-fcd3-4ec5-9eed-bc8a6e6d3b23",
+      "chunk_title": "Christopher Paul O'Neill Biography",
+      "chunk_summary": "This chunk contains biographical details about Christopher Paul O'Neill, including his full name, title, profession, and royal family connections.",
+      "context_title": "Christopher O'Neill",
+      "page_content": "Princess Madeleine is a daughter of King Carl XVI Gustaf of Sweden. Christopher Paul O'Neill holds the title KNO. Christopher Paul O'Neill's full name is Christopher Paul O'Neill. Christopher Paul O'Neill is a British-American financier. Christopher Paul O'Neill is the husband of Princess Madeleine, Duchess of Hälsingland and Gästrikland."
+    },
+    {
+      "chunk_id": "7805a00a-d6ba-465f-82c0-52b18a228b74",
+      "chunk_title": "Noble Titles & Origins",
+      "chunk_summary": "This chunk contains information about the noble titles and birth origins of historical figures, specifically focusing on Marie of Prussia.",
+      "context_title": "Marie of Prussia, Margravine of Brandenburg-Bayreuth",
+      "page_content": "Marie of Prussia was Margravine of Brandenburg-Bayreuth by marriage. Marie of Prussia was a Prussian duchess by birth."
+    },
+    {
+      "chunk_id": "0c0b5688-1d57-4bbb-bf4b-6c7a938af674",
+      "chunk_title": "Royal Lineage & Status",
+      "chunk_summary": "This chunk contains information about the possible royal lineage and status of Saint Adela and Irmina of Oeren.",
+      "context_title": "Adela of Pfalzel",
+      "page_content": "Irmina of Oeren was possibly a princess. Saint Adela was possibly a princess."
+    },
+    {
+      "chunk_id": "3c3c891e-a605-40a1-b8dd-749924a404c2",
+      "chunk_title": "Royal Titles",
+      "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+      "context_title": "Sophia Magdalena of Denmark",
+      "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+    },
+    {
+      "chunk_id": "b686c318-69d9-497f-8594-50dfdb581cf3",
+      "chunk_title": "Royal Titles",
+      "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+      "context_title": "Sophia Magdalena of Denmark",
+      "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+    },
+    {
+      "chunk_id": "66765fd9-2d0c-4185-809e-8ad6520f74da",
+      "chunk_title": "Royal Titles",
+      "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+      "context_title": "Sophia Magdalena of Denmark",
+      "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+    },
+    {
+      "chunk_id": "f09da083-f9c4-4daa-9608-07bcbcaa2b13",
+      "chunk_title": "Royal Lineage & Titles",
+      "chunk_summary": "This chunk contains information about the royal lineage, titles, and dynastic affiliations of historical figures, specifically focusing on Anna Jagiellon.",
+      "context_title": "Anna Jagiellon, Duchess of Pomerania",
+      "page_content": "Anna Jagiellon was Duchess of Pomerania by marriage. Anna Jagiellon was the fifth daughter of King Casimir IV of Poland. Anna Jagiellon was the fifth daughter of Archduchess Elisabeth of Austria. Anna Jagiellon was a Polish princess. Anna Jagiellon was a member of the Jagiellonian dynasty."
+    },
+    {
+      "chunk_id": "5167c711-70d2-4d99-93c7-6e041f0d60f5",
+      "chunk_title": "Royal Titles",
+      "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+      "context_title": "Sophia Magdalena of Denmark",
+      "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.571429,
+  "precision": 1.0,
+  "recall": 0.4,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3,
+  "retrieval_count": 1,
+  "total_chunks": 10,
+  "total_distinct_titles": 6,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "Who is Princess Adrienne, Duchess Of Blekinge's mother?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is Princess Adrienne, Duchess Of Blekinge's mother?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Princess Adrienne, Duchess Of Blekinge 的母亲是谁",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据来自子节点推理链的聚合。子节点 N1_1 提供 Princess Adrienne 的身份信息（含父母为 Princess Madeleine 和 Christopher O'Neill），子节点 N1_2 从中推理出母亲为 Princess Madeleine。推理链完整，两子节点答案一致指向同一结论。",
+          "critic_normative_advice": "推理链完整，子节点证据充分，建议 INHERIT 保留当前结构。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Princess Adrienne, Duchess Of Blekinge?",
+          "answer": "Princess Adrienne of Sweden (full name Adrienne Josephine Alice Bernadotte), born on 9 March 2018, is the Duchess of Blekinge, the third child and second daughter of Princess Madeleine and Christopher O'Neill, a granddaughter of King Carl XVI Gustaf and Queen Silvia, and tenth in the line of succession to the Swedish throne.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is Princess Adrienne, Duchess Of Blekinge?",
+          "planner_rationale": "需要先确认 Princess Adrienne, Duchess Of Blekinge 的身份（全名、出生背景、所属王室），以确保后续搜索母亲信息时指向正确的人物实体",
+          "solver_judgment": "question 要求确认 Princess Adrienne, Duchess Of Blekinge 的身份。search_query 直接搜索了该人物的全名。chunks 返回了 chunk aaba69ad-b5b2-400b-b650-096d9ac556b2，其中详细记载了她的全名（Adrienne Josephine Alice Bernadotte）、出生日期（2018年3月9日）、父母（Princess Madeleine 和 Christopher O'Neill）、祖父母（King Carl XVI Gustaf 和 Queen Silvia）、头衔（Duchess of Blekinge）以及王位继承顺位（第十位）。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "1 个来源（文档 Princess Adrienne, Duchess of Blekinge，chunk aaba69ad-b5b2-400b-b650-096d9ac556b2）。单来源但直接、具体地陈述了答案——chunk 全文逐句列出了 Princess Adrienne 的全名（Adrienne Josephine Alice Bernadotte）、出生日期（2018年3月9日）、父母（Princess Madeleine 和 Christopher O'Neill）、祖父母（King Carl XVI Gustaf 和 Queen Silvia）、头衔（Duchess of Blekinge）及王位继承顺位（第十位）。Solver 声称的答案与 chunk 内容完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，单来源但直接具体，建议 INHERIT 保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "aaba69ad-b5b2-400b-b650-096d9ac556b2"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "aaba69ad-b5b2-400b-b650-096d9ac556b2",
+              "chunk_title": "Princess Adrienne Biography",
+              "chunk_summary": "This chunk contains biographical details about Princess Adrienne of Sweden, including her titles, full name, birth date, parentage, royal lineage, and place in the line of succession.",
+              "context_title": "Princess Adrienne, Duchess of Blekinge",
+              "page_content": "Princess Adrienne of Sweden was born on 9 March 2018. Princess Adrienne of Sweden is a granddaughter of King Carl XVI Gustaf. Princess Adrienne of Sweden is the third child of Princess Madeleine and Christopher O'Neill. Princess Adrienne of Sweden is a granddaughter of Queen Silvia. Princess Adrienne of Sweden is the Duchess of Blekinge. Princess Adrienne of Sweden is the second daughter of Princess Madeleine and Christopher O'Neill. Princess Adrienne of Sweden is tenth in the line of succession to the Swedish throne. Princess Adrienne of Sweden's full name is Adrienne Josephine Alice Bernadotte."
+            },
+            {
+              "chunk_id": "450edb0e-b148-4697-bf43-8713fde5b16b",
+              "chunk_title": "Royal Titles & Holders",
+              "chunk_summary": "This chunk contains information about royal titles and the individuals who hold them, including specific monarchs and dukes.",
+              "context_title": "Christopher O'Neill",
+              "page_content": "King Carl XVI Gustaf is the King of Sweden. Princess Madeleine holds the title Duchess of Hälsingland and Gästrikland."
+            },
+            {
+              "chunk_id": "182b2b47-fcd3-4ec5-9eed-bc8a6e6d3b23",
+              "chunk_title": "Christopher Paul O'Neill Biography",
+              "chunk_summary": "This chunk contains biographical details about Christopher Paul O'Neill, including his full name, title, profession, and royal family connections.",
+              "context_title": "Christopher O'Neill",
+              "page_content": "Princess Madeleine is a daughter of King Carl XVI Gustaf of Sweden. Christopher Paul O'Neill holds the title KNO. Christopher Paul O'Neill's full name is Christopher Paul O'Neill. Christopher Paul O'Neill is a British-American financier. Christopher Paul O'Neill is the husband of Princess Madeleine, Duchess of Hälsingland and Gästrikland."
+            },
+            {
+              "chunk_id": "7805a00a-d6ba-465f-82c0-52b18a228b74",
+              "chunk_title": "Noble Titles & Origins",
+              "chunk_summary": "This chunk contains information about the noble titles and birth origins of historical figures, specifically focusing on Marie of Prussia.",
+              "context_title": "Marie of Prussia, Margravine of Brandenburg-Bayreuth",
+              "page_content": "Marie of Prussia was Margravine of Brandenburg-Bayreuth by marriage. Marie of Prussia was a Prussian duchess by birth."
+            },
+            {
+              "chunk_id": "0c0b5688-1d57-4bbb-bf4b-6c7a938af674",
+              "chunk_title": "Royal Lineage & Status",
+              "chunk_summary": "This chunk contains information about the possible royal lineage and status of Saint Adela and Irmina of Oeren.",
+              "context_title": "Adela of Pfalzel",
+              "page_content": "Irmina of Oeren was possibly a princess. Saint Adela was possibly a princess."
+            },
+            {
+              "chunk_id": "3c3c891e-a605-40a1-b8dd-749924a404c2",
+              "chunk_title": "Royal Titles",
+              "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+              "context_title": "Sophia Magdalena of Denmark",
+              "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+            },
+            {
+              "chunk_id": "b686c318-69d9-497f-8594-50dfdb581cf3",
+              "chunk_title": "Royal Titles",
+              "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+              "context_title": "Sophia Magdalena of Denmark",
+              "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+            },
+            {
+              "chunk_id": "66765fd9-2d0c-4185-809e-8ad6520f74da",
+              "chunk_title": "Royal Titles",
+              "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+              "context_title": "Sophia Magdalena of Denmark",
+              "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+            },
+            {
+              "chunk_id": "f09da083-f9c4-4daa-9608-07bcbcaa2b13",
+              "chunk_title": "Royal Lineage & Titles",
+              "chunk_summary": "This chunk contains information about the royal lineage, titles, and dynastic affiliations of historical figures, specifically focusing on Anna Jagiellon.",
+              "context_title": "Anna Jagiellon, Duchess of Pomerania",
+              "page_content": "Anna Jagiellon was Duchess of Pomerania by marriage. Anna Jagiellon was the fifth daughter of King Casimir IV of Poland. Anna Jagiellon was the fifth daughter of Archduchess Elisabeth of Austria. Anna Jagiellon was a Polish princess. Anna Jagiellon was a member of the Jagiellonian dynasty."
+            },
+            {
+              "chunk_id": "5167c711-70d2-4d99-93c7-6e041f0d60f5",
+              "chunk_title": "Royal Titles",
+              "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+              "context_title": "Sophia Magdalena of Denmark",
+              "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the mother of Princess Adrienne, Duchess Of Blekinge?",
+          "answer": "Princess Madeleine",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "Q 的核心询问——直接查找该公主的母亲身份。这是回答 Q 所需的关键事实",
+          "solver_judgment": "从已知事实推理得出，未执行搜索",
+          "critic_factual_notes": "无独立来源——由已知事实推理得出。推理依据：依赖 N1_1 的 answer（Princess Adrienne 是 Princess Madeleine 和 Christopher O'Neill 的第三个孩子/第二个女儿），从中直接推理出母亲为 Princess Madeleine。推理逻辑自洽，无过度推断。",
+          "critic_normative_advice": "推理链自洽，答案由 N1_1 的充分证据支撑，建议 INHERIT 保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Who is Princess Adrienne, Duchess Of Blekinge's mother?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is Princess Adrienne, Duchess Of Blekinge's mother?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Princess Adrienne, Duchess Of Blekinge 的母亲是谁。子节点 N1_1 和 N1_2 均已 SOLVED + healthy，推理链完整，可直接聚合答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据来自子节点推理链的聚合。子节点 N1_1 提供 Princess Adrienne 的身份信息（含父母为 Princess Madeleine 和 Christopher O'Neill），子节点 N1_2 从中推理出母亲为 Princess Madeleine。推理链完整，两子节点答案一致指向同一结论。",
+          "critic_normative_advice": "推理链完整，子节点证据充分，建议 INHERIT 保留当前结构。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Princess Adrienne, Duchess Of Blekinge?",
+          "answer": "Princess Adrienne of Sweden (full name Adrienne Josephine Alice Bernadotte), born on 9 March 2018, is the Duchess of Blekinge, the third child and second daughter of Princess Madeleine and Christopher O'Neill, a granddaughter of King Carl XVI Gustaf and Queen Silvia, and tenth in the line of succession to the Swedish throne.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is Princess Adrienne, Duchess Of Blekinge?",
+          "planner_rationale": "确认 Princess Adrienne 的身份信息（全名、出生背景、父母），为 N1_2 的推理提供事实基础。已 SOLVED + healthy，证据充分",
+          "solver_judgment": "question 要求确认 Princess Adrienne, Duchess Of Blekinge 的身份。search_query 直接搜索了该人物的全名。chunks 返回了 chunk aaba69ad-b5b2-400b-b650-096d9ac556b2，其中详细记载了她的全名（Adrienne Josephine Alice Bernadotte）、出生日期（2018年3月9日）、父母（Princess Madeleine 和 Christopher O'Neill）、祖父母（King Carl XVI Gustaf 和 Queen Silvia）、头衔（Duchess of Blekinge）以及王位继承顺位（第十位）。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "1 个来源（文档 Princess Adrienne, Duchess of Blekinge，chunk aaba69ad-b5b2-400b-b650-096d9ac556b2）。单来源但直接、具体地陈述了答案——chunk 全文逐句列出了 Princess Adrienne 的全名（Adrienne Josephine Alice Bernadotte）、出生日期（2018年3月9日）、父母（Princess Madeleine 和 Christopher O'Neill）、祖父母（King Carl XVI Gustaf 和 Queen Silvia）、头衔（Duchess of Blekinge）及王位继承顺位（第十位）。Solver 声称的答案与 chunk 内容完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，单来源但直接具体，建议 INHERIT 保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "aaba69ad-b5b2-400b-b650-096d9ac556b2"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "aaba69ad-b5b2-400b-b650-096d9ac556b2",
+              "chunk_title": "Princess Adrienne Biography",
+              "chunk_summary": "This chunk contains biographical details about Princess Adrienne of Sweden, including her titles, full name, birth date, parentage, royal lineage, and place in the line of succession.",
+              "context_title": "Princess Adrienne, Duchess of Blekinge",
+              "page_content": "Princess Adrienne of Sweden was born on 9 March 2018. Princess Adrienne of Sweden is a granddaughter of King Carl XVI Gustaf. Princess Adrienne of Sweden is the third child of Princess Madeleine and Christopher O'Neill. Princess Adrienne of Sweden is a granddaughter of Queen Silvia. Princess Adrienne of Sweden is the Duchess of Blekinge. Princess Adrienne of Sweden is the second daughter of Princess Madeleine and Christopher O'Neill. Princess Adrienne of Sweden is tenth in the line of succession to the Swedish throne. Princess Adrienne of Sweden's full name is Adrienne Josephine Alice Bernadotte."
+            },
+            {
+              "chunk_id": "450edb0e-b148-4697-bf43-8713fde5b16b",
+              "chunk_title": "Royal Titles & Holders",
+              "chunk_summary": "This chunk contains information about royal titles and the individuals who hold them, including specific monarchs and dukes.",
+              "context_title": "Christopher O'Neill",
+              "page_content": "King Carl XVI Gustaf is the King of Sweden. Princess Madeleine holds the title Duchess of Hälsingland and Gästrikland."
+            },
+            {
+              "chunk_id": "182b2b47-fcd3-4ec5-9eed-bc8a6e6d3b23",
+              "chunk_title": "Christopher Paul O'Neill Biography",
+              "chunk_summary": "This chunk contains biographical details about Christopher Paul O'Neill, including his full name, title, profession, and royal family connections.",
+              "context_title": "Christopher O'Neill",
+              "page_content": "Princess Madeleine is a daughter of King Carl XVI Gustaf of Sweden. Christopher Paul O'Neill holds the title KNO. Christopher Paul O'Neill's full name is Christopher Paul O'Neill. Christopher Paul O'Neill is a British-American financier. Christopher Paul O'Neill is the husband of Princess Madeleine, Duchess of Hälsingland and Gästrikland."
+            },
+            {
+              "chunk_id": "7805a00a-d6ba-465f-82c0-52b18a228b74",
+              "chunk_title": "Noble Titles & Origins",
+              "chunk_summary": "This chunk contains information about the noble titles and birth origins of historical figures, specifically focusing on Marie of Prussia.",
+              "context_title": "Marie of Prussia, Margravine of Brandenburg-Bayreuth",
+              "page_content": "Marie of Prussia was Margravine of Brandenburg-Bayreuth by marriage. Marie of Prussia was a Prussian duchess by birth."
+            },
+            {
+              "chunk_id": "0c0b5688-1d57-4bbb-bf4b-6c7a938af674",
+              "chunk_title": "Royal Lineage & Status",
+              "chunk_summary": "This chunk contains information about the possible royal lineage and status of Saint Adela and Irmina of Oeren.",
+              "context_title": "Adela of Pfalzel",
+              "page_content": "Irmina of Oeren was possibly a princess. Saint Adela was possibly a princess."
+            },
+            {
+              "chunk_id": "3c3c891e-a605-40a1-b8dd-749924a404c2",
+              "chunk_title": "Royal Titles",
+              "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+              "context_title": "Sophia Magdalena of Denmark",
+              "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+            },
+            {
+              "chunk_id": "b686c318-69d9-497f-8594-50dfdb581cf3",
+              "chunk_title": "Royal Titles",
+              "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+              "context_title": "Sophia Magdalena of Denmark",
+              "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+            },
+            {
+              "chunk_id": "66765fd9-2d0c-4185-809e-8ad6520f74da",
+              "chunk_title": "Royal Titles",
+              "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+              "context_title": "Sophia Magdalena of Denmark",
+              "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+            },
+            {
+              "chunk_id": "f09da083-f9c4-4daa-9608-07bcbcaa2b13",
+              "chunk_title": "Royal Lineage & Titles",
+              "chunk_summary": "This chunk contains information about the royal lineage, titles, and dynastic affiliations of historical figures, specifically focusing on Anna Jagiellon.",
+              "context_title": "Anna Jagiellon, Duchess of Pomerania",
+              "page_content": "Anna Jagiellon was Duchess of Pomerania by marriage. Anna Jagiellon was the fifth daughter of King Casimir IV of Poland. Anna Jagiellon was the fifth daughter of Archduchess Elisabeth of Austria. Anna Jagiellon was a Polish princess. Anna Jagiellon was a member of the Jagiellonian dynasty."
+            },
+            {
+              "chunk_id": "5167c711-70d2-4d99-93c7-6e041f0d60f5",
+              "chunk_title": "Royal Titles",
+              "chunk_summary": "This chunk contains information about historical queens and their royal titles.",
+              "context_title": "Sophia Magdalena of Denmark",
+              "page_content": "Sophia Magdalena of Denmark was Queen of Sweden."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the mother of Princess Adrienne, Duchess Of Blekinge?",
+          "answer": "Princess Madeleine",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "Q 的核心语义需求——直接回答 Princess Adrienne 的母亲是谁。已从 N1_1 的 answer 推理得出 Princess Madeleine，推理链自洽",
+          "solver_judgment": "从已知事实推理得出，未执行搜索",
+          "critic_factual_notes": "无独立来源——由已知事实推理得出。推理依据：N1_1 的 answer 明确陈述 Princess Adrienne 是 'the third child and second daughter of Princess Madeleine and Christopher O'Neill'，由此可逻辑推导出其母亲为 Princess Madeleine。推理链自洽，无过度推断。",
+          "critic_normative_advice": "推理依据充分，逻辑自洽，建议 INHERIT 保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is Princess Adrienne, Duchess Of Blekinge?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "aaba69ad-b5b2-400b-b650-096d9ac556b2",
+        "450edb0e-b148-4697-bf43-8713fde5b16b",
+        "182b2b47-fcd3-4ec5-9eed-bc8a6e6d3b23",
+        "7805a00a-d6ba-465f-82c0-52b18a228b74",
+        "0c0b5688-1d57-4bbb-bf4b-6c7a938af674",
+        "3c3c891e-a605-40a1-b8dd-749924a404c2",
+        "b686c318-69d9-497f-8594-50dfdb581cf3",
+        "66765fd9-2d0c-4185-809e-8ad6520f74da",
+        "f09da083-f9c4-4daa-9608-07bcbcaa2b13",
+        "5167c711-70d2-4d99-93c7-6e041f0d60f5"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Princess Adrienne, Duchess Of Blekinge?（理由：需要先确认该公主的身份信息，确保后续搜索母亲时指向正确的人物实体），F2: Who is the mother of Princess Adrienne, Duchess Of Blekinge?（理由：Q 的核心询问——直接查找该公主的母亲身份）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的搜索需要 F1 提供的身份上下文来确保搜索精度，避免同名人物混淆）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question=\"Who is Princess Adrienne, Duchess Of Blekinge?\"），原因：Q 询问特定人物的母亲，需先确认该人物身份；$2（question=\"Who is the mother of Princess Adrienne, Duchess Of Blekinge?\"），原因：Q 的核心语义需求。新增边: N0→$1（decomposition），N0→$2（decomposition），$1→$2（dependency），原因：$2 的搜索需要 $1 提供的身份上下文来确保指向正确实体。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义有效——N1_1 answer 包含 Princess Adrienne 的父母信息，N1_2 从中正确推理出母亲为 Princess Madeleine，依赖链完整；③全部节点 healthy（N1_1 单来源但直接具体，N1_2 推理自洽，ROOT 推理链完整）；④首轮无拓扑变化。答案置信度高：Princess Madeleine 作为"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Princess Adrienne, Duchess Of Blekinge?（理由：确认该公主的身份信息，包括父母关系，为推理母亲身份提供事实基础），F2: Who is the mother of Princess Adrienne, Duchess Of Blekinge?（理由：Q 的核心语义需求——直接回答母亲是谁）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的推理需要 F1 提供的父母信息作为依据）。当前 DAG 已完整覆盖 Q 的所有语义需求，两子节点均已 SOLVED + healthy，推理链完整，可直接用于生成最终答案。",
+      "hypothesis_delta": "全部 INHERIT，无结构调整。原因：N1_1 和 N1_2 均已 SOLVED + healthy，Critic 对两节点均建议 INHERIT 保留。N1_1 的 answer 提供了 Princess Adrienne 的完整身份信息（含父母为 Princess Madeleine 和 Christopher O'Neill），N1_2 从中推理出母亲为 Princess Madeleine，推理链自洽且证据充分。Critic 指出 N1_1→N1_2 的 dependency 边更像是\"信息流\"而非严格\"指代消解依赖\"，但结构上无害，无需修改。当前 DAG 已收敛，可直接用于生成最终答案。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①（所有非根节点已 SOLVED）满足；条件④（拓扑与上一轮一致）通过；条件②（推理链语义匹配）通过——路径 N0→N1_1→N1_2 中 N1_1 answer 包含父母信息，语义上消解了 N1_2 question 的推理需求；路径 N0→N1_2 为直接分解，语义有效；条件③（全部节点 healthy）通过——N0、N1_1、N1_2 均为 healthy。推理链完整，所有"
+      }
+    }
+  ]
+}

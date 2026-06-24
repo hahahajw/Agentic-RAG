@@ -1,0 +1,288 @@
+{
+  "question_index": 199,
+  "question_id": "5ab4f7fc5542991779162d43",
+  "question": "Kete Krachi is a town in what region?",
+  "answer": "Volta",
+  "prediction": "Volta Region",
+  "error": null,
+  "latency_ms": 89950.33309998689,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T18:52:11.398920+00:00",
+  "chunks": [
+    {
+      "chunk_id": "f291b2a9-4fd5-418b-88e2-59e734281e62",
+      "chunk_title": "Kete Krachi Overview",
+      "chunk_summary": "This chunk contains information about the geographical location, administrative status, transportation links, population statistics, and key characteristics of Kete Krachi, a town in Ghana.",
+      "context_title": "Kete Krachi",
+      "page_content": "Kete Krachi is in the Krachi West District. Kete Krachi is a town. Kete Krachi is adjacent to Lake Volta. Kete Krachi is the capital of the Krachi West District. Kete Krachi is in the West of the Volta region. The Volta Region is in Ghana. Kete Krachi is the seventy-second most populous settlement in Ghana in terms of population. The town of Kete Krachi is also known for the Kete Krachi Secondary Technology. Kete Krachi is connected by road to Dambai. Kete Krachi has a population of 11,788 people. The Krachi West District is in the Volta Region. Kete Krachi is connected by a ferry to the town of Kwadjokrom. Kete Krachi is connected by road to Bimbila."
+    },
+    {
+      "chunk_id": "81492fb7-9061-4af9-a990-71643c3dc6dc",
+      "chunk_title": "Town & District Details",
+      "chunk_summary": "This chunk contains information about the characteristics and administrative details of specific towns, including their status as district capitals and regional locations.",
+      "context_title": "Kwadjokrom",
+      "page_content": "Kwadjokrom is a small town. Kwadjokrom is the capital of Sene District. Kete Krachi is a town. Sene District is in the Brong-Ahafo Region."
+    },
+    {
+      "chunk_id": "afd6d647-b3b4-4c2f-ae01-36877ac3c200",
+      "chunk_title": "Volta Region Districts",
+      "chunk_summary": "This chunk contains information about the administrative districts within the Volta Region, including their capitals and administrative centers.",
+      "context_title": "Krachi West District",
+      "page_content": "The Krachi West District is one of the twenty-five (25) districts in the Volta Region. The capital of the Krachi West District is Kete Krachi. The administrative centre of the Krachi West District is Kete Krachi."
+    },
+    {
+      "chunk_id": "08b8f465-2a6e-45e7-9483-43d44028fd39",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about specific educational institutions, particularly second cycle schools like Kete Krachi Secondary Technology.",
+      "context_title": "Kete Krachi",
+      "page_content": "The Kete Krachi Secondary Technology is a school. The Kete Krachi Secondary Technology is a second cycle institution."
+    },
+    {
+      "chunk_id": "248e3935-40df-4f64-bcaa-5dbcd1613f22",
+      "chunk_title": "Ghana Regions & Locations",
+      "chunk_summary": "This chunk contains information about the geographical location, regional divisions, and transportation connections of areas in Ghana, including specific regions, towns, and their proximity to landmarks like Lake Volta.",
+      "context_title": "Kwadjokrom",
+      "page_content": "Kwadjokrom is connected by road highway to Yeji. Kwadjokrom is in the east of Brong-Ahafo Region. Kwadjokrom is situated by Lake Volta. Eastern Region is in south Ghana. Kwadjokrom is connected by a ferry to Kete Krachi. Brong-Ahafo Region is in the Eastern Region. Kwadjokrom is connected by road highway to Ejura."
+    },
+    {
+      "chunk_id": "fac8fed8-d436-46fc-9bd3-0c760ea11844",
+      "chunk_title": "Towns & Administrative Roles",
+      "chunk_summary": "This chunk contains information about towns, their characteristics, and administrative roles such as district capitals.",
+      "context_title": "Dambai",
+      "page_content": "Dambai is a town. Dambai is the capital of Krachi East district. Krachi East district is a district in the northern part of the Volta Region of Ghana."
+    },
+    {
+      "chunk_id": "164bc3ae-66fd-4dbb-80d0-b173d89a2e44",
+      "chunk_title": "Mountains & Geography",
+      "chunk_summary": "This chunk contains information about the geographical characteristics and specific locations of mountains, including their names, heights, and positions within mountain ranges, regions, provinces, districts, and countries.",
+      "context_title": "Aquichua",
+      "page_content": "Aquichua is located in the Cusco Region. Aquichua is in the Vilcanota mountain range. Aquichua is located in the Quispicanchi Province. Aquichua is located in the Marcapata District. The Andes are in Peru. Aquichua is situated north of the Yayamari. Aquichua is a mountain. Aquichua is about 5300 m high. Aquichua is situated north east of the mountain Chumpe. The Vilcanota mountain range is in the Andes. Aquichua is situated north east of the lake Sibinacocha."
+    },
+    {
+      "chunk_id": "484a816a-2d25-46d3-a05e-cf4f551e7e72",
+      "chunk_title": "Mountain Details",
+      "chunk_summary": "This chunk contains information about specific mountains, including their alternative names, locations within mountain ranges, regions, provinces, and countries, as well as their elevations.",
+      "context_title": "Kunturi (Ikmaqucha)",
+      "page_content": "Kunturi is located in La Unión Province. Kunturi is about 5000 m high. Kunturi is located in the Arequipa Region. Uqururu is also known as Sumana. Kunturi is also known as Ikmaqucha. Kunturi lies east of a lake named Ikmaqucha. Uqururu is also known as Cotahuasi. The Wansu mountain range is in the Andes. Kunturi is a mountain. Kunturi is located in Puyca District. The Andes are in Peru. Taypi Q'awa is a mountain. Kunturi is in the Wansu mountain range."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.666667,
+  "precision": 0.5,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.375,
+  "retrieval_count": 1,
+  "total_chunks": 8,
+  "total_distinct_titles": 6,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 2,
+  "dag_edges": 1,
+  "dag_snapshots": [
+    {
+      "q": "Kete Krachi is a town in what region?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Kete Krachi is a town in what region?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Kete Krachi 所属的行政区域",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点 N1_1 的证据充分性和推理链完整性。N1_1 已提供充分证据（见下文），且依赖关系语义有效，故 ROOT 判定为 healthy。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 证据充分，推理链完整，可直接生成最终答案 'Volta Region'。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What region is Kete Krachi located in?",
+          "answer": "Volta Region",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What region is Kete Krachi located in?",
+          "planner_rationale": "直接探测 Q 的核心事实：Kete Krachi 这个城镇所在的地区名称。这是回答 Q 所需的唯一原子事实。",
+          "solver_judgment": "question 要求确认 Kete Krachi 所在的地区（region）。search_query 直接搜索了 'What region is Kete Krachi located in?'。chunks 返回了明确的信息：chunk f291b2a9-4fd5-418b-88e2-59e734281e62 指出 'Kete Krachi is in the West of the Volta region' 且 'The Krachi West District is in the Volta Region'；chunk afd6d647-b3b4-4c2f-ae01-36877ac3c200 也确认 'The Krachi West District is one of the twenty-five (25) districts in the Volta Region' 且其首府为 Kete Krachi。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个独立来源（文档 'Kete Krachi' 和 'Krachi West District'）一致支持答案 'Volta Region'。Chunk f291b2a9 明确陈述 'Kete Krachi is in the West of the Volta region'；Chunk afd6d647 确认 'The Krachi West District is one of the twenty-five (25) districts in the Volta Region' 且首府为 Kete Krachi。证据直接、具体、无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜或拆分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Kete Krachi is a town in what region?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Kete Krachi is a town in what region?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Kete Krachi 所属的行政区域",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点 N1_1 的证据充分性和推理链完整性。N1_1 已提供充分证据（见下文），且依赖关系语义有效，故 ROOT 判定为 healthy。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 证据充分，推理链完整，可直接生成最终答案 'Volta Region'。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What region is Kete Krachi located in?",
+          "answer": "Volta Region",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What region is Kete Krachi located in?",
+          "planner_rationale": "直接探测 Q 的核心事实：Kete Krachi 这个城镇所在的地区名称。该节点已 SOLVED 且 Critic 判为 healthy，证据充分（两个独立来源一致支持 'Volta Region'），无需重搜或拆分。",
+          "solver_judgment": "question 要求确认 Kete Krachi 所在的地区（region）。search_query 直接搜索了 'What region is Kete Krachi located in?'。chunks 返回了明确的信息：chunk f291b2a9-4fd5-418b-88e2-59e734281e62 指出 'Kete Krachi is in the West of the Volta region' 且 'The Krachi West District is in the Volta Region'；chunk afd6d647-b3b4-4c2f-ae01-36877ac3c200 也确认 'The Krachi West District is one of the twenty-five (25) districts in the Volta Region' 且其首府为 Kete Krachi。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个独立来源（文档 'Kete Krachi' 和 'Krachi West District'）一致支持答案 'Volta Region'。Chunk f291b2a9 明确陈述 'Kete Krachi is in the West of the Volta region'；Chunk afd6d647 确认 'The Krachi West District is one of the twenty-five (25) districts in the Volta Region' 且首府为 Kete Krachi。证据直接、具体、无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜或拆分。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Kete Krachi is a town in what region?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Kete Krachi is a town in what region?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Kete Krachi 所属的行政区域",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点 N1_1 的证据充分性和推理链完整性。N1_1 已提供充分证据（见下文），且依赖关系语义有效，故 ROOT 判定为 healthy。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 证据充分，推理链完整，可直接生成最终答案 'Volta Region'。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What region is Kete Krachi located in?",
+          "answer": "Volta Region",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What region is Kete Krachi located in?",
+          "planner_rationale": "直接探测 Q 的核心事实：Kete Krachi 这个城镇所在的地区名称。该节点已 SOLVED 且 Critic 判为 healthy，证据充分（两个独立来源一致支持 'Volta Region'），无需重搜或拆分。",
+          "solver_judgment": "question 要求确认 Kete Krachi 所在的地区（region）。search_query 直接搜索了 'What region is Kete Krachi located in?'。chunks 返回了明确的信息：chunk f291b2a9-4fd5-418b-88e2-59e734281e62 指出 'Kete Krachi is in the West of the Volta region' 且 'The Krachi West District is in the Volta Region'；chunk afd6d647-b3b4-4c2f-ae01-36877ac3c200 也确认 'The Krachi West District is one of the twenty-five (25) districts in the Volta Region' 且其首府为 Kete Krachi。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个独立来源（文档 'Kete Krachi' 和 'Krachi West District'）一致支持答案 'Volta Region'。Chunk f291b2a9 明确陈述 'Kete Krachi is in the West of the Volta region'；Chunk afd6d647 确认 'The Krachi West District is one of the twenty-five (25) districts in the Volta Region' 且首府为 Kete Krachi。证据直接、具体、无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜或拆分。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What region is Kete Krachi located in?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "f291b2a9-4fd5-418b-88e2-59e734281e62",
+        "81492fb7-9061-4af9-a990-71643c3dc6dc",
+        "afd6d647-b3b4-4c2f-ae01-36877ac3c200",
+        "08b8f465-2a6e-45e7-9483-43d44028fd39",
+        "248e3935-40df-4f64-bcaa-5dbcd1613f22",
+        "fac8fed8-d436-46fc-9bd3-0c760ea11844",
+        "164bc3ae-66fd-4dbb-80d0-b173d89a2e44",
+        "484a816a-2d25-46d3-a05e-cf4f551e7e72"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What region is Kete Krachi located in?（理由：Q 直接询问 Kete Krachi 所在的地区，这是一个单一的地理归属事实，无需分解为更小的子问题或依赖其他前置事实）。关系: F1 是 Q 的直接分解产物（decomposition），求解 F1 即可直接回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始 DAG 结构：根节点 N0 通过 decomposition 边连接到新节点 $1（F1），F1 直接探测 Kete Krachi 的地区归属。修正：添加了 LINK 原语以建立 N0 到 $1 的分解关系，确保 DAG 连通且满足单根约束。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链 N0→N1_1 语义有效，上游问题分解为下游可执行查询，下游答案可直接回答上游；③ 所有节点（N0, N1_1）均为 healthy，证据充分且一致；④ 首轮无历史对比，但结构已收敛。置信度高，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What region is Kete Krachi located in?（理由：Q 直接询问 Kete Krachi 所在的地区，这是一个单一的地理归属事实）。关系: F1 是 Q 的直接分解产物（decomposition）。当前 DAG 中 N1_1 已正确确立此事实（answer='Volta Region', health=healthy），结构完整，无需调整。",
+      "hypothesis_delta": "本轮无结构调整。原因：Critic 确认上一轮构建的 DAG 结构已达到理想状态——N1_1 证据充分、推理链完整，直接回答了 Q 的核心语义需求。因此，通过 INHERIT 保留根节点 N0 和子节点 N1_1，并通过 LINK 显式保留 N0→N1_1 的 decomposition 边，维持现有结构。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链 N0→N1_1 语义有效，N1_1 答案直接回答 N0；③ 所有节点（N0, N1_1）均为 healthy；④ 拓扑连续两轮无变化（由系统计数器确认，此处假设满足）。置信度高，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What region is Kete Krachi located in?（理由：Q 直接询问 Kete Krachi 所在的地区，这是一个单一的地理归属事实）。关系: F1 是 Q 的直接分解产物（decomposition）。当前 DAG 中 N1_1 已正确确立此事实（answer='Volta Region', health=healthy），结构完整，无需调整。",
+      "hypothesis_delta": "本轮无结构调整。原因：Critic 确认上一轮构建的 DAG 结构已达到理想状态——N1_1 证据充分、推理链完整，直接回答了 Q 的核心语义需求。因此，通过 INHERIT 保留根节点 N0 和子节点 N1_1，并通过 LINK 显式保留 N0→N1_1 的 decomposition 边，维持现有结构。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N0→N1_1 依赖有效，N1_1 答案直接支撑 Q）；③全部节点（N0, N1_1）均为 healthy；④拓扑连续两轮无变化。置信度高，可生成最终答案 'Volta Region'。"
+      }
+    }
+  ]
+}

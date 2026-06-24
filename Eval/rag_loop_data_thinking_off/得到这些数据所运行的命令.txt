@@ -1,0 +1,8 @@
+uv run python Eval/run_eval.py --mode rag-loop --dataset musique --batch-size 5 --max-workers 5 --max-rounds 5
+
+
+2wikimultihopqa/musique
+
+
+
+主模型默认为 qwen3.6-plus，{"extra_body": {"enable_thinking": false, "enable_search": false}}

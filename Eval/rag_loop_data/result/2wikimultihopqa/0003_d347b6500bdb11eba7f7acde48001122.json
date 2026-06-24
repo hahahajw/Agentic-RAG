@@ -1,0 +1,670 @@
+{
+  "question_index": 3,
+  "question_id": "d347b6500bdb11eba7f7acde48001122",
+  "question": "Which country the director of film Hotel By The Hour is from?",
+  "answer": "Austria",
+  "prediction": "Germany",
+  "error": null,
+  "latency_ms": 258884.14039999997,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T03:19:00.740404+00:00",
+  "chunks": [
+    {
+      "chunk_id": "9a5db9c8-33ef-4db8-8cfa-36b1293e6e95",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, setting, and production design.",
+      "context_title": "Hotel by the Hour",
+      "page_content": "Hotel by the Hour is a 1970 West German crime film. Hotel by the Hour was directed by Rolf Olsen. Hotel by the Hour is set in the red-light district of St. Pauli in Hamburg. The film's sets of Hotel by the Hour were designed by the art director Ernst H. Albrecht."
+    },
+    {
+      "chunk_id": "f1c4ad79-7d7f-4b97-a996-ecf896f2c482",
+      "chunk_title": "Actors & Films",
+      "chunk_summary": "This chunk contains information about actors and the films they have starred in.",
+      "context_title": "Hotel by the Hour",
+      "page_content": "Curd Jürgens starred in Hotel by the Hour. Corny Collins starred in Hotel by the Hour. Andrea Rau starred in Hotel by the Hour."
+    },
+    {
+      "chunk_id": "c6689ba2-f913-4c94-9398-b3d58d7a51c6",
+      "chunk_title": "German Titles",
+      "chunk_summary": "This chunk contains information about the German titles of various works.",
+      "context_title": "Hotel by the Hour",
+      "page_content": "Hotel by the Hour has the German title (German title:)."
+    },
+    {
+      "chunk_id": "f475e5cb-815d-4268-9a4a-d7ab5255ccf6",
+      "chunk_title": "Short-Term Accommodations",
+      "chunk_summary": "This chunk contains information about specific types of short-term accommodations, such as \"Stundenhotels\" and love hotels, that rent rooms by the hour.",
+      "context_title": "Hotel by the Hour",
+      "page_content": "A \"Stundenhotel\" is similar to Japanese love hotels. A \"Stundenhotel\" is a motel where rooms are let by the hour."
+    },
+    {
+      "chunk_id": "235e43e5-f537-4968-83d8-afed83991375",
+      "chunk_title": "Films & Directors",
+      "chunk_summary": "This chunk contains information about films, including their directors, release dates, genres, and the reputations of those directors.",
+      "context_title": "House by the Cemetery (EP)",
+      "page_content": "Lucio Fulci is a cult director. The film The House by the Cemetery was released in 1981. The film The House by the Cemetery was directed by Lucio Fulci. The film The House by the Cemetery is a horror film."
+    },
+    {
+      "chunk_id": "d1c81908-c61b-4be5-ad99-b682bc80bac7",
+      "chunk_title": "Film Cast & Roles",
+      "chunk_summary": "This chunk contains information about cast members, their roles, and professional affiliations in both fictitious and actual films.",
+      "context_title": "Taxi!",
+      "page_content": "Donald Cook was a Warners contract player. The Mad Genius is an actual film starring John Barrymore. Donald Cook played James Cagney's brother in The Public Enemy. The leading man in the fictitious film Her Hour of Love is an unbilled cameo by Donald Cook."
+    },
+    {
+      "chunk_id": "52cda585-2fc5-4824-a15c-1a513c44e5b4",
+      "chunk_title": "Film Directors & Movies",
+      "chunk_summary": "This chunk contains information about film directors and the movies they have directed.",
+      "context_title": "Looking for Hortense",
+      "page_content": "Pascal Bonitzer directed Looking for Hortense."
+    },
+    {
+      "chunk_id": "d513ad4b-8d35-4a5d-96fc-b4288042a182",
+      "chunk_title": "Keir Pearson Profile",
+      "chunk_summary": "This chunk contains information about the professional background, nationality, and accolades of screenwriter Keir Pearson.",
+      "context_title": "Keir Pearson",
+      "page_content": "Keir Pearson is notable for the 2004 film \"Hotel Rwanda\". Keir Pearson is an American screenwriter. Keir Pearson is an Academy Award-nominated screenwriter."
+    },
+    {
+      "chunk_id": "34029ec7-3a37-4011-89ec-e23b70daf7ee",
+      "chunk_title": "Indian Film Directors",
+      "chunk_summary": "This chunk contains information about Indian film directors, including specific individuals like Homi Wadia and JBH Wadia.",
+      "context_title": "Homi Wadia",
+      "page_content": "JBH Wadia was a movie director. Homi Wadia was an Indian film director."
+    },
+    {
+      "chunk_id": "adcbd2ad-064f-43c6-bcc5-45f91b8b6ce3",
+      "chunk_title": "Film Directors & Roles",
+      "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+      "context_title": "Bernie Bonvoisin",
+      "page_content": "Bernie Bonvoisin is a film director."
+    },
+    {
+      "chunk_id": "57f3ff60-37c6-48cd-aab8-801aa003dcb0",
+      "chunk_title": "Nationalities",
+      "chunk_summary": "This chunk contains information about the nationalities of individuals.",
+      "context_title": "Rolf Olsen (actor)",
+      "page_content": "Rolf Olsen was German."
+    },
+    {
+      "chunk_id": "f9b58b1c-7e10-42fb-abc5-78b7fb43cbf3",
+      "chunk_title": "Birthplace & Origin",
+      "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+      "context_title": "Rolf Olsen (actor)",
+      "page_content": "Rolf Olsen was born in Vienna, Austria."
+    },
+    {
+      "chunk_id": "0a7dda07-9f4a-4bdd-9fb8-88c4e5589f33",
+      "chunk_title": "Death Locations",
+      "chunk_summary": "This chunk contains information about the death locations of individuals.",
+      "context_title": "Rolf Olsen (actor)",
+      "page_content": "Rolf Olsen died in Munich, Germany."
+    },
+    {
+      "chunk_id": "d08e75f6-ae06-4a67-94e0-6413d153af97",
+      "chunk_title": "Rolf Olsen's Film Career",
+      "chunk_summary": "This chunk contains information about the various professions and filmography of Rolf Olsen in the film industry, including acting, screenwriting, directing, and the number of films he appeared in.",
+      "context_title": "Rolf Olsen (actor)",
+      "page_content": "Rolf Olsen wrote for 51 films. Rolf Olsen was an actor. Rolf Olsen directed films between 1947 and 1990. Rolf Olsen was a film director. Rolf Olsen was a screenwriter. Rolf Olsen directed 33 films. Rolf Olsen appeared in films between 1949 and 1990. Rolf Olsen appeared in 60 films."
+    },
+    {
+      "chunk_id": "98ef3d54-29f3-4372-ae09-8c2701c75a75",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date of death for specific individuals.",
+      "context_title": "Rolf Olsen (actor)",
+      "page_content": "Rolf Olsen died on 3 April 1998."
+    },
+    {
+      "chunk_id": "30424bf1-296a-4909-8dc8-7a011f6fda30",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Rolf Olsen (actor)",
+      "page_content": "Rolf Olsen was born on 26 December 1919."
+    },
+    {
+      "chunk_id": "9e696091-864c-4f3e-bfc8-37391308022d",
+      "chunk_title": "Wilhelm Münter Rolfsen's Life & Career",
+      "chunk_summary": "This chunk contains information about the professional roles, resistance activities, and post-war contributions of Wilhelm Münter Rolfsen.",
+      "context_title": "Wilhelm Münter Rolfsen",
+      "page_content": "Wilhelm Münter Rolfsen organised a network for escorting refugees to Sweden during the German occupation of Norway. Wilhelm Münter Rolfsen wrote two books about his wartime experiences. Wilhelm Münter Rolfsen was a Norwegian barrister. Wilhelm Münter Rolfsen was involved in the film production \"Struggle for Eagle Peak\". Wilhelm Münter Rolfsen was actively involved in the resistance movement during the German occupation of Norway. Wilhelm Münter Rolfsen was involved in the film production \"Nine Lives\". Wilhelm Münter Rolfsen took part as a prosecutor in the legal purge in Norway after World War II. Wilhelm Münter Rolfsen was a film producer. Wilhelm Münter Rolfsen was involved in film productions. Wilhelm Münter Rolfsen was a resistance member."
+    },
+    {
+      "chunk_id": "212d2c84-ec00-4849-828f-738364315b20",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the professional identity and nationality of film directors.",
+      "context_title": "Johan Söderberg",
+      "page_content": "Johan Olof Anders Söderberg is a Swedish film director."
+    },
+    {
+      "chunk_id": "2cf16019-3c78-45f8-b8e9-dd905ee0625a",
+      "chunk_title": "Birthplace & Origin",
+      "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+      "context_title": "Max Ophüls",
+      "page_content": "Max Ophüls was born in Germany."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.5263157894736842,
+  "retrieval_count": 2,
+  "total_chunks": 19,
+  "total_distinct_titles": 11,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which country the director of film Hotel By The Hour is from?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which country the director of film Hotel By The Hour is from?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问电影《Hotel By The Hour》导演的国籍",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1 确定导演为 Rolf Olsen，N1_2 确定 Rolf Olsen 的国籍为 Germany。推理链完整，两步均证据充分。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，ROOT 可由答案生成器直接合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film Hotel By The Hour?",
+          "answer": "Rolf Olsen",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film Hotel By The Hour?",
+          "planner_rationale": "Q 询问导演的国籍，必须先确定导演是谁。这是回答 Q 的第一个必要子事实。",
+          "solver_judgment": "question 要求找出电影《Hotel By The Hour》的导演。search_query 搜索了 'Who directed the film Hotel By The Hour?'。chunks 返回了关于该电影的详细信息，其中 chunk 9a5db9c8-33ef-4db8-8cfa-36b1293e6e95 明确记载 'Hotel by the Hour was directed by Rolf Olsen'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Hotel by the Hour），单来源但直接、具体地陈述了答案。支撑 chunk 9a5db9c8 全文为 'Hotel by the Hour was directed by Rolf Olsen'，与声称答案 'Rolf Olsen' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "9a5db9c8-33ef-4db8-8cfa-36b1293e6e95"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "9a5db9c8-33ef-4db8-8cfa-36b1293e6e95",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, setting, and production design.",
+              "context_title": "Hotel by the Hour",
+              "page_content": "Hotel by the Hour is a 1970 West German crime film. Hotel by the Hour was directed by Rolf Olsen. Hotel by the Hour is set in the red-light district of St. Pauli in Hamburg. The film's sets of Hotel by the Hour were designed by the art director Ernst H. Albrecht."
+            },
+            {
+              "chunk_id": "f1c4ad79-7d7f-4b97-a996-ecf896f2c482",
+              "chunk_title": "Actors & Films",
+              "chunk_summary": "This chunk contains information about actors and the films they have starred in.",
+              "context_title": "Hotel by the Hour",
+              "page_content": "Curd Jürgens starred in Hotel by the Hour. Corny Collins starred in Hotel by the Hour. Andrea Rau starred in Hotel by the Hour."
+            },
+            {
+              "chunk_id": "c6689ba2-f913-4c94-9398-b3d58d7a51c6",
+              "chunk_title": "German Titles",
+              "chunk_summary": "This chunk contains information about the German titles of various works.",
+              "context_title": "Hotel by the Hour",
+              "page_content": "Hotel by the Hour has the German title (German title:)."
+            },
+            {
+              "chunk_id": "f475e5cb-815d-4268-9a4a-d7ab5255ccf6",
+              "chunk_title": "Short-Term Accommodations",
+              "chunk_summary": "This chunk contains information about specific types of short-term accommodations, such as \"Stundenhotels\" and love hotels, that rent rooms by the hour.",
+              "context_title": "Hotel by the Hour",
+              "page_content": "A \"Stundenhotel\" is similar to Japanese love hotels. A \"Stundenhotel\" is a motel where rooms are let by the hour."
+            },
+            {
+              "chunk_id": "235e43e5-f537-4968-83d8-afed83991375",
+              "chunk_title": "Films & Directors",
+              "chunk_summary": "This chunk contains information about films, including their directors, release dates, genres, and the reputations of those directors.",
+              "context_title": "House by the Cemetery (EP)",
+              "page_content": "Lucio Fulci is a cult director. The film The House by the Cemetery was released in 1981. The film The House by the Cemetery was directed by Lucio Fulci. The film The House by the Cemetery is a horror film."
+            },
+            {
+              "chunk_id": "d1c81908-c61b-4be5-ad99-b682bc80bac7",
+              "chunk_title": "Film Cast & Roles",
+              "chunk_summary": "This chunk contains information about cast members, their roles, and professional affiliations in both fictitious and actual films.",
+              "context_title": "Taxi!",
+              "page_content": "Donald Cook was a Warners contract player. The Mad Genius is an actual film starring John Barrymore. Donald Cook played James Cagney's brother in The Public Enemy. The leading man in the fictitious film Her Hour of Love is an unbilled cameo by Donald Cook."
+            },
+            {
+              "chunk_id": "52cda585-2fc5-4824-a15c-1a513c44e5b4",
+              "chunk_title": "Film Directors & Movies",
+              "chunk_summary": "This chunk contains information about film directors and the movies they have directed.",
+              "context_title": "Looking for Hortense",
+              "page_content": "Pascal Bonitzer directed Looking for Hortense."
+            },
+            {
+              "chunk_id": "d513ad4b-8d35-4a5d-96fc-b4288042a182",
+              "chunk_title": "Keir Pearson Profile",
+              "chunk_summary": "This chunk contains information about the professional background, nationality, and accolades of screenwriter Keir Pearson.",
+              "context_title": "Keir Pearson",
+              "page_content": "Keir Pearson is notable for the 2004 film \"Hotel Rwanda\". Keir Pearson is an American screenwriter. Keir Pearson is an Academy Award-nominated screenwriter."
+            },
+            {
+              "chunk_id": "34029ec7-3a37-4011-89ec-e23b70daf7ee",
+              "chunk_title": "Indian Film Directors",
+              "chunk_summary": "This chunk contains information about Indian film directors, including specific individuals like Homi Wadia and JBH Wadia.",
+              "context_title": "Homi Wadia",
+              "page_content": "JBH Wadia was a movie director. Homi Wadia was an Indian film director."
+            },
+            {
+              "chunk_id": "adcbd2ad-064f-43c6-bcc5-45f91b8b6ce3",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which country is that director from?",
+          "answer": "Germany",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which country is director Rolf Olsen from?",
+          "planner_rationale": "Q 的核心询问——导演的国籍。但 question 中 'that director' 指代上一个节点的 answer，必须先知道导演身份才能搜索。",
+          "solver_judgment": "question 要求确认导演 Rolf Olsen 的来源国家。search_query 明确搜索了 'Which country is director Rolf Olsen from?'。chunks 返回了 Rolf Olsen 的国籍信息（chunk 57f3ff60 记载 'Rolf Olsen was German'）以及出生地信息（chunk f9b58b1c 记载 'Rolf Olsen was born in Vienna, Austria'）。根据 chunk 57f3ff60 中明确指出的国籍 'German'，提取答案为 Germany。检索精准，直接命中目标信息。",
+          "critic_factual_notes": "1 个来源（文档 Rolf Olsen (actor)），单来源但直接、具体地陈述了答案。支撑 chunk 57f3ff60 全文为 'Rolf Olsen was German'，与声称答案 'Germany' 匹配（German → Germany 为有效语义转换）。Solver 判断中提及的非支撑 chunk f9b58b1c 记载 'Rolf Olsen was born in Vienna, Austria'，此为出生地信息，与国籍信息 'German' 不矛盾（出生地与国籍可不同）。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "57f3ff60-37c6-48cd-aab8-801aa003dcb0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "57f3ff60-37c6-48cd-aab8-801aa003dcb0",
+              "chunk_title": "Nationalities",
+              "chunk_summary": "This chunk contains information about the nationalities of individuals.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen was German."
+            },
+            {
+              "chunk_id": "9a5db9c8-33ef-4db8-8cfa-36b1293e6e95",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, setting, and production design.",
+              "context_title": "Hotel by the Hour",
+              "page_content": "Hotel by the Hour is a 1970 West German crime film. Hotel by the Hour was directed by Rolf Olsen. Hotel by the Hour is set in the red-light district of St. Pauli in Hamburg. The film's sets of Hotel by the Hour were designed by the art director Ernst H. Albrecht."
+            },
+            {
+              "chunk_id": "f9b58b1c-7e10-42fb-abc5-78b7fb43cbf3",
+              "chunk_title": "Birthplace & Origin",
+              "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen was born in Vienna, Austria."
+            },
+            {
+              "chunk_id": "0a7dda07-9f4a-4bdd-9fb8-88c4e5589f33",
+              "chunk_title": "Death Locations",
+              "chunk_summary": "This chunk contains information about the death locations of individuals.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen died in Munich, Germany."
+            },
+            {
+              "chunk_id": "d08e75f6-ae06-4a67-94e0-6413d153af97",
+              "chunk_title": "Rolf Olsen's Film Career",
+              "chunk_summary": "This chunk contains information about the various professions and filmography of Rolf Olsen in the film industry, including acting, screenwriting, directing, and the number of films he appeared in.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen wrote for 51 films. Rolf Olsen was an actor. Rolf Olsen directed films between 1947 and 1990. Rolf Olsen was a film director. Rolf Olsen was a screenwriter. Rolf Olsen directed 33 films. Rolf Olsen appeared in films between 1949 and 1990. Rolf Olsen appeared in 60 films."
+            },
+            {
+              "chunk_id": "98ef3d54-29f3-4372-ae09-8c2701c75a75",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date of death for specific individuals.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen died on 3 April 1998."
+            },
+            {
+              "chunk_id": "30424bf1-296a-4909-8dc8-7a011f6fda30",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen was born on 26 December 1919."
+            },
+            {
+              "chunk_id": "9e696091-864c-4f3e-bfc8-37391308022d",
+              "chunk_title": "Wilhelm Münter Rolfsen's Life & Career",
+              "chunk_summary": "This chunk contains information about the professional roles, resistance activities, and post-war contributions of Wilhelm Münter Rolfsen.",
+              "context_title": "Wilhelm Münter Rolfsen",
+              "page_content": "Wilhelm Münter Rolfsen organised a network for escorting refugees to Sweden during the German occupation of Norway. Wilhelm Münter Rolfsen wrote two books about his wartime experiences. Wilhelm Münter Rolfsen was a Norwegian barrister. Wilhelm Münter Rolfsen was involved in the film production \"Struggle for Eagle Peak\". Wilhelm Münter Rolfsen was actively involved in the resistance movement during the German occupation of Norway. Wilhelm Münter Rolfsen was involved in the film production \"Nine Lives\". Wilhelm Münter Rolfsen took part as a prosecutor in the legal purge in Norway after World War II. Wilhelm Münter Rolfsen was a film producer. Wilhelm Münter Rolfsen was involved in film productions. Wilhelm Münter Rolfsen was a resistance member."
+            },
+            {
+              "chunk_id": "212d2c84-ec00-4849-828f-738364315b20",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the professional identity and nationality of film directors.",
+              "context_title": "Johan Söderberg",
+              "page_content": "Johan Olof Anders Söderberg is a Swedish film director."
+            },
+            {
+              "chunk_id": "2cf16019-3c78-45f8-b8e9-dd905ee0625a",
+              "chunk_title": "Birthplace & Origin",
+              "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+              "context_title": "Max Ophüls",
+              "page_content": "Max Ophüls was born in Germany."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which country the director of film Hotel By The Hour is from?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which country the director of film Hotel By The Hour is from?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点推理链已完整：N1_1 确定导演为 Rolf Olsen，N1_2 确定 Rolf Olsen 的国籍为 Germany。ROOT 可由答案生成器直接合成最终答案 'Germany'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1 确定导演为 Rolf Olsen（单来源 chunk 9a5db9c8 直接陈述），N1_2 确定 Rolf Olsen 的国籍为 Germany（单来源 chunk 57f3ff60 直接陈述 'Rolf Olsen was German'）。推理链完整，两步均证据充分。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，ROOT 可由答案生成器直接合成最终答案 'Germany'。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film Hotel By The Hour?",
+          "answer": "Rolf Olsen",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film Hotel By The Hour?",
+          "planner_rationale": "Q 询问导演的国籍，必须先确定导演是谁。此节点已 solved + healthy，证据充分（chunk 9a5db9c8 明确记载 'Hotel by the Hour was directed by Rolf Olsen'），无需进一步搜索。",
+          "solver_judgment": "question 要求找出电影《Hotel By The Hour》的导演。search_query 搜索了 'Who directed the film Hotel By The Hour?'。chunks 返回了关于该电影的详细信息，其中 chunk 9a5db9c8-33ef-4db8-8cfa-36b1293e6e95 明确记载 'Hotel by the Hour was directed by Rolf Olsen'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Hotel by the Hour），单来源但直接、具体地陈述了答案。支撑 chunk 9a5db9c8 全文为 'Hotel by the Hour was directed by Rolf Olsen'，与声称答案 'Rolf Olsen' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "9a5db9c8-33ef-4db8-8cfa-36b1293e6e95"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "9a5db9c8-33ef-4db8-8cfa-36b1293e6e95",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, setting, and production design.",
+              "context_title": "Hotel by the Hour",
+              "page_content": "Hotel by the Hour is a 1970 West German crime film. Hotel by the Hour was directed by Rolf Olsen. Hotel by the Hour is set in the red-light district of St. Pauli in Hamburg. The film's sets of Hotel by the Hour were designed by the art director Ernst H. Albrecht."
+            },
+            {
+              "chunk_id": "f1c4ad79-7d7f-4b97-a996-ecf896f2c482",
+              "chunk_title": "Actors & Films",
+              "chunk_summary": "This chunk contains information about actors and the films they have starred in.",
+              "context_title": "Hotel by the Hour",
+              "page_content": "Curd Jürgens starred in Hotel by the Hour. Corny Collins starred in Hotel by the Hour. Andrea Rau starred in Hotel by the Hour."
+            },
+            {
+              "chunk_id": "c6689ba2-f913-4c94-9398-b3d58d7a51c6",
+              "chunk_title": "German Titles",
+              "chunk_summary": "This chunk contains information about the German titles of various works.",
+              "context_title": "Hotel by the Hour",
+              "page_content": "Hotel by the Hour has the German title (German title:)."
+            },
+            {
+              "chunk_id": "f475e5cb-815d-4268-9a4a-d7ab5255ccf6",
+              "chunk_title": "Short-Term Accommodations",
+              "chunk_summary": "This chunk contains information about specific types of short-term accommodations, such as \"Stundenhotels\" and love hotels, that rent rooms by the hour.",
+              "context_title": "Hotel by the Hour",
+              "page_content": "A \"Stundenhotel\" is similar to Japanese love hotels. A \"Stundenhotel\" is a motel where rooms are let by the hour."
+            },
+            {
+              "chunk_id": "235e43e5-f537-4968-83d8-afed83991375",
+              "chunk_title": "Films & Directors",
+              "chunk_summary": "This chunk contains information about films, including their directors, release dates, genres, and the reputations of those directors.",
+              "context_title": "House by the Cemetery (EP)",
+              "page_content": "Lucio Fulci is a cult director. The film The House by the Cemetery was released in 1981. The film The House by the Cemetery was directed by Lucio Fulci. The film The House by the Cemetery is a horror film."
+            },
+            {
+              "chunk_id": "d1c81908-c61b-4be5-ad99-b682bc80bac7",
+              "chunk_title": "Film Cast & Roles",
+              "chunk_summary": "This chunk contains information about cast members, their roles, and professional affiliations in both fictitious and actual films.",
+              "context_title": "Taxi!",
+              "page_content": "Donald Cook was a Warners contract player. The Mad Genius is an actual film starring John Barrymore. Donald Cook played James Cagney's brother in The Public Enemy. The leading man in the fictitious film Her Hour of Love is an unbilled cameo by Donald Cook."
+            },
+            {
+              "chunk_id": "52cda585-2fc5-4824-a15c-1a513c44e5b4",
+              "chunk_title": "Film Directors & Movies",
+              "chunk_summary": "This chunk contains information about film directors and the movies they have directed.",
+              "context_title": "Looking for Hortense",
+              "page_content": "Pascal Bonitzer directed Looking for Hortense."
+            },
+            {
+              "chunk_id": "d513ad4b-8d35-4a5d-96fc-b4288042a182",
+              "chunk_title": "Keir Pearson Profile",
+              "chunk_summary": "This chunk contains information about the professional background, nationality, and accolades of screenwriter Keir Pearson.",
+              "context_title": "Keir Pearson",
+              "page_content": "Keir Pearson is notable for the 2004 film \"Hotel Rwanda\". Keir Pearson is an American screenwriter. Keir Pearson is an Academy Award-nominated screenwriter."
+            },
+            {
+              "chunk_id": "34029ec7-3a37-4011-89ec-e23b70daf7ee",
+              "chunk_title": "Indian Film Directors",
+              "chunk_summary": "This chunk contains information about Indian film directors, including specific individuals like Homi Wadia and JBH Wadia.",
+              "context_title": "Homi Wadia",
+              "page_content": "JBH Wadia was a movie director. Homi Wadia was an Indian film director."
+            },
+            {
+              "chunk_id": "adcbd2ad-064f-43c6-bcc5-45f91b8b6ce3",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which country is that director from?",
+          "answer": "Germany",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which country is director Rolf Olsen from?",
+          "planner_rationale": "Q 的核心询问——导演的国籍。此节点已 solved + healthy，证据充分（chunk 57f3ff60 明确记载 'Rolf Olsen was German'），无需进一步搜索。",
+          "solver_judgment": "question 要求确认导演 Rolf Olsen 的来源国家。search_query 明确搜索了 'Which country is director Rolf Olsen from?'。chunks 返回了 Rolf Olsen 的国籍信息（chunk 57f3ff60 记载 'Rolf Olsen was German'）以及出生地信息（chunk f9b58b1c 记载 'Rolf Olsen was born in Vienna, Austria'）。根据 chunk 57f3ff60 中明确指出的国籍 'German'，提取答案为 Germany。检索精准，直接命中目标信息。",
+          "critic_factual_notes": "1 个来源（文档 Rolf Olsen (actor)），单来源但直接、具体地陈述了答案。支撑 chunk 57f3ff60 全文为 'Rolf Olsen was German'，与声称答案 'Germany' 匹配（German → Germany 为有效语义转换）。非支撑 chunk f9b58b1c 记载 'Rolf Olsen was born in Vienna, Austria'，此为出生地信息，与国籍信息不矛盾。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "57f3ff60-37c6-48cd-aab8-801aa003dcb0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "57f3ff60-37c6-48cd-aab8-801aa003dcb0",
+              "chunk_title": "Nationalities",
+              "chunk_summary": "This chunk contains information about the nationalities of individuals.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen was German."
+            },
+            {
+              "chunk_id": "9a5db9c8-33ef-4db8-8cfa-36b1293e6e95",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, setting, and production design.",
+              "context_title": "Hotel by the Hour",
+              "page_content": "Hotel by the Hour is a 1970 West German crime film. Hotel by the Hour was directed by Rolf Olsen. Hotel by the Hour is set in the red-light district of St. Pauli in Hamburg. The film's sets of Hotel by the Hour were designed by the art director Ernst H. Albrecht."
+            },
+            {
+              "chunk_id": "f9b58b1c-7e10-42fb-abc5-78b7fb43cbf3",
+              "chunk_title": "Birthplace & Origin",
+              "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen was born in Vienna, Austria."
+            },
+            {
+              "chunk_id": "0a7dda07-9f4a-4bdd-9fb8-88c4e5589f33",
+              "chunk_title": "Death Locations",
+              "chunk_summary": "This chunk contains information about the death locations of individuals.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen died in Munich, Germany."
+            },
+            {
+              "chunk_id": "d08e75f6-ae06-4a67-94e0-6413d153af97",
+              "chunk_title": "Rolf Olsen's Film Career",
+              "chunk_summary": "This chunk contains information about the various professions and filmography of Rolf Olsen in the film industry, including acting, screenwriting, directing, and the number of films he appeared in.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen wrote for 51 films. Rolf Olsen was an actor. Rolf Olsen directed films between 1947 and 1990. Rolf Olsen was a film director. Rolf Olsen was a screenwriter. Rolf Olsen directed 33 films. Rolf Olsen appeared in films between 1949 and 1990. Rolf Olsen appeared in 60 films."
+            },
+            {
+              "chunk_id": "98ef3d54-29f3-4372-ae09-8c2701c75a75",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date of death for specific individuals.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen died on 3 April 1998."
+            },
+            {
+              "chunk_id": "30424bf1-296a-4909-8dc8-7a011f6fda30",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Rolf Olsen (actor)",
+              "page_content": "Rolf Olsen was born on 26 December 1919."
+            },
+            {
+              "chunk_id": "9e696091-864c-4f3e-bfc8-37391308022d",
+              "chunk_title": "Wilhelm Münter Rolfsen's Life & Career",
+              "chunk_summary": "This chunk contains information about the professional roles, resistance activities, and post-war contributions of Wilhelm Münter Rolfsen.",
+              "context_title": "Wilhelm Münter Rolfsen",
+              "page_content": "Wilhelm Münter Rolfsen organised a network for escorting refugees to Sweden during the German occupation of Norway. Wilhelm Münter Rolfsen wrote two books about his wartime experiences. Wilhelm Münter Rolfsen was a Norwegian barrister. Wilhelm Münter Rolfsen was involved in the film production \"Struggle for Eagle Peak\". Wilhelm Münter Rolfsen was actively involved in the resistance movement during the German occupation of Norway. Wilhelm Münter Rolfsen was involved in the film production \"Nine Lives\". Wilhelm Münter Rolfsen took part as a prosecutor in the legal purge in Norway after World War II. Wilhelm Münter Rolfsen was a film producer. Wilhelm Münter Rolfsen was involved in film productions. Wilhelm Münter Rolfsen was a resistance member."
+            },
+            {
+              "chunk_id": "212d2c84-ec00-4849-828f-738364315b20",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the professional identity and nationality of film directors.",
+              "context_title": "Johan Söderberg",
+              "page_content": "Johan Olof Anders Söderberg is a Swedish film director."
+            },
+            {
+              "chunk_id": "2cf16019-3c78-45f8-b8e9-dd905ee0625a",
+              "chunk_title": "Birthplace & Origin",
+              "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+              "context_title": "Max Ophüls",
+              "page_content": "Max Ophüls was born in Germany."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who directed the film Hotel By The Hour?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "9a5db9c8-33ef-4db8-8cfa-36b1293e6e95",
+        "f1c4ad79-7d7f-4b97-a996-ecf896f2c482",
+        "c6689ba2-f913-4c94-9398-b3d58d7a51c6",
+        "f475e5cb-815d-4268-9a4a-d7ab5255ccf6",
+        "235e43e5-f537-4968-83d8-afed83991375",
+        "d1c81908-c61b-4be5-ad99-b682bc80bac7",
+        "52cda585-2fc5-4824-a15c-1a513c44e5b4",
+        "d513ad4b-8d35-4a5d-96fc-b4288042a182",
+        "34029ec7-3a37-4011-89ec-e23b70daf7ee",
+        "adcbd2ad-064f-43c6-bcc5-45f91b8b6ce3"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Which country is director Rolf Olsen from?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "57f3ff60-37c6-48cd-aab8-801aa003dcb0",
+        "9a5db9c8-33ef-4db8-8cfa-36b1293e6e95",
+        "f9b58b1c-7e10-42fb-abc5-78b7fb43cbf3",
+        "0a7dda07-9f4a-4bdd-9fb8-88c4e5589f33",
+        "d08e75f6-ae06-4a67-94e0-6413d153af97",
+        "98ef3d54-29f3-4372-ae09-8c2701c75a75",
+        "30424bf1-296a-4909-8dc8-7a011f6fda30",
+        "9e696091-864c-4f3e-bfc8-37391308022d",
+        "212d2c84-ec00-4849-828f-738364315b20",
+        "2cf16019-3c78-45f8-b8e9-dd905ee0625a"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed the film Hotel By The Hour?（理由：Q 询问导演的国籍，必须先确定导演身份，这是回答 Q 的第一个必要子事实），F2: Which country is that director from?（理由：Q 的核心询问——导演的国籍，但需先知道导演是谁才能搜索）。关系: F1 是 Q 的分解产物（decomposition，N0→$1），F2 依赖 F1（dependency，$1→$2——F2 的 question 中 'that director' 必须用 F1 的 answer 消解后才能构造有意义的搜索查询）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将 Q 拆分为两个原子事实——先识别导演身份（$1），再查询该导演的国籍（$2）。$2 对 $1 形成 dependency 边，因为 'that director' 是指代词，必须用 $1 的 answer 消解。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义完整——N1_1 answer 'Rolf Olsen' 消解 N1_2 中的 'that director'，N1_2 answer 'Germany' 可直接回答 ROOT 问题；③全部节点（N0, N1_1, N1_2）critic_health 均为 healthy；④首轮无拓扑变化。推理链完整，所有节点证"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed the film Hotel By The Hour?（理由：Q 询问导演的国籍，必须先确定导演身份），F2: Which country is that director from?（理由：Q 的核心询问——导演的国籍，需先知道导演是谁才能搜索）。关系: F1 是 Q 的分解产物（decomposition，N0→N1_1），F2 依赖 F1（dependency，N1_1→N1_2——F2 的 question 中 'that director' 必须用 F1 的 answer 消解）。当前 DAG 已完全覆盖此结构，所有子节点均已 solved + healthy，推理链完整。",
+      "hypothesis_delta": "无变更——所有节点 INHERIT，所有边保留。原因：上一轮假设（F1 导演身份 + F2 导演国籍，F2 dependency 于 F1）被完全验证。N1_1 已 solved（answer=Rolf Olsen，证据直接），N1_2 已 solved（answer=Germany，证据直接），Critic 判定两者均 healthy 且无需进一步搜索。DAG 结构与理想分解高度一致，收敛完成。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义匹配——N0→N1_1 为有效分解，N1_1→N1_2 中 'Rolf Olsen' 有效消解 'that director' 指代；③全部节点（N0, N1_1, N1_2）均为 healthy；④本轮拓扑与上一轮一致。推理链完整，所有节点证据充分，可生成最终答案 'Germany'。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "question_index": 86,
+  "question_id": "5a8810485542997e5c09a590",
+  "question": "The Airport located next to the A13 handled how many passengers in 2016 ?",
+  "answer": "1.6 million passengers",
+  "prediction": "over 1.6 million",
+  "error": null,
+  "latency_ms": 205777.83249999993,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T06:01:08.988569+00:00",
+  "chunks": [
+    {
+      "chunk_id": "3b7db594-f066-4656-8d95-0054fbe30347",
+      "chunk_title": "Motorways & Locations",
+      "chunk_summary": "This chunk contains information about specific motorways, their locations, the cities they connect, and nearby landmarks.",
+      "context_title": "A13 motorway (Netherlands)",
+      "page_content": "The A13 motorway connects the cities of The Hague and Rotterdam. The Rotterdam The Hague Airport is located next to the A13 motorway. The A13 motorway is a motorway in the Netherlands."
+    },
+    {
+      "chunk_id": "88948ec2-8867-45ab-a256-b504639ff9d8",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location and physical characteristics of places in England, including their relation to roads, distances from other towns, proximity to transport links, nearby rivers, and total area.",
+      "context_title": "Kirton, Suffolk",
+      "page_content": "Suffolk is in England. Kirton is located between the River Debben and the River Orwell. Kirton is situated off the A14 road. The village of Kirton covers a total area of 8.3 km2. The closest train station to Kirton is Trimley. Kirton is around 10 km from Ipswich. Kirton is about 4.5 km from Felixstowe."
+    },
+    {
+      "chunk_id": "e13e1b7d-8ae8-4a40-a896-3a9d60730aca",
+      "chunk_title": "Parma Airport Overview",
+      "chunk_summary": "This chunk contains information about the location, naming conventions, and namesake of Parma Airport.",
+      "context_title": "Parma Airport",
+      "page_content": "The Italian name for Parma Airport is \"Aeroporto di Parma\". Parma Airport is named after Giuseppe Verdi. Parma Airport is located 1.3 NM northwest of Parma. Parma Airport is also known as Parma \"Giuseppe Verdi\" Airport. Parma Airport is also known as Giuseppe Verdi Airport."
+    },
+    {
+      "chunk_id": "9e1d0133-1a60-4dd9-b8e9-aa63b2e669e3",
+      "chunk_title": "London Airports",
+      "chunk_summary": "This chunk contains information about airports, including their names and locations.",
+      "context_title": "International air travel from the United Kingdom",
+      "page_content": "Gatwick Airport is a London airport. Stansted Airport is a London airport."
+    },
+    {
+      "chunk_id": "0f6acff3-411e-4cc5-aa75-a1ba328a6618",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the locations of airports.",
+      "context_title": "Exeter Airport",
+      "page_content": "Exeter Airport is located at Clyst Honiton. Exeter Airport is close to the city of Exeter."
+    },
+    {
+      "chunk_id": "1a503cb3-35e7-4709-a0e6-0700902524de",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the geographical location and address of Indianapolis Executive Airport.",
+      "context_title": "Indianapolis Executive Airport",
+      "page_content": "Indianapolis Executive Airport is located five miles north of Zionsville. Indianapolis Executive Airport is located at 11329 E. State Road 32. Indianapolis Executive Airport is located in Boone County, Indiana, United States. Indianapolis Executive Airport is located 14 miles (23 km) northwest of downtown Indianapolis. Indianapolis Executive Airport is located just west of Jolietville."
+    },
+    {
+      "chunk_id": "06e93a80-f558-46bd-96f6-48655bb4018e",
+      "chunk_title": "A41 Trunk Road",
+      "chunk_summary": "This chunk contains information about the A41 trunk road in England, including its route between London and Birkenhead, key locations it passes through or near, and sections superseded by motorways.",
+      "context_title": "A41 road",
+      "page_content": "The A41 is a major trunk road in England. The A41 passes through or near Kings Langley. The A41 passes through or near Whitchurch. The A41 passes through or near Wolverhampton. Parts of the A41 have been superseded by motorways. The A41 passes through or near Chester. The A41 passes through or near Solihull. The A41 passes through or near Newport. The A41 passes through or near Aylesbury. The A41 passes through or near Hemel Hempstead. The A41 passes through or near Watford. The A41 links London and Birkenhead. The A41 passes through or near Ellesmere Port. The A41 passes through or near West Bromwich. The A41 passes through or near Birmingham."
+    },
+    {
+      "chunk_id": "0b8b6db5-c994-4272-b371-35bb0200a5fe",
+      "chunk_title": "Airport Classification & Status",
+      "chunk_summary": "This chunk contains information about the classification and status of airports.",
+      "context_title": "Deadhorse Airport",
+      "page_content": "Deadhorse Airport is a public airport."
+    },
+    {
+      "chunk_id": "96ff45ab-e78f-4155-bd6e-9c714bd28cf0",
+      "chunk_title": "Street Intersections & Highways",
+      "chunk_summary": "This chunk contains information about specific street intersections and their proximity to major highways.",
+      "context_title": "KXMD-TV",
+      "page_content": "The intersection of 13th Avenue West and 18th Street West is near U.S. Highway 2/85."
+    },
+    {
+      "chunk_id": "a96c666e-7086-48c8-827e-b660f1db76b5",
+      "chunk_title": "Flight Routes",
+      "chunk_summary": "This chunk contains information about new domestic and international flight routes established from specific airports, including those operated by Braathens SAFE.",
+      "context_title": "History of Braathens (1994–2004)",
+      "page_content": "New routes were opened from Oslo Airport, Fornebu to Harstad/Narvik. New routes were opened from Oslo Airport, Fornebu to Tromsø. Transwede had five domestic routes. Braathens SAFE started flying on the Oslo–Stockholm route in 1996. International routes to Nice were introduced by Braathens SAFE. International routes to Jersey were introduced by Braathens SAFE. New routes were opened from Oslo Airport, Fornebu to Bodø. International routes to Rome were introduced by Braathens SAFE."
+    },
+    {
+      "chunk_id": "c1370c1f-e372-468f-a3dc-3a799d37ef02",
+      "chunk_title": "Passenger Traffic Statistics",
+      "chunk_summary": "This chunk contains information about passenger traffic statistics at airports.",
+      "context_title": "Rotterdam The Hague Airport",
+      "page_content": "Rotterdam The Hague Airport handled over 1.6 million passengers in 2016."
+    },
+    {
+      "chunk_id": "9c034425-6ae8-4201-afc9-4f4bd91494a8",
+      "chunk_title": "Heathrow Airport Overview",
+      "chunk_summary": "This chunk contains information about Heathrow Airport, including its alternative names, identification codes, location, and passenger traffic rankings.",
+      "context_title": "Heathrow Airport",
+      "page_content": "Dubai International surpassed Heathrow Airport as the busiest airport in the world by international passenger traffic in 2014. Heathrow Airport has the ICAO code EGLL. Heathrow Airport is the seventh busiest airport in the world by total passenger traffic. Heathrow Airport is in London, United Kingdom. Heathrow Airport is a major international airport. Heathrow Airport is the second busiest airport in the world by international passenger traffic. Heathrow Airport has the IATA code LHR. Heathrow Airport is also known as London Heathrow. In 2016, Heathrow Airport handled a record 75.7 million passengers. Heathrow Airport is the busiest airport in Europe by passenger traffic. The number of passengers handled by Heathrow Airport in 2016 was a 1.0% increase from 2015."
+    },
+    {
+      "chunk_id": "985e833b-e182-4b94-b14d-d4d3997a9c45",
+      "chunk_title": "Airports",
+      "chunk_summary": "This chunk contains information about airports, including their names, locations, and relative sizes.",
+      "context_title": "Rotterdam The Hague Airport",
+      "page_content": "Rotterdam The Hague Airport is the Netherlands' third largest airport."
+    },
+    {
+      "chunk_id": "67129489-a3d5-4127-a2b3-8896102c9f39",
+      "chunk_title": "Airport Locations & Service",
+      "chunk_summary": "This chunk contains information about the location and service area of Rotterdam The Hague Airport relative to nearby cities.",
+      "context_title": "Rotterdam The Hague Airport",
+      "page_content": "Rotterdam The Hague Airport serves the city of The Hague and surroundings. Rotterdam The Hague Airport is located 3 NM north northwest of Rotterdam. Rotterdam The Hague Airport serves the city of Rotterdam."
+    },
+    {
+      "chunk_id": "31a9e7d9-51f0-40f3-b05b-448c957294a0",
+      "chunk_title": "Airport Codes & Identifiers",
+      "chunk_summary": "This chunk contains information about airport codes and identifiers, including IATA and ICAO codes for specific airports.",
+      "context_title": "Rotterdam The Hague Airport",
+      "page_content": "Rotterdam The Hague Airport has the ICAO code EHRD. Rotterdam The Hague Airport has the IATA code RTM."
+    },
+    {
+      "chunk_id": "860fce9f-297e-409c-9d9b-964b14ec1451",
+      "chunk_title": "Rotterdam Airport Operations",
+      "chunk_summary": "This chunk contains information about the flight destinations, general aviation usage, flying clubs, and flying schools at Rotterdam The Hague Airport.",
+      "context_title": "Rotterdam The Hague Airport",
+      "page_content": "Several flying schools are located at Rotterdam The Hague Airport. Rotterdam The Hague Airport is used extensively by general aviation. Rotterdam The Hague Airport features scheduled flights to European metropolitan and leisure destinations. Several flying clubs are located at Rotterdam The Hague Airport."
+    },
+    {
+      "chunk_id": "0045e610-06ac-4b40-b5b6-7c55bbb22fc8",
+      "chunk_title": "Dublin Airport Overview",
+      "chunk_summary": "This chunk contains information about Dublin Airport, including its classification, location, names in different languages, codes, operator, and passenger statistics.",
+      "context_title": "Dublin Airport",
+      "page_content": "The ICAO code for Dublin Airport is EIDW. Dublin Airport is the busiest of the state's airports by total passenger traffic. Dublin Airport serves Dublin. 2016 was Dublin Airport's busiest year on record. In 2016, 27.9 million passengers passed through Dublin Airport. Dublin Airport is an international airport. Dublin Airport is located in Collinstown. The Irish name for Dublin Airport is Aerfort Bhaile Átha Cliath. Dublin Airport is the 15th busiest airport in Europe. Dublin Airport is located 5.4 nmi north of Dublin. Dublin Airport has the greatest traffic levels on the island of Ireland. Dublin Airport is operated by DAA. DAA was formerly known as Dublin Airport Authority. The IATA code for Dublin Airport is DUB."
+    },
+    {
+      "chunk_id": "89641e4e-b50e-4364-86b5-53d30db48d24",
+      "chunk_title": "Airport Traffic Stats",
+      "chunk_summary": "This chunk contains information about major airports and their passenger traffic statistics.",
+      "context_title": "Gatwick Airport",
+      "page_content": "Mumbai's Chhatrapati Shivaji International Airport overtook Gatwick Airport as the busiest single-use runway airport in the world after 2016. London Heathrow is the busiest airport by total passenger traffic in the United Kingdom. Gatwick Airport is the eighth-busiest airport in Europe."
+    },
+    {
+      "chunk_id": "ae4a50ec-a6c8-4b29-b3f2-f5796c1f328a",
+      "chunk_title": "Airport Naming History",
+      "chunk_summary": "This chunk contains information about the naming history and former names of Rotterdam The Hague Airport.",
+      "context_title": "Rotterdam The Hague Airport",
+      "page_content": "Rotterdam The Hague Airport was formerly known as \"Rotterdam Airport\". Rotterdam The Hague Airport was formerly known as \"Vliegveld Zestienhoven\" in Dutch."
+    },
+    {
+      "chunk_id": "153824bb-4211-4d77-9b28-7ad1c1ee5b10",
+      "chunk_title": "Dubai Airport Overview",
+      "chunk_summary": "This chunk contains information about Dubai International Airport, including its location, global rankings in passenger and cargo traffic, aircraft movement records, and specific operational statistics.",
+      "context_title": "Dubai International Airport",
+      "page_content": "In 2016, Dubai International Airport handled 2.59 million tonnes of cargo. In 2016, Dubai International Airport handled 83.6 million passengers. Dubai International Airport is the primary international airport serving Dubai, United Arab Emirates. Dubai International Airport is the 3rd busiest airport in the world by passenger traffic. In 2016, Dubai International Airport registered 418,220 aircraft movements. Dubai International Airport is the world's busiest airport by international passenger traffic. Dubai International Airport is the busiest airport for Airbus A380 movements. Dubai International Airport is the 6th busiest cargo airport in the world. Dubai International Airport is the busiest airport for Boeing 777 movements. Dubai International Airport is the busiest airport in the world operating with only two runways."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.8,
+  "precision": 1.0,
+  "recall": 0.666667,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.35,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 15,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "The Airport located next to the A13 handled how many passengers in 2016 ?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "The Airport located next to the A13 handled how many passengers in 2016 ?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需通过子节点聚合答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 提供机场名称（Rotterdam The Hague Airport），N1_2 提供客运量（over 1.6 million）。推理链完整：先识别机场，再查询其 2016 年客运量。两个子节点均有直接证据支撑，推理链一致。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，答案可合成。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which airport is located next to the A13 road?",
+          "answer": "Rotterdam The Hague Airport",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which airport is located next to the A13 road?",
+          "planner_rationale": "Q 询问的是紧邻 A13 的机场的客运量，必须先确定该机场的名称，这是回答 Q 的第一个必要子事实",
+          "solver_judgment": "question 要求确认位于 A13 road 旁边的机场。search_query 搜索了 'Which airport is located next to the A13 road?'。chunks 返回了关于 A13 motorway 的信息，其中 chunk 3b7db594-f066-4656-8d95-0054fbe30347 明确记载 'The Rotterdam The Hague Airport is located next to the A13 motorway'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 A13 motorway (Netherlands)），单来源但直接、具体地陈述了答案。支撑 chunk [3b7db594] 全文为：'The A13 motorway connects the cities of The Hague and Rotterdam. The Rotterdam The Hague Airport is located next to the A13 motorway.' 答案 'Rotterdam The Hague Airport' 与 chunk 内容完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但证据直接具体，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "3b7db594-f066-4656-8d95-0054fbe30347"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "3b7db594-f066-4656-8d95-0054fbe30347",
+              "chunk_title": "Motorways & Locations",
+              "chunk_summary": "This chunk contains information about specific motorways, their locations, the cities they connect, and nearby landmarks.",
+              "context_title": "A13 motorway (Netherlands)",
+              "page_content": "The A13 motorway connects the cities of The Hague and Rotterdam. The Rotterdam The Hague Airport is located next to the A13 motorway. The A13 motorway is a motorway in the Netherlands."
+            },
+            {
+              "chunk_id": "88948ec2-8867-45ab-a256-b504639ff9d8",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and physical characteristics of places in England, including their relation to roads, distances from other towns, proximity to transport links, nearby rivers, and total area.",
+              "context_title": "Kirton, Suffolk",
+              "page_content": "Suffolk is in England. Kirton is located between the River Debben and the River Orwell. Kirton is situated off the A14 road. The village of Kirton covers a total area of 8.3 km2. The closest train station to Kirton is Trimley. Kirton is around 10 km from Ipswich. Kirton is about 4.5 km from Felixstowe."
+            },
+            {
+              "chunk_id": "e13e1b7d-8ae8-4a40-a896-3a9d60730aca",
+              "chunk_title": "Parma Airport Overview",
+              "chunk_summary": "This chunk contains information about the location, naming conventions, and namesake of Parma Airport.",
+              "context_title": "Parma Airport",
+              "page_content": "The Italian name for Parma Airport is \"Aeroporto di Parma\". Parma Airport is named after Giuseppe Verdi. Parma Airport is located 1.3 NM northwest of Parma. Parma Airport is also known as Parma \"Giuseppe Verdi\" Airport. Parma Airport is also known as Giuseppe Verdi Airport."
+            },
+            {
+              "chunk_id": "9e1d0133-1a60-4dd9-b8e9-aa63b2e669e3",
+              "chunk_title": "London Airports",
+              "chunk_summary": "This chunk contains information about airports, including their names and locations.",
+              "context_title": "International air travel from the United Kingdom",
+              "page_content": "Gatwick Airport is a London airport. Stansted Airport is a London airport."
+            },
+            {
+              "chunk_id": "0f6acff3-411e-4cc5-aa75-a1ba328a6618",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the locations of airports.",
+              "context_title": "Exeter Airport",
+              "page_content": "Exeter Airport is located at Clyst Honiton. Exeter Airport is close to the city of Exeter."
+            },
+            {
+              "chunk_id": "1a503cb3-35e7-4709-a0e6-0700902524de",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and address of Indianapolis Executive Airport.",
+              "context_title": "Indianapolis Executive Airport",
+              "page_content": "Indianapolis Executive Airport is located five miles north of Zionsville. Indianapolis Executive Airport is located at 11329 E. State Road 32. Indianapolis Executive Airport is located in Boone County, Indiana, United States. Indianapolis Executive Airport is located 14 miles (23 km) northwest of downtown Indianapolis. Indianapolis Executive Airport is located just west of Jolietville."
+            },
+            {
+              "chunk_id": "06e93a80-f558-46bd-96f6-48655bb4018e",
+              "chunk_title": "A41 Trunk Road",
+              "chunk_summary": "This chunk contains information about the A41 trunk road in England, including its route between London and Birkenhead, key locations it passes through or near, and sections superseded by motorways.",
+              "context_title": "A41 road",
+              "page_content": "The A41 is a major trunk road in England. The A41 passes through or near Kings Langley. The A41 passes through or near Whitchurch. The A41 passes through or near Wolverhampton. Parts of the A41 have been superseded by motorways. The A41 passes through or near Chester. The A41 passes through or near Solihull. The A41 passes through or near Newport. The A41 passes through or near Aylesbury. The A41 passes through or near Hemel Hempstead. The A41 passes through or near Watford. The A41 links London and Birkenhead. The A41 passes through or near Ellesmere Port. The A41 passes through or near West Bromwich. The A41 passes through or near Birmingham."
+            },
+            {
+              "chunk_id": "0b8b6db5-c994-4272-b371-35bb0200a5fe",
+              "chunk_title": "Airport Classification & Status",
+              "chunk_summary": "This chunk contains information about the classification and status of airports.",
+              "context_title": "Deadhorse Airport",
+              "page_content": "Deadhorse Airport is a public airport."
+            },
+            {
+              "chunk_id": "96ff45ab-e78f-4155-bd6e-9c714bd28cf0",
+              "chunk_title": "Street Intersections & Highways",
+              "chunk_summary": "This chunk contains information about specific street intersections and their proximity to major highways.",
+              "context_title": "KXMD-TV",
+              "page_content": "The intersection of 13th Avenue West and 18th Street West is near U.S. Highway 2/85."
+            },
+            {
+              "chunk_id": "a96c666e-7086-48c8-827e-b660f1db76b5",
+              "chunk_title": "Flight Routes",
+              "chunk_summary": "This chunk contains information about new domestic and international flight routes established from specific airports, including those operated by Braathens SAFE.",
+              "context_title": "History of Braathens (1994–2004)",
+              "page_content": "New routes were opened from Oslo Airport, Fornebu to Harstad/Narvik. New routes were opened from Oslo Airport, Fornebu to Tromsø. Transwede had five domestic routes. Braathens SAFE started flying on the Oslo–Stockholm route in 1996. International routes to Nice were introduced by Braathens SAFE. International routes to Jersey were introduced by Braathens SAFE. New routes were opened from Oslo Airport, Fornebu to Bodø. International routes to Rome were introduced by Braathens SAFE."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "How many passengers did that airport handle in 2016?",
+          "answer": "over 1.6 million",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Rotterdam The Hague Airport passengers 2016",
+          "planner_rationale": "Q 的核心询问——该机场 2016 年的客运量。此问题中的 'that airport' 指代前一个子事实的答案，必须先知道机场名称才能搜索",
+          "solver_judgment": "question 要求确认'that airport'在 2016 年的旅客吞吐量。search_query 搜索了'Rotterdam The Hague Airport passengers 2016'。chunks 返回了 Rotterdam The Hague Airport 的客运统计数据，其中 chunk c1370c1f-e372-468f-a3dc-3a799d37ef02 明确记载'Rotterdam The Hague Airport handled over 1.6 million passengers in 2016'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Rotterdam The Hague Airport），单来源但直接、具体地陈述了答案。支撑 chunk [c1370c1f] 全文为：'Rotterdam The Hague Airport handled over 1.6 million passengers in 2016.' 答案 'over 1.6 million' 与 chunk 内容完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但证据直接具体，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "c1370c1f-e372-468f-a3dc-3a799d37ef02"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c1370c1f-e372-468f-a3dc-3a799d37ef02",
+              "chunk_title": "Passenger Traffic Statistics",
+              "chunk_summary": "This chunk contains information about passenger traffic statistics at airports.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Rotterdam The Hague Airport handled over 1.6 million passengers in 2016."
+            },
+            {
+              "chunk_id": "9c034425-6ae8-4201-afc9-4f4bd91494a8",
+              "chunk_title": "Heathrow Airport Overview",
+              "chunk_summary": "This chunk contains information about Heathrow Airport, including its alternative names, identification codes, location, and passenger traffic rankings.",
+              "context_title": "Heathrow Airport",
+              "page_content": "Dubai International surpassed Heathrow Airport as the busiest airport in the world by international passenger traffic in 2014. Heathrow Airport has the ICAO code EGLL. Heathrow Airport is the seventh busiest airport in the world by total passenger traffic. Heathrow Airport is in London, United Kingdom. Heathrow Airport is a major international airport. Heathrow Airport is the second busiest airport in the world by international passenger traffic. Heathrow Airport has the IATA code LHR. Heathrow Airport is also known as London Heathrow. In 2016, Heathrow Airport handled a record 75.7 million passengers. Heathrow Airport is the busiest airport in Europe by passenger traffic. The number of passengers handled by Heathrow Airport in 2016 was a 1.0% increase from 2015."
+            },
+            {
+              "chunk_id": "985e833b-e182-4b94-b14d-d4d3997a9c45",
+              "chunk_title": "Airports",
+              "chunk_summary": "This chunk contains information about airports, including their names, locations, and relative sizes.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Rotterdam The Hague Airport is the Netherlands' third largest airport."
+            },
+            {
+              "chunk_id": "67129489-a3d5-4127-a2b3-8896102c9f39",
+              "chunk_title": "Airport Locations & Service",
+              "chunk_summary": "This chunk contains information about the location and service area of Rotterdam The Hague Airport relative to nearby cities.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Rotterdam The Hague Airport serves the city of The Hague and surroundings. Rotterdam The Hague Airport is located 3 NM north northwest of Rotterdam. Rotterdam The Hague Airport serves the city of Rotterdam."
+            },
+            {
+              "chunk_id": "31a9e7d9-51f0-40f3-b05b-448c957294a0",
+              "chunk_title": "Airport Codes & Identifiers",
+              "chunk_summary": "This chunk contains information about airport codes and identifiers, including IATA and ICAO codes for specific airports.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Rotterdam The Hague Airport has the ICAO code EHRD. Rotterdam The Hague Airport has the IATA code RTM."
+            },
+            {
+              "chunk_id": "860fce9f-297e-409c-9d9b-964b14ec1451",
+              "chunk_title": "Rotterdam Airport Operations",
+              "chunk_summary": "This chunk contains information about the flight destinations, general aviation usage, flying clubs, and flying schools at Rotterdam The Hague Airport.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Several flying schools are located at Rotterdam The Hague Airport. Rotterdam The Hague Airport is used extensively by general aviation. Rotterdam The Hague Airport features scheduled flights to European metropolitan and leisure destinations. Several flying clubs are located at Rotterdam The Hague Airport."
+            },
+            {
+              "chunk_id": "0045e610-06ac-4b40-b5b6-7c55bbb22fc8",
+              "chunk_title": "Dublin Airport Overview",
+              "chunk_summary": "This chunk contains information about Dublin Airport, including its classification, location, names in different languages, codes, operator, and passenger statistics.",
+              "context_title": "Dublin Airport",
+              "page_content": "The ICAO code for Dublin Airport is EIDW. Dublin Airport is the busiest of the state's airports by total passenger traffic. Dublin Airport serves Dublin. 2016 was Dublin Airport's busiest year on record. In 2016, 27.9 million passengers passed through Dublin Airport. Dublin Airport is an international airport. Dublin Airport is located in Collinstown. The Irish name for Dublin Airport is Aerfort Bhaile Átha Cliath. Dublin Airport is the 15th busiest airport in Europe. Dublin Airport is located 5.4 nmi north of Dublin. Dublin Airport has the greatest traffic levels on the island of Ireland. Dublin Airport is operated by DAA. DAA was formerly known as Dublin Airport Authority. The IATA code for Dublin Airport is DUB."
+            },
+            {
+              "chunk_id": "89641e4e-b50e-4364-86b5-53d30db48d24",
+              "chunk_title": "Airport Traffic Stats",
+              "chunk_summary": "This chunk contains information about major airports and their passenger traffic statistics.",
+              "context_title": "Gatwick Airport",
+              "page_content": "Mumbai's Chhatrapati Shivaji International Airport overtook Gatwick Airport as the busiest single-use runway airport in the world after 2016. London Heathrow is the busiest airport by total passenger traffic in the United Kingdom. Gatwick Airport is the eighth-busiest airport in Europe."
+            },
+            {
+              "chunk_id": "ae4a50ec-a6c8-4b29-b3f2-f5796c1f328a",
+              "chunk_title": "Airport Naming History",
+              "chunk_summary": "This chunk contains information about the naming history and former names of Rotterdam The Hague Airport.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Rotterdam The Hague Airport was formerly known as \"Rotterdam Airport\". Rotterdam The Hague Airport was formerly known as \"Vliegveld Zestienhoven\" in Dutch."
+            },
+            {
+              "chunk_id": "153824bb-4211-4d77-9b28-7ad1c1ee5b10",
+              "chunk_title": "Dubai Airport Overview",
+              "chunk_summary": "This chunk contains information about Dubai International Airport, including its location, global rankings in passenger and cargo traffic, aircraft movement records, and specific operational statistics.",
+              "context_title": "Dubai International Airport",
+              "page_content": "In 2016, Dubai International Airport handled 2.59 million tonnes of cargo. In 2016, Dubai International Airport handled 83.6 million passengers. Dubai International Airport is the primary international airport serving Dubai, United Arab Emirates. Dubai International Airport is the 3rd busiest airport in the world by passenger traffic. In 2016, Dubai International Airport registered 418,220 aircraft movements. Dubai International Airport is the world's busiest airport by international passenger traffic. Dubai International Airport is the busiest airport for Airbus A380 movements. Dubai International Airport is the 6th busiest cargo airport in the world. Dubai International Airport is the busiest airport for Boeing 777 movements. Dubai International Airport is the busiest airport in the world operating with only two runways."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "The Airport located next to the A13 handled how many passengers in 2016 ?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "The Airport located next to the A13 handled how many passengers in 2016 ?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已确认机场为 Rotterdam The Hague Airport，N1_2 已确认 2016 年客运量为 over 1.6 million。推理链完整，答案可聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 提供机场名称（Rotterdam The Hague Airport），N1_2 提供客运量（over 1.6 million）。推理链完整：先识别机场，再查询其 2016 年客运量。两个子节点均有直接证据支撑，推理链一致。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，答案可合成。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which airport is located next to the A13 road?",
+          "answer": "Rotterdam The Hague Airport",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which airport is located next to the A13 road?",
+          "planner_rationale": "Q 的第一个子事实——识别紧邻 A13 的机场。已 SOLVED + healthy，证据直接具体（A13 motorway 文档明确记载 Rotterdam The Hague Airport 位于 A13 旁），无需重搜。",
+          "solver_judgment": "question 要求确认位于 A13 road 旁边的机场。search_query 搜索了 'Which airport is located next to the A13 road?'。chunks 返回了关于 A13 motorway 的信息，其中 chunk 3b7db594-f066-4656-8d95-0054fbe30347 明确记载 'The Rotterdam The Hague Airport is located next to the A13 motorway'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 A13 motorway (Netherlands)），单来源但直接、具体地陈述了答案。支撑 chunk [3b7db594] 全文为：'The Rotterdam The Hague Airport is located next to the A13 motorway.' 答案 'Rotterdam The Hague Airport' 与 chunk 内容完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但证据直接具体，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "3b7db594-f066-4656-8d95-0054fbe30347"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "3b7db594-f066-4656-8d95-0054fbe30347",
+              "chunk_title": "Motorways & Locations",
+              "chunk_summary": "This chunk contains information about specific motorways, their locations, the cities they connect, and nearby landmarks.",
+              "context_title": "A13 motorway (Netherlands)",
+              "page_content": "The A13 motorway connects the cities of The Hague and Rotterdam. The Rotterdam The Hague Airport is located next to the A13 motorway. The A13 motorway is a motorway in the Netherlands."
+            },
+            {
+              "chunk_id": "88948ec2-8867-45ab-a256-b504639ff9d8",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and physical characteristics of places in England, including their relation to roads, distances from other towns, proximity to transport links, nearby rivers, and total area.",
+              "context_title": "Kirton, Suffolk",
+              "page_content": "Suffolk is in England. Kirton is located between the River Debben and the River Orwell. Kirton is situated off the A14 road. The village of Kirton covers a total area of 8.3 km2. The closest train station to Kirton is Trimley. Kirton is around 10 km from Ipswich. Kirton is about 4.5 km from Felixstowe."
+            },
+            {
+              "chunk_id": "e13e1b7d-8ae8-4a40-a896-3a9d60730aca",
+              "chunk_title": "Parma Airport Overview",
+              "chunk_summary": "This chunk contains information about the location, naming conventions, and namesake of Parma Airport.",
+              "context_title": "Parma Airport",
+              "page_content": "The Italian name for Parma Airport is \"Aeroporto di Parma\". Parma Airport is named after Giuseppe Verdi. Parma Airport is located 1.3 NM northwest of Parma. Parma Airport is also known as Parma \"Giuseppe Verdi\" Airport. Parma Airport is also known as Giuseppe Verdi Airport."
+            },
+            {
+              "chunk_id": "9e1d0133-1a60-4dd9-b8e9-aa63b2e669e3",
+              "chunk_title": "London Airports",
+              "chunk_summary": "This chunk contains information about airports, including their names and locations.",
+              "context_title": "International air travel from the United Kingdom",
+              "page_content": "Gatwick Airport is a London airport. Stansted Airport is a London airport."
+            },
+            {
+              "chunk_id": "0f6acff3-411e-4cc5-aa75-a1ba328a6618",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the locations of airports.",
+              "context_title": "Exeter Airport",
+              "page_content": "Exeter Airport is located at Clyst Honiton. Exeter Airport is close to the city of Exeter."
+            },
+            {
+              "chunk_id": "1a503cb3-35e7-4709-a0e6-0700902524de",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and address of Indianapolis Executive Airport.",
+              "context_title": "Indianapolis Executive Airport",
+              "page_content": "Indianapolis Executive Airport is located five miles north of Zionsville. Indianapolis Executive Airport is located at 11329 E. State Road 32. Indianapolis Executive Airport is located in Boone County, Indiana, United States. Indianapolis Executive Airport is located 14 miles (23 km) northwest of downtown Indianapolis. Indianapolis Executive Airport is located just west of Jolietville."
+            },
+            {
+              "chunk_id": "06e93a80-f558-46bd-96f6-48655bb4018e",
+              "chunk_title": "A41 Trunk Road",
+              "chunk_summary": "This chunk contains information about the A41 trunk road in England, including its route between London and Birkenhead, key locations it passes through or near, and sections superseded by motorways.",
+              "context_title": "A41 road",
+              "page_content": "The A41 is a major trunk road in England. The A41 passes through or near Kings Langley. The A41 passes through or near Whitchurch. The A41 passes through or near Wolverhampton. Parts of the A41 have been superseded by motorways. The A41 passes through or near Chester. The A41 passes through or near Solihull. The A41 passes through or near Newport. The A41 passes through or near Aylesbury. The A41 passes through or near Hemel Hempstead. The A41 passes through or near Watford. The A41 links London and Birkenhead. The A41 passes through or near Ellesmere Port. The A41 passes through or near West Bromwich. The A41 passes through or near Birmingham."
+            },
+            {
+              "chunk_id": "0b8b6db5-c994-4272-b371-35bb0200a5fe",
+              "chunk_title": "Airport Classification & Status",
+              "chunk_summary": "This chunk contains information about the classification and status of airports.",
+              "context_title": "Deadhorse Airport",
+              "page_content": "Deadhorse Airport is a public airport."
+            },
+            {
+              "chunk_id": "96ff45ab-e78f-4155-bd6e-9c714bd28cf0",
+              "chunk_title": "Street Intersections & Highways",
+              "chunk_summary": "This chunk contains information about specific street intersections and their proximity to major highways.",
+              "context_title": "KXMD-TV",
+              "page_content": "The intersection of 13th Avenue West and 18th Street West is near U.S. Highway 2/85."
+            },
+            {
+              "chunk_id": "a96c666e-7086-48c8-827e-b660f1db76b5",
+              "chunk_title": "Flight Routes",
+              "chunk_summary": "This chunk contains information about new domestic and international flight routes established from specific airports, including those operated by Braathens SAFE.",
+              "context_title": "History of Braathens (1994–2004)",
+              "page_content": "New routes were opened from Oslo Airport, Fornebu to Harstad/Narvik. New routes were opened from Oslo Airport, Fornebu to Tromsø. Transwede had five domestic routes. Braathens SAFE started flying on the Oslo–Stockholm route in 1996. International routes to Nice were introduced by Braathens SAFE. International routes to Jersey were introduced by Braathens SAFE. New routes were opened from Oslo Airport, Fornebu to Bodø. International routes to Rome were introduced by Braathens SAFE."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "How many passengers did that airport handle in 2016?",
+          "answer": "over 1.6 million",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Rotterdam The Hague Airport passengers 2016",
+          "planner_rationale": "Q 的核心子事实——查询该机场 2016 年客运量。已 SOLVED + healthy，证据直接具体（Rotterdam The Hague Airport 文档明确记载 over 1.6 million passengers in 2016），无需重搜。",
+          "solver_judgment": "question 要求确认'that airport'在 2016 年的旅客吞吐量。search_query 搜索了'Rotterdam The Hague Airport passengers 2016'。chunks 返回了 Rotterdam The Hague Airport 的客运统计数据，其中 chunk c1370c1f-e372-468f-a3dc-3a799d37ef02 明确记载'Rotterdam The Hague Airport handled over 1.6 million passengers in 2016'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Rotterdam The Hague Airport），单来源但直接、具体地陈述了答案。支撑 chunk [c1370c1f] 全文为：'Rotterdam The Hague Airport handled over 1.6 million passengers in 2016.' 答案 'over 1.6 million' 与 chunk 内容完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但证据直接具体，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "c1370c1f-e372-468f-a3dc-3a799d37ef02"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c1370c1f-e372-468f-a3dc-3a799d37ef02",
+              "chunk_title": "Passenger Traffic Statistics",
+              "chunk_summary": "This chunk contains information about passenger traffic statistics at airports.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Rotterdam The Hague Airport handled over 1.6 million passengers in 2016."
+            },
+            {
+              "chunk_id": "9c034425-6ae8-4201-afc9-4f4bd91494a8",
+              "chunk_title": "Heathrow Airport Overview",
+              "chunk_summary": "This chunk contains information about Heathrow Airport, including its alternative names, identification codes, location, and passenger traffic rankings.",
+              "context_title": "Heathrow Airport",
+              "page_content": "Dubai International surpassed Heathrow Airport as the busiest airport in the world by international passenger traffic in 2014. Heathrow Airport has the ICAO code EGLL. Heathrow Airport is the seventh busiest airport in the world by total passenger traffic. Heathrow Airport is in London, United Kingdom. Heathrow Airport is a major international airport. Heathrow Airport is the second busiest airport in the world by international passenger traffic. Heathrow Airport has the IATA code LHR. Heathrow Airport is also known as London Heathrow. In 2016, Heathrow Airport handled a record 75.7 million passengers. Heathrow Airport is the busiest airport in Europe by passenger traffic. The number of passengers handled by Heathrow Airport in 2016 was a 1.0% increase from 2015."
+            },
+            {
+              "chunk_id": "985e833b-e182-4b94-b14d-d4d3997a9c45",
+              "chunk_title": "Airports",
+              "chunk_summary": "This chunk contains information about airports, including their names, locations, and relative sizes.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Rotterdam The Hague Airport is the Netherlands' third largest airport."
+            },
+            {
+              "chunk_id": "67129489-a3d5-4127-a2b3-8896102c9f39",
+              "chunk_title": "Airport Locations & Service",
+              "chunk_summary": "This chunk contains information about the location and service area of Rotterdam The Hague Airport relative to nearby cities.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Rotterdam The Hague Airport serves the city of The Hague and surroundings. Rotterdam The Hague Airport is located 3 NM north northwest of Rotterdam. Rotterdam The Hague Airport serves the city of Rotterdam."
+            },
+            {
+              "chunk_id": "31a9e7d9-51f0-40f3-b05b-448c957294a0",
+              "chunk_title": "Airport Codes & Identifiers",
+              "chunk_summary": "This chunk contains information about airport codes and identifiers, including IATA and ICAO codes for specific airports.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Rotterdam The Hague Airport has the ICAO code EHRD. Rotterdam The Hague Airport has the IATA code RTM."
+            },
+            {
+              "chunk_id": "860fce9f-297e-409c-9d9b-964b14ec1451",
+              "chunk_title": "Rotterdam Airport Operations",
+              "chunk_summary": "This chunk contains information about the flight destinations, general aviation usage, flying clubs, and flying schools at Rotterdam The Hague Airport.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Several flying schools are located at Rotterdam The Hague Airport. Rotterdam The Hague Airport is used extensively by general aviation. Rotterdam The Hague Airport features scheduled flights to European metropolitan and leisure destinations. Several flying clubs are located at Rotterdam The Hague Airport."
+            },
+            {
+              "chunk_id": "0045e610-06ac-4b40-b5b6-7c55bbb22fc8",
+              "chunk_title": "Dublin Airport Overview",
+              "chunk_summary": "This chunk contains information about Dublin Airport, including its classification, location, names in different languages, codes, operator, and passenger statistics.",
+              "context_title": "Dublin Airport",
+              "page_content": "The ICAO code for Dublin Airport is EIDW. Dublin Airport is the busiest of the state's airports by total passenger traffic. Dublin Airport serves Dublin. 2016 was Dublin Airport's busiest year on record. In 2016, 27.9 million passengers passed through Dublin Airport. Dublin Airport is an international airport. Dublin Airport is located in Collinstown. The Irish name for Dublin Airport is Aerfort Bhaile Átha Cliath. Dublin Airport is the 15th busiest airport in Europe. Dublin Airport is located 5.4 nmi north of Dublin. Dublin Airport has the greatest traffic levels on the island of Ireland. Dublin Airport is operated by DAA. DAA was formerly known as Dublin Airport Authority. The IATA code for Dublin Airport is DUB."
+            },
+            {
+              "chunk_id": "89641e4e-b50e-4364-86b5-53d30db48d24",
+              "chunk_title": "Airport Traffic Stats",
+              "chunk_summary": "This chunk contains information about major airports and their passenger traffic statistics.",
+              "context_title": "Gatwick Airport",
+              "page_content": "Mumbai's Chhatrapati Shivaji International Airport overtook Gatwick Airport as the busiest single-use runway airport in the world after 2016. London Heathrow is the busiest airport by total passenger traffic in the United Kingdom. Gatwick Airport is the eighth-busiest airport in Europe."
+            },
+            {
+              "chunk_id": "ae4a50ec-a6c8-4b29-b3f2-f5796c1f328a",
+              "chunk_title": "Airport Naming History",
+              "chunk_summary": "This chunk contains information about the naming history and former names of Rotterdam The Hague Airport.",
+              "context_title": "Rotterdam The Hague Airport",
+              "page_content": "Rotterdam The Hague Airport was formerly known as \"Rotterdam Airport\". Rotterdam The Hague Airport was formerly known as \"Vliegveld Zestienhoven\" in Dutch."
+            },
+            {
+              "chunk_id": "153824bb-4211-4d77-9b28-7ad1c1ee5b10",
+              "chunk_title": "Dubai Airport Overview",
+              "chunk_summary": "This chunk contains information about Dubai International Airport, including its location, global rankings in passenger and cargo traffic, aircraft movement records, and specific operational statistics.",
+              "context_title": "Dubai International Airport",
+              "page_content": "In 2016, Dubai International Airport handled 2.59 million tonnes of cargo. In 2016, Dubai International Airport handled 83.6 million passengers. Dubai International Airport is the primary international airport serving Dubai, United Arab Emirates. Dubai International Airport is the 3rd busiest airport in the world by passenger traffic. In 2016, Dubai International Airport registered 418,220 aircraft movements. Dubai International Airport is the world's busiest airport by international passenger traffic. Dubai International Airport is the busiest airport for Airbus A380 movements. Dubai International Airport is the 6th busiest cargo airport in the world. Dubai International Airport is the busiest airport for Boeing 777 movements. Dubai International Airport is the busiest airport in the world operating with only two runways."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Which airport is located next to the A13 road?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "3b7db594-f066-4656-8d95-0054fbe30347",
+        "88948ec2-8867-45ab-a256-b504639ff9d8",
+        "e13e1b7d-8ae8-4a40-a896-3a9d60730aca",
+        "9e1d0133-1a60-4dd9-b8e9-aa63b2e669e3",
+        "0f6acff3-411e-4cc5-aa75-a1ba328a6618",
+        "1a503cb3-35e7-4709-a0e6-0700902524de",
+        "06e93a80-f558-46bd-96f6-48655bb4018e",
+        "0b8b6db5-c994-4272-b371-35bb0200a5fe",
+        "96ff45ab-e78f-4155-bd6e-9c714bd28cf0",
+        "a96c666e-7086-48c8-827e-b660f1db76b5"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Rotterdam The Hague Airport passengers 2016",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "c1370c1f-e372-468f-a3dc-3a799d37ef02",
+        "9c034425-6ae8-4201-afc9-4f4bd91494a8",
+        "985e833b-e182-4b94-b14d-d4d3997a9c45",
+        "67129489-a3d5-4127-a2b3-8896102c9f39",
+        "31a9e7d9-51f0-40f3-b05b-448c957294a0",
+        "860fce9f-297e-409c-9d9b-964b14ec1451",
+        "0045e610-06ac-4b40-b5b6-7c55bbb22fc8",
+        "89641e4e-b50e-4364-86b5-53d30db48d24",
+        "ae4a50ec-a6c8-4b29-b3f2-f5796c1f328a",
+        "153824bb-4211-4d77-9b28-7ad1c1ee5b10"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which airport is located next to the A13 road?（理由：Q 询问的是紧邻 A13 的机场的客运量，必须先识别出该机场的名称），F2: How many passengers did that airport handle in 2016?（理由：Q 的核心询问——该机场 2016 年的客运量数据）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的 question 中 \"that airport\" 必须用 F1 的 answer 消解后才能构造有意义的搜索查询）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question=\"Which airport is located next to the A13 road?\"，rationale=\"识别紧邻 A13 的机场名称\"），$2（question=\"How many passengers did that airport handle in 2016?\"，rationale=\"查询该机场 2016 年客运量\"）。新增边: N0→$1（decomposition，$1 是 Q 的第一个子事实），N0→$2（decomposition，$2 是 Q 的第二个子事实），$1→$2（dependency，$2 的 question 含指代词 \"that airport\"，需 $1 的 answer 消解）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足，推理链完整，所有节点证据充分。条件①：N1_1 和 N1_2 均已 SOLVED。条件②：路径 N0→N1_1→N1_2 中，N1_1 answer='Rotterdam The Hague Airport' 语义消解 N1_2 question 中的 'that airport'，依赖链有效。条件③：所有节点（N0、N1_1、N1_2）critic_health 均为 health"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which airport is located next to the A13 road?（理由：Q 询问的是紧邻 A13 的机场的客运量，必须先识别出该机场的名称），F2: How many passengers did that airport handle in 2016?（理由：Q 的核心询问——该机场 2016 年的客运量数据）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的 question 中 'that airport' 必须用 F1 的 answer 消解后才能构造有意义的搜索查询）。当前 DAG 已完全覆盖此结构，所有子节点均已 SOLVED + healthy，推理链完整。",
+      "hypothesis_delta": "本轮无结构调整——全部 INHERIT。原因：上一轮（首轮）的结构假设被完全验证。N1_1 成功识别机场为 Rotterdam The Hague Airport（单来源但证据直接），N1_2 成功查询客运量为 over 1.6 million（单来源但证据直接），N1_1→N1_2 的 dependency 边语义有效（'that airport' 被精确消解）。Critic 确认 DAG 结构质量良好，无冗余无缺口，已逼近理想分解结构。因此本轮保持原结构不变。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义完整——N1_1 answer 'Rotterdam The Hague Airport' 精确消解 N1_2 question 中的 'that airport'，依赖链有效；③全部节点（N0/N1_1/N1_2）均为 healthy；④拓扑连续两轮不变。答案置信度高：N1_1 和 N1_2 均有直接、具体的单来源证据支撑，推理链完整可聚"
+      }
+    }
+  ]
+}

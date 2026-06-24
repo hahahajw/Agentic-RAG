@@ -1,0 +1,629 @@
+{
+  "question_index": 280,
+  "question_id": "5a7ef6b35542994959419a94",
+  "question": "What region of Italy was Giorgio Pini born in?",
+  "answer": "Emilia-Romagna Region",
+  "prediction": "Emilia-Romagna",
+  "error": null,
+  "latency_ms": 225832.32419996057,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T20:15:57.036322+00:00",
+  "chunks": [
+    {
+      "chunk_id": "eb4abd2a-3ad1-4e99-b0f4-9708f077d46f",
+      "chunk_title": "Italian Politicians",
+      "chunk_summary": "This chunk contains information about the biographical details and political careers of Italian politicians.",
+      "context_title": "Giorgio Pini",
+      "page_content": "Giorgio Pini was an Italian politician."
+    },
+    {
+      "chunk_id": "e6daec50-dc05-44aa-9274-435cab357728",
+      "chunk_title": "Professions",
+      "chunk_summary": "This chunk contains information about the professions of individuals.",
+      "context_title": "Giorgio Pini",
+      "page_content": "Giorgio Pini was a journalist."
+    },
+    {
+      "chunk_id": "dc54b7f3-0f3d-4a3a-b0d3-79ec5dbb80c2",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date of death for specific individuals.",
+      "context_title": "Giorgio Pini",
+      "page_content": "Giorgio Pini died on 30 March 1987."
+    },
+    {
+      "chunk_id": "2e44a862-2121-4fe5-ab1a-79f98e422781",
+      "chunk_title": "Birthplaces",
+      "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+      "context_title": "Giorgio Pini",
+      "page_content": "Giorgio Pini was born in Bologna."
+    },
+    {
+      "chunk_id": "45761897-dd1a-4899-92dc-0c7a5316a537",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Giorgio Pini",
+      "page_content": "Giorgio Pini was born on 1 February 1899."
+    },
+    {
+      "chunk_id": "47079442-f446-48f6-810a-aef8ddc55aba",
+      "chunk_title": "Soccer Player Profile",
+      "chunk_summary": "This chunk contains information about the personal background and professional soccer career of individuals, including their birthplace, nationality, position, and teams.",
+      "context_title": "Carolina Pini",
+      "page_content": "Carolina Pini most recently played as a midfielder for the Italian national team. Carolina Pini is an Italian soccer player. Carolina Pini was born in Florence, Italy. Carolina Pini most recently played as a midfielder for ASDCF Bardolino."
+    },
+    {
+      "chunk_id": "5ec18353-9155-4f80-a734-7588240b0ab6",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Carolina Pini",
+      "page_content": "Carolina Pini was born on June 13, 1988."
+    },
+    {
+      "chunk_id": "720a3a7d-9965-4716-a994-885e5db430fa",
+      "chunk_title": "Giorgio Chiellini Profile",
+      "chunk_summary": "This chunk contains information about the professional background, nationality, club affiliations, and playing characteristics of Giorgio Chiellini.",
+      "context_title": "Giorgio Chiellini",
+      "page_content": "Giorgio Chiellini is an Italian professional footballer. Giorgio Chiellini plays as a defender for the Italian national team. Giorgio Chiellini plays as a defender for Serie A club Juventus. Giorgio Chiellini is capable of playing as a left-back in a four-man defence. Giorgio Chiellini is capable of playing as a left-back in a three-man defence. Giorgio Chiellini is a physically strong defender. Giorgio Chiellini is usually deployed as a centre-back. Giorgio Chiellini is an aggressive defender. Giorgio Chiellini is a versatile defender. Giorgio Chiellini is capable of playing as a left-back."
+    },
+    {
+      "chunk_id": "e43452c4-aa00-4fe0-865b-eb71893a99ee",
+      "chunk_title": "Locations & Names",
+      "chunk_summary": "This chunk contains information about the birthplaces of individuals and historical or modern names of locations.",
+      "context_title": "Giorgio Giunchi",
+      "page_content": "Antivari is modern Bar. Giorgio Giunchi was born in Livari."
+    },
+    {
+      "chunk_id": "e1663bf7-f894-4438-ad79-9cc494726909",
+      "chunk_title": "Capital Cities",
+      "chunk_summary": "This chunk contains information about the capital cities of various regions.",
+      "context_title": "Bologna",
+      "page_content": "Bologna is the capital of the Emilia-Romagna Region."
+    },
+    {
+      "chunk_id": "3b9d2c0d-3f8a-446e-bc9c-6c5733e69f44",
+      "chunk_title": "Bologna Geography & Demographics",
+      "chunk_summary": "This chunk contains information about the geographical location, population ranking, and administrative status of Bologna within Italy.",
+      "context_title": "Bologna",
+      "page_content": "The metropolitan area where Bologna is located has about one million people. Bologna is the seventh most populous city in Italy. Bologna is located in the heart of a metropolitan area. The Emilia-Romagna Region is in Northern Italy. The metropolitan area where Bologna is located is officially recognised by the Italian government as a \"città metropolitana\". Bologna is the largest city of the Emilia-Romagna Region."
+    },
+    {
+      "chunk_id": "c2a88cf4-1d4e-4bd3-83b2-35e5b3aa7ab0",
+      "chunk_title": "Italian City Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of cities in Italy.",
+      "context_title": "Parma Airport",
+      "page_content": "Parma is a city in the Emilia-Romagna region of Italy."
+    },
+    {
+      "chunk_id": "5fdf479b-7485-43bc-a8cb-406400bd13ec",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and administrative regions of cities.",
+      "context_title": "San Giorgio, Brescia",
+      "page_content": "Lombardy is in Italy. Brescia is in the region of Lombardy."
+    },
+    {
+      "chunk_id": "b5798a63-40c1-4363-bf69-6c9b60ee486d",
+      "chunk_title": "Agro Nocerino Sarnese Region",
+      "chunk_summary": "This chunk contains information about the geographical location, administrative hierarchy, natural features, boundaries, and constituent municipalities of the Agro Nocerino Sarnese region in southern Italy.",
+      "context_title": "Agro Nocerino Sarnese",
+      "page_content": "Bracigliano is in the province of Salerno. Agro Nocerino Sarnese is bounded to the south by the Monti Lattari. Agro Nocerino Sarnese is bounded to the west by the plain of Vesuvius. Angri is one of the sixteen comuni of Agro Nocerino Sarnese. Roccapiemonte is in the province of Salerno. Campania is in southern Italy. Sant'Antonio Abate is one of the sixteen comuni of Agro Nocerino Sarnese. Sant'Egidio del Monte Albino is in the province of Salerno. Agro Nocerino Sarnese is bounded to the east and north-east by the Monti Picentini. Nocera Inferiore is one of the sixteen comuni of Agro Nocerino Sarnese. Nocera Superiore is one of the sixteen comuni of Agro Nocerino Sarnese. Bracigliano is one of the sixteen comuni of Agro Nocerino Sarnese. Agro Nocerino Sarnese consists of sixteen comuni. Pagani is one of the sixteen comuni of Agro Nocerino Sarnese. Corbara is one of the sixteen comuni of Agro Nocerino Sarnese. Nocera Inferiore is in the province of Salerno. Agro Nocerino Sarnese is in the Province of Salerno. Sant'Egidio del Monte Albino is one of the sixteen comuni of Agro Nocerino Sarnese. San Valentino Torio is in the province of Salerno. Scafati is in the province of Salerno. Agro Nocerino Sarnese is a geographical region. Agro Nocerino Sarnese is a low-lying area. Siano is in the province of Salerno. The Province of Salerno is in Campania. Sarno is one of the sixteen comuni of Agro Nocerino Sarnese. The river Sarno flows through Agro Nocerino Sarnese. Siano is one of the sixteen comuni of Agro Nocerino Sarnese. Pagani is in the province of Salerno. Castel San Giorgio is in the province of Salerno. Sarno is in the province of Salerno. Santa Maria la Carità is in the province of Naples. Santa Maria la Carità is one of the sixteen comuni of Agro Nocerino Sarnese. Corbara is in the province of Salerno. Scafati is one of the sixteen comuni of Agro Nocerino Sarnese. San Marzano sul Sarno is one of the sixteen comuni of Agro Nocerino Sarnese. Nocera Superiore is in the province of Salerno. San Valentino Torio is one of the sixteen comuni of Agro Nocerino Sarnese. Castel San Giorgio is one of the sixteen comuni of Agro Nocerino Sarnese. Angri is in the province of Salerno. Roccapiemonte is one of the sixteen comuni of Agro Nocerino Sarnese. Sant'Antonio Abate is in the province of Naples. San Marzano sul Sarno is in the province of Salerno."
+    },
+    {
+      "chunk_id": "ab66e7c6-5789-4aee-982a-6f51c9833a67",
+      "chunk_title": "Italian Geography",
+      "chunk_summary": "This chunk contains information about the geographical location of regions in Italy.",
+      "context_title": "San Giorgio di Nogaro railway station",
+      "page_content": "Friuli-Venezia Giulia is in northern Italy."
+    },
+    {
+      "chunk_id": "435092e8-bfc1-4b3e-b62f-85f20439f0ba",
+      "chunk_title": "Lungarotti Winery Profile",
+      "chunk_summary": "This chunk contains information about the Cantine Giorgio Lungarotti Winery srl, including its identity as an Italian wine company, its founding history, leadership, geographical distribution of properties across Umbria, and its cultural contributions such as museums.",
+      "context_title": "Cantine Lungarotti Winery",
+      "page_content": "Giorgio Lungarotti founded the Cantine Giorgio Lungarotti Winery srl. A large location of the Cantine Giorgio Lungarotti Winery srl is in the town of Montefalco. The Cantine Giorgio Lungarotti Winery srl was founded in the late 1950s. The Olive and Oil Museum (MOO) is located in the center of Torgiano. The Lungarotti company owns the Wine Museum of Torgiano (MUVIT). The Cantine Giorgio Lungarotti Winery srl is an Italian wine company. The Lungarotti company owns the Olive and Oil Museum (MOO). The Cantine Giorgio Lungarotti Winery srl is located in the region of Umbria, Italy. The Lungarotti name achieved fame through a mixture of traditional respect for the land and modern innovation and research. The Cantine Giorgio Lungarotti Winery srl is now headed by Chiara. The property of the Cantine Giorgio Lungarotti Winery srl is divided between several locations. The Cantine Giorgio Lungarotti Winery srl is now headed by Maria Grazia. The largest location of the Cantine Giorgio Lungarotti Winery srl is in the town of Torgiano. The Lungarotti name is famous for putting Umbrian wines on the map. The Wine Museum of Torgiano (MUVIT) is located in the center of Torgiano. The Cantine Giorgio Lungarotti Winery srl is now headed by Teresa."
+    },
+    {
+      "chunk_id": "4761b620-6cc6-4cda-919e-07123a083f68",
+      "chunk_title": "Italian Geography & History",
+      "chunk_summary": "This chunk contains information about the geographical locations and historical affiliations of places in Italy.",
+      "context_title": "Battle of La Motta (1513)",
+      "page_content": "Schio was in the Republic of Venice in 1513. Schio is in the Italian region of Veneto."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.666667,
+  "precision": 1.0,
+  "recall": 0.5,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.4117647058823529,
+  "retrieval_count": 3,
+  "total_chunks": 17,
+  "total_distinct_titles": 11,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 4,
+  "dag_edges": 5,
+  "dag_snapshots": [
+    {
+      "q": "What region of Italy was Giorgio Pini born in?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What region of Italy was Giorgio Pini born in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Giorgio Pini 的出生地（意大利大区）",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未合成最终答案。子节点 N1_2 提供了城市 'Bologna'，但 Q 询问的是 'region'（大区）。当前 DAG 缺少从 'Bologna' 到 'Emilia-Romagna' 的映射步骤或证据。推理链在 '城市' 到 '大区' 之间存在语义缺口。",
+          "critic_normative_advice": "建议新增节点或修改 N1_2 的搜索目标——当前 N1_2 仅回答出生城市，需补充 'What region is Bologna in?' 或在 N1_2 中直接搜索 'Giorgio Pini birth region' 以获取大区信息。目前无法直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Giorgio Pini?",
+          "answer": "Italian politician and journalist",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is Giorgio Pini?",
+          "planner_rationale": "需要确认 Giorgio Pini 的身份，以排除同名人物并获取其生平背景，这是确定其出生地的前提",
+          "solver_judgment": "question 要求回答 Giorgio Pini 是谁。search_query 直接搜索了 'Who is Giorgio Pini?'。chunks 返回了关于 Giorgio Pini 的多条信息：chunk eb4abd2a-3ad1-4e99-b0f4-9708f077d46f 指出他是 'Italian politician'，chunk e6daec50-dc05-44aa-9274-435cab357728 指出他是 'journalist'。其他 chunks 提供了他的出生地、出生日期和死亡日期，但定义其身份的核心信息是政治家和记者。检索精准命中了目标人物的身份描述，信息完整。",
+          "critic_factual_notes": "2 个独立来源（文档 'Italian Politicians' 和 'Professions'）一致确认 Giorgio Pini 是 'Italian politician' 和 'journalist'。证据充分，直接支撑声称答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，身份确认完成。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where was Giorgio Pini born?",
+          "answer": "Bologna",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Giorgio Pini birthplace",
+          "planner_rationale": "直接探测 Giorgio Pini 的具体出生地点（城市或省份），以便后续映射到意大利大区",
+          "solver_judgment": "question 要求确认 Giorgio Pini 的出生地。search_query 搜索了 'Giorgio Pini birthplace'。chunks 返回了关于 Giorgio Pini 的多条信息，其中 chunk 2e44a862-2121-4fe5-ab1a-79f98e422781 明确记载 \"Giorgio Pini was born in Bologna\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Birthplaces'）直接陈述 'Giorgio Pini was born in Bologna'。虽然为单来源，但表述具体、直接，且与 N1_1 确认的身份实体一致（无同名冲突迹象）。证据足以支撑 'Bologna' 这一事实。",
+          "critic_normative_advice": "建议 INHERIT——出生城市证据充分。但需注意：此节点答案仅为城市，未直接回答 Q 的 'region' 需求，需上游聚合时处理或新增后续节点。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What region of Italy was Giorgio Pini born in?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What region of Italy was Giorgio Pini born in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Giorgio Pini 的出生地（意大利大区）",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未合成最终答案。子节点 N1_2 提供了城市 'Bologna'，N3_1 提供了大区 'Emilia-Romagna'。虽然证据链完整（Giorgio Pini -> Bologna -> Emilia-Romagna），但 ROOT 节点本身的状态仍为 unsolved，且需要显式聚合步骤来确认 'Emilia-Romagna' 即为 Q 所求的 'region of Italy where Giorgio Pini was born'。当前缺乏对这一聚合逻辑的最终验证标记。",
+          "critic_normative_advice": "建议 INHERIT 结构，但需触发最终答案生成。所有必要事实已具备，推理链语义连贯。Planner 应确认是否允许进入终止阶段由答案生成器合成最终结果。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Giorgio Pini?",
+          "answer": "Italian politician and journalist",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is Giorgio Pini?",
+          "planner_rationale": "已确立 Giorgio Pini 的身份（Italian politician and journalist），用于排除同名歧义，为后续搜索提供上下文",
+          "solver_judgment": "question 要求回答 Giorgio Pini 是谁。search_query 直接搜索了 'Who is Giorgio Pini?'。chunks 返回了关于 Giorgio Pini 的多条信息：chunk eb4abd2a-3ad1-4e99-b0f4-9708f077d46f 指出他是 'Italian politician'，chunk e6daec50-dc05-44aa-9274-435cab357728 指出他是 'journalist'。其他 chunks 提供了他的出生地、出生日期和死亡日期，但定义其身份的核心信息是政治家和记者。检索精准命中了目标人物的身份描述，信息完整。",
+          "critic_factual_notes": "2 个独立来源（文档 'Italian Politicians' 和 'Professions'）一致确认 Giorgio Pini 是 'Italian politician' 和 'journalist'。证据充分，直接支撑声称答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，身份确认完成。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where was Giorgio Pini born?",
+          "answer": "Bologna",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Giorgio Pini birthplace",
+          "planner_rationale": "已确立 Giorgio Pini 的出生城市为 Bologna。此事实是推导大区的必要前置条件",
+          "solver_judgment": "question 要求确认 Giorgio Pini 的出生地。search_query 搜索了 'Giorgio Pini birthplace'。chunks 返回了关于 Giorgio Pini 的多条信息，其中 chunk 2e44a862-2121-4fe5-ab1a-79f98e422781 明确记载 \"Giorgio Pini was born in Bologna\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Birthplaces'）直接陈述 'Giorgio Pini was born in Bologna'。虽然为单来源，但表述具体、直接，且与 N1_1 确认的身份实体一致。证据足以支撑 'Bologna' 这一事实。",
+          "critic_normative_advice": "建议 INHERIT——出生城市证据充分。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N3_1": {
+          "id": "N3_1",
+          "question": "What region of Italy is Bologna in?",
+          "answer": "Emilia-Romagna",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What region of Italy is Bologna in?",
+          "planner_rationale": "Critic 指出当前 DAG 存在从 '城市' 到 '大区' 的语义缺口。Q 询问的是 region，而 N1_2 仅提供了 city (Bologna)。需要新增节点明确查询 Bologna 所属的意大利大区，以完成 Q 的回答",
+          "solver_judgment": "question 要求确认 Bologna 所在的意大利大区。search_query 搜索了 'What region of Italy is Bologna in?'。chunks 返回了直接相关的信息：chunk e1663bf7-f894-4438-ad79-9cc494726909 明确指出 'Bologna is the capital of the Emilia-Romagna Region'；chunk 3b9d2c0d-3f8a-446e-bc9c-6c5733e69f44 也提到 'Bologna is the largest city of the Emilia-Romagna Region'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个独立来源（文档 'Capital Cities' 和 'Bologna Geography & Demographics'）一致确认 'Bologna is the capital/largest city of the Emilia-Romagna Region'。证据充分，直接回答了 Bologna 所属大区的问题。",
+          "critic_normative_advice": "建议 INHERIT——大区映射证据充分。",
+          "round_created": 2,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N0",
+          "to": "N3_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_2",
+          "to": "N3_1",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What region of Italy was Giorgio Pini born in?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What region of Italy was Giorgio Pini born in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（身份、出生城市、所属大区）已确立，等待最终答案聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生新事实，其健康状态依赖于子节点推理链的完整性。当前 DAG 中：N1_2 确认 Giorgio Pini 出生于 Bologna（单来源直接陈述，healthy）；N3_1 确认 Bologna 位于 Emilia-Romagna（双独立来源一致，healthy）。依赖链 N1_2→N3_1 语义有效（城市名消解了大区查询中的指代）。虽然 N0 状态标记为 unsolved，但所有必要的事实组件已就绪且证据充分，逻辑上可聚合出最终答案 'Emilia-Romagna'。",
+          "critic_normative_advice": "建议 INHERIT——所有子事实已确立且证据充分，推理链完整。Planner 无需调整结构，应允许进入终止阶段由答案生成器合成最终结果。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Giorgio Pini?",
+          "answer": "Italian politician and journalist",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is Giorgio Pini?",
+          "planner_rationale": "已确立 Giorgio Pini 的身份（Italian politician and journalist），用于排除同名歧义，为后续搜索提供上下文。Critic 判为 healthy。",
+          "solver_judgment": "question 要求回答 Giorgio Pini 是谁。search_query 直接搜索了 'Who is Giorgio Pini?'。chunks 返回了关于 Giorgio Pini 的多条信息：chunk eb4abd2a-3ad1-4e99-b0f4-9708f077d46f 指出他是 'Italian politician'，chunk e6daec50-dc05-44aa-9274-435cab357728 指出他是 'journalist'。其他 chunks 提供了他的出生地、出生日期和死亡日期，但定义其身份的核心信息是政治家和记者。检索精准命中了目标人物的身份描述，信息完整。",
+          "critic_factual_notes": "2 个独立来源（文档 'Italian Politicians' 和 'Professions'）一致确认 Giorgio Pini 是 'Italian politician' 和 'journalist'。证据充分，直接支撑声称答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，身份确认完成。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where was Giorgio Pini born?",
+          "answer": "Bologna",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Giorgio Pini birthplace",
+          "planner_rationale": "已确立 Giorgio Pini 的出生城市为 Bologna。此事实是推导大区的必要前置条件。Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认 Giorgio Pini 的出生地。search_query 搜索了 'Giorgio Pini birthplace'。chunks 返回了关于 Giorgio Pini 的多条信息，其中 chunk 2e44a862-2121-4fe5-ab1a-79f98e422781 明确记载 \"Giorgio Pini was born in Bologna\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Birthplaces'）直接陈述 'Giorgio Pini was born in Bologna'。虽然为单来源，但表述具体、直接，且与 N1_1 确认的身份实体一致。证据足以支撑 'Bologna' 这一事实。",
+          "critic_normative_advice": "建议 INHERIT——出生城市证据充分。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N3_1": {
+          "id": "N3_1",
+          "question": "What region of Italy is Bologna in?",
+          "answer": "Emilia-Romagna",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What region of Italy is Bologna in?",
+          "planner_rationale": "已确立 Bologna 位于 Emilia-Romagna 大区。此事实直接回答了 Q 的核心询问（region）。Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认 Bologna 所在的意大利大区。search_query 搜索了 'What region of Italy is Bologna in?'。chunks 返回了直接相关的信息：chunk e1663bf7-f894-4438-ad79-9cc494726909 明确指出 'Bologna is the capital of the Emilia-Romagna Region'；chunk 3b9d2c0d-3f8a-446e-bc9c-6c5733e69f44 也提到 'Bologna is the largest city of the Emilia-Romagna Region'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个独立来源（文档 'Capital Cities' 和 'Bologna Geography & Demographics'）一致确认 'Bologna is the capital/largest city of the Emilia-Romagna Region'。证据充分，直接回答了 Bologna 所属大区的问题。",
+          "critic_normative_advice": "建议 INHERIT——大区映射证据充分。",
+          "round_created": 2,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N0",
+          "to": "N3_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_2",
+          "to": "N3_1",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What region of Italy was Giorgio Pini born in?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What region of Italy was Giorgio Pini born in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（身份、出生城市、所属大区）已确立且证据充分，等待最终答案聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生新事实，其健康状态依赖于子节点推理链的完整性。当前 DAG 中：N1_2 确认 Giorgio Pini 出生于 Bologna（单来源直接陈述，healthy）；N3_1 确认 Bologna 位于 Emilia-Romagna（双独立来源一致，healthy）。依赖链 N1_2→N3_1 语义有效（城市名消解了大区查询中的指代）。虽然 N0 状态标记为 unsolved，但所有必要的事实组件已就绪且证据充分，逻辑上可聚合出最终答案 'Emilia-Romagna'。",
+          "critic_normative_advice": "建议 INHERIT——所有子事实已确立且证据充分，推理链完整。Planner 无需调整结构，应允许进入终止阶段由答案生成器合成最终结果。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Giorgio Pini?",
+          "answer": "Italian politician and journalist",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is Giorgio Pini?",
+          "planner_rationale": "已确立 Giorgio Pini 的身份（Italian politician and journalist），用于排除同名歧义，为后续搜索提供上下文。Critic 判为 healthy。",
+          "solver_judgment": "question 要求回答 Giorgio Pini 是谁。search_query 直接搜索了 'Who is Giorgio Pini?'。chunks 返回了关于 Giorgio Pini 的多条信息：chunk eb4abd2a-3ad1-4e99-b0f4-9708f077d46f 指出他是 'Italian politician'，chunk e6daec50-dc05-44aa-9274-435cab357728 指出他是 'journalist'。其他 chunks 提供了他的出生地、出生日期和死亡日期，但定义其身份的核心信息是政治家和记者。检索精准命中了目标人物的身份描述，信息完整。",
+          "critic_factual_notes": "2 个独立来源（文档 'Italian Politicians' 和 'Professions'）一致确认 Giorgio Pini 是 'Italian politician' 和 'journalist'。证据充分，直接支撑声称答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，身份确认完成。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where was Giorgio Pini born?",
+          "answer": "Bologna",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Giorgio Pini birthplace",
+          "planner_rationale": "已确立 Giorgio Pini 的出生城市为 Bologna。此事实是推导大区的必要前置条件。Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认 Giorgio Pini 的出生地。search_query 搜索了 'Giorgio Pini birthplace'。chunks 返回了关于 Giorgio Pini 的多条信息，其中 chunk 2e44a862-2121-4fe5-ab1a-79f98e422781 明确记载 \"Giorgio Pini was born in Bologna\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Birthplaces'）直接陈述 'Giorgio Pini was born in Bologna'。虽然为单来源，但表述具体、直接，且与 N1_1 确认的身份实体一致。证据足以支撑 'Bologna' 这一事实。",
+          "critic_normative_advice": "建议 INHERIT——出生城市证据充分。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N3_1": {
+          "id": "N3_1",
+          "question": "What region of Italy is Bologna in?",
+          "answer": "Emilia-Romagna",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What region of Italy is Bologna in?",
+          "planner_rationale": "已确立 Bologna 位于 Emilia-Romagna 大区。此事实直接回答了 Q 的核心询问（region）。Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认 Bologna 所在的意大利大区。search_query 搜索了 'What region of Italy is Bologna in?'。chunks 返回了直接相关的信息：chunk e1663bf7-f894-4438-ad79-9cc494726909 明确指出 'Bologna is the capital of the Emilia-Romagna Region'；chunk 3b9d2c0d-3f8a-446e-bc9c-6c5733e69f44 也提到 'Bologna is the largest city of the Emilia-Romagna Region'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个独立来源（文档 'Capital Cities' 和 'Bologna Geography & Demographics'）一致确认 'Bologna is the capital/largest city of the Emilia-Romagna Region'。证据充分，直接回答了 Bologna 所属大区的问题。",
+          "critic_normative_advice": "建议 INHERIT——大区映射证据充分。",
+          "round_created": 2,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N0",
+          "to": "N3_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_2",
+          "to": "N3_1",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is Giorgio Pini?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "eb4abd2a-3ad1-4e99-b0f4-9708f077d46f",
+        "e6daec50-dc05-44aa-9274-435cab357728",
+        "dc54b7f3-0f3d-4a3a-b0d3-79ec5dbb80c2",
+        "2e44a862-2121-4fe5-ab1a-79f98e422781",
+        "45761897-dd1a-4899-92dc-0c7a5316a537",
+        "47079442-f446-48f6-810a-aef8ddc55aba",
+        "5ec18353-9155-4f80-a734-7588240b0ab6",
+        "720a3a7d-9965-4716-a994-885e5db430fa"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Giorgio Pini birthplace",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "2e44a862-2121-4fe5-ab1a-79f98e422781",
+        "e6daec50-dc05-44aa-9274-435cab357728",
+        "eb4abd2a-3ad1-4e99-b0f4-9708f077d46f",
+        "45761897-dd1a-4899-92dc-0c7a5316a537",
+        "dc54b7f3-0f3d-4a3a-b0d3-79ec5dbb80c2",
+        "47079442-f446-48f6-810a-aef8ddc55aba",
+        "5ec18353-9155-4f80-a734-7588240b0ab6",
+        "e43452c4-aa00-4fe0-865b-eb71893a99ee"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "What region of Italy is Bologna in?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "e1663bf7-f894-4438-ad79-9cc494726909",
+        "3b9d2c0d-3f8a-446e-bc9c-6c5733e69f44",
+        "c2a88cf4-1d4e-4bd3-83b2-35e5b3aa7ab0",
+        "5fdf479b-7485-43bc-a8cb-406400bd13ec",
+        "b5798a63-40c1-4363-bf69-6c9b60ee486d",
+        "ab66e7c6-5789-4aee-982a-6f51c9833a67",
+        "435092e8-bfc1-4b3e-b62f-85f20439f0ba",
+        "4761b620-6cc6-4cda-919e-07123a083f68"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Giorgio Pini?（理由：确认实体身份，排除歧义，为后续搜索提供上下文），F2: Where was Giorgio Pini born?（理由：获取具体出生城市/省份，进而推导所属大区）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），且 F2 依赖于 F1（dependency——在搜索出生地时，需利用 F1 确认的身份信息来消解指代，确保搜索的是正确的 Giorgio Pini）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：先确认人物身份（$1），再基于身份搜索出生地（$2），最后由根节点 N0 聚合信息得出大区。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": false,
+        "reason": "条件②未通过：推理链语义断裂。N1_2 的答案 'Bologna' 是城市，而 Q 要求 'region'。从 N1_2 到 N0 的聚合无法直接得出大区名称，缺少 'Bologna -> Emilia-Romagna' 的映射环节。条件③未通过：ROOT 节点因上述缺口被标记为 needs_verification。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": false,
+      "planner_revisions": 0,
+      "search_calls": 0
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Giorgio Pini?（理由：确认实体身份，排除歧义），F2: Where was Giorgio Pini born?（理由：获取具体出生城市 Bologna），F3: What region of Italy is Bologna in?（理由：Q 的核心询问是 region，需将城市映射到大区）。关系: F1 和 F2 是 Q 的分解产物（decomposition），F3 也是 Q 的分解产物（decomposition）。F2 依赖于 F1（dependency——利用身份消解指代），F3 依赖于 F2（dependency——利用城市名消解指代并作为搜索目标）。",
+      "hypothesis_delta": "新增: $1（question='What region of Italy is Bologna in?'），原因：Critic 指出 Q 的语义需求 'region' 未被覆盖，当前 DAG 止步于城市 'Bologna'，缺少从城市到大区的映射步骤。\n新增边: N0→$1（decomposition），原因：F3 是直接回答 Q 所需的关键事实（大区名称）。\n新增边: N1_2→$1（dependency），原因：F3 的搜索目标 'Bologna' 来自 F2 的答案，建立依赖关系以确保搜索上下文的准确性。\n保留边: N0→N1_1, N0→N1_2, N1_1→N1_2，原因：维持原有已验证的健康结构，确保 N1_1 和 N1_2 有入边以满足 DAG 不变式 I3/I4，避免孤立节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（新增节点 N3_1 及相关边）。虽然条件①（所有非根节点 SOLVED）、条件②（推理链语义匹配）和条件③（全部节点 healthy）均已满足，但系统规则要求条件④也必须通过（即拓扑稳定）才能终止。鉴于 N3_1 是刚新增的节点，下一轮若其状态保持 solved 且无新结构调整，则有望终止。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Giorgio Pini?（理由：确认实体身份，排除歧义），F2: Where was Giorgio Pini born?（理由：获取具体出生城市 Bologna），F3: What region of Italy is Bologna in?（理由：Q 的核心询问是 region，需将城市映射到大区）。关系: F1 和 F2 是 Q 的分解产物（decomposition），F3 也是 Q 的分解产物（decomposition）。F2 依赖于 F1（dependency——利用身份消解指代），F3 依赖于 F2（dependency——利用城市名消解指代并作为搜索目标）。当前 DAG 已完整覆盖这些事实且全部 solved + healthy。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2, N3_1）均通过 INHERIT 保留，所有边均通过 LINK 重申。原因：Critic 确认 DAG 结构已合理且完整，所有必要信息链已闭合，无冗余或缺口。上一轮假设的目标状态已完全实现，无需新增、删除或换标操作。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点 SOLVED；② 推理链语义匹配（N1_2→N3_1 依赖有效，N1_1→N1_2 消歧有效）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续稳定（本轮无变化）。证据链完整：Giorgio Pini -> born in Bologna -> Bologna is in Emilia-Romagna。置信度高，可终止探索并"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Giorgio Pini?（理由：确认实体身份，排除歧义），F2: Where was Giorgio Pini born?（理由：获取具体出生城市 Bologna），F3: What region of Italy is Bologna in?（理由：Q 的核心询问是 region，需将城市映射到大区）。关系: F1 和 F2 是 Q 的分解产物（decomposition），F3 也是 Q 的分解产物（decomposition）。F2 依赖于 F1（dependency——利用身份消解指代），F3 依赖于 F2（dependency——利用城市名消解指代并作为搜索目标）。当前 DAG 已完整覆盖这些事实且全部 solved + healthy。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2, N3_1）均通过 INHERIT 保留，所有边均通过 LINK 重申。原因：Critic 确认 DAG 结构已合理且完整，所有必要信息链已闭合，无冗余或缺口。上一轮假设的目标状态已完全实现，无需新增、删除或换标操作。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点 SOLVED；② 推理链语义匹配（N1_1 消歧 N1_2，N1_2 提供主体给 N3_1）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续两轮无变化（本轮通过，假设上一轮也通过或计数器已满足）。置信度高，所有必要事实已确立且证据充分，可生成最终答案 'Emilia-Romagna'。"
+      }
+    }
+  ]
+}

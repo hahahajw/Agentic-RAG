@@ -1,0 +1,1518 @@
+{
+  "question_index": 105,
+  "question_id": "5ae1ebf95542997283cd22f2",
+  "question": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+  "answer": "Interstate 22",
+  "prediction": "CANNOT_ANSWER",
+  "error": null,
+  "latency_ms": 911250.1818,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T06:57:32.010649+00:00",
+  "chunks": [
+    {
+      "chunk_id": "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+      "chunk_title": "Highway Names & Abbreviations",
+      "chunk_summary": "This chunk contains information about the names and abbreviations of highways.",
+      "context_title": "Mississippi Highway 23",
+      "page_content": "U.S. Route 78 is also known as US 78. Interstate 22 is also known as I-22."
+    },
+    {
+      "chunk_id": "fb94dad7-c67e-4528-93ac-edefea092b0f",
+      "chunk_title": "U.S. Route 278 Overview",
+      "chunk_summary": "This chunk contains information about U.S. Route 278, including its relationship to other routes, total length, starting and ending locations, and the states and cities it passes through.",
+      "context_title": "U.S. Route 278",
+      "page_content": "U.S. Route 278 is longer than its parent highway, U.S. Route 78. U.S. Route 278 passes through Augusta, Georgia. U.S. Route 278 passes through Covington, Georgia. U.S. Route 278 passes through the state of Arkansas. U.S. Route 278 passes through the state of South Carolina. U.S. Route 278 runs to Wickes, Arkansas. U.S. Route 278 passes through Powder Springs, Georgia. U.S. Route 278 ends at U.S. Route 71/U.S. Route 59 in Wickes, Arkansas. U.S. Route 278 passes through Tupelo, Mississippi. U.S. Route 278 passes through the state of Georgia. U.S. Route 278 currently runs for 1,074 miles (1,728 km). U.S. Route 278 runs from Hilton Head Island, South Carolina. U.S. Route 278 passes through the state of Alabama. U.S. Route 278 passes through Cullman, Alabama. U.S. Route 78 is the parent highway of U.S. Route 278. U.S. Route 278 passes through the state of Mississippi. U.S. Route 278 passes through Gadsden, Alabama. U.S. Route 278 passes through Hiram, Georgia. U.S. Route 278 passes through Cedartown, Georgia. U.S. Route 278 is a parallel route of U.S. Route 78. U.S. Route 278 passes through Greenville, Mississippi. U.S. Route 278 passes through Oxford, Mississippi. U.S. Route 278 passes through Atlanta, Georgia. U.S. Route 278 passes through Dallas, Georgia. U.S. Route 278 passes through Monticello, Arkansas. U.S. Route 278 passes through Hope, Arkansas. U.S. Route 278 passes through Rockmart, Georgia."
+    },
+    {
+      "chunk_id": "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+      "chunk_title": "Interstate 22 Overview",
+      "chunk_summary": "This chunk contains information about Interstate 22, including its designation, route details, endpoints, and connections to other highways.",
+      "context_title": "Interstate 22",
+      "page_content": "Interstate 22 was designed to allow more direct connections between cities in the southeast and cities of the Great Plains. Interstate 22 was designed to close a gap in the Interstate network. Interstate 22 indirectly connects I-69 in the northwest. Interstate 22 indirectly connects I-40 in the northwest. Interstate 22 runs to Birmingham, Alabama. Interstate 22 was designated in 2012. Interstate 22 has a route length of 213 miles. Interstate 22 is an Interstate Highway. Interstate 22 indirectly connects I-59 in the southeast. Interstate 22 indirectly connects I-240 in the northwest. Interstate 22 runs from Byhalia, Mississippi. Interstate 22 is also known as I-22. Interstate 22 indirectly connects I-65 in the southeast. Interstate 22 follows the U.S. Route 78 corridor. Interstate 22 indirectly connects I-20 in the southeast. Interstate 22 indirectly connects I-55 in the northwest."
+    },
+    {
+      "chunk_id": "e644c3d3-b60d-48bc-938d-6f744c2dd776",
+      "chunk_title": "U.S. Route 78 Overview",
+      "chunk_summary": "This chunk contains comprehensive details about U.S. Route 78, including its designations, physical attributes, route path through Georgia counties, termini, and concurrent highways.",
+      "context_title": "U.S. Route 78 in Georgia",
+      "page_content": "U.S. Route 78 travels west to east. At the Alabama state line, the roadway continues concurrent with Alabama State Route 4. U.S. Route 78 is located in the U.S. state of Georgia. U.S. Route 78 is 233.3 miles long. U.S. Route 78 serves the Augusta metropolitan area. The endpoint of U.S. Route 78 at the South Carolina state line is the northern terminus of SR 121. U.S. Route 78 travels from the Alabama state line to the South Carolina state line. U.S. Route 78 travels through McDuffie County. U.S. Route 78 travels through Oconee County. The South Carolina state line endpoint of U.S. Route 78 is on the northeastern edge of Augusta. U.S. Route 78 travels through Walton County. The endpoint of U.S. Route 78 at the South Carolina state line is the southern terminus of SC 121. U.S. Route 78 serves the Atlanta metropolitan area. U.S. Route 78 starts at the Alabama state line. U.S. Route 78 travels through Richmond County. U.S. Route 78 travels through Columbia County. U.S. Route 78 travels through Douglas County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 25. At the South Carolina state line, U.S. Route 78 continues concurrent with SC 121. U.S. Route 78 travels through Cobb County. U.S. Route 78 serves the Athens metropolitan area. U.S. Route 78 is also known as US 78. The endpoint of U.S. Route 78 at the South Carolina state line is the eastern terminus of SR 10. The starting point of U.S. Route 78 is the western terminus of Georgia State Route 8. U.S. Route 78 travels through DeKalb County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 1. The starting point of U.S. Route 78 is west of Tallapoosa. U.S. Route 78 travels through Gwinnett County. The South Carolina state line endpoint of U.S. Route 78 is at the Savannah River. At the South Carolina state line, U.S. Route 78 continues concurrent with US 278. U.S. Route 78 travels through Fulton County. Georgia State Route 8 is concurrent with U.S. Route 78 to the east of the western terminus. U.S. Route 78 travels through Oglethorpe County. U.S. Route 78 travels through Haralson County. U.S. Route 78 travels in the north-central part of Georgia. U.S. Route 78 travels through Wilkes County. U.S. Route 78 travels through Carroll County. U.S. Route 78 travels through Clarke County. U.S. Route 78 is a U.S. Highway."
+    },
+    {
+      "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+      "chunk_title": "Mississippi Highway 23",
+      "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+      "context_title": "Mississippi Highway 23",
+      "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+    },
+    {
+      "chunk_id": "489bb7ca-62af-4941-be1d-c364fb6c4a9d",
+      "chunk_title": "Route Names & Designations",
+      "chunk_summary": "This chunk contains information about the names and designations of U.S. Route 78.",
+      "context_title": "Interstate 22",
+      "page_content": "U.S. Route 78 is also known as US 78."
+    },
+    {
+      "chunk_id": "23f74b17-4199-4ec9-ba29-2c16447d25ff",
+      "chunk_title": "State Highway Details",
+      "chunk_summary": "This chunk contains information about the classification, abbreviations, lengths, locations, and connections of specific state highway routes.",
+      "context_title": "New Hampshire Route 78",
+      "page_content": "New Hampshire Route 78 is a secondary state highway. New Hampshire Route 78 is abbreviated as NH 78. New Hampshire Route 78 is located in Cheshire County. New Hampshire Route 78 is a northward extension of Massachusetts Route 78. New Hampshire Route 78 ends at New Hampshire Route 119. New Hampshire Route 78 runs from the state border to downtown Winchester. New Hampshire Route 78 is 3.456 miles long. New Hampshire Route 78 ends at New Hampshire Route 10. New Hampshire Route 78 runs entirely within the town of Winchester."
+    },
+    {
+      "chunk_id": "cf3e3114-a365-4670-bc26-a487cda3e905",
+      "chunk_title": "Interstate 85 in Virginia",
+      "chunk_summary": "This chunk contains information about the geographic route, specific segment lengths, concurrent highways, and regional significance of Interstate 85, particularly focusing on its path through Virginia.",
+      "context_title": "Interstate 85 in Virginia",
+      "page_content": "Interstate 85 is a part of the National Highway System for its entire length in Virginia. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and the Research Triangle. In Virginia, Interstate 85 runs from the North Carolina state line near Bracey north to I-95 in Petersburg. In Petersburg, Interstate 85 runs concurrently with US 460. South of South Hill, Interstate 85 intersects US 58. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and other major metropolitan areas of North Carolina. In the eastern part of Southside Virginia, Interstate 85 parallels U.S. Route 1. Interstate 85 passes through the eastern part of Southside Virginia. In Virginia, Interstate 85 runs 68.64 miles. Interstate 85 runs from Montgomery, Alabama to Petersburg, Virginia."
+    },
+    {
+      "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+      "chunk_title": "Highway Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+      "context_title": "Mooreville, Mississippi",
+      "page_content": "Mississippi Highway 178 is near Interstate 22."
+    },
+    {
+      "chunk_id": "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+      "chunk_title": "Highway Names & Systems",
+      "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of major highways.",
+      "context_title": "Interstate 85 in Virginia",
+      "page_content": "U.S. Route 1 is also known as US 1. Interstate 85 is a part of the Interstate Highway System. Interstate 85 is a mainline Interstate Highway. All mainline Interstate Highways are a part of the National Highway System. Interstate 85 is also known as I-85."
+    },
+    {
+      "chunk_id": "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+      "chunk_title": "Mooreville Location & Classification",
+      "chunk_summary": "This chunk contains information about the classification, designation, and geographic location of Mooreville, Mississippi.",
+      "context_title": "Mooreville, Mississippi",
+      "page_content": "Mooreville is approximately 4 miles west of Dorsey. Mooreville is on Mississippi Highway 178. Mooreville is located in Lee County, Mississippi. Mooreville is part of the Tupelo Micropolitan Statistical Area. Mooreville is approximately 4 miles east of Tupelo. Mooreville is a census-designated place."
+    },
+    {
+      "chunk_id": "a52cf498-b676-444d-8f6d-985ea9dd3733",
+      "chunk_title": "Place Name Origins",
+      "chunk_summary": "This chunk contains information about the origins of place names, specifically how locations are named after families or individuals.",
+      "context_title": "Mooreville, Mississippi",
+      "page_content": "Mooreville was named for the Moore family. The Moore family were the first settlers of Mooreville."
+    },
+    {
+      "chunk_id": "6245e0ba-b16b-4a49-b28f-78ce0f5b788d",
+      "chunk_title": "Interstate 99 Route Details",
+      "chunk_summary": "This chunk contains information about the route structure, geographic locations, terminal points, concurrent highways, and future extension plans of Interstate 99.",
+      "context_title": "Interstate 99",
+      "page_content": "Interstate 99 is entirely concurrent to US 220 within Pennsylvania. The planned interchange with I-68 for Interstate 99 is in Cumberland, Maryland. The southern terminus of Interstate 99 is at exit 146 of the Pennsylvania Turnpike. Interstate 99 has two segments. Long-term plans call for Interstate 99 to be extended southward along the US 220 corridor. Interstate 99 passes through Altoona. Interstate 99 (I-99) is an Interstate Highway. Exit 146 of the Pennsylvania Turnpike is north of Bedford. The New York segment of Interstate 99 runs from the Pennsylvania–New York border to an interchange with I-86. One segment of Interstate 99 is located in central Pennsylvania. Interstate 99 passes through State College. Exit 146 of the Pennsylvania Turnpike carries I-70 and I-76. Interstate 99 is in the United States. The northern terminus of the Pennsylvania segment of Interstate 99 is at I-80. The interchange with I-86 for the New York segment of Interstate 99 is in Corning. The northern terminus of the Pennsylvania segment of Interstate 99 is near Bellefonte. The New York segment of Interstate 99 follows US 15. The other segment of Interstate 99 is located in southern New York. Long-term plans call for Interstate 99 to be extended to an interchange with I-68. At the southern terminus, the road continues south as U.S. Route 220 (US 220)."
+    },
+    {
+      "chunk_id": "28ae6829-7a66-4c03-98ab-1ff0ed80e515",
+      "chunk_title": "Highway Names & Designations",
+      "chunk_summary": "This chunk contains information about the Penn–Lincoln Parkway and its various alternative highway designations.",
+      "context_title": "U.S. Route 19 Truck (Pittsburgh)",
+      "page_content": "The Penn–Lincoln Parkway is also known as US 22. The Penn–Lincoln Parkway is also known as I-376. The Penn–Lincoln Parkway is also known as US 30."
+    },
+    {
+      "chunk_id": "a4a40fb5-aa2a-4229-a63d-c2fe19b82b2e",
+      "chunk_title": "Mark Twain Memorial Bridge",
+      "chunk_summary": "This chunk contains information about the Mark Twain Memorial Bridge, including its naming origin, location in Hannibal, Missouri, details regarding the two distinct bridges (original and current) spanning the Mississippi River, and associated commemorative features.",
+      "context_title": "Mark Twain Memorial Bridge",
+      "page_content": "The current Mark Twain Memorial Bridge is north of the original Mark Twain Memorial Bridge. The current Mark Twain Memorial Bridge carries traffic for Interstate 72. The Mark Twain Memorial Bridge is the name for two bridges. There is a current bridge named the Mark Twain Memorial Bridge. The stone picture of Mark Twain is on the Missouri side of the Mark Twain Memorial Bridge. The state of Missouri has put up a stone picture of Mark Twain. The current Mark Twain Memorial Bridge was finished in 2000. The Mark Twain Memorial Bridge is named for Mark Twain. There was an original bridge named the Mark Twain Memorial Bridge. The current Mark Twain Memorial Bridge carries traffic for U.S. Highway 36. The two bridges named the Mark Twain Memorial Bridge are over the Mississippi River. The two bridges named the Mark Twain Memorial Bridge are at Hannibal, Missouri."
+    },
+    {
+      "chunk_id": "38654905-c71e-43ce-adae-a2110b7e649e",
+      "chunk_title": "Transportation Routes & Infrastructure",
+      "chunk_summary": "This chunk contains information about the major transportation routes and infrastructure traversing specific locations.",
+      "context_title": "Southaven, Mississippi",
+      "page_content": "Southaven is traversed from north to south by the I-55/I-69 freeway."
+    },
+    {
+      "chunk_id": "b8031229-a910-4d8e-9727-38f9d7b5ecbc",
+      "chunk_title": "Interstate 990 Overview",
+      "chunk_summary": "This chunk contains information about the location, direction, length, classification, route endpoints, connectivity, and unique characteristics of Interstate 990.",
+      "context_title": "Interstate 990",
+      "page_content": "Interstate 990 runs in a roughly north–south direction. Interstate 990 runs through the southwestern and central parts of Amherst. I-990 does not physically meet I-90. I-990 is the highest numbered Interstate Highway in the United States. The connection between Interstate 990 and Lockport is via NY 263 and NY 78. Interstate 990 starts from an interchange with I-290 north of Buffalo. Interstate 990 runs for 6.43 miles. I-90 is the parent Interstate Highway of I-990. Interstate 990 makes the connection to I-90 by way of a \"sibling\" highway (I-290). Interstate 990 ends at an intersection with New York State Route 263 south of Lockport. Interstate 990 is an auxiliary Interstate Highway. Interstate 990 is located entirely within the town of Amherst. Interstate 990 serves as a connection between Buffalo, the University at Buffalo, and Lockport."
+    },
+    {
+      "chunk_id": "b68412c4-84ff-4b28-b72d-4540d18abd70",
+      "chunk_title": "Speed Limits & Increases",
+      "chunk_summary": "This chunk contains information about speed increases and current speed limits at specific traffic signals, crossings, mileposts, and locations.",
+      "context_title": "Nashville Terminal Subdivision",
+      "page_content": "Speed is increased to 40 mph at milepost 00J2.2. Speed has increased at the \"Shops\" signals. Speed is at 40 mph at Mayton. Speed has increased to 30 mph from 10 mph at the Berry Road crossing. Speed is increased to 40 mph at \"Sellars\". Speed is increased to 50 mph at Brentwood."
+    },
+    {
+      "chunk_id": "44aea5b8-c45f-4f88-8bad-884397eff1c7",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of Monroe City Regional Airport, including its position relative to the central business district and its county.",
+      "context_title": "Monroe City Regional Airport",
+      "page_content": "Monroe City Regional Airport is located in Monroe County, Missouri, United States. Monroe City Regional Airport is located one nautical mile (1.85 km) south of the central business district of Monroe City."
+    },
+    {
+      "chunk_id": "2c0f219f-7773-45a7-8a96-c70a14647a47",
+      "chunk_title": "Mississippi County Seats",
+      "chunk_summary": "This chunk contains information about the unique administrative status and characteristics of county seats in Mississippi, specifically focusing on Paulding and Bay Springs in Jasper County.",
+      "context_title": "Paulding, Mississippi",
+      "page_content": "Bay Springs, Mississippi was designated the second county seat of Jasper County, Mississippi. Paulding is one of the two county seats of Jasper County, Mississippi. Paulding is the only unincorporated county seat in Mississippi."
+    },
+    {
+      "chunk_id": "ab1fff70-6a80-4471-a4db-c5e75c70cfae",
+      "chunk_title": "Geographical Hierarchy",
+      "chunk_summary": "This chunk contains information about the hierarchical geographical location of places within counties, states, and countries, as well as their adjacency relationships.",
+      "context_title": "Biloxi, Mississippi",
+      "page_content": "Gulfport adjoins Biloxi. Biloxi is in Harrison County. Biloxi is a county seat of Harrison County. Mississippi is in the United States. Gulfport is a county seat of Harrison County. Harrison County is in Mississippi."
+    },
+    {
+      "chunk_id": "f7849776-1e61-4f4b-8cea-5fcbc342504a",
+      "chunk_title": "Mississippi Locations",
+      "chunk_summary": "This chunk contains information about the locations of specific places or landmarks, particularly casinos and resorts in Mississippi.",
+      "context_title": "Corey I. Sanders",
+      "page_content": "Beau Rivage (Mississippi) is in Biloxi. Gold Strike Tunica is in Mississippi."
+    },
+    {
+      "chunk_id": "a5a6286b-a0e4-459a-a337-ad94422a2d22",
+      "chunk_title": "Community Selection & Bypasses",
+      "chunk_summary": "This chunk contains information about community selection decisions and geographic bypasses.",
+      "context_title": "Paulding, Mississippi",
+      "page_content": "The community of Paulding was bypassed in favor of Bay Springs, Mississippi."
+    },
+    {
+      "chunk_id": "78d217c7-f9ec-4119-b778-a3caaa165f7a",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location and relationship of suburbs to their parent cities.",
+      "context_title": "Memphis Hustle",
+      "page_content": "Southaven, Mississippi is a suburb of Memphis."
+    },
+    {
+      "chunk_id": "4cb434d3-3708-42d8-91b7-0c3bc2295a82",
+      "chunk_title": "Pontotoc County Overview",
+      "chunk_summary": "This chunk contains information about the location, population, county seats, creation history, and historical landmarks of Pontotoc County in Mississippi.",
+      "context_title": "Pontotoc County, Mississippi",
+      "page_content": "Pontotoc County is a county located in the U.S. state of Mississippi. As of the 2010 census, the population of Pontotoc County was 29,957. The current-day Natchez Trace Parkway passes through the southeast corner of Pontotoc County. The county seat of Pontotoc County is Pontotoc. Pontotoc County was created from lands ceded to the United States under the Chickasaw Cession. The original Natchez Trace passes through the southeast corner of Pontotoc County. Pontotoc County was created on February 9, 1836."
+    },
+    {
+      "chunk_id": "509f1464-2bd7-4dac-8d73-b7019780ec27",
+      "chunk_title": "Transportation Routes",
+      "chunk_summary": "This chunk contains information about major transportation routes and highways in specific regions.",
+      "context_title": "Interstate 85 in Virginia",
+      "page_content": "US 58 is Southside's major east–west highway."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 0.3333333333333333,
+  "retrieval_precision": 0.19230769230769232,
+  "retrieval_count": 6,
+  "total_chunks": 26,
+  "total_distinct_titles": 19,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 4,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Mooreville, Mississippi 位于哪条同时满足两个条件的 Interstate highway：(1) 该公路沿 US Route 78 走向，(2) Mooreville 位于其上",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。子节点推理链：N1_1 确定 I-22 沿 US Route 78 走向（单来源直接陈述），N1_2 得出 Mooreville 不在 I-22 上（两个来源间接推理）。推理链聚合后产生逻辑矛盾：若 I-22 是唯一沿 US Route 78 的 Interstate，而 Mooreville 不在 I-22 上，则 Q 无解。但 Q 预设存在答案，暗示可能存在其他沿 US Route 78 的 Interstate 未被覆盖。",
+          "critic_normative_advice": "建议新增节点——当前分解假设 I-22 是唯一沿 US Route 78 的 Interstate，但 N1_2 的否定答案导致推理链断裂。建议新增节点搜索 'What other Interstate highways follow or are concurrent with US Route 78?' 以排除遗漏候选。或搜索 'What Interstate highway passes through Mooreville, Mississippi?' 直接定位 Mooreville 所在的 Interstate。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which Interstate highway follows US Route 78?",
+          "answer": "Interstate 22",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which Interstate highway follows US Route 78?",
+          "planner_rationale": "Q 的核心约束之一是目标 Interstate highway 沿 US Route 78 走向。需要先确定哪条 Interstate 与 US Route 78 并行/重合，这是缩小候选范围的关键事实",
+          "solver_judgment": "question 要求找出哪条州际公路（Interstate highway）沿 US Route 78 走廊行驶。search_query 直接搜索了该问题。chunks 返回了 Interstate 22 的概述，其中 chunk 55b5e6ee-efe5-4663-90a3-5e0eeb303855 明确记载 'Interstate 22 follows the U.S. Route 78 corridor.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Interstate 22 文档），单来源但直接、具体地陈述了答案。chunk 55b5e6ee 原文明确记载 'Interstate 22 follows the U.S. Route 78 corridor.'，与声称答案 'Interstate 22' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，下轮可直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "55b5e6ee-efe5-4663-90a3-5e0eeb303855"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+              "chunk_title": "Highway Names & Abbreviations",
+              "chunk_summary": "This chunk contains information about the names and abbreviations of highways.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "U.S. Route 78 is also known as US 78. Interstate 22 is also known as I-22."
+            },
+            {
+              "chunk_id": "fb94dad7-c67e-4528-93ac-edefea092b0f",
+              "chunk_title": "U.S. Route 278 Overview",
+              "chunk_summary": "This chunk contains information about U.S. Route 278, including its relationship to other routes, total length, starting and ending locations, and the states and cities it passes through.",
+              "context_title": "U.S. Route 278",
+              "page_content": "U.S. Route 278 is longer than its parent highway, U.S. Route 78. U.S. Route 278 passes through Augusta, Georgia. U.S. Route 278 passes through Covington, Georgia. U.S. Route 278 passes through the state of Arkansas. U.S. Route 278 passes through the state of South Carolina. U.S. Route 278 runs to Wickes, Arkansas. U.S. Route 278 passes through Powder Springs, Georgia. U.S. Route 278 ends at U.S. Route 71/U.S. Route 59 in Wickes, Arkansas. U.S. Route 278 passes through Tupelo, Mississippi. U.S. Route 278 passes through the state of Georgia. U.S. Route 278 currently runs for 1,074 miles (1,728 km). U.S. Route 278 runs from Hilton Head Island, South Carolina. U.S. Route 278 passes through the state of Alabama. U.S. Route 278 passes through Cullman, Alabama. U.S. Route 78 is the parent highway of U.S. Route 278. U.S. Route 278 passes through the state of Mississippi. U.S. Route 278 passes through Gadsden, Alabama. U.S. Route 278 passes through Hiram, Georgia. U.S. Route 278 passes through Cedartown, Georgia. U.S. Route 278 is a parallel route of U.S. Route 78. U.S. Route 278 passes through Greenville, Mississippi. U.S. Route 278 passes through Oxford, Mississippi. U.S. Route 278 passes through Atlanta, Georgia. U.S. Route 278 passes through Dallas, Georgia. U.S. Route 278 passes through Monticello, Arkansas. U.S. Route 278 passes through Hope, Arkansas. U.S. Route 278 passes through Rockmart, Georgia."
+            },
+            {
+              "chunk_id": "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+              "chunk_title": "Interstate 22 Overview",
+              "chunk_summary": "This chunk contains information about Interstate 22, including its designation, route details, endpoints, and connections to other highways.",
+              "context_title": "Interstate 22",
+              "page_content": "Interstate 22 was designed to allow more direct connections between cities in the southeast and cities of the Great Plains. Interstate 22 was designed to close a gap in the Interstate network. Interstate 22 indirectly connects I-69 in the northwest. Interstate 22 indirectly connects I-40 in the northwest. Interstate 22 runs to Birmingham, Alabama. Interstate 22 was designated in 2012. Interstate 22 has a route length of 213 miles. Interstate 22 is an Interstate Highway. Interstate 22 indirectly connects I-59 in the southeast. Interstate 22 indirectly connects I-240 in the northwest. Interstate 22 runs from Byhalia, Mississippi. Interstate 22 is also known as I-22. Interstate 22 indirectly connects I-65 in the southeast. Interstate 22 follows the U.S. Route 78 corridor. Interstate 22 indirectly connects I-20 in the southeast. Interstate 22 indirectly connects I-55 in the northwest."
+            },
+            {
+              "chunk_id": "e644c3d3-b60d-48bc-938d-6f744c2dd776",
+              "chunk_title": "U.S. Route 78 Overview",
+              "chunk_summary": "This chunk contains comprehensive details about U.S. Route 78, including its designations, physical attributes, route path through Georgia counties, termini, and concurrent highways.",
+              "context_title": "U.S. Route 78 in Georgia",
+              "page_content": "U.S. Route 78 travels west to east. At the Alabama state line, the roadway continues concurrent with Alabama State Route 4. U.S. Route 78 is located in the U.S. state of Georgia. U.S. Route 78 is 233.3 miles long. U.S. Route 78 serves the Augusta metropolitan area. The endpoint of U.S. Route 78 at the South Carolina state line is the northern terminus of SR 121. U.S. Route 78 travels from the Alabama state line to the South Carolina state line. U.S. Route 78 travels through McDuffie County. U.S. Route 78 travels through Oconee County. The South Carolina state line endpoint of U.S. Route 78 is on the northeastern edge of Augusta. U.S. Route 78 travels through Walton County. The endpoint of U.S. Route 78 at the South Carolina state line is the southern terminus of SC 121. U.S. Route 78 serves the Atlanta metropolitan area. U.S. Route 78 starts at the Alabama state line. U.S. Route 78 travels through Richmond County. U.S. Route 78 travels through Columbia County. U.S. Route 78 travels through Douglas County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 25. At the South Carolina state line, U.S. Route 78 continues concurrent with SC 121. U.S. Route 78 travels through Cobb County. U.S. Route 78 serves the Athens metropolitan area. U.S. Route 78 is also known as US 78. The endpoint of U.S. Route 78 at the South Carolina state line is the eastern terminus of SR 10. The starting point of U.S. Route 78 is the western terminus of Georgia State Route 8. U.S. Route 78 travels through DeKalb County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 1. The starting point of U.S. Route 78 is west of Tallapoosa. U.S. Route 78 travels through Gwinnett County. The South Carolina state line endpoint of U.S. Route 78 is at the Savannah River. At the South Carolina state line, U.S. Route 78 continues concurrent with US 278. U.S. Route 78 travels through Fulton County. Georgia State Route 8 is concurrent with U.S. Route 78 to the east of the western terminus. U.S. Route 78 travels through Oglethorpe County. U.S. Route 78 travels through Haralson County. U.S. Route 78 travels in the north-central part of Georgia. U.S. Route 78 travels through Wilkes County. U.S. Route 78 travels through Carroll County. U.S. Route 78 travels through Clarke County. U.S. Route 78 is a U.S. Highway."
+            },
+            {
+              "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+              "chunk_title": "Mississippi Highway 23",
+              "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+            },
+            {
+              "chunk_id": "489bb7ca-62af-4941-be1d-c364fb6c4a9d",
+              "chunk_title": "Route Names & Designations",
+              "chunk_summary": "This chunk contains information about the names and designations of U.S. Route 78.",
+              "context_title": "Interstate 22",
+              "page_content": "U.S. Route 78 is also known as US 78."
+            },
+            {
+              "chunk_id": "23f74b17-4199-4ec9-ba29-2c16447d25ff",
+              "chunk_title": "State Highway Details",
+              "chunk_summary": "This chunk contains information about the classification, abbreviations, lengths, locations, and connections of specific state highway routes.",
+              "context_title": "New Hampshire Route 78",
+              "page_content": "New Hampshire Route 78 is a secondary state highway. New Hampshire Route 78 is abbreviated as NH 78. New Hampshire Route 78 is located in Cheshire County. New Hampshire Route 78 is a northward extension of Massachusetts Route 78. New Hampshire Route 78 ends at New Hampshire Route 119. New Hampshire Route 78 runs from the state border to downtown Winchester. New Hampshire Route 78 is 3.456 miles long. New Hampshire Route 78 ends at New Hampshire Route 10. New Hampshire Route 78 runs entirely within the town of Winchester."
+            },
+            {
+              "chunk_id": "cf3e3114-a365-4670-bc26-a487cda3e905",
+              "chunk_title": "Interstate 85 in Virginia",
+              "chunk_summary": "This chunk contains information about the geographic route, specific segment lengths, concurrent highways, and regional significance of Interstate 85, particularly focusing on its path through Virginia.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "Interstate 85 is a part of the National Highway System for its entire length in Virginia. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and the Research Triangle. In Virginia, Interstate 85 runs from the North Carolina state line near Bracey north to I-95 in Petersburg. In Petersburg, Interstate 85 runs concurrently with US 460. South of South Hill, Interstate 85 intersects US 58. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and other major metropolitan areas of North Carolina. In the eastern part of Southside Virginia, Interstate 85 parallels U.S. Route 1. Interstate 85 passes through the eastern part of Southside Virginia. In Virginia, Interstate 85 runs 68.64 miles. Interstate 85 runs from Montgomery, Alabama to Petersburg, Virginia."
+            },
+            {
+              "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+              "chunk_title": "Highway Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mississippi Highway 178 is near Interstate 22."
+            },
+            {
+              "chunk_id": "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+              "chunk_title": "Highway Names & Systems",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of major highways.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "U.S. Route 1 is also known as US 1. Interstate 85 is a part of the Interstate Highway System. Interstate 85 is a mainline Interstate Highway. All mainline Interstate Highways are a part of the National Highway System. Interstate 85 is also known as I-85."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is Mooreville, Mississippi located on that Interstate highway?",
+          "answer": "No",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Is Mooreville, Mississippi located on Interstate 22?",
+          "planner_rationale": "Q 的另一核心约束是 Mooreville, Mississippi 位于该 Interstate highway 上。在确定候选 Interstate 后，需验证 Mooreville 是否确实位于其上，以确认答案",
+          "solver_judgment": "question 询问 Mooreville, Mississippi 是否位于“那条州际公路”（结合 search_query 可知指 Interstate 22）上。search_query 直接搜索了 Mooreville 与 I-22 的位置关系。chunks 返回了关键信息：chunk d7a786b6 明确指出 'Mooreville is on Mississippi Highway 178'，而 chunk 5670ba91 补充说明 'Mississippi Highway 178 is near Interstate 22'。两者结合清晰表明 Mooreville 并不直接位于 I-22 上，而是位于与之邻近的 MS 178 上。检索精准命中了位置关系，信息完整，足以支撑否定回答。",
+          "critic_factual_notes": "2 个来源（均来自 Mooreville, Mississippi 文档），非独立（同一文档）。chunk d7a786b6 记载 'Mooreville is on Mississippi Highway 178'，chunk 5670ba91 记载 'Mississippi Highway 178 is near Interstate 22'。Solver 据此推理 Mooreville 不在 I-22 上。但证据是间接的——'on MS 178' + 'MS 178 near I-22' 并不逻辑等价于 'not on I-22'（一条路可以同时位于两条公路的交汇处）。交叉验证：不充分（同一文档的两个 chunk，且为间接推理）。",
+          "critic_normative_advice": "建议重搜——当前证据不足以支撑'No'的确定性结论。建议直接搜索 'Is Mooreville Mississippi on Interstate 22' 或 'What Interstate highway goes through Mooreville Mississippi' 获取更直接的证据。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5670ba91-64c3-4867-9e39-733fa0ed3326",
+            "d7a786b6-7866-429d-88bd-f689c8a3e9f2"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+              "chunk_title": "Highway Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mississippi Highway 178 is near Interstate 22."
+            },
+            {
+              "chunk_id": "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+              "chunk_title": "Interstate 22 Overview",
+              "chunk_summary": "This chunk contains information about Interstate 22, including its designation, route details, endpoints, and connections to other highways.",
+              "context_title": "Interstate 22",
+              "page_content": "Interstate 22 was designed to allow more direct connections between cities in the southeast and cities of the Great Plains. Interstate 22 was designed to close a gap in the Interstate network. Interstate 22 indirectly connects I-69 in the northwest. Interstate 22 indirectly connects I-40 in the northwest. Interstate 22 runs to Birmingham, Alabama. Interstate 22 was designated in 2012. Interstate 22 has a route length of 213 miles. Interstate 22 is an Interstate Highway. Interstate 22 indirectly connects I-59 in the southeast. Interstate 22 indirectly connects I-240 in the northwest. Interstate 22 runs from Byhalia, Mississippi. Interstate 22 is also known as I-22. Interstate 22 indirectly connects I-65 in the southeast. Interstate 22 follows the U.S. Route 78 corridor. Interstate 22 indirectly connects I-20 in the southeast. Interstate 22 indirectly connects I-55 in the northwest."
+            },
+            {
+              "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+              "chunk_title": "Mississippi Highway 23",
+              "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+            },
+            {
+              "chunk_id": "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+              "chunk_title": "Mooreville Location & Classification",
+              "chunk_summary": "This chunk contains information about the classification, designation, and geographic location of Mooreville, Mississippi.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mooreville is approximately 4 miles west of Dorsey. Mooreville is on Mississippi Highway 178. Mooreville is located in Lee County, Mississippi. Mooreville is part of the Tupelo Micropolitan Statistical Area. Mooreville is approximately 4 miles east of Tupelo. Mooreville is a census-designated place."
+            },
+            {
+              "chunk_id": "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+              "chunk_title": "Highway Names & Abbreviations",
+              "chunk_summary": "This chunk contains information about the names and abbreviations of highways.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "U.S. Route 78 is also known as US 78. Interstate 22 is also known as I-22."
+            },
+            {
+              "chunk_id": "a52cf498-b676-444d-8f6d-985ea9dd3733",
+              "chunk_title": "Place Name Origins",
+              "chunk_summary": "This chunk contains information about the origins of place names, specifically how locations are named after families or individuals.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mooreville was named for the Moore family. The Moore family were the first settlers of Mooreville."
+            },
+            {
+              "chunk_id": "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+              "chunk_title": "Highway Names & Systems",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of major highways.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "U.S. Route 1 is also known as US 1. Interstate 85 is a part of the Interstate Highway System. Interstate 85 is a mainline Interstate Highway. All mainline Interstate Highways are a part of the National Highway System. Interstate 85 is also known as I-85."
+            },
+            {
+              "chunk_id": "6245e0ba-b16b-4a49-b28f-78ce0f5b788d",
+              "chunk_title": "Interstate 99 Route Details",
+              "chunk_summary": "This chunk contains information about the route structure, geographic locations, terminal points, concurrent highways, and future extension plans of Interstate 99.",
+              "context_title": "Interstate 99",
+              "page_content": "Interstate 99 is entirely concurrent to US 220 within Pennsylvania. The planned interchange with I-68 for Interstate 99 is in Cumberland, Maryland. The southern terminus of Interstate 99 is at exit 146 of the Pennsylvania Turnpike. Interstate 99 has two segments. Long-term plans call for Interstate 99 to be extended southward along the US 220 corridor. Interstate 99 passes through Altoona. Interstate 99 (I-99) is an Interstate Highway. Exit 146 of the Pennsylvania Turnpike is north of Bedford. The New York segment of Interstate 99 runs from the Pennsylvania–New York border to an interchange with I-86. One segment of Interstate 99 is located in central Pennsylvania. Interstate 99 passes through State College. Exit 146 of the Pennsylvania Turnpike carries I-70 and I-76. Interstate 99 is in the United States. The northern terminus of the Pennsylvania segment of Interstate 99 is at I-80. The interchange with I-86 for the New York segment of Interstate 99 is in Corning. The northern terminus of the Pennsylvania segment of Interstate 99 is near Bellefonte. The New York segment of Interstate 99 follows US 15. The other segment of Interstate 99 is located in southern New York. Long-term plans call for Interstate 99 to be extended to an interchange with I-68. At the southern terminus, the road continues south as U.S. Route 220 (US 220)."
+            },
+            {
+              "chunk_id": "28ae6829-7a66-4c03-98ab-1ff0ed80e515",
+              "chunk_title": "Highway Names & Designations",
+              "chunk_summary": "This chunk contains information about the Penn–Lincoln Parkway and its various alternative highway designations.",
+              "context_title": "U.S. Route 19 Truck (Pittsburgh)",
+              "page_content": "The Penn–Lincoln Parkway is also known as US 22. The Penn–Lincoln Parkway is also known as I-376. The Penn–Lincoln Parkway is also known as US 30."
+            },
+            {
+              "chunk_id": "a4a40fb5-aa2a-4229-a63d-c2fe19b82b2e",
+              "chunk_title": "Mark Twain Memorial Bridge",
+              "chunk_summary": "This chunk contains information about the Mark Twain Memorial Bridge, including its naming origin, location in Hannibal, Missouri, details regarding the two distinct bridges (original and current) spanning the Mississippi River, and associated commemorative features.",
+              "context_title": "Mark Twain Memorial Bridge",
+              "page_content": "The current Mark Twain Memorial Bridge is north of the original Mark Twain Memorial Bridge. The current Mark Twain Memorial Bridge carries traffic for Interstate 72. The Mark Twain Memorial Bridge is the name for two bridges. There is a current bridge named the Mark Twain Memorial Bridge. The stone picture of Mark Twain is on the Missouri side of the Mark Twain Memorial Bridge. The state of Missouri has put up a stone picture of Mark Twain. The current Mark Twain Memorial Bridge was finished in 2000. The Mark Twain Memorial Bridge is named for Mark Twain. There was an original bridge named the Mark Twain Memorial Bridge. The current Mark Twain Memorial Bridge carries traffic for U.S. Highway 36. The two bridges named the Mark Twain Memorial Bridge are over the Mississippi River. The two bridges named the Mark Twain Memorial Bridge are at Hannibal, Missouri."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Mooreville, Mississippi 位于哪条同时满足两个条件的 Interstate highway：(1) 该公路沿 US Route 78 走向，(2) Mooreville 位于其上",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。子节点状态：N1_1 确定 I-22 沿 US Route 78 走向（单来源直接陈述，healthy）；N1_2 声称答案为 Interstate 22，但未执行搜索，标注为'从已知事实推理得出'，推理依据仅列出'Interstate 22'（即 N1_1 的 answer）。推理链存在断裂：N1_1 的 answer（I-22 沿 US Route 78）无法逻辑推导出'Mooreville 位于 I-22 上'这一结论。子节点推理链不完整，无法支撑 ROOT 的答案合成。",
+          "critic_normative_advice": "建议修正 N1_2 的求解方式——N1_2 的 question 是事实查询型（'What Interstate highway passes through Mooreville, Mississippi?'），不应由推理得出，必须执行搜索获取直接证据。建议 Solver 对 N1_2 执行搜索查询 'Interstate highway Mooreville Mississippi' 或 'What Interstate goes through Mooreville MS'，获取 Mooreville 所在 Interstate 的直接陈述。当前推理链 N1_1→N1_2 语义不成立，N1_1 的 answer 无法消解 N1_2 的 question。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which Interstate highway follows US Route 78?",
+          "answer": "Interstate 22",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which Interstate highway follows US Route 78?",
+          "planner_rationale": "Q 的核心约束之一：确定沿 US Route 78 走向的 Interstate。N1_1 已 SOLVED + healthy，证据直接明确（'Interstate 22 follows the U.S. Route 78 corridor'），本轮保留",
+          "solver_judgment": "question 要求找出哪条州际公路（Interstate highway）沿 US Route 78 走廊行驶。search_query 直接搜索了该问题。chunks 返回了 Interstate 22 的概述，其中 chunk 55b5e6ee-efe5-4663-90a3-5e0eeb303855 明确记载 'Interstate 22 follows the U.S. Route 78 corridor.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Interstate 22 文档），单来源但直接、具体地陈述了答案。chunk 55b5e6ee-efe5-4663-90a3-5e0eeb303855 原文明确记载 'Interstate 22 follows the U.S. Route 78 corridor.'，与声称答案 'Interstate 22' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，下轮可直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "55b5e6ee-efe5-4663-90a3-5e0eeb303855"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+              "chunk_title": "Highway Names & Abbreviations",
+              "chunk_summary": "This chunk contains information about the names and abbreviations of highways.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "U.S. Route 78 is also known as US 78. Interstate 22 is also known as I-22."
+            },
+            {
+              "chunk_id": "fb94dad7-c67e-4528-93ac-edefea092b0f",
+              "chunk_title": "U.S. Route 278 Overview",
+              "chunk_summary": "This chunk contains information about U.S. Route 278, including its relationship to other routes, total length, starting and ending locations, and the states and cities it passes through.",
+              "context_title": "U.S. Route 278",
+              "page_content": "U.S. Route 278 is longer than its parent highway, U.S. Route 78. U.S. Route 278 passes through Augusta, Georgia. U.S. Route 278 passes through Covington, Georgia. U.S. Route 278 passes through the state of Arkansas. U.S. Route 278 passes through the state of South Carolina. U.S. Route 278 runs to Wickes, Arkansas. U.S. Route 278 passes through Powder Springs, Georgia. U.S. Route 278 ends at U.S. Route 71/U.S. Route 59 in Wickes, Arkansas. U.S. Route 278 passes through Tupelo, Mississippi. U.S. Route 278 passes through the state of Georgia. U.S. Route 278 currently runs for 1,074 miles (1,728 km). U.S. Route 278 runs from Hilton Head Island, South Carolina. U.S. Route 278 passes through the state of Alabama. U.S. Route 278 passes through Cullman, Alabama. U.S. Route 78 is the parent highway of U.S. Route 278. U.S. Route 278 passes through the state of Mississippi. U.S. Route 278 passes through Gadsden, Alabama. U.S. Route 278 passes through Hiram, Georgia. U.S. Route 278 passes through Cedartown, Georgia. U.S. Route 278 is a parallel route of U.S. Route 78. U.S. Route 278 passes through Greenville, Mississippi. U.S. Route 278 passes through Oxford, Mississippi. U.S. Route 278 passes through Atlanta, Georgia. U.S. Route 278 passes through Dallas, Georgia. U.S. Route 278 passes through Monticello, Arkansas. U.S. Route 278 passes through Hope, Arkansas. U.S. Route 278 passes through Rockmart, Georgia."
+            },
+            {
+              "chunk_id": "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+              "chunk_title": "Interstate 22 Overview",
+              "chunk_summary": "This chunk contains information about Interstate 22, including its designation, route details, endpoints, and connections to other highways.",
+              "context_title": "Interstate 22",
+              "page_content": "Interstate 22 was designed to allow more direct connections between cities in the southeast and cities of the Great Plains. Interstate 22 was designed to close a gap in the Interstate network. Interstate 22 indirectly connects I-69 in the northwest. Interstate 22 indirectly connects I-40 in the northwest. Interstate 22 runs to Birmingham, Alabama. Interstate 22 was designated in 2012. Interstate 22 has a route length of 213 miles. Interstate 22 is an Interstate Highway. Interstate 22 indirectly connects I-59 in the southeast. Interstate 22 indirectly connects I-240 in the northwest. Interstate 22 runs from Byhalia, Mississippi. Interstate 22 is also known as I-22. Interstate 22 indirectly connects I-65 in the southeast. Interstate 22 follows the U.S. Route 78 corridor. Interstate 22 indirectly connects I-20 in the southeast. Interstate 22 indirectly connects I-55 in the northwest."
+            },
+            {
+              "chunk_id": "e644c3d3-b60d-48bc-938d-6f744c2dd776",
+              "chunk_title": "U.S. Route 78 Overview",
+              "chunk_summary": "This chunk contains comprehensive details about U.S. Route 78, including its designations, physical attributes, route path through Georgia counties, termini, and concurrent highways.",
+              "context_title": "U.S. Route 78 in Georgia",
+              "page_content": "U.S. Route 78 travels west to east. At the Alabama state line, the roadway continues concurrent with Alabama State Route 4. U.S. Route 78 is located in the U.S. state of Georgia. U.S. Route 78 is 233.3 miles long. U.S. Route 78 serves the Augusta metropolitan area. The endpoint of U.S. Route 78 at the South Carolina state line is the northern terminus of SR 121. U.S. Route 78 travels from the Alabama state line to the South Carolina state line. U.S. Route 78 travels through McDuffie County. U.S. Route 78 travels through Oconee County. The South Carolina state line endpoint of U.S. Route 78 is on the northeastern edge of Augusta. U.S. Route 78 travels through Walton County. The endpoint of U.S. Route 78 at the South Carolina state line is the southern terminus of SC 121. U.S. Route 78 serves the Atlanta metropolitan area. U.S. Route 78 starts at the Alabama state line. U.S. Route 78 travels through Richmond County. U.S. Route 78 travels through Columbia County. U.S. Route 78 travels through Douglas County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 25. At the South Carolina state line, U.S. Route 78 continues concurrent with SC 121. U.S. Route 78 travels through Cobb County. U.S. Route 78 serves the Athens metropolitan area. U.S. Route 78 is also known as US 78. The endpoint of U.S. Route 78 at the South Carolina state line is the eastern terminus of SR 10. The starting point of U.S. Route 78 is the western terminus of Georgia State Route 8. U.S. Route 78 travels through DeKalb County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 1. The starting point of U.S. Route 78 is west of Tallapoosa. U.S. Route 78 travels through Gwinnett County. The South Carolina state line endpoint of U.S. Route 78 is at the Savannah River. At the South Carolina state line, U.S. Route 78 continues concurrent with US 278. U.S. Route 78 travels through Fulton County. Georgia State Route 8 is concurrent with U.S. Route 78 to the east of the western terminus. U.S. Route 78 travels through Oglethorpe County. U.S. Route 78 travels through Haralson County. U.S. Route 78 travels in the north-central part of Georgia. U.S. Route 78 travels through Wilkes County. U.S. Route 78 travels through Carroll County. U.S. Route 78 travels through Clarke County. U.S. Route 78 is a U.S. Highway."
+            },
+            {
+              "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+              "chunk_title": "Mississippi Highway 23",
+              "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+            },
+            {
+              "chunk_id": "489bb7ca-62af-4941-be1d-c364fb6c4a9d",
+              "chunk_title": "Route Names & Designations",
+              "chunk_summary": "This chunk contains information about the names and designations of U.S. Route 78.",
+              "context_title": "Interstate 22",
+              "page_content": "U.S. Route 78 is also known as US 78."
+            },
+            {
+              "chunk_id": "23f74b17-4199-4ec9-ba29-2c16447d25ff",
+              "chunk_title": "State Highway Details",
+              "chunk_summary": "This chunk contains information about the classification, abbreviations, lengths, locations, and connections of specific state highway routes.",
+              "context_title": "New Hampshire Route 78",
+              "page_content": "New Hampshire Route 78 is a secondary state highway. New Hampshire Route 78 is abbreviated as NH 78. New Hampshire Route 78 is located in Cheshire County. New Hampshire Route 78 is a northward extension of Massachusetts Route 78. New Hampshire Route 78 ends at New Hampshire Route 119. New Hampshire Route 78 runs from the state border to downtown Winchester. New Hampshire Route 78 is 3.456 miles long. New Hampshire Route 78 ends at New Hampshire Route 10. New Hampshire Route 78 runs entirely within the town of Winchester."
+            },
+            {
+              "chunk_id": "cf3e3114-a365-4670-bc26-a487cda3e905",
+              "chunk_title": "Interstate 85 in Virginia",
+              "chunk_summary": "This chunk contains information about the geographic route, specific segment lengths, concurrent highways, and regional significance of Interstate 85, particularly focusing on its path through Virginia.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "Interstate 85 is a part of the National Highway System for its entire length in Virginia. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and the Research Triangle. In Virginia, Interstate 85 runs from the North Carolina state line near Bracey north to I-95 in Petersburg. In Petersburg, Interstate 85 runs concurrently with US 460. South of South Hill, Interstate 85 intersects US 58. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and other major metropolitan areas of North Carolina. In the eastern part of Southside Virginia, Interstate 85 parallels U.S. Route 1. Interstate 85 passes through the eastern part of Southside Virginia. In Virginia, Interstate 85 runs 68.64 miles. Interstate 85 runs from Montgomery, Alabama to Petersburg, Virginia."
+            },
+            {
+              "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+              "chunk_title": "Highway Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mississippi Highway 178 is near Interstate 22."
+            },
+            {
+              "chunk_id": "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+              "chunk_title": "Highway Names & Systems",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of major highways.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "U.S. Route 1 is also known as US 1. Interstate 85 is a part of the Interstate Highway System. Interstate 85 is a mainline Interstate Highway. All mainline Interstate Highways are a part of the National Highway System. Interstate 85 is also known as I-85."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What Interstate highway passes through or is located in Mooreville, Mississippi?",
+          "answer": "Interstate 22",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "上一轮 N1_2 的 question（'Is Mooreville on that Interstate?'）导致搜索返回间接证据（'on MS 178' + 'MS 178 near I-22'），不足以支撑确定性结论。Critic 指出关键缺口：缺少对 Mooreville 所在 Interstate 的直接搜索。换为直接询问 Mooreville 位于哪条 Interstate 上，可获取更明确的证据，同时与 N1_1 的结果（I-22）取交集以回答 Q",
+          "solver_judgment": "从已知事实推理得出，未执行搜索",
+          "critic_factual_notes": "无独立来源——标注为'从已知事实推理得出'，未执行搜索。推理依据仅列出'Interstate 22'（N1_1 的 answer）。但 N1_1 的 answer（I-22 沿 US Route 78）与 N1_2 的 question（Mooreville 位于哪条 Interstate）之间无逻辑推导关系——知道某条公路沿 US Route 78 走向，不能推出 Mooreville 位于该公路上。声称答案 'Interstate 22' 无任何检索结果支撑，属于无证据断言。上轮搜索曾返回间接证据（Mooreville on MS 178, MS 178 near I-22），但本轮未重新搜索。",
+          "critic_normative_advice": "建议重搜——N1_2 是事实查询型问题，必须由搜索获取直接证据，不能由推理得出。当前声称答案 'Interstate 22' 无任何 chunk 支撑。建议执行搜索查询 'Interstate highway Mooreville Mississippi' 或 'What Interstate passes through Mooreville MS'，获取 Mooreville 所在 Interstate 的直接陈述。若搜索结果显示 Mooreville 不在 I-22 上，则需考虑是否存在其他沿 US Route 78 的 Interstate（如 I-40 等）作为候选。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Mooreville, Mississippi 位于哪条同时满足两个条件的 Interstate highway：(1) 该公路沿 US Route 78 走向，(2) Mooreville 位于其上。需等待两个子分支 N1_1 和 N1_2 均获得可靠证据后，在 ROOT 层进行答案交集合成",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。子节点状态：N1_1 已 SOLVED，确定 I-22 沿 US Route 78 走向（单来源直接陈述，healthy）；N1_2 为 UNSOLVED，搜索返回 10 个 chunk 但 Solver 判断无任何 chunk 明确指出有 Interstate highway 穿过 Mooreville，仅找到 Mooreville 位于 MS Highway 178 上且 MS 178 靠近 I-22 的邻近关系证据。推理链不完整——N1_1 的 answer 已确定，但 N1_2 无 answer 可聚合，ROOT 层无法完成交集合成。",
+          "critic_normative_advice": "建议修正 N1_2 的搜索策略——当前查询 'What Interstate highway passes through or is located in Mooreville, Mississippi?' 返回的结果仅显示邻近关系（MS 178 near I-22），未提供直接陈述。建议尝试更精确的查询如 'Mooreville Mississippi Interstate 22' 或 'does Interstate 22 go through Mooreville MS'，以验证 I-22 是否确实经过 Mooreville。若 KB 确实无直接覆盖，可考虑接受'邻近关系'作为间接证据，但需明确标注证据等级。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which Interstate highway follows US Route 78?",
+          "answer": "Interstate 22",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which Interstate highway follows US Route 78?",
+          "planner_rationale": "Q 的核心约束之一：确定沿 US Route 78 走向的 Interstate。N1_1 已 SOLVED + healthy，证据直接明确（'Interstate 22 follows the U.S. Route 78 corridor'），本轮保留",
+          "solver_judgment": "question 要求找出哪条州际公路（Interstate highway）沿 US Route 78 走廊行驶。search_query 直接搜索了该问题。chunks 返回了 Interstate 22 的概述，其中 chunk 55b5e6ee-efe5-4663-90a3-5e0eeb303855 明确记载 'Interstate 22 follows the U.S. Route 78 corridor.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（Interstate 22 文档，chunk 55b5e6ee-efe5-4663-90a3-5e0eeb303855），单来源但直接、具体地陈述了答案。chunk 原文明确记载 'Interstate 22 follows the U.S. Route 78 corridor.'，与声称答案 'Interstate 22' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体，足以支撑答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，下轮可直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "55b5e6ee-efe5-4663-90a3-5e0eeb303855"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+              "chunk_title": "Highway Names & Abbreviations",
+              "chunk_summary": "This chunk contains information about the names and abbreviations of highways.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "U.S. Route 78 is also known as US 78. Interstate 22 is also known as I-22."
+            },
+            {
+              "chunk_id": "fb94dad7-c67e-4528-93ac-edefea092b0f",
+              "chunk_title": "U.S. Route 278 Overview",
+              "chunk_summary": "This chunk contains information about U.S. Route 278, including its relationship to other routes, total length, starting and ending locations, and the states and cities it passes through.",
+              "context_title": "U.S. Route 278",
+              "page_content": "U.S. Route 278 is longer than its parent highway, U.S. Route 78. U.S. Route 278 passes through Augusta, Georgia. U.S. Route 278 passes through Covington, Georgia. U.S. Route 278 passes through the state of Arkansas. U.S. Route 278 passes through the state of South Carolina. U.S. Route 278 runs to Wickes, Arkansas. U.S. Route 278 passes through Powder Springs, Georgia. U.S. Route 278 ends at U.S. Route 71/U.S. Route 59 in Wickes, Arkansas. U.S. Route 278 passes through Tupelo, Mississippi. U.S. Route 278 passes through the state of Georgia. U.S. Route 278 currently runs for 1,074 miles (1,728 km). U.S. Route 278 runs from Hilton Head Island, South Carolina. U.S. Route 278 passes through the state of Alabama. U.S. Route 278 passes through Cullman, Alabama. U.S. Route 78 is the parent highway of U.S. Route 278. U.S. Route 278 passes through the state of Mississippi. U.S. Route 278 passes through Gadsden, Alabama. U.S. Route 278 passes through Hiram, Georgia. U.S. Route 278 passes through Cedartown, Georgia. U.S. Route 278 is a parallel route of U.S. Route 78. U.S. Route 278 passes through Greenville, Mississippi. U.S. Route 278 passes through Oxford, Mississippi. U.S. Route 278 passes through Atlanta, Georgia. U.S. Route 278 passes through Dallas, Georgia. U.S. Route 278 passes through Monticello, Arkansas. U.S. Route 278 passes through Hope, Arkansas. U.S. Route 278 passes through Rockmart, Georgia."
+            },
+            {
+              "chunk_id": "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+              "chunk_title": "Interstate 22 Overview",
+              "chunk_summary": "This chunk contains information about Interstate 22, including its designation, route details, endpoints, and connections to other highways.",
+              "context_title": "Interstate 22",
+              "page_content": "Interstate 22 was designed to allow more direct connections between cities in the southeast and cities of the Great Plains. Interstate 22 was designed to close a gap in the Interstate network. Interstate 22 indirectly connects I-69 in the northwest. Interstate 22 indirectly connects I-40 in the northwest. Interstate 22 runs to Birmingham, Alabama. Interstate 22 was designated in 2012. Interstate 22 has a route length of 213 miles. Interstate 22 is an Interstate Highway. Interstate 22 indirectly connects I-59 in the southeast. Interstate 22 indirectly connects I-240 in the northwest. Interstate 22 runs from Byhalia, Mississippi. Interstate 22 is also known as I-22. Interstate 22 indirectly connects I-65 in the southeast. Interstate 22 follows the U.S. Route 78 corridor. Interstate 22 indirectly connects I-20 in the southeast. Interstate 22 indirectly connects I-55 in the northwest."
+            },
+            {
+              "chunk_id": "e644c3d3-b60d-48bc-938d-6f744c2dd776",
+              "chunk_title": "U.S. Route 78 Overview",
+              "chunk_summary": "This chunk contains comprehensive details about U.S. Route 78, including its designations, physical attributes, route path through Georgia counties, termini, and concurrent highways.",
+              "context_title": "U.S. Route 78 in Georgia",
+              "page_content": "U.S. Route 78 travels west to east. At the Alabama state line, the roadway continues concurrent with Alabama State Route 4. U.S. Route 78 is located in the U.S. state of Georgia. U.S. Route 78 is 233.3 miles long. U.S. Route 78 serves the Augusta metropolitan area. The endpoint of U.S. Route 78 at the South Carolina state line is the northern terminus of SR 121. U.S. Route 78 travels from the Alabama state line to the South Carolina state line. U.S. Route 78 travels through McDuffie County. U.S. Route 78 travels through Oconee County. The South Carolina state line endpoint of U.S. Route 78 is on the northeastern edge of Augusta. U.S. Route 78 travels through Walton County. The endpoint of U.S. Route 78 at the South Carolina state line is the southern terminus of SC 121. U.S. Route 78 serves the Atlanta metropolitan area. U.S. Route 78 starts at the Alabama state line. U.S. Route 78 travels through Richmond County. U.S. Route 78 travels through Columbia County. U.S. Route 78 travels through Douglas County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 25. At the South Carolina state line, U.S. Route 78 continues concurrent with SC 121. U.S. Route 78 travels through Cobb County. U.S. Route 78 serves the Athens metropolitan area. U.S. Route 78 is also known as US 78. The endpoint of U.S. Route 78 at the South Carolina state line is the eastern terminus of SR 10. The starting point of U.S. Route 78 is the western terminus of Georgia State Route 8. U.S. Route 78 travels through DeKalb County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 1. The starting point of U.S. Route 78 is west of Tallapoosa. U.S. Route 78 travels through Gwinnett County. The South Carolina state line endpoint of U.S. Route 78 is at the Savannah River. At the South Carolina state line, U.S. Route 78 continues concurrent with US 278. U.S. Route 78 travels through Fulton County. Georgia State Route 8 is concurrent with U.S. Route 78 to the east of the western terminus. U.S. Route 78 travels through Oglethorpe County. U.S. Route 78 travels through Haralson County. U.S. Route 78 travels in the north-central part of Georgia. U.S. Route 78 travels through Wilkes County. U.S. Route 78 travels through Carroll County. U.S. Route 78 travels through Clarke County. U.S. Route 78 is a U.S. Highway."
+            },
+            {
+              "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+              "chunk_title": "Mississippi Highway 23",
+              "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+            },
+            {
+              "chunk_id": "489bb7ca-62af-4941-be1d-c364fb6c4a9d",
+              "chunk_title": "Route Names & Designations",
+              "chunk_summary": "This chunk contains information about the names and designations of U.S. Route 78.",
+              "context_title": "Interstate 22",
+              "page_content": "U.S. Route 78 is also known as US 78."
+            },
+            {
+              "chunk_id": "23f74b17-4199-4ec9-ba29-2c16447d25ff",
+              "chunk_title": "State Highway Details",
+              "chunk_summary": "This chunk contains information about the classification, abbreviations, lengths, locations, and connections of specific state highway routes.",
+              "context_title": "New Hampshire Route 78",
+              "page_content": "New Hampshire Route 78 is a secondary state highway. New Hampshire Route 78 is abbreviated as NH 78. New Hampshire Route 78 is located in Cheshire County. New Hampshire Route 78 is a northward extension of Massachusetts Route 78. New Hampshire Route 78 ends at New Hampshire Route 119. New Hampshire Route 78 runs from the state border to downtown Winchester. New Hampshire Route 78 is 3.456 miles long. New Hampshire Route 78 ends at New Hampshire Route 10. New Hampshire Route 78 runs entirely within the town of Winchester."
+            },
+            {
+              "chunk_id": "cf3e3114-a365-4670-bc26-a487cda3e905",
+              "chunk_title": "Interstate 85 in Virginia",
+              "chunk_summary": "This chunk contains information about the geographic route, specific segment lengths, concurrent highways, and regional significance of Interstate 85, particularly focusing on its path through Virginia.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "Interstate 85 is a part of the National Highway System for its entire length in Virginia. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and the Research Triangle. In Virginia, Interstate 85 runs from the North Carolina state line near Bracey north to I-95 in Petersburg. In Petersburg, Interstate 85 runs concurrently with US 460. South of South Hill, Interstate 85 intersects US 58. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and other major metropolitan areas of North Carolina. In the eastern part of Southside Virginia, Interstate 85 parallels U.S. Route 1. Interstate 85 passes through the eastern part of Southside Virginia. In Virginia, Interstate 85 runs 68.64 miles. Interstate 85 runs from Montgomery, Alabama to Petersburg, Virginia."
+            },
+            {
+              "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+              "chunk_title": "Highway Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mississippi Highway 178 is near Interstate 22."
+            },
+            {
+              "chunk_id": "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+              "chunk_title": "Highway Names & Systems",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of major highways.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "U.S. Route 1 is also known as US 1. Interstate 85 is a part of the Interstate Highway System. Interstate 85 is a mainline Interstate Highway. All mainline Interstate Highways are a part of the National Highway System. Interstate 85 is also known as I-85."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What Interstate highway passes through or is located in Mooreville, Mississippi?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "What Interstate highway passes through or is located in Mooreville, Mississippi?",
+          "planner_rationale": "Q 的另一核心约束：确定 Mooreville 位于哪条 Interstate 上。上一轮此节点被错误标记为'推理得出'而未执行实际搜索，导致声称答案无任何证据支撑。保留同一 question 方向（直接询问 Mooreville 所在的 Interstate），但重置为 UNSOLVED 以触发真正的搜索，获取直接证据",
+          "solver_judgment": "question 要求找出穿过或位于 Mooreville, Mississippi 的 Interstate highway。search_query 搜索了相同内容。chunks 返回了 Mooreville 位于 Mississippi Highway 178 上（chunk d7a786b6），且 MS 178 靠近 Interstate 22（chunk 5670ba91）。但没有任何 chunk 明确指出有 Interstate highway 实际穿过或位于 Mooreville 境内。检索结果仅提供了邻近关系，未提供目标信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk（7 个独立来源），但 Solver 判断无任何 chunk 直接回答'Mooreville 位于哪条 Interstate 上'。检索结果中：chunk d7a786b6 记载 Mooreville 位于 Mississippi Highway 178 上；chunk 5670ba91 记载 MS 178 靠近 Interstate 22。这些是间接/邻近关系证据，非直接陈述。声称答案为'(未找到)'，与搜索结果一致——确实未提取到直接答案。有提示性证据（MS 178 near I-22）但不充分，无法直接确认 I-22 穿过 Mooreville。",
+          "critic_normative_advice": "建议换搜索方向——当前查询返回的是州级公路（MS 178）而非 Interstate，且仅有邻近关系。建议尝试：(1) 直接查询 'Mooreville Mississippi Interstate 22' 验证 I-22 是否经过该地；(2) 查询 'Interstate 22 route Mississippi cities' 获取 I-22 途经城市列表，检查是否包含 Mooreville；(3) 若 KB 确实无直接覆盖，可考虑将 MS 178→I-22 的邻近关系作为间接证据，但需降低置信度。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+              "chunk_title": "Mooreville Location & Classification",
+              "chunk_summary": "This chunk contains information about the classification, designation, and geographic location of Mooreville, Mississippi.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mooreville is approximately 4 miles west of Dorsey. Mooreville is on Mississippi Highway 178. Mooreville is located in Lee County, Mississippi. Mooreville is part of the Tupelo Micropolitan Statistical Area. Mooreville is approximately 4 miles east of Tupelo. Mooreville is a census-designated place."
+            },
+            {
+              "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+              "chunk_title": "Highway Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mississippi Highway 178 is near Interstate 22."
+            },
+            {
+              "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+              "chunk_title": "Mississippi Highway 23",
+              "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+            },
+            {
+              "chunk_id": "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+              "chunk_title": "Interstate 22 Overview",
+              "chunk_summary": "This chunk contains information about Interstate 22, including its designation, route details, endpoints, and connections to other highways.",
+              "context_title": "Interstate 22",
+              "page_content": "Interstate 22 was designed to allow more direct connections between cities in the southeast and cities of the Great Plains. Interstate 22 was designed to close a gap in the Interstate network. Interstate 22 indirectly connects I-69 in the northwest. Interstate 22 indirectly connects I-40 in the northwest. Interstate 22 runs to Birmingham, Alabama. Interstate 22 was designated in 2012. Interstate 22 has a route length of 213 miles. Interstate 22 is an Interstate Highway. Interstate 22 indirectly connects I-59 in the southeast. Interstate 22 indirectly connects I-240 in the northwest. Interstate 22 runs from Byhalia, Mississippi. Interstate 22 is also known as I-22. Interstate 22 indirectly connects I-65 in the southeast. Interstate 22 follows the U.S. Route 78 corridor. Interstate 22 indirectly connects I-20 in the southeast. Interstate 22 indirectly connects I-55 in the northwest."
+            },
+            {
+              "chunk_id": "a4a40fb5-aa2a-4229-a63d-c2fe19b82b2e",
+              "chunk_title": "Mark Twain Memorial Bridge",
+              "chunk_summary": "This chunk contains information about the Mark Twain Memorial Bridge, including its naming origin, location in Hannibal, Missouri, details regarding the two distinct bridges (original and current) spanning the Mississippi River, and associated commemorative features.",
+              "context_title": "Mark Twain Memorial Bridge",
+              "page_content": "The current Mark Twain Memorial Bridge is north of the original Mark Twain Memorial Bridge. The current Mark Twain Memorial Bridge carries traffic for Interstate 72. The Mark Twain Memorial Bridge is the name for two bridges. There is a current bridge named the Mark Twain Memorial Bridge. The stone picture of Mark Twain is on the Missouri side of the Mark Twain Memorial Bridge. The state of Missouri has put up a stone picture of Mark Twain. The current Mark Twain Memorial Bridge was finished in 2000. The Mark Twain Memorial Bridge is named for Mark Twain. There was an original bridge named the Mark Twain Memorial Bridge. The current Mark Twain Memorial Bridge carries traffic for U.S. Highway 36. The two bridges named the Mark Twain Memorial Bridge are over the Mississippi River. The two bridges named the Mark Twain Memorial Bridge are at Hannibal, Missouri."
+            },
+            {
+              "chunk_id": "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+              "chunk_title": "Highway Names & Systems",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of major highways.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "U.S. Route 1 is also known as US 1. Interstate 85 is a part of the Interstate Highway System. Interstate 85 is a mainline Interstate Highway. All mainline Interstate Highways are a part of the National Highway System. Interstate 85 is also known as I-85."
+            },
+            {
+              "chunk_id": "a52cf498-b676-444d-8f6d-985ea9dd3733",
+              "chunk_title": "Place Name Origins",
+              "chunk_summary": "This chunk contains information about the origins of place names, specifically how locations are named after families or individuals.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mooreville was named for the Moore family. The Moore family were the first settlers of Mooreville."
+            },
+            {
+              "chunk_id": "cf3e3114-a365-4670-bc26-a487cda3e905",
+              "chunk_title": "Interstate 85 in Virginia",
+              "chunk_summary": "This chunk contains information about the geographic route, specific segment lengths, concurrent highways, and regional significance of Interstate 85, particularly focusing on its path through Virginia.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "Interstate 85 is a part of the National Highway System for its entire length in Virginia. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and the Research Triangle. In Virginia, Interstate 85 runs from the North Carolina state line near Bracey north to I-95 in Petersburg. In Petersburg, Interstate 85 runs concurrently with US 460. South of South Hill, Interstate 85 intersects US 58. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and other major metropolitan areas of North Carolina. In the eastern part of Southside Virginia, Interstate 85 parallels U.S. Route 1. Interstate 85 passes through the eastern part of Southside Virginia. In Virginia, Interstate 85 runs 68.64 miles. Interstate 85 runs from Montgomery, Alabama to Petersburg, Virginia."
+            },
+            {
+              "chunk_id": "38654905-c71e-43ce-adae-a2110b7e649e",
+              "chunk_title": "Transportation Routes & Infrastructure",
+              "chunk_summary": "This chunk contains information about the major transportation routes and infrastructure traversing specific locations.",
+              "context_title": "Southaven, Mississippi",
+              "page_content": "Southaven is traversed from north to south by the I-55/I-69 freeway."
+            },
+            {
+              "chunk_id": "b8031229-a910-4d8e-9727-38f9d7b5ecbc",
+              "chunk_title": "Interstate 990 Overview",
+              "chunk_summary": "This chunk contains information about the location, direction, length, classification, route endpoints, connectivity, and unique characteristics of Interstate 990.",
+              "context_title": "Interstate 990",
+              "page_content": "Interstate 990 runs in a roughly north–south direction. Interstate 990 runs through the southwestern and central parts of Amherst. I-990 does not physically meet I-90. I-990 is the highest numbered Interstate Highway in the United States. The connection between Interstate 990 and Lockport is via NY 263 and NY 78. Interstate 990 starts from an interchange with I-290 north of Buffalo. Interstate 990 runs for 6.43 miles. I-90 is the parent Interstate Highway of I-990. Interstate 990 makes the connection to I-90 by way of a \"sibling\" highway (I-290). Interstate 990 ends at an intersection with New York State Route 263 south of Lockport. Interstate 990 is an auxiliary Interstate Highway. Interstate 990 is located entirely within the town of Amherst. Interstate 990 serves as a connection between Buffalo, the University at Buffalo, and Lockport."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Mooreville, Mississippi 位于哪条同时满足两个条件的 Interstate highway：(1) 该公路沿 US Route 78 走向，(2) Mooreville 位于其上。N1_1 已 SOLVED 确定 I-22 沿 US 78，N1_2 需验证 I-22 是否经过 Mooreville，两者交集即为答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。子节点状态：N1_1 已 SOLVED，确定 I-22 沿 US Route 78 走向（单来源直接陈述，healthy）；N1_2 为 UNSOLVED，搜索返回 10 个 chunk 但 Solver 判断无任何 chunk 明确指出有 Interstate highway 穿过 Mooreville，仅找到 Mooreville 位于 MS Highway 178 上且 MS 178 靠近 I-22 的邻近关系证据。推理链不完整——N1_1 的 answer 已确定，但 N1_2 无 answer 可聚合，ROOT 层无法完成交集合成。",
+          "critic_normative_advice": "建议修正 N1_2 的搜索策略——当前查询 'Does Interstate 22 pass through Mooreville, Mississippi?' 返回的结果仅显示邻近关系（MS 178 near I-22），未提供直接陈述。建议尝试两个方向：(1) 从 I-22 侧搜索——查询 'Interstate 22 route cities Mississippi' 或 'Interstate 22 passes through which cities'，查看 I-22 的路线描述是否列出 Mooreville；(2) 从 Mooreville 侧搜索——查询 'Mooreville Mississippi highways' 或 'Mooreville MS located on which highway'，查看 Mooreville 的条目是否提及 I-22。若 KB 确实无直接覆盖，可考虑接受'邻近关系'作为间接证据，但需明确标注证据等级。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which Interstate highway follows US Route 78?",
+          "answer": "Interstate 22",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which Interstate highway follows US Route 78?",
+          "planner_rationale": "Q 的核心约束之一：确定沿 US Route 78 走向的 Interstate。N1_1 已 SOLVED + healthy，证据直接明确（'Interstate 22 follows the U.S. Route 78 corridor'），本轮保留",
+          "solver_judgment": "question 要求找出哪条州际公路（Interstate highway）沿 US Route 78 走廊行驶。search_query 直接搜索了该问题。chunks 返回了 Interstate 22 的概述，其中 chunk 55b5e6ee-efe5-4663-90a3-5e0eeb303855 明确记载 'Interstate 22 follows the U.S. Route 78 corridor.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（Interstate 22 文档，chunk 55b5e6ee-efe5-4663-90a3-5e0eeb303855），单来源但直接、具体地陈述了答案。chunk 原文明确记载 'Interstate 22 follows the U.S. Route 78 corridor.'，与声称答案 'Interstate 22' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体，足以支撑答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，下轮可直接保留。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "55b5e6ee-efe5-4663-90a3-5e0eeb303855"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+              "chunk_title": "Highway Names & Abbreviations",
+              "chunk_summary": "This chunk contains information about the names and abbreviations of highways.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "U.S. Route 78 is also known as US 78. Interstate 22 is also known as I-22."
+            },
+            {
+              "chunk_id": "fb94dad7-c67e-4528-93ac-edefea092b0f",
+              "chunk_title": "U.S. Route 278 Overview",
+              "chunk_summary": "This chunk contains information about U.S. Route 278, including its relationship to other routes, total length, starting and ending locations, and the states and cities it passes through.",
+              "context_title": "U.S. Route 278",
+              "page_content": "U.S. Route 278 is longer than its parent highway, U.S. Route 78. U.S. Route 278 passes through Augusta, Georgia. U.S. Route 278 passes through Covington, Georgia. U.S. Route 278 passes through the state of Arkansas. U.S. Route 278 passes through the state of South Carolina. U.S. Route 278 runs to Wickes, Arkansas. U.S. Route 278 passes through Powder Springs, Georgia. U.S. Route 278 ends at U.S. Route 71/U.S. Route 59 in Wickes, Arkansas. U.S. Route 278 passes through Tupelo, Mississippi. U.S. Route 278 passes through the state of Georgia. U.S. Route 278 currently runs for 1,074 miles (1,728 km). U.S. Route 278 runs from Hilton Head Island, South Carolina. U.S. Route 278 passes through the state of Alabama. U.S. Route 278 passes through Cullman, Alabama. U.S. Route 78 is the parent highway of U.S. Route 278. U.S. Route 278 passes through the state of Mississippi. U.S. Route 278 passes through Gadsden, Alabama. U.S. Route 278 passes through Hiram, Georgia. U.S. Route 278 passes through Cedartown, Georgia. U.S. Route 278 is a parallel route of U.S. Route 78. U.S. Route 278 passes through Greenville, Mississippi. U.S. Route 278 passes through Oxford, Mississippi. U.S. Route 278 passes through Atlanta, Georgia. U.S. Route 278 passes through Dallas, Georgia. U.S. Route 278 passes through Monticello, Arkansas. U.S. Route 278 passes through Hope, Arkansas. U.S. Route 278 passes through Rockmart, Georgia."
+            },
+            {
+              "chunk_id": "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+              "chunk_title": "Interstate 22 Overview",
+              "chunk_summary": "This chunk contains information about Interstate 22, including its designation, route details, endpoints, and connections to other highways.",
+              "context_title": "Interstate 22",
+              "page_content": "Interstate 22 was designed to allow more direct connections between cities in the southeast and cities of the Great Plains. Interstate 22 was designed to close a gap in the Interstate network. Interstate 22 indirectly connects I-69 in the northwest. Interstate 22 indirectly connects I-40 in the northwest. Interstate 22 runs to Birmingham, Alabama. Interstate 22 was designated in 2012. Interstate 22 has a route length of 213 miles. Interstate 22 is an Interstate Highway. Interstate 22 indirectly connects I-59 in the southeast. Interstate 22 indirectly connects I-240 in the northwest. Interstate 22 runs from Byhalia, Mississippi. Interstate 22 is also known as I-22. Interstate 22 indirectly connects I-65 in the southeast. Interstate 22 follows the U.S. Route 78 corridor. Interstate 22 indirectly connects I-20 in the southeast. Interstate 22 indirectly connects I-55 in the northwest."
+            },
+            {
+              "chunk_id": "e644c3d3-b60d-48bc-938d-6f744c2dd776",
+              "chunk_title": "U.S. Route 78 Overview",
+              "chunk_summary": "This chunk contains comprehensive details about U.S. Route 78, including its designations, physical attributes, route path through Georgia counties, termini, and concurrent highways.",
+              "context_title": "U.S. Route 78 in Georgia",
+              "page_content": "U.S. Route 78 travels west to east. At the Alabama state line, the roadway continues concurrent with Alabama State Route 4. U.S. Route 78 is located in the U.S. state of Georgia. U.S. Route 78 is 233.3 miles long. U.S. Route 78 serves the Augusta metropolitan area. The endpoint of U.S. Route 78 at the South Carolina state line is the northern terminus of SR 121. U.S. Route 78 travels from the Alabama state line to the South Carolina state line. U.S. Route 78 travels through McDuffie County. U.S. Route 78 travels through Oconee County. The South Carolina state line endpoint of U.S. Route 78 is on the northeastern edge of Augusta. U.S. Route 78 travels through Walton County. The endpoint of U.S. Route 78 at the South Carolina state line is the southern terminus of SC 121. U.S. Route 78 serves the Atlanta metropolitan area. U.S. Route 78 starts at the Alabama state line. U.S. Route 78 travels through Richmond County. U.S. Route 78 travels through Columbia County. U.S. Route 78 travels through Douglas County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 25. At the South Carolina state line, U.S. Route 78 continues concurrent with SC 121. U.S. Route 78 travels through Cobb County. U.S. Route 78 serves the Athens metropolitan area. U.S. Route 78 is also known as US 78. The endpoint of U.S. Route 78 at the South Carolina state line is the eastern terminus of SR 10. The starting point of U.S. Route 78 is the western terminus of Georgia State Route 8. U.S. Route 78 travels through DeKalb County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 1. The starting point of U.S. Route 78 is west of Tallapoosa. U.S. Route 78 travels through Gwinnett County. The South Carolina state line endpoint of U.S. Route 78 is at the Savannah River. At the South Carolina state line, U.S. Route 78 continues concurrent with US 278. U.S. Route 78 travels through Fulton County. Georgia State Route 8 is concurrent with U.S. Route 78 to the east of the western terminus. U.S. Route 78 travels through Oglethorpe County. U.S. Route 78 travels through Haralson County. U.S. Route 78 travels in the north-central part of Georgia. U.S. Route 78 travels through Wilkes County. U.S. Route 78 travels through Carroll County. U.S. Route 78 travels through Clarke County. U.S. Route 78 is a U.S. Highway."
+            },
+            {
+              "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+              "chunk_title": "Mississippi Highway 23",
+              "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+            },
+            {
+              "chunk_id": "489bb7ca-62af-4941-be1d-c364fb6c4a9d",
+              "chunk_title": "Route Names & Designations",
+              "chunk_summary": "This chunk contains information about the names and designations of U.S. Route 78.",
+              "context_title": "Interstate 22",
+              "page_content": "U.S. Route 78 is also known as US 78."
+            },
+            {
+              "chunk_id": "23f74b17-4199-4ec9-ba29-2c16447d25ff",
+              "chunk_title": "State Highway Details",
+              "chunk_summary": "This chunk contains information about the classification, abbreviations, lengths, locations, and connections of specific state highway routes.",
+              "context_title": "New Hampshire Route 78",
+              "page_content": "New Hampshire Route 78 is a secondary state highway. New Hampshire Route 78 is abbreviated as NH 78. New Hampshire Route 78 is located in Cheshire County. New Hampshire Route 78 is a northward extension of Massachusetts Route 78. New Hampshire Route 78 ends at New Hampshire Route 119. New Hampshire Route 78 runs from the state border to downtown Winchester. New Hampshire Route 78 is 3.456 miles long. New Hampshire Route 78 ends at New Hampshire Route 10. New Hampshire Route 78 runs entirely within the town of Winchester."
+            },
+            {
+              "chunk_id": "cf3e3114-a365-4670-bc26-a487cda3e905",
+              "chunk_title": "Interstate 85 in Virginia",
+              "chunk_summary": "This chunk contains information about the geographic route, specific segment lengths, concurrent highways, and regional significance of Interstate 85, particularly focusing on its path through Virginia.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "Interstate 85 is a part of the National Highway System for its entire length in Virginia. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and the Research Triangle. In Virginia, Interstate 85 runs from the North Carolina state line near Bracey north to I-95 in Petersburg. In Petersburg, Interstate 85 runs concurrently with US 460. South of South Hill, Interstate 85 intersects US 58. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and other major metropolitan areas of North Carolina. In the eastern part of Southside Virginia, Interstate 85 parallels U.S. Route 1. Interstate 85 passes through the eastern part of Southside Virginia. In Virginia, Interstate 85 runs 68.64 miles. Interstate 85 runs from Montgomery, Alabama to Petersburg, Virginia."
+            },
+            {
+              "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+              "chunk_title": "Highway Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mississippi Highway 178 is near Interstate 22."
+            },
+            {
+              "chunk_id": "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+              "chunk_title": "Highway Names & Systems",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of major highways.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "U.S. Route 1 is also known as US 1. Interstate 85 is a part of the Interstate Highway System. Interstate 85 is a mainline Interstate Highway. All mainline Interstate Highways are a part of the National Highway System. Interstate 85 is also known as I-85."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Does Interstate 22 pass through Mooreville, Mississippi?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "Does Interstate 22 pass through Mooreville, Mississippi?",
+          "planner_rationale": "上一轮搜索 'What Interstate highway passes through Mooreville, Mississippi?' 返回的是州级公路 MS 178 及其与 I-22 的邻近关系，未找到直接陈述。Critic 建议改用更精确的查询方向。本轮将 question 改为直接验证 I-22 是否经过 Mooreville——利用 N1_1 已确立的 I-22 作为候选，从'开放搜索哪条 Interstate'转为'验证 I-22 是否经过 Mooreville'，搜索精度更高",
+          "solver_judgment": "question 要求确认 Interstate 22 是否穿过 Mooreville, Mississippi。search_query 直接搜索了该问题。chunks 返回了 Mooreville 位于 Mississippi Highway 178 上（chunk d7a786b6...），且 Mississippi Highway 178 靠近 Interstate 22（chunk 5670ba91...）。但检索结果并未明确说明 Interstate 22 是否直接穿过 Mooreville，仅表明其靠近该地。信息存在缺口，无法从 chunks 中提取确切的是/否答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，来自 7 个独立来源（Mooreville, Mississippi 3 个、Mississippi Highway 23 2 个、Interstate 22 1 个、Interstate 85 in Virginia 1 个、Interstate 99 1 个、Nashville Terminal Subdivision 1 个、Monroe City Regional Airport 1 个）。但仅展示摘要，无支撑 chunk 全文。Solver 判断无任何 chunk 明确陈述 I-22 是否穿过 Mooreville，仅找到 Mooreville 位于 MS Highway 178 上且 MS 178 靠近 I-22 的邻近关系证据。有提示性证据但不充分——无法从当前检索结果中提取确切的是/否答案。",
+          "critic_normative_advice": "建议换搜索方向——当前查询 'Does Interstate 22 pass through Mooreville, Mississippi?' 已执行但未返回直接答案。建议尝试：(1) 从 I-22 路线描述侧搜索，查询 'Interstate 22 route description cities Mississippi' 或 'Interstate 22 passes through Tupelo Mooreville'；(2) 查询 Mooreville 的 Wikipedia 条目全文，看是否提及 Interstate  highways。若连续两轮定向验证仍无直接陈述，可考虑将'MS 178 连接 Mooreville 且靠近 I-22'作为间接证据接受，但需降级证据等级。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+              "chunk_title": "Interstate 22 Overview",
+              "chunk_summary": "This chunk contains information about Interstate 22, including its designation, route details, endpoints, and connections to other highways.",
+              "context_title": "Interstate 22",
+              "page_content": "Interstate 22 was designed to allow more direct connections between cities in the southeast and cities of the Great Plains. Interstate 22 was designed to close a gap in the Interstate network. Interstate 22 indirectly connects I-69 in the northwest. Interstate 22 indirectly connects I-40 in the northwest. Interstate 22 runs to Birmingham, Alabama. Interstate 22 was designated in 2012. Interstate 22 has a route length of 213 miles. Interstate 22 is an Interstate Highway. Interstate 22 indirectly connects I-59 in the southeast. Interstate 22 indirectly connects I-240 in the northwest. Interstate 22 runs from Byhalia, Mississippi. Interstate 22 is also known as I-22. Interstate 22 indirectly connects I-65 in the southeast. Interstate 22 follows the U.S. Route 78 corridor. Interstate 22 indirectly connects I-20 in the southeast. Interstate 22 indirectly connects I-55 in the northwest."
+            },
+            {
+              "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+              "chunk_title": "Mississippi Highway 23",
+              "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+            },
+            {
+              "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+              "chunk_title": "Highway Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mississippi Highway 178 is near Interstate 22."
+            },
+            {
+              "chunk_id": "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+              "chunk_title": "Mooreville Location & Classification",
+              "chunk_summary": "This chunk contains information about the classification, designation, and geographic location of Mooreville, Mississippi.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mooreville is approximately 4 miles west of Dorsey. Mooreville is on Mississippi Highway 178. Mooreville is located in Lee County, Mississippi. Mooreville is part of the Tupelo Micropolitan Statistical Area. Mooreville is approximately 4 miles east of Tupelo. Mooreville is a census-designated place."
+            },
+            {
+              "chunk_id": "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+              "chunk_title": "Highway Names & Abbreviations",
+              "chunk_summary": "This chunk contains information about the names and abbreviations of highways.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "U.S. Route 78 is also known as US 78. Interstate 22 is also known as I-22."
+            },
+            {
+              "chunk_id": "a52cf498-b676-444d-8f6d-985ea9dd3733",
+              "chunk_title": "Place Name Origins",
+              "chunk_summary": "This chunk contains information about the origins of place names, specifically how locations are named after families or individuals.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mooreville was named for the Moore family. The Moore family were the first settlers of Mooreville."
+            },
+            {
+              "chunk_id": "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+              "chunk_title": "Highway Names & Systems",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of major highways.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "U.S. Route 1 is also known as US 1. Interstate 85 is a part of the Interstate Highway System. Interstate 85 is a mainline Interstate Highway. All mainline Interstate Highways are a part of the National Highway System. Interstate 85 is also known as I-85."
+            },
+            {
+              "chunk_id": "6245e0ba-b16b-4a49-b28f-78ce0f5b788d",
+              "chunk_title": "Interstate 99 Route Details",
+              "chunk_summary": "This chunk contains information about the route structure, geographic locations, terminal points, concurrent highways, and future extension plans of Interstate 99.",
+              "context_title": "Interstate 99",
+              "page_content": "Interstate 99 is entirely concurrent to US 220 within Pennsylvania. The planned interchange with I-68 for Interstate 99 is in Cumberland, Maryland. The southern terminus of Interstate 99 is at exit 146 of the Pennsylvania Turnpike. Interstate 99 has two segments. Long-term plans call for Interstate 99 to be extended southward along the US 220 corridor. Interstate 99 passes through Altoona. Interstate 99 (I-99) is an Interstate Highway. Exit 146 of the Pennsylvania Turnpike is north of Bedford. The New York segment of Interstate 99 runs from the Pennsylvania–New York border to an interchange with I-86. One segment of Interstate 99 is located in central Pennsylvania. Interstate 99 passes through State College. Exit 146 of the Pennsylvania Turnpike carries I-70 and I-76. Interstate 99 is in the United States. The northern terminus of the Pennsylvania segment of Interstate 99 is at I-80. The interchange with I-86 for the New York segment of Interstate 99 is in Corning. The northern terminus of the Pennsylvania segment of Interstate 99 is near Bellefonte. The New York segment of Interstate 99 follows US 15. The other segment of Interstate 99 is located in southern New York. Long-term plans call for Interstate 99 to be extended to an interchange with I-68. At the southern terminus, the road continues south as U.S. Route 220 (US 220)."
+            },
+            {
+              "chunk_id": "b68412c4-84ff-4b28-b72d-4540d18abd70",
+              "chunk_title": "Speed Limits & Increases",
+              "chunk_summary": "This chunk contains information about speed increases and current speed limits at specific traffic signals, crossings, mileposts, and locations.",
+              "context_title": "Nashville Terminal Subdivision",
+              "page_content": "Speed is increased to 40 mph at milepost 00J2.2. Speed has increased at the \"Shops\" signals. Speed is at 40 mph at Mayton. Speed has increased to 30 mph from 10 mph at the Berry Road crossing. Speed is increased to 40 mph at \"Sellars\". Speed is increased to 50 mph at Brentwood."
+            },
+            {
+              "chunk_id": "44aea5b8-c45f-4f88-8bad-884397eff1c7",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of Monroe City Regional Airport, including its position relative to the central business district and its county.",
+              "context_title": "Monroe City Regional Airport",
+              "page_content": "Monroe City Regional Airport is located in Monroe County, Missouri, United States. Monroe City Regional Airport is located one nautical mile (1.85 km) south of the central business district of Monroe City."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Mooreville, Mississippi is located on which Interstate highway that follows US Route 78?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。N1_1 已 SOLVED 确定 I-22 沿 US 78，N1_2 和 N1_3 需共同验证 I-22 是否经过 Mooreville，两者交集即为答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。子节点状态：N1_1 已确定 I-22 沿 US Route 78（单来源直接陈述）；N1_2 仅找到 I-22 经过 Byhalia 和 Tremont，未提及 Mooreville；N5_1 找到 Mooreville 位于 MS Highway 178 上且 MS 178 靠近 I-22。推理链不完整——N1_2 和 N5_1 的证据仅建立'邻近关系'（MS 178 near I-22），未建立 Mooreville 直接位于 I-22 上的事实。ROOT 层无法完成'Mooreville 位于哪条沿 US 78 的 Interstate 上'的确定性合成。",
+          "critic_normative_advice": "建议修正 DAG 结构——当前 N1_2 和 N5_1 作为 N0 的平行分解节点，但 N1_2 的 question 中引用了'Interstate 22'，该实体应由 N1_1 的 answer 提供，建议添加 N1_1→N1_2 的 dependency 边以显式化这一语义依赖。此外，当前证据链仅支持'邻近'而非'位于'，若 KB 确实无直接覆盖，需评估是否接受间接证据或标注不确定性。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which Interstate highway follows US Route 78?",
+          "answer": "Interstate 22",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which Interstate highway follows US Route 78?",
+          "planner_rationale": "Q 的核心约束之一：确定沿 US Route 78 走向的 Interstate。N1_1 已 SOLVED + healthy，证据直接明确（'Interstate 22 follows the U.S. Route 78 corridor'），本轮保留",
+          "solver_judgment": "question 要求找出哪条州际公路（Interstate highway）沿 US Route 78 走廊行驶。search_query 直接搜索了该问题。chunks 返回了 Interstate 22 的概述，其中 chunk 55b5e6ee-efe5-4663-90a3-5e0eeb303855 明确记载 'Interstate 22 follows the U.S. Route 78 corridor.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（Interstate 22 文档，chunk 55b5e6ee-efe5-4663-90a3-5e0eeb303855），单来源但直接、具体地陈述了答案。chunk 原文明确记载 'Interstate 22 follows the U.S. Route 78 corridor.'，与声称答案 'Interstate 22' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体，足以支撑答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，下轮可直接保留。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "55b5e6ee-efe5-4663-90a3-5e0eeb303855"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+              "chunk_title": "Highway Names & Abbreviations",
+              "chunk_summary": "This chunk contains information about the names and abbreviations of highways.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "U.S. Route 78 is also known as US 78. Interstate 22 is also known as I-22."
+            },
+            {
+              "chunk_id": "fb94dad7-c67e-4528-93ac-edefea092b0f",
+              "chunk_title": "U.S. Route 278 Overview",
+              "chunk_summary": "This chunk contains information about U.S. Route 278, including its relationship to other routes, total length, starting and ending locations, and the states and cities it passes through.",
+              "context_title": "U.S. Route 278",
+              "page_content": "U.S. Route 278 is longer than its parent highway, U.S. Route 78. U.S. Route 278 passes through Augusta, Georgia. U.S. Route 278 passes through Covington, Georgia. U.S. Route 278 passes through the state of Arkansas. U.S. Route 278 passes through the state of South Carolina. U.S. Route 278 runs to Wickes, Arkansas. U.S. Route 278 passes through Powder Springs, Georgia. U.S. Route 278 ends at U.S. Route 71/U.S. Route 59 in Wickes, Arkansas. U.S. Route 278 passes through Tupelo, Mississippi. U.S. Route 278 passes through the state of Georgia. U.S. Route 278 currently runs for 1,074 miles (1,728 km). U.S. Route 278 runs from Hilton Head Island, South Carolina. U.S. Route 278 passes through the state of Alabama. U.S. Route 278 passes through Cullman, Alabama. U.S. Route 78 is the parent highway of U.S. Route 278. U.S. Route 278 passes through the state of Mississippi. U.S. Route 278 passes through Gadsden, Alabama. U.S. Route 278 passes through Hiram, Georgia. U.S. Route 278 passes through Cedartown, Georgia. U.S. Route 278 is a parallel route of U.S. Route 78. U.S. Route 278 passes through Greenville, Mississippi. U.S. Route 278 passes through Oxford, Mississippi. U.S. Route 278 passes through Atlanta, Georgia. U.S. Route 278 passes through Dallas, Georgia. U.S. Route 278 passes through Monticello, Arkansas. U.S. Route 278 passes through Hope, Arkansas. U.S. Route 278 passes through Rockmart, Georgia."
+            },
+            {
+              "chunk_id": "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+              "chunk_title": "Interstate 22 Overview",
+              "chunk_summary": "This chunk contains information about Interstate 22, including its designation, route details, endpoints, and connections to other highways.",
+              "context_title": "Interstate 22",
+              "page_content": "Interstate 22 was designed to allow more direct connections between cities in the southeast and cities of the Great Plains. Interstate 22 was designed to close a gap in the Interstate network. Interstate 22 indirectly connects I-69 in the northwest. Interstate 22 indirectly connects I-40 in the northwest. Interstate 22 runs to Birmingham, Alabama. Interstate 22 was designated in 2012. Interstate 22 has a route length of 213 miles. Interstate 22 is an Interstate Highway. Interstate 22 indirectly connects I-59 in the southeast. Interstate 22 indirectly connects I-240 in the northwest. Interstate 22 runs from Byhalia, Mississippi. Interstate 22 is also known as I-22. Interstate 22 indirectly connects I-65 in the southeast. Interstate 22 follows the U.S. Route 78 corridor. Interstate 22 indirectly connects I-20 in the southeast. Interstate 22 indirectly connects I-55 in the northwest."
+            },
+            {
+              "chunk_id": "e644c3d3-b60d-48bc-938d-6f744c2dd776",
+              "chunk_title": "U.S. Route 78 Overview",
+              "chunk_summary": "This chunk contains comprehensive details about U.S. Route 78, including its designations, physical attributes, route path through Georgia counties, termini, and concurrent highways.",
+              "context_title": "U.S. Route 78 in Georgia",
+              "page_content": "U.S. Route 78 travels west to east. At the Alabama state line, the roadway continues concurrent with Alabama State Route 4. U.S. Route 78 is located in the U.S. state of Georgia. U.S. Route 78 is 233.3 miles long. U.S. Route 78 serves the Augusta metropolitan area. The endpoint of U.S. Route 78 at the South Carolina state line is the northern terminus of SR 121. U.S. Route 78 travels from the Alabama state line to the South Carolina state line. U.S. Route 78 travels through McDuffie County. U.S. Route 78 travels through Oconee County. The South Carolina state line endpoint of U.S. Route 78 is on the northeastern edge of Augusta. U.S. Route 78 travels through Walton County. The endpoint of U.S. Route 78 at the South Carolina state line is the southern terminus of SC 121. U.S. Route 78 serves the Atlanta metropolitan area. U.S. Route 78 starts at the Alabama state line. U.S. Route 78 travels through Richmond County. U.S. Route 78 travels through Columbia County. U.S. Route 78 travels through Douglas County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 25. At the South Carolina state line, U.S. Route 78 continues concurrent with SC 121. U.S. Route 78 travels through Cobb County. U.S. Route 78 serves the Athens metropolitan area. U.S. Route 78 is also known as US 78. The endpoint of U.S. Route 78 at the South Carolina state line is the eastern terminus of SR 10. The starting point of U.S. Route 78 is the western terminus of Georgia State Route 8. U.S. Route 78 travels through DeKalb County. At the South Carolina state line, U.S. Route 78 continues concurrent with US 1. The starting point of U.S. Route 78 is west of Tallapoosa. U.S. Route 78 travels through Gwinnett County. The South Carolina state line endpoint of U.S. Route 78 is at the Savannah River. At the South Carolina state line, U.S. Route 78 continues concurrent with US 278. U.S. Route 78 travels through Fulton County. Georgia State Route 8 is concurrent with U.S. Route 78 to the east of the western terminus. U.S. Route 78 travels through Oglethorpe County. U.S. Route 78 travels through Haralson County. U.S. Route 78 travels in the north-central part of Georgia. U.S. Route 78 travels through Wilkes County. U.S. Route 78 travels through Carroll County. U.S. Route 78 travels through Clarke County. U.S. Route 78 is a U.S. Highway."
+            },
+            {
+              "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+              "chunk_title": "Mississippi Highway 23",
+              "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+            },
+            {
+              "chunk_id": "489bb7ca-62af-4941-be1d-c364fb6c4a9d",
+              "chunk_title": "Route Names & Designations",
+              "chunk_summary": "This chunk contains information about the names and designations of U.S. Route 78.",
+              "context_title": "Interstate 22",
+              "page_content": "U.S. Route 78 is also known as US 78."
+            },
+            {
+              "chunk_id": "23f74b17-4199-4ec9-ba29-2c16447d25ff",
+              "chunk_title": "State Highway Details",
+              "chunk_summary": "This chunk contains information about the classification, abbreviations, lengths, locations, and connections of specific state highway routes.",
+              "context_title": "New Hampshire Route 78",
+              "page_content": "New Hampshire Route 78 is a secondary state highway. New Hampshire Route 78 is abbreviated as NH 78. New Hampshire Route 78 is located in Cheshire County. New Hampshire Route 78 is a northward extension of Massachusetts Route 78. New Hampshire Route 78 ends at New Hampshire Route 119. New Hampshire Route 78 runs from the state border to downtown Winchester. New Hampshire Route 78 is 3.456 miles long. New Hampshire Route 78 ends at New Hampshire Route 10. New Hampshire Route 78 runs entirely within the town of Winchester."
+            },
+            {
+              "chunk_id": "cf3e3114-a365-4670-bc26-a487cda3e905",
+              "chunk_title": "Interstate 85 in Virginia",
+              "chunk_summary": "This chunk contains information about the geographic route, specific segment lengths, concurrent highways, and regional significance of Interstate 85, particularly focusing on its path through Virginia.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "Interstate 85 is a part of the National Highway System for its entire length in Virginia. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and the Research Triangle. In Virginia, Interstate 85 runs from the North Carolina state line near Bracey north to I-95 in Petersburg. In Petersburg, Interstate 85 runs concurrently with US 460. South of South Hill, Interstate 85 intersects US 58. Interstate 85 is the primary connection between the Richmond–Petersburg metropolitan area and other major metropolitan areas of North Carolina. In the eastern part of Southside Virginia, Interstate 85 parallels U.S. Route 1. Interstate 85 passes through the eastern part of Southside Virginia. In Virginia, Interstate 85 runs 68.64 miles. Interstate 85 runs from Montgomery, Alabama to Petersburg, Virginia."
+            },
+            {
+              "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+              "chunk_title": "Highway Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mississippi Highway 178 is near Interstate 22."
+            },
+            {
+              "chunk_id": "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+              "chunk_title": "Highway Names & Systems",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of major highways.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "U.S. Route 1 is also known as US 1. Interstate 85 is a part of the Interstate Highway System. Interstate 85 is a mainline Interstate Highway. All mainline Interstate Highways are a part of the National Highway System. Interstate 85 is also known as I-85."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What cities does Interstate 22 pass through in Mississippi?",
+          "answer": "Byhalia, Tremont",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "What cities does Interstate 22 pass through in Mississippi?",
+          "planner_rationale": "上一轮定向验证 'Does I-22 pass through Mooreville?' 未返回直接陈述，仅找到邻近关系证据。Critic 建议从 I-22 路线描述侧反向搜索——查询 I-22 经过的城市列表，看 Mooreville 是否在其中。换为开放式路线查询，预期能获取 I-22 的完整路线描述，从而判断 Mooreville 是否为其途经城市",
+          "solver_judgment": "question 要求列出 Interstate 22 在密西西比州经过的城市。search_query 直接搜索了该问题。chunks 返回的信息非常有限，仅提及 I-22 从 Byhalia, Mississippi 出发（chunk 55b5e6ee），以及在 Tremont 与 MS 23 和 US 78 交汇（chunk 661d8d4b）。检索结果未能提供 I-22 在密西西比州沿线经过的完整城市列表（如 Fulton、Tupelo 等），仅能提取到 Byhalia 和 Tremont 两个地点。检索存在较大缺口，信息不完整。",
+          "critic_factual_notes": "2 个支撑来源（Interstate 22 文档 chunk 55b5e6ee 和 Mississippi Highway 23 文档 chunk 661d8d4b），两个独立来源。chunk 55b5e6ee 记载 'Interstate 22 runs from Byhalia, Mississippi.'；chunk 661d8d4b 记载 'The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont.'。答案 'Byhalia, Tremont' 与 chunk 内容一致。但 Solver 自述检索存在较大缺口——未能提供 I-22 在密西西比州沿线经过的完整城市列表。交叉验证：不充分（仅找到 2 个地点，非完整路线描述）。",
+          "critic_normative_advice": "建议换搜索方向——当前查询 'What cities does Interstate 22 pass through in Mississippi?' 返回的路线信息不完整。建议尝试更精确的查询如 'Interstate 22 Mississippi route description' 或 'Interstate 22 cities list'，或直接搜索 I-22 的 Wikipedia 路线章节。若 KB 确实无完整城市列表，可考虑接受当前部分答案作为间接证据（Mooreville 未出现在已找到的城市中，暗示可能不在 I-22 上），但需明确标注证据等级。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+            "661d8d4b-3977-40db-acf0-9fb29f4ff24b"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+              "chunk_title": "Interstate 22 Overview",
+              "chunk_summary": "This chunk contains information about Interstate 22, including its designation, route details, endpoints, and connections to other highways.",
+              "context_title": "Interstate 22",
+              "page_content": "Interstate 22 was designed to allow more direct connections between cities in the southeast and cities of the Great Plains. Interstate 22 was designed to close a gap in the Interstate network. Interstate 22 indirectly connects I-69 in the northwest. Interstate 22 indirectly connects I-40 in the northwest. Interstate 22 runs to Birmingham, Alabama. Interstate 22 was designated in 2012. Interstate 22 has a route length of 213 miles. Interstate 22 is an Interstate Highway. Interstate 22 indirectly connects I-59 in the southeast. Interstate 22 indirectly connects I-240 in the northwest. Interstate 22 runs from Byhalia, Mississippi. Interstate 22 is also known as I-22. Interstate 22 indirectly connects I-65 in the southeast. Interstate 22 follows the U.S. Route 78 corridor. Interstate 22 indirectly connects I-20 in the southeast. Interstate 22 indirectly connects I-55 in the northwest."
+            },
+            {
+              "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+              "chunk_title": "Mississippi Highway 23",
+              "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+            },
+            {
+              "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+              "chunk_title": "Highway Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mississippi Highway 178 is near Interstate 22."
+            },
+            {
+              "chunk_id": "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+              "chunk_title": "Highway Names & Abbreviations",
+              "chunk_summary": "This chunk contains information about the names and abbreviations of highways.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "U.S. Route 78 is also known as US 78. Interstate 22 is also known as I-22."
+            },
+            {
+              "chunk_id": "2c0f219f-7773-45a7-8a96-c70a14647a47",
+              "chunk_title": "Mississippi County Seats",
+              "chunk_summary": "This chunk contains information about the unique administrative status and characteristics of county seats in Mississippi, specifically focusing on Paulding and Bay Springs in Jasper County.",
+              "context_title": "Paulding, Mississippi",
+              "page_content": "Bay Springs, Mississippi was designated the second county seat of Jasper County, Mississippi. Paulding is one of the two county seats of Jasper County, Mississippi. Paulding is the only unincorporated county seat in Mississippi."
+            },
+            {
+              "chunk_id": "ab1fff70-6a80-4471-a4db-c5e75c70cfae",
+              "chunk_title": "Geographical Hierarchy",
+              "chunk_summary": "This chunk contains information about the hierarchical geographical location of places within counties, states, and countries, as well as their adjacency relationships.",
+              "context_title": "Biloxi, Mississippi",
+              "page_content": "Gulfport adjoins Biloxi. Biloxi is in Harrison County. Biloxi is a county seat of Harrison County. Mississippi is in the United States. Gulfport is a county seat of Harrison County. Harrison County is in Mississippi."
+            },
+            {
+              "chunk_id": "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+              "chunk_title": "Mooreville Location & Classification",
+              "chunk_summary": "This chunk contains information about the classification, designation, and geographic location of Mooreville, Mississippi.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mooreville is approximately 4 miles west of Dorsey. Mooreville is on Mississippi Highway 178. Mooreville is located in Lee County, Mississippi. Mooreville is part of the Tupelo Micropolitan Statistical Area. Mooreville is approximately 4 miles east of Tupelo. Mooreville is a census-designated place."
+            },
+            {
+              "chunk_id": "f7849776-1e61-4f4b-8cea-5fcbc342504a",
+              "chunk_title": "Mississippi Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific places or landmarks, particularly casinos and resorts in Mississippi.",
+              "context_title": "Corey I. Sanders",
+              "page_content": "Beau Rivage (Mississippi) is in Biloxi. Gold Strike Tunica is in Mississippi."
+            },
+            {
+              "chunk_id": "a5a6286b-a0e4-459a-a337-ad94422a2d22",
+              "chunk_title": "Community Selection & Bypasses",
+              "chunk_summary": "This chunk contains information about community selection decisions and geographic bypasses.",
+              "context_title": "Paulding, Mississippi",
+              "page_content": "The community of Paulding was bypassed in favor of Bay Springs, Mississippi."
+            },
+            {
+              "chunk_id": "78d217c7-f9ec-4119-b778-a3caaa165f7a",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and relationship of suburbs to their parent cities.",
+              "context_title": "Memphis Hustle",
+              "page_content": "Southaven, Mississippi is a suburb of Memphis."
+            }
+          ]
+        },
+        "N5_1": {
+          "id": "N5_1",
+          "question": "What highways pass through or are near Mooreville, Mississippi?",
+          "answer": "Mississippi Highway 178",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "What highways pass through or are near Mooreville, Mississippi?",
+          "planner_rationale": "Critic 建议的第二条搜索路径——从 Mooreville 侧搜索其公路信息。上一轮 N1_2 的搜索仅找到 MS 178 与 I-22 的邻近关系，但未系统梳理 Mooreville 的所有公路连接。本轮新增此节点，旨在获取 Mooreville 的完整公路信息，看是否提及 I-22 或其他 Interstate，作为 N1_2 的交叉验证",
+          "solver_judgment": "question 要求找出经过或靠近 Mooreville, Mississippi 的公路。search_query 直接搜索了该问题。chunks 返回了 Mooreville 的地理位置信息，其中 chunk d7a786b6 明确指出 'Mooreville is on Mississippi Highway 178'，chunk 5670ba91 补充说明 'Mississippi Highway 178 is near Interstate 22'。检索精准命中了目标信息，直接且完整地回答了问题。",
+          "critic_factual_notes": "2 个支撑来源（均为 Mooreville, Mississippi 文档，chunk d7a786b6 和 chunk 5670ba91），但来自同一文档，非独立来源。chunk d7a786b6 明确记载 'Mooreville is on Mississippi Highway 178.'；chunk 5670ba91 记载 'Mississippi Highway 178 is near Interstate 22.'。答案 'Mississippi Highway 178' 与 chunk 内容一致。但关键缺口：证据仅建立 Mooreville 在 MS 178 上且 MS 178 靠近 I-22 的邻近关系，未建立 Mooreville 直接位于 I-22 上。交叉验证：不充分（单文档多 chunk，且未回答核心问题）。",
+          "critic_normative_advice": "建议重搜——当前查询找到了 Mooreville 的州级公路信息，但未找到 Interstate 级别的信息。建议尝试更精确的查询如 'Mooreville Mississippi Interstate highway' 或 'Is Mooreville Mississippi on Interstate 22'，直接针对 Interstate 层面搜索。若 KB 确实无 Mooreville 与 I-22 的直接关联记载，需评估是否接受'MS 178 near I-22'作为间接证据。",
+          "round_created": 5,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+            "5670ba91-64c3-4867-9e39-733fa0ed3326"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+              "chunk_title": "Mooreville Location & Classification",
+              "chunk_summary": "This chunk contains information about the classification, designation, and geographic location of Mooreville, Mississippi.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mooreville is approximately 4 miles west of Dorsey. Mooreville is on Mississippi Highway 178. Mooreville is located in Lee County, Mississippi. Mooreville is part of the Tupelo Micropolitan Statistical Area. Mooreville is approximately 4 miles east of Tupelo. Mooreville is a census-designated place."
+            },
+            {
+              "chunk_id": "5670ba91-64c3-4867-9e39-733fa0ed3326",
+              "chunk_title": "Highway Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and proximity of highways and interstates.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mississippi Highway 178 is near Interstate 22."
+            },
+            {
+              "chunk_id": "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+              "chunk_title": "Mississippi Highway 23",
+              "chunk_summary": "This chunk contains information about Mississippi Highway 23, including its designation, route details, intersections, and geographical context.",
+              "context_title": "Mississippi Highway 23",
+              "page_content": "Mississippi Highway 23 intersects Interstate 22. MS 25 is located in the town of Smithville. Mississippi Highway 23 travels northeastward. Mississippi Highway 23 travels through the forests of eastern Itawamba County. Mississippi Highway 23 ends at the Mississippi–Alabama state line. Mississippi Highway 23 is also known as MS 23. The end of Mississippi Highway 23 is just west of Red Bay. The intersection of Mississippi Highway 23, Interstate 22, and U.S. Route 78 is in Tremont. Mississippi Highway 23 intersects U.S. Route 78. Mississippi Highway 23 is a state highway in Mississippi. The route of Mississippi Highway 23 starts at MS 25."
+            },
+            {
+              "chunk_id": "a52cf498-b676-444d-8f6d-985ea9dd3733",
+              "chunk_title": "Place Name Origins",
+              "chunk_summary": "This chunk contains information about the origins of place names, specifically how locations are named after families or individuals.",
+              "context_title": "Mooreville, Mississippi",
+              "page_content": "Mooreville was named for the Moore family. The Moore family were the first settlers of Mooreville."
+            },
+            {
+              "chunk_id": "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+              "chunk_title": "Highway Names & Systems",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of major highways.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "U.S. Route 1 is also known as US 1. Interstate 85 is a part of the Interstate Highway System. Interstate 85 is a mainline Interstate Highway. All mainline Interstate Highways are a part of the National Highway System. Interstate 85 is also known as I-85."
+            },
+            {
+              "chunk_id": "38654905-c71e-43ce-adae-a2110b7e649e",
+              "chunk_title": "Transportation Routes & Infrastructure",
+              "chunk_summary": "This chunk contains information about the major transportation routes and infrastructure traversing specific locations.",
+              "context_title": "Southaven, Mississippi",
+              "page_content": "Southaven is traversed from north to south by the I-55/I-69 freeway."
+            },
+            {
+              "chunk_id": "4cb434d3-3708-42d8-91b7-0c3bc2295a82",
+              "chunk_title": "Pontotoc County Overview",
+              "chunk_summary": "This chunk contains information about the location, population, county seats, creation history, and historical landmarks of Pontotoc County in Mississippi.",
+              "context_title": "Pontotoc County, Mississippi",
+              "page_content": "Pontotoc County is a county located in the U.S. state of Mississippi. As of the 2010 census, the population of Pontotoc County was 29,957. The current-day Natchez Trace Parkway passes through the southeast corner of Pontotoc County. The county seat of Pontotoc County is Pontotoc. Pontotoc County was created from lands ceded to the United States under the Chickasaw Cession. The original Natchez Trace passes through the southeast corner of Pontotoc County. Pontotoc County was created on February 9, 1836."
+            },
+            {
+              "chunk_id": "509f1464-2bd7-4dac-8d73-b7019780ec27",
+              "chunk_title": "Transportation Routes",
+              "chunk_summary": "This chunk contains information about major transportation routes and highways in specific regions.",
+              "context_title": "Interstate 85 in Virginia",
+              "page_content": "US 58 is Southside's major east–west highway."
+            },
+            {
+              "chunk_id": "fb94dad7-c67e-4528-93ac-edefea092b0f",
+              "chunk_title": "U.S. Route 278 Overview",
+              "chunk_summary": "This chunk contains information about U.S. Route 278, including its relationship to other routes, total length, starting and ending locations, and the states and cities it passes through.",
+              "context_title": "U.S. Route 278",
+              "page_content": "U.S. Route 278 is longer than its parent highway, U.S. Route 78. U.S. Route 278 passes through Augusta, Georgia. U.S. Route 278 passes through Covington, Georgia. U.S. Route 278 passes through the state of Arkansas. U.S. Route 278 passes through the state of South Carolina. U.S. Route 278 runs to Wickes, Arkansas. U.S. Route 278 passes through Powder Springs, Georgia. U.S. Route 278 ends at U.S. Route 71/U.S. Route 59 in Wickes, Arkansas. U.S. Route 278 passes through Tupelo, Mississippi. U.S. Route 278 passes through the state of Georgia. U.S. Route 278 currently runs for 1,074 miles (1,728 km). U.S. Route 278 runs from Hilton Head Island, South Carolina. U.S. Route 278 passes through the state of Alabama. U.S. Route 278 passes through Cullman, Alabama. U.S. Route 78 is the parent highway of U.S. Route 278. U.S. Route 278 passes through the state of Mississippi. U.S. Route 278 passes through Gadsden, Alabama. U.S. Route 278 passes through Hiram, Georgia. U.S. Route 278 passes through Cedartown, Georgia. U.S. Route 278 is a parallel route of U.S. Route 78. U.S. Route 278 passes through Greenville, Mississippi. U.S. Route 278 passes through Oxford, Mississippi. U.S. Route 278 passes through Atlanta, Georgia. U.S. Route 278 passes through Dallas, Georgia. U.S. Route 278 passes through Monticello, Arkansas. U.S. Route 278 passes through Hope, Arkansas. U.S. Route 278 passes through Rockmart, Georgia."
+            },
+            {
+              "chunk_id": "a4a40fb5-aa2a-4229-a63d-c2fe19b82b2e",
+              "chunk_title": "Mark Twain Memorial Bridge",
+              "chunk_summary": "This chunk contains information about the Mark Twain Memorial Bridge, including its naming origin, location in Hannibal, Missouri, details regarding the two distinct bridges (original and current) spanning the Mississippi River, and associated commemorative features.",
+              "context_title": "Mark Twain Memorial Bridge",
+              "page_content": "The current Mark Twain Memorial Bridge is north of the original Mark Twain Memorial Bridge. The current Mark Twain Memorial Bridge carries traffic for Interstate 72. The Mark Twain Memorial Bridge is the name for two bridges. There is a current bridge named the Mark Twain Memorial Bridge. The stone picture of Mark Twain is on the Missouri side of the Mark Twain Memorial Bridge. The state of Missouri has put up a stone picture of Mark Twain. The current Mark Twain Memorial Bridge was finished in 2000. The Mark Twain Memorial Bridge is named for Mark Twain. There was an original bridge named the Mark Twain Memorial Bridge. The current Mark Twain Memorial Bridge carries traffic for U.S. Highway 36. The two bridges named the Mark Twain Memorial Bridge are over the Mississippi River. The two bridges named the Mark Twain Memorial Bridge are at Hannibal, Missouri."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N5_1",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Which Interstate highway follows US Route 78?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+        "fb94dad7-c67e-4528-93ac-edefea092b0f",
+        "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+        "e644c3d3-b60d-48bc-938d-6f744c2dd776",
+        "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+        "489bb7ca-62af-4941-be1d-c364fb6c4a9d",
+        "23f74b17-4199-4ec9-ba29-2c16447d25ff",
+        "cf3e3114-a365-4670-bc26-a487cda3e905",
+        "5670ba91-64c3-4867-9e39-733fa0ed3326",
+        "ada00279-6ce6-46b6-950c-59ef3e2999f7"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Is Mooreville, Mississippi located on Interstate 22?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "5670ba91-64c3-4867-9e39-733fa0ed3326",
+        "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+        "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+        "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+        "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+        "a52cf498-b676-444d-8f6d-985ea9dd3733",
+        "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+        "6245e0ba-b16b-4a49-b28f-78ce0f5b788d",
+        "28ae6829-7a66-4c03-98ab-1ff0ed80e515",
+        "a4a40fb5-aa2a-4229-a63d-c2fe19b82b2e"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "What Interstate highway passes through or is located in Mooreville, Mississippi?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+        "5670ba91-64c3-4867-9e39-733fa0ed3326",
+        "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+        "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+        "a4a40fb5-aa2a-4229-a63d-c2fe19b82b2e",
+        "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+        "a52cf498-b676-444d-8f6d-985ea9dd3733",
+        "cf3e3114-a365-4670-bc26-a487cda3e905",
+        "38654905-c71e-43ce-adae-a2110b7e649e",
+        "b8031229-a910-4d8e-9727-38f9d7b5ecbc"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "Does Interstate 22 pass through Mooreville, Mississippi?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+        "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+        "5670ba91-64c3-4867-9e39-733fa0ed3326",
+        "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+        "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+        "a52cf498-b676-444d-8f6d-985ea9dd3733",
+        "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+        "6245e0ba-b16b-4a49-b28f-78ce0f5b788d",
+        "b68412c4-84ff-4b28-b72d-4540d18abd70",
+        "44aea5b8-c45f-4f88-8bad-884397eff1c7"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "What cities does Interstate 22 pass through in Mississippi?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "55b5e6ee-efe5-4663-90a3-5e0eeb303855",
+        "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+        "5670ba91-64c3-4867-9e39-733fa0ed3326",
+        "dad5cdeb-279b-40e2-95e8-98ddb906efbf",
+        "2c0f219f-7773-45a7-8a96-c70a14647a47",
+        "ab1fff70-6a80-4471-a4db-c5e75c70cfae",
+        "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+        "f7849776-1e61-4f4b-8cea-5fcbc342504a",
+        "a5a6286b-a0e4-459a-a337-ad94422a2d22",
+        "78d217c7-f9ec-4119-b778-a3caaa165f7a"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "What highways pass through or are near Mooreville, Mississippi?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "d7a786b6-7866-429d-88bd-f689c8a3e9f2",
+        "5670ba91-64c3-4867-9e39-733fa0ed3326",
+        "661d8d4b-3977-40db-acf0-9fb29f4ff24b",
+        "a52cf498-b676-444d-8f6d-985ea9dd3733",
+        "ada00279-6ce6-46b6-950c-59ef3e2999f7",
+        "38654905-c71e-43ce-adae-a2110b7e649e",
+        "4cb434d3-3708-42d8-91b7-0c3bc2295a82",
+        "509f1464-2bd7-4dac-8d73-b7019780ec27",
+        "fb94dad7-c67e-4528-93ac-edefea092b0f",
+        "a4a40fb5-aa2a-4229-a63d-c2fe19b82b2e"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which Interstate highway follows US Route 78?（理由：Q 明确限定目标 Interstate 是沿 US Route 78 走向的那条，需先确定是哪条 Interstate），F2: Is Mooreville, Mississippi located on that Interstate highway?（理由：Q 询问 Mooreville 位于哪条 Interstate 上，需验证 Mooreville 是否在 F1 确定的那条 Interstate 上）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'that Interstate highway' 指代 F1 的 answer，必须先知道是哪条 Interstate 才能验证 Mooreville 是否位于其上）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question='Which Interstate highway follows US Route 78?'，rationale='确定沿 US Route 78 走向的 Interstate'），$2（question='Is Mooreville, Mississippi located on that Interstate highway?'，rationale='验证 Mooreville 是否位于该 Interstate 上'）。新增边: N0→$1（decomposition，$1 是 Q 的第一个分解子事实），N0→$2（decomposition，$2 是 Q 的第二个分解子事实），$1→$2（dependency，$2 中 'that Interstate highway' 指代 $1 的 answer）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": false,
+        "reason": "条件②未通过：推理链 N0→N1_1→N1_2 在 N1_2 处语义断裂——N1_2 answer='No' 无法聚合回 N0 以回答 Q（Q 询问的是'which Interstate'，否定答案不构成有效回答）。条件③未通过：N0 和 N1_2 的 critic_health 均为 needs_verification，非全部 healthy。根本问题：当前分解假设 I-22 是唯一沿 US "
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which Interstate highway follows US Route 78?（理由：Q 明确限定目标 Interstate 是沿 US Route 78 走向的那条，需先确定候选 Interstate），F2: What Interstate highway passes through Mooreville, Mississippi?（理由：Q 的另一核心约束是 Mooreville 位于该 Interstate 上，需直接搜索 Mooreville 所在的 Interstate，而非仅验证是否在 I-22 上）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的新 question 虽不直接含指代词，但求解时需将 F1 的 answer（I-22）作为候选进行交叉验证：若 F2 搜索结果显示 Mooreville 位于某条 Interstate X 上，则需检查 X 是否同时满足 F1 的条件（沿 US Route 7",
+      "hypothesis_delta": "换标: N1_2 question 从 'Is Mooreville, Mississippi located on that Interstate highway?' 改为 'What Interstate highway passes through or is located in Mooreville, Mississippi?'，原因：上一轮搜索返回间接证据（Mooreville on MS 178, MS 178 near I-22），Critic 指出这不足以支撑确定性'No'结论。换为直接询问 Mooreville 所在的 Interstate，可获取更明确的证据。同时，原 question 的验证式搜索（yes/no）在答案是否定时会导致推理链断裂——新 question 的开放式搜索即使返回非 I-22 的结果，也能与 N1_1 的结果取交集或发现其他沿 US Route 78 的 Interstate。保留: N0（根节点），N1_1（已 SOLVED + healthy，证据充分）。边结构不变：N0→N1_1（decomposition），N0→N1_2（dec",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": false,
+        "reason": "条件②未通过：N1_1→N1_2 的 dependency 边语义断裂——N1_1 的 answer（Interstate 22）无法消解 N1_2 question（What Interstate highway passes through Mooreville, Mississippi?）中的任何指代或变量，该依赖链在语义上不成立。条件③未通过：N0 和 N1_2 的 critic_heal"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which Interstate highway follows US Route 78?（理由：Q 明确限定目标 Interstate 是沿 US Route 78 走向的那条，需先确定候选 Interstate），F2: What Interstate highway passes through Mooreville, Mississippi?（理由：Q 的另一核心约束是 Mooreville 位于该 Interstate 上，需直接搜索获取 Mooreville 所在 Interstate 的证据）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 是两个独立的搜索分支，彼此无依赖关系——F1 的 answer（哪条 Interstate 沿 US Route 78）和 F2 的 answer（哪条 Interstate 经过 Mooreville）在 ROOT 层进行交集合成，共同确定同时满足两个条件的唯一 Interstate。",
+      "hypothesis_delta": "删除边: N1_1→N1_2（dependency），原因：Critic 指出该 dependency 边语义不成立。N1_2 的 question \"What Interstate highway passes through Mooreville, Mississippi?\" 是独立的事实查询，不含任何需要 N1_1 answer 消解的指代词或变量。交叉验证是答案合成阶段的逻辑，不应作为搜索阶段的 dependency 硬约束。改为两个独立的 decomposition 分支，在 ROOT 层进行答案交集。换标: N1_2 question 保持不变（'What Interstate highway passes through or is located in Mooreville, Mississippi?'），但重置为 UNSOLVED，原因：上一轮 Solver 未执行搜索，错误地将 N1_2 标注为'从已知事实推理得出'，导致声称答案 'Interstate 22' 无任何检索证据支撑。保留同一 question 方向（直接询问 Mooreville 所在的 Inter",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 的 critic_health 为 needs_verification（搜索返回 10 个 chunk 但无直接答案，仅有 MS 178 靠近 I-22 的间接证据），N0（ROOT）的 critic_health 也为 needs_verification（子节点推理链不完整，N1_2 无 answer 可聚合）。条件②通过：两条 decomposition 路径 N0"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which Interstate highway follows US Route 78?（理由：Q 明确限定目标 Interstate 是沿 US Route 78 走向的那条，N1_1 已 SOLVED 确定答案为 I-22），F2: Does Interstate 22 pass through Mooreville, Mississippi?（理由：Q 的另一核心约束是 Mooreville 位于该 Interstate 上。上一轮开放搜索'哪条 Interstate 经过 Mooreville'仅返回间接邻近证据，本轮改为直接验证 I-22 是否经过 Mooreville——利用 N1_1 已确立的候选答案进行定向验证，搜索更精确）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 是两个独立的搜索分支，在 ROOT 层进行答案交集合成——若 F2 验证 I-22 确实经过 Mooreville，则 Q 的答案为 I-22。",
+      "hypothesis_delta": "换标: N1_2 question 从 'What Interstate highway passes through or is located in Mooreville, Mississippi?' 改为 'Does Interstate 22 pass through Mooreville, Mississippi?'，原因：上一轮开放搜索返回的是州级公路 MS 178 及其与 I-22 的邻近关系，未找到任何 Interstate 直接穿过 Mooreville 的陈述。Critic 建议改用更精确的查询方向。本轮利用 N1_1 已确立的 I-22 作为候选，将搜索策略从'开放搜索'转为'定向验证'——直接查询 I-22 是否经过 Mooreville，预期搜索精度更高。保留: N0（根节点），N1_1（已 SOLVED + healthy，证据充分直接）。保留边: N0→N1_1（decomposition），N0→N1_2（decomposition）——结构拓扑不变，仍为两个独立 decomposition 分支，ROOT 层交集合成。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件①未满足：N1_2 仍为 UNSOLVED（已搜索但未提取到答案）；条件③未通过：N0 为 needs_verification（推理链不完整，N1_2 无 answer 可聚合），N1_2 为 needs_verification（有提示性证据但不充分）。条件②通过：N0→N1_1 和 N0→N1_2 的 decomposition 边语义有效，分解链逻辑正确。条件④未通过：本轮拓扑有变化（"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which Interstate highway follows US Route 78?（理由：Q 明确限定目标 Interstate 是沿 US Route 78 走向的那条，N1_1 已 SOLVED 确定答案为 I-22），F2: What cities does Interstate 22 pass through in Mississippi?（理由：从 I-22 路线侧反向搜索，获取其途经城市列表，判断 Mooreville 是否在其中——这是 Critic 建议的搜索方向），F3: What highways pass through or are near Mooreville, Mississippi?（理由：从 Mooreville 侧搜索其公路信息，看是否提及 I-22——这是 Critic 建议的另一搜索方向，与 F2 形成交叉验证）。关系: F1、F2、F3 均为 Q 的分解产物（decomposition）。F1 确定候选 Interstate（I-22），F2 从 I-22 侧验证是否经过 Mooreville，F3 从 ",
+      "hypothesis_delta": "换标: N1_2 question 从 'Does Interstate 22 pass through Mooreville, Mississippi?' 改为 'What cities does Interstate 22 pass through in Mississippi?'，原因：上一轮定向 yes/no 验证未返回直接陈述，仅找到邻近关系。Critic 建议从 I-22 路线描述侧搜索其经过的城市列表，换为开放式路线查询可获取更完整的路线信息。新增: $1（question='What highways pass through or are near Mooreville, Mississippi?'），原因：Critic 建议的第二条搜索路径——从 Mooreville 侧系统梳理其公路连接，与 N1_2 形成双向交叉验证。保留: N0（根节点），N1_1（已 SOLVED + healthy）。保留边: N0→N1_1（decomposition），N0→N1_2（decomposition）。新增边: N0→$1（decomposition）——新增的 Moore",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": false,
+        "reason": "条件②未通过：N0→N1_2 的依赖链语义断裂——N1_2 的 question 中引用了 'Interstate 22'，但 N0 的 answer 为空，无法消解该指代。N1_2 应依赖 N1_1 的 answer（Interstate 22）而非 N0。条件③未通过：N0、N1_2、N5_1 的 critic_health 均为 needs_verification，非全部 healthy。"
+      }
+    }
+  ]
+}

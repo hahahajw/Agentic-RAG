@@ -1,0 +1,652 @@
+{
+  "question_index": 155,
+  "question_id": "5a7616755542992d0ec06028",
+  "question": "Where is the county seat for people living in Henderson Point, Mississippi?",
+  "answer": "Gulfport, Biloxi",
+  "prediction": "Biloxi and Gulfport",
+  "error": null,
+  "latency_ms": 257469.6874000001,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T08:39:53.488333+00:00",
+  "chunks": [
+    {
+      "chunk_id": "f2f58ce0-8594-427a-9130-235eb0a20ea8",
+      "chunk_title": "Henderson Point Location",
+      "chunk_summary": "This chunk contains information about the geographic location and administrative classification of Henderson Point, Mississippi.",
+      "context_title": "Henderson Point, Mississippi",
+      "page_content": "Henderson Point is a census-designated place (CDP). Henderson Point is part of the Gulfport–Biloxi Metropolitan Statistical Area. Henderson Point is in Harrison County, Mississippi, United States."
+    },
+    {
+      "chunk_id": "672a591f-4357-414e-a798-25b4185d4090",
+      "chunk_title": "Henderson Location & Status",
+      "chunk_summary": "This chunk contains information about the location and administrative status of Henderson, Texas.",
+      "context_title": "Henderson, Texas",
+      "page_content": "Henderson is the county seat of Rusk County. Henderson is a city in Rusk County, northeast Texas, United States."
+    },
+    {
+      "chunk_id": "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+      "chunk_title": "Population Counts",
+      "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+      "context_title": "Henderson Point, Mississippi",
+      "page_content": "The population of Henderson Point was 170 at the 2010 census."
+    },
+    {
+      "chunk_id": "ab1fff70-6a80-4471-a4db-c5e75c70cfae",
+      "chunk_title": "Geographical Hierarchy",
+      "chunk_summary": "This chunk contains information about the hierarchical geographical location of places within counties, states, and countries, as well as their adjacency relationships.",
+      "context_title": "Biloxi, Mississippi",
+      "page_content": "Gulfport adjoins Biloxi. Biloxi is in Harrison County. Biloxi is a county seat of Harrison County. Mississippi is in the United States. Gulfport is a county seat of Harrison County. Harrison County is in Mississippi."
+    },
+    {
+      "chunk_id": "477e1d12-8935-4c98-98ce-e75e6dd01264",
+      "chunk_title": "School District Overview",
+      "chunk_summary": "This chunk contains information about the classification, nature, and location of specific school districts.",
+      "context_title": "Pontotoc County School District",
+      "page_content": "The Pontotoc County School District is a public school district. The Pontotoc County School District is based in Pontotoc County, Mississippi."
+    },
+    {
+      "chunk_id": "43b84999-b6ec-4d9e-9ccd-23b81e071755",
+      "chunk_title": "USA Geography",
+      "chunk_summary": "This chunk contains information about the geographical location of places within the USA.",
+      "context_title": "Pontotoc County School District",
+      "page_content": "Pontotoc County, Mississippi is in the USA."
+    },
+    {
+      "chunk_id": "a8ab60d8-8853-4296-8484-6fcaaeb83dcb",
+      "chunk_title": "City Locations & Administration",
+      "chunk_summary": "This chunk contains information about the location, administrative status, relative size, and population of Pontotoc, Mississippi; please add similar details for other cities or counties.",
+      "context_title": "Pontotoc, Mississippi",
+      "page_content": "Pontotoc is located to the west of Tupelo. The population of Pontotoc was 5,625 at the 2010 census. Tupelo is a much larger city than Pontotoc. Pontotoc is the county seat of Pontotoc County, Mississippi. Pontotoc is a city in Pontotoc County, Mississippi."
+    },
+    {
+      "chunk_id": "849ec574-dee4-42a6-9640-6857a62890e5",
+      "chunk_title": "Unincorporated Communities",
+      "chunk_summary": "This chunk contains information about unincorporated communities and their locations within specific counties.",
+      "context_title": "Paulding, Mississippi",
+      "page_content": "Paulding is an unincorporated community in Jasper County, Mississippi."
+    },
+    {
+      "chunk_id": "4f20c3c8-fd61-4939-9769-68ed24ab2313",
+      "chunk_title": "Henderson County, KY",
+      "chunk_summary": "This chunk contains information about the location, population, county seats, formation dates, and naming origins of Henderson County in Kentucky.",
+      "context_title": "Henderson County, Kentucky",
+      "page_content": "As of the 2010 census, the population of Henderson County was 46,250. Henderson County is a county located in the U.S. state of Kentucky. Part of the land purchased by Colonel Richard Henderson from the Cherokee Indians would eventually make up Henderson County. Henderson County was formed in 1798. The county seat of Henderson County is Henderson. Henderson County was named for Colonel Richard Henderson."
+    },
+    {
+      "chunk_id": "4cb434d3-3708-42d8-91b7-0c3bc2295a82",
+      "chunk_title": "Pontotoc County Overview",
+      "chunk_summary": "This chunk contains information about the location, population, county seats, creation history, and historical landmarks of Pontotoc County in Mississippi.",
+      "context_title": "Pontotoc County, Mississippi",
+      "page_content": "Pontotoc County is a county located in the U.S. state of Mississippi. As of the 2010 census, the population of Pontotoc County was 29,957. The current-day Natchez Trace Parkway passes through the southeast corner of Pontotoc County. The county seat of Pontotoc County is Pontotoc. Pontotoc County was created from lands ceded to the United States under the Chickasaw Cession. The original Natchez Trace passes through the southeast corner of Pontotoc County. Pontotoc County was created on February 9, 1836."
+    },
+    {
+      "chunk_id": "0232331a-2444-4ff8-bc23-8655e4f6f7f5",
+      "chunk_title": "US Town Demographics",
+      "chunk_summary": "This chunk contains information about the location, administrative details, and population statistics of towns in the United States.",
+      "context_title": "Halifax, North Carolina",
+      "page_content": "The population of Halifax was 234 at the 2010 census. Halifax is the county seat of Halifax County. Halifax is a town in Halifax County, North Carolina, United States."
+    },
+    {
+      "chunk_id": "259ddaa8-44fa-442e-b2dd-77e65df2d73b",
+      "chunk_title": "Hendersonville & County Overview",
+      "chunk_summary": "This chunk contains information about the location, administrative status, and naming origin of Hendersonville and Henderson County, North Carolina.",
+      "context_title": "Hendersonville, North Carolina",
+      "page_content": "Hendersonville is a city in Henderson County, North Carolina, United States. Henderson County is named for Leonard Henderson. Hendersonville is the county seat of Henderson County. Hendersonville is 22 miles south of Asheville. The city of Hendersonville is named for Leonard Henderson."
+    },
+    {
+      "chunk_id": "228f64e7-91fe-4c6b-b53d-cb0316203802",
+      "chunk_title": "County Seat Disputes",
+      "chunk_summary": "This chunk contains information about historical disputes and election outcomes regarding county seat designations, including instances of fraud and the eventual resolution of competition between towns.",
+      "context_title": "Johnston Library",
+      "page_content": "Baxter Springs ultimately gave up its attempts to become the county seat after Columbus completed its jail in 1880. Baxter Springs lost an election to choose the county seat in 1869 to Columbus. Baxter Springs hoped it could still become county seat in the future after losing the 1869 election. Supporters of Baxter Springs and Columbus attempted to fraudulently swing the 1869 election in their favor."
+    },
+    {
+      "chunk_id": "6a4cab28-fb20-45f7-975c-738a4e3b8710",
+      "chunk_title": "County Locations & Seats",
+      "chunk_summary": "This chunk contains information about the geographical location and county seats of specific counties.",
+      "context_title": "Pontotoc County, Oklahoma",
+      "page_content": "Pontotoc County is in the south central part of Oklahoma. The county seat of Pontotoc County is Ada."
+    },
+    {
+      "chunk_id": "7c3d7bcf-c8e8-4249-b7b1-aebd9a4cfd8f",
+      "chunk_title": "Cities & Demographics",
+      "chunk_summary": "This chunk contains information about cities, including their names, administrative classifications such as county seats, and population statistics.",
+      "context_title": "Lamar, Missouri",
+      "page_content": "Lamar is the county seat of Barton County, Missouri, United States. Lamar is a city. As of the 2010 census, the population of Lamar was 4,532."
+    }
+  ],
+  "em": 0.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2,
+  "retrieval_count": 2,
+  "total_chunks": 15,
+  "total_distinct_titles": 13,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "Where is the county seat for people living in Henderson Point, Mississippi?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where is the county seat for people living in Henderson Point, Mississippi?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Henderson Point, Mississippi 居民所属的 county seat 位置",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1 确认 Henderson Point 位于 Harrison County（单来源 f2f58ce0 直接陈述），N1_2 确认 Harrison County 的 county seat 为 Biloxi 和 Gulfport（单来源 ab1fff70 直接陈述）。推理链完整：Henderson Point → Harrison County → Biloxi and Gulfport。",
+          "critic_normative_advice": "推理链完整且一致，建议 INHERIT 保留。子节点 N1_1 和 N1_2 的证据充分，聚合后可直接回答 Q。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What county is Henderson Point, Mississippi located in?",
+          "answer": "Harrison County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What county is Henderson Point, Mississippi located in?",
+          "planner_rationale": "Q 询问 Henderson Point 居民的 county seat，必须先确定 Henderson Point 属于哪个县，这是回答 Q 的第一步",
+          "solver_judgment": "question 要求确认 Henderson Point, Mississippi 所在的县。search_query 准确搜索了该问题。chunks 返回了 f2f58ce0-8594-427a-9130-235eb0a20ea8，其中明确记载 'Henderson Point is in Harrison County, Mississippi, United States.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Henderson Point, Mississippi），单来源但直接、具体地陈述了答案。支撑 chunk f2f58ce0 全文记载 'Henderson Point is in Harrison County, Mississippi, United States.'，与声称答案 'Harrison County' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——chunk 直接明确地回答了问题，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f2f58ce0-8594-427a-9130-235eb0a20ea8"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f2f58ce0-8594-427a-9130-235eb0a20ea8",
+              "chunk_title": "Henderson Point Location",
+              "chunk_summary": "This chunk contains information about the geographic location and administrative classification of Henderson Point, Mississippi.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "Henderson Point is a census-designated place (CDP). Henderson Point is part of the Gulfport–Biloxi Metropolitan Statistical Area. Henderson Point is in Harrison County, Mississippi, United States."
+            },
+            {
+              "chunk_id": "672a591f-4357-414e-a798-25b4185d4090",
+              "chunk_title": "Henderson Location & Status",
+              "chunk_summary": "This chunk contains information about the location and administrative status of Henderson, Texas.",
+              "context_title": "Henderson, Texas",
+              "page_content": "Henderson is the county seat of Rusk County. Henderson is a city in Rusk County, northeast Texas, United States."
+            },
+            {
+              "chunk_id": "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "The population of Henderson Point was 170 at the 2010 census."
+            },
+            {
+              "chunk_id": "ab1fff70-6a80-4471-a4db-c5e75c70cfae",
+              "chunk_title": "Geographical Hierarchy",
+              "chunk_summary": "This chunk contains information about the hierarchical geographical location of places within counties, states, and countries, as well as their adjacency relationships.",
+              "context_title": "Biloxi, Mississippi",
+              "page_content": "Gulfport adjoins Biloxi. Biloxi is in Harrison County. Biloxi is a county seat of Harrison County. Mississippi is in the United States. Gulfport is a county seat of Harrison County. Harrison County is in Mississippi."
+            },
+            {
+              "chunk_id": "477e1d12-8935-4c98-98ce-e75e6dd01264",
+              "chunk_title": "School District Overview",
+              "chunk_summary": "This chunk contains information about the classification, nature, and location of specific school districts.",
+              "context_title": "Pontotoc County School District",
+              "page_content": "The Pontotoc County School District is a public school district. The Pontotoc County School District is based in Pontotoc County, Mississippi."
+            },
+            {
+              "chunk_id": "43b84999-b6ec-4d9e-9ccd-23b81e071755",
+              "chunk_title": "USA Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of places within the USA.",
+              "context_title": "Pontotoc County School District",
+              "page_content": "Pontotoc County, Mississippi is in the USA."
+            },
+            {
+              "chunk_id": "a8ab60d8-8853-4296-8484-6fcaaeb83dcb",
+              "chunk_title": "City Locations & Administration",
+              "chunk_summary": "This chunk contains information about the location, administrative status, relative size, and population of Pontotoc, Mississippi; please add similar details for other cities or counties.",
+              "context_title": "Pontotoc, Mississippi",
+              "page_content": "Pontotoc is located to the west of Tupelo. The population of Pontotoc was 5,625 at the 2010 census. Tupelo is a much larger city than Pontotoc. Pontotoc is the county seat of Pontotoc County, Mississippi. Pontotoc is a city in Pontotoc County, Mississippi."
+            },
+            {
+              "chunk_id": "849ec574-dee4-42a6-9640-6857a62890e5",
+              "chunk_title": "Unincorporated Communities",
+              "chunk_summary": "This chunk contains information about unincorporated communities and their locations within specific counties.",
+              "context_title": "Paulding, Mississippi",
+              "page_content": "Paulding is an unincorporated community in Jasper County, Mississippi."
+            },
+            {
+              "chunk_id": "4f20c3c8-fd61-4939-9769-68ed24ab2313",
+              "chunk_title": "Henderson County, KY",
+              "chunk_summary": "This chunk contains information about the location, population, county seats, formation dates, and naming origins of Henderson County in Kentucky.",
+              "context_title": "Henderson County, Kentucky",
+              "page_content": "As of the 2010 census, the population of Henderson County was 46,250. Henderson County is a county located in the U.S. state of Kentucky. Part of the land purchased by Colonel Richard Henderson from the Cherokee Indians would eventually make up Henderson County. Henderson County was formed in 1798. The county seat of Henderson County is Henderson. Henderson County was named for Colonel Richard Henderson."
+            },
+            {
+              "chunk_id": "4cb434d3-3708-42d8-91b7-0c3bc2295a82",
+              "chunk_title": "Pontotoc County Overview",
+              "chunk_summary": "This chunk contains information about the location, population, county seats, creation history, and historical landmarks of Pontotoc County in Mississippi.",
+              "context_title": "Pontotoc County, Mississippi",
+              "page_content": "Pontotoc County is a county located in the U.S. state of Mississippi. As of the 2010 census, the population of Pontotoc County was 29,957. The current-day Natchez Trace Parkway passes through the southeast corner of Pontotoc County. The county seat of Pontotoc County is Pontotoc. Pontotoc County was created from lands ceded to the United States under the Chickasaw Cession. The original Natchez Trace passes through the southeast corner of Pontotoc County. Pontotoc County was created on February 9, 1836."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the county seat of that county?",
+          "answer": "Biloxi and Gulfport",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Harrison County county seat",
+          "planner_rationale": "Q 的核心询问——county seat 的具体位置。需要知道 Henderson Point 所属的县（由 $1 提供）才能搜索该县县治",
+          "solver_judgment": "question 要求确认'that county'的县治。search_query 搜索了'Harrison County county seat'，明确了目标县为 Harrison County。chunk `ab1fff70-6a80-4471-a4db-c5e75c70cfae` 明确记载 'Biloxi is a county seat of Harrison County' 和 'Gulfport is a county seat of Harrison County'。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Biloxi, Mississippi），单来源但直接、具体地陈述了答案。支撑 chunk ab1fff70 全文记载 'Biloxi is a county seat of Harrison County' 和 'Gulfport is a county seat of Harrison County'，与声称答案 'Biloxi and Gulfport' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——chunk 直接明确地回答了 Harrison County 有两个 county seat，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "ab1fff70-6a80-4471-a4db-c5e75c70cfae"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "ab1fff70-6a80-4471-a4db-c5e75c70cfae",
+              "chunk_title": "Geographical Hierarchy",
+              "chunk_summary": "This chunk contains information about the hierarchical geographical location of places within counties, states, and countries, as well as their adjacency relationships.",
+              "context_title": "Biloxi, Mississippi",
+              "page_content": "Gulfport adjoins Biloxi. Biloxi is in Harrison County. Biloxi is a county seat of Harrison County. Mississippi is in the United States. Gulfport is a county seat of Harrison County. Harrison County is in Mississippi."
+            },
+            {
+              "chunk_id": "f2f58ce0-8594-427a-9130-235eb0a20ea8",
+              "chunk_title": "Henderson Point Location",
+              "chunk_summary": "This chunk contains information about the geographic location and administrative classification of Henderson Point, Mississippi.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "Henderson Point is a census-designated place (CDP). Henderson Point is part of the Gulfport–Biloxi Metropolitan Statistical Area. Henderson Point is in Harrison County, Mississippi, United States."
+            },
+            {
+              "chunk_id": "0232331a-2444-4ff8-bc23-8655e4f6f7f5",
+              "chunk_title": "US Town Demographics",
+              "chunk_summary": "This chunk contains information about the location, administrative details, and population statistics of towns in the United States.",
+              "context_title": "Halifax, North Carolina",
+              "page_content": "The population of Halifax was 234 at the 2010 census. Halifax is the county seat of Halifax County. Halifax is a town in Halifax County, North Carolina, United States."
+            },
+            {
+              "chunk_id": "672a591f-4357-414e-a798-25b4185d4090",
+              "chunk_title": "Henderson Location & Status",
+              "chunk_summary": "This chunk contains information about the location and administrative status of Henderson, Texas.",
+              "context_title": "Henderson, Texas",
+              "page_content": "Henderson is the county seat of Rusk County. Henderson is a city in Rusk County, northeast Texas, United States."
+            },
+            {
+              "chunk_id": "4f20c3c8-fd61-4939-9769-68ed24ab2313",
+              "chunk_title": "Henderson County, KY",
+              "chunk_summary": "This chunk contains information about the location, population, county seats, formation dates, and naming origins of Henderson County in Kentucky.",
+              "context_title": "Henderson County, Kentucky",
+              "page_content": "As of the 2010 census, the population of Henderson County was 46,250. Henderson County is a county located in the U.S. state of Kentucky. Part of the land purchased by Colonel Richard Henderson from the Cherokee Indians would eventually make up Henderson County. Henderson County was formed in 1798. The county seat of Henderson County is Henderson. Henderson County was named for Colonel Richard Henderson."
+            },
+            {
+              "chunk_id": "259ddaa8-44fa-442e-b2dd-77e65df2d73b",
+              "chunk_title": "Hendersonville & County Overview",
+              "chunk_summary": "This chunk contains information about the location, administrative status, and naming origin of Hendersonville and Henderson County, North Carolina.",
+              "context_title": "Hendersonville, North Carolina",
+              "page_content": "Hendersonville is a city in Henderson County, North Carolina, United States. Henderson County is named for Leonard Henderson. Hendersonville is the county seat of Henderson County. Hendersonville is 22 miles south of Asheville. The city of Hendersonville is named for Leonard Henderson."
+            },
+            {
+              "chunk_id": "228f64e7-91fe-4c6b-b53d-cb0316203802",
+              "chunk_title": "County Seat Disputes",
+              "chunk_summary": "This chunk contains information about historical disputes and election outcomes regarding county seat designations, including instances of fraud and the eventual resolution of competition between towns.",
+              "context_title": "Johnston Library",
+              "page_content": "Baxter Springs ultimately gave up its attempts to become the county seat after Columbus completed its jail in 1880. Baxter Springs lost an election to choose the county seat in 1869 to Columbus. Baxter Springs hoped it could still become county seat in the future after losing the 1869 election. Supporters of Baxter Springs and Columbus attempted to fraudulently swing the 1869 election in their favor."
+            },
+            {
+              "chunk_id": "a8ab60d8-8853-4296-8484-6fcaaeb83dcb",
+              "chunk_title": "City Locations & Administration",
+              "chunk_summary": "This chunk contains information about the location, administrative status, relative size, and population of Pontotoc, Mississippi; please add similar details for other cities or counties.",
+              "context_title": "Pontotoc, Mississippi",
+              "page_content": "Pontotoc is located to the west of Tupelo. The population of Pontotoc was 5,625 at the 2010 census. Tupelo is a much larger city than Pontotoc. Pontotoc is the county seat of Pontotoc County, Mississippi. Pontotoc is a city in Pontotoc County, Mississippi."
+            },
+            {
+              "chunk_id": "6a4cab28-fb20-45f7-975c-738a4e3b8710",
+              "chunk_title": "County Locations & Seats",
+              "chunk_summary": "This chunk contains information about the geographical location and county seats of specific counties.",
+              "context_title": "Pontotoc County, Oklahoma",
+              "page_content": "Pontotoc County is in the south central part of Oklahoma. The county seat of Pontotoc County is Ada."
+            },
+            {
+              "chunk_id": "7c3d7bcf-c8e8-4249-b7b1-aebd9a4cfd8f",
+              "chunk_title": "Cities & Demographics",
+              "chunk_summary": "This chunk contains information about cities, including their names, administrative classifications such as county seats, and population statistics.",
+              "context_title": "Lamar, Missouri",
+              "page_content": "Lamar is the county seat of Barton County, Missouri, United States. Lamar is a city. As of the 2010 census, the population of Lamar was 4,532."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Where is the county seat for people living in Henderson Point, Mississippi?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where is the county seat for people living in Henderson Point, Mississippi?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Henderson Point, Mississippi 居民所属的 county seat 位置。子节点推理链已完整：N1_1 确认 Henderson Point 位于 Harrison County，N1_2 确认 Harrison County 的 county seat 为 Biloxi and Gulfport。聚合后可直接回答 Q。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1 确认 Henderson Point 位于 Harrison County（单来源 f2f58ce0 直接陈述 'Henderson Point is in Harrison County, Mississippi, United States'），N1_2 确认 Harrison County 的 county seat 为 Biloxi 和 Gulfport（单来源 ab1fff70 直接陈述 'Biloxi is a county seat of Harrison County' 和 'Gulfport is a county seat of Harrison County'）。推理链完整：Henderson Point → Harrison County → Biloxi and Gulfport。",
+          "critic_normative_advice": "推理链完整且一致，建议 INHERIT 保留。子节点 N1_1 和 N1_2 的证据充分，聚合后可直接回答 Q。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What county is Henderson Point, Mississippi located in?",
+          "answer": "Harrison County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What county is Henderson Point, Mississippi located in?",
+          "planner_rationale": "Q 询问 Henderson Point 居民的 county seat，必须先确定 Henderson Point 属于哪个县。该节点已 SOLVED + healthy，answer 'Harrison County' 由直接来源 f2f58ce0 明确陈述，证据充分。",
+          "solver_judgment": "question 要求确认 Henderson Point, Mississippi 所在的县。search_query 准确搜索了该问题。chunks 返回了 f2f58ce0-8594-427a-9130-235eb0a20ea8，其中明确记载 'Henderson Point is in Harrison County, Mississippi, United States.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Henderson Point, Mississippi），单来源但直接、具体地陈述了答案。支撑 chunk f2f58ce0 全文记载 'Henderson Point is in Harrison County, Mississippi, United States.'，与声称答案 'Harrison County' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——chunk 直接明确地回答了问题，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f2f58ce0-8594-427a-9130-235eb0a20ea8"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f2f58ce0-8594-427a-9130-235eb0a20ea8",
+              "chunk_title": "Henderson Point Location",
+              "chunk_summary": "This chunk contains information about the geographic location and administrative classification of Henderson Point, Mississippi.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "Henderson Point is a census-designated place (CDP). Henderson Point is part of the Gulfport–Biloxi Metropolitan Statistical Area. Henderson Point is in Harrison County, Mississippi, United States."
+            },
+            {
+              "chunk_id": "672a591f-4357-414e-a798-25b4185d4090",
+              "chunk_title": "Henderson Location & Status",
+              "chunk_summary": "This chunk contains information about the location and administrative status of Henderson, Texas.",
+              "context_title": "Henderson, Texas",
+              "page_content": "Henderson is the county seat of Rusk County. Henderson is a city in Rusk County, northeast Texas, United States."
+            },
+            {
+              "chunk_id": "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "The population of Henderson Point was 170 at the 2010 census."
+            },
+            {
+              "chunk_id": "ab1fff70-6a80-4471-a4db-c5e75c70cfae",
+              "chunk_title": "Geographical Hierarchy",
+              "chunk_summary": "This chunk contains information about the hierarchical geographical location of places within counties, states, and countries, as well as their adjacency relationships.",
+              "context_title": "Biloxi, Mississippi",
+              "page_content": "Gulfport adjoins Biloxi. Biloxi is in Harrison County. Biloxi is a county seat of Harrison County. Mississippi is in the United States. Gulfport is a county seat of Harrison County. Harrison County is in Mississippi."
+            },
+            {
+              "chunk_id": "477e1d12-8935-4c98-98ce-e75e6dd01264",
+              "chunk_title": "School District Overview",
+              "chunk_summary": "This chunk contains information about the classification, nature, and location of specific school districts.",
+              "context_title": "Pontotoc County School District",
+              "page_content": "The Pontotoc County School District is a public school district. The Pontotoc County School District is based in Pontotoc County, Mississippi."
+            },
+            {
+              "chunk_id": "43b84999-b6ec-4d9e-9ccd-23b81e071755",
+              "chunk_title": "USA Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of places within the USA.",
+              "context_title": "Pontotoc County School District",
+              "page_content": "Pontotoc County, Mississippi is in the USA."
+            },
+            {
+              "chunk_id": "a8ab60d8-8853-4296-8484-6fcaaeb83dcb",
+              "chunk_title": "City Locations & Administration",
+              "chunk_summary": "This chunk contains information about the location, administrative status, relative size, and population of Pontotoc, Mississippi; please add similar details for other cities or counties.",
+              "context_title": "Pontotoc, Mississippi",
+              "page_content": "Pontotoc is located to the west of Tupelo. The population of Pontotoc was 5,625 at the 2010 census. Tupelo is a much larger city than Pontotoc. Pontotoc is the county seat of Pontotoc County, Mississippi. Pontotoc is a city in Pontotoc County, Mississippi."
+            },
+            {
+              "chunk_id": "849ec574-dee4-42a6-9640-6857a62890e5",
+              "chunk_title": "Unincorporated Communities",
+              "chunk_summary": "This chunk contains information about unincorporated communities and their locations within specific counties.",
+              "context_title": "Paulding, Mississippi",
+              "page_content": "Paulding is an unincorporated community in Jasper County, Mississippi."
+            },
+            {
+              "chunk_id": "4f20c3c8-fd61-4939-9769-68ed24ab2313",
+              "chunk_title": "Henderson County, KY",
+              "chunk_summary": "This chunk contains information about the location, population, county seats, formation dates, and naming origins of Henderson County in Kentucky.",
+              "context_title": "Henderson County, Kentucky",
+              "page_content": "As of the 2010 census, the population of Henderson County was 46,250. Henderson County is a county located in the U.S. state of Kentucky. Part of the land purchased by Colonel Richard Henderson from the Cherokee Indians would eventually make up Henderson County. Henderson County was formed in 1798. The county seat of Henderson County is Henderson. Henderson County was named for Colonel Richard Henderson."
+            },
+            {
+              "chunk_id": "4cb434d3-3708-42d8-91b7-0c3bc2295a82",
+              "chunk_title": "Pontotoc County Overview",
+              "chunk_summary": "This chunk contains information about the location, population, county seats, creation history, and historical landmarks of Pontotoc County in Mississippi.",
+              "context_title": "Pontotoc County, Mississippi",
+              "page_content": "Pontotoc County is a county located in the U.S. state of Mississippi. As of the 2010 census, the population of Pontotoc County was 29,957. The current-day Natchez Trace Parkway passes through the southeast corner of Pontotoc County. The county seat of Pontotoc County is Pontotoc. Pontotoc County was created from lands ceded to the United States under the Chickasaw Cession. The original Natchez Trace passes through the southeast corner of Pontotoc County. Pontotoc County was created on February 9, 1836."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the county seat of that county?",
+          "answer": "Biloxi and Gulfport",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Harrison County county seat",
+          "planner_rationale": "Q 的核心询问——county seat 的具体位置。该节点已 SOLVED + healthy，answer 'Biloxi and Gulfport' 由直接来源 ab1fff70 明确陈述（Harrison County 有两个 county seat），证据充分。",
+          "solver_judgment": "question 要求确认'that county'的县治。search_query 搜索了'Harrison County county seat'，明确了目标县为 Harrison County。chunk `ab1fff70-6a80-4471-a4db-c5e75c70cfae` 明确记载 'Biloxi is a county seat of Harrison County' 和 'Gulfport is a county seat of Harrison County'。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Biloxi, Mississippi），单来源但直接、具体地陈述了答案。支撑 chunk ab1fff70 全文记载 'Biloxi is a county seat of Harrison County' 和 'Gulfport is a county seat of Harrison County'，与声称答案 'Biloxi and Gulfport' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——chunk 直接明确地回答了 Harrison County 有两个 county seat，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "ab1fff70-6a80-4471-a4db-c5e75c70cfae"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "ab1fff70-6a80-4471-a4db-c5e75c70cfae",
+              "chunk_title": "Geographical Hierarchy",
+              "chunk_summary": "This chunk contains information about the hierarchical geographical location of places within counties, states, and countries, as well as their adjacency relationships.",
+              "context_title": "Biloxi, Mississippi",
+              "page_content": "Gulfport adjoins Biloxi. Biloxi is in Harrison County. Biloxi is a county seat of Harrison County. Mississippi is in the United States. Gulfport is a county seat of Harrison County. Harrison County is in Mississippi."
+            },
+            {
+              "chunk_id": "f2f58ce0-8594-427a-9130-235eb0a20ea8",
+              "chunk_title": "Henderson Point Location",
+              "chunk_summary": "This chunk contains information about the geographic location and administrative classification of Henderson Point, Mississippi.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "Henderson Point is a census-designated place (CDP). Henderson Point is part of the Gulfport–Biloxi Metropolitan Statistical Area. Henderson Point is in Harrison County, Mississippi, United States."
+            },
+            {
+              "chunk_id": "0232331a-2444-4ff8-bc23-8655e4f6f7f5",
+              "chunk_title": "US Town Demographics",
+              "chunk_summary": "This chunk contains information about the location, administrative details, and population statistics of towns in the United States.",
+              "context_title": "Halifax, North Carolina",
+              "page_content": "The population of Halifax was 234 at the 2010 census. Halifax is the county seat of Halifax County. Halifax is a town in Halifax County, North Carolina, United States."
+            },
+            {
+              "chunk_id": "672a591f-4357-414e-a798-25b4185d4090",
+              "chunk_title": "Henderson Location & Status",
+              "chunk_summary": "This chunk contains information about the location and administrative status of Henderson, Texas.",
+              "context_title": "Henderson, Texas",
+              "page_content": "Henderson is the county seat of Rusk County. Henderson is a city in Rusk County, northeast Texas, United States."
+            },
+            {
+              "chunk_id": "4f20c3c8-fd61-4939-9769-68ed24ab2313",
+              "chunk_title": "Henderson County, KY",
+              "chunk_summary": "This chunk contains information about the location, population, county seats, formation dates, and naming origins of Henderson County in Kentucky.",
+              "context_title": "Henderson County, Kentucky",
+              "page_content": "As of the 2010 census, the population of Henderson County was 46,250. Henderson County is a county located in the U.S. state of Kentucky. Part of the land purchased by Colonel Richard Henderson from the Cherokee Indians would eventually make up Henderson County. Henderson County was formed in 1798. The county seat of Henderson County is Henderson. Henderson County was named for Colonel Richard Henderson."
+            },
+            {
+              "chunk_id": "259ddaa8-44fa-442e-b2dd-77e65df2d73b",
+              "chunk_title": "Hendersonville & County Overview",
+              "chunk_summary": "This chunk contains information about the location, administrative status, and naming origin of Hendersonville and Henderson County, North Carolina.",
+              "context_title": "Hendersonville, North Carolina",
+              "page_content": "Hendersonville is a city in Henderson County, North Carolina, United States. Henderson County is named for Leonard Henderson. Hendersonville is the county seat of Henderson County. Hendersonville is 22 miles south of Asheville. The city of Hendersonville is named for Leonard Henderson."
+            },
+            {
+              "chunk_id": "228f64e7-91fe-4c6b-b53d-cb0316203802",
+              "chunk_title": "County Seat Disputes",
+              "chunk_summary": "This chunk contains information about historical disputes and election outcomes regarding county seat designations, including instances of fraud and the eventual resolution of competition between towns.",
+              "context_title": "Johnston Library",
+              "page_content": "Baxter Springs ultimately gave up its attempts to become the county seat after Columbus completed its jail in 1880. Baxter Springs lost an election to choose the county seat in 1869 to Columbus. Baxter Springs hoped it could still become county seat in the future after losing the 1869 election. Supporters of Baxter Springs and Columbus attempted to fraudulently swing the 1869 election in their favor."
+            },
+            {
+              "chunk_id": "a8ab60d8-8853-4296-8484-6fcaaeb83dcb",
+              "chunk_title": "City Locations & Administration",
+              "chunk_summary": "This chunk contains information about the location, administrative status, relative size, and population of Pontotoc, Mississippi; please add similar details for other cities or counties.",
+              "context_title": "Pontotoc, Mississippi",
+              "page_content": "Pontotoc is located to the west of Tupelo. The population of Pontotoc was 5,625 at the 2010 census. Tupelo is a much larger city than Pontotoc. Pontotoc is the county seat of Pontotoc County, Mississippi. Pontotoc is a city in Pontotoc County, Mississippi."
+            },
+            {
+              "chunk_id": "6a4cab28-fb20-45f7-975c-738a4e3b8710",
+              "chunk_title": "County Locations & Seats",
+              "chunk_summary": "This chunk contains information about the geographical location and county seats of specific counties.",
+              "context_title": "Pontotoc County, Oklahoma",
+              "page_content": "Pontotoc County is in the south central part of Oklahoma. The county seat of Pontotoc County is Ada."
+            },
+            {
+              "chunk_id": "7c3d7bcf-c8e8-4249-b7b1-aebd9a4cfd8f",
+              "chunk_title": "Cities & Demographics",
+              "chunk_summary": "This chunk contains information about cities, including their names, administrative classifications such as county seats, and population statistics.",
+              "context_title": "Lamar, Missouri",
+              "page_content": "Lamar is the county seat of Barton County, Missouri, United States. Lamar is a city. As of the 2010 census, the population of Lamar was 4,532."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What county is Henderson Point, Mississippi located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f2f58ce0-8594-427a-9130-235eb0a20ea8",
+        "672a591f-4357-414e-a798-25b4185d4090",
+        "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+        "ab1fff70-6a80-4471-a4db-c5e75c70cfae",
+        "477e1d12-8935-4c98-98ce-e75e6dd01264",
+        "43b84999-b6ec-4d9e-9ccd-23b81e071755",
+        "a8ab60d8-8853-4296-8484-6fcaaeb83dcb",
+        "849ec574-dee4-42a6-9640-6857a62890e5",
+        "4f20c3c8-fd61-4939-9769-68ed24ab2313",
+        "4cb434d3-3708-42d8-91b7-0c3bc2295a82"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Harrison County county seat",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "ab1fff70-6a80-4471-a4db-c5e75c70cfae",
+        "f2f58ce0-8594-427a-9130-235eb0a20ea8",
+        "0232331a-2444-4ff8-bc23-8655e4f6f7f5",
+        "672a591f-4357-414e-a798-25b4185d4090",
+        "4f20c3c8-fd61-4939-9769-68ed24ab2313",
+        "259ddaa8-44fa-442e-b2dd-77e65df2d73b",
+        "228f64e7-91fe-4c6b-b53d-cb0316203802",
+        "a8ab60d8-8853-4296-8484-6fcaaeb83dcb",
+        "6a4cab28-fb20-45f7-975c-738a4e3b8710",
+        "7c3d7bcf-c8e8-4249-b7b1-aebd9a4cfd8f"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What county is Henderson Point, Mississippi located in?（理由：Q 问的是 Henderson Point 居民的 county seat，必须先确定该地属于哪个县），F2: What is the county seat of that county?（理由：Q 的核心询问——该县县治的具体位置）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'that county' 必须用 F1 的 answer 消解后才能搜索）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question='What county is Henderson Point, Mississippi located in?'，rationale='确定 Henderson Point 所属县'），$2（question='What is the county seat of that county?'，rationale='确定该县县治位置'）。新增边: N0→$1（decomposition），N0→$2（decomposition），$1→$2（dependency）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①（所有非根节点已 SOLVED）通过；条件②（推理链语义匹配）通过——N1_1 answer='Harrison County' 正确消解 N1_2 question 中的 'that county'，依赖链语义有效；条件③（全部节点 healthy）通过——N0、N1_1、N1_2 均为 healthy；条件④（首轮不适用）视为通过。推理链完整：Henderson Point"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What county is Henderson Point, Mississippi located in?（理由：Q 问的是 Henderson Point 居民的 county seat，必须先确定该地属于哪个县），F2: What is the county seat of that county?（理由：Q 的核心询问——该县县治的具体位置）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'that county' 必须用 F1 的 answer 消解后才能搜索）。当前 DAG 已完整覆盖 Q 的所有语义需求，推理链 Henderson Point → Harrison County → Biloxi and Gulfport 已确立，无需新增节点或调整结构。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均 INHERIT 保留，所有边均 LINK 保留。原因：Critic 确认 N1_1 和 N1_2 均已 SOLVED + healthy，证据充分且直接回答问题；推理链完整一致（Henderson Point → Harrison County → Biloxi and Gulfport）；无结构缺口、无冗余、无阻塞。DAG 已达到理想状态，可直接聚合子节点答案回答 Q。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未完全满足——系统提示需连续 2 轮拓扑不变方可确认条件④，本轮为首次出现拓扑不变（§5 注明'如这是首次出现拓扑不变，本轮通过不意味着条件④已满足——还需下一轮确认'）。条件①②③均已满足：所有非根节点 SOLVED，推理链语义完整（N1_1 answer='Harrison County' 消解 N1_2 的 'that county'），所有节点 healthy。需下一轮拓扑再次不变后"
+      }
+    }
+  ]
+}

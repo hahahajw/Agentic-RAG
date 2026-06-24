@@ -1,0 +1,677 @@
+{
+  "question_index": 411,
+  "question_id": "d4bac26008fd11ebbdadac1f6bf848b6",
+  "question": "Which film was released more recently, Son Of France or Switchmas?",
+  "answer": "Switchmas",
+  "prediction": "Switchmas",
+  "error": null,
+  "latency_ms": 249351.65060000145,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T18:25:33.235269+00:00",
+  "chunks": [
+    {
+      "chunk_id": "044279c7-eda6-4d0e-bb6d-f2f9aeabace3",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1946 French drama film \"Son of France,\" including its title, director, cast, and production details.",
+      "context_title": "Son of France",
+      "page_content": "Son of France was directed by Pierre Blondy. Son of France starred Jimmy Gaillard. The French title of Son of France is Fils de France. Son of France starred Jacques Famery. Son of France is a 1946 French drama film. Son of France was made with the assistance of the French Army Film Service. Son of France starred Jean Mercanton."
+    },
+    {
+      "chunk_id": "15cc0275-5807-4932-b7e8-bc9980005c5d",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of films.",
+      "context_title": "Jules Sitruk",
+      "page_content": "\"Son of Rambow\" was filmed in 2006. \"Moi César\" was released in 2003. \"Vipère au poing\" was released in 2004. \"Les Aiguilles rouges\" was released in 2005. \"Monsieur Batignole\" was released in 2001."
+    },
+    {
+      "chunk_id": "0d472822-b839-4d98-86ab-59e37be59fd8",
+      "chunk_title": "Son of Rambow Overview",
+      "chunk_summary": "This chunk contains information about the 2007 British comedy film \"Son of Rambow,\" including its production details, inspiration, festival screenings, release dates, setting, and plot.",
+      "context_title": "Son of Rambow",
+      "page_content": "Son of Rambow was shown at the Glasgow Film Festival. Son of Rambow premiered on 22 January 2007 at the Sundance Film Festival. Son of Rambow opened in limited release in the United States on 2 May 2008. Son of Rambow is a coming of age story about two schoolboys. Son of Rambow was shown at the Newport Beach Film Festival. Son of Rambow was inspired by First Blood. Son of Rambow is a 2007 British comedy film. Son of Rambow was shown at the 51st BFI London Film Festival. Son of Rambow was shown at the Seattle International Film Festival. Son of Rambow was directed by Garth Jennings. Son of Rambow was written by Garth Jennings. Son of Rambow was released in the United Kingdom on 4 April 2008. Son of Rambow was shown at the Toronto International Film Festival. Son of Rambow is set over a summer during the dawn of Thatcher's Britain. The amateur film in Son of Rambow is inspired by First Blood. The two schoolboys in Son of Rambow attempt to make an amateur film."
+    },
+    {
+      "chunk_id": "de1266c8-159a-4e7d-aa4a-752980b1d752",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+      "context_title": "The Seventh Company Outdoors",
+      "page_content": "The Seventh Company Outdoors was directed by Robert Lamoureux. The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?."
+    },
+    {
+      "chunk_id": "5068c562-5feb-49d4-9484-4b1356f98985",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+      "context_title": "The Seventh Company Outdoors",
+      "page_content": "The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors was directed by Robert Lamoureux."
+    },
+    {
+      "chunk_id": "c9274bcc-5679-44c0-b839-5562fd4b1e80",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+      "context_title": "The Seventh Company Outdoors",
+      "page_content": "Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors is a 1977 French comedy film. The Seventh Company Outdoors was directed by Robert Lamoureux."
+    },
+    {
+      "chunk_id": "3079f9b5-8de5-4c47-a1d3-958ef59f57d7",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, and sequel relationships.",
+      "context_title": "The Seventh Company Outdoors",
+      "page_content": "The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director. The Seventh Company Outdoors was directed by Robert Lamoureux."
+    },
+    {
+      "chunk_id": "ffdded6c-c913-4042-a20f-079dfafd7518",
+      "chunk_title": "Films & Directors",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+      "context_title": "The Seventh Company Outdoors",
+      "page_content": "The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors was directed by Robert Lamoureux. The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director."
+    },
+    {
+      "chunk_id": "b2faf42e-626c-43dd-9b9e-f8876d1cb37a",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+      "context_title": "The Seventh Company Outdoors",
+      "page_content": "Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors was directed by Robert Lamoureux. The Seventh Company Outdoors is a 1977 French comedy film."
+    },
+    {
+      "chunk_id": "05556e50-5784-455c-9937-c87ee5d9aef4",
+      "chunk_title": "Film Details & Origins",
+      "chunk_summary": "This chunk contains information about films, including their original titles, release dates, countries of origin, and genres.",
+      "context_title": "Looking for Hortense",
+      "page_content": "Looking for Hortense is a film. The original title of Looking for Hortense is Cherchez Hortense. Looking for Hortense is a comedy-drama film. Looking for Hortense was released in 2012. Looking for Hortense is a French film."
+    },
+    {
+      "chunk_id": "4bdf9850-8ce8-4f2f-9738-564690070003",
+      "chunk_title": "Switchmas Film Details",
+      "chunk_summary": "This chunk contains information about the film Switchmas, including its genre, country of origin, title history, director, plot summary, visual effects, and festival screenings.",
+      "context_title": "Switchmas",
+      "page_content": "The Christmas obsessed Jewish boy figures out how to get the Christmas of his dreams by trading airline tickets and places with another boy. Switchmas was earlier titled All I Want Is Christmas. Switchmas was earlier titled Ira Finkelstein's Christmas. Switchmas was included in the 2012 Seattle International Film Festival. Switchmas is an American musical comedy film. Switchmas is directed by Sue Corcoran. Switchmas tells the story of a Christmas obsessed Jewish boy on his way to sunny Florida. Switchmas was originally filmed under the title Ira Finkelstein's Christmas. At a local screening in 2012, Switchmas had the title All I want is Christmas. Switchmas features CGI scenes based on Ira's Christmas dreams."
+    },
+    {
+      "chunk_id": "3e174fb5-1d07-44c6-89f5-cbcdea6587dd",
+      "chunk_title": "Travel & Locations",
+      "chunk_summary": "This chunk contains information about characters traveling to specific locations and the filming locations of productions.",
+      "context_title": "Switchmas",
+      "page_content": "The other boy is on his way to snowy Christmastown, Washington. Switchmas was originally filmed in Leavenworth, Washington."
+    },
+    {
+      "chunk_id": "405cec75-5454-4b1c-9dfa-296c3e9b6db0",
+      "chunk_title": "Cast & Crew",
+      "chunk_summary": "This chunk contains information about the cast and crew of movies or TV shows, specifically listing actors and producers involved in productions like Switchmas.",
+      "context_title": "Switchmas",
+      "page_content": "Switchmas stars David DeLuise. Switchmas is produced by Sue Corcoran. Switchmas stars Elliott Gould."
+    },
+    {
+      "chunk_id": "d5e674fa-65e5-4bcb-8c9f-a81847d6b9ba",
+      "chunk_title": "Media Release Dates & Formats",
+      "chunk_summary": "This chunk contains information about media release dates and formats.",
+      "context_title": "Konjiki no Gash Bell!! Movie 2: Attack of the Mecha-Vulcan",
+      "page_content": "Discotek Media released both movies on Blu-ray and DVD for the first time in North America on March 27, 2018."
+    },
+    {
+      "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+      "chunk_title": "Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+      "context_title": "California Winter",
+      "page_content": "California Winter was released in 2012."
+    },
+    {
+      "chunk_id": "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+      "context_title": "California Winter",
+      "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+    },
+    {
+      "chunk_id": "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+      "context_title": "Shima (film)",
+      "page_content": "Shima was released in 2007. Shima is a film."
+    },
+    {
+      "chunk_id": "a089d423-0d82-4bca-bb1e-5f0a3449395f",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+      "context_title": "California Winter",
+      "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+    },
+    {
+      "chunk_id": "ae8e1310-ad67-44bb-88d1-35c1fcb344c2",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+      "context_title": "California Winter",
+      "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+    },
+    {
+      "chunk_id": "4b2f25eb-2632-48dc-90e8-9ca1049dc94f",
+      "chunk_title": "Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of various items or events.",
+      "context_title": "Water (Beautiful Girls album)",
+      "page_content": "Water was released in 2006."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 10,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which film was released more recently, Son Of France or Switchmas?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released more recently, Son Of France or Switchmas?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影的发行日期以确定哪部更新",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 answer=1946，N1_2 answer=2012。推理链完整：1946 < 2012，因此 Switchmas 发行时间更近。两个子节点均为 healthy，推理逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，可直接用于生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film Son Of France released?",
+          "answer": "1946",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Son Of France released?",
+          "planner_rationale": "Q 要求比较两部电影的发行时间，需要先获取 Son Of France 的发行日期",
+          "solver_judgment": "question 要求确认电影《Son Of France》的上映时间。search_query 搜索了 'When was the film Son Of France released?'。chunks 返回了关于该电影的详细信息，其中 chunk 044279c7-eda6-4d0e-bb6d-f2f9aeabace3 明确指出 'Son of France is a 1946 French drama film'，直接提供了上映年份 1946。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Son of France），直接且具体地陈述了答案。支撑 chunk [044279c7-eda6-4d0e-bb6d-f2f9aeabace3] 原文明确写道 'Son of France is a 1946 French drama film'，与声称答案 1946 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "044279c7-eda6-4d0e-bb6d-f2f9aeabace3"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "044279c7-eda6-4d0e-bb6d-f2f9aeabace3",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1946 French drama film \"Son of France,\" including its title, director, cast, and production details.",
+              "context_title": "Son of France",
+              "page_content": "Son of France was directed by Pierre Blondy. Son of France starred Jimmy Gaillard. The French title of Son of France is Fils de France. Son of France starred Jacques Famery. Son of France is a 1946 French drama film. Son of France was made with the assistance of the French Army Film Service. Son of France starred Jean Mercanton."
+            },
+            {
+              "chunk_id": "15cc0275-5807-4932-b7e8-bc9980005c5d",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films.",
+              "context_title": "Jules Sitruk",
+              "page_content": "\"Son of Rambow\" was filmed in 2006. \"Moi César\" was released in 2003. \"Vipère au poing\" was released in 2004. \"Les Aiguilles rouges\" was released in 2005. \"Monsieur Batignole\" was released in 2001."
+            },
+            {
+              "chunk_id": "0d472822-b839-4d98-86ab-59e37be59fd8",
+              "chunk_title": "Son of Rambow Overview",
+              "chunk_summary": "This chunk contains information about the 2007 British comedy film \"Son of Rambow,\" including its production details, inspiration, festival screenings, release dates, setting, and plot.",
+              "context_title": "Son of Rambow",
+              "page_content": "Son of Rambow was shown at the Glasgow Film Festival. Son of Rambow premiered on 22 January 2007 at the Sundance Film Festival. Son of Rambow opened in limited release in the United States on 2 May 2008. Son of Rambow is a coming of age story about two schoolboys. Son of Rambow was shown at the Newport Beach Film Festival. Son of Rambow was inspired by First Blood. Son of Rambow is a 2007 British comedy film. Son of Rambow was shown at the 51st BFI London Film Festival. Son of Rambow was shown at the Seattle International Film Festival. Son of Rambow was directed by Garth Jennings. Son of Rambow was written by Garth Jennings. Son of Rambow was released in the United Kingdom on 4 April 2008. Son of Rambow was shown at the Toronto International Film Festival. Son of Rambow is set over a summer during the dawn of Thatcher's Britain. The amateur film in Son of Rambow is inspired by First Blood. The two schoolboys in Son of Rambow attempt to make an amateur film."
+            },
+            {
+              "chunk_id": "de1266c8-159a-4e7d-aa4a-752980b1d752",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "The Seventh Company Outdoors was directed by Robert Lamoureux. The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?."
+            },
+            {
+              "chunk_id": "5068c562-5feb-49d4-9484-4b1356f98985",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors was directed by Robert Lamoureux."
+            },
+            {
+              "chunk_id": "c9274bcc-5679-44c0-b839-5562fd4b1e80",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors is a 1977 French comedy film. The Seventh Company Outdoors was directed by Robert Lamoureux."
+            },
+            {
+              "chunk_id": "3079f9b5-8de5-4c47-a1d3-958ef59f57d7",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director. The Seventh Company Outdoors was directed by Robert Lamoureux."
+            },
+            {
+              "chunk_id": "ffdded6c-c913-4042-a20f-079dfafd7518",
+              "chunk_title": "Films & Directors",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors was directed by Robert Lamoureux. The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director."
+            },
+            {
+              "chunk_id": "b2faf42e-626c-43dd-9b9e-f8876d1cb37a",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors was directed by Robert Lamoureux. The Seventh Company Outdoors is a 1977 French comedy film."
+            },
+            {
+              "chunk_id": "05556e50-5784-455c-9937-c87ee5d9aef4",
+              "chunk_title": "Film Details & Origins",
+              "chunk_summary": "This chunk contains information about films, including their original titles, release dates, countries of origin, and genres.",
+              "context_title": "Looking for Hortense",
+              "page_content": "Looking for Hortense is a film. The original title of Looking for Hortense is Cherchez Hortense. Looking for Hortense is a comedy-drama film. Looking for Hortense was released in 2012. Looking for Hortense is a French film."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film Switchmas released?",
+          "answer": "2012",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Switchmas released?",
+          "planner_rationale": "Q 要求比较两部电影的发行时间，需要先获取 Switchmas 的发行日期",
+          "solver_judgment": "question 要求电影 Switchmas 的上映/发行时间。search_query 搜索了 'When was the film Switchmas released?'。chunks 返回了关于 Switchmas 的详细信息，其中 chunk 4bdf9850-8ce8-4f2f-9738-564690070003 记载 'Switchmas was included in the 2012 Seattle International Film Festival' 以及 'At a local screening in 2012'。虽然 chunks 没有提供具体的月日，但明确指出了 2012 年这一时间点。检索命中了相关年份信息，但缺乏精确的具体日期。",
+          "critic_factual_notes": "1 个来源（文档 Switchmas），支撑 chunk [4bdf9850-8ce8-4f2f-9738-564690070003] 原文记载 'Switchmas was included in the 2012 Seattle International Film Festival' 以及 'At a local screening in 2012'。虽未使用 'released' 一词，但电影节参展和 2012 年本地放映明确指向 2012 年为发行/首映年份。交叉验证：不充分（仅 1 个来源），但对于比较型问题（1946 vs 2012），证据充分度足够。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接相关，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "4bdf9850-8ce8-4f2f-9738-564690070003"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "4bdf9850-8ce8-4f2f-9738-564690070003",
+              "chunk_title": "Switchmas Film Details",
+              "chunk_summary": "This chunk contains information about the film Switchmas, including its genre, country of origin, title history, director, plot summary, visual effects, and festival screenings.",
+              "context_title": "Switchmas",
+              "page_content": "The Christmas obsessed Jewish boy figures out how to get the Christmas of his dreams by trading airline tickets and places with another boy. Switchmas was earlier titled All I Want Is Christmas. Switchmas was earlier titled Ira Finkelstein's Christmas. Switchmas was included in the 2012 Seattle International Film Festival. Switchmas is an American musical comedy film. Switchmas is directed by Sue Corcoran. Switchmas tells the story of a Christmas obsessed Jewish boy on his way to sunny Florida. Switchmas was originally filmed under the title Ira Finkelstein's Christmas. At a local screening in 2012, Switchmas had the title All I want is Christmas. Switchmas features CGI scenes based on Ira's Christmas dreams."
+            },
+            {
+              "chunk_id": "3e174fb5-1d07-44c6-89f5-cbcdea6587dd",
+              "chunk_title": "Travel & Locations",
+              "chunk_summary": "This chunk contains information about characters traveling to specific locations and the filming locations of productions.",
+              "context_title": "Switchmas",
+              "page_content": "The other boy is on his way to snowy Christmastown, Washington. Switchmas was originally filmed in Leavenworth, Washington."
+            },
+            {
+              "chunk_id": "405cec75-5454-4b1c-9dfa-296c3e9b6db0",
+              "chunk_title": "Cast & Crew",
+              "chunk_summary": "This chunk contains information about the cast and crew of movies or TV shows, specifically listing actors and producers involved in productions like Switchmas.",
+              "context_title": "Switchmas",
+              "page_content": "Switchmas stars David DeLuise. Switchmas is produced by Sue Corcoran. Switchmas stars Elliott Gould."
+            },
+            {
+              "chunk_id": "d5e674fa-65e5-4bcb-8c9f-a81847d6b9ba",
+              "chunk_title": "Media Release Dates & Formats",
+              "chunk_summary": "This chunk contains information about media release dates and formats.",
+              "context_title": "Konjiki no Gash Bell!! Movie 2: Attack of the Mecha-Vulcan",
+              "page_content": "Discotek Media released both movies on Blu-ray and DVD for the first time in North America on March 27, 2018."
+            },
+            {
+              "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+              "context_title": "California Winter",
+              "page_content": "California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima was released in 2007. Shima is a film."
+            },
+            {
+              "chunk_id": "a089d423-0d82-4bca-bb1e-5f0a3449395f",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "ae8e1310-ad67-44bb-88d1-35c1fcb344c2",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "4b2f25eb-2632-48dc-90e8-9ca1049dc94f",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various items or events.",
+              "context_title": "Water (Beautiful Girls album)",
+              "page_content": "Water was released in 2006."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which film was released more recently, Son Of France or Switchmas?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released more recently, Son Of France or Switchmas?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 (answer=1946) 和 N1_2 (answer=2012) 均已 SOLVED + healthy，推理链完整：1946 < 2012，因此 Switchmas 发行时间更近。可直接聚合子节点答案生成最终回答。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 answer=1946（单来源直接具体），N1_2 answer=2012（单来源直接相关）。推理链完整：1946 < 2012，因此 Switchmas 发行时间更近。两个子节点均为 healthy，推理逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，可直接用于生成最终答案。DAG 结构已收敛至理想分解。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film Son Of France released?",
+          "answer": "1946",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Son Of France released?",
+          "planner_rationale": "Q 是比较型问题，需获取 Son Of France 的发行日期以进行比较。该节点已 SOLVED，answer=1946，Critic 判为 healthy——支撑 chunk 明确陈述 'Son of France is a 1946 French drama film'，证据直接且无歧义。",
+          "solver_judgment": "question 要求确认电影《Son Of France》的上映时间。search_query 搜索了 'When was the film Son Of France released?'。chunks 返回了关于该电影的详细信息，其中 chunk 044279c7-eda6-4d0e-bb6d-f2f9aeabace3 明确指出 'Son of France is a 1946 French drama film'，直接提供了上映年份 1946。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Son of France），直接且具体地陈述了答案。支撑 chunk [044279c7-eda6-4d0e-bb6d-f2f9aeabace3] 原文明确写道 'Son of France is a 1946 French drama film'，与声称答案 1946 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "044279c7-eda6-4d0e-bb6d-f2f9aeabace3"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "044279c7-eda6-4d0e-bb6d-f2f9aeabace3",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1946 French drama film \"Son of France,\" including its title, director, cast, and production details.",
+              "context_title": "Son of France",
+              "page_content": "Son of France was directed by Pierre Blondy. Son of France starred Jimmy Gaillard. The French title of Son of France is Fils de France. Son of France starred Jacques Famery. Son of France is a 1946 French drama film. Son of France was made with the assistance of the French Army Film Service. Son of France starred Jean Mercanton."
+            },
+            {
+              "chunk_id": "15cc0275-5807-4932-b7e8-bc9980005c5d",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films.",
+              "context_title": "Jules Sitruk",
+              "page_content": "\"Son of Rambow\" was filmed in 2006. \"Moi César\" was released in 2003. \"Vipère au poing\" was released in 2004. \"Les Aiguilles rouges\" was released in 2005. \"Monsieur Batignole\" was released in 2001."
+            },
+            {
+              "chunk_id": "0d472822-b839-4d98-86ab-59e37be59fd8",
+              "chunk_title": "Son of Rambow Overview",
+              "chunk_summary": "This chunk contains information about the 2007 British comedy film \"Son of Rambow,\" including its production details, inspiration, festival screenings, release dates, setting, and plot.",
+              "context_title": "Son of Rambow",
+              "page_content": "Son of Rambow was shown at the Glasgow Film Festival. Son of Rambow premiered on 22 January 2007 at the Sundance Film Festival. Son of Rambow opened in limited release in the United States on 2 May 2008. Son of Rambow is a coming of age story about two schoolboys. Son of Rambow was shown at the Newport Beach Film Festival. Son of Rambow was inspired by First Blood. Son of Rambow is a 2007 British comedy film. Son of Rambow was shown at the 51st BFI London Film Festival. Son of Rambow was shown at the Seattle International Film Festival. Son of Rambow was directed by Garth Jennings. Son of Rambow was written by Garth Jennings. Son of Rambow was released in the United Kingdom on 4 April 2008. Son of Rambow was shown at the Toronto International Film Festival. Son of Rambow is set over a summer during the dawn of Thatcher's Britain. The amateur film in Son of Rambow is inspired by First Blood. The two schoolboys in Son of Rambow attempt to make an amateur film."
+            },
+            {
+              "chunk_id": "de1266c8-159a-4e7d-aa4a-752980b1d752",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "The Seventh Company Outdoors was directed by Robert Lamoureux. The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?."
+            },
+            {
+              "chunk_id": "5068c562-5feb-49d4-9484-4b1356f98985",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors was directed by Robert Lamoureux."
+            },
+            {
+              "chunk_id": "c9274bcc-5679-44c0-b839-5562fd4b1e80",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors is a 1977 French comedy film. The Seventh Company Outdoors was directed by Robert Lamoureux."
+            },
+            {
+              "chunk_id": "3079f9b5-8de5-4c47-a1d3-958ef59f57d7",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director. The Seventh Company Outdoors was directed by Robert Lamoureux."
+            },
+            {
+              "chunk_id": "ffdded6c-c913-4042-a20f-079dfafd7518",
+              "chunk_title": "Films & Directors",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors was directed by Robert Lamoureux. The Seventh Company Outdoors is a 1977 French comedy film. Robert Lamoureux is a director."
+            },
+            {
+              "chunk_id": "b2faf42e-626c-43dd-9b9e-f8876d1cb37a",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and sequel relationships.",
+              "context_title": "The Seventh Company Outdoors",
+              "page_content": "Robert Lamoureux is a director. The Seventh Company Outdoors is a sequel to Now Where Did the 7th Company Get to ?. The Seventh Company Outdoors was directed by Robert Lamoureux. The Seventh Company Outdoors is a 1977 French comedy film."
+            },
+            {
+              "chunk_id": "05556e50-5784-455c-9937-c87ee5d9aef4",
+              "chunk_title": "Film Details & Origins",
+              "chunk_summary": "This chunk contains information about films, including their original titles, release dates, countries of origin, and genres.",
+              "context_title": "Looking for Hortense",
+              "page_content": "Looking for Hortense is a film. The original title of Looking for Hortense is Cherchez Hortense. Looking for Hortense is a comedy-drama film. Looking for Hortense was released in 2012. Looking for Hortense is a French film."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film Switchmas released?",
+          "answer": "2012",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Switchmas released?",
+          "planner_rationale": "Q 是比较型问题，需获取 Switchmas 的发行日期以进行比较。该节点已 SOLVED，answer=2012，Critic 判为 healthy——支撑 chunk 记载 Switchmas 参展 2012 西雅图国际电影节及 2012 年本地放映，对于比较型问题（1946 vs 2012）证据充分度足够。",
+          "solver_judgment": "question 要求电影 Switchmas 的上映/发行时间。search_query 搜索了 'When was the film Switchmas released?'。chunks 返回了关于 Switchmas 的详细信息，其中 chunk 4bdf9850-8ce8-4f2f-9738-564690070003 记载 'Switchmas was included in the 2012 Seattle International Film Festival' 以及 'At a local screening in 2012'。虽然 chunks 没有提供具体的月日，但明确指出了 2012 年这一时间点。检索命中了相关年份信息，但缺乏精确的具体日期。",
+          "critic_factual_notes": "1 个来源（文档 Switchmas），支撑 chunk [4bdf9850-8ce8-4f2f-9738-564690070003] 原文记载 'Switchmas was included in the 2012 Seattle International Film Festival' 以及 'At a local screening in 2012'。虽未使用 'released' 一词，但电影节参展和 2012 年本地放映明确指向 2012 年为发行/首映年份。交叉验证：不充分（仅 1 个来源），但对于比较型问题（1946 vs 2012，差距 66 年），证据充分度足够。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接相关，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "4bdf9850-8ce8-4f2f-9738-564690070003"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "4bdf9850-8ce8-4f2f-9738-564690070003",
+              "chunk_title": "Switchmas Film Details",
+              "chunk_summary": "This chunk contains information about the film Switchmas, including its genre, country of origin, title history, director, plot summary, visual effects, and festival screenings.",
+              "context_title": "Switchmas",
+              "page_content": "The Christmas obsessed Jewish boy figures out how to get the Christmas of his dreams by trading airline tickets and places with another boy. Switchmas was earlier titled All I Want Is Christmas. Switchmas was earlier titled Ira Finkelstein's Christmas. Switchmas was included in the 2012 Seattle International Film Festival. Switchmas is an American musical comedy film. Switchmas is directed by Sue Corcoran. Switchmas tells the story of a Christmas obsessed Jewish boy on his way to sunny Florida. Switchmas was originally filmed under the title Ira Finkelstein's Christmas. At a local screening in 2012, Switchmas had the title All I want is Christmas. Switchmas features CGI scenes based on Ira's Christmas dreams."
+            },
+            {
+              "chunk_id": "3e174fb5-1d07-44c6-89f5-cbcdea6587dd",
+              "chunk_title": "Travel & Locations",
+              "chunk_summary": "This chunk contains information about characters traveling to specific locations and the filming locations of productions.",
+              "context_title": "Switchmas",
+              "page_content": "The other boy is on his way to snowy Christmastown, Washington. Switchmas was originally filmed in Leavenworth, Washington."
+            },
+            {
+              "chunk_id": "405cec75-5454-4b1c-9dfa-296c3e9b6db0",
+              "chunk_title": "Cast & Crew",
+              "chunk_summary": "This chunk contains information about the cast and crew of movies or TV shows, specifically listing actors and producers involved in productions like Switchmas.",
+              "context_title": "Switchmas",
+              "page_content": "Switchmas stars David DeLuise. Switchmas is produced by Sue Corcoran. Switchmas stars Elliott Gould."
+            },
+            {
+              "chunk_id": "d5e674fa-65e5-4bcb-8c9f-a81847d6b9ba",
+              "chunk_title": "Media Release Dates & Formats",
+              "chunk_summary": "This chunk contains information about media release dates and formats.",
+              "context_title": "Konjiki no Gash Bell!! Movie 2: Attack of the Mecha-Vulcan",
+              "page_content": "Discotek Media released both movies on Blu-ray and DVD for the first time in North America on March 27, 2018."
+            },
+            {
+              "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+              "context_title": "California Winter",
+              "page_content": "California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles and release dates.",
+              "context_title": "Shima (film)",
+              "page_content": "Shima was released in 2007. Shima is a film."
+            },
+            {
+              "chunk_id": "a089d423-0d82-4bca-bb1e-5f0a3449395f",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "ae8e1310-ad67-44bb-88d1-35c1fcb344c2",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "4b2f25eb-2632-48dc-90e8-9ca1049dc94f",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various items or events.",
+              "context_title": "Water (Beautiful Girls album)",
+              "page_content": "Water was released in 2006."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was the film Son Of France released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "044279c7-eda6-4d0e-bb6d-f2f9aeabace3",
+        "15cc0275-5807-4932-b7e8-bc9980005c5d",
+        "0d472822-b839-4d98-86ab-59e37be59fd8",
+        "de1266c8-159a-4e7d-aa4a-752980b1d752",
+        "5068c562-5feb-49d4-9484-4b1356f98985",
+        "c9274bcc-5679-44c0-b839-5562fd4b1e80",
+        "3079f9b5-8de5-4c47-a1d3-958ef59f57d7",
+        "ffdded6c-c913-4042-a20f-079dfafd7518",
+        "b2faf42e-626c-43dd-9b9e-f8876d1cb37a",
+        "05556e50-5784-455c-9937-c87ee5d9aef4"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was the film Switchmas released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "4bdf9850-8ce8-4f2f-9738-564690070003",
+        "3e174fb5-1d07-44c6-89f5-cbcdea6587dd",
+        "405cec75-5454-4b1c-9dfa-296c3e9b6db0",
+        "d5e674fa-65e5-4bcb-8c9f-a81847d6b9ba",
+        "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+        "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+        "a9404ec1-2791-4644-81d6-9c3bd5da0b11",
+        "a089d423-0d82-4bca-bb1e-5f0a3449395f",
+        "ae8e1310-ad67-44bb-88d1-35c1fcb344c2",
+        "4b2f25eb-2632-48dc-90e8-9ca1049dc94f"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was the film Son Of France released?（理由：Q 是比较型问题，需先获取第一部电影的发行日期），F2: When was the film Switchmas released?（理由：需获取第二部电影的发行日期以进行比较）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者是独立的子事实，可以并行搜索，最终通过比较两个日期来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question=\"When was the film Son Of France released?\"），$2（question=\"When was the film Switchmas released?\"）。新增边: N0→$1（decomposition），N0→$2（decomposition）。原因：Q 是一个简单的比较型问题，核心语义需求是获取两部电影的发行日期并进行时间先后比较。两个子事实相互独立，无依赖关系。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点 answer（1946, 2012）可直接聚合用于比较；③全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；④首轮不适用。推理链完整，所有节点证据充分，可生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was the film Son Of France released?（理由：Q 是比较型问题，需先获取第一部电影的发行日期），F2: When was the film Switchmas released?（理由：需获取第二部电影的发行日期以进行比较）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者是独立的子事实，可以并行搜索，最终通过比较两个日期来回答 Q。当前状态：F1 已确立（answer=1946，healthy），F2 已确立（answer=2012，healthy），推理链完整（1946 < 2012 → Switchmas 更近），DAG 已收敛，无需进一步搜索。",
+      "hypothesis_delta": "与上一轮相比无结构变更——所有三个节点（N0、N1_1、N1_2）均通过 INHERIT 保留，两条 decomposition 边（N0→N1_1、N0→N1_2）通过 LINK 显式保留。原因：上一轮的结构假设完全被验证——两个子节点均已 SOLVED + healthy，Critic 确认推理链完整且一致，Q 的所有语义需求均已覆盖。DAG 已收敛至理想结构，无需新增、删除或换标任何节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件②和③已通过：推理链语义完整（N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点答案 1946 和 2012 可直接比较），所有节点（N0, N1_1, N1_2）均为 healthy。但条件④尚未完全满足——§5 明确指出'条件④要求连续 2 轮拓扑快照相同'，且'如这是首次出现拓扑不变（即上一轮有变化），本轮通过不意味着条件④已满足——还需下一轮确认'。当前为"
+      }
+    }
+  ]
+}

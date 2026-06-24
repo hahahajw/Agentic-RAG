@@ -1,0 +1,642 @@
+{
+  "question_index": 4,
+  "question_id": "5ab985eb554299131ca42360",
+  "question": "Between Greyia and Calibanus, which genus contains more species?",
+  "answer": "Greyia",
+  "prediction": "Greyia",
+  "error": null,
+  "latency_ms": 220619.49589999995,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T03:17:23.625454+00:00",
+  "chunks": [
+    {
+      "chunk_id": "36e2a5a1-8377-44ac-8448-b89ddce234b3",
+      "chunk_title": "Plant Taxonomy",
+      "chunk_summary": "This chunk contains information about the plant genus Greyia, including its taxonomic classification, family association, and species count.",
+      "context_title": "Greyia",
+      "page_content": "Greyia contains three species. Greyia is a genus of plant. Greyia is in the family Melianthaceae."
+    },
+    {
+      "chunk_id": "446d5f32-5959-48dc-a090-3ce54f969a67",
+      "chunk_title": "Plant Genera Size & Species Count",
+      "chunk_summary": "This chunk contains information about the size and species count of specific plant genera, such as Sonerila Roxb.",
+      "context_title": "Sonerila",
+      "page_content": "The genus Sonerila Roxb. is a large genus. The genus Sonerila Roxb. includes about 175 species."
+    },
+    {
+      "chunk_id": "4616b6ab-f398-4df6-95b3-516d8f1e15c0",
+      "chunk_title": "Lophodermium Fungi Overview",
+      "chunk_summary": "This chunk contains information about the fungal genus Lophodermium, including its taxonomy, global distribution, species count, ecological roles ranging from symptomless endobionts and detritivores to plant pathogens on various host plants, with specific details on needlecast diseases in pine species.",
+      "context_title": "Lophodermium",
+      "page_content": "Species of the genus Lophodermium are usually observed producing ascomata on dead fallen leaves. At least some species of the genus Lophodermium are known to colonize living leaves. Species of the genus Lophodermium living inside the colonized leaf as a symptomless endobiont are regarded as detritivores utilising dead plant matter. In L. pinastri and L. seditiosum, fungal spores disperse and infect pine needles in late summer. Some Lophodermium species cause needlecast disease in Scots Pine. There is a substantial literature dealing with species of the genus Lophodermium that kill leaves prematurely as plant pathogens. In L. pinastri and L. seditiosum, infected pine needles turn brown by the following spring. Some Lophodermium species are economically important plant pathogens. The genus Lophodermium infects many different plant families. In a few cases, species of the genus Lophodermium may kill all or part of the leaf prematurely. The genus Lophodermium has a global distribution. In many cases, species of the genus Lophodermium live inside the colonized leaf as a symptomless endobiont. In L. pinastri and L. seditiosum, infected pine needles fall off after turning brown. Needlecast disease caused by Lophodermium species occurs in forestry and christmas tree plantations. Many Lophodermium species are restricted to a single host species. Many Lophodermium species are restricted to a single host genus. Species of the genus Lophodermium are usually observed producing conidiomata on dead fallen leaves. Lophodermium is a genus of fungi. The genus Lophodermium contains 145 species. L. seditiosum is a species of the genus Lophodermium. Lophodermium is within the family Rhytismataceae. L. pinastri is a species of the genus Lophodermium. The genus Lophodermium has a notable concentration of infections in the family Pinaceae. Some Lophodermium species, particularly those infecting grasses, may infect several genera. Some Lophodermium species cause needlecast disease in Red Pine. Some Lophodermium species cause needlecast disease in European Black Pine. Species of the genus Lophodermium are usually observed producing zone lines on dead fallen leaves."
+    },
+    {
+      "chunk_id": "7b4959a2-463c-4ada-b21d-3b9842dcc283",
+      "chunk_title": "Scaevola Genus",
+      "chunk_summary": "This chunk contains information about the genus Scaevola, including its classification as a flowering plant in the Goodeniaceae family and details about its species diversity.",
+      "context_title": "Scaevola (plant)",
+      "page_content": "Scaevola is in the Goodeniaceae family. Scaevola is a genus of flowering plants. The Goodeniaceae family is also known as the \"Goodenia\" family. Scaevola consists of more than 130 tropical species. The center of diversity for Scaevola is Australia and Polynesia."
+    },
+    {
+      "chunk_id": "f396a399-e805-4b81-8ea8-0c193775a81b",
+      "chunk_title": "Calyptocephalellidae Toads",
+      "chunk_summary": "This chunk contains information about the Calyptocephalellidae family of toads, including their geographic distribution, taxonomic classification, specific species details, and conservation status.",
+      "context_title": "Calyptocephalellidae",
+      "page_content": "The Calyptocephalellidae are a family of toads. The two genera in the Calyptocephalellidae are \"Calyptocephalella\" and \"Telmatobufo\". The Calyptocephalellidae are found in Chile. The helmeted water toad weighs up to 0.5 kg. The \"Telmatobufo\" genus contains four species. \"T. bullocki\" is classified as critically endangered. The helmeted water toad is a large aquatic toad. The one species in the \"Calyptocephalella\" genus is \"C. gayi\". The Calyptocephalellidae contain two genera. All species within the Calyptocephalellidae family are considered threatened. \"C. gayi\" is known as the helmeted water toad. The \"Calyptocephalella\" genus contains one species. The four species in the \"Telmatobufo\" genus are \"T. australis\", \"T. bullocki\", \"T. ignotus\", and \"T. venustus\". \"T. venustus\" is classified as critically endangered."
+    },
+    {
+      "chunk_id": "883a8b81-e8e6-452f-aa04-90b24cf8367e",
+      "chunk_title": "Genus Species Counts",
+      "chunk_summary": "This chunk contains information about the species count, including both living and extinct members, of specific biological genera.",
+      "context_title": "Leptofoenus",
+      "page_content": "The genus Leptofoenus contains five living species. The genus Leptofoenus contains one extinct species."
+    },
+    {
+      "chunk_id": "5e90286e-b447-485a-96fe-853f9efe35d1",
+      "chunk_title": "Banksiamyces Overview",
+      "chunk_summary": "This chunk contains information about the fungal genus Banksiamyces, including its taxonomic classification, species count, physical characteristics of its fruit bodies on Banksia cones, and historical discovery details.",
+      "context_title": "Banksiamyces",
+      "page_content": "Fruit bodies of the fungus Banksiamyces appear as small, shallow dark cups on the follicles of the Banksia fruit. The new genus was created to contain three distinct species determined at that time. A fourth species, B. maccannii, was added to the genus Banksiamyces in 1984. Specimens of Banksiamyces became examined more critically in the early 1980s. Fruit bodies of the fungus Banksiamyces are typically less than 10 mm diameter. The edges of dry fruit bodies of Banksiamyces appear like narrow slits. Banksiamyces is a genus of fungi. The first specimens of Banksiamyces were described in 1887. The genus Banksiamyces contains four species. Banksiamyces is in the order Helotiales. The critical examination of Banksiamyces specimens in the early 1980s led to the creation of a new genus. Specimens of Banksiamyces continued to be collected occasionally for almost 100 years after 1887. The species of Banksiamyces grow on the seed follicles of the dead infructescences or \"cones\" of various species of Banksia. The first specimens of Banksiamyces were known then as Tympanis toomansis. The edges of dry fruit bodies of Banksiamyces fold inwards. The three distinct species determined in the early 1980s were B. katerinae, B. macrocarpus, and B. toomansis. Banksiamyces has a tentative placement in the family Helotiaceae."
+    },
+    {
+      "chunk_id": "a2274183-1f07-4989-8dce-9f88bb0c86e6",
+      "chunk_title": "Thonningia Genus Overview",
+      "chunk_summary": "This chunk contains information about the taxonomic classification, geographic distribution, and diverse common names of the monotypic plant genus Thonningia and its single species, Thonningia sanguinea.",
+      "context_title": "Thonningia",
+      "page_content": "Thonningia sanguinea is a familiar plant to humans. Many common names for Thonningia sanguinea are inspired by the resemblance of the plant's inflorescence to a pineapple or palm tree. Some names for Thonningia sanguinea can be translated as duiker's kolanut from Igala. Thonningia sanguinea is distributed particularly in the tropical regions of southern and western Africa. Ground pineapple is a common name for Thonningia sanguinea. Thonningia sanguinea is distributed throughout much of southern and western Africa. Thonningia is in the family Balanophoraceae. Thonningia is a monotypic genus of flowering plants. Thonningia sanguinea has an extremely long list of common names in many African languages. Some names for Thonningia sanguinea can be translated as pineapple of the bush from Anyi. Thonningia contains the single species Thonningia sanguinea. Some names for Thonningia sanguinea can be translated as crown of the ground from Yoruba."
+    },
+    {
+      "chunk_id": "fdd3e891-69d6-49cf-9f1d-568b94793199",
+      "chunk_title": "Ceratozamia Genus Overview",
+      "chunk_summary": "This chunk contains information about the genus Ceratozamia, including its classification, species count, geographic distribution, and etymology.",
+      "context_title": "Ceratozamia",
+      "page_content": "Most species of Ceratozamia are endemic to mountainous areas of Mexico. The name Ceratozamia refers to the paired, spreading horny projections on the male and female sporophylls of all species of Ceratozamia. The genus Ceratozamia contains one or two fossil species. The genus Ceratozamia contains 27 known currently living species. Few species of Ceratozamia extend into the mountains of Honduras. Few species of Ceratozamia extend into the mountains of Belize. The genus name Ceratozamia comes from the Greek word \"ceras\". Ceratozamia is in the family Zamiaceae. Ceratozamia is a genus of New World cycads. Few species of Ceratozamia extend into the mountains of Guatemala. The Greek word \"ceras\" means horn."
+    },
+    {
+      "chunk_id": "d7817807-079b-4e75-9726-a86e82c45cf7",
+      "chunk_title": "Zygotritonia Genus Overview",
+      "chunk_summary": "This chunk contains information about the characteristics, classification, species count, geographic distribution, and etymology of the plant genus Zygotritonia.",
+      "context_title": "Zygotritonia",
+      "page_content": "Zygotritonia is in the Iris family (Iridaceae). The genus name Zygotritonia is derived from the apparent resemblance to some species in the genus Tritonia. The four species of Zygotritonia are distributed in Tropical Africa. Zygotritonia contains four species. The genus name Zygotritonia is derived from the word zygomorphic. Zygotritonia is a genus of herbaceous, perennial and bulbous plants."
+    },
+    {
+      "chunk_id": "29d97086-4fec-47c6-a087-905fc6a54c0b",
+      "chunk_title": "Calibanus Genus",
+      "chunk_summary": "This chunk contains information about the genus Calibanus, including its classification, species characteristics, native habitat, reproductive cycle, and etymology.",
+      "context_title": "Calibanus",
+      "page_content": "The name Calibanus refers to the monster Caliban. Both species in the genus Calibanus are from dry areas of northeastern Mexico. Calibanus is polycarpic. The APG III classification system places Calibanus in the subfamily Nolinoideae. Calibanus contains two species of flowering plants. Both species in the genus Calibanus are evergreen succulents. Calibanus is dioecious. The APG III classification system places Calibanus in the family Asparagaceae. Calibanus is a genus."
+    },
+    {
+      "chunk_id": "f22e52c9-c15e-43f1-bdb3-9bfe1236a142",
+      "chunk_title": "Plant Taxonomy History",
+      "chunk_summary": "This chunk contains information about the taxonomic history and reclassification of plant subfamilies and families, including former family names and groupings.",
+      "context_title": "Calibanus",
+      "page_content": "The Agavaceae is now called Agavoideae. Calibanus is now separated from the Agavaceae. Calibanus was formerly included in the Agavaceae. The subfamily Nolinoideae was formerly the family Ruscaceae."
+    },
+    {
+      "chunk_id": "76661c60-9e90-4db8-be83-efc4b83ffe49",
+      "chunk_title": "Taxonomic Formatting Conventions",
+      "chunk_summary": "This chunk contains information about taxonomic formatting conventions, specifically how bolding, single asterisks, and double asterisks indicate type species within a section or genus.",
+      "context_title": "List of Amanita species",
+      "page_content": "An asterisk (*) following the species name indicates the species is the type species of that section. Bolding of the species name indicates the species is the type species of that section. A double asterisk (**) following the species name indicates the species is the type species of the entire genus Amanita."
+    },
+    {
+      "chunk_id": "932a75cf-383f-47b9-b80e-e8d4696f865a",
+      "chunk_title": "Phlebodium Genus Overview",
+      "chunk_summary": "This chunk contains information about the characteristics, classification, native regions, and taxonomic history of the fern genus Phlebodium.",
+      "context_title": "Phlebodium",
+      "page_content": "Phlebodium is a small genus. Phlebodium is native to tropical and subtropical regions of the Americas. Phlebodium contains two to four species of ferns. The species of Phlebodium were formerly included in the genus Polypodium. The genus Phlebodium is closely related to Polypodium."
+    },
+    {
+      "chunk_id": "3edaff7a-6d14-4223-ab21-05b582c07255",
+      "chunk_title": "Epidendrum Taxonomy",
+      "chunk_summary": "This chunk contains information about the taxonomic classification, hierarchical relationships, and morphological characteristics of the Epidendrum genus and its subsection Umbellata.",
+      "context_title": "Epidendrum subsect. Umbellata",
+      "page_content": "Plants of Epidendrum subsect. Umbellata differ from the other subsections of Epidendrum sect. Planifolia. Epidendrum subsect. Umbellata is a subsection of section Epidendrum sect. Planifolia. Epidendrum subg. Epidendrum is a subgenus of the genus Epidendrum. Plants of Epidendrum subsect. Umbellata produce inflorescences which are umbel-like. Epidendrum sect. Planifolia is a section of subgenus Epidendrum subg. Epidendrum. The genus Epidendrum belongs to the Orchidaceae family. In 1861, Reichenbach recognized ten species in Epidendrum subsect. Umbellata. The Orchidaceae family is also known as the orchid family."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2,
+  "retrieval_count": 2,
+  "total_chunks": 15,
+  "total_distinct_titles": 14,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Between Greyia and Calibanus, which genus contains more species?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Between Greyia and Calibanus, which genus contains more species?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较 Greyia 和 Calibanus 两个属的物种数量",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1（Greyia 物种数=three）和 N1_2（Calibanus 物种数=two）均为 healthy，推理链完整：three > two → Greyia contains more species。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，数值比较逻辑清晰（3 > 2），可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "How many species does the genus Greyia contain?",
+          "answer": "three",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "How many species does the genus Greyia contain?",
+          "planner_rationale": "Q 要求比较两个属的物种数量，必须先确立 Greyia 属的物种数",
+          "solver_judgment": "question 要求确认 Greyia 属包含的物种数量。search_query 搜索了 'How many species does the genus Greyia contain?'。chunks 返回了关于 Greyia 的信息，其中 chunk 36e2a5a1-8377-44ac-8448-b89ddce234b3 明确记载 'Greyia contains three species.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Greyia），直接且具体地陈述了答案。支撑 chunk [36e2a5a1-8377-44ac-8448-b89ddce234b3] 全文为 'Greyia contains three species. Greyia is a genus of plant. Greyia is in the family Melianthaceae.'，其中 'Greyia contains three species' 与声称答案 'three' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接明确，证据充分支撑声称答案。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "36e2a5a1-8377-44ac-8448-b89ddce234b3"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "36e2a5a1-8377-44ac-8448-b89ddce234b3",
+              "chunk_title": "Plant Taxonomy",
+              "chunk_summary": "This chunk contains information about the plant genus Greyia, including its taxonomic classification, family association, and species count.",
+              "context_title": "Greyia",
+              "page_content": "Greyia contains three species. Greyia is a genus of plant. Greyia is in the family Melianthaceae."
+            },
+            {
+              "chunk_id": "446d5f32-5959-48dc-a090-3ce54f969a67",
+              "chunk_title": "Plant Genera Size & Species Count",
+              "chunk_summary": "This chunk contains information about the size and species count of specific plant genera, such as Sonerila Roxb.",
+              "context_title": "Sonerila",
+              "page_content": "The genus Sonerila Roxb. is a large genus. The genus Sonerila Roxb. includes about 175 species."
+            },
+            {
+              "chunk_id": "4616b6ab-f398-4df6-95b3-516d8f1e15c0",
+              "chunk_title": "Lophodermium Fungi Overview",
+              "chunk_summary": "This chunk contains information about the fungal genus Lophodermium, including its taxonomy, global distribution, species count, ecological roles ranging from symptomless endobionts and detritivores to plant pathogens on various host plants, with specific details on needlecast diseases in pine species.",
+              "context_title": "Lophodermium",
+              "page_content": "Species of the genus Lophodermium are usually observed producing ascomata on dead fallen leaves. At least some species of the genus Lophodermium are known to colonize living leaves. Species of the genus Lophodermium living inside the colonized leaf as a symptomless endobiont are regarded as detritivores utilising dead plant matter. In L. pinastri and L. seditiosum, fungal spores disperse and infect pine needles in late summer. Some Lophodermium species cause needlecast disease in Scots Pine. There is a substantial literature dealing with species of the genus Lophodermium that kill leaves prematurely as plant pathogens. In L. pinastri and L. seditiosum, infected pine needles turn brown by the following spring. Some Lophodermium species are economically important plant pathogens. The genus Lophodermium infects many different plant families. In a few cases, species of the genus Lophodermium may kill all or part of the leaf prematurely. The genus Lophodermium has a global distribution. In many cases, species of the genus Lophodermium live inside the colonized leaf as a symptomless endobiont. In L. pinastri and L. seditiosum, infected pine needles fall off after turning brown. Needlecast disease caused by Lophodermium species occurs in forestry and christmas tree plantations. Many Lophodermium species are restricted to a single host species. Many Lophodermium species are restricted to a single host genus. Species of the genus Lophodermium are usually observed producing conidiomata on dead fallen leaves. Lophodermium is a genus of fungi. The genus Lophodermium contains 145 species. L. seditiosum is a species of the genus Lophodermium. Lophodermium is within the family Rhytismataceae. L. pinastri is a species of the genus Lophodermium. The genus Lophodermium has a notable concentration of infections in the family Pinaceae. Some Lophodermium species, particularly those infecting grasses, may infect several genera. Some Lophodermium species cause needlecast disease in Red Pine. Some Lophodermium species cause needlecast disease in European Black Pine. Species of the genus Lophodermium are usually observed producing zone lines on dead fallen leaves."
+            },
+            {
+              "chunk_id": "7b4959a2-463c-4ada-b21d-3b9842dcc283",
+              "chunk_title": "Scaevola Genus",
+              "chunk_summary": "This chunk contains information about the genus Scaevola, including its classification as a flowering plant in the Goodeniaceae family and details about its species diversity.",
+              "context_title": "Scaevola (plant)",
+              "page_content": "Scaevola is in the Goodeniaceae family. Scaevola is a genus of flowering plants. The Goodeniaceae family is also known as the \"Goodenia\" family. Scaevola consists of more than 130 tropical species. The center of diversity for Scaevola is Australia and Polynesia."
+            },
+            {
+              "chunk_id": "f396a399-e805-4b81-8ea8-0c193775a81b",
+              "chunk_title": "Calyptocephalellidae Toads",
+              "chunk_summary": "This chunk contains information about the Calyptocephalellidae family of toads, including their geographic distribution, taxonomic classification, specific species details, and conservation status.",
+              "context_title": "Calyptocephalellidae",
+              "page_content": "The Calyptocephalellidae are a family of toads. The two genera in the Calyptocephalellidae are \"Calyptocephalella\" and \"Telmatobufo\". The Calyptocephalellidae are found in Chile. The helmeted water toad weighs up to 0.5 kg. The \"Telmatobufo\" genus contains four species. \"T. bullocki\" is classified as critically endangered. The helmeted water toad is a large aquatic toad. The one species in the \"Calyptocephalella\" genus is \"C. gayi\". The Calyptocephalellidae contain two genera. All species within the Calyptocephalellidae family are considered threatened. \"C. gayi\" is known as the helmeted water toad. The \"Calyptocephalella\" genus contains one species. The four species in the \"Telmatobufo\" genus are \"T. australis\", \"T. bullocki\", \"T. ignotus\", and \"T. venustus\". \"T. venustus\" is classified as critically endangered."
+            },
+            {
+              "chunk_id": "883a8b81-e8e6-452f-aa04-90b24cf8367e",
+              "chunk_title": "Genus Species Counts",
+              "chunk_summary": "This chunk contains information about the species count, including both living and extinct members, of specific biological genera.",
+              "context_title": "Leptofoenus",
+              "page_content": "The genus Leptofoenus contains five living species. The genus Leptofoenus contains one extinct species."
+            },
+            {
+              "chunk_id": "5e90286e-b447-485a-96fe-853f9efe35d1",
+              "chunk_title": "Banksiamyces Overview",
+              "chunk_summary": "This chunk contains information about the fungal genus Banksiamyces, including its taxonomic classification, species count, physical characteristics of its fruit bodies on Banksia cones, and historical discovery details.",
+              "context_title": "Banksiamyces",
+              "page_content": "Fruit bodies of the fungus Banksiamyces appear as small, shallow dark cups on the follicles of the Banksia fruit. The new genus was created to contain three distinct species determined at that time. A fourth species, B. maccannii, was added to the genus Banksiamyces in 1984. Specimens of Banksiamyces became examined more critically in the early 1980s. Fruit bodies of the fungus Banksiamyces are typically less than 10 mm diameter. The edges of dry fruit bodies of Banksiamyces appear like narrow slits. Banksiamyces is a genus of fungi. The first specimens of Banksiamyces were described in 1887. The genus Banksiamyces contains four species. Banksiamyces is in the order Helotiales. The critical examination of Banksiamyces specimens in the early 1980s led to the creation of a new genus. Specimens of Banksiamyces continued to be collected occasionally for almost 100 years after 1887. The species of Banksiamyces grow on the seed follicles of the dead infructescences or \"cones\" of various species of Banksia. The first specimens of Banksiamyces were known then as Tympanis toomansis. The edges of dry fruit bodies of Banksiamyces fold inwards. The three distinct species determined in the early 1980s were B. katerinae, B. macrocarpus, and B. toomansis. Banksiamyces has a tentative placement in the family Helotiaceae."
+            },
+            {
+              "chunk_id": "a2274183-1f07-4989-8dce-9f88bb0c86e6",
+              "chunk_title": "Thonningia Genus Overview",
+              "chunk_summary": "This chunk contains information about the taxonomic classification, geographic distribution, and diverse common names of the monotypic plant genus Thonningia and its single species, Thonningia sanguinea.",
+              "context_title": "Thonningia",
+              "page_content": "Thonningia sanguinea is a familiar plant to humans. Many common names for Thonningia sanguinea are inspired by the resemblance of the plant's inflorescence to a pineapple or palm tree. Some names for Thonningia sanguinea can be translated as duiker's kolanut from Igala. Thonningia sanguinea is distributed particularly in the tropical regions of southern and western Africa. Ground pineapple is a common name for Thonningia sanguinea. Thonningia sanguinea is distributed throughout much of southern and western Africa. Thonningia is in the family Balanophoraceae. Thonningia is a monotypic genus of flowering plants. Thonningia sanguinea has an extremely long list of common names in many African languages. Some names for Thonningia sanguinea can be translated as pineapple of the bush from Anyi. Thonningia contains the single species Thonningia sanguinea. Some names for Thonningia sanguinea can be translated as crown of the ground from Yoruba."
+            },
+            {
+              "chunk_id": "fdd3e891-69d6-49cf-9f1d-568b94793199",
+              "chunk_title": "Ceratozamia Genus Overview",
+              "chunk_summary": "This chunk contains information about the genus Ceratozamia, including its classification, species count, geographic distribution, and etymology.",
+              "context_title": "Ceratozamia",
+              "page_content": "Most species of Ceratozamia are endemic to mountainous areas of Mexico. The name Ceratozamia refers to the paired, spreading horny projections on the male and female sporophylls of all species of Ceratozamia. The genus Ceratozamia contains one or two fossil species. The genus Ceratozamia contains 27 known currently living species. Few species of Ceratozamia extend into the mountains of Honduras. Few species of Ceratozamia extend into the mountains of Belize. The genus name Ceratozamia comes from the Greek word \"ceras\". Ceratozamia is in the family Zamiaceae. Ceratozamia is a genus of New World cycads. Few species of Ceratozamia extend into the mountains of Guatemala. The Greek word \"ceras\" means horn."
+            },
+            {
+              "chunk_id": "d7817807-079b-4e75-9726-a86e82c45cf7",
+              "chunk_title": "Zygotritonia Genus Overview",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, species count, geographic distribution, and etymology of the plant genus Zygotritonia.",
+              "context_title": "Zygotritonia",
+              "page_content": "Zygotritonia is in the Iris family (Iridaceae). The genus name Zygotritonia is derived from the apparent resemblance to some species in the genus Tritonia. The four species of Zygotritonia are distributed in Tropical Africa. Zygotritonia contains four species. The genus name Zygotritonia is derived from the word zygomorphic. Zygotritonia is a genus of herbaceous, perennial and bulbous plants."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "How many species does the genus Calibanus contain?",
+          "answer": "two",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "How many species does the genus Calibanus contain?",
+          "planner_rationale": "Q 要求比较两个属的物种数量，必须先确立 Calibanus 属的物种数",
+          "solver_judgment": "question 要求确认 Calibanus 属包含的物种数量。search_query 直接搜索了该问题。chunks 返回了关于 Calibanus 属的详细信息，其中 chunk 29d97086-4fec-47c6-a087-905fc6a54c0b 明确记载 'Calibanus contains two species of flowering plants.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Calibanus），直接且具体地陈述了答案。支撑 chunk [29d97086-4fec-47c6-a087-905fc6a54c0b] 全文包含 'Calibanus contains two species of flowering plants.'，与声称答案 'two' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接明确，证据充分支撑声称答案。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "29d97086-4fec-47c6-a087-905fc6a54c0b"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "29d97086-4fec-47c6-a087-905fc6a54c0b",
+              "chunk_title": "Calibanus Genus",
+              "chunk_summary": "This chunk contains information about the genus Calibanus, including its classification, species characteristics, native habitat, reproductive cycle, and etymology.",
+              "context_title": "Calibanus",
+              "page_content": "The name Calibanus refers to the monster Caliban. Both species in the genus Calibanus are from dry areas of northeastern Mexico. Calibanus is polycarpic. The APG III classification system places Calibanus in the subfamily Nolinoideae. Calibanus contains two species of flowering plants. Both species in the genus Calibanus are evergreen succulents. Calibanus is dioecious. The APG III classification system places Calibanus in the family Asparagaceae. Calibanus is a genus."
+            },
+            {
+              "chunk_id": "f22e52c9-c15e-43f1-bdb3-9bfe1236a142",
+              "chunk_title": "Plant Taxonomy History",
+              "chunk_summary": "This chunk contains information about the taxonomic history and reclassification of plant subfamilies and families, including former family names and groupings.",
+              "context_title": "Calibanus",
+              "page_content": "The Agavaceae is now called Agavoideae. Calibanus is now separated from the Agavaceae. Calibanus was formerly included in the Agavaceae. The subfamily Nolinoideae was formerly the family Ruscaceae."
+            },
+            {
+              "chunk_id": "f396a399-e805-4b81-8ea8-0c193775a81b",
+              "chunk_title": "Calyptocephalellidae Toads",
+              "chunk_summary": "This chunk contains information about the Calyptocephalellidae family of toads, including their geographic distribution, taxonomic classification, specific species details, and conservation status.",
+              "context_title": "Calyptocephalellidae",
+              "page_content": "The Calyptocephalellidae are a family of toads. The two genera in the Calyptocephalellidae are \"Calyptocephalella\" and \"Telmatobufo\". The Calyptocephalellidae are found in Chile. The helmeted water toad weighs up to 0.5 kg. The \"Telmatobufo\" genus contains four species. \"T. bullocki\" is classified as critically endangered. The helmeted water toad is a large aquatic toad. The one species in the \"Calyptocephalella\" genus is \"C. gayi\". The Calyptocephalellidae contain two genera. All species within the Calyptocephalellidae family are considered threatened. \"C. gayi\" is known as the helmeted water toad. The \"Calyptocephalella\" genus contains one species. The four species in the \"Telmatobufo\" genus are \"T. australis\", \"T. bullocki\", \"T. ignotus\", and \"T. venustus\". \"T. venustus\" is classified as critically endangered."
+            },
+            {
+              "chunk_id": "883a8b81-e8e6-452f-aa04-90b24cf8367e",
+              "chunk_title": "Genus Species Counts",
+              "chunk_summary": "This chunk contains information about the species count, including both living and extinct members, of specific biological genera.",
+              "context_title": "Leptofoenus",
+              "page_content": "The genus Leptofoenus contains five living species. The genus Leptofoenus contains one extinct species."
+            },
+            {
+              "chunk_id": "76661c60-9e90-4db8-be83-efc4b83ffe49",
+              "chunk_title": "Taxonomic Formatting Conventions",
+              "chunk_summary": "This chunk contains information about taxonomic formatting conventions, specifically how bolding, single asterisks, and double asterisks indicate type species within a section or genus.",
+              "context_title": "List of Amanita species",
+              "page_content": "An asterisk (*) following the species name indicates the species is the type species of that section. Bolding of the species name indicates the species is the type species of that section. A double asterisk (**) following the species name indicates the species is the type species of the entire genus Amanita."
+            },
+            {
+              "chunk_id": "5e90286e-b447-485a-96fe-853f9efe35d1",
+              "chunk_title": "Banksiamyces Overview",
+              "chunk_summary": "This chunk contains information about the fungal genus Banksiamyces, including its taxonomic classification, species count, physical characteristics of its fruit bodies on Banksia cones, and historical discovery details.",
+              "context_title": "Banksiamyces",
+              "page_content": "Fruit bodies of the fungus Banksiamyces appear as small, shallow dark cups on the follicles of the Banksia fruit. The new genus was created to contain three distinct species determined at that time. A fourth species, B. maccannii, was added to the genus Banksiamyces in 1984. Specimens of Banksiamyces became examined more critically in the early 1980s. Fruit bodies of the fungus Banksiamyces are typically less than 10 mm diameter. The edges of dry fruit bodies of Banksiamyces appear like narrow slits. Banksiamyces is a genus of fungi. The first specimens of Banksiamyces were described in 1887. The genus Banksiamyces contains four species. Banksiamyces is in the order Helotiales. The critical examination of Banksiamyces specimens in the early 1980s led to the creation of a new genus. Specimens of Banksiamyces continued to be collected occasionally for almost 100 years after 1887. The species of Banksiamyces grow on the seed follicles of the dead infructescences or \"cones\" of various species of Banksia. The first specimens of Banksiamyces were known then as Tympanis toomansis. The edges of dry fruit bodies of Banksiamyces fold inwards. The three distinct species determined in the early 1980s were B. katerinae, B. macrocarpus, and B. toomansis. Banksiamyces has a tentative placement in the family Helotiaceae."
+            },
+            {
+              "chunk_id": "446d5f32-5959-48dc-a090-3ce54f969a67",
+              "chunk_title": "Plant Genera Size & Species Count",
+              "chunk_summary": "This chunk contains information about the size and species count of specific plant genera, such as Sonerila Roxb.",
+              "context_title": "Sonerila",
+              "page_content": "The genus Sonerila Roxb. is a large genus. The genus Sonerila Roxb. includes about 175 species."
+            },
+            {
+              "chunk_id": "fdd3e891-69d6-49cf-9f1d-568b94793199",
+              "chunk_title": "Ceratozamia Genus Overview",
+              "chunk_summary": "This chunk contains information about the genus Ceratozamia, including its classification, species count, geographic distribution, and etymology.",
+              "context_title": "Ceratozamia",
+              "page_content": "Most species of Ceratozamia are endemic to mountainous areas of Mexico. The name Ceratozamia refers to the paired, spreading horny projections on the male and female sporophylls of all species of Ceratozamia. The genus Ceratozamia contains one or two fossil species. The genus Ceratozamia contains 27 known currently living species. Few species of Ceratozamia extend into the mountains of Honduras. Few species of Ceratozamia extend into the mountains of Belize. The genus name Ceratozamia comes from the Greek word \"ceras\". Ceratozamia is in the family Zamiaceae. Ceratozamia is a genus of New World cycads. Few species of Ceratozamia extend into the mountains of Guatemala. The Greek word \"ceras\" means horn."
+            },
+            {
+              "chunk_id": "932a75cf-383f-47b9-b80e-e8d4696f865a",
+              "chunk_title": "Phlebodium Genus Overview",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, native regions, and taxonomic history of the fern genus Phlebodium.",
+              "context_title": "Phlebodium",
+              "page_content": "Phlebodium is a small genus. Phlebodium is native to tropical and subtropical regions of the Americas. Phlebodium contains two to four species of ferns. The species of Phlebodium were formerly included in the genus Polypodium. The genus Phlebodium is closely related to Polypodium."
+            },
+            {
+              "chunk_id": "3edaff7a-6d14-4223-ab21-05b582c07255",
+              "chunk_title": "Epidendrum Taxonomy",
+              "chunk_summary": "This chunk contains information about the taxonomic classification, hierarchical relationships, and morphological characteristics of the Epidendrum genus and its subsection Umbellata.",
+              "context_title": "Epidendrum subsect. Umbellata",
+              "page_content": "Plants of Epidendrum subsect. Umbellata differ from the other subsections of Epidendrum sect. Planifolia. Epidendrum subsect. Umbellata is a subsection of section Epidendrum sect. Planifolia. Epidendrum subg. Epidendrum is a subgenus of the genus Epidendrum. Plants of Epidendrum subsect. Umbellata produce inflorescences which are umbel-like. Epidendrum sect. Planifolia is a section of subgenus Epidendrum subg. Epidendrum. The genus Epidendrum belongs to the Orchidaceae family. In 1861, Reichenbach recognized ten species in Epidendrum subsect. Umbellata. The Orchidaceae family is also known as the orchid family."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Between Greyia and Calibanus, which genus contains more species?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Between Greyia and Calibanus, which genus contains more species?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1（Greyia=three）和 N1_2（Calibanus=two）均已 SOLVED + healthy，推理链完整：three > two → Greyia contains more species。可直接聚合生成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1（Greyia 物种数=three）和 N1_2（Calibanus 物种数=two）均为 healthy，推理链完整：three > two → Greyia contains more species。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，数值比较逻辑清晰（3 > 2），可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "How many species does the genus Greyia contain?",
+          "answer": "three",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "How many species does the genus Greyia contain?",
+          "planner_rationale": "Q 比较两个属物种数量的第一个原子事实——Greyia 属的物种数。已确立为 three，来源直接明确（Greyia 文档），Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认 Greyia 属包含的物种数量。search_query 搜索了 'How many species does the genus Greyia contain?'。chunks 返回了关于 Greyia 的信息，其中 chunk 36e2a5a1-8377-44ac-8448-b89ddce234b3 明确记载 'Greyia contains three species.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Greyia），直接且具体地陈述了答案。支撑 chunk [36e2a5a1-8377-44ac-8448-b89ddce234b3] 全文为 'Greyia contains three species. Greyia is a genus of plant. Greyia is in the family Melianthaceae.'，其中 'Greyia contains three species' 与声称答案 'three' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接明确，证据充分支撑声称答案。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "36e2a5a1-8377-44ac-8448-b89ddce234b3"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "36e2a5a1-8377-44ac-8448-b89ddce234b3",
+              "chunk_title": "Plant Taxonomy",
+              "chunk_summary": "This chunk contains information about the plant genus Greyia, including its taxonomic classification, family association, and species count.",
+              "context_title": "Greyia",
+              "page_content": "Greyia contains three species. Greyia is a genus of plant. Greyia is in the family Melianthaceae."
+            },
+            {
+              "chunk_id": "446d5f32-5959-48dc-a090-3ce54f969a67",
+              "chunk_title": "Plant Genera Size & Species Count",
+              "chunk_summary": "This chunk contains information about the size and species count of specific plant genera, such as Sonerila Roxb.",
+              "context_title": "Sonerila",
+              "page_content": "The genus Sonerila Roxb. is a large genus. The genus Sonerila Roxb. includes about 175 species."
+            },
+            {
+              "chunk_id": "4616b6ab-f398-4df6-95b3-516d8f1e15c0",
+              "chunk_title": "Lophodermium Fungi Overview",
+              "chunk_summary": "This chunk contains information about the fungal genus Lophodermium, including its taxonomy, global distribution, species count, ecological roles ranging from symptomless endobionts and detritivores to plant pathogens on various host plants, with specific details on needlecast diseases in pine species.",
+              "context_title": "Lophodermium",
+              "page_content": "Species of the genus Lophodermium are usually observed producing ascomata on dead fallen leaves. At least some species of the genus Lophodermium are known to colonize living leaves. Species of the genus Lophodermium living inside the colonized leaf as a symptomless endobiont are regarded as detritivores utilising dead plant matter. In L. pinastri and L. seditiosum, fungal spores disperse and infect pine needles in late summer. Some Lophodermium species cause needlecast disease in Scots Pine. There is a substantial literature dealing with species of the genus Lophodermium that kill leaves prematurely as plant pathogens. In L. pinastri and L. seditiosum, infected pine needles turn brown by the following spring. Some Lophodermium species are economically important plant pathogens. The genus Lophodermium infects many different plant families. In a few cases, species of the genus Lophodermium may kill all or part of the leaf prematurely. The genus Lophodermium has a global distribution. In many cases, species of the genus Lophodermium live inside the colonized leaf as a symptomless endobiont. In L. pinastri and L. seditiosum, infected pine needles fall off after turning brown. Needlecast disease caused by Lophodermium species occurs in forestry and christmas tree plantations. Many Lophodermium species are restricted to a single host species. Many Lophodermium species are restricted to a single host genus. Species of the genus Lophodermium are usually observed producing conidiomata on dead fallen leaves. Lophodermium is a genus of fungi. The genus Lophodermium contains 145 species. L. seditiosum is a species of the genus Lophodermium. Lophodermium is within the family Rhytismataceae. L. pinastri is a species of the genus Lophodermium. The genus Lophodermium has a notable concentration of infections in the family Pinaceae. Some Lophodermium species, particularly those infecting grasses, may infect several genera. Some Lophodermium species cause needlecast disease in Red Pine. Some Lophodermium species cause needlecast disease in European Black Pine. Species of the genus Lophodermium are usually observed producing zone lines on dead fallen leaves."
+            },
+            {
+              "chunk_id": "7b4959a2-463c-4ada-b21d-3b9842dcc283",
+              "chunk_title": "Scaevola Genus",
+              "chunk_summary": "This chunk contains information about the genus Scaevola, including its classification as a flowering plant in the Goodeniaceae family and details about its species diversity.",
+              "context_title": "Scaevola (plant)",
+              "page_content": "Scaevola is in the Goodeniaceae family. Scaevola is a genus of flowering plants. The Goodeniaceae family is also known as the \"Goodenia\" family. Scaevola consists of more than 130 tropical species. The center of diversity for Scaevola is Australia and Polynesia."
+            },
+            {
+              "chunk_id": "f396a399-e805-4b81-8ea8-0c193775a81b",
+              "chunk_title": "Calyptocephalellidae Toads",
+              "chunk_summary": "This chunk contains information about the Calyptocephalellidae family of toads, including their geographic distribution, taxonomic classification, specific species details, and conservation status.",
+              "context_title": "Calyptocephalellidae",
+              "page_content": "The Calyptocephalellidae are a family of toads. The two genera in the Calyptocephalellidae are \"Calyptocephalella\" and \"Telmatobufo\". The Calyptocephalellidae are found in Chile. The helmeted water toad weighs up to 0.5 kg. The \"Telmatobufo\" genus contains four species. \"T. bullocki\" is classified as critically endangered. The helmeted water toad is a large aquatic toad. The one species in the \"Calyptocephalella\" genus is \"C. gayi\". The Calyptocephalellidae contain two genera. All species within the Calyptocephalellidae family are considered threatened. \"C. gayi\" is known as the helmeted water toad. The \"Calyptocephalella\" genus contains one species. The four species in the \"Telmatobufo\" genus are \"T. australis\", \"T. bullocki\", \"T. ignotus\", and \"T. venustus\". \"T. venustus\" is classified as critically endangered."
+            },
+            {
+              "chunk_id": "883a8b81-e8e6-452f-aa04-90b24cf8367e",
+              "chunk_title": "Genus Species Counts",
+              "chunk_summary": "This chunk contains information about the species count, including both living and extinct members, of specific biological genera.",
+              "context_title": "Leptofoenus",
+              "page_content": "The genus Leptofoenus contains five living species. The genus Leptofoenus contains one extinct species."
+            },
+            {
+              "chunk_id": "5e90286e-b447-485a-96fe-853f9efe35d1",
+              "chunk_title": "Banksiamyces Overview",
+              "chunk_summary": "This chunk contains information about the fungal genus Banksiamyces, including its taxonomic classification, species count, physical characteristics of its fruit bodies on Banksia cones, and historical discovery details.",
+              "context_title": "Banksiamyces",
+              "page_content": "Fruit bodies of the fungus Banksiamyces appear as small, shallow dark cups on the follicles of the Banksia fruit. The new genus was created to contain three distinct species determined at that time. A fourth species, B. maccannii, was added to the genus Banksiamyces in 1984. Specimens of Banksiamyces became examined more critically in the early 1980s. Fruit bodies of the fungus Banksiamyces are typically less than 10 mm diameter. The edges of dry fruit bodies of Banksiamyces appear like narrow slits. Banksiamyces is a genus of fungi. The first specimens of Banksiamyces were described in 1887. The genus Banksiamyces contains four species. Banksiamyces is in the order Helotiales. The critical examination of Banksiamyces specimens in the early 1980s led to the creation of a new genus. Specimens of Banksiamyces continued to be collected occasionally for almost 100 years after 1887. The species of Banksiamyces grow on the seed follicles of the dead infructescences or \"cones\" of various species of Banksia. The first specimens of Banksiamyces were known then as Tympanis toomansis. The edges of dry fruit bodies of Banksiamyces fold inwards. The three distinct species determined in the early 1980s were B. katerinae, B. macrocarpus, and B. toomansis. Banksiamyces has a tentative placement in the family Helotiaceae."
+            },
+            {
+              "chunk_id": "a2274183-1f07-4989-8dce-9f88bb0c86e6",
+              "chunk_title": "Thonningia Genus Overview",
+              "chunk_summary": "This chunk contains information about the taxonomic classification, geographic distribution, and diverse common names of the monotypic plant genus Thonningia and its single species, Thonningia sanguinea.",
+              "context_title": "Thonningia",
+              "page_content": "Thonningia sanguinea is a familiar plant to humans. Many common names for Thonningia sanguinea are inspired by the resemblance of the plant's inflorescence to a pineapple or palm tree. Some names for Thonningia sanguinea can be translated as duiker's kolanut from Igala. Thonningia sanguinea is distributed particularly in the tropical regions of southern and western Africa. Ground pineapple is a common name for Thonningia sanguinea. Thonningia sanguinea is distributed throughout much of southern and western Africa. Thonningia is in the family Balanophoraceae. Thonningia is a monotypic genus of flowering plants. Thonningia sanguinea has an extremely long list of common names in many African languages. Some names for Thonningia sanguinea can be translated as pineapple of the bush from Anyi. Thonningia contains the single species Thonningia sanguinea. Some names for Thonningia sanguinea can be translated as crown of the ground from Yoruba."
+            },
+            {
+              "chunk_id": "fdd3e891-69d6-49cf-9f1d-568b94793199",
+              "chunk_title": "Ceratozamia Genus Overview",
+              "chunk_summary": "This chunk contains information about the genus Ceratozamia, including its classification, species count, geographic distribution, and etymology.",
+              "context_title": "Ceratozamia",
+              "page_content": "Most species of Ceratozamia are endemic to mountainous areas of Mexico. The name Ceratozamia refers to the paired, spreading horny projections on the male and female sporophylls of all species of Ceratozamia. The genus Ceratozamia contains one or two fossil species. The genus Ceratozamia contains 27 known currently living species. Few species of Ceratozamia extend into the mountains of Honduras. Few species of Ceratozamia extend into the mountains of Belize. The genus name Ceratozamia comes from the Greek word \"ceras\". Ceratozamia is in the family Zamiaceae. Ceratozamia is a genus of New World cycads. Few species of Ceratozamia extend into the mountains of Guatemala. The Greek word \"ceras\" means horn."
+            },
+            {
+              "chunk_id": "d7817807-079b-4e75-9726-a86e82c45cf7",
+              "chunk_title": "Zygotritonia Genus Overview",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, species count, geographic distribution, and etymology of the plant genus Zygotritonia.",
+              "context_title": "Zygotritonia",
+              "page_content": "Zygotritonia is in the Iris family (Iridaceae). The genus name Zygotritonia is derived from the apparent resemblance to some species in the genus Tritonia. The four species of Zygotritonia are distributed in Tropical Africa. Zygotritonia contains four species. The genus name Zygotritonia is derived from the word zygomorphic. Zygotritonia is a genus of herbaceous, perennial and bulbous plants."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "How many species does the genus Calibanus contain?",
+          "answer": "two",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "How many species does the genus Calibanus contain?",
+          "planner_rationale": "Q 比较两个属物种数量的第二个原子事实——Calibanus 属的物种数。已确立为 two，来源直接明确（Calibanus 文档），Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认 Calibanus 属包含的物种数量。search_query 直接搜索了该问题。chunks 返回了关于 Calibanus 属的详细信息，其中 chunk 29d97086-4fec-47c6-a087-905fc6a54c0b 明确记载 'Calibanus contains two species of flowering plants.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Calibanus），直接且具体地陈述了答案。支撑 chunk [29d97086-4fec-47c6-a087-905fc6a54c0b] 全文包含 'Calibanus contains two species of flowering plants.'，与声称答案 'two' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接明确，证据充分支撑声称答案。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "29d97086-4fec-47c6-a087-905fc6a54c0b"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "29d97086-4fec-47c6-a087-905fc6a54c0b",
+              "chunk_title": "Calibanus Genus",
+              "chunk_summary": "This chunk contains information about the genus Calibanus, including its classification, species characteristics, native habitat, reproductive cycle, and etymology.",
+              "context_title": "Calibanus",
+              "page_content": "The name Calibanus refers to the monster Caliban. Both species in the genus Calibanus are from dry areas of northeastern Mexico. Calibanus is polycarpic. The APG III classification system places Calibanus in the subfamily Nolinoideae. Calibanus contains two species of flowering plants. Both species in the genus Calibanus are evergreen succulents. Calibanus is dioecious. The APG III classification system places Calibanus in the family Asparagaceae. Calibanus is a genus."
+            },
+            {
+              "chunk_id": "f22e52c9-c15e-43f1-bdb3-9bfe1236a142",
+              "chunk_title": "Plant Taxonomy History",
+              "chunk_summary": "This chunk contains information about the taxonomic history and reclassification of plant subfamilies and families, including former family names and groupings.",
+              "context_title": "Calibanus",
+              "page_content": "The Agavaceae is now called Agavoideae. Calibanus is now separated from the Agavaceae. Calibanus was formerly included in the Agavaceae. The subfamily Nolinoideae was formerly the family Ruscaceae."
+            },
+            {
+              "chunk_id": "f396a399-e805-4b81-8ea8-0c193775a81b",
+              "chunk_title": "Calyptocephalellidae Toads",
+              "chunk_summary": "This chunk contains information about the Calyptocephalellidae family of toads, including their geographic distribution, taxonomic classification, specific species details, and conservation status.",
+              "context_title": "Calyptocephalellidae",
+              "page_content": "The Calyptocephalellidae are a family of toads. The two genera in the Calyptocephalellidae are \"Calyptocephalella\" and \"Telmatobufo\". The Calyptocephalellidae are found in Chile. The helmeted water toad weighs up to 0.5 kg. The \"Telmatobufo\" genus contains four species. \"T. bullocki\" is classified as critically endangered. The helmeted water toad is a large aquatic toad. The one species in the \"Calyptocephalella\" genus is \"C. gayi\". The Calyptocephalellidae contain two genera. All species within the Calyptocephalellidae family are considered threatened. \"C. gayi\" is known as the helmeted water toad. The \"Calyptocephalella\" genus contains one species. The four species in the \"Telmatobufo\" genus are \"T. australis\", \"T. bullocki\", \"T. ignotus\", and \"T. venustus\". \"T. venustus\" is classified as critically endangered."
+            },
+            {
+              "chunk_id": "883a8b81-e8e6-452f-aa04-90b24cf8367e",
+              "chunk_title": "Genus Species Counts",
+              "chunk_summary": "This chunk contains information about the species count, including both living and extinct members, of specific biological genera.",
+              "context_title": "Leptofoenus",
+              "page_content": "The genus Leptofoenus contains five living species. The genus Leptofoenus contains one extinct species."
+            },
+            {
+              "chunk_id": "76661c60-9e90-4db8-be83-efc4b83ffe49",
+              "chunk_title": "Taxonomic Formatting Conventions",
+              "chunk_summary": "This chunk contains information about taxonomic formatting conventions, specifically how bolding, single asterisks, and double asterisks indicate type species within a section or genus.",
+              "context_title": "List of Amanita species",
+              "page_content": "An asterisk (*) following the species name indicates the species is the type species of that section. Bolding of the species name indicates the species is the type species of that section. A double asterisk (**) following the species name indicates the species is the type species of the entire genus Amanita."
+            },
+            {
+              "chunk_id": "5e90286e-b447-485a-96fe-853f9efe35d1",
+              "chunk_title": "Banksiamyces Overview",
+              "chunk_summary": "This chunk contains information about the fungal genus Banksiamyces, including its taxonomic classification, species count, physical characteristics of its fruit bodies on Banksia cones, and historical discovery details.",
+              "context_title": "Banksiamyces",
+              "page_content": "Fruit bodies of the fungus Banksiamyces appear as small, shallow dark cups on the follicles of the Banksia fruit. The new genus was created to contain three distinct species determined at that time. A fourth species, B. maccannii, was added to the genus Banksiamyces in 1984. Specimens of Banksiamyces became examined more critically in the early 1980s. Fruit bodies of the fungus Banksiamyces are typically less than 10 mm diameter. The edges of dry fruit bodies of Banksiamyces appear like narrow slits. Banksiamyces is a genus of fungi. The first specimens of Banksiamyces were described in 1887. The genus Banksiamyces contains four species. Banksiamyces is in the order Helotiales. The critical examination of Banksiamyces specimens in the early 1980s led to the creation of a new genus. Specimens of Banksiamyces continued to be collected occasionally for almost 100 years after 1887. The species of Banksiamyces grow on the seed follicles of the dead infructescences or \"cones\" of various species of Banksia. The first specimens of Banksiamyces were known then as Tympanis toomansis. The edges of dry fruit bodies of Banksiamyces fold inwards. The three distinct species determined in the early 1980s were B. katerinae, B. macrocarpus, and B. toomansis. Banksiamyces has a tentative placement in the family Helotiaceae."
+            },
+            {
+              "chunk_id": "446d5f32-5959-48dc-a090-3ce54f969a67",
+              "chunk_title": "Plant Genera Size & Species Count",
+              "chunk_summary": "This chunk contains information about the size and species count of specific plant genera, such as Sonerila Roxb.",
+              "context_title": "Sonerila",
+              "page_content": "The genus Sonerila Roxb. is a large genus. The genus Sonerila Roxb. includes about 175 species."
+            },
+            {
+              "chunk_id": "fdd3e891-69d6-49cf-9f1d-568b94793199",
+              "chunk_title": "Ceratozamia Genus Overview",
+              "chunk_summary": "This chunk contains information about the genus Ceratozamia, including its classification, species count, geographic distribution, and etymology.",
+              "context_title": "Ceratozamia",
+              "page_content": "Most species of Ceratozamia are endemic to mountainous areas of Mexico. The name Ceratozamia refers to the paired, spreading horny projections on the male and female sporophylls of all species of Ceratozamia. The genus Ceratozamia contains one or two fossil species. The genus Ceratozamia contains 27 known currently living species. Few species of Ceratozamia extend into the mountains of Honduras. Few species of Ceratozamia extend into the mountains of Belize. The genus name Ceratozamia comes from the Greek word \"ceras\". Ceratozamia is in the family Zamiaceae. Ceratozamia is a genus of New World cycads. Few species of Ceratozamia extend into the mountains of Guatemala. The Greek word \"ceras\" means horn."
+            },
+            {
+              "chunk_id": "932a75cf-383f-47b9-b80e-e8d4696f865a",
+              "chunk_title": "Phlebodium Genus Overview",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, native regions, and taxonomic history of the fern genus Phlebodium.",
+              "context_title": "Phlebodium",
+              "page_content": "Phlebodium is a small genus. Phlebodium is native to tropical and subtropical regions of the Americas. Phlebodium contains two to four species of ferns. The species of Phlebodium were formerly included in the genus Polypodium. The genus Phlebodium is closely related to Polypodium."
+            },
+            {
+              "chunk_id": "3edaff7a-6d14-4223-ab21-05b582c07255",
+              "chunk_title": "Epidendrum Taxonomy",
+              "chunk_summary": "This chunk contains information about the taxonomic classification, hierarchical relationships, and morphological characteristics of the Epidendrum genus and its subsection Umbellata.",
+              "context_title": "Epidendrum subsect. Umbellata",
+              "page_content": "Plants of Epidendrum subsect. Umbellata differ from the other subsections of Epidendrum sect. Planifolia. Epidendrum subsect. Umbellata is a subsection of section Epidendrum sect. Planifolia. Epidendrum subg. Epidendrum is a subgenus of the genus Epidendrum. Plants of Epidendrum subsect. Umbellata produce inflorescences which are umbel-like. Epidendrum sect. Planifolia is a section of subgenus Epidendrum subg. Epidendrum. The genus Epidendrum belongs to the Orchidaceae family. In 1861, Reichenbach recognized ten species in Epidendrum subsect. Umbellata. The Orchidaceae family is also known as the orchid family."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "How many species does the genus Greyia contain?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "36e2a5a1-8377-44ac-8448-b89ddce234b3",
+        "446d5f32-5959-48dc-a090-3ce54f969a67",
+        "4616b6ab-f398-4df6-95b3-516d8f1e15c0",
+        "7b4959a2-463c-4ada-b21d-3b9842dcc283",
+        "f396a399-e805-4b81-8ea8-0c193775a81b",
+        "883a8b81-e8e6-452f-aa04-90b24cf8367e",
+        "5e90286e-b447-485a-96fe-853f9efe35d1",
+        "a2274183-1f07-4989-8dce-9f88bb0c86e6",
+        "fdd3e891-69d6-49cf-9f1d-568b94793199",
+        "d7817807-079b-4e75-9726-a86e82c45cf7"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "How many species does the genus Calibanus contain?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "29d97086-4fec-47c6-a087-905fc6a54c0b",
+        "f22e52c9-c15e-43f1-bdb3-9bfe1236a142",
+        "f396a399-e805-4b81-8ea8-0c193775a81b",
+        "883a8b81-e8e6-452f-aa04-90b24cf8367e",
+        "76661c60-9e90-4db8-be83-efc4b83ffe49",
+        "5e90286e-b447-485a-96fe-853f9efe35d1",
+        "446d5f32-5959-48dc-a090-3ce54f969a67",
+        "fdd3e891-69d6-49cf-9f1d-568b94793199",
+        "932a75cf-383f-47b9-b80e-e8d4696f865a",
+        "3edaff7a-6d14-4223-ab21-05b582c07255"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: How many species does the genus Greyia contain?（理由：Q 是比较型问题，需先获取 Greyia 属的物种数量），F2: How many species does the genus Calibanus contain?（理由：同理，需获取 Calibanus 属的物种数量）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系——两者都是直接查询，可并行搜索。获得 F1 和 F2 的 answer 后，通过数值比较即可回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: $1（question='How many species does the genus Greyia contain?'），原因：Q 的核心语义需求之一——获取 Greyia 属的物种数量。新增: $2（question='How many species does the genus Calibanus contain?'），原因：Q 的核心语义需求之二——获取 Calibanus 属的物种数量。新增边: N0→$1（decomposition），原因：$1 是 Q 的直接分解产物。新增边: N0→$2（decomposition），原因：$2 是 Q 的直接分解产物。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED（N1_1、N1_2 均为 solved）；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点 answer（three、two）聚合后可直接比较得出 Greyia contains more species；③全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；④首轮无拓扑变化。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: How many species does the genus Greyia contain?（理由：Q 是比较型问题，需先获取 Greyia 属的物种数量），F2: How many species does the genus Calibanus contain?（理由：同理，需获取 Calibanus 属的物种数量）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系。获得 F1=three 和 F2=two 后，通过数值比较（3 > 2）即可回答 Q：Greyia contains more species。",
+      "hypothesis_delta": "本轮无结构变更——全部 INHERIT 并显式 LINK 保留边。原因：上一轮假设（两个平行分解节点分别查询两个属的物种数）已被完全验证。N1_1（Greyia=three）和 N1_2（Calibanus=two）均为 SOLVED + healthy，Critic 确认证据直接明确、推理链完整。DAG 结构已收敛至最优状态，无需新增、删除或换标任何节点。显式添加 LINK 原语以修复上一轮遗漏的边声明，确保 N0 与子节点的分解关系在新 DAG 中正确保留。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N0→N1_1 和 N0→N1_2 的 decomposition 边语义有效，子节点答案（three, two）聚合后可直接支撑 Q 的比较推理（3>2→Greyia contains more species）；条件③全部节点（N0, N1_1, N1_2）均为 healthy；条件④本轮拓扑与上一轮一致。推理链完整，所"
+      }
+    }
+  ]
+}

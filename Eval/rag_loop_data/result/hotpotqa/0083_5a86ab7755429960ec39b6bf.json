@@ -1,0 +1,922 @@
+{
+  "question_index": 83,
+  "question_id": "5a86ab7755429960ec39b6bf",
+  "question": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+  "answer": "an adventure novel",
+  "prediction": "adventure novel",
+  "error": null,
+  "latency_ms": 314898.7399999987,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T05:34:25.659758+00:00",
+  "chunks": [
+    {
+      "chunk_id": "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+      "chunk_title": "Long John Silver's Overview",
+      "chunk_summary": "This chunk contains information about the American fast-food restaurant chain Long John Silver's, including its seafood specialization, brand name origin, and corporate ownership history.",
+      "context_title": "Long John Silver's",
+      "page_content": "The brand name Long John Silver's is derived from the novel \"Treasure Island\". Long John Silver's LLC was divested to a group of franchisees. Long John Silver's LLC was formerly a division of Yum! Brands, Inc. Long John Silver's LLC is an American fast-food restaurant chain. Long John Silver's LLC was divested to a group of franchisees in September 2011. Long John Silver's LLC specializes in seafood."
+    },
+    {
+      "chunk_id": "d3f96b98-1651-4d7f-a72e-7c1df1c13c3c",
+      "chunk_title": "Seafood Fast Food Offerings",
+      "chunk_summary": "This chunk contains information about seafood-focused fast-food restaurant chains, including details on the types of raw, smoked, prepared seafood products and specific items like fish sandwiches and salads they sell.",
+      "context_title": "Nordsee",
+      "page_content": "Nordsee sells smoked seafood. Fischbrötchen are fish sandwiches. Nordsee is a German fast-food restaurant chain. Nordsee sells canned seafood. The company Nordsee formerly supplied its own seafood. Nordsee sells a wide variety of meals prepared from seafood. Nordsee sells salads. Nordsee sells Fischbrötchen. Nordsee specialises in seafood. Nordsee sells raw seafood. Nordsee sells a wide variety of products prepared from seafood."
+    },
+    {
+      "chunk_id": "e412c928-3816-4325-ab83-df35daee32e9",
+      "chunk_title": "The Crab Cooker Overview",
+      "chunk_summary": "This chunk contains information about The Crab Cooker, a historic seafood restaurant in Newport Beach, California, including its location, building history, establishment date, status as a local landmark, and critical acclaim.",
+      "context_title": "The Crab Cooker",
+      "page_content": "The Crab Cooker is a popular Southern California restaurant. The old branch building of the Bank of America housing The Crab Cooker is located at 22nd & Newport Blvd. The Crab Cooker is considered a local landmark. The Crab Cooker specializes in seafood. In 1969, Venture Magazine rated The Crab Cooker as one of the top two restaurants in the world. The Crab Cooker is located on the Balboa Peninsula in Newport Beach, California. The Crab Cooker was established in 1951. The Crab Cooker is housed in an old branch building of the Bank of America. The logo of the Bank of America prior to its merger with NationsBank can still be seen embedded in the corner of the building housing The Crab Cooker."
+    },
+    {
+      "chunk_id": "ea46144e-4c8f-461d-9da0-d74bb09a29fd",
+      "chunk_title": "Colin Thiele Adaptations",
+      "chunk_summary": "This chunk contains information about creative works adapted from novels by Colin Thiele.",
+      "context_title": "Greg Rowe",
+      "page_content": "\"Storm Boy\" was based on a novel by Colin Thiele. \"Blue Fin\" was based on a novel by Colin Thiele."
+    },
+    {
+      "chunk_id": "d544a95d-93d1-49c1-a297-258afe73768f",
+      "chunk_title": "Awards & Recognition",
+      "chunk_summary": "This chunk contains information about awards and recognition received by restaurants, specifically focusing on survey results and rankings.",
+      "context_title": "Moe's Southwest Grill",
+      "page_content": "In the 2016 Harris Poll EquiTrend survey, Moe's Southwest Grill passed former top restaurant Chipotle Mexican Grill. According to the 2016 Harris Poll EquiTrend survey, Moe's Southwest Grill is the \"Fast Casual Mexican Restaurant of the Year\"."
+    },
+    {
+      "chunk_id": "a3c0a48e-b8c3-4fe2-8604-45b6f9a6f502",
+      "chunk_title": "Companies & Industries",
+      "chunk_summary": "This chunk contains information about companies and their business types or industries.",
+      "context_title": "Ugly Stik",
+      "page_content": "Shakespeare is a fishing equipment retail company."
+    },
+    {
+      "chunk_id": "b37ca8c3-9df0-4553-95e5-8642d1413d5f",
+      "chunk_title": "Oyster Bars",
+      "chunk_summary": "This chunk contains information about oyster bars, including their definitions as restaurants or buffet sections, international terminology, and a list of notable establishments.",
+      "context_title": "List of oyster bars",
+      "page_content": "In France, the oyster bar is known as \"bar à huîtres\". An oyster bar is a section of a restaurant which serves oysters buffet-style. This is a list of notable oyster bars. An oyster bar is a restaurant specializing in serving oysters."
+    },
+    {
+      "chunk_id": "1be629f9-535b-4c17-bafd-db2606bceaa2",
+      "chunk_title": "Novel Details",
+      "chunk_summary": "This chunk contains information about literary works, specifically novels, including their titles, original language titles, and publication dates.",
+      "context_title": "The Fish Can Sing",
+      "page_content": "The Icelandic title of The Fish Can Sing is \"Brekkukotsannáll\". The Fish Can Sing is a novel. The Fish Can Sing was published in 1957."
+    },
+    {
+      "chunk_id": "92552fde-0b8e-4584-a6d7-94ad18904a27",
+      "chunk_title": "Oyster Bars",
+      "chunk_summary": "This chunk contains information about the definitions, alternative names, service styles, and international terminology for establishments specializing in oysters.",
+      "context_title": "Oyster bar",
+      "page_content": "In France, the oyster bar is known as \"bar à huîtres\". An oyster bar is also known as a raw bar. An oyster bar is also known as an oyster house. An oyster bar is also known as an oyster saloon. An oyster bar is a section of a restaurant which serves oysters buffet-style. An oyster bar is a restaurant specializing in serving oysters."
+    },
+    {
+      "chunk_id": "3c61b872-2a16-4b1b-a590-e4ba9cb5e196",
+      "chunk_title": "Casual Dining Chains",
+      "chunk_summary": "This chunk contains information about casual dining restaurant chains and their cuisine types.",
+      "context_title": "On the Border Mexican Grill &amp; Cantina",
+      "page_content": "On The Border Mexican Grill & Cantina is a chain of Tex-Mex food casual dining restaurants."
+    },
+    {
+      "chunk_id": "5e4e5d56-175c-4769-b9c4-689f32010ef1",
+      "chunk_title": "Literary Works & Characters",
+      "chunk_summary": "This chunk contains information about the authorship and main characters of literary works.",
+      "context_title": "Long John Silver's",
+      "page_content": "The pirate \"Long John\" Silver is one of the main characters in the novel \"Treasure Island\". \"Treasure Island\" was written by Robert Louis Stevenson."
+    },
+    {
+      "chunk_id": "9e302a25-020e-4e4d-8e69-7557da28e6fa",
+      "chunk_title": "Author Biographies",
+      "chunk_summary": "This chunk contains information about the biographical details, nationalities, and notable works of authors.",
+      "context_title": "Treasure Island",
+      "page_content": "Robert Louis Stevenson wrote Treasure Island. Robert Louis Stevenson was a Scottish author."
+    },
+    {
+      "chunk_id": "684e2e6a-b382-4a19-9afc-d3386a3da918",
+      "chunk_title": "Literary Works",
+      "chunk_summary": "This chunk contains information about the genre, plot themes, and classification of specific literary works.",
+      "context_title": "Treasure Island",
+      "page_content": "Treasure Island narrates a tale of buccaneers and buried gold. Treasure Island is an adventure novel."
+    },
+    {
+      "chunk_id": "7c34508d-d67b-4f54-a997-625dedca4e17",
+      "chunk_title": "Children's Historical Novels",
+      "chunk_summary": "This chunk contains information about children's historical novels.",
+      "context_title": "Bread and Roses, Too",
+      "page_content": "Bread and Roses, Too is a children's historical novel."
+    },
+    {
+      "chunk_id": "c4018184-e9d7-4208-938b-a18d3aa4aa09",
+      "chunk_title": "Restaurant Chains",
+      "chunk_summary": "This chunk contains information about major U.S. restaurant chains.",
+      "context_title": "NTN Buzztime",
+      "page_content": "Damon's Grill is a major U.S. chain. Buffalo Wild Wings is a major U.S. chain."
+    },
+    {
+      "chunk_id": "cdf746bf-80a3-40d7-b9fa-92e3d0dc3b40",
+      "chunk_title": "Brand Ownership & Affiliations",
+      "chunk_summary": "This chunk contains information about brand ownership and corporate affiliations.",
+      "context_title": "Glade (brand)",
+      "page_content": "Glade is an S. C. Johnson & Son brand."
+    },
+    {
+      "chunk_id": "bbb41b73-64bf-4dbd-bb1d-ec4008dbc1f8",
+      "chunk_title": "Comic Book History Books",
+      "chunk_summary": "This chunk contains information about books dedicated to the history of the comic book industry.",
+      "context_title": "Will Jacobs",
+      "page_content": "\"The Comic Book Heroes\" is a book dedicated to the history of the American comic book industry from the Silver Age to the present."
+    },
+    {
+      "chunk_id": "d1358d1b-5772-4c8d-af33-d0716b66f02f",
+      "chunk_title": "Epic Novels",
+      "chunk_summary": "This chunk contains information about epic novels.",
+      "context_title": "Independent People",
+      "page_content": "Independent People is an epic novel."
+    },
+    {
+      "chunk_id": "d6a472c6-4b9e-44e0-93d7-62f766bf230c",
+      "chunk_title": "Literary Genres & Satire",
+      "chunk_summary": "This chunk contains information about the genre, classification, and satirical nature of specific literary works.",
+      "context_title": "The Chinese Agent",
+      "page_content": "The Chinese Agent is a comic novel. The Chinese Agent parodies the spy novel genre."
+    },
+    {
+      "chunk_id": "cbefdb24-7077-4c72-bf6f-def7c1a59992",
+      "chunk_title": "Professions & Identities",
+      "chunk_summary": "This chunk contains information about the professions and identities of notable individuals, such as authors.",
+      "context_title": "The Sea Hunters II",
+      "page_content": "Clive Cussler is an adventure novelist."
+    },
+    {
+      "chunk_id": "107c58bd-15d2-4322-8ed2-b52ddf173231",
+      "chunk_title": "Hotel & Casino Aliases",
+      "chunk_summary": "This chunk contains information about the alternative names, aliases, and general classification of specific hotels and casinos.",
+      "context_title": "Treasure Island Hotel and Casino",
+      "page_content": "Treasure Island Hotel & Casino is a hotel. Treasure Island Hotel & Casino is also known as \"TI\". Treasure Island Hotel & Casino is a casino."
+    },
+    {
+      "chunk_id": "5d9a3920-5dbc-49a1-a9fd-aaa287ea1be6",
+      "chunk_title": "Magazine Target Audiences",
+      "chunk_summary": "This chunk contains information about the target audience of specific magazines.",
+      "context_title": "Genre (magazine)",
+      "page_content": "Genre magazine was written for gay men."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.18181818181818182,
+  "retrieval_count": 3,
+  "total_chunks": 22,
+  "total_distinct_titles": 20,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 4,
+  "dag_edges": 5,
+  "dag_snapshots": [
+    {
+      "q": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问的是某海鲜快餐店命名来源小说的体裁",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1 answer='Long John Silver's'（海鲜快餐店）+ N1_2 answer='Treasure Island'（命名来源小说）+ N1_3 answer='adventure novel'（小说体裁）。推理链完整，三环节语义连贯，无矛盾。",
+          "critic_normative_advice": "推理链完整，证据充分。建议 INHERIT 保留当前结构，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the fast-food restaurant specializing in seafood that derives its name from a novel?",
+          "answer": "Long John Silver's",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the fast-food restaurant specializing in seafood that derives its name from a novel?",
+          "planner_rationale": "Q 的核心实体是这家海鲜快餐店——必须先识别出具体是哪一家餐厅，才能追溯其命名来源。这是整个推理链的起点",
+          "solver_judgment": "question 要求找出一个以小说命名且专营海鲜的快餐连锁店。search_query 直接搜索了该问题。chunks 返回了 Long John Silver's 的概述（chunk d7fc0843-6248-48ae-a9c8-23e7fec9f38f），其中明确记载 'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'，并确认其为 'fast-food restaurant chain' 且 'specializes in seafood'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "1 个独立来源（文档 Long John Silver's）。支撑 chunk d7fc0843 全文直接陈述：'Long John Silver's LLC is an American fast-food restaurant chain'、'Long John Silver's LLC specializes in seafood'、'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'。答案与 chunk 内容逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，单来源但直接具体。建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d7fc0843-6248-48ae-a9c8-23e7fec9f38f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+              "chunk_title": "Long John Silver's Overview",
+              "chunk_summary": "This chunk contains information about the American fast-food restaurant chain Long John Silver's, including its seafood specialization, brand name origin, and corporate ownership history.",
+              "context_title": "Long John Silver's",
+              "page_content": "The brand name Long John Silver's is derived from the novel \"Treasure Island\". Long John Silver's LLC was divested to a group of franchisees. Long John Silver's LLC was formerly a division of Yum! Brands, Inc. Long John Silver's LLC is an American fast-food restaurant chain. Long John Silver's LLC was divested to a group of franchisees in September 2011. Long John Silver's LLC specializes in seafood."
+            },
+            {
+              "chunk_id": "d3f96b98-1651-4d7f-a72e-7c1df1c13c3c",
+              "chunk_title": "Seafood Fast Food Offerings",
+              "chunk_summary": "This chunk contains information about seafood-focused fast-food restaurant chains, including details on the types of raw, smoked, prepared seafood products and specific items like fish sandwiches and salads they sell.",
+              "context_title": "Nordsee",
+              "page_content": "Nordsee sells smoked seafood. Fischbrötchen are fish sandwiches. Nordsee is a German fast-food restaurant chain. Nordsee sells canned seafood. The company Nordsee formerly supplied its own seafood. Nordsee sells a wide variety of meals prepared from seafood. Nordsee sells salads. Nordsee sells Fischbrötchen. Nordsee specialises in seafood. Nordsee sells raw seafood. Nordsee sells a wide variety of products prepared from seafood."
+            },
+            {
+              "chunk_id": "e412c928-3816-4325-ab83-df35daee32e9",
+              "chunk_title": "The Crab Cooker Overview",
+              "chunk_summary": "This chunk contains information about The Crab Cooker, a historic seafood restaurant in Newport Beach, California, including its location, building history, establishment date, status as a local landmark, and critical acclaim.",
+              "context_title": "The Crab Cooker",
+              "page_content": "The Crab Cooker is a popular Southern California restaurant. The old branch building of the Bank of America housing The Crab Cooker is located at 22nd & Newport Blvd. The Crab Cooker is considered a local landmark. The Crab Cooker specializes in seafood. In 1969, Venture Magazine rated The Crab Cooker as one of the top two restaurants in the world. The Crab Cooker is located on the Balboa Peninsula in Newport Beach, California. The Crab Cooker was established in 1951. The Crab Cooker is housed in an old branch building of the Bank of America. The logo of the Bank of America prior to its merger with NationsBank can still be seen embedded in the corner of the building housing The Crab Cooker."
+            },
+            {
+              "chunk_id": "ea46144e-4c8f-461d-9da0-d74bb09a29fd",
+              "chunk_title": "Colin Thiele Adaptations",
+              "chunk_summary": "This chunk contains information about creative works adapted from novels by Colin Thiele.",
+              "context_title": "Greg Rowe",
+              "page_content": "\"Storm Boy\" was based on a novel by Colin Thiele. \"Blue Fin\" was based on a novel by Colin Thiele."
+            },
+            {
+              "chunk_id": "d544a95d-93d1-49c1-a297-258afe73768f",
+              "chunk_title": "Awards & Recognition",
+              "chunk_summary": "This chunk contains information about awards and recognition received by restaurants, specifically focusing on survey results and rankings.",
+              "context_title": "Moe's Southwest Grill",
+              "page_content": "In the 2016 Harris Poll EquiTrend survey, Moe's Southwest Grill passed former top restaurant Chipotle Mexican Grill. According to the 2016 Harris Poll EquiTrend survey, Moe's Southwest Grill is the \"Fast Casual Mexican Restaurant of the Year\"."
+            },
+            {
+              "chunk_id": "a3c0a48e-b8c3-4fe2-8604-45b6f9a6f502",
+              "chunk_title": "Companies & Industries",
+              "chunk_summary": "This chunk contains information about companies and their business types or industries.",
+              "context_title": "Ugly Stik",
+              "page_content": "Shakespeare is a fishing equipment retail company."
+            },
+            {
+              "chunk_id": "b37ca8c3-9df0-4553-95e5-8642d1413d5f",
+              "chunk_title": "Oyster Bars",
+              "chunk_summary": "This chunk contains information about oyster bars, including their definitions as restaurants or buffet sections, international terminology, and a list of notable establishments.",
+              "context_title": "List of oyster bars",
+              "page_content": "In France, the oyster bar is known as \"bar à huîtres\". An oyster bar is a section of a restaurant which serves oysters buffet-style. This is a list of notable oyster bars. An oyster bar is a restaurant specializing in serving oysters."
+            },
+            {
+              "chunk_id": "1be629f9-535b-4c17-bafd-db2606bceaa2",
+              "chunk_title": "Novel Details",
+              "chunk_summary": "This chunk contains information about literary works, specifically novels, including their titles, original language titles, and publication dates.",
+              "context_title": "The Fish Can Sing",
+              "page_content": "The Icelandic title of The Fish Can Sing is \"Brekkukotsannáll\". The Fish Can Sing is a novel. The Fish Can Sing was published in 1957."
+            },
+            {
+              "chunk_id": "92552fde-0b8e-4584-a6d7-94ad18904a27",
+              "chunk_title": "Oyster Bars",
+              "chunk_summary": "This chunk contains information about the definitions, alternative names, service styles, and international terminology for establishments specializing in oysters.",
+              "context_title": "Oyster bar",
+              "page_content": "In France, the oyster bar is known as \"bar à huîtres\". An oyster bar is also known as a raw bar. An oyster bar is also known as an oyster house. An oyster bar is also known as an oyster saloon. An oyster bar is a section of a restaurant which serves oysters buffet-style. An oyster bar is a restaurant specializing in serving oysters."
+            },
+            {
+              "chunk_id": "3c61b872-2a16-4b1b-a590-e4ba9cb5e196",
+              "chunk_title": "Casual Dining Chains",
+              "chunk_summary": "This chunk contains information about casual dining restaurant chains and their cuisine types.",
+              "context_title": "On the Border Mexican Grill &amp; Cantina",
+              "page_content": "On The Border Mexican Grill & Cantina is a chain of Tex-Mex food casual dining restaurants."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What novel does that fast-food restaurant derive its name from?",
+          "answer": "Treasure Island",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What novel does the fast-food restaurant Long John Silver's derive its name from?",
+          "planner_rationale": "在确定了海鲜快餐店的身份后，需要找出该餐厅命名来源的具体小说名称。这是连接餐厅与小说体裁的中间环节",
+          "solver_judgment": "question 要求确认快餐店名称来源的小说。search_query 明确搜索了 'Long John Silver's' 的名称来源小说。chunks 返回了 Long John Silver's 的品牌概述，其中 chunk d7fc0843-6248-48ae-a9c8-23e7fec9f38f 明确记载 'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 Long John Silver's），2 个支撑 chunk。chunk d7fc0843 明确记载 'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'；chunk 5e4e5d56 补充 'The pirate \"Long John\" Silver is one of the main characters in the novel \"Treasure Island\"'。两个 chunk 来自同一文档，非独立来源，但内容一致且直接支撑答案。交叉验证：不充分（仅 1 个独立来源），但证据直接。",
+          "critic_normative_advice": "证据充分，单来源双 chunk 一致。建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+            "5e4e5d56-175c-4769-b9c4-689f32010ef1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+              "chunk_title": "Long John Silver's Overview",
+              "chunk_summary": "This chunk contains information about the American fast-food restaurant chain Long John Silver's, including its seafood specialization, brand name origin, and corporate ownership history.",
+              "context_title": "Long John Silver's",
+              "page_content": "The brand name Long John Silver's is derived from the novel \"Treasure Island\". Long John Silver's LLC was divested to a group of franchisees. Long John Silver's LLC was formerly a division of Yum! Brands, Inc. Long John Silver's LLC is an American fast-food restaurant chain. Long John Silver's LLC was divested to a group of franchisees in September 2011. Long John Silver's LLC specializes in seafood."
+            },
+            {
+              "chunk_id": "5e4e5d56-175c-4769-b9c4-689f32010ef1",
+              "chunk_title": "Literary Works & Characters",
+              "chunk_summary": "This chunk contains information about the authorship and main characters of literary works.",
+              "context_title": "Long John Silver's",
+              "page_content": "The pirate \"Long John\" Silver is one of the main characters in the novel \"Treasure Island\". \"Treasure Island\" was written by Robert Louis Stevenson."
+            },
+            {
+              "chunk_id": "9e302a25-020e-4e4d-8e69-7557da28e6fa",
+              "chunk_title": "Author Biographies",
+              "chunk_summary": "This chunk contains information about the biographical details, nationalities, and notable works of authors.",
+              "context_title": "Treasure Island",
+              "page_content": "Robert Louis Stevenson wrote Treasure Island. Robert Louis Stevenson was a Scottish author."
+            },
+            {
+              "chunk_id": "ea46144e-4c8f-461d-9da0-d74bb09a29fd",
+              "chunk_title": "Colin Thiele Adaptations",
+              "chunk_summary": "This chunk contains information about creative works adapted from novels by Colin Thiele.",
+              "context_title": "Greg Rowe",
+              "page_content": "\"Storm Boy\" was based on a novel by Colin Thiele. \"Blue Fin\" was based on a novel by Colin Thiele."
+            },
+            {
+              "chunk_id": "684e2e6a-b382-4a19-9afc-d3386a3da918",
+              "chunk_title": "Literary Works",
+              "chunk_summary": "This chunk contains information about the genre, plot themes, and classification of specific literary works.",
+              "context_title": "Treasure Island",
+              "page_content": "Treasure Island narrates a tale of buccaneers and buried gold. Treasure Island is an adventure novel."
+            },
+            {
+              "chunk_id": "7c34508d-d67b-4f54-a997-625dedca4e17",
+              "chunk_title": "Children's Historical Novels",
+              "chunk_summary": "This chunk contains information about children's historical novels.",
+              "context_title": "Bread and Roses, Too",
+              "page_content": "Bread and Roses, Too is a children's historical novel."
+            },
+            {
+              "chunk_id": "1be629f9-535b-4c17-bafd-db2606bceaa2",
+              "chunk_title": "Novel Details",
+              "chunk_summary": "This chunk contains information about literary works, specifically novels, including their titles, original language titles, and publication dates.",
+              "context_title": "The Fish Can Sing",
+              "page_content": "The Icelandic title of The Fish Can Sing is \"Brekkukotsannáll\". The Fish Can Sing is a novel. The Fish Can Sing was published in 1957."
+            },
+            {
+              "chunk_id": "c4018184-e9d7-4208-938b-a18d3aa4aa09",
+              "chunk_title": "Restaurant Chains",
+              "chunk_summary": "This chunk contains information about major U.S. restaurant chains.",
+              "context_title": "NTN Buzztime",
+              "page_content": "Damon's Grill is a major U.S. chain. Buffalo Wild Wings is a major U.S. chain."
+            },
+            {
+              "chunk_id": "cdf746bf-80a3-40d7-b9fa-92e3d0dc3b40",
+              "chunk_title": "Brand Ownership & Affiliations",
+              "chunk_summary": "This chunk contains information about brand ownership and corporate affiliations.",
+              "context_title": "Glade (brand)",
+              "page_content": "Glade is an S. C. Johnson & Son brand."
+            },
+            {
+              "chunk_id": "bbb41b73-64bf-4dbd-bb1d-ec4008dbc1f8",
+              "chunk_title": "Comic Book History Books",
+              "chunk_summary": "This chunk contains information about books dedicated to the history of the comic book industry.",
+              "context_title": "Will Jacobs",
+              "page_content": "\"The Comic Book Heroes\" is a book dedicated to the history of the American comic book industry from the Silver Age to the present."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What genre is that novel?",
+          "answer": "adventure novel",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Treasure Island novel genre",
+          "planner_rationale": "Q 的最终询问目标——在确定了小说名称后，查找该小说的体裁/类型。这是回答 Q 的直接事实",
+          "solver_judgment": "question 要求确认“that novel”（结合 search_query 可知指代 Treasure Island）的文学体裁。search_query 搜索了“Treasure Island novel genre”。chunks 返回了 Treasure Island 的相关信息，其中 chunk 684e2e6a-b382-4a19-9afc-d3386a3da918 明确记载“Treasure Island is an adventure novel”，直接且完整地回答了问题。检索精准，无信息缺口。",
+          "critic_factual_notes": "1 个独立来源（文档 Treasure Island）。支撑 chunk 684e2e6a 全文直接陈述：'Treasure Island is an adventure novel'。答案与 chunk 内容逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，单来源但直接具体。建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "684e2e6a-b382-4a19-9afc-d3386a3da918"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "684e2e6a-b382-4a19-9afc-d3386a3da918",
+              "chunk_title": "Literary Works",
+              "chunk_summary": "This chunk contains information about the genre, plot themes, and classification of specific literary works.",
+              "context_title": "Treasure Island",
+              "page_content": "Treasure Island narrates a tale of buccaneers and buried gold. Treasure Island is an adventure novel."
+            },
+            {
+              "chunk_id": "5e4e5d56-175c-4769-b9c4-689f32010ef1",
+              "chunk_title": "Literary Works & Characters",
+              "chunk_summary": "This chunk contains information about the authorship and main characters of literary works.",
+              "context_title": "Long John Silver's",
+              "page_content": "The pirate \"Long John\" Silver is one of the main characters in the novel \"Treasure Island\". \"Treasure Island\" was written by Robert Louis Stevenson."
+            },
+            {
+              "chunk_id": "9e302a25-020e-4e4d-8e69-7557da28e6fa",
+              "chunk_title": "Author Biographies",
+              "chunk_summary": "This chunk contains information about the biographical details, nationalities, and notable works of authors.",
+              "context_title": "Treasure Island",
+              "page_content": "Robert Louis Stevenson wrote Treasure Island. Robert Louis Stevenson was a Scottish author."
+            },
+            {
+              "chunk_id": "7c34508d-d67b-4f54-a997-625dedca4e17",
+              "chunk_title": "Children's Historical Novels",
+              "chunk_summary": "This chunk contains information about children's historical novels.",
+              "context_title": "Bread and Roses, Too",
+              "page_content": "Bread and Roses, Too is a children's historical novel."
+            },
+            {
+              "chunk_id": "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+              "chunk_title": "Long John Silver's Overview",
+              "chunk_summary": "This chunk contains information about the American fast-food restaurant chain Long John Silver's, including its seafood specialization, brand name origin, and corporate ownership history.",
+              "context_title": "Long John Silver's",
+              "page_content": "The brand name Long John Silver's is derived from the novel \"Treasure Island\". Long John Silver's LLC was divested to a group of franchisees. Long John Silver's LLC was formerly a division of Yum! Brands, Inc. Long John Silver's LLC is an American fast-food restaurant chain. Long John Silver's LLC was divested to a group of franchisees in September 2011. Long John Silver's LLC specializes in seafood."
+            },
+            {
+              "chunk_id": "d1358d1b-5772-4c8d-af33-d0716b66f02f",
+              "chunk_title": "Epic Novels",
+              "chunk_summary": "This chunk contains information about epic novels.",
+              "context_title": "Independent People",
+              "page_content": "Independent People is an epic novel."
+            },
+            {
+              "chunk_id": "d6a472c6-4b9e-44e0-93d7-62f766bf230c",
+              "chunk_title": "Literary Genres & Satire",
+              "chunk_summary": "This chunk contains information about the genre, classification, and satirical nature of specific literary works.",
+              "context_title": "The Chinese Agent",
+              "page_content": "The Chinese Agent is a comic novel. The Chinese Agent parodies the spy novel genre."
+            },
+            {
+              "chunk_id": "cbefdb24-7077-4c72-bf6f-def7c1a59992",
+              "chunk_title": "Professions & Identities",
+              "chunk_summary": "This chunk contains information about the professions and identities of notable individuals, such as authors.",
+              "context_title": "The Sea Hunters II",
+              "page_content": "Clive Cussler is an adventure novelist."
+            },
+            {
+              "chunk_id": "107c58bd-15d2-4322-8ed2-b52ddf173231",
+              "chunk_title": "Hotel & Casino Aliases",
+              "chunk_summary": "This chunk contains information about the alternative names, aliases, and general classification of specific hotels and casinos.",
+              "context_title": "Treasure Island Hotel and Casino",
+              "page_content": "Treasure Island Hotel & Casino is a hotel. Treasure Island Hotel & Casino is also known as \"TI\". Treasure Island Hotel & Casino is a casino."
+            },
+            {
+              "chunk_id": "5d9a3920-5dbc-49a1-a9fd-aaa287ea1be6",
+              "chunk_title": "Magazine Target Audiences",
+              "chunk_summary": "This chunk contains information about the target audience of specific magazines.",
+              "context_title": "Genre (magazine)",
+              "page_content": "Genre magazine was written for gay men."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。推理链已完整：N1_1 answer='Long John Silver's'（海鲜快餐店）→ N1_2 answer='Treasure Island'（命名来源小说）→ N1_3 answer='adventure novel'（小说体裁）。所有子节点已 SOLVED + healthy，可直接聚合生成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1 answer='Long John Silver's'（海鲜快餐店）+ N1_2 answer='Treasure Island'（命名来源小说）+ N1_3 answer='adventure novel'（小说体裁）。推理链三环节语义连贯，无矛盾。",
+          "critic_normative_advice": "推理链完整，证据充分。建议 INHERIT 保留当前结构，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the fast-food restaurant specializing in seafood that derives its name from a novel?",
+          "answer": "Long John Silver's",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the fast-food restaurant specializing in seafood that derives its name from a novel?",
+          "planner_rationale": "Q 推理链起点——识别海鲜快餐店身份。已 SOLVED + healthy，answer='Long John Silver's' 由直接来源支撑，Critic 确认证据充分。",
+          "solver_judgment": "question 要求找出一个以小说命名且专营海鲜的快餐连锁店。search_query 直接搜索了该问题。chunks 返回了 Long John Silver's 的概述（chunk d7fc0843-6248-48ae-a9c8-23e7fec9f38f），其中明确记载 'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'，并确认其为 'fast-food restaurant chain' 且 'specializes in seafood'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "1 个独立来源（文档 Long John Silver's）。支撑 chunk d7fc0843 全文直接陈述：'Long John Silver's LLC is an American fast-food restaurant chain'、'Long John Silver's LLC specializes in seafood'、'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'。答案与 chunk 内容逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，单来源但直接具体。建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d7fc0843-6248-48ae-a9c8-23e7fec9f38f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+              "chunk_title": "Long John Silver's Overview",
+              "chunk_summary": "This chunk contains information about the American fast-food restaurant chain Long John Silver's, including its seafood specialization, brand name origin, and corporate ownership history.",
+              "context_title": "Long John Silver's",
+              "page_content": "The brand name Long John Silver's is derived from the novel \"Treasure Island\". Long John Silver's LLC was divested to a group of franchisees. Long John Silver's LLC was formerly a division of Yum! Brands, Inc. Long John Silver's LLC is an American fast-food restaurant chain. Long John Silver's LLC was divested to a group of franchisees in September 2011. Long John Silver's LLC specializes in seafood."
+            },
+            {
+              "chunk_id": "d3f96b98-1651-4d7f-a72e-7c1df1c13c3c",
+              "chunk_title": "Seafood Fast Food Offerings",
+              "chunk_summary": "This chunk contains information about seafood-focused fast-food restaurant chains, including details on the types of raw, smoked, prepared seafood products and specific items like fish sandwiches and salads they sell.",
+              "context_title": "Nordsee",
+              "page_content": "Nordsee sells smoked seafood. Fischbrötchen are fish sandwiches. Nordsee is a German fast-food restaurant chain. Nordsee sells canned seafood. The company Nordsee formerly supplied its own seafood. Nordsee sells a wide variety of meals prepared from seafood. Nordsee sells salads. Nordsee sells Fischbrötchen. Nordsee specialises in seafood. Nordsee sells raw seafood. Nordsee sells a wide variety of products prepared from seafood."
+            },
+            {
+              "chunk_id": "e412c928-3816-4325-ab83-df35daee32e9",
+              "chunk_title": "The Crab Cooker Overview",
+              "chunk_summary": "This chunk contains information about The Crab Cooker, a historic seafood restaurant in Newport Beach, California, including its location, building history, establishment date, status as a local landmark, and critical acclaim.",
+              "context_title": "The Crab Cooker",
+              "page_content": "The Crab Cooker is a popular Southern California restaurant. The old branch building of the Bank of America housing The Crab Cooker is located at 22nd & Newport Blvd. The Crab Cooker is considered a local landmark. The Crab Cooker specializes in seafood. In 1969, Venture Magazine rated The Crab Cooker as one of the top two restaurants in the world. The Crab Cooker is located on the Balboa Peninsula in Newport Beach, California. The Crab Cooker was established in 1951. The Crab Cooker is housed in an old branch building of the Bank of America. The logo of the Bank of America prior to its merger with NationsBank can still be seen embedded in the corner of the building housing The Crab Cooker."
+            },
+            {
+              "chunk_id": "ea46144e-4c8f-461d-9da0-d74bb09a29fd",
+              "chunk_title": "Colin Thiele Adaptations",
+              "chunk_summary": "This chunk contains information about creative works adapted from novels by Colin Thiele.",
+              "context_title": "Greg Rowe",
+              "page_content": "\"Storm Boy\" was based on a novel by Colin Thiele. \"Blue Fin\" was based on a novel by Colin Thiele."
+            },
+            {
+              "chunk_id": "d544a95d-93d1-49c1-a297-258afe73768f",
+              "chunk_title": "Awards & Recognition",
+              "chunk_summary": "This chunk contains information about awards and recognition received by restaurants, specifically focusing on survey results and rankings.",
+              "context_title": "Moe's Southwest Grill",
+              "page_content": "In the 2016 Harris Poll EquiTrend survey, Moe's Southwest Grill passed former top restaurant Chipotle Mexican Grill. According to the 2016 Harris Poll EquiTrend survey, Moe's Southwest Grill is the \"Fast Casual Mexican Restaurant of the Year\"."
+            },
+            {
+              "chunk_id": "a3c0a48e-b8c3-4fe2-8604-45b6f9a6f502",
+              "chunk_title": "Companies & Industries",
+              "chunk_summary": "This chunk contains information about companies and their business types or industries.",
+              "context_title": "Ugly Stik",
+              "page_content": "Shakespeare is a fishing equipment retail company."
+            },
+            {
+              "chunk_id": "b37ca8c3-9df0-4553-95e5-8642d1413d5f",
+              "chunk_title": "Oyster Bars",
+              "chunk_summary": "This chunk contains information about oyster bars, including their definitions as restaurants or buffet sections, international terminology, and a list of notable establishments.",
+              "context_title": "List of oyster bars",
+              "page_content": "In France, the oyster bar is known as \"bar à huîtres\". An oyster bar is a section of a restaurant which serves oysters buffet-style. This is a list of notable oyster bars. An oyster bar is a restaurant specializing in serving oysters."
+            },
+            {
+              "chunk_id": "1be629f9-535b-4c17-bafd-db2606bceaa2",
+              "chunk_title": "Novel Details",
+              "chunk_summary": "This chunk contains information about literary works, specifically novels, including their titles, original language titles, and publication dates.",
+              "context_title": "The Fish Can Sing",
+              "page_content": "The Icelandic title of The Fish Can Sing is \"Brekkukotsannáll\". The Fish Can Sing is a novel. The Fish Can Sing was published in 1957."
+            },
+            {
+              "chunk_id": "92552fde-0b8e-4584-a6d7-94ad18904a27",
+              "chunk_title": "Oyster Bars",
+              "chunk_summary": "This chunk contains information about the definitions, alternative names, service styles, and international terminology for establishments specializing in oysters.",
+              "context_title": "Oyster bar",
+              "page_content": "In France, the oyster bar is known as \"bar à huîtres\". An oyster bar is also known as a raw bar. An oyster bar is also known as an oyster house. An oyster bar is also known as an oyster saloon. An oyster bar is a section of a restaurant which serves oysters buffet-style. An oyster bar is a restaurant specializing in serving oysters."
+            },
+            {
+              "chunk_id": "3c61b872-2a16-4b1b-a590-e4ba9cb5e196",
+              "chunk_title": "Casual Dining Chains",
+              "chunk_summary": "This chunk contains information about casual dining restaurant chains and their cuisine types.",
+              "context_title": "On the Border Mexican Grill &amp; Cantina",
+              "page_content": "On The Border Mexican Grill & Cantina is a chain of Tex-Mex food casual dining restaurants."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What novel does that fast-food restaurant derive its name from?",
+          "answer": "Treasure Island",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What novel does the fast-food restaurant Long John Silver's derive its name from?",
+          "planner_rationale": "连接餐厅与小说体裁的中间环节——找出命名来源小说。已 SOLVED + healthy，answer='Treasure Island' 由双 chunk 一致支撑，Critic 确认证据充分。",
+          "solver_judgment": "question 要求确认快餐店名称来源的小说。search_query 明确搜索了 'Long John Silver's' 的名称来源小说。chunks 返回了 Long John Silver's 的品牌概述，其中 chunk d7fc0843-6248-48ae-a9c8-23e7fec9f38f 明确记载 'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 Long John Silver's），2 个支撑 chunk。chunk d7fc0843 明确记载 'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'；chunk 5e4e5d56 补充 'The pirate \"Long John\" Silver is one of the main characters in the novel \"Treasure Island\"'。两个 chunk 来自同一文档，非独立来源，但内容一致且直接支撑答案。交叉验证：不充分（仅 1 个独立来源），但证据直接。",
+          "critic_normative_advice": "证据充分，单来源双 chunk 一致。建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+            "5e4e5d56-175c-4769-b9c4-689f32010ef1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+              "chunk_title": "Long John Silver's Overview",
+              "chunk_summary": "This chunk contains information about the American fast-food restaurant chain Long John Silver's, including its seafood specialization, brand name origin, and corporate ownership history.",
+              "context_title": "Long John Silver's",
+              "page_content": "The brand name Long John Silver's is derived from the novel \"Treasure Island\". Long John Silver's LLC was divested to a group of franchisees. Long John Silver's LLC was formerly a division of Yum! Brands, Inc. Long John Silver's LLC is an American fast-food restaurant chain. Long John Silver's LLC was divested to a group of franchisees in September 2011. Long John Silver's LLC specializes in seafood."
+            },
+            {
+              "chunk_id": "5e4e5d56-175c-4769-b9c4-689f32010ef1",
+              "chunk_title": "Literary Works & Characters",
+              "chunk_summary": "This chunk contains information about the authorship and main characters of literary works.",
+              "context_title": "Long John Silver's",
+              "page_content": "The pirate \"Long John\" Silver is one of the main characters in the novel \"Treasure Island\". \"Treasure Island\" was written by Robert Louis Stevenson."
+            },
+            {
+              "chunk_id": "9e302a25-020e-4e4d-8e69-7557da28e6fa",
+              "chunk_title": "Author Biographies",
+              "chunk_summary": "This chunk contains information about the biographical details, nationalities, and notable works of authors.",
+              "context_title": "Treasure Island",
+              "page_content": "Robert Louis Stevenson wrote Treasure Island. Robert Louis Stevenson was a Scottish author."
+            },
+            {
+              "chunk_id": "ea46144e-4c8f-461d-9da0-d74bb09a29fd",
+              "chunk_title": "Colin Thiele Adaptations",
+              "chunk_summary": "This chunk contains information about creative works adapted from novels by Colin Thiele.",
+              "context_title": "Greg Rowe",
+              "page_content": "\"Storm Boy\" was based on a novel by Colin Thiele. \"Blue Fin\" was based on a novel by Colin Thiele."
+            },
+            {
+              "chunk_id": "684e2e6a-b382-4a19-9afc-d3386a3da918",
+              "chunk_title": "Literary Works",
+              "chunk_summary": "This chunk contains information about the genre, plot themes, and classification of specific literary works.",
+              "context_title": "Treasure Island",
+              "page_content": "Treasure Island narrates a tale of buccaneers and buried gold. Treasure Island is an adventure novel."
+            },
+            {
+              "chunk_id": "7c34508d-d67b-4f54-a997-625dedca4e17",
+              "chunk_title": "Children's Historical Novels",
+              "chunk_summary": "This chunk contains information about children's historical novels.",
+              "context_title": "Bread and Roses, Too",
+              "page_content": "Bread and Roses, Too is a children's historical novel."
+            },
+            {
+              "chunk_id": "1be629f9-535b-4c17-bafd-db2606bceaa2",
+              "chunk_title": "Novel Details",
+              "chunk_summary": "This chunk contains information about literary works, specifically novels, including their titles, original language titles, and publication dates.",
+              "context_title": "The Fish Can Sing",
+              "page_content": "The Icelandic title of The Fish Can Sing is \"Brekkukotsannáll\". The Fish Can Sing is a novel. The Fish Can Sing was published in 1957."
+            },
+            {
+              "chunk_id": "c4018184-e9d7-4208-938b-a18d3aa4aa09",
+              "chunk_title": "Restaurant Chains",
+              "chunk_summary": "This chunk contains information about major U.S. restaurant chains.",
+              "context_title": "NTN Buzztime",
+              "page_content": "Damon's Grill is a major U.S. chain. Buffalo Wild Wings is a major U.S. chain."
+            },
+            {
+              "chunk_id": "cdf746bf-80a3-40d7-b9fa-92e3d0dc3b40",
+              "chunk_title": "Brand Ownership & Affiliations",
+              "chunk_summary": "This chunk contains information about brand ownership and corporate affiliations.",
+              "context_title": "Glade (brand)",
+              "page_content": "Glade is an S. C. Johnson & Son brand."
+            },
+            {
+              "chunk_id": "bbb41b73-64bf-4dbd-bb1d-ec4008dbc1f8",
+              "chunk_title": "Comic Book History Books",
+              "chunk_summary": "This chunk contains information about books dedicated to the history of the comic book industry.",
+              "context_title": "Will Jacobs",
+              "page_content": "\"The Comic Book Heroes\" is a book dedicated to the history of the American comic book industry from the Silver Age to the present."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What genre is that novel?",
+          "answer": "adventure novel",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Treasure Island novel genre",
+          "planner_rationale": "Q 的最终询问目标——小说体裁。已 SOLVED + healthy，answer='adventure novel' 由直接来源支撑，Critic 确认证据充分。",
+          "solver_judgment": "question 要求确认“that novel”（结合 search_query 可知指代 Treasure Island）的文学体裁。search_query 搜索了“Treasure Island novel genre”。chunks 返回了 Treasure Island 的相关信息，其中 chunk 684e2e6a-b382-4a19-9afc-d3386a3da918 明确记载“Treasure Island is an adventure novel”，直接且完整地回答了问题。检索精准，无信息缺口。",
+          "critic_factual_notes": "1 个独立来源（文档 Treasure Island）。支撑 chunk 684e2e6a 全文直接陈述：'Treasure Island is an adventure novel'。答案与 chunk 内容逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，单来源但直接具体。建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "684e2e6a-b382-4a19-9afc-d3386a3da918"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "684e2e6a-b382-4a19-9afc-d3386a3da918",
+              "chunk_title": "Literary Works",
+              "chunk_summary": "This chunk contains information about the genre, plot themes, and classification of specific literary works.",
+              "context_title": "Treasure Island",
+              "page_content": "Treasure Island narrates a tale of buccaneers and buried gold. Treasure Island is an adventure novel."
+            },
+            {
+              "chunk_id": "5e4e5d56-175c-4769-b9c4-689f32010ef1",
+              "chunk_title": "Literary Works & Characters",
+              "chunk_summary": "This chunk contains information about the authorship and main characters of literary works.",
+              "context_title": "Long John Silver's",
+              "page_content": "The pirate \"Long John\" Silver is one of the main characters in the novel \"Treasure Island\". \"Treasure Island\" was written by Robert Louis Stevenson."
+            },
+            {
+              "chunk_id": "9e302a25-020e-4e4d-8e69-7557da28e6fa",
+              "chunk_title": "Author Biographies",
+              "chunk_summary": "This chunk contains information about the biographical details, nationalities, and notable works of authors.",
+              "context_title": "Treasure Island",
+              "page_content": "Robert Louis Stevenson wrote Treasure Island. Robert Louis Stevenson was a Scottish author."
+            },
+            {
+              "chunk_id": "7c34508d-d67b-4f54-a997-625dedca4e17",
+              "chunk_title": "Children's Historical Novels",
+              "chunk_summary": "This chunk contains information about children's historical novels.",
+              "context_title": "Bread and Roses, Too",
+              "page_content": "Bread and Roses, Too is a children's historical novel."
+            },
+            {
+              "chunk_id": "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+              "chunk_title": "Long John Silver's Overview",
+              "chunk_summary": "This chunk contains information about the American fast-food restaurant chain Long John Silver's, including its seafood specialization, brand name origin, and corporate ownership history.",
+              "context_title": "Long John Silver's",
+              "page_content": "The brand name Long John Silver's is derived from the novel \"Treasure Island\". Long John Silver's LLC was divested to a group of franchisees. Long John Silver's LLC was formerly a division of Yum! Brands, Inc. Long John Silver's LLC is an American fast-food restaurant chain. Long John Silver's LLC was divested to a group of franchisees in September 2011. Long John Silver's LLC specializes in seafood."
+            },
+            {
+              "chunk_id": "d1358d1b-5772-4c8d-af33-d0716b66f02f",
+              "chunk_title": "Epic Novels",
+              "chunk_summary": "This chunk contains information about epic novels.",
+              "context_title": "Independent People",
+              "page_content": "Independent People is an epic novel."
+            },
+            {
+              "chunk_id": "d6a472c6-4b9e-44e0-93d7-62f766bf230c",
+              "chunk_title": "Literary Genres & Satire",
+              "chunk_summary": "This chunk contains information about the genre, classification, and satirical nature of specific literary works.",
+              "context_title": "The Chinese Agent",
+              "page_content": "The Chinese Agent is a comic novel. The Chinese Agent parodies the spy novel genre."
+            },
+            {
+              "chunk_id": "cbefdb24-7077-4c72-bf6f-def7c1a59992",
+              "chunk_title": "Professions & Identities",
+              "chunk_summary": "This chunk contains information about the professions and identities of notable individuals, such as authors.",
+              "context_title": "The Sea Hunters II",
+              "page_content": "Clive Cussler is an adventure novelist."
+            },
+            {
+              "chunk_id": "107c58bd-15d2-4322-8ed2-b52ddf173231",
+              "chunk_title": "Hotel & Casino Aliases",
+              "chunk_summary": "This chunk contains information about the alternative names, aliases, and general classification of specific hotels and casinos.",
+              "context_title": "Treasure Island Hotel and Casino",
+              "page_content": "Treasure Island Hotel & Casino is a hotel. Treasure Island Hotel & Casino is also known as \"TI\". Treasure Island Hotel & Casino is a casino."
+            },
+            {
+              "chunk_id": "5d9a3920-5dbc-49a1-a9fd-aaa287ea1be6",
+              "chunk_title": "Magazine Target Audiences",
+              "chunk_summary": "This chunk contains information about the target audience of specific magazines.",
+              "context_title": "Genre (magazine)",
+              "page_content": "Genre magazine was written for gay men."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the fast-food restaurant specializing in seafood that derives its name from a novel?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+        "d3f96b98-1651-4d7f-a72e-7c1df1c13c3c",
+        "e412c928-3816-4325-ab83-df35daee32e9",
+        "ea46144e-4c8f-461d-9da0-d74bb09a29fd",
+        "d544a95d-93d1-49c1-a297-258afe73768f",
+        "a3c0a48e-b8c3-4fe2-8604-45b6f9a6f502",
+        "b37ca8c3-9df0-4553-95e5-8642d1413d5f",
+        "1be629f9-535b-4c17-bafd-db2606bceaa2",
+        "92552fde-0b8e-4584-a6d7-94ad18904a27",
+        "3c61b872-2a16-4b1b-a590-e4ba9cb5e196"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What novel does the fast-food restaurant Long John Silver's derive its name from?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+        "5e4e5d56-175c-4769-b9c4-689f32010ef1",
+        "9e302a25-020e-4e4d-8e69-7557da28e6fa",
+        "ea46144e-4c8f-461d-9da0-d74bb09a29fd",
+        "684e2e6a-b382-4a19-9afc-d3386a3da918",
+        "7c34508d-d67b-4f54-a997-625dedca4e17",
+        "1be629f9-535b-4c17-bafd-db2606bceaa2",
+        "c4018184-e9d7-4208-938b-a18d3aa4aa09",
+        "cdf746bf-80a3-40d7-b9fa-92e3d0dc3b40",
+        "bbb41b73-64bf-4dbd-bb1d-ec4008dbc1f8"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Treasure Island novel genre",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "684e2e6a-b382-4a19-9afc-d3386a3da918",
+        "5e4e5d56-175c-4769-b9c4-689f32010ef1",
+        "9e302a25-020e-4e4d-8e69-7557da28e6fa",
+        "7c34508d-d67b-4f54-a997-625dedca4e17",
+        "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+        "d1358d1b-5772-4c8d-af33-d0716b66f02f",
+        "d6a472c6-4b9e-44e0-93d7-62f766bf230c",
+        "cbefdb24-7077-4c72-bf6f-def7c1a59992",
+        "107c58bd-15d2-4322-8ed2-b52ddf173231",
+        "5d9a3920-5dbc-49a1-a9fd-aaa287ea1be6"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 3,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 那家从小说得名的海鲜快餐店是什么？（理由：Q 的推理链起点——必须先识别出具体餐厅实体），F2: 那家快餐店从哪部小说得名？（理由：需要找出餐厅命名来源的具体小说名称），F3: 那部小说的体裁是什么？（理由：Q 的最终询问目标）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）且依赖 F1（dependency——F2 的 question 中 \"that fast-food restaurant\" 需要用 F1 的 answer 消解），F3 是 Q 的分解产物（decomposition）且依赖 F2（dependency——F3 的 question 中 \"that novel\" 需要用 F2 的 answer 消解）。整体形成链式依赖：F1 → F2 → F3。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），N1（question=\"What is the fast-food restaurant specializing in seafood that derives its name from a novel?\"），N2（question=\"What novel does that fast-food restaurant derive its name from?\"），N3（question=\"What genre is that novel?\"）。新增边: N0→N1（decomposition），N0→N2（decomposition），N0→N3（decomposition），N1→N2（dependency），N2→N3（dependency）。结构为链式分解：先识别餐厅→再找小说→最后查体裁。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①（所有非根节点 SOLVED）✓；条件④（首轮，无拓扑变化要求）✓；条件②（推理链语义匹配）✓——路径 1.1/1.2/1.3 中所有 dependency 环节均有效，N1_1 answer 消解 N1_2 指代，N1_2 answer 消解 N1_3 指代；条件③（全部节点 healthy）✓——N1_1/N1_2/N1_3 均为单来源但直接具体，N0 推理链完整一致。推理"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 那家从小说得名的海鲜快餐店是什么？（理由：Q 的推理链起点——必须先识别出具体餐厅实体），F2: 那家快餐店从哪部小说得名？（理由：需要找出餐厅命名来源的具体小说名称），F3: 那部小说的体裁是什么？（理由：Q 的最终询问目标）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）且依赖 F1（dependency——F2 的 question 中 \"that fast-food restaurant\" 需要用 F1 的 answer 消解），F3 是 Q 的分解产物（decomposition）且依赖 F2（dependency——F3 的 question 中 \"that novel\" 需要用 F2 的 answer 消解）。整体形成链式依赖：F1 → F2 → F3。所有三个子事实均已确立（SOLVED + healthy），推理链完整，可直接聚合生成最终答案 \"adventure novel\"。",
+      "hypothesis_delta": "本轮无结构变更——所有节点 INHERIT 保留，所有边 INHERIT 保留。原因：上一轮（首轮）建立的链式分解结构 F1→F2→F3 已完全收敛。N1_1（Long John Silver's）、N1_2（Treasure Island）、N1_3（adventure novel）全部 SOLVED + healthy，Critic 确认推理链完整、证据充分、无缺口无冗余。DAG 已达到可生成最终答案的稳定状态，无需任何结构调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义完整——N1_1 answer='Long John Silver's' 消解 N1_2 的 'that fast-food restaurant'，N1_2 answer='Treasure Island' 消解 N1_3 的 'that novel'，所有 dependency 环节语义有效；③全部节点（N0/N1_1/N1_2/N1_"
+      }
+    }
+  ]
+}

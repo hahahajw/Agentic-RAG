@@ -1,0 +1,422 @@
+{
+  "question_index": 347,
+  "question_id": "9575367b091111ebbdadac1f6bf848b6",
+  "question": "Did the movies Vendetta Di Zingara and For A Few Extra Dollars, originate from the same country?",
+  "answer": "yes",
+  "prediction": "yes",
+  "error": null,
+  "latency_ms": 102687.31179996394,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T20:50:59.527728+00:00",
+  "chunks": [
+    {
+      "chunk_id": "67555480-d66e-4cf6-8ddf-18d16c2e0bf7",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+      "context_title": "Vendetta di zingara",
+      "page_content": "Vendetta di zingara is a 1950 Italian film. Vendetta di zingara was directed by Aldo Molinari."
+    },
+    {
+      "chunk_id": "d12ea8a8-e25d-4e12-819b-4e45f6bbfbc3",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and key contributors such as writers and directors.",
+      "context_title": "Sangue di zingara",
+      "page_content": "Maria Basaglia co-wrote Sangue di zingara. Maria Basaglia directed Sangue di zingara. Sangue di zingara is a 1956 Italian melodrama film."
+    },
+    {
+      "chunk_id": "5320d1f6-4dcf-47fe-89e1-365d36b58545",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their title, release year, genre, country of origin, director, and writer.",
+      "context_title": "La vendetta di Lady Morgan",
+      "page_content": "La vendetta di Lady Morgan is a 1965 Italian horror film. La vendetta di Lady Morgan was written by Gianni Grimaldi. La vendetta di Lady Morgan was directed by Massimo Pupillo."
+    },
+    {
+      "chunk_id": "ff3c80d9-750b-4aca-b01d-3c69dae5a323",
+      "chunk_title": "Black Eagle Film Series",
+      "chunk_summary": "This chunk contains information about the 1951 Italian adventure film \"Revenge of Black Eagle\" and its 1946 predecessor \"Black Eagle,\" including titles, director, and their relationship as a sequel.",
+      "context_title": "Revenge of Black Eagle",
+      "page_content": "Revenge of Black Eagle was directed by Riccardo Freda. Revenge of Black Eagle is known in Italian as \"La Vendetta di Aquila Nera\". Black Eagle is a 1946 film. Black Eagle was directed by Riccardo Freda. Revenge of Black Eagle is a 1951 Italian adventure film. Revenge of Black Eagle is a sequel to Black Eagle. Revenge of Black Eagle was released in the UK as \"Revenge of the Black Eagle\"."
+    },
+    {
+      "chunk_id": "9b2ab9d8-2a1f-408e-a83a-807995f00627",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, specifically their titles, release dates, and genres.",
+      "context_title": "Vendetta (1986 film)",
+      "page_content": "Vendetta is a 1986 women in prison film. Vendetta was released in September 1986."
+    },
+    {
+      "chunk_id": "5a837432-08ce-4afd-b978-448a2e8dc0db",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of various films.",
+      "context_title": "Vendetta (1986 film)",
+      "page_content": "Vendetta was directed by Bruce Logan."
+    },
+    {
+      "chunk_id": "5bcfb3ad-2f14-46d3-a08e-d0cde911d945",
+      "chunk_title": "Term Meanings & Translations",
+      "chunk_summary": "This chunk contains information about the meanings and translations of specific terms or phrases.",
+      "context_title": "Sangue di zingara",
+      "page_content": "Sangue di zingara means \"Gipsy's blood\"."
+    },
+    {
+      "chunk_id": "a60fb1c5-80e9-4c06-ac0d-df8c7d9f6936",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, alternative names, directors, and production details.",
+      "context_title": "The Revenge of Spartacus",
+      "page_content": "The Revenge of Spartacus is a 1965 Italian film. The Revenge of Spartacus is also known as La vendetta di Spartacus. The US title of The Revenge of Spartacus is \"Revenge of the Gladiators\". The Revenge of Spartacus was directed by Michele Lupo. Michele Lupo is a director. The Revenge of Spartacus was shot back to back with \"Seven Slaves Against the World\"."
+    },
+    {
+      "chunk_id": "c0fdfb82-0c7f-4f68-b9fc-fa7b4c33a87c",
+      "chunk_title": "Films & Genres",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and genres.",
+      "context_title": "For a Few Extra Dollars",
+      "page_content": "For a Few Extra Dollars is an Italian film. For a Few Extra Dollars is a Spaghetti Western film. For a Few Extra Dollars is a 1966 film."
+    },
+    {
+      "chunk_id": "c5c8e0d5-c86d-4256-bab3-d16a2c6cf815",
+      "chunk_title": "Film Cast",
+      "chunk_summary": "This chunk contains information about the cast of films, specifically listing actors who starred in particular movies.",
+      "context_title": "For a Few Extra Dollars",
+      "page_content": "The film For a Few Extra Dollars stars Giuliano Gemma. The film For a Few Extra Dollars stars Dan Vadis. The film For a Few Extra Dollars stars Sophie Daumier."
+    },
+    {
+      "chunk_id": "69e3ca6d-6152-46c9-88d9-fe1253e52166",
+      "chunk_title": "Film Settings",
+      "chunk_summary": "This chunk contains information about the settings of films.",
+      "context_title": "For a Few Extra Dollars",
+      "page_content": "The film For a Few Extra Dollars is set at Fort Yuma."
+    },
+    {
+      "chunk_id": "568e183f-e42b-4da5-861a-2aeed5d7c81a",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films, specifically noting that Giorgio Ferroni directed \"For a Few Extra Dollars\".",
+      "context_title": "For a Few Extra Dollars",
+      "page_content": "For a Few Extra Dollars was directed by Giorgio Ferroni. Giorgio Ferroni directed For a Few Extra Dollars."
+    },
+    {
+      "chunk_id": "8fc2e487-2771-4f81-82e7-6e64ff3e0ab8",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, cast, relationship to other works, and significance in a director's career.",
+      "context_title": "For a Few Dollars Less",
+      "page_content": "For a Few Dollars Less was Mario Mattoli's final film. For a Few Dollars Less is a 1966 Italian comedy film. For a Few Dollars Less is a parody of For a Few Dollars More. For a Few Dollars Less was directed by Mario Mattoli. For a Few Dollars Less stars Lando Buzzanca."
+    },
+    {
+      "chunk_id": "51567485-b27c-475e-a768-8a650e985090",
+      "chunk_title": "Alternative Titles",
+      "chunk_summary": "This chunk contains information about alternative titles for the movie \"For a Few Extra Dollars,\" including international and re-release names.",
+      "context_title": "For a Few Extra Dollars",
+      "page_content": "For a Few Extra Dollars is also known as Die Now, Pay Later. For a Few Extra Dollars is also known as Per pochi dollari ancora. For a Few Extra Dollars is also known as Fort Yuma Gold."
+    },
+    {
+      "chunk_id": "46d04ab5-d0e5-4c61-bbf1-fed04bc7d6f3",
+      "chunk_title": "Dollar Film Details",
+      "chunk_summary": "This chunk contains information about the 1938 Swedish comedy film Dollar, including its director, cast, and art direction.",
+      "context_title": "Dollar (1938 film)",
+      "page_content": "Dollar is a 1938 Swedish comedy film. Georg Rydeberg starred in the 1938 Swedish comedy film Dollar. The art direction of the 1938 Swedish comedy film Dollar was by Arne Åkermark. Ingrid Bergman starred in the 1938 Swedish comedy film Dollar. Tutta Rolf starred in the 1938 Swedish comedy film Dollar. Gustaf Molander directed the 1938 Swedish comedy film Dollar. Dollar was directed by Gustaf Molander."
+    },
+    {
+      "chunk_id": "ef461517-0044-4fcf-ad98-2a254c1a281b",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 2002 American romantic drama film XX/XY, including its production details, funding sources, and festival nominations.",
+      "context_title": "XX/XY",
+      "page_content": "XX/XY was nominated for the Grand Jury Prize at the Sundance Film Festival. XX/XY was nominated for the Grand Jury Prize at the Sundance Film Festival in 2002. The film XX/XY was produced by the British company Natural Nylon. The funding for the film XX/XY came from the US. XX/XY is a 2002 American romantic drama film."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.375,
+  "retrieval_count": 2,
+  "total_chunks": 16,
+  "total_distinct_titles": 10,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Did the movies Vendetta Di Zingara and For A Few Extra Dollars, originate from the same country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Did the movies Vendetta Di Zingara and For A Few Extra Dollars, originate from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两部电影的原产国并比较是否相同",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 和 N1_2 均已 solved，且答案均为 'Italy'。推理链完整：两部电影原产国已知且一致，足以支撑最终比较结论。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，结构完整，可直接生成最终答案 'Yes'。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the country of origin for the movie Vendetta Di Zingara?",
+          "answer": "Italy",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie Vendetta Di Zingara?",
+          "planner_rationale": "Q 询问两部电影是否来自同一国家，因此必须首先确定第一部电影《Vendetta Di Zingara》的原产国",
+          "solver_judgment": "question 要求确认电影《Vendetta Di Zingara》的原产国。search_query 搜索了该电影的原产国。chunks 返回了多个包含 \"Vendetta\" 或 \"Zingara\" 的电影信息，其中 chunk_67555480-d66e-4cf6-8ddf-18d16c2e0bf7 明确记载 \"Vendetta di zingara is a 1950 Italian film\"，直接指出了其原产国为意大利（Italian）。检索精准命中目标实体并提供了所需属性，其他 chunks 为干扰项（如《Sangue di zingara》、《La vendetta di Lady Morgan》等），但不影响答案提取。",
+          "critic_factual_notes": "1 个来源（文档 'Vendetta di zingara'）。Chunk [67555480-d66e-4cf6-8ddf-18d16c2e0bf7] 全文明确陈述 'Vendetta di zingara is a 1950 Italian film'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the country of origin for the movie For A Few Extra Dollars?",
+          "answer": "Italy",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie For A Few Extra Dollars?",
+          "planner_rationale": "Q 询问两部电影是否来自同一国家，因此必须首先确定第二部电影《For A Few Extra Dollars》的原产国",
+          "solver_judgment": "question 要求确认电影《For A Few Extra Dollars》的原产国。search_query 搜索了 'What is the country of origin for the movie For A Few Extra Dollars?'。chunks 返回了关于该电影的多个片段，其中 chunk c0fdfb82-0c7f-4f68-b9fc-fa7b4c33a87c 明确记载 \"For a Few Extra Dollars is an Italian film\"，直接回答了原产国为意大利。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'For a Few Extra Dollars'）。Chunk [c0fdfb82-0c7f-4f68-b9fc-fa7b4c33a87c] 全文明确陈述 'For a Few Extra Dollars is an Italian film'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Did the movies Vendetta Di Zingara and For A Few Extra Dollars, originate from the same country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Did the movies Vendetta Di Zingara and For A Few Extra Dollars, originate from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且健康，答案均为 'Italy'，足以支撑最终比较结论 'Yes'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 和 N1_2 均已 solved，且答案均为 'Italy'。推理链完整：两部电影原产国已知且一致，足以支撑最终比较结论 'Yes'。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，结构完整，可直接生成最终答案 'Yes'。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the country of origin for the movie Vendetta Di Zingara?",
+          "answer": "Italy",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie Vendetta Di Zingara?",
+          "planner_rationale": "事实已确立：Vendetta Di Zingara 的原产国为 Italy。证据直接且充分（chunk 明确陈述 '1950 Italian film'），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认电影《Vendetta Di Zingara》的原产国。search_query 搜索了该电影的原产国。chunks 返回了多个包含 \"Vendetta\" 或 \"Zingara\" 的电影信息，其中 chunk_67555480-d66e-4cf6-8ddf-18d16c2e0bf7 明确记载 \"Vendetta di zingara is a 1950 Italian film\"，直接指出了其原产国为意大利（Italian）。检索精准命中目标实体并提供了所需属性，其他 chunks 为干扰项（如《Sangue di zingara》、《La vendetta di Lady Morgan》等），但不影响答案提取。",
+          "critic_factual_notes": "1 个来源（文档 'Vendetta di zingara'）。Chunk [67555480-d66e-4cf6-8ddf-18d16c2e0bf7] 全文明确陈述 'Vendetta di zingara is a 1950 Italian film'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the country of origin for the movie For A Few Extra Dollars?",
+          "answer": "Italy",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie For A Few Extra Dollars?",
+          "planner_rationale": "事实已确立：For A Few Extra Dollars 的原产国为 Italy。证据直接且充分（chunk 明确陈述 'Italian film'），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认电影《For A Few Extra Dollars》的原产国。search_query 搜索了 'What is the country of origin for the movie For A Few Extra Dollars?'。chunks 返回了关于该电影的多个片段，其中 chunk c0fdfb82-0c7f-4f68-b9fc-fa7b4c33a87c 明确记载 \"For a Few Extra Dollars is an Italian film\"，直接回答了原产国为意大利。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'For a Few Extra Dollars'）。Chunk [c0fdfb82-0c7f-4f68-b9fc-fa7b4c33a87c] 全文明确陈述 'For a Few Extra Dollars is an Italian film'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Did the movies Vendetta Di Zingara and For A Few Extra Dollars, originate from the same country?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Did the movies Vendetta Di Zingara and For A Few Extra Dollars, originate from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且健康，答案均为 'Italy'，足以支撑最终比较结论 'Yes'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 和 N1_2 均已 solved，且答案均为 'Italy'。推理链完整：两部电影原产国已知且一致，足以支撑最终比较结论 'Yes'。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，结构完整，可直接生成最终答案 'Yes'。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the country of origin for the movie Vendetta Di Zingara?",
+          "answer": "Italy",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie Vendetta Di Zingara?",
+          "planner_rationale": "事实已确立：Vendetta Di Zingara 的原产国为 Italy。证据直接且充分（chunk 明确陈述 '1950 Italian film'），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认电影《Vendetta Di Zingara》的原产国。search_query 搜索了该电影的原产国。chunks 返回了多个包含 \"Vendetta\" 或 \"Zingara\" 的电影信息，其中 chunk_67555480-d66e-4cf6-8ddf-18d16c2e0bf7 明确记载 \"Vendetta di zingara is a 1950 Italian film\"，直接指出了其原产国为意大利（Italian）。检索精准命中目标实体并提供了所需属性，其他 chunks 为干扰项（如《Sangue di zingara》、《La vendetta di Lady Morgan》等），但不影响答案提取。",
+          "critic_factual_notes": "1 个来源（文档 'Vendetta di zingara'）。Chunk [67555480-d66e-4cf6-8ddf-18d16c2e0bf7] 全文明确陈述 'Vendetta di zingara is a 1950 Italian film'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the country of origin for the movie For A Few Extra Dollars?",
+          "answer": "Italy",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie For A Few Extra Dollars?",
+          "planner_rationale": "事实已确立：For A Few Extra Dollars 的原产国为 Italy。证据直接且充分（chunk 明确陈述 'Italian film'），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认电影《For A Few Extra Dollars》的原产国。search_query 搜索了 'What is the country of origin for the movie For A Few Extra Dollars?'。chunks 返回了关于该电影的多个片段，其中 chunk c0fdfb82-0c7f-4f68-b9fc-fa7b4c33a87c 明确记载 \"For a Few Extra Dollars is an Italian film\"，直接回答了原产国为意大利。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'For a Few Extra Dollars'）。Chunk [c0fdfb82-0c7f-4f68-b9fc-fa7b4c33a87c] 全文明确陈述 'For a Few Extra Dollars is an Italian film'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the country of origin for the movie Vendetta Di Zingara?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "67555480-d66e-4cf6-8ddf-18d16c2e0bf7",
+        "d12ea8a8-e25d-4e12-819b-4e45f6bbfbc3",
+        "5320d1f6-4dcf-47fe-89e1-365d36b58545",
+        "ff3c80d9-750b-4aca-b01d-3c69dae5a323",
+        "9b2ab9d8-2a1f-408e-a83a-807995f00627",
+        "5a837432-08ce-4afd-b978-448a2e8dc0db",
+        "5bcfb3ad-2f14-46d3-a08e-d0cde911d945",
+        "a60fb1c5-80e9-4c06-ac0d-df8c7d9f6936"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What is the country of origin for the movie For A Few Extra Dollars?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "c0fdfb82-0c7f-4f68-b9fc-fa7b4c33a87c",
+        "c5c8e0d5-c86d-4256-bab3-d16a2c6cf815",
+        "69e3ca6d-6152-46c9-88d9-fe1253e52166",
+        "568e183f-e42b-4da5-861a-2aeed5d7c81a",
+        "8fc2e487-2771-4f81-82e7-6e64ff3e0ab8",
+        "51567485-b27c-475e-a768-8a650e985090",
+        "46d04ab5-d0e5-4c61-bbf1-fed04bc7d6f3",
+        "ef461517-0044-4fcf-ad98-2a254c1a281b"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the country of origin for the movie Vendetta Di Zingara?（理由：为了回答两部电影是否来自同一国家，必须先知道第一部电影的原产国），F2: What is the country of origin for the movie For A Few Extra Dollars?（理由：为了回答两部电影是否来自同一国家，必须先知道第二部电影的原产国）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。一旦 F1 和 F2 都得到解答，就可以比较两者的答案来判断 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N0 分解为 N1_1/N1_2，两者答案均为 Italy，逻辑闭环）；③所有节点（N0, N1_1, N1_2）均为 healthy；④首轮无拓扑变化冲突。置信度高，可终止并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Vendetta Di Zingara 的原产国（已确立为 Italy），F2: For A Few Extra Dollars 的原产国（已确立为 Italy）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。由于 F1 和 F2 的答案一致，Q 的答案为 'Yes'。当前 DAG 结构完整，所有必要事实均已确立且经过验证。",
+      "hypothesis_delta": "本轮无结构调整。原因：上一轮假设完全正确，两个子节点均成功求解且被 Critic 确认为 healthy。DAG 已收敛，所有语义需求已被覆盖，无需新增、删除或修改任何节点或边。直接 INHERIT 所有节点并显式 LINK 保留现有边以维持当前稳定状态。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，两者答案一致支持 N0 的 'Yes' 结论）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续稳定（本轮无变化，且前一轮也已稳定，隐含在 Planner 的 'INHERIT' 决策中）。置信度高，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Vendetta Di Zingara 的原产国（已确立为 Italy），F2: For A Few Extra Dollars 的原产国（已确立为 Italy）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。由于 F1 和 F2 的答案一致，Q 的答案为 'Yes'。当前 DAG 结构完整，所有必要事实均已确立且经过验证。",
+      "hypothesis_delta": "本轮无结构调整。原因：上一轮假设完全正确，两个子节点均成功求解且被 Critic 确认为 healthy。DAG 已收敛，所有语义需求已被覆盖，无需新增、删除或修改任何节点或边。直接 INHERIT 所有节点并显式 LINK 保留现有边以维持当前稳定状态。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1/N1_2 的答案 'Italy' 有效支撑 N0 的比较逻辑）；③ 全部节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续稳定（本轮无变化，且前轮已稳定）。置信度高，可生成最终答案 'Yes'。"
+      }
+    }
+  ]
+}

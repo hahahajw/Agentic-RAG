@@ -1,0 +1,366 @@
+{
+  "question_index": 122,
+  "question_id": "2b81a68e099611ebbdb0ac1f6bf848b6",
+  "question": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+  "answer": "yes",
+  "prediction": "yes",
+  "error": null,
+  "latency_ms": 96067.06760002999,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T17:35:05.927404+00:00",
+  "chunks": [
+    {
+      "chunk_id": "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the railway lines they are situated on.",
+      "context_title": "Guancangping railway station",
+      "page_content": "Guancangping railway station is located in Hubei Province, People's Republic of China. Guancangping railway station is a railway station. Guancangping railway station is on the Yiwan Railway."
+    },
+    {
+      "chunk_id": "4987ad39-6e6d-4c08-a4b5-eb53ba91cf04",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+      "context_title": "Guiding North railway station",
+      "page_content": "Guiding North railway station is located in Guizhou. Guiding North railway station is located on the Hangchangkun Passenger Railway. Guiding North railway station is a railway station."
+    },
+    {
+      "chunk_id": "c4722239-a83c-4a67-a030-5a873ae1a891",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+      "context_title": "Xinyu North railway station",
+      "page_content": "Xinyu North railway station is located in Jiangxi. Xinyu North railway station is a railway station. Xinyu North railway station is located on the Hangchangkun Passenger Railway."
+    },
+    {
+      "chunk_id": "337f6f27-41fe-451f-ac3f-153e39d11ef4",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+      "context_title": "Xiangtan North railway station",
+      "page_content": "Xiangtan North railway station is located on the Hangchangkun Passenger Railway. Xiangtan North railway station is a railway station. Xiangtan North railway station is located in Hunan."
+    },
+    {
+      "chunk_id": "f8b311fc-233e-44b0-9bd9-5b32647dd8d8",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+      "context_title": "Yingtan North railway station",
+      "page_content": "Yingtan North railway station is a railway station. Yingtan North railway station is located on the Hangchangkun Passenger Railway. Yingtan North railway station is located in Jiangxi."
+    },
+    {
+      "chunk_id": "9e871665-4fd7-4975-8505-fbb232e6771c",
+      "chunk_title": "Railway Stations & Locations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their associated lines and geographic locations.",
+      "context_title": "Fuyu North railway station",
+      "page_content": "Fuyu North railway station is a railway station of Hada Passenger Railway. Fuyu North railway station is located in Jilin, China."
+    },
+    {
+      "chunk_id": "21e56f4b-0d79-438e-ab0c-c0e49c5927aa",
+      "chunk_title": "Railway Stations & Locations",
+      "chunk_summary": "This chunk contains information about railway stations, including their locations and the lines they serve.",
+      "context_title": "Yangquan North railway station",
+      "page_content": "The Yangquan North railway station is a railway station of Shitai Passenger Railway. The Yangquan North railway station is located in the People's Republic of China."
+    },
+    {
+      "chunk_id": "8f1a24e4-a633-4841-a7d3-f13f08c9f9f8",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, former designations, locations, and the railway lines they belong to.",
+      "context_title": "Shaoxing East railway station",
+      "page_content": "Shaoxing East railway station is a railway station. Shaoxing East railway station was formerly known as Shangyu North railway station. Shaoxing East railway station is part of the Hangyong Passenger Railway. Shaoxing East railway station is located in Zhejiang, People's Republic of China."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.25,
+  "retrieval_count": 2,
+  "total_chunks": 8,
+  "total_distinct_titles": 8,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问两个火车站是否位于同一国家",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生搜索证据。其健康状态依赖于子节点推理链的完整性与一致性。当前子节点 N1_1 和 N1_2 均提供了明确且一致的国家归属（People's Republic of China），逻辑上足以支撑对 Q 的回答。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，结构完整，可直接生成最终答案 'Yes'。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which country is Guancangping Railway Station located?",
+          "answer": "People's Republic of China",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Guancangping Railway Station located?",
+          "planner_rationale": "需要确定第一个实体（Guancangping Railway Station）所在的国家，这是比较两者是否同国的必要前提之一",
+          "solver_judgment": "question 要求确认 Guancangping Railway Station 所在的国家。search_query 直接搜索了该车站所在的国家。chunks 返回了关于 Guancangping railway station 的具体信息，其中 chunk c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a 明确记载 \"Guancangping railway station is located in Hubei Province, People's Republic of China\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Guancangping railway station）。Chunk c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a 全文直接陈述 'Guancangping railway station is located in Hubei Province, People's Republic of China'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which country is Yangquan North Railway Station located?",
+          "answer": "People's Republic of China",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Yangquan North Railway Station located?",
+          "planner_rationale": "需要确定第二个实体（Yangquan North Railway Station）所在的国家，这是比较两者是否同国的必要前提之二",
+          "solver_judgment": "question 要求确认 Yangquan North Railway Station 所在的国家。search_query 直接搜索了该车站所在的国家。chunks 中的 chunk_21e56f4b-0d79-438e-ab0c-c0e49c5927aa 明确记载 \"The Yangquan North railway station is located in the People's Republic of China.\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Yangquan North railway station）。Chunk 21e56f4b-0d79-438e-ab0c-c0e49c5927aa 全文直接陈述 'The Yangquan North railway station is located in the People's Republic of China.'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问两个火车站是否位于同一国家。子节点已提供充分证据支持最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生搜索证据。其健康状态依赖于子节点推理链的完整性与一致性。当前子节点 N1_1 和 N1_2 均提供了明确且一致的国家归属（People's Republic of China），逻辑上足以支撑对 Q 的回答。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，结构完整，可直接生成最终答案 'Yes'。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which country is Guancangping Railway Station located?",
+          "answer": "People's Republic of China",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Guancangping Railway Station located?",
+          "planner_rationale": "已确立 Guancangping Railway Station 位于 People's Republic of China，证据直接且充分，无需进一步搜索。",
+          "solver_judgment": "question 要求确认 Guancangping Railway Station 所在的国家。search_query 直接搜索了该车站所在的国家。chunks 返回了关于 Guancangping railway station 的具体信息，其中 chunk c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a 明确记载 \"Guancangping railway station is located in Hubei Province, People's Republic of China\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Guancangping railway station）。Chunk c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a 全文直接陈述 'Guancangping railway station is located in Hubei Province, People's Republic of China'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which country is Yangquan North Railway Station located?",
+          "answer": "People's Republic of China",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Yangquan North Railway Station located?",
+          "planner_rationale": "已确立 Yangquan North Railway Station 位于 People's Republic of China，证据直接且充分，无需进一步搜索。",
+          "solver_judgment": "question 要求确认 Yangquan North Railway Station 所在的国家。search_query 直接搜索了该车站所在的国家。chunks 中的 chunk_21e56f4b-0d79-438e-ab0c-c0e49c5927aa 明确记载 \"The Yangquan North railway station is located in the People's Republic of China.\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Yangquan North railway station）。Chunk 21e56f4b-0d79-438e-ab0c-c0e49c5927aa 全文直接陈述 'The Yangquan North railway station is located in the People's Republic of China.'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且 health=healthy，答案一致（People's Republic of China），逻辑上足以支撑对 Q 的回答 'Yes'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生搜索证据。其健康状态依赖于子节点推理链的完整性与一致性。当前子节点 N1_1 和 N1_2 均提供了明确且一致的国家归属（People's Republic of China），逻辑上足以支撑对 Q 的回答 'Yes'。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，结构完整，可直接生成最终答案 'Yes'。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which country is Guancangping Railway Station located?",
+          "answer": "People's Republic of China",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Guancangping Railway Station located?",
+          "planner_rationale": "已确立 Guancangping Railway Station 位于 People's Republic of China。证据直接（chunk c3cdc0e1...）且充分，Critic 判为 healthy，无需进一步搜索。",
+          "solver_judgment": "question 要求确认 Guancangping Railway Station 所在的国家。search_query 直接搜索了该车站所在的国家。chunks 返回了关于 Guancangping railway station 的具体信息，其中 chunk c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a 明确记载 \"Guancangping railway station is located in Hubei Province, People's Republic of China\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Guancangping railway station）。Chunk c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a 全文直接陈述 'Guancangping railway station is located in Hubei Province, People's Republic of China'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which country is Yangquan North Railway Station located?",
+          "answer": "People's Republic of China",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Yangquan North Railway Station located?",
+          "planner_rationale": "已确立 Yangquan North Railway Station 位于 People's Republic of China。证据直接（chunk 21e56f4b...）且充分，Critic 判为 healthy，无需进一步搜索。",
+          "solver_judgment": "question 要求确认 Yangquan North Railway Station 所在的国家。search_query 直接搜索了该车站所在的国家。chunks 中的 chunk_21e56f4b-0d79-438e-ab0c-c0e49c5927aa 明确记载 \"The Yangquan North railway station is located in the People's Republic of China.\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Yangquan North railway station）。Chunk 21e56f4b-0d79-438e-ab0c-c0e49c5927aa 全文直接陈述 'The Yangquan North railway station is located in the People's Republic of China.'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接匹配问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "In which country is Guancangping Railway Station located?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a",
+        "4987ad39-6e6d-4c08-a4b5-eb53ba91cf04",
+        "c4722239-a83c-4a67-a030-5a873ae1a891",
+        "337f6f27-41fe-451f-ac3f-153e39d11ef4",
+        "f8b311fc-233e-44b0-9bd9-5b32647dd8d8",
+        "9e871665-4fd7-4975-8505-fbb232e6771c",
+        "21e56f4b-0d79-438e-ab0c-c0e49c5927aa",
+        "8f1a24e4-a633-4841-a7d3-f13f08c9f9f8"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "In which country is Yangquan North Railway Station located?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "21e56f4b-0d79-438e-ab0c-c0e49c5927aa",
+        "f8b311fc-233e-44b0-9bd9-5b32647dd8d8",
+        "4987ad39-6e6d-4c08-a4b5-eb53ba91cf04",
+        "9e871665-4fd7-4975-8505-fbb232e6771c",
+        "337f6f27-41fe-451f-ac3f-153e39d11ef4",
+        "c4722239-a83c-4a67-a030-5a873ae1a891",
+        "8f1a24e4-a633-4841-a7d3-f13f08c9f9f8",
+        "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: In which country is Guancangping Railway Station located?（理由：Q 要求比较两个车站的国家归属，必须首先独立确定第一个车站的国家），F2: In which country is Yangquan North Railway Station located?（理由：同理，必须独立确定第二个车站的国家）。关系: F1 和 F2 都是 Q (N0) 的直接分解产物（decomposition）。一旦 F1 和 F2 的答案被确立，就可以通过比较这两个答案来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略是将复合比较问题拆解为两个独立的实体属性查询。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（分解有效，子节点答案一致且足以支撑根节点结论）；③ 所有节点（含 ROOT）审查结果为 healthy；④ 首轮无拓扑变化阻碍。置信度高，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Guancangping Railway Station 所在的国家（已确立为 People's Republic of China），F2: Yangquan North Railway Station 所在的国家（已确立为 People's Republic of China）。关系: F1 和 F2 均为 Q (N0) 的分解产物（decomposition）。由于 F1 和 F2 的答案一致，Q 的答案可推导为 'Yes'。当前 DAG 结构已完整覆盖 Q 的语义需求，无需新增节点或调整边。",
+      "hypothesis_delta": "本轮无结构调整。上一轮初始分解假设（将比较问题拆解为两个独立属性查询）已被验证为正确且高效。N1_1 和 N1_2 均成功求解且被 Critic 判定为 healthy，证据充分支持最终结论。因此，所有节点通过 INHERIT 保留，并通过 LINK 原语显式重申现有的 decomposition 边，以维持 DAG 结构的完整性。无新增、删除或换标操作。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（分解边有效，子节点答案一致支撑 ROOT）；③全部节点 healthy（N1_1, N1_2, N0 均为 healthy）；④拓扑连续稳定（本轮无变化，结合 Planner 声明可知结构已收敛）。置信度高，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Guancangping Railway Station 所在的国家（已确立为 People's Republic of China），F2: Yangquan North Railway Station 所在的国家（已确立为 People's Republic of China）。关系: F1 和 F2 均为 Q (N0) 的分解产物（decomposition）。由于 F1 和 F2 的答案一致，Q 的答案可推导为 'Yes'。当前 DAG 结构已完整覆盖 Q 的语义需求，无需新增节点或调整边。",
+      "hypothesis_delta": "本轮无结构调整。上一轮初始分解假设（将比较问题拆解为两个独立属性查询）已被验证为正确且高效。N1_1 和 N1_2 均成功求解且被 Critic 判定为 healthy，证据充分支持最终结论。因此，所有节点通过 INHERIT 保留，并通过 LINK 原语显式重申现有的 decomposition 边，以维持 DAG 结构的完整性。无新增、删除或换标操作。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0→N1_1/N1_2 分解有效，子节点答案一致支持 N0 的 'Yes' 结论）；③ 全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④ 拓扑连续两轮无变化（系统确认）。置信度高，可终止探索。"
+      }
+    }
+  ]
+}

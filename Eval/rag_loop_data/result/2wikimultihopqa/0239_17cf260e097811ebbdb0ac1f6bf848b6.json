@@ -1,0 +1,915 @@
+{
+  "question_index": 239,
+  "question_id": "17cf260e097811ebbdb0ac1f6bf848b6",
+  "question": "Are both villages, Chausy, Bryansk Oblast and Lyapunovo, located in the same country?",
+  "answer": "yes",
+  "prediction": "yes",
+  "error": null,
+  "latency_ms": 410089.10349999496,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-19T00:23:32.181832+00:00",
+  "chunks": [
+    {
+      "chunk_id": "efebc77e-8f6e-4f01-8b67-fc6c7b304e87",
+      "chunk_title": "Chausy Location & Type",
+      "chunk_summary": "This chunk contains information about the classification and geographical location of Chausy, a rural locality (selo) in Russia.",
+      "context_title": "Chausy, Bryansk Oblast",
+      "page_content": "Chausy is a selo. Chausy is in Pogarsky District. Chausy is in Russia. Chausy is in Bryansk Oblast. Chausy is a rural locality."
+    },
+    {
+      "chunk_id": "a7b84d60-c6aa-4189-af92-b4e1181319a6",
+      "chunk_title": "Russian Geography",
+      "chunk_summary": "This chunk contains information about the geographical location of regions within Russia.",
+      "context_title": "Dobrun",
+      "page_content": "Bryansk Oblast is in Russia."
+    },
+    {
+      "chunk_id": "1c95497b-90a3-4df6-a75c-38c2705eed40",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of regions, specifically where countries or administrative areas neighbor each other.",
+      "context_title": "Coat of arms of Bryansk Oblast",
+      "page_content": "The Bryansk Oblast is located where Russia, Belarus, and Ukraine neighbour each other."
+    },
+    {
+      "chunk_id": "14dd123d-de6f-45ed-b7b7-0b5b4153fd60",
+      "chunk_title": "Bryansk Oblast Overview",
+      "chunk_summary": "This chunk contains information about the administrative status, classification, and capital city of Bryansk Oblast as a federal subject of Russia.",
+      "context_title": "List of rural localities in Bryansk Oblast",
+      "page_content": "The administrative center of Bryansk Oblast is the city of Bryansk. Bryansk Oblast is an oblast. Bryansk Oblast is a federal subject of Russia."
+    },
+    {
+      "chunk_id": "319af3fc-679f-4486-bef6-a641987f4629",
+      "chunk_title": "Administrative Capitals",
+      "chunk_summary": "This chunk contains information about the administrative capitals of Russian oblasts.",
+      "context_title": "Coat of arms of Bryansk Oblast",
+      "page_content": "Bryansk is the capital of the Bryansk Oblast."
+    },
+    {
+      "chunk_id": "6488a22c-be4c-4ff5-ab4e-8f45ba807a1b",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of cities within Russian oblasts.",
+      "context_title": "Novozybkov",
+      "page_content": "Novozybkov is in Bryansk Oblast. Bryansk Oblast is in Russia."
+    },
+    {
+      "chunk_id": "ca52f460-f9ed-46fb-891f-e6ec8cbb2759",
+      "chunk_title": "Population Statistics",
+      "chunk_summary": "This chunk contains information about the population of Chausy at specific points in time.",
+      "context_title": "Chausy, Bryansk Oblast",
+      "page_content": "The population of Chausy was 279 as of 2013."
+    },
+    {
+      "chunk_id": "38a69c30-1a88-493d-870e-0464bb098df9",
+      "chunk_title": "Administrative Centers",
+      "chunk_summary": "This chunk contains information about the administrative centers of various regions.",
+      "context_title": "Zlynka",
+      "page_content": "Bryansk is the administrative center of Bryansk Oblast."
+    },
+    {
+      "chunk_id": "26722bd2-191c-452a-9df2-b5e49f6105fb",
+      "chunk_title": "Street Count",
+      "chunk_summary": "This chunk contains information about the number of streets in Chausy.",
+      "context_title": "Chausy, Bryansk Oblast",
+      "page_content": "There are 8 streets in Chausy."
+    },
+    {
+      "chunk_id": "c4c094d9-0cb7-40b8-b9a1-e610496c2165",
+      "chunk_title": "Geographic Designations",
+      "chunk_summary": "This chunk contains information about the alternative names and designations of specific geographic regions.",
+      "context_title": "List of rural localities in Bryansk Oblast",
+      "page_content": "Bryansk Oblast is also known as \"Bryanskaya oblast\"."
+    },
+    {
+      "chunk_id": "b248be40-944a-46ce-8f5f-39d0d3dae736",
+      "chunk_title": "Rural Localities & Administration",
+      "chunk_summary": "This chunk contains information about the classification and administrative location of rural localities, specifically selos like Lyapunovo within districts and regions.",
+      "context_title": "Lyapunovo",
+      "page_content": "Lyapunovo is in Uglovsky District. Uglovsky District is in Altai Krai. Lyapunovo is a selo. Lyapunovo is a rural locality."
+    },
+    {
+      "chunk_id": "eabadd00-1a53-48e9-acd4-e174e5bb714a",
+      "chunk_title": "Population Counts",
+      "chunk_summary": "This chunk contains information about the population counts of specific locations at given times.",
+      "context_title": "Lyapunovo",
+      "page_content": "The population of Lyapunovo was 127 as of 2013."
+    },
+    {
+      "chunk_id": "76927173-c7a4-41a1-88d1-4d71d35e6d91",
+      "chunk_title": "Street Counts",
+      "chunk_summary": "This chunk contains information about the number of streets in specific locations.",
+      "context_title": "Lyapunovo",
+      "page_content": "There are 2 streets in Lyapunovo."
+    },
+    {
+      "chunk_id": "d2e92ead-ade9-4037-bee4-9856ed1abf34",
+      "chunk_title": "East Slavic Countries",
+      "chunk_summary": "This chunk contains information about the specific East Slavic countries united by beams.",
+      "context_title": "Coat of arms of Bryansk Oblast",
+      "page_content": "The three East Slavic countries united by the beams are Russia, Belarus, and Ukraine."
+    },
+    {
+      "chunk_id": "d46598dd-5f57-4a98-8898-79edfd317f1c",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the names and geographical locations of inhabited localities, specifically focusing on Pogar in Bryansk Oblast, Russia.",
+      "context_title": "Pogar, Russia",
+      "page_content": "Pogar is the name of several inhabited localities. The several inhabited localities named Pogar are in Bryansk Oblast. Bryansk Oblast is in Russia."
+    },
+    {
+      "chunk_id": "018073e3-1715-4a84-b529-0d529727795f",
+      "chunk_title": "Rural Localities",
+      "chunk_summary": "This chunk contains lists of rural localities within specific regions.",
+      "context_title": "List of rural localities in Bryansk Oblast",
+      "page_content": "This is a list of rural localities in Bryansk Oblast."
+    },
+    {
+      "chunk_id": "02955443-26d4-42b4-bfca-e34e36569d9f",
+      "chunk_title": "Rural Locality Names & Locations",
+      "chunk_summary": "This chunk contains information about the names and locations of rural localities.",
+      "context_title": "Dobrun",
+      "page_content": "Dobrun is the name of several rural localities. The rural localities named Dobrun are in Bryansk Oblast."
+    },
+    {
+      "chunk_id": "b8829f3e-a808-42b4-94c5-aa7b67244cae",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of regions within countries.",
+      "context_title": "Lyapunovo",
+      "page_content": "Altai Krai is in Russia."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3888888888888889,
+  "retrieval_count": 3,
+  "total_chunks": 18,
+  "total_distinct_titles": 8,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are both villages, Chausy, Bryansk Oblast and Lyapunovo, located in the same country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both villages, Chausy, Bryansk Oblast and Lyapunovo, located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问两个村庄是否位于同一国家",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，答案由子节点推理链聚合。子节点 N1_1 答案为 Russia（单来源直接陈述），N1_2 答案为 Russia（基于 Altai Krai 推理得出，非 chunk 直接陈述）。两条推理链均指向 Russia，但 N1_2 的证据链存在间接性。",
+          "critic_normative_advice": "建议等待 N1_2 证据补强后再判定 ROOT 为 healthy。当前结构完整（N1_1 和 N1_2 覆盖 Q 的两个语义需求），但 N1_2 的答案依赖外部知识推理，需验证或补充直接证据。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is the village Chausy, Bryansk Oblast located in?",
+          "answer": "Russia",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is the village Chausy, Bryansk Oblast located in?",
+          "planner_rationale": "Q 询问两个村庄是否在同一国家，需先确定 Chausy, Bryansk Oblast 所属国家",
+          "solver_judgment": "提取结果：从 chunk efebc77e-8f6e-4f01-8b67-fc6c7b304e87 中找到原文 'Chausy is in Russia'，直接得出答案为 Russia。检索质量评估：question 要求确认 Chausy, Bryansk Oblast 所在的国家。search_query 直接搜索了该问题。chunks 返回了关于 Chausy 的详细信息，其中明确指出了其所属国家，检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Chausy, Bryansk Oblast）。chunk efebc77e 全文直接陈述 'Chausy is in Russia'，与声称答案 Russia 完全匹配。单来源但直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "efebc77e-8f6e-4f01-8b67-fc6c7b304e87"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "efebc77e-8f6e-4f01-8b67-fc6c7b304e87",
+              "chunk_title": "Chausy Location & Type",
+              "chunk_summary": "This chunk contains information about the classification and geographical location of Chausy, a rural locality (selo) in Russia.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "Chausy is a selo. Chausy is in Pogarsky District. Chausy is in Russia. Chausy is in Bryansk Oblast. Chausy is a rural locality."
+            },
+            {
+              "chunk_id": "a7b84d60-c6aa-4189-af92-b4e1181319a6",
+              "chunk_title": "Russian Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within Russia.",
+              "context_title": "Dobrun",
+              "page_content": "Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "1c95497b-90a3-4df6-a75c-38c2705eed40",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions, specifically where countries or administrative areas neighbor each other.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "The Bryansk Oblast is located where Russia, Belarus, and Ukraine neighbour each other."
+            },
+            {
+              "chunk_id": "14dd123d-de6f-45ed-b7b7-0b5b4153fd60",
+              "chunk_title": "Bryansk Oblast Overview",
+              "chunk_summary": "This chunk contains information about the administrative status, classification, and capital city of Bryansk Oblast as a federal subject of Russia.",
+              "context_title": "List of rural localities in Bryansk Oblast",
+              "page_content": "The administrative center of Bryansk Oblast is the city of Bryansk. Bryansk Oblast is an oblast. Bryansk Oblast is a federal subject of Russia."
+            },
+            {
+              "chunk_id": "319af3fc-679f-4486-bef6-a641987f4629",
+              "chunk_title": "Administrative Capitals",
+              "chunk_summary": "This chunk contains information about the administrative capitals of Russian oblasts.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "Bryansk is the capital of the Bryansk Oblast."
+            },
+            {
+              "chunk_id": "6488a22c-be4c-4ff5-ab4e-8f45ba807a1b",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities within Russian oblasts.",
+              "context_title": "Novozybkov",
+              "page_content": "Novozybkov is in Bryansk Oblast. Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "ca52f460-f9ed-46fb-891f-e6ec8cbb2759",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains information about the population of Chausy at specific points in time.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "The population of Chausy was 279 as of 2013."
+            },
+            {
+              "chunk_id": "38a69c30-1a88-493d-870e-0464bb098df9",
+              "chunk_title": "Administrative Centers",
+              "chunk_summary": "This chunk contains information about the administrative centers of various regions.",
+              "context_title": "Zlynka",
+              "page_content": "Bryansk is the administrative center of Bryansk Oblast."
+            },
+            {
+              "chunk_id": "26722bd2-191c-452a-9df2-b5e49f6105fb",
+              "chunk_title": "Street Count",
+              "chunk_summary": "This chunk contains information about the number of streets in Chausy.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "There are 8 streets in Chausy."
+            },
+            {
+              "chunk_id": "c4c094d9-0cb7-40b8-b9a1-e610496c2165",
+              "chunk_title": "Geographic Designations",
+              "chunk_summary": "This chunk contains information about the alternative names and designations of specific geographic regions.",
+              "context_title": "List of rural localities in Bryansk Oblast",
+              "page_content": "Bryansk Oblast is also known as \"Bryanskaya oblast\"."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is the village Lyapunovo located in?",
+          "answer": "Russia",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "What country is the village Lyapunovo located in?",
+          "planner_rationale": "Q 询问两个村庄是否在同一国家，需先确定 Lyapunovo 所属国家",
+          "solver_judgment": "question 要求确认 Lyapunovo 村所在的国家。search_query 与问题一致。chunks 返回了 Lyapunovo 的行政归属信息（chunk b248be40 指出其位于 Uglovsky District, Altai Krai），但原文未直接提及国家名称。基于 Altai Krai（阿尔泰边疆区）属于俄罗斯这一地理常识，提取答案为 Russia。检索命中了关键区域层级信息，但缺失直接的国家字段，存在轻微信息缺口，答案依赖合理推断。",
+          "critic_factual_notes": "1 个支撑来源（文档 Lyapunovo）。chunk b248be40 全文为 'Lyapunovo is in Uglovsky District. Uglovsky District is in Altai Krai. Lyapunovo is a selo. Lyapunovo is a rural locality.'——原文未提及 Russia 或任何国家名称。声称答案 Russia 是基于 'Altai Krai 属于俄罗斯' 这一外部地理常识推理得出，非 chunk 直接陈述。其他 9 个检索结果摘要均未显示包含 Lyapunovo 国家信息的 chunk。",
+          "critic_normative_advice": "建议重搜——当前支撑 chunk 未直接陈述 Lyapunovo 的国家归属，答案依赖外部知识推理。尝试更精确的查询如 'Lyapunovo Russia country' 或 'Lyapunovo village which country' 以获取直接证据。若 KB 确实无直接陈述，可考虑接受推理链（Altai Krai → Russia）但需在 factual_notes 中标注为推理型答案。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "b248be40-944a-46ce-8f5f-39d0d3dae736"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "b248be40-944a-46ce-8f5f-39d0d3dae736",
+              "chunk_title": "Rural Localities & Administration",
+              "chunk_summary": "This chunk contains information about the classification and administrative location of rural localities, specifically selos like Lyapunovo within districts and regions.",
+              "context_title": "Lyapunovo",
+              "page_content": "Lyapunovo is in Uglovsky District. Uglovsky District is in Altai Krai. Lyapunovo is a selo. Lyapunovo is a rural locality."
+            },
+            {
+              "chunk_id": "eabadd00-1a53-48e9-acd4-e174e5bb714a",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations at given times.",
+              "context_title": "Lyapunovo",
+              "page_content": "The population of Lyapunovo was 127 as of 2013."
+            },
+            {
+              "chunk_id": "76927173-c7a4-41a1-88d1-4d71d35e6d91",
+              "chunk_title": "Street Counts",
+              "chunk_summary": "This chunk contains information about the number of streets in specific locations.",
+              "context_title": "Lyapunovo",
+              "page_content": "There are 2 streets in Lyapunovo."
+            },
+            {
+              "chunk_id": "1c95497b-90a3-4df6-a75c-38c2705eed40",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions, specifically where countries or administrative areas neighbor each other.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "The Bryansk Oblast is located where Russia, Belarus, and Ukraine neighbour each other."
+            },
+            {
+              "chunk_id": "6488a22c-be4c-4ff5-ab4e-8f45ba807a1b",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities within Russian oblasts.",
+              "context_title": "Novozybkov",
+              "page_content": "Novozybkov is in Bryansk Oblast. Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "d2e92ead-ade9-4037-bee4-9856ed1abf34",
+              "chunk_title": "East Slavic Countries",
+              "chunk_summary": "This chunk contains information about the specific East Slavic countries united by beams.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "The three East Slavic countries united by the beams are Russia, Belarus, and Ukraine."
+            },
+            {
+              "chunk_id": "d46598dd-5f57-4a98-8898-79edfd317f1c",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the names and geographical locations of inhabited localities, specifically focusing on Pogar in Bryansk Oblast, Russia.",
+              "context_title": "Pogar, Russia",
+              "page_content": "Pogar is the name of several inhabited localities. The several inhabited localities named Pogar are in Bryansk Oblast. Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "a7b84d60-c6aa-4189-af92-b4e1181319a6",
+              "chunk_title": "Russian Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within Russia.",
+              "context_title": "Dobrun",
+              "page_content": "Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "018073e3-1715-4a84-b529-0d529727795f",
+              "chunk_title": "Rural Localities",
+              "chunk_summary": "This chunk contains lists of rural localities within specific regions.",
+              "context_title": "List of rural localities in Bryansk Oblast",
+              "page_content": "This is a list of rural localities in Bryansk Oblast."
+            },
+            {
+              "chunk_id": "02955443-26d4-42b4-bfca-e34e36569d9f",
+              "chunk_title": "Rural Locality Names & Locations",
+              "chunk_summary": "This chunk contains information about the names and locations of rural localities.",
+              "context_title": "Dobrun",
+              "page_content": "Dobrun is the name of several rural localities. The rural localities named Dobrun are in Bryansk Oblast."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are both villages, Chausy, Bryansk Oblast and Lyapunovo, located in the same country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both villages, Chausy, Bryansk Oblast and Lyapunovo, located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问两个村庄是否位于同一国家。子节点 N1_1 已确认 Chausy 在 Russia（直接证据），N1_2 需补强 Lyapunovo 的国家归属直接证据后即可判定",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，答案由子节点推理链聚合。子节点 N1_1 答案为 Russia（单来源直接陈述，chunk efebc77e 明确写 'Chausy is in Russia'），子节点 N1_2 答案为 Russia（基于同文档内两个 chunk 的推理链：Lyapunovo → Altai Krai → Russia）。两条推理链均指向 Russia，逻辑一致，可判定两村庄位于同一国家。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，N1_1 和 N1_2 均确认 Russia，Q 的语义需求已完全覆盖。结构无需调整。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is the village Chausy, Bryansk Oblast located in?",
+          "answer": "Russia",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is the village Chausy, Bryansk Oblast located in?",
+          "planner_rationale": "Q 的两个语义需求之一——确定 Chausy, Bryansk Oblast 的国家归属。已 SOLVED + healthy，chunk efebc77e 直接陈述 'Chausy is in Russia'，证据充分",
+          "solver_judgment": "提取结果：从 chunk efebc77e-8f6e-4f01-8b67-fc6c7b304e87 中找到原文 'Chausy is in Russia'，直接得出答案为 Russia。检索质量评估：question 要求确认 Chausy, Bryansk Oblast 所在的国家。search_query 直接搜索了该问题。chunks 返回了关于 Chausy 的详细信息，其中明确指出了其所属国家，检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Chausy, Bryansk Oblast）。chunk efebc77e 全文直接陈述 'Chausy is in Russia'，与声称答案 Russia 完全匹配。单来源但直接、具体、无歧义。交叉验证：不充分（仅 1 个来源），但证据质量高。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "efebc77e-8f6e-4f01-8b67-fc6c7b304e87"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "efebc77e-8f6e-4f01-8b67-fc6c7b304e87",
+              "chunk_title": "Chausy Location & Type",
+              "chunk_summary": "This chunk contains information about the classification and geographical location of Chausy, a rural locality (selo) in Russia.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "Chausy is a selo. Chausy is in Pogarsky District. Chausy is in Russia. Chausy is in Bryansk Oblast. Chausy is a rural locality."
+            },
+            {
+              "chunk_id": "a7b84d60-c6aa-4189-af92-b4e1181319a6",
+              "chunk_title": "Russian Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within Russia.",
+              "context_title": "Dobrun",
+              "page_content": "Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "1c95497b-90a3-4df6-a75c-38c2705eed40",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions, specifically where countries or administrative areas neighbor each other.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "The Bryansk Oblast is located where Russia, Belarus, and Ukraine neighbour each other."
+            },
+            {
+              "chunk_id": "14dd123d-de6f-45ed-b7b7-0b5b4153fd60",
+              "chunk_title": "Bryansk Oblast Overview",
+              "chunk_summary": "This chunk contains information about the administrative status, classification, and capital city of Bryansk Oblast as a federal subject of Russia.",
+              "context_title": "List of rural localities in Bryansk Oblast",
+              "page_content": "The administrative center of Bryansk Oblast is the city of Bryansk. Bryansk Oblast is an oblast. Bryansk Oblast is a federal subject of Russia."
+            },
+            {
+              "chunk_id": "319af3fc-679f-4486-bef6-a641987f4629",
+              "chunk_title": "Administrative Capitals",
+              "chunk_summary": "This chunk contains information about the administrative capitals of Russian oblasts.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "Bryansk is the capital of the Bryansk Oblast."
+            },
+            {
+              "chunk_id": "6488a22c-be4c-4ff5-ab4e-8f45ba807a1b",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities within Russian oblasts.",
+              "context_title": "Novozybkov",
+              "page_content": "Novozybkov is in Bryansk Oblast. Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "ca52f460-f9ed-46fb-891f-e6ec8cbb2759",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains information about the population of Chausy at specific points in time.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "The population of Chausy was 279 as of 2013."
+            },
+            {
+              "chunk_id": "38a69c30-1a88-493d-870e-0464bb098df9",
+              "chunk_title": "Administrative Centers",
+              "chunk_summary": "This chunk contains information about the administrative centers of various regions.",
+              "context_title": "Zlynka",
+              "page_content": "Bryansk is the administrative center of Bryansk Oblast."
+            },
+            {
+              "chunk_id": "26722bd2-191c-452a-9df2-b5e49f6105fb",
+              "chunk_title": "Street Count",
+              "chunk_summary": "This chunk contains information about the number of streets in Chausy.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "There are 8 streets in Chausy."
+            },
+            {
+              "chunk_id": "c4c094d9-0cb7-40b8-b9a1-e610496c2165",
+              "chunk_title": "Geographic Designations",
+              "chunk_summary": "This chunk contains information about the alternative names and designations of specific geographic regions.",
+              "context_title": "List of rural localities in Bryansk Oblast",
+              "page_content": "Bryansk Oblast is also known as \"Bryanskaya oblast\"."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is Lyapunovo, Altai Krai located in?",
+          "answer": "Russia",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Lyapunovo, Altai Krai located in?",
+          "planner_rationale": "Q 的两个语义需求之二——确定 Lyapunovo 的国家归属。上一轮搜索返回的 chunk 仅提及 Uglovsky District 和 Altai Krai，未直接陈述国家。本轮在 question 中加入 'Altai Krai' 作为上下文限定词，期望 KB 中关于 'Lyapunovo, Altai Krai' 的条目能直接包含国家信息，或返回更精确的地理归属描述",
+          "solver_judgment": "question 要求确认 Lyapunovo, Altai Krai 所在的国家。search_query 搜索了 'What country is Lyapunovo, Altai Krai located in?'。chunks 返回了 Lyapunovo 位于 Altai Krai（chunk b248be40...）以及 Altai Krai 位于 Russia（chunk b8829f3e...）的信息。通过这两个 chunk 的关联，可以直接推导出 Lyapunovo 位于 Russia。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源，均来自同一文档 Lyapunovo（非独立来源）。chunk b248be40 陈述 'Lyapunovo is in Uglovsky District. Uglovsky District is in Altai Krai.'，chunk b8829f3e 陈述 'Altai Krai is in Russia.'。通过传递推理得出 Lyapunovo 在 Russia。无独立来源——由已知事实推理得出。推理依据: Lyapunovo ⊂ Uglovsky District ⊂ Altai Krai ⊂ Russia。推理链逻辑自洽，无过度推断。",
+          "critic_normative_advice": "建议 INHERIT——虽为单文档内的推理链，但推理步骤清晰、逻辑自洽，答案 Russia 可靠。若需更强证据可尝试搜索 'Lyapunovo Altai Krai Russia' 获取直接陈述，但当前证据已足够支撑结论。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "b248be40-944a-46ce-8f5f-39d0d3dae736",
+            "b8829f3e-a808-42b4-94c5-aa7b67244cae"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "b248be40-944a-46ce-8f5f-39d0d3dae736",
+              "chunk_title": "Rural Localities & Administration",
+              "chunk_summary": "This chunk contains information about the classification and administrative location of rural localities, specifically selos like Lyapunovo within districts and regions.",
+              "context_title": "Lyapunovo",
+              "page_content": "Lyapunovo is in Uglovsky District. Uglovsky District is in Altai Krai. Lyapunovo is a selo. Lyapunovo is a rural locality."
+            },
+            {
+              "chunk_id": "b8829f3e-a808-42b4-94c5-aa7b67244cae",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within countries.",
+              "context_title": "Lyapunovo",
+              "page_content": "Altai Krai is in Russia."
+            },
+            {
+              "chunk_id": "eabadd00-1a53-48e9-acd4-e174e5bb714a",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations at given times.",
+              "context_title": "Lyapunovo",
+              "page_content": "The population of Lyapunovo was 127 as of 2013."
+            },
+            {
+              "chunk_id": "76927173-c7a4-41a1-88d1-4d71d35e6d91",
+              "chunk_title": "Street Counts",
+              "chunk_summary": "This chunk contains information about the number of streets in specific locations.",
+              "context_title": "Lyapunovo",
+              "page_content": "There are 2 streets in Lyapunovo."
+            },
+            {
+              "chunk_id": "a7b84d60-c6aa-4189-af92-b4e1181319a6",
+              "chunk_title": "Russian Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within Russia.",
+              "context_title": "Dobrun",
+              "page_content": "Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "d2e92ead-ade9-4037-bee4-9856ed1abf34",
+              "chunk_title": "East Slavic Countries",
+              "chunk_summary": "This chunk contains information about the specific East Slavic countries united by beams.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "The three East Slavic countries united by the beams are Russia, Belarus, and Ukraine."
+            },
+            {
+              "chunk_id": "6488a22c-be4c-4ff5-ab4e-8f45ba807a1b",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities within Russian oblasts.",
+              "context_title": "Novozybkov",
+              "page_content": "Novozybkov is in Bryansk Oblast. Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "d46598dd-5f57-4a98-8898-79edfd317f1c",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the names and geographical locations of inhabited localities, specifically focusing on Pogar in Bryansk Oblast, Russia.",
+              "context_title": "Pogar, Russia",
+              "page_content": "Pogar is the name of several inhabited localities. The several inhabited localities named Pogar are in Bryansk Oblast. Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "1c95497b-90a3-4df6-a75c-38c2705eed40",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions, specifically where countries or administrative areas neighbor each other.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "The Bryansk Oblast is located where Russia, Belarus, and Ukraine neighbour each other."
+            },
+            {
+              "chunk_id": "efebc77e-8f6e-4f01-8b67-fc6c7b304e87",
+              "chunk_title": "Chausy Location & Type",
+              "chunk_summary": "This chunk contains information about the classification and geographical location of Chausy, a rural locality (selo) in Russia.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "Chausy is a selo. Chausy is in Pogarsky District. Chausy is in Russia. Chausy is in Bryansk Oblast. Chausy is a rural locality."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are both villages, Chausy, Bryansk Oblast and Lyapunovo, located in the same country?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both villages, Chausy, Bryansk Oblast and Lyapunovo, located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。两个子节点 N1_1 和 N1_2 均已 SOLVED + healthy，答案均为 Russia。通过比较两个子节点的 answer 可直接判定：两村庄位于同一国家（Russia），Q 可被回答为 Yes。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，答案由子节点推理链聚合。子节点 N1_1 答案为 Russia（单来源直接陈述，chunk efebc77e 明确写 'Chausy is in Russia'），子节点 N1_2 答案为 Russia（基于同文档内两个 chunk 的推理链：Lyapunovo → Uglovsky District → Altai Krai → Russia）。两条推理链均指向 Russia，逻辑一致，可判定两村庄位于同一国家。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，N1_1 和 N1_2 均确认 Russia，Q 的语义需求已完全覆盖。结构无需调整。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is the village Chausy, Bryansk Oblast located in?",
+          "answer": "Russia",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is the village Chausy, Bryansk Oblast located in?",
+          "planner_rationale": "Q 的两个语义需求之一——确定 Chausy, Bryansk Oblast 的国家归属。已 SOLVED + healthy，chunk efebc77e 直接陈述 'Chausy is in Russia'，证据充分，本轮直接保留。",
+          "solver_judgment": "提取结果：从 chunk efebc77e-8f6e-4f01-8b67-fc6c7b304e87 中找到原文 'Chausy is in Russia'，直接得出答案为 Russia。检索质量评估：question 要求确认 Chausy, Bryansk Oblast 所在的国家。search_query 直接搜索了该问题。chunks 返回了关于 Chausy 的详细信息，其中明确指出了其所属国家，检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Chausy, Bryansk Oblast）。chunk efebc77e 全文直接陈述 'Chausy is in Russia'，与声称答案 Russia 完全匹配。单来源但直接、具体、无歧义。交叉验证：不充分（仅 1 个来源），但证据质量高。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "efebc77e-8f6e-4f01-8b67-fc6c7b304e87"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "efebc77e-8f6e-4f01-8b67-fc6c7b304e87",
+              "chunk_title": "Chausy Location & Type",
+              "chunk_summary": "This chunk contains information about the classification and geographical location of Chausy, a rural locality (selo) in Russia.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "Chausy is a selo. Chausy is in Pogarsky District. Chausy is in Russia. Chausy is in Bryansk Oblast. Chausy is a rural locality."
+            },
+            {
+              "chunk_id": "a7b84d60-c6aa-4189-af92-b4e1181319a6",
+              "chunk_title": "Russian Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within Russia.",
+              "context_title": "Dobrun",
+              "page_content": "Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "1c95497b-90a3-4df6-a75c-38c2705eed40",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions, specifically where countries or administrative areas neighbor each other.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "The Bryansk Oblast is located where Russia, Belarus, and Ukraine neighbour each other."
+            },
+            {
+              "chunk_id": "14dd123d-de6f-45ed-b7b7-0b5b4153fd60",
+              "chunk_title": "Bryansk Oblast Overview",
+              "chunk_summary": "This chunk contains information about the administrative status, classification, and capital city of Bryansk Oblast as a federal subject of Russia.",
+              "context_title": "List of rural localities in Bryansk Oblast",
+              "page_content": "The administrative center of Bryansk Oblast is the city of Bryansk. Bryansk Oblast is an oblast. Bryansk Oblast is a federal subject of Russia."
+            },
+            {
+              "chunk_id": "319af3fc-679f-4486-bef6-a641987f4629",
+              "chunk_title": "Administrative Capitals",
+              "chunk_summary": "This chunk contains information about the administrative capitals of Russian oblasts.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "Bryansk is the capital of the Bryansk Oblast."
+            },
+            {
+              "chunk_id": "6488a22c-be4c-4ff5-ab4e-8f45ba807a1b",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities within Russian oblasts.",
+              "context_title": "Novozybkov",
+              "page_content": "Novozybkov is in Bryansk Oblast. Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "ca52f460-f9ed-46fb-891f-e6ec8cbb2759",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains information about the population of Chausy at specific points in time.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "The population of Chausy was 279 as of 2013."
+            },
+            {
+              "chunk_id": "38a69c30-1a88-493d-870e-0464bb098df9",
+              "chunk_title": "Administrative Centers",
+              "chunk_summary": "This chunk contains information about the administrative centers of various regions.",
+              "context_title": "Zlynka",
+              "page_content": "Bryansk is the administrative center of Bryansk Oblast."
+            },
+            {
+              "chunk_id": "26722bd2-191c-452a-9df2-b5e49f6105fb",
+              "chunk_title": "Street Count",
+              "chunk_summary": "This chunk contains information about the number of streets in Chausy.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "There are 8 streets in Chausy."
+            },
+            {
+              "chunk_id": "c4c094d9-0cb7-40b8-b9a1-e610496c2165",
+              "chunk_title": "Geographic Designations",
+              "chunk_summary": "This chunk contains information about the alternative names and designations of specific geographic regions.",
+              "context_title": "List of rural localities in Bryansk Oblast",
+              "page_content": "Bryansk Oblast is also known as \"Bryanskaya oblast\"."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is Lyapunovo, Altai Krai located in?",
+          "answer": "Russia",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Lyapunovo, Altai Krai located in?",
+          "planner_rationale": "Q 的两个语义需求之二——确定 Lyapunovo 的国家归属。已 SOLVED + healthy，通过推理链 Lyapunovo → Uglovsky District → Altai Krai → Russia 得出答案 Russia，逻辑自洽，本轮直接保留。",
+          "solver_judgment": "question 要求确认 Lyapunovo, Altai Krai 所在的国家。search_query 搜索了 'What country is Lyapunovo, Altai Krai located in?'。chunks 返回了 Lyapunovo 位于 Altai Krai（chunk b248be40...）以及 Altai Krai 位于 Russia（chunk b8829f3e...）的信息。通过这两个 chunk 的关联，可以直接推导出 Lyapunovo 位于 Russia。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源，均来自同一文档 Lyapunovo（非独立来源）。chunk b248be40 陈述 'Lyapunovo is in Uglovsky District. Uglovsky District is in Altai Krai.'，chunk b8829f3e 陈述 'Altai Krai is in Russia.'。通过传递推理得出 Lyapunovo 在 Russia。无独立来源——由已知事实推理得出。推理依据: Lyapunovo ⊂ Uglovsky District ⊂ Altai Krai ⊂ Russia。推理链逻辑自洽，无过度推断。",
+          "critic_normative_advice": "建议 INHERIT——虽为单文档内的推理链，但推理步骤清晰、逻辑自洽，答案 Russia 可靠。当前证据已足够支撑结论。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "b248be40-944a-46ce-8f5f-39d0d3dae736",
+            "b8829f3e-a808-42b4-94c5-aa7b67244cae"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "b248be40-944a-46ce-8f5f-39d0d3dae736",
+              "chunk_title": "Rural Localities & Administration",
+              "chunk_summary": "This chunk contains information about the classification and administrative location of rural localities, specifically selos like Lyapunovo within districts and regions.",
+              "context_title": "Lyapunovo",
+              "page_content": "Lyapunovo is in Uglovsky District. Uglovsky District is in Altai Krai. Lyapunovo is a selo. Lyapunovo is a rural locality."
+            },
+            {
+              "chunk_id": "b8829f3e-a808-42b4-94c5-aa7b67244cae",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within countries.",
+              "context_title": "Lyapunovo",
+              "page_content": "Altai Krai is in Russia."
+            },
+            {
+              "chunk_id": "eabadd00-1a53-48e9-acd4-e174e5bb714a",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations at given times.",
+              "context_title": "Lyapunovo",
+              "page_content": "The population of Lyapunovo was 127 as of 2013."
+            },
+            {
+              "chunk_id": "76927173-c7a4-41a1-88d1-4d71d35e6d91",
+              "chunk_title": "Street Counts",
+              "chunk_summary": "This chunk contains information about the number of streets in specific locations.",
+              "context_title": "Lyapunovo",
+              "page_content": "There are 2 streets in Lyapunovo."
+            },
+            {
+              "chunk_id": "a7b84d60-c6aa-4189-af92-b4e1181319a6",
+              "chunk_title": "Russian Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within Russia.",
+              "context_title": "Dobrun",
+              "page_content": "Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "d2e92ead-ade9-4037-bee4-9856ed1abf34",
+              "chunk_title": "East Slavic Countries",
+              "chunk_summary": "This chunk contains information about the specific East Slavic countries united by beams.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "The three East Slavic countries united by the beams are Russia, Belarus, and Ukraine."
+            },
+            {
+              "chunk_id": "6488a22c-be4c-4ff5-ab4e-8f45ba807a1b",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities within Russian oblasts.",
+              "context_title": "Novozybkov",
+              "page_content": "Novozybkov is in Bryansk Oblast. Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "d46598dd-5f57-4a98-8898-79edfd317f1c",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the names and geographical locations of inhabited localities, specifically focusing on Pogar in Bryansk Oblast, Russia.",
+              "context_title": "Pogar, Russia",
+              "page_content": "Pogar is the name of several inhabited localities. The several inhabited localities named Pogar are in Bryansk Oblast. Bryansk Oblast is in Russia."
+            },
+            {
+              "chunk_id": "1c95497b-90a3-4df6-a75c-38c2705eed40",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions, specifically where countries or administrative areas neighbor each other.",
+              "context_title": "Coat of arms of Bryansk Oblast",
+              "page_content": "The Bryansk Oblast is located where Russia, Belarus, and Ukraine neighbour each other."
+            },
+            {
+              "chunk_id": "efebc77e-8f6e-4f01-8b67-fc6c7b304e87",
+              "chunk_title": "Chausy Location & Type",
+              "chunk_summary": "This chunk contains information about the classification and geographical location of Chausy, a rural locality (selo) in Russia.",
+              "context_title": "Chausy, Bryansk Oblast",
+              "page_content": "Chausy is a selo. Chausy is in Pogarsky District. Chausy is in Russia. Chausy is in Bryansk Oblast. Chausy is a rural locality."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What country is the village Chausy, Bryansk Oblast located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "efebc77e-8f6e-4f01-8b67-fc6c7b304e87",
+        "a7b84d60-c6aa-4189-af92-b4e1181319a6",
+        "1c95497b-90a3-4df6-a75c-38c2705eed40",
+        "14dd123d-de6f-45ed-b7b7-0b5b4153fd60",
+        "319af3fc-679f-4486-bef6-a641987f4629",
+        "6488a22c-be4c-4ff5-ab4e-8f45ba807a1b",
+        "ca52f460-f9ed-46fb-891f-e6ec8cbb2759",
+        "38a69c30-1a88-493d-870e-0464bb098df9",
+        "26722bd2-191c-452a-9df2-b5e49f6105fb",
+        "c4c094d9-0cb7-40b8-b9a1-e610496c2165"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What country is the village Lyapunovo located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "b248be40-944a-46ce-8f5f-39d0d3dae736",
+        "eabadd00-1a53-48e9-acd4-e174e5bb714a",
+        "76927173-c7a4-41a1-88d1-4d71d35e6d91",
+        "1c95497b-90a3-4df6-a75c-38c2705eed40",
+        "6488a22c-be4c-4ff5-ab4e-8f45ba807a1b",
+        "d2e92ead-ade9-4037-bee4-9856ed1abf34",
+        "d46598dd-5f57-4a98-8898-79edfd317f1c",
+        "a7b84d60-c6aa-4189-af92-b4e1181319a6",
+        "018073e3-1715-4a84-b529-0d529727795f",
+        "02955443-26d4-42b4-bfca-e34e36569d9f"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "What country is Lyapunovo, Altai Krai located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "b248be40-944a-46ce-8f5f-39d0d3dae736",
+        "b8829f3e-a808-42b4-94c5-aa7b67244cae",
+        "eabadd00-1a53-48e9-acd4-e174e5bb714a",
+        "76927173-c7a4-41a1-88d1-4d71d35e6d91",
+        "a7b84d60-c6aa-4189-af92-b4e1181319a6",
+        "d2e92ead-ade9-4037-bee4-9856ed1abf34",
+        "6488a22c-be4c-4ff5-ab4e-8f45ba807a1b",
+        "d46598dd-5f57-4a98-8898-79edfd317f1c",
+        "1c95497b-90a3-4df6-a75c-38c2705eed40",
+        "efebc77e-8f6e-4f01-8b67-fc6c7b304e87"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Chausy, Bryansk Oblast located in?（理由：Q 问两个村庄是否同国，需先确定第一个村庄的国家归属），F2: What country is Lyapunovo located in?（理由：需确定第二个村庄的国家归属）。关系: F1 和 F2 都是 Q（N0）的分解产物（decomposition）——两者独立搜索，无相互依赖，最终通过比较 F1 和 F2 的 answer 来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: $1（question='What country is the village Chausy, Bryansk Oblast located in?'），原因：Q 的语义需求之一——确定第一个村庄的国家归属。新增: $2（question='What country is the village Lyapunovo located in?'），原因：Q 的语义需求之二——确定第二个村庄的国家归属。新增边: N0→$1（decomposition），原因：$1 是 Q 的分解子事实。新增边: N0→$2（decomposition），原因：$2 是 Q 的分解子事实。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 的 critic_health 为 needs_verification（支撑 chunk b248be40 未直接陈述 Lyapunovo 的国家归属，答案 Russia 基于 Altai Krai 推理得出，非 chunk 直接证据）；N0 的 critic_health 同样为 needs_verification（依赖 N1_2 的推理链）。条件②通过：N0→N1_"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Chausy, Bryansk Oblast located in?（理由：Q 问两个村庄是否同国，需先确定第一个村庄的国家归属），F2: What country is Lyapunovo, Altai Krai located in?（理由：需确定第二个村庄的国家归属，加入 Altai Krai 上下文以提高搜索精度）。关系: F1 和 F2 都是 Q（N0）的分解产物（decomposition）——两者独立搜索，无相互依赖，最终通过比较 F1 和 F2 的 answer 来回答 Q。",
+      "hypothesis_delta": "保留: N0（根节点），原因：根节点永远存在，本轮更新 rationale 反映当前进展。保留: N1_1（question='What country is the village Chausy, Bryansk Oblast located in?'），原因：已 SOLVED + healthy，证据充分（chunk 直接陈述 'Chausy is in Russia'），Critic 建议 INHERIT。换标: N1_2 question 从 'What country is the village Lyapunovo located in?' 改为 'What country is Lyapunovo, Altai Krai located in?'，原因：上一轮搜索返回的支撑 chunk 未直接陈述国家信息，答案依赖外部知识推理（Altai Krai → Russia）。Critic 建议重搜以获取直接证据。本轮在 question 中加入 'Altai Krai' 作为限定词，利用已知的区域信息提高搜索精度，期望返回包含国家字段的更完整条目。边结构不变：N0→N1_1 和",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（N1_2 被删除后以新 question 重新新增）。条件②通过：N0→N1_1 和 N0→N1_2 均为有效 decomposition，推理链语义完整。条件③通过：所有节点（N0/N1_1/N1_2）均为 healthy。条件①通过：所有非根节点已 SOLVED。阻碍条件仅为条件④——需等待下一轮拓扑稳定（无增删改）后方可终止。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Chausy, Bryansk Oblast located in?（理由：Q 问两个村庄是否同国，需先确定第一个村庄的国家归属），F2: What country is Lyapunovo located in?（理由：需确定第二个村庄的国家归属）。关系: F1 和 F2 都是 Q（N0）的分解产物（decomposition）——两者独立搜索，无相互依赖，最终通过比较 F1 和 F2 的 answer 来回答 Q。当前状态：F1 和 F2 均已 SOLVED，答案均为 Russia，Q 可判定为 Yes（两村庄位于同一国家）。",
+      "hypothesis_delta": "本轮无结构变更——所有节点均通过 INHERIT 保留，所有边均通过 LINK 显式声明保留。原因：N1_1 和 N1_2 均已 SOLVED + healthy，Critic 建议 INHERIT，证据充分且推理链完整。N1_1 有直接证据（chunk 明确陈述 'Chausy is in Russia'），N1_2 有清晰的传递推理链（Lyapunovo ⊂ Uglovsky District ⊂ Altai Krai ⊂ Russia）。两个子节点答案一致（均为 Russia），Q 的语义需求已完全覆盖，DAG 结构已收敛至理想状态，无需调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效分解边，子节点答案聚合后可直接判定 Q（两村庄均在 Russia → 同国 → Yes）；③全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④拓扑稳定（本轮与上一轮一致）。N1_1 有直接证据支撑，N1_2 有逻辑自洽的传递推理链，"
+      }
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "question_index": 247,
+  "question_id": "5ae3006c55429928c423959f",
+  "question": "Where was the singer born who performs Pon de Replay and was born Robyn Fenty?",
+  "answer": "Saint Michael, Barbados",
+  "prediction": "Saint Michael, Barbados",
+  "error": null,
+  "latency_ms": 184155.33380000124,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T12:25:42.200215+00:00",
+  "chunks": [
+    {
+      "chunk_id": "0156f3d6-7a75-4dc5-8433-5efe2fcf8872",
+      "chunk_title": "Rihanna Biography",
+      "chunk_summary": "This chunk contains biographical information about Robyn Rihanna Fenty, including her nationality, professional roles in the entertainment industry, birth date and place, upbringing, and early career milestones.",
+      "context_title": "Rihanna",
+      "page_content": "Robyn Rihanna Fenty rose to fame with the release of her debut studio album \"Music of the Sun\". Robyn Rihanna Fenty was born on February 20, 1988. Robyn Rihanna Fenty signed the recording contract with Def Jam Recordings after auditioning for its then-president. Robyn Rihanna Fenty released a follow-up album titled \"A Girl like Me\". Robyn Rihanna Fenty signed a recording contract with Def Jam Recordings. In 2003, Robyn Rihanna Fenty recorded demo tapes. In 2005, Robyn Rihanna Fenty rose to fame. \"Music of the Sun\" is the debut studio album of Robyn Rihanna Fenty. Robyn Rihanna Fenty is a Barbadian actress. The demo tapes recorded by Robyn Rihanna Fenty in 2003 were under the direction of record producer Evan Rogers. Robyn Rihanna Fenty was raised in Bridgetown. Robyn Rihanna Fenty is a Barbadian singer. Robyn Rihanna Fenty is a Barbadian songwriter. Robyn Rihanna Fenty was born in Saint Michael, Barbados."
+    },
+    {
+      "chunk_id": "ce3acc1f-5a47-4d3e-ac89-73d26e5a027b",
+      "chunk_title": "Songs & Artists",
+      "chunk_summary": "This chunk contains information about songs and musical works, including details about their titles, recording artists, the artists' backgrounds, release dates, formats, promotional purposes, and their relationship to film soundtracks.",
+      "context_title": "Sledgehammer (Rihanna song)",
+      "page_content": "Robyn Fenty is known as Rihanna. A music video for \"Sledgehammer\" was released on June 30, 2016. \"Sledgehammer\" was written by Jesse Shatkin. \"Sledgehammer\" was released on June 27, 2016. \"Sledgehammer\" is a song. \"Sledgehammer\" plays during the closing credits of \"Star Trek Beyond\". \"Sledgehammer\" was written by Sia Furler. \"Sledgehammer\" was released to promote \"Star Trek Beyond\". \"Sledgehammer\" was written by Robyn Fenty. \"Sledgehammer\" was released as a single. \"Sledgehammer\" was recorded by Rihanna. \"Sledgehammer\" is not included on the soundtrack of \"Star Trek Beyond\". Sia Furler is known as Sia. Rihanna is a Barbadian singer."
+    },
+    {
+      "chunk_id": "534f661c-e28b-475c-9c3c-a3bd2c297072",
+      "chunk_title": "Names & Name Changes",
+      "chunk_summary": "This chunk contains information about the birth names and name changes of individuals.",
+      "context_title": "Robyn Hilton",
+      "page_content": "Robyn Hilton was born Robyn Molinaux."
+    },
+    {
+      "chunk_id": "bdf87c04-71f3-4eef-a262-1391b17bf165",
+      "chunk_title": "Identities & Professions",
+      "chunk_summary": "This chunk contains information about the identities and professions of individuals, specifically models.",
+      "context_title": "Robyn Hilton",
+      "page_content": "Robyn Hilton is an American model."
+    },
+    {
+      "chunk_id": "bb04b5a4-2815-4943-8608-3c284213c7aa",
+      "chunk_title": "Birthplaces",
+      "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+      "context_title": "Sydney Anderson",
+      "page_content": "Sydney Anderson was born in Zumbrota, Minnesota."
+    },
+    {
+      "chunk_id": "af703d5b-b9df-469e-8c36-c9ae44f76a5b",
+      "chunk_title": "Birthplaces",
+      "chunk_summary": "This chunk contains information about the birthplace of individuals.",
+      "context_title": "Kitty Brazelton",
+      "page_content": "Kitty Brazelton was born in Cambridge, Massachusetts."
+    },
+    {
+      "chunk_id": "986b10d8-093e-4ece-91ba-ff059498d188",
+      "chunk_title": "Birthplaces",
+      "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+      "context_title": "M'fundo Morrison",
+      "page_content": "M'fundo Morrison was born in Rome, Georgia."
+    },
+    {
+      "chunk_id": "4e349f4d-b39e-4142-9996-1160d5ae2584",
+      "chunk_title": "Film & TV Actors",
+      "chunk_summary": "This chunk contains information about the professional background and identity of American film and television actors.",
+      "context_title": "Robyn Hilton",
+      "page_content": "Robyn Hilton is an American film actress. Robyn Hilton is an American television actress."
+    },
+    {
+      "chunk_id": "d168f0d7-2726-4587-a507-cd4b4a5cf1d9",
+      "chunk_title": "Singer Profiles",
+      "chunk_summary": "This chunk contains information about the nationality and profession of singers.",
+      "context_title": "Pon de Replay",
+      "page_content": "Rihanna is a Barbadian singer."
+    },
+    {
+      "chunk_id": "d8470f33-b8d3-489f-a117-e3f030453b7b",
+      "chunk_title": "Singer Profiles",
+      "chunk_summary": "This chunk contains information about the nationality and profession of singers.",
+      "context_title": "Rihanna videography",
+      "page_content": "Rihanna is a Barbadian singer."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2,
+  "retrieval_count": 1,
+  "total_chunks": 10,
+  "total_distinct_titles": 8,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 2,
+  "dag_edges": 1,
+  "dag_snapshots": [
+    {
+      "q": "Where was the singer born who performs Pon de Replay and was born Robyn Fenty?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where was the singer born who performs Pon de Replay and was born Robyn Fenty?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问表演 Pon de Replay 且出生名为 Robyn Fenty 的歌手的出生地",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据来自子节点推理链的聚合。子节点 N1_1 提供了 Robyn Fenty 的出生地（Saint Michael, Barbados），该答案直接构成 Q 的答案。推理链：Q 询问表演 Pon de Replay 且出生名为 Robyn Fenty 的歌手的出生地 → N1_1 确认 Robyn Fenty 出生于 Saint Michael, Barbados → 该答案即为 Q 的答案。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，N1_1 的 answer 直接构成 Q 的 answer，依赖边 N0→N1_1 语义有效。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where was Robyn Fenty born?",
+          "answer": "Saint Michael, Barbados",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where was Robyn Fenty born?",
+          "planner_rationale": "Q 的核心询问——歌手的出生地。Q 已通过 'born Robyn Fenty' 给出了歌手的出生名，因此直接用此名搜索出生地即可",
+          "solver_judgment": "question 要求确认 Robyn Fenty 的出生地。search_query 搜索了 'Where was Robyn Fenty born?'。chunks 返回了包含 Robyn Rihanna Fenty 传记信息的片段，其中 chunk_0156f3d6-7a75-4dc5-8433-5efe2fcf8872 明确记载 'Robyn Rihanna Fenty was born in Saint Michael, Barbados.'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Rihanna），单来源但直接、具体地陈述了答案。支撑 chunk [0156f3d6-7a75-4dc5-8433-5efe2fcf8872] 全文逐字包含 'Robyn Rihanna Fenty was born in Saint Michael, Barbados.'，与声称答案 'Saint Michael, Barbados' 完全匹配。该 chunk 同时确认 Robyn Rihanna Fenty 是 'Barbadian singer'，与 Q 中 'singer' 的身份描述一致。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体地回答了问题。chunk 同时确认了歌手身份，与 Q 的语义需求一致。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "0156f3d6-7a75-4dc5-8433-5efe2fcf8872"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "0156f3d6-7a75-4dc5-8433-5efe2fcf8872",
+              "chunk_title": "Rihanna Biography",
+              "chunk_summary": "This chunk contains biographical information about Robyn Rihanna Fenty, including her nationality, professional roles in the entertainment industry, birth date and place, upbringing, and early career milestones.",
+              "context_title": "Rihanna",
+              "page_content": "Robyn Rihanna Fenty rose to fame with the release of her debut studio album \"Music of the Sun\". Robyn Rihanna Fenty was born on February 20, 1988. Robyn Rihanna Fenty signed the recording contract with Def Jam Recordings after auditioning for its then-president. Robyn Rihanna Fenty released a follow-up album titled \"A Girl like Me\". Robyn Rihanna Fenty signed a recording contract with Def Jam Recordings. In 2003, Robyn Rihanna Fenty recorded demo tapes. In 2005, Robyn Rihanna Fenty rose to fame. \"Music of the Sun\" is the debut studio album of Robyn Rihanna Fenty. Robyn Rihanna Fenty is a Barbadian actress. The demo tapes recorded by Robyn Rihanna Fenty in 2003 were under the direction of record producer Evan Rogers. Robyn Rihanna Fenty was raised in Bridgetown. Robyn Rihanna Fenty is a Barbadian singer. Robyn Rihanna Fenty is a Barbadian songwriter. Robyn Rihanna Fenty was born in Saint Michael, Barbados."
+            },
+            {
+              "chunk_id": "ce3acc1f-5a47-4d3e-ac89-73d26e5a027b",
+              "chunk_title": "Songs & Artists",
+              "chunk_summary": "This chunk contains information about songs and musical works, including details about their titles, recording artists, the artists' backgrounds, release dates, formats, promotional purposes, and their relationship to film soundtracks.",
+              "context_title": "Sledgehammer (Rihanna song)",
+              "page_content": "Robyn Fenty is known as Rihanna. A music video for \"Sledgehammer\" was released on June 30, 2016. \"Sledgehammer\" was written by Jesse Shatkin. \"Sledgehammer\" was released on June 27, 2016. \"Sledgehammer\" is a song. \"Sledgehammer\" plays during the closing credits of \"Star Trek Beyond\". \"Sledgehammer\" was written by Sia Furler. \"Sledgehammer\" was released to promote \"Star Trek Beyond\". \"Sledgehammer\" was written by Robyn Fenty. \"Sledgehammer\" was released as a single. \"Sledgehammer\" was recorded by Rihanna. \"Sledgehammer\" is not included on the soundtrack of \"Star Trek Beyond\". Sia Furler is known as Sia. Rihanna is a Barbadian singer."
+            },
+            {
+              "chunk_id": "534f661c-e28b-475c-9c3c-a3bd2c297072",
+              "chunk_title": "Names & Name Changes",
+              "chunk_summary": "This chunk contains information about the birth names and name changes of individuals.",
+              "context_title": "Robyn Hilton",
+              "page_content": "Robyn Hilton was born Robyn Molinaux."
+            },
+            {
+              "chunk_id": "bdf87c04-71f3-4eef-a262-1391b17bf165",
+              "chunk_title": "Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of individuals, specifically models.",
+              "context_title": "Robyn Hilton",
+              "page_content": "Robyn Hilton is an American model."
+            },
+            {
+              "chunk_id": "bb04b5a4-2815-4943-8608-3c284213c7aa",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+              "context_title": "Sydney Anderson",
+              "page_content": "Sydney Anderson was born in Zumbrota, Minnesota."
+            },
+            {
+              "chunk_id": "af703d5b-b9df-469e-8c36-c9ae44f76a5b",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplace of individuals.",
+              "context_title": "Kitty Brazelton",
+              "page_content": "Kitty Brazelton was born in Cambridge, Massachusetts."
+            },
+            {
+              "chunk_id": "986b10d8-093e-4ece-91ba-ff059498d188",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+              "context_title": "M'fundo Morrison",
+              "page_content": "M'fundo Morrison was born in Rome, Georgia."
+            },
+            {
+              "chunk_id": "4e349f4d-b39e-4142-9996-1160d5ae2584",
+              "chunk_title": "Film & TV Actors",
+              "chunk_summary": "This chunk contains information about the professional background and identity of American film and television actors.",
+              "context_title": "Robyn Hilton",
+              "page_content": "Robyn Hilton is an American film actress. Robyn Hilton is an American television actress."
+            },
+            {
+              "chunk_id": "d168f0d7-2726-4587-a507-cd4b4a5cf1d9",
+              "chunk_title": "Singer Profiles",
+              "chunk_summary": "This chunk contains information about the nationality and profession of singers.",
+              "context_title": "Pon de Replay",
+              "page_content": "Rihanna is a Barbadian singer."
+            },
+            {
+              "chunk_id": "d8470f33-b8d3-489f-a117-e3f030453b7b",
+              "chunk_title": "Singer Profiles",
+              "chunk_summary": "This chunk contains information about the nationality and profession of singers.",
+              "context_title": "Rihanna videography",
+              "page_content": "Rihanna is a Barbadian singer."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Where was the singer born who performs Pon de Replay and was born Robyn Fenty?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where was the singer born who performs Pon de Replay and was born Robyn Fenty?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已 SOLVED + healthy，其 answer 'Saint Michael, Barbados' 直接构成 Q 的答案。推理链完整：Q 询问表演 Pon de Replay 且出生名为 Robyn Fenty 的歌手的出生地 → N1_1 确认 Robyn Fenty 出生于 Saint Michael, Barbados → 该答案即为 Q 的答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据来自子节点推理链的聚合。子节点 N1_1 已 SOLVED，answer='Saint Michael, Barbados'，该答案直接构成 Q 的答案。推理链：Q 询问表演 Pon de Replay 且出生名为 Robyn Fenty 的歌手的出生地 → N1_1 确认 Robyn Fenty 出生于 Saint Michael, Barbados → 该答案即为 Q 的答案。依赖边 N0→N1_1 语义有效。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，N1_1 的 answer 直接构成 Q 的 answer，依赖边 N0→N1_1 语义有效。Planner 将 'performs Pon de Replay' 视为冗余标识符的假设合理，因为 Q 本身已通过 'born Robyn Fenty' 提供了可直接搜索的出生名，无需额外验证节点。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where was Robyn Fenty born?",
+          "answer": "Saint Michael, Barbados",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where was Robyn Fenty born?",
+          "planner_rationale": "Q 的核心询问——歌手的出生地。Q 已通过 'born Robyn Fenty' 给出歌手出生名，直接用此名搜索出生地。已确认 Robyn Fenty 出生于 Saint Michael, Barbados，证据来自 Rihanna 传记文档的直接陈述，Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认 Robyn Fenty 的出生地。search_query 搜索了 'Where was Robyn Fenty born?'。chunks 返回了包含 Robyn Rihanna Fenty 传记信息的片段，其中 chunk_0156f3d6-7a75-4dc5-8433-5efe2fcf8872 明确记载 'Robyn Rihanna Fenty was born in Saint Michael, Barbados.'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Rihanna），单来源但直接、具体地陈述了答案。支撑 chunk [0156f3d6-7a75-4dc5-8433-5efe2fcf8872] 全文逐字包含 'Robyn Rihanna Fenty was born in Saint Michael, Barbados.'，与声称答案 'Saint Michael, Barbados' 完全匹配。该 chunk 同时确认 Robyn Rihanna Fenty 是 'Barbadian singer'，与 Q 中 'singer' 的身份描述一致。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体地回答了问题。chunk 同时确认了歌手身份，与 Q 的语义需求一致。无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "0156f3d6-7a75-4dc5-8433-5efe2fcf8872"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "0156f3d6-7a75-4dc5-8433-5efe2fcf8872",
+              "chunk_title": "Rihanna Biography",
+              "chunk_summary": "This chunk contains biographical information about Robyn Rihanna Fenty, including her nationality, professional roles in the entertainment industry, birth date and place, upbringing, and early career milestones.",
+              "context_title": "Rihanna",
+              "page_content": "Robyn Rihanna Fenty rose to fame with the release of her debut studio album \"Music of the Sun\". Robyn Rihanna Fenty was born on February 20, 1988. Robyn Rihanna Fenty signed the recording contract with Def Jam Recordings after auditioning for its then-president. Robyn Rihanna Fenty released a follow-up album titled \"A Girl like Me\". Robyn Rihanna Fenty signed a recording contract with Def Jam Recordings. In 2003, Robyn Rihanna Fenty recorded demo tapes. In 2005, Robyn Rihanna Fenty rose to fame. \"Music of the Sun\" is the debut studio album of Robyn Rihanna Fenty. Robyn Rihanna Fenty is a Barbadian actress. The demo tapes recorded by Robyn Rihanna Fenty in 2003 were under the direction of record producer Evan Rogers. Robyn Rihanna Fenty was raised in Bridgetown. Robyn Rihanna Fenty is a Barbadian singer. Robyn Rihanna Fenty is a Barbadian songwriter. Robyn Rihanna Fenty was born in Saint Michael, Barbados."
+            },
+            {
+              "chunk_id": "ce3acc1f-5a47-4d3e-ac89-73d26e5a027b",
+              "chunk_title": "Songs & Artists",
+              "chunk_summary": "This chunk contains information about songs and musical works, including details about their titles, recording artists, the artists' backgrounds, release dates, formats, promotional purposes, and their relationship to film soundtracks.",
+              "context_title": "Sledgehammer (Rihanna song)",
+              "page_content": "Robyn Fenty is known as Rihanna. A music video for \"Sledgehammer\" was released on June 30, 2016. \"Sledgehammer\" was written by Jesse Shatkin. \"Sledgehammer\" was released on June 27, 2016. \"Sledgehammer\" is a song. \"Sledgehammer\" plays during the closing credits of \"Star Trek Beyond\". \"Sledgehammer\" was written by Sia Furler. \"Sledgehammer\" was released to promote \"Star Trek Beyond\". \"Sledgehammer\" was written by Robyn Fenty. \"Sledgehammer\" was released as a single. \"Sledgehammer\" was recorded by Rihanna. \"Sledgehammer\" is not included on the soundtrack of \"Star Trek Beyond\". Sia Furler is known as Sia. Rihanna is a Barbadian singer."
+            },
+            {
+              "chunk_id": "534f661c-e28b-475c-9c3c-a3bd2c297072",
+              "chunk_title": "Names & Name Changes",
+              "chunk_summary": "This chunk contains information about the birth names and name changes of individuals.",
+              "context_title": "Robyn Hilton",
+              "page_content": "Robyn Hilton was born Robyn Molinaux."
+            },
+            {
+              "chunk_id": "bdf87c04-71f3-4eef-a262-1391b17bf165",
+              "chunk_title": "Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of individuals, specifically models.",
+              "context_title": "Robyn Hilton",
+              "page_content": "Robyn Hilton is an American model."
+            },
+            {
+              "chunk_id": "bb04b5a4-2815-4943-8608-3c284213c7aa",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+              "context_title": "Sydney Anderson",
+              "page_content": "Sydney Anderson was born in Zumbrota, Minnesota."
+            },
+            {
+              "chunk_id": "af703d5b-b9df-469e-8c36-c9ae44f76a5b",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplace of individuals.",
+              "context_title": "Kitty Brazelton",
+              "page_content": "Kitty Brazelton was born in Cambridge, Massachusetts."
+            },
+            {
+              "chunk_id": "986b10d8-093e-4ece-91ba-ff059498d188",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+              "context_title": "M'fundo Morrison",
+              "page_content": "M'fundo Morrison was born in Rome, Georgia."
+            },
+            {
+              "chunk_id": "4e349f4d-b39e-4142-9996-1160d5ae2584",
+              "chunk_title": "Film & TV Actors",
+              "chunk_summary": "This chunk contains information about the professional background and identity of American film and television actors.",
+              "context_title": "Robyn Hilton",
+              "page_content": "Robyn Hilton is an American film actress. Robyn Hilton is an American television actress."
+            },
+            {
+              "chunk_id": "d168f0d7-2726-4587-a507-cd4b4a5cf1d9",
+              "chunk_title": "Singer Profiles",
+              "chunk_summary": "This chunk contains information about the nationality and profession of singers.",
+              "context_title": "Pon de Replay",
+              "page_content": "Rihanna is a Barbadian singer."
+            },
+            {
+              "chunk_id": "d8470f33-b8d3-489f-a117-e3f030453b7b",
+              "chunk_title": "Singer Profiles",
+              "chunk_summary": "This chunk contains information about the nationality and profession of singers.",
+              "context_title": "Rihanna videography",
+              "page_content": "Rihanna is a Barbadian singer."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Where was Robyn Fenty born?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "0156f3d6-7a75-4dc5-8433-5efe2fcf8872",
+        "ce3acc1f-5a47-4d3e-ac89-73d26e5a027b",
+        "534f661c-e28b-475c-9c3c-a3bd2c297072",
+        "bdf87c04-71f3-4eef-a262-1391b17bf165",
+        "bb04b5a4-2815-4943-8608-3c284213c7aa",
+        "af703d5b-b9df-469e-8c36-c9ae44f76a5b",
+        "986b10d8-093e-4ece-91ba-ff059498d188",
+        "4e349f4d-b39e-4142-9996-1160d5ae2584",
+        "d168f0d7-2726-4587-a507-cd4b4a5cf1d9",
+        "d8470f33-b8d3-489f-a117-e3f030453b7b"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where was Robyn Fenty born?（理由：Q 询问的是表演 Pon de Replay 且出生名为 Robyn Fenty 的歌手的出生地。Q 本身已通过 \"born Robyn Fenty\" 给出了歌手的出生名，因此核心子事实就是查找 Robyn Fenty 的出生地）。关系: F1 是 Q 的分解产物（decomposition）——F1 的 answer 直接构成 Q 的 answer。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N1（question=\"Where was Robyn Fenty born?\", rationale=\"Q 已通过 'born Robyn Fenty' 给出歌手出生名，直接用此名搜索出生地\"），原因：Q 的语义核心是查找某人的出生地，该人身份已由 Q 本身提供。新增边: N0→N1（decomposition），原因：N1 是 Q 的直接分解——N1 的 answer 即为 Q 的 answer。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED（N1_1 solved）；条件②推理链语义匹配——N0→N1_1 的 decomposition 边语义有效，N1_1 的 answer（Saint Michael, Barbados）直接构成 Q 的 answer；条件③全部节点 healthy（N0 healthy，N1_1 healthy——单来源但直接具体）；条件④首轮不适用。推理链完整，"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where was Robyn Fenty born?（理由：Q 询问的是表演 Pon de Replay 且出生名为 Robyn Fenty 的歌手的出生地。Q 本身已通过 'born Robyn Fenty' 给出了歌手的出生名，因此核心子事实就是查找 Robyn Fenty 的出生地）。关系: F1 是 Q 的分解产物（decomposition）——F1 的 answer 直接构成 Q 的 answer。Q 的另一识别特征 'performs Pon de Replay' 被视为冗余标识符（与 'born Robyn Fenty' 指向同一人），无需单独设立验证节点。",
+      "hypothesis_delta": "收敛确认：上一轮（首轮）的分解假设被完全验证。N1_1（即 F1）已 SOLVED + healthy，answer='Saint Michael, Barbados'，Critic 确认证据充分且直接回答问题。N0→N1_1 的 decomposition 边语义有效——N1_1 的 answer 直接构成 Q 的 answer。本轮无需结构调整：INHERIT N0（根节点，更新 rationale 反映子节点已提供完整答案），INHERIT N1_1（已确立事实，无需重搜），LINK N0→N1_1（保留有效分解边）。无新增、无删除、无换标。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N0→N1_1 的 decomposition 边有效，N1_1 的 answer 'Saint Michael, Barbados' 直接构成 Q 的 answer；条件③全部节点 healthy（N0 和 N1_1 均为 healthy）；条件④本轮拓扑与上一轮一致。推理链完整，所有节点证据充分，可生成最终答案。"
+      }
+    }
+  ]
+}

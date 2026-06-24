@@ -1,0 +1,422 @@
+{
+  "question_index": 310,
+  "question_id": "5ab285d1554299449642c8dd",
+  "question": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+  "answer": "United States",
+  "prediction": "United States",
+  "error": null,
+  "latency_ms": 109173.17419999745,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T20:42:40.712671+00:00",
+  "chunks": [
+    {
+      "chunk_id": "44aea5b8-c45f-4f88-8bad-884397eff1c7",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of Monroe City Regional Airport, including its position relative to the central business district and its county.",
+      "context_title": "Monroe City Regional Airport",
+      "page_content": "Monroe City Regional Airport is located in Monroe County, Missouri, United States. Monroe City Regional Airport is located one nautical mile (1.85 km) south of the central business district of Monroe City."
+    },
+    {
+      "chunk_id": "4efaff3a-44b1-43b0-aa5c-e792c2cd45d4",
+      "chunk_title": "Airport Ownership & Management",
+      "chunk_summary": "This chunk contains information about the ownership and management of airports by municipal entities.",
+      "context_title": "Monroe Regional Airport (Louisiana)",
+      "page_content": "The City of Monroe owns Monroe Regional Airport."
+    },
+    {
+      "chunk_id": "f3108e6d-cf54-497d-8571-ce2f928f784b",
+      "chunk_title": "Airport Classification & Use",
+      "chunk_summary": "This chunk contains information about the classification and public use status of airports.",
+      "context_title": "Monroe Regional Airport (Louisiana)",
+      "page_content": "Monroe Regional Airport is a public use airport."
+    },
+    {
+      "chunk_id": "3c2b401f-a15b-4e8b-8be5-f9254bcb6075",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the specific locations and geographical details of airports.",
+      "context_title": "Monroe Regional Airport (Louisiana)",
+      "page_content": "Monroe Regional Airport is located three nautical miles (6 km) east of the central business district of Monroe. Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States."
+    },
+    {
+      "chunk_id": "611affd7-2409-4aab-b31e-c73854f06f5e",
+      "chunk_title": "Airport Ownership",
+      "chunk_summary": "This chunk contains information about the ownership of airports.",
+      "context_title": "Monroe City Regional Airport",
+      "page_content": "Monroe City Regional Airport is owned by the City of Monroe."
+    },
+    {
+      "chunk_id": "97864e69-98ba-4eb2-a569-83a60ac156d7",
+      "chunk_title": "Airport Codes",
+      "chunk_summary": "This chunk contains information about the various identification codes (IATA, ICAO, and FAA LID) assigned to specific airports.",
+      "context_title": "Monroe Regional Airport (Louisiana)",
+      "page_content": "Monroe Regional Airport has the FAA LID MLU. Monroe Regional Airport has the IATA code MLU. Monroe Regional Airport has the ICAO code KMLU."
+    },
+    {
+      "chunk_id": "1f1e80e2-cdd1-4f6d-b825-f0cf792555b9",
+      "chunk_title": "Airport Details",
+      "chunk_summary": "This chunk contains information about the location, ownership, public use status, and former names of specific airports.",
+      "context_title": "Charlotte–Monroe Executive Airport",
+      "page_content": "Charlotte–Monroe Executive Airport was formerly known as Monroe Regional Airport. Charlotte–Monroe Executive Airport is a public use airport. Charlotte–Monroe Executive Airport is owned by the City of Monroe. Charlotte–Monroe Executive Airport is located five nautical miles (9 km) northwest of the central business district of Monroe."
+    },
+    {
+      "chunk_id": "c27b241c-695b-458c-9e03-c25d7f4e821e",
+      "chunk_title": "Airport Identifiers & Names",
+      "chunk_summary": "This chunk contains information about airport identifiers, codes, and alternative names.",
+      "context_title": "Monroe City Regional Airport",
+      "page_content": "Monroe City Regional Airport is also known as Capt. Ben Smith Airfield. Monroe City Regional Airport has the FAA LID K52."
+    },
+    {
+      "chunk_id": "37d24676-8944-4cc1-8634-4421d1bcb280",
+      "chunk_title": "Airport Locations & Access",
+      "chunk_summary": "This chunk contains information about the locations of airports, their surrounding geographical regions, and access routes.",
+      "context_title": "Deadhorse Airport",
+      "page_content": "Deadhorse Airport is near Prudhoe Bay. Deadhorse Airport is located in Deadhorse. Deadhorse Airport can be accessed from Fairbanks via the Elliott and Dalton highways. Deadhorse is on the North Slope of Alaska."
+    },
+    {
+      "chunk_id": "f7b8a583-cfa2-4e64-ba58-a814109010d1",
+      "chunk_title": "Deadhorse Location & Access",
+      "chunk_summary": "This chunk contains information about the geographical location, administrative context, accessibility, and tourist amenities of places, particularly focusing on Deadhorse, Alaska.",
+      "context_title": "Deadhorse, Alaska",
+      "page_content": "Fairbanks is 495 miles south of Deadhorse. Deadhorse is accessible via the Dalton Highway from Fairbanks. Deadhorse is in North Slope Borough, Alaska, United States. Deadhorse is along the North Slope near the Arctic Ocean. Limited accommodations are available for tourists in Deadhorse. Deadhorse is accessible via Deadhorse Airport."
+    },
+    {
+      "chunk_id": "0b8b6db5-c994-4272-b371-35bb0200a5fe",
+      "chunk_title": "Airport Classification & Status",
+      "chunk_summary": "This chunk contains information about the classification and status of airports.",
+      "context_title": "Deadhorse Airport",
+      "page_content": "Deadhorse Airport is a public airport."
+    },
+    {
+      "chunk_id": "98b5b975-da00-4eec-b0e7-2734ef2c1be2",
+      "chunk_title": "Airport Codes & Names",
+      "chunk_summary": "This chunk contains information about airport codes, identifiers, and alternative names for specific airports.",
+      "context_title": "Deadhorse Airport",
+      "page_content": "Deadhorse Airport is sometimes also called Prudhoe Airport. Deadhorse Airport has the IATA code SCC. Deadhorse Airport has the ICAO code PASC. Deadhorse Airport has the FAA LID SCC."
+    },
+    {
+      "chunk_id": "e58af0c6-7f5a-4b6c-bfa5-d7e265af2592",
+      "chunk_title": "Public Airports",
+      "chunk_summary": "This chunk contains information about the location, classification, and usage of specific public airports.",
+      "context_title": "Dallas Executive Airport",
+      "page_content": "Dallas Executive Airport is located six miles (10 km) southwest of Downtown Dallas. Dallas Executive Airport is used for general aviation. Dallas Executive Airport is a public airport. Dallas Executive Airport is located in Dallas County, Texas. Dallas Executive Airport is a reliever airport for Dallas Love Field."
+    },
+    {
+      "chunk_id": "5b586465-def2-4f2d-8510-e5c788388bbd",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the specific geographic locations of airports, including their distance from cities and administrative regions.",
+      "context_title": "Boise Airport",
+      "page_content": "Boise Airport is located three miles south of Boise. Boise Airport is located in Ada County, Idaho, United States."
+    },
+    {
+      "chunk_id": "c40f9542-984f-49ab-8f35-23d2b56011fa",
+      "chunk_title": "Airport Overview & Administration",
+      "chunk_summary": "This chunk contains information about the geographic location, ownership history, operational administration, and strategic purpose of Henderson Executive Airport.",
+      "context_title": "Henderson Executive Airport",
+      "page_content": "Henderson Executive Airport was purchased to be used as a reliever airport for McCarran International Airport. Henderson Executive Airport is operated by the Clark County Department of Aviation. Henderson Executive Airport is located 11 NM south of the central business district of Las Vegas. Henderson Executive Airport is located in Clark County, Nevada, United States. Henderson Executive Airport is owned by Clark County. Clark County purchased Henderson Executive Airport in 1996."
+    },
+    {
+      "chunk_id": "d3e095c3-15ff-49f4-accd-633199d9531a",
+      "chunk_title": "Reno/Stead Airport Overview",
+      "chunk_summary": "This chunk contains information about the characteristics, classification, location, ownership, and military history of Reno/Stead Airport.",
+      "context_title": "Reno Stead Airport",
+      "page_content": "Reno/Stead Airport is located in Washoe County, Nevada, United States. Reno/Stead Airport is a large military general aviation airport. The sole remaining military presence at Reno/Stead Airport consists of an Army Aviation Support Facility. Reno/Stead Airport is a large public general aviation airport. The National Plan of Integrated Airport Systems for 2011–2015 categorized Reno/Stead Airport as a general aviation \"reliever airport\". The sole remaining military presence at Reno/Stead Airport consists of the 189th General Support Aviation Battalion of the Nevada Army National Guard. Reno/Stead Airport is located in the North Valleys area. Reno/Stead Airport is located 10 nautical miles (19 km) northwest of the central business district of Reno. Reno/Stead Airport was a former military installation until 1966. Reno/Stead Airport was known as Stead Air Force Base until 1966. Reno/Stead Airport is owned by the Reno Tahoe Airport Authority."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 0.5,
+  "retrieval_precision": 0.4375,
+  "retrieval_count": 2,
+  "total_chunks": 16,
+  "total_distinct_titles": 9,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两个机场所在的国家是否相同",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不直接搜索，其健康状态依赖于子节点推理链的完整性。子节点 N1_1 和 N1_2 均被判定为 healthy，且答案一致（United States）。推理链完整：Q 要求确认两机场是否在同一国家，分解为分别查询两国别，结果均为美国，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，推理链完整，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which country is Monroe Regional Airport located?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Monroe Regional Airport located?",
+          "planner_rationale": "Q 询问两个机场是否在同一国家，首先需要确定 Monroe Regional Airport 所在的国家",
+          "solver_judgment": "question 要求确定 Monroe Regional Airport 所在的国家。search_query 直接搜索了该机场所在的国家。chunks 返回了多个名为 \"Monroe\" 的机场信息，包括 Monroe City Regional Airport、Monroe Regional Airport (Louisiana) 和 Charlotte–Monroe Executive Airport（曾名为 Monroe Regional Airport）。其中，chunk 3c2b401f-a15b-4e8b-8be5-f9254bcb6075 明确指出 \"Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States.\"，直接提供了目标机场（通常指路易斯安那州门罗市的 MLU 机场）所在的国家为美国。虽然 chunk 44aea5b8-c45f-4f88-8bad-884397eff1c7 也提到了 \"United States\"，但它针对的是 \"Monroe City Regional Airport\"，名称略有不同。鉴于 \"Monroe Regional Airport\" 通常特指路易斯安那州的机场，且 chunk 3c2b401f 明确匹配该名称并给出国家，检索成功命中关键信息。",
+          "critic_factual_notes": "1 个支撑来源（Monroe Regional Airport (Louisiana)），chunk 3c2b401f 明确陈述 'Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States.'。答案 'United States' 与 chunk 内容完全匹配。虽有其他同名或近似名机场（Monroe City, Charlotte-Monroe），但 Solver 正确识别了最匹配的实体并提供了直接证据。单来源但直接具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which country is Deadhorse Airport located?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Deadhorse Airport located?",
+          "planner_rationale": "Q 询问两个机场是否在同一国家，需要确定 Deadhorse Airport 所在的国家，以便与 Monroe Regional Airport 的国家进行比较",
+          "solver_judgment": "question 要求确定 Deadhorse Airport 所在的国家。search_query 直接搜索了该机场所在的国家。chunks 中，chunk f7b8a583-cfa2-4e64-ba58-a814109010d1 明确指出 \"Deadhorse is in North Slope Borough, Alaska, United States\" 且 \"Deadhorse is accessible via Deadhorse Airport\"，从而确立了机场位于美国。chunk 37d24676-8944-4cc1-8634-4421d1bcb280 提到机场位于阿拉斯加（Alaska），但未明确国家名称，需结合常识或另一 chunk 确认，而 f7b8a583... 直接提供了 \"United States\"。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（Deadhorse, Alaska），chunk f7b8a583 明确陈述 'Deadhorse is in North Slope Borough, Alaska, United States' 且 'Deadhorse is accessible via Deadhorse Airport'。答案 'United States' 有直接文本支持。单来源但直接具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且 health=healthy，答案均为 'United States'，逻辑上已足以回答 Q（两机场确实在同一国家）。本轮保留以维持 DAG 结构完整性，等待最终答案聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不直接搜索，其健康状态依赖于子节点推理链的完整性。子节点 N1_1 和 N1_2 均被判定为 healthy，且答案一致（United States）。推理链完整：Q 要求确认两机场是否在同一国家，分解为分别查询两国别，结果均为美国，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，推理链完整，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which country is Monroe Regional Airport located?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Monroe Regional Airport located?",
+          "planner_rationale": "事实已确立：Monroe Regional Airport 位于美国。Critic 判为 healthy，证据直接明确（chunk 3c2b401f），无需重搜。",
+          "solver_judgment": "question 要求确定 Monroe Regional Airport 所在的国家。search_query 直接搜索了该机场所在的国家。chunks 返回了多个名为 \"Monroe\" 的机场信息，包括 Monroe City Regional Airport、Monroe Regional Airport (Louisiana) 和 Charlotte–Monroe Executive Airport（曾名为 Monroe Regional Airport）。其中，chunk 3c2b401f-a15b-4e8b-8be5-f9254bcb6075 明确指出 \"Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States.\"，直接提供了目标机场（通常指路易斯安那州门罗市的 MLU 机场）所在的国家为美国。虽然 chunk 44aea5b8-c45f-4f88-8bad-884397eff1c7 也提到了 \"United States\"，但它针对的是 \"Monroe City Regional Airport\"，名称略有不同。鉴于 \"Monroe Regional Airport\" 通常特指路易斯安那州的机场，且 chunk 3c2b401f 明确匹配该名称并给出国家，检索成功命中关键信息。",
+          "critic_factual_notes": "1 个支撑来源（Monroe Regional Airport (Louisiana)），chunk 3c2b401f 明确陈述 'Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States.'。答案 'United States' 与 chunk 内容完全匹配。虽有其他同名或近似名机场（Monroe City, Charlotte-Monroe），但 Solver 正确识别了最匹配的实体并提供了直接证据。单来源但直接具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which country is Deadhorse Airport located?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Deadhorse Airport located?",
+          "planner_rationale": "事实已确立：Deadhorse Airport 位于美国。Critic 判为 healthy，证据直接明确（chunk f7b8a583），无需重搜。",
+          "solver_judgment": "question 要求确定 Deadhorse Airport 所在的国家。search_query 直接搜索了该机场所在的国家。chunks 中，chunk f7b8a583-cfa2-4e64-ba58-a814109010d1 明确指出 \"Deadhorse is in North Slope Borough, Alaska, United States\" 且 \"Deadhorse is accessible via Deadhorse Airport\"，从而确立了机场位于美国。chunk 37d24676-8944-4cc1-8634-4421d1bcb280 提到机场位于阿拉斯加（Alaska），但未明确国家名称，需结合常识或另一 chunk 确认，而 f7b8a583... 直接提供了 \"United States\"。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（Deadhorse, Alaska），chunk f7b8a583 明确陈述 'Deadhorse is in North Slope Borough, Alaska, United States' 且 'Deadhorse is accessible via Deadhorse Airport'。答案 'United States' 有直接文本支持。单来源但直接具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Monroe Regional Airport and Deadhorse Airport are both in this country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且 health=healthy，答案均为 'United States'，逻辑上已足以回答 Q（两机场确实在同一国家）。本轮保留以维持 DAG 结构完整性，等待最终答案聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不直接搜索。其健康状态依赖于子节点推理链的完整性。子节点 N1_1 和 N1_2 均被判定为 healthy，且答案一致（United States）。推理链完整：Q 要求确认两机场是否在同一国家，分解为分别查询两国别，结果均为美国，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，推理链完整，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which country is Monroe Regional Airport located?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Monroe Regional Airport located?",
+          "planner_rationale": "事实已确立：Monroe Regional Airport 位于美国。Critic 判为 healthy，证据直接明确（chunk 3c2b401f），无需重搜。",
+          "solver_judgment": "question 要求确定 Monroe Regional Airport 所在的国家。search_query 直接搜索了该机场所在的国家。chunks 返回了多个名为 \"Monroe\" 的机场信息，包括 Monroe City Regional Airport、Monroe Regional Airport (Louisiana) 和 Charlotte–Monroe Executive Airport（曾名为 Monroe Regional Airport）。其中，chunk 3c2b401f-a15b-4e8b-8be5-f9254bcb6075 明确指出 \"Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States.\"，直接提供了目标机场（通常指路易斯安那州门罗市的 MLU 机场）所在的国家为美国。虽然 chunk 44aea5b8-c45f-4f88-8bad-884397eff1c7 也提到了 \"United States\"，但它针对的是 \"Monroe City Regional Airport\"，名称略有不同。鉴于 \"Monroe Regional Airport\" 通常特指路易斯安那州的机场，且 chunk 3c2b401f 明确匹配该名称并给出国家，检索成功命中关键信息。",
+          "critic_factual_notes": "1 个支撑来源（Monroe Regional Airport (Louisiana)），chunk 3c2b401f 明确陈述 'Monroe Regional Airport is located in Ouachita Parish, Louisiana, United States.'。答案 'United States' 与 chunk 内容完全匹配。虽有其他同名或近似名机场（Monroe City, Charlotte-Monroe），但 Solver 正确识别了最匹配的实体并提供了直接证据。单来源但直接具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which country is Deadhorse Airport located?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Deadhorse Airport located?",
+          "planner_rationale": "事实已确立：Deadhorse Airport 位于美国。Critic 判为 healthy，证据直接明确（chunk f7b8a583），无需重搜。",
+          "solver_judgment": "question 要求确定 Deadhorse Airport 所在的国家。search_query 直接搜索了该机场所在的国家。chunks 中，chunk f7b8a583-cfa2-4e64-ba58-a814109010d1 明确指出 \"Deadhorse is in North Slope Borough, Alaska, United States\" 且 \"Deadhorse is accessible via Deadhorse Airport\"，从而确立了机场位于美国。chunk 37d24676-8944-4cc1-8634-4421d1bcb280 提到机场位于阿拉斯加（Alaska），但未明确国家名称，需结合常识或另一 chunk 确认，而 f7b8a583... 直接提供了 \"United States\"。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（Deadhorse, Alaska），chunk f7b8a583 明确陈述 'Deadhorse is in North Slope Borough, Alaska, United States' 且 'Deadhorse is accessible via Deadhorse Airport'。答案 'United States' 有直接文本支持。单来源但直接具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "In which country is Monroe Regional Airport located?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "44aea5b8-c45f-4f88-8bad-884397eff1c7",
+        "4efaff3a-44b1-43b0-aa5c-e792c2cd45d4",
+        "f3108e6d-cf54-497d-8571-ce2f928f784b",
+        "3c2b401f-a15b-4e8b-8be5-f9254bcb6075",
+        "611affd7-2409-4aab-b31e-c73854f06f5e",
+        "97864e69-98ba-4eb2-a569-83a60ac156d7",
+        "1f1e80e2-cdd1-4f6d-b825-f0cf792555b9",
+        "c27b241c-695b-458c-9e03-c25d7f4e821e"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "In which country is Deadhorse Airport located?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "37d24676-8944-4cc1-8634-4421d1bcb280",
+        "f7b8a583-cfa2-4e64-ba58-a814109010d1",
+        "0b8b6db5-c994-4272-b371-35bb0200a5fe",
+        "98b5b975-da00-4eec-b0e7-2734ef2c1be2",
+        "e58af0c6-7f5a-4b6c-bfa5-d7e265af2592",
+        "5b586465-def2-4f2d-8510-e5c788388bbd",
+        "c40f9542-984f-49ab-8f35-23d2b56011fa",
+        "d3e095c3-15ff-49f4-accd-633199d9531a"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: In which country is Monroe Regional Airport located?（理由：确定第一个机场的所属国家），F2: In which country is Deadhorse Airport located?（理由：确定第二个机场的所属国家）。关系: F1 和 F2 都是 Q 的直接分解产物（decomposition），通过比较 F1 和 F2 的答案即可回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将复合问题分解为两个独立的子事实查询，分别获取两个机场的国家信息。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，子节点答案均为 United States，逻辑一致）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 首轮无拓扑震荡。置信度高，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Monroe Regional Airport 所在的国家（已确立为 United States），F2: Deadhorse Airport 所在的国家（已确立为 United States）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。由于 F1 和 F2 答案一致，Q 的核心询问“是否在同一国家”已得到肯定回答。当前 DAG 结构完整，无缺失节点或边。",
+      "hypothesis_delta": "本轮无结构调整。所有节点（N0, N1_1, N1_2）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2）均通过 LINK 显式声明保留。原因：Critic 确认所有子节点证据充分、健康状态良好，且答案一致，推理链完整。上一轮的结构假设（并行分解为两个独立子事实）被完全验证，无需新增、删除或修改任何节点/边。修正说明：上一轮输出遗漏了显式声明保留现有边的 LINK 原语，本轮已补全。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，答案聚合可回答 Q）；③ 所有节点（含 ROOT）health 均为 healthy；④ 拓扑连续两轮无变化。置信度高，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Monroe Regional Airport 所在的国家（已确立为 United States），F2: Deadhorse Airport 所在的国家（已确立为 United States）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。由于 F1 和 F2 答案一致，Q 的核心询问“是否在同一国家”已得到肯定回答。当前 DAG 结构完整，无缺失节点或边。",
+      "hypothesis_delta": "本轮无结构调整。所有节点（N0, N1_1, N1_2）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2）均通过 LINK 显式声明保留。原因：Critic 确认所有子节点证据充分、健康状态良好，且答案一致，推理链完整。上一轮的结构假设（并行分解为两个独立子事实）被完全验证，无需新增、删除或修改任何节点/边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，两者答案一致支持 Q）；③ 所有节点（含 ROOT）health 均为 healthy；④ 拓扑连续稳定。置信度高，可生成最终答案。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "question_index": 402,
+  "question_id": "5ae075455542993d6555eb59",
+  "question": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+  "answer": "yes",
+  "prediction": "yes",
+  "error": null,
+  "latency_ms": 105535.17650003778,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T22:00:15.282065+00:00",
+  "chunks": [
+    {
+      "chunk_id": "a005c2e8-48dc-49ab-a653-1a17a771309d",
+      "chunk_title": "111 Murray Street Overview",
+      "chunk_summary": "This chunk contains information about the residential skyscraper 111 Murray Street, including its location, construction status, former names, and developers.",
+      "context_title": "111 Murray Street",
+      "page_content": "111 Murray Street is a residential skyscraper. 111 Murray Street was formerly known as 101 Murray Street. 111 Murray Street is located in Tribeca, Manhattan, New York City. 111 Murray Street is developed by Witkoff Group. 111 Murray Street was formerly known as 101 Tribeca. 111 Murray Street is under construction. 111 Murray Street is developed by Fisher Brothers."
+    },
+    {
+      "chunk_id": "e9066b39-b890-445f-9927-61edf7e33c87",
+      "chunk_title": "Murray Street Historic District",
+      "chunk_summary": "This chunk contains information about the Murray Street Historic District, including its location, status, and details about its contributing residential buildings, outbuildings, and objects.",
+      "context_title": "Murray Street Historic District",
+      "page_content": "The 16 contributing primary buildings in the Murray Street Historic District are all residences. The Murray Street Historic District includes three contributing objects. The three contributing objects in the Murray Street Historic District are a carriage step, a hitching post, and early 20th century street lights. Murray Street Historic District is a national historic district. The Murray Street Historic District includes 16 contributing primary buildings. Murray Street Historic District is located at Mount Morris. The Murray Street Historic District includes six contributing outbuildings. The Murray Street Historic District consists of 16 properties on Murray Street. The six contributing outbuildings in the Murray Street Historic District are carriage houses and garages."
+    },
+    {
+      "chunk_id": "d701c046-70c4-4794-9acf-8c9d1b55e96b",
+      "chunk_title": "Carnegie Hall Location",
+      "chunk_summary": "This chunk contains information about the identity and specific geographic location of Carnegie Hall.",
+      "context_title": "Carnegie Hall",
+      "page_content": "Carnegie Hall is located in Midtown Manhattan. Carnegie Hall occupies the area between West 56th Street and West 57th Street. Carnegie Hall is two blocks south of Central Park. Carnegie Hall is located at 881 Seventh Avenue. Carnegie Hall occupies the east side of Seventh Avenue. Carnegie Hall is a concert venue."
+    },
+    {
+      "chunk_id": "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+      "chunk_title": "Geographic Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations and hierarchical contexts of specific buildings or landmarks.",
+      "context_title": "220 Central Park South",
+      "page_content": "New York City is located in the U.S. state of New York. 220 Central Park South is located in Midtown Manhattan. Midtown Manhattan is located in New York City."
+    },
+    {
+      "chunk_id": "380adce4-6f66-4e43-9cb9-3455330af5c3",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of places, including their county, state, and specific street boundaries.",
+      "context_title": "Murray Street Historic District",
+      "page_content": "Mount Morris is in Livingston County, New York. The 16 properties on Murray Street are between Eagle Street and Stanley Street."
+    },
+    {
+      "chunk_id": "a9e121bc-997c-412c-bfd3-3a8ea6a37758",
+      "chunk_title": "Building Locations",
+      "chunk_summary": "This chunk contains information about the specific street addresses, corner locations, and neighborhood areas of the Transportation Building.",
+      "context_title": "Transportation Building",
+      "page_content": "The Transportation Building is located in New York City. The Transportation Building is located at 225 Broadway. The Transportation Building is located in the Civic Center neighborhood. The Transportation Building sits across Barclay Street from the Woolworth Building. The Transportation Building carries the address 2-4 Barclay Street. The Transportation Building is located on the corner of Barclay Street. The Transportation Building is located in Lower Manhattan."
+    },
+    {
+      "chunk_id": "47e7cd84-bc71-4eab-b786-a22669c41497",
+      "chunk_title": "90 West Street Building",
+      "chunk_summary": "This chunk contains information about the 90 West Street building in New York City, including its architects, completion date, Gothic architectural style, original purpose, and historical significance.",
+      "context_title": "90 West Street",
+      "page_content": "The main tenant of 90 West Street was the Delaware, Lackawanna and Western Railroad. 90 West Street was completed in 1907. The Gothic styling and ornamentation of 90 West Street foreshadowed Cass Gilbert's later work on the Woolworth Building. 90 West Street was originally built as an office building. 90 West Street was designed by architect Cass Gilbert. 90 West Street was designed by structural engineer Gunvald Aus. 90 West Street was designed for the West Street Improvement Corporation. 90 West Street features Gothic styling and ornamentation. 90 West Street is a building in Lower Manhattan, New York City. The top floor of 90 West Street was occupied by Garret's Restaurant. The Gothic styling and ornamentation of 90 West Street served to emphasize its 23-story height."
+    },
+    {
+      "chunk_id": "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b",
+      "chunk_title": "Building Locations",
+      "chunk_summary": "This chunk contains information about the locations of specific buildings.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building is located at 233 Broadway, Manhattan, New York City."
+    },
+    {
+      "chunk_id": "aa7c473f-b8af-401d-8bbb-a08f020c3dd3",
+      "chunk_title": "Locations & Addresses",
+      "chunk_summary": "This chunk contains information about the geographical location and address of specific places, including details on their position relative to streets and neighborhoods.",
+      "context_title": "Park Lane Hotel (Manhattan)",
+      "page_content": "36 Central Park South is between Fifth and Sixth Avenues. 36 Central Park South is in Midtown Manhattan."
+    },
+    {
+      "chunk_id": "9057f002-7270-4536-9239-267bcde82c8e",
+      "chunk_title": "Building Projects",
+      "chunk_summary": "This chunk contains information about the construction status, developers, and architects of specific building projects.",
+      "context_title": "220 Central Park South",
+      "page_content": "220 Central Park South is being designed by Robert A.M. Stern Architects. 220 Central Park South is being developed by Vornado Realty Trust. 220 Central Park South is currently under construction."
+    },
+    {
+      "chunk_id": "8a6790e7-24e4-4cc9-88c3-facdc42f0f07",
+      "chunk_title": "Residential Skyscrapers",
+      "chunk_summary": "This chunk contains information about residential skyscrapers and their characteristics.",
+      "context_title": "220 Central Park South",
+      "page_content": "220 Central Park South is a residential skyscraper."
+    },
+    {
+      "chunk_id": "a1348da3-04b5-4f9e-9e9d-c9888c47af28",
+      "chunk_title": "Locations & Landmarks",
+      "chunk_summary": "This chunk contains information about the specific location, street address, and immediate surroundings of 200 Central Park South in New York City, including its proximity to Central Park and the Merchant's Gate entrance.",
+      "context_title": "200 Central Park South",
+      "page_content": "200 Central Park South is across from a major pedestrian and vehicle entrance into Central Park. 200 Central Park South is on the south side of Central Park in New York City. The major pedestrian and vehicle entrance into Central Park across from 200 Central Park South is known as the \"Merchant's Gate\". 200 Central Park South is at the corner of 7th Avenue and Central Park South (59th Street)."
+    },
+    {
+      "chunk_id": "76184eea-46b0-4a46-97b2-5106d6601ed5",
+      "chunk_title": "Hotel Locations",
+      "chunk_summary": "This chunk contains information about the specific locations of hotels or buildings, including their street addresses and proximity to landmarks.",
+      "context_title": "JW Marriott Essex House",
+      "page_content": "The JW Marriott Essex House is located at 160 Central Park South in Manhattan. The JW Marriott Essex House is located across the street from the southern border of Central Park."
+    },
+    {
+      "chunk_id": "274b91dd-3058-4d09-a97b-38ed8a6f7dc8",
+      "chunk_title": "Building Services & Amenities",
+      "chunk_summary": "This chunk contains information about the service level and amenities of specific buildings.",
+      "context_title": "200 Central Park South",
+      "page_content": "200 Central Park South is a full service building."
+    },
+    {
+      "chunk_id": "612c6715-3c8e-43fb-a96e-08e37151b968",
+      "chunk_title": "Real Estate Developers",
+      "chunk_summary": "This chunk contains information about real estate developments and the builders associated with them.",
+      "context_title": "200 Central Park South",
+      "page_content": "Melvin Lipman built 200 Central Park South. Bernard Spitzer built 200 Central Park South."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.26666666666666666,
+  "retrieval_count": 2,
+  "total_chunks": 15,
+  "total_distinct_titles": 10,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两个地址是否均位于曼哈顿",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不直接搜索，其健康状态依赖于子节点推理链的完整性。子节点 N1_1 和 N1_2 均已 SOLVED 且证据充分（见下方审查）。两个子节点的答案均为 'Yes'，逻辑聚合后支持 N0 的最终答案为 'Yes'。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，推理链完整，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Is 111 Murray Street located in Manhattan?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is 111 Murray Street located in Manhattan?",
+          "planner_rationale": "Q 询问两个地址是否都位于曼哈顿，需要分别确认每个地址的位置。这是第一个子事实。",
+          "solver_judgment": "question 要求确认 111 Murray Street 是否位于曼哈顿。search_query 直接搜索了该问题。chunks 中的 a005c2e8-48dc-49ab-a653-1a17a771309d 明确记载 \"111 Murray Street is located in Tribeca, Manhattan, New York City\"，直接证实了其位于曼哈顿。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 '111 Murray Street'）。Chunk a005c2e8-48dc-49ab-a653-1a17a771309d 明确陈述：'111 Murray Street is located in Tribeca, Manhattan, New York City'。答案 'Yes' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is 220 Central Park South located in Manhattan?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is 220 Central Park South located in Manhattan?",
+          "planner_rationale": "Q 询问两个地址是否都位于曼哈顿，需要分别确认每个地址的位置。这是第二个子事实。",
+          "solver_judgment": "question 要求确认 220 Central Park South 是否位于曼哈顿。search_query 直接搜索了该问题。chunks 返回了关于 220 Central Park South 的地理信息，其中 chunk f113cdc1-4b6c-4ecd-a3db-b0d8609ed729 明确记载 \"220 Central Park South is located in Midtown Manhattan\"。由于 Midtown Manhattan 是 Manhattan 的一部分，这直接证实了该建筑位于曼哈顿。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 '220 Central Park South'）。Chunk f113cdc1-4b6c-4ecd-a3db-b0d8609ed729 明确陈述：'220 Central Park South is located in Midtown Manhattan'。已知 Midtown Manhattan 是 Manhattan 的一部分，因此答案 'Yes' 成立。虽为单来源，但表述直接，逻辑推导简单且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且证据充分（answer=Yes），逻辑聚合后支持最终答案为 'Yes'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不直接搜索。其健康状态依赖于子节点推理链的完整性。子节点 N1_1 和 N1_2 均已 SOLVED 且证据充分（见下方审查）。两个子节点的答案均为 'Yes'，逻辑聚合后支持 N0 的最终答案为 'Yes'。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，推理链完整，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Is 111 Murray Street located in Manhattan?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is 111 Murray Street located in Manhattan?",
+          "planner_rationale": "已确立事实：111 Murray Street 位于曼哈顿（Tribeca）。Critic 判为 healthy，证据直接且充分，无需重搜。",
+          "solver_judgment": "question 要求确认 111 Murray Street 是否位于曼哈顿。search_query 直接搜索了该问题。chunks 中的 a005c2e8-48dc-49ab-a653-1a17a771309d 明确记载 \"111 Murray Street is located in Tribeca, Manhattan, New York City\"，直接证实了其位于曼哈顿。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 '111 Murray Street'）。Chunk a005c2e8-48dc-49ab-a653-1a17a771309d 明确陈述：'111 Murray Street is located in Tribeca, Manhattan, New York City'。答案 'Yes' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is 220 Central Park South located in Manhattan?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is 220 Central Park South located in Manhattan?",
+          "planner_rationale": "已确立事实：220 Central Park South 位于曼哈顿（Midtown Manhattan）。Critic 判为 healthy，证据直接且充分，无需重搜。",
+          "solver_judgment": "question 要求确认 220 Central Park South 是否位于曼哈顿。search_query 直接搜索了该问题。chunks 返回了关于 220 Central Park South 的地理信息，其中 chunk f113cdc1-4b6c-4ecd-a3db-b0d8609ed729 明确记载 \"220 Central Park South is located in Midtown Manhattan\"。由于 Midtown Manhattan 是 Manhattan 的一部分，这直接证实了该建筑位于曼哈顿。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 '220 Central Park South'）。Chunk f113cdc1-4b6c-4ecd-a3db-b0d8609ed729 明确陈述：'220 Central Park South is located in Midtown Manhattan'。已知 Midtown Manhattan 是 Manhattan 的一部分，因此答案 'Yes' 成立。虽为单来源，但表述直接，逻辑推导简单且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且证据充分（answer=Yes），逻辑聚合后支持最终答案为 'Yes'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不直接搜索。其健康状态依赖于子节点推理链的完整性。子节点 N1_1 和 N1_2 均已 SOLVED 且证据充分（见下方审查）。两个子节点的答案均为 'Yes'，逻辑聚合后支持 N0 的最终答案为 'Yes'。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，推理链完整，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Is 111 Murray Street located in Manhattan?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is 111 Murray Street located in Manhattan?",
+          "planner_rationale": "已确立事实：111 Murray Street 位于曼哈顿（Tribeca）。Critic 判为 healthy，证据直接且充分，无需重搜。",
+          "solver_judgment": "question 要求确认 111 Murray Street 是否位于曼哈顿。search_query 直接搜索了该问题。chunks 中的 a005c2e8-48dc-49ab-a653-1a17a771309d 明确记载 \"111 Murray Street is located in Tribeca, Manhattan, New York City\"，直接证实了其位于曼哈顿。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 '111 Murray Street'）。Chunk a005c2e8-48dc-49ab-a653-1a17a771309d 明确陈述：'111 Murray Street is located in Tribeca, Manhattan, New York City'。答案 'Yes' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is 220 Central Park South located in Manhattan?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is 220 Central Park South located in Manhattan?",
+          "planner_rationale": "已确立事实：220 Central Park South 位于曼哈顿（Midtown Manhattan）。Critic 判为 healthy，证据直接且充分，无需重搜。",
+          "solver_judgment": "question 要求确认 220 Central Park South 是否位于曼哈顿。search_query 直接搜索了该问题。chunks 返回了关于 220 Central Park South 的地理信息，其中 chunk f113cdc1-4b6c-4ecd-a3db-b0d8609ed729 明确记载 \"220 Central Park South is located in Midtown Manhattan\"。由于 Midtown Manhattan 是 Manhattan 的一部分，这直接证实了该建筑位于曼哈顿。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 '220 Central Park South'）。Chunk f113cdc1-4b6c-4ecd-a3db-b0d8609ed729 明确陈述：'220 Central Park South is located in Midtown Manhattan'。已知 Midtown Manhattan 是 Manhattan 的一部分，因此答案 'Yes' 成立。虽为单来源，但表述直接，逻辑推导简单且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Is 111 Murray Street located in Manhattan?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "a005c2e8-48dc-49ab-a653-1a17a771309d",
+        "e9066b39-b890-445f-9927-61edf7e33c87",
+        "d701c046-70c4-4794-9acf-8c9d1b55e96b",
+        "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+        "380adce4-6f66-4e43-9cb9-3455330af5c3",
+        "a9e121bc-997c-412c-bfd3-3a8ea6a37758",
+        "47e7cd84-bc71-4eab-b786-a22669c41497",
+        "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Is 220 Central Park South located in Manhattan?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+        "aa7c473f-b8af-401d-8bbb-a08f020c3dd3",
+        "9057f002-7270-4536-9239-267bcde82c8e",
+        "8a6790e7-24e4-4cc9-88c3-facdc42f0f07",
+        "a1348da3-04b5-4f9e-9e9d-c9888c47af28",
+        "76184eea-46b0-4a46-97b2-5106d6601ed5",
+        "274b91dd-3058-4d09-a97b-38ed8a6f7dc8",
+        "612c6715-3c8e-43fb-a96e-08e37151b968"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Is 111 Murray Street located in Manhattan?（理由：Q 的核心是判断两个地点是否都在曼哈顿，需先确认第一个地点的位置），F2: Is 220 Central Park South located in Manhattan?（理由：需确认第二个地点的位置）。关系: F1 和 F2 都是 Q (N0) 的分解产物（decomposition），因为 Q 的真值取决于 F1 和 F2 是否同时为真。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将复合问题拆解为两个独立的原子事实查询，分别验证两个地址的行政区划归属。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（分解关系有效，子节点答案聚合可支撑 ROOT）；③ 所有节点（含 ROOT）审查结果为 healthy；④ 首轮无拓扑变化冲突。DAG 结构合理，证据充分，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Is 111 Murray Street located in Manhattan?（理由：Q 的核心是判断两个地点是否都在曼哈顿，需先确认第一个地点的位置），F2: Is 220 Central Park South located in Manhattan?（理由：需确认第二个地点的位置）。关系: F1 和 F2 都是 Q (N0) 的分解产物（decomposition），因为 Q 的真值取决于 F1 和 F2 是否同时为真。当前 DAG 已完整覆盖此结构，且所有子事实均已确认为 'Yes'。",
+      "hypothesis_delta": "本轮无结构调整。上一轮假设的结构（N0 分解为 N1_1 和 N1_2）已被验证为正确且完整。两个子节点均 SOLVED + healthy，Critic 建议 INHERIT。因此，本轮保留所有节点和边，不做任何增删或修改。修正：显式声明保留两条 decomposition 边（N0→N1_1, N0→N1_2）以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，依赖有效）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续稳定。答案置信度高，可终止探索并生成最终答案 'Yes'。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Is 111 Murray Street located in Manhattan?（理由：Q 的核心是判断两个地点是否都在曼哈顿，需先确认第一个地点的位置），F2: Is 220 Central Park South located in Manhattan?（理由：需确认第二个地点的位置）。关系: F1 和 F2 都是 Q (N0) 的分解产物（decomposition），因为 Q 的真值取决于 F1 和 F2 是否同时为真。当前 DAG 已完整覆盖此结构，且所有子事实均已确认为 'Yes'。",
+      "hypothesis_delta": "本轮无结构调整。上一轮假设的结构（N0 分解为 N1_1 和 N1_2）已被验证为正确且完整。两个子节点均 SOLVED + healthy，Critic 建议 INHERIT。因此，本轮保留所有节点和边，不做任何增删或修改。显式声明保留两条 decomposition 边（N0→N1_1, N0→N1_2）以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，依赖有效）；③ 全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④ 拓扑连续稳定。置信度高，可生成最终答案 'Yes'。"
+      }
+    }
+  ]
+}

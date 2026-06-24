@@ -174,7 +174,7 @@ def inject_custom_css():
         padding: 0;
     }
 
-    /* ===== Round Cards (Agentic RAG timeline) ===== */
+    /* ===== Round Cards (DAG workflow timeline) ===== */
     .round-card {
         border-left: 4px solid var(--round-color, #6b7280);
         padding: 14px 18px;
@@ -213,7 +213,7 @@ def inject_custom_css():
         flex-shrink: 0;
     }
 
-    /* ===== Status Badges (Agentic RAG) ===== */
+    /* ===== Status Badges (RAG workflow) ===== */
     .status-badge {
         display: inline-block;
         padding: 3px 12px;

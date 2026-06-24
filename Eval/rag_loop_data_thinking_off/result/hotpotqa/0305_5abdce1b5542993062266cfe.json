@@ -1,0 +1,490 @@
+{
+  "question_index": 305,
+  "question_id": "5abdce1b5542993062266cfe",
+  "question": "What Minnesota county is the University of Minnesota in?",
+  "answer": "Hennepin County",
+  "prediction": "Hennepin County",
+  "error": null,
+  "latency_ms": 145435.81469997298,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T20:39:44.954372+00:00",
+  "chunks": [
+    {
+      "chunk_id": "4d9f1bec-4a5d-4c88-abf5-56f97465926f",
+      "chunk_title": "Geographic Locations",
+      "chunk_summary": "This chunk contains information about the hierarchical geographic locations of specific places, detailing their relationships to campuses, districts, and states.",
+      "context_title": "Edvard Grieg (sculpture)",
+      "page_content": "Grieg Garden is on the University of Washington campus. Seattle's University District is in the U.S. state of Washington. The University of Washington campus is in Seattle's University District."
+    },
+    {
+      "chunk_id": "71020347-f416-4022-882f-db30660c202c",
+      "chunk_title": "Locations & Movements",
+      "chunk_summary": "This chunk contains information about the geographical locations of cities, towns, institutions, and individual movements between them.",
+      "context_title": "Sydney Anderson",
+      "page_content": "Sydney Anderson moved to Kansas City, Missouri. Highland Park College is located in Des Moines, Iowa. Zumbrota is located in Goodhue County, Minnesota. Sydney Anderson moved from Kansas City, Missouri to Lanesboro, Minnesota. The University of Minnesota is located in Minneapolis."
+    },
+    {
+      "chunk_id": "e9348fc2-b5d4-4bb4-bfe2-9752e6dc0932",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of universities.",
+      "context_title": "Iraj Bashiri",
+      "page_content": "The University of Minnesota is located in the United States."
+    },
+    {
+      "chunk_id": "7bb6cdf6-d37b-4ed9-9b6f-5394165f37f6",
+      "chunk_title": "City Population Rankings",
+      "chunk_summary": "This chunk contains information about the population size and rankings of specific cities within their states and nationally, including relevant dates.",
+      "context_title": "Minneapolis",
+      "page_content": "As of 2016, Minneapolis is the largest city in the state of Minnesota. As of 2016, Minneapolis has an estimated population of 413,651. As of 2016, Minneapolis is the 46th-largest city in the United States."
+    },
+    {
+      "chunk_id": "907957d0-9549-4506-ad7f-d514afa85da9",
+      "chunk_title": "Buildings & Locations",
+      "chunk_summary": "This chunk contains information about specific buildings, including their locations, construction timelines, designers, and visual characteristics.",
+      "context_title": "Waste House",
+      "page_content": "Waste House was designed by Duncan Baker-Brown. Waste House is a building. From a distance, Waste House resembles an ordinary contemporary town house. Waste House is on the University of Brighton campus. Waste House was built between 2012 and 2014. The University of Brighton campus is in the centre of Brighton."
+    },
+    {
+      "chunk_id": "be392d02-6cbd-4ea6-ad3d-6210198b6098",
+      "chunk_title": "Institutional Locations & Affiliations",
+      "chunk_summary": "This chunk contains information about the locations and affiliations of educational and research institutions.",
+      "context_title": "Michael Osterholm",
+      "page_content": "The Center for Infectious Disease Research and Policy (CIDRAP) is at the University of Minnesota. Luther College is in Decorah, Iowa."
+    },
+    {
+      "chunk_id": "0f5937d3-b2fe-4296-ae5e-b91fb8ba721a",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about the classification, type, and location of educational institutions, including specific details about Pullman High School and its relation to Washington State University.",
+      "context_title": "Pullman High School",
+      "page_content": "Pullman High School is in the city of Pullman, Washington. The city of Pullman, Washington is the home of Washington State University. Pullman High School is a public secondary school."
+    },
+    {
+      "chunk_id": "1a8f2a97-5adc-417d-8ae1-ca24c5b21f18",
+      "chunk_title": "Distinguished Guest Speakers",
+      "chunk_summary": "This chunk contains information about distinguished guest speakers, including government officials, international organization representatives, and academics, invited to events at City University.",
+      "context_title": "City University, Malaysia",
+      "page_content": "Past speakers at City University include the Australian High Commissioner to Malaysia. Past speakers at City University include professors from overseas universities. City University regularly invites distinguished persons to speak on its campus. Past speakers at City University include the Indian High Commissioner to Malaysia. Past speakers at City University include the Deputy Minister for Ministry of Higher Education of Malaysia. Past speakers at City University include the Secretary-General of World Youth Organisation International."
+    },
+    {
+      "chunk_id": "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+      "chunk_title": "City Administration",
+      "chunk_summary": "This chunk contains information about the administrative roles and locations of cities within counties.",
+      "context_title": "Minneapolis",
+      "page_content": "Minneapolis is the county seat of Hennepin County."
+    },
+    {
+      "chunk_id": "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+      "chunk_title": "City Classification & Location",
+      "chunk_summary": "This chunk contains information about the classification and geographic location of cities, specifically identifying Minnetonka as a suburban city in Hennepin County, Minnesota, including its relative position to Minneapolis.",
+      "context_title": "Minnetonka, Minnesota",
+      "page_content": "Minnetonka is in Hennepin County. Minnetonka is 13 km west of Minneapolis. Minnetonka is eight miles west of Minneapolis. Hennepin County is in Minnesota. Minnetonka is a suburban city. Minnesota is in the United States."
+    },
+    {
+      "chunk_id": "58b853cb-1aa4-465c-adbf-e14e0943249a",
+      "chunk_title": "Twin Cities Metro Stats",
+      "chunk_summary": "This chunk contains information about the size, population, ranking, and economic significance of the Twin Cities metropolitan area within the United States and the Midwest.",
+      "context_title": "Minneapolis",
+      "page_content": "The Twin Cities are the 16th-largest metropolitan area in the United States. The Twin Cities metropolitan area has about 3.5 million people. Minneapolis and Saint Paul anchor the second-largest economic center in the Midwest. Chicago anchors the largest economic center in the Midwest. The Twin Cities metropolitan area is the third largest in the Midwest. Minneapolis is the larger of the Twin Cities."
+    },
+    {
+      "chunk_id": "5a1f1614-6fbb-410a-82d9-a4356cffe114",
+      "chunk_title": "Relocation History & Dates",
+      "chunk_summary": "This chunk contains information about the relocation history and dates of individuals.",
+      "context_title": "Franklin Ellsworth",
+      "page_content": "Franklin Fowler Ellsworth moved to Minneapolis, Minnesota, in 1921."
+    },
+    {
+      "chunk_id": "2aad44ee-a4a7-4df4-9f5d-98a1f0f13f48",
+      "chunk_title": "Legal Practitioner Qualifications",
+      "chunk_summary": "This chunk contains information about the professional qualifications, admission dates, and practice locations of legal practitioners.",
+      "context_title": "George Ross Smith",
+      "page_content": "George Ross Smith resumed the practice of law. George Ross Smith was admitted to the bar in 1893. George Ross Smith commenced practice of law in Minneapolis."
+    },
+    {
+      "chunk_id": "a3a8ed04-1734-4070-9bf4-78a651ea0813",
+      "chunk_title": "Abraham M. Radcliffe Biography",
+      "chunk_summary": "This chunk contains biographical and professional information about architect Abraham M. Radcliffe, including his life dates, locations of practice, specific building designs, and historical influence; add further details regarding his life, architectural works, or historical context here.",
+      "context_title": "Abraham M. Radcliffe",
+      "page_content": "Abraham M. Radcliffe was born in New York City. Abraham M. Radcliffe was born in 1827. Abraham M. Radcliffe opened a St. Paul office in 1858. Abraham M. Radcliffe was an architect. Abraham M. Radcliffe designed early commercial buildings in Minneapolis. Abraham M. Radcliffe inspired the architectural career of Cass Gilbert. Abraham M. Radcliffe designed early commercial buildings in St. Paul. Abraham M. Radcliffe died in 1886. Abraham M. Radcliffe opened a Minneapolis office in 1857. Abraham M. Radcliffe closed his Minneapolis office in 1868. Abraham M. Radcliffe designed the Dakota County Courthouse."
+    },
+    {
+      "chunk_id": "a42fefe9-380f-4972-822c-adf615e2beff",
+      "chunk_title": "Legal Career Timeline",
+      "chunk_summary": "This chunk contains information about the timeline and location of Sydney Anderson's legal career.",
+      "context_title": "Sydney Anderson",
+      "page_content": "Sydney Anderson commenced the practice of law in Minneapolis, Minnesota. Sydney Anderson continued the practice of law from 1904 to 1911."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 0.5,
+  "retrieval_precision": 0.3333333333333333,
+  "retrieval_count": 2,
+  "total_chunks": 15,
+  "total_distinct_titles": 12,
+  "search_depth": 4,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 4,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "What Minnesota county is the University of Minnesota in?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What Minnesota county is the University of Minnesota in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立明尼苏达大学所在的县",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_1 提供了 'Minneapolis' 作为主要位置，但 Q 询问的是 'county'（县）。从 'Minneapolis' 到 'county' 的推理步骤缺失，当前 DAG 中无节点提供 'Minneapolis 所在的县' 这一事实。因此 ROOT 的证据链不完整。",
+          "critic_normative_advice": "建议新增节点——当前分解仅停留在城市层面，未覆盖 Q 的核心语义 'county'。需新增节点查询 'What county is Minneapolis in?' 或 'What county is the University of Minnesota campus in?'，并将结果聚合至 ROOT。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the primary location (city/campus) of the University of Minnesota?",
+          "answer": "Minneapolis",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the primary location (city/campus) of the University of Minnesota?",
+          "planner_rationale": "确定大学的具体校区或主要所在地，因为大学可能有多个校区，需要明确是哪一个，或者确认主校区的位置以推断其所在的县。",
+          "solver_judgment": "question 要求确认明尼苏达大学（University of Minnesota）的主要所在地（城市或校区）。search_query 直接搜索了该问题。chunks 中，chunk 71020347-f416-4022-882f-db30660c202c 明确记载 \"The University of Minnesota is located in Minneapolis\"，直接提供了城市名称作为答案。chunk e9348fc2-b5d4-4bb4-bfe2-9752e6dc0932 仅提到位于美国，信息不够具体；其他 chunk 涉及其他大学或无关信息。检索精准命中了目标信息。",
+          "critic_factual_notes": "1 个来源（文档 Sydney Anderson）直接陈述 'The University of Minnesota is located in Minneapolis'。虽然为单来源，但表述具体、直接匹配问题，且与其他无关 chunk 无矛盾。证据充分支撑 'Minneapolis' 这一答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。该节点已解决 'primary location' 的子问题。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "What Minnesota county is the University of Minnesota in?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What Minnesota county is the University of Minnesota in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立明尼苏达大学所在的县",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态取决于子节点推理链的完整性。当前 DAG 中，N1_1 确立了 'University of Minnesota is in Minneapolis'，N2_1 确立了 'Minneapolis is in Hennepin County'。两条事实通过依赖边 N1_1→N2_1 逻辑连接，形成了完整的推理链：UMN → Minneapolis → Hennepin County。虽然 ROOT 尚未填入最终合成答案，但支撑该答案的所有原子事实均已具备且证据充分。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据链完整且一致，ROOT 节点已具备生成最终答案 'Hennepin County' 的所有必要条件。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the primary location (city/campus) of the University of Minnesota?",
+          "answer": "Minneapolis",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the primary location (city/campus) of the University of Minnesota?",
+          "planner_rationale": "已确立大学主要位于 Minneapolis，这是查找所在县的关键前置事实",
+          "solver_judgment": "question 要求确认明尼苏达大学（University of Minnesota）的主要所在地（城市或校区）。search_query 直接搜索了该问题。chunks 中，chunk 71020347-f416-4022-882f-db30660c202c 明确记载 \"The University of Minnesota is located in Minneapolis\"，直接提供了城市名称作为答案。chunk e9348fc2-b5d4-4bb4-bfe2-9752e6dc0932 仅提到位于美国，信息不够具体；其他 chunk 涉及其他大学或无关信息。检索精准命中了目标信息。",
+          "critic_factual_notes": "1 个独立来源（文档 Sydney Anderson）直接陈述 'The University of Minnesota is located in Minneapolis'。虽然为单来源，但表述具体、直接匹配问题，且与其他无关 chunk 无矛盾。证据充分支撑 'Minneapolis' 这一答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。该节点已解决 'primary location' 的子问题。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "What county is Minneapolis in?",
+          "answer": "Hennepin County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What county is Minneapolis in?",
+          "planner_rationale": "Critic 指出当前 DAG 缺失从城市到县的推理步骤。既然已知大学在 Minneapolis，只需查明 Minneapolis 所属的县即可回答 Q",
+          "solver_judgment": "question 要求确认 Minneapolis 所在的县。search_query 搜索了 'What county is Minneapolis in?'。chunks 返回了关于 Minneapolis 行政信息的内容，其中 chunk d68cd0d7-95ac-4df6-9a35-b72179bb316b 明确记载 'Minneapolis is the county seat of Hennepin County'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 Minneapolis）直接陈述 'Minneapolis is the county seat of Hennepin County'。作为县治（county seat），Minneapolis 必然位于 Hennepin County 内。该事实直接回答了 'What county is Minneapolis in?'。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，直接回答了从城市到县的映射问题。",
+          "round_created": 2,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N2_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_1",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What Minnesota county is the University of Minnesota in?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What Minnesota county is the University of Minnesota in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N2_1 已确立完整推理链（UMN → Minneapolis → Hennepin County），具备生成最终答案的所有条件。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态取决于子节点推理链的完整性。当前 DAG 中，N1_1 确立了 'University of Minnesota is in Minneapolis'（单来源直接陈述），N2_1 确立了 'Minneapolis is the county seat of Hennepin County'（单来源直接陈述）。两条事实通过依赖边 N1_1→N2_1 逻辑连接，形成了完整的推理链：UMN → Minneapolis → Hennepin County。虽然 ROOT 尚未填入最终合成答案，但支撑该答案的所有原子事实均已具备且证据充分。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据链完整且一致，ROOT 节点已具备生成最终答案 'Hennepin County' 的所有必要条件。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the primary location (city/campus) of the University of Minnesota?",
+          "answer": "Minneapolis",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the primary location (city/campus) of the University of Minnesota?",
+          "planner_rationale": "已确立大学主要位于 Minneapolis，这是查找所在县的关键前置事实。证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认明尼苏达大学（University of Minnesota）的主要所在地（城市或校区）。search_query 直接搜索了该问题。chunks 中，chunk 71020347-f416-4022-882f-db30660c202c 明确记载 \"The University of Minnesota is located in Minneapolis\"，直接提供了城市名称作为答案。chunk e9348fc2-b5d4-4bb4-bfe2-9752e6dc0932 仅提到位于美国，信息不够具体；其他 chunk 涉及其他大学或无关信息。检索精准命中了目标信息。",
+          "critic_factual_notes": "1 个独立来源（文档 Sydney Anderson）直接陈述 'The University of Minnesota is located in Minneapolis'。虽然为单来源，但表述具体、直接匹配问题，且与其他无关 chunk 无矛盾。证据充分支撑 'Minneapolis' 这一答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。该节点已解决 'primary location' 的子问题。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "What county is Minneapolis in?",
+          "answer": "Hennepin County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What county is Minneapolis in?",
+          "planner_rationale": "已确立 Minneapolis 位于 Hennepin County。结合 N1_1 的答案，直接回答了 Q 的核心询问。证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认 Minneapolis 所在的县。search_query 搜索了 'What county is Minneapolis in?'。chunks 返回了关于 Minneapolis 行政信息的内容，其中 chunk d68cd0d7-95ac-4df6-9a35-b72179bb316b 明确记载 'Minneapolis is the county seat of Hennepin County'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 Minneapolis）直接陈述 'Minneapolis is the county seat of Hennepin County'。作为县治（county seat），Minneapolis 必然位于 Hennepin County 内。该事实直接回答了 'What county is Minneapolis in?'。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，直接回答了从城市到县的映射问题。",
+          "round_created": 2,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N2_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_1",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What Minnesota county is the University of Minnesota in?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What Minnesota county is the University of Minnesota in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N2_1 已确立完整推理链（UMN → Minneapolis → Hennepin County），具备生成最终答案的所有条件。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态取决于子节点推理链的完整性。当前 DAG 中，N1_1 确立了 'University of Minnesota is in Minneapolis'（单来源直接陈述），N2_1 确立了 'Minneapolis is the county seat of Hennepin County'（单来源直接陈述）。两条事实通过依赖边 N1_1→N2_1 逻辑连接，形成了完整的推理链：UMN → Minneapolis → Hennepin County。虽然 ROOT 尚未填入最终合成答案，但支撑该答案的所有原子事实均已具备且证据充分。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据链完整且一致，ROOT 节点已具备生成最终答案 'Hennepin County' 的所有必要条件。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the primary location (city/campus) of the University of Minnesota?",
+          "answer": "Minneapolis",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the primary location (city/campus) of the University of Minnesota?",
+          "planner_rationale": "已确立大学主要位于 Minneapolis，这是查找所在县的关键前置事实。证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认明尼苏达大学（University of Minnesota）的主要所在地（城市或校区）。search_query 直接搜索了该问题。chunks 中，chunk 71020347-f416-4022-882f-db30660c202c 明确记载 \"The University of Minnesota is located in Minneapolis\"，直接提供了城市名称作为答案。chunk e9348fc2-b5d4-4bb4-bfe2-9752e6dc0932 仅提到位于美国，信息不够具体；其他 chunk 涉及其他大学或无关信息。检索精准命中了目标信息。",
+          "critic_factual_notes": "1 个独立来源（文档 Sydney Anderson）直接陈述 'The University of Minnesota is located in Minneapolis'。虽然为单来源，但表述具体、直接匹配问题，且与其他无关 chunk 无矛盾。证据充分支撑 'Minneapolis' 这一答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。该节点已解决 'primary location' 的子问题。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "What county is Minneapolis in?",
+          "answer": "Hennepin County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What county is Minneapolis in?",
+          "planner_rationale": "已确立 Minneapolis 位于 Hennepin County。结合 N1_1 的答案，直接回答了 Q 的核心询问。证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求确认 Minneapolis 所在的县。search_query 搜索了 'What county is Minneapolis in?'。chunks 返回了关于 Minneapolis 行政信息的内容，其中 chunk d68cd0d7-95ac-4df6-9a35-b72179bb316b 明确记载 'Minneapolis is the county seat of Hennepin County'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 Minneapolis）直接陈述 'Minneapolis is the county seat of Hennepin County'。作为县治（county seat），Minneapolis 必然位于 Hennepin County 内。该事实直接回答了 'What county is Minneapolis in?'。证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，直接回答了从城市到县的映射问题。",
+          "round_created": 2,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N2_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_1",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the primary location (city/campus) of the University of Minnesota?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "4d9f1bec-4a5d-4c88-abf5-56f97465926f",
+        "71020347-f416-4022-882f-db30660c202c",
+        "e9348fc2-b5d4-4bb4-bfe2-9752e6dc0932",
+        "7bb6cdf6-d37b-4ed9-9b6f-5394165f37f6",
+        "907957d0-9549-4506-ad7f-d514afa85da9",
+        "be392d02-6cbd-4ea6-ad3d-6210198b6098",
+        "0f5937d3-b2fe-4296-ae5e-b91fb8ba721a",
+        "1a8f2a97-5adc-417d-8ae1-ca24c5b21f18"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "What county is Minneapolis in?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+        "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+        "58b853cb-1aa4-465c-adbf-e14e0943249a",
+        "7bb6cdf6-d37b-4ed9-9b6f-5394165f37f6",
+        "5a1f1614-6fbb-410a-82d9-a4356cffe114",
+        "2aad44ee-a4a7-4df4-9f5d-98a1f0f13f48",
+        "a3a8ed04-1734-4070-9bf4-78a651ea0813",
+        "a42fefe9-380f-4972-822c-adf615e2beff"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the primary location (city/campus) of the University of Minnesota?（理由：要回答大学在哪个县，首先需要知道大学的具体地理位置，通常大学位于某个城市或特定校区，这是确定县的前置步骤）。关系: F1 是 Q 的分解产物（decomposition），即通过确定大学的主要位置，可以进一步查找到该位置所属的县。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：先定位大学的具体地点（城市/校区），再由此推导其所属的县。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点健康状态为 needs_verification，因为推理链不完整（缺少从 City 到 County 的映射节点）。虽然 N1_1 健康且依赖链语义有效（条件②通过），但整体证据不足以回答 Q。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the primary location (city/campus) of the University of Minnesota?（理由：已确立为 Minneapolis，作为查找县的前置上下文），F2: What county is Minneapolis in?（理由：Q 的核心问项是 county，已知城市后需直接查询其所属县）。关系: F1 是 Q 的分解产物（decomposition），F2 也是 Q 的分解产物（decomposition）。同时，F2 依赖 F1 的答案（dependency），因为 F2 的搜索目标 'Minneapolis' 由 F1 提供，建立依赖关系确保逻辑连贯性。",
+      "hypothesis_delta": "修正结构以满足不变式 I3/I4：\n1. 保留边 N0→N1_1（decomposition）：确保 N1_1 有入边且非孤立，维持其作为 Q 子事实的地位。\n2. 新增节点 $1（question='What county is Minneapolis in?'）：填补 Critic 指出的语义缺口。\n3. 新增边 N0→$1（decomposition）：使 $1 成为 Q 的直接子事实，确保其有入边。\n4. 新增边 N1_1→$1（dependency）：表达 $1 对 N1_1 答案的逻辑依赖。\n此结构确保所有非根节点均有入边，且仅 N0 为根节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（新增节点 N2_1 及两条边）。虽然条件①（所有非根节点 SOLVED）、条件②（推理链语义匹配）和条件③（所有节点 healthy）均已满足，但根据终止规则，必须同时满足条件④（拓扑稳定/无变化）才能终止。预计下一轮拓扑将不再变化，届时可终止。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: University of Minnesota is located in Minneapolis（理由：确定大学所在的具体城市，作为查找县的中间步骤），F2: Minneapolis is in Hennepin County（理由：确定该城市所属的县，直接回答 Q）。关系: F1 是 Q 的分解产物（decomposition），F2 也是 Q 的分解产物（decomposition）。同时，F2 依赖 F1 的答案（dependency），因为 F2 的查询目标 'Minneapolis' 由 F1 提供，确保逻辑链条的连贯性。当前 DAG 已完美覆盖此结构，所有节点均已 SOLVED 且健康。",
+      "hypothesis_delta": "本轮无结构调整——所有节点（N0, N1_1, N2_1）均通过 INHERIT 保留，所有边均通过 LINK 重申。原因：Critic 确认当前 DAG 结构正确、证据充分、无冗余或缺口。N1_1 和 N2_1 均已 SOLVED + healthy，形成了完整的推理链（UMN → Minneapolis → Hennepin County），足以支持根节点生成最终答案。无需新增、删除或修改任何节点/边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N1_1 answer 'Minneapolis' 有效支撑 N2_1 question）；③所有节点（含 ROOT）critic_health 均为 healthy；④拓扑连续稳定。DAG 结构完整，证据充分，可终止探索并生成最终答案 'Hennepin County'。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: University of Minnesota is located in Minneapolis（理由：确定大学所在的具体城市，作为查找县的中间步骤），F2: Minneapolis is in Hennepin County（理由：确定该城市所属的县，直接回答 Q）。关系: F1 是 Q 的分解产物（decomposition），F2 也是 Q 的分解产物（decomposition）。同时，F2 依赖 F1 的答案（dependency），因为 F2 的查询目标 'Minneapolis' 由 F1 提供，确保逻辑链条的连贯性。当前 DAG 已完美覆盖此结构，所有节点均已 SOLVED 且健康。",
+      "hypothesis_delta": "本轮无结构调整——所有节点（N0, N1_1, N2_1）均通过 INHERIT 保留，所有边均通过 LINK 重申。原因：Critic 确认当前 DAG 结构正确、证据充分、无冗余或缺口。N1_1 和 N2_1 均已 SOLVED + healthy，形成了完整的推理链（UMN → Minneapolis → Hennepin County），足以支持根节点生成最终答案。无需新增、删除或修改任何节点/边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点 SOLVED；② 推理链语义匹配（N1_1 answer 消解 N2_1 question）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续稳定。DAG 结构完整，证据充分，可生成最终答案 'Hennepin County'。"
+      }
+    }
+  ]
+}

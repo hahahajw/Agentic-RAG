@@ -1,0 +1,21 @@
+{
+  "eval_mode": "rag_loop",
+  "dataset_type": "musique",
+  "total": 500,
+  "answered": 499,
+  "unanswered": 1,
+  "aggregate": {
+    "em": 0.446894,
+    "f1": 0.554959,
+    "precision": 0.565247,
+    "recall": 0.56994,
+    "context_recall": 0.936039,
+    "hit": 0.995992,
+    "mrr": 0.921043,
+    "retrieval_precision": 0.38393,
+    "retrieval_count": 4.492986,
+    "total_chunks": 28.228457,
+    "total_distinct_titles": 14.174349,
+    "search_depth": 3.488978
+  }
+}

@@ -1,275 +1,80 @@
-# Agentic RAG
+针对使用 RAG 算法求解「多跳问答」，这个项目仓库中包含两种可解释的多轮自适应探索 RAG 算法，分别是「[递归检索 RAG 算法（RAG with Judge）](# 递归检索 RAG 算法)」和「[规划-执行-反馈闭环 RAG 算法（Loop RAG）](# 规划-执行-反馈闭环 RAG 算法)」。这个两个算法在 HotpotQA、2WikiMultihopQA 和 MuSiQue 三个主流多跳问答数据集上的表现如下（其中 CR 指标是「累积召回率（CumulativeRecall）」，表示算法在所有探索轮次中召回的所有文档占支撑段落的比例）：
 
-三种多跳问答 RAG 架构的对比研究：Naive RAG、递归 RAG with Judge、Agentic RAG（规划-执行-反馈闭环）。基于 LangGraph 工作流编排 + Milvus 混合检索，在 HotpotQA、2WikiMultihopQA、MuSiQue 三个基准数据集上系统评估。
+![image-20260623235207856](img/performance.png)
 
-## 功能特性
+该结果的实验设置如下：
 
-### 1. Naive RAG（基线系统）
-- 多查询检索：LLM 将原始查询重写为 4 个变体 + 原始查询 = 5 路并行检索
-- 两种融合策略对比：
-  - **Scheme A**：客户端 RRF 融合（RRF_K=60）
-  - **Scheme B**：服务端 AnnSearchRequest 级融合（Milvus 内置 RRFRanker）
-- 支持后续问题建议生成
+![image-20260623235706241](img/setup.png)
 
-### 2. RAG with Judge（递归探索）
-- 全局 Judge 判断：每次检索后由 LLM 判断当前知识是否足以回答问题
-- 不足时自动生成 follow-up queries，递归探索知识缺口
-- SEARCH_PATH 数据结构记录完整探索树，可序列化供前端渲染
-- 最大深度控制 + visited 集合防环
+## 实验结果可视化
 
-### 3. Agentic RAG v3（规划-执行-反馈闭环）
-- 子问题分解 → 串行求解（已解决的子问题答案注入后续查询）
-- 知识可见性：Planner 可看到已检索 chunk 标题，Synthesizer 可看到 chunk 摘要
-- 跨轮次子问题去重 + 两阶段子问题评估（判断 + 提取）
-- 连续 2 轮 stuck 时触发反思机制，诊断根因并生成 pivot 子问题
+### 通用多跳问答数据集
 
-### 4. 共享检索层
-- Milvus 混合检索：Dense（HNSW + COSINE）+ Sparse（BM25）
-- 命题级索引 → chunk 级聚合 → 可选 Reranker 重排 → 截断返回
-- 支持查询重写 + RRF 融合 + 优先级配额分配
+运行命令 `uv run streamlit run frontend/app.py` 后，可以在「🔎实验结果」侧边栏查看所有算法在三个通用多跳问答数据集上的表现
 
-### 5. 评估框架
-- 统一评估引擎：断点续跑 + 批量并行 + 瞬态错误自动重试
-- 原子写入 checkpoint，崩溃不丢数据
-- 支持 4 种评估模式：LLM-Only / Naive RAG / RAG with Judge / Agentic RAG v3
+### 标准问答
 
-## 技术栈
+要进行标准问答，需要：
 
-| 类别 | 技术 |
-|------|------|
-| 语言 | Python 3.14+ |
-| 包管理 | uv |
-| 工作流 | LangGraph + LangChain |
-| 向量数据库 | Milvus（pymilvus + langchain-milvus） |
-| 嵌入模型 | text-embedding-v4（1024 维，Dashscope API） |
-| LLM | Qwen 系列（qwen-max / qwen-plus / qwen-turbo，Dashscope） |
-| 前端 | Streamlit |
-| 网页搜索 | DuckDuckGo (ddgs)、Firecrawl（可选） |
+1. 切换至「💬 在线问答」侧边栏
+2. 在页面中填入「API Key」和「Base URL」，完成「API 配置」（当前仅支持阿里百炼的模型）
+3. 选择对应的算法与搜索源
+4. 配置算法在运行时的一些参数，包括：
+   - 搜索返回的最大 Chunk 数
+   - 多轮自适应探索 RAG 算法的探索轮次
+   - 各角色的 prompt 模板
+   - 各角色模型的思考预算
 
-## 快速安装
+构造的 25 到标准问答数据集在[这里](Data/benchmark/gb_standards_multihop_25.json)。由于网络搜索返回了一些不良信息，算法在标准问答题目上的探索过程并未更新到仓库中，论文中提到的两个例子的可视化结果在[这里](standard_question_result/)。
 
-### 前置条件
-- Python 3.14+
-- [uv](https://github.com/astral-sh/uv) 包管理器
-- Milvus 服务（默认 `http://localhost:19530`）
+第一个例子是：Q235C钢的冲击试验应在什么温度下进行？该试验温度的实际允许偏差范围是多少？试样在冷却介质中至少需要保温多长时间？
 
-### 安装依赖
-```bash
-uv sync
-```
+第二个例子是：Q235B 钢的碳含量（熔炼分析）上限为 0.20%。现有一批 Q235B 钢板，成品分析显示碳含量为 0.22%。请问：根据相关国家标准，这批钢板的碳含量是否合格？为什么？
 
-### 配置环境变量
-```bash
-cp .env.example .env
-# 编辑 .env 填入 API 密钥
-```
+## 递归检索 RAG 算法
 
-`.env` 需要配置：
-```
-BL_API_KEY=sk-your-key-here
-BL_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
-MILVUS_URI=http://localhost:19530
-```
+![RAG with Judge Arc](img/03-RAG_with_judge_Arch.png)
 
-### 构建 Milvus 索引
-```bash
-# 构建全部数据集的索引
-uv run python Index/milvus_cli.py build
+对于多跳问题，一次检索通常无法召回全部所需知识（在采用分块嵌入的索引思路时会面临这样的困境，但如果针对具体任务设计适合的索引过程并辅以对应的搜索算法，一次检索也有可能完成任务）。在 [Iter-RetGen](https://arxiv.org/abs/2305.15294)、[CRAG](https://arxiv.org/abs/2305.15294)、[LLM as a Judge](https://arxiv.org/abs/2411.16594) 等工作的启发下，我设计了[递归检索 RAG 算法](rag_with_judge/)，在模块化 RAG 的基础上引入了 LLM as a Judge 模块，引入的 Judge 模块将根据召回的知识动态生成原子化子问题以递归探索搜索空间。这种递归调用过程将动态生成一颗搜索树，使得算法在回答问题时的推理过程具有可解释性。
 
-# 仅构建测试用的小数据集（前 10 条）
-uv run python Index/milvus_cli.py build --limit 10
-```
+## 规划-执行-反馈闭环 RAG 算法
 
-## 快速开始
+![Loop RAG Arch](img/03-loop_rag_arch.png)
 
-### 单条查询
+在实现和测试递归 RAG 算法的过程中，我发现其存在：
 
-**Naive RAG**：
-```bash
-uv run python -m naive_rag --query "Einstein 任教的大学是哪年创立的？" --scheme b --dataset hotpotqa
-```
+1. 子树间的知识无法共享，这使得一些问题会被重复探索
+2. 生成的树结构无法被回溯更改，这使得探索获得的新知识只能被作为「一次探索记录」被记录到节点中，回答模型需要从探索记录中自己分析、汇总以得到回答问题的信息
 
-**RAG with Judge**（程序调用）：
-```python
-from rag_with_judge import rag_with_judge
+归根到底，搜索树承载的是算法在多轮探索过程中自然形成的探索过程，通过节点是否可被直接回答来隐式地表明算法对当前多跳问题的理解。
 
-search_path = {}
-answer = rag_with_judge(
-    query="你的问题",
-    path=search_path,
-    visited=set(),
-    depth=0,
-    max_depth=3,
-    app=app,
-    config=config,
-)
-```
+因此，我设计了[规划-执行-反馈闭环 RAG 算法](rag_loop/)，该算法：
 
-**Agentic RAG v3**（程序调用）：
-```python
-from agentic_rag_v3.nodes import run_agentic_rag_v3
+1. 将多跳问题建模为一个有向无环图（DAG），节点表示一个问题，边表示问题间的关系（包括分解边和依赖边）
 
-result = run_agentic_rag_v3(
-    query="你的问题",
-    app=app,
-    config=config,
-    max_rounds=5,
-)
-```
+   算法的任务是：根据搜索到的知识维护一个 [DAG](rag_loop/models.py)，这个 DAG 是对问题真实 DAG 结构的预测
 
-### 系统评估
+   算法通过规划、求解、审查三个角色智能体的[闭环协同](rag_loop/pipeline.py)来推动 DAG 的迭代演化来实现这个任务
 
-```bash
-# LLM 纯生成（无检索基线）
-uv run python Eval/run_eval.py --mode llm-only --dataset hotpotqa
+2. [规划智能体](rag_loop/planner.py)通过「[操作原语](rag_loop/operations.py)」来精确表达算法对 DAG 演化的意图
 
-# Naive RAG
-uv run python Eval/run_eval.py --mode naive-rag --dataset hotpotqa
+3. [求解智能体](rag_loop/solver.py)诚实地在规划智能体规划的 DAG 上对所有「就绪」节点进行搜索求解（一个非根节点是「就绪」的，当且仅当其所有依赖源节点（即所有通过依赖边指向该节点的节点）均处于已求解状态且答案非空）
 
-# RAG with Judge
-uv run python Eval/run_eval.py --mode rag-with-judge --dataset hotpotqa --max-depth 3
+   当 DAG 结构偏离真实结构时，求解智能体在给定探测方向上自然检索不到有用信息，这一负面观测为后续审查智能体提供了结构偏差的原始信号。
 
-# Agentic RAG v3
-uv run python Eval/run_eval.py --mode agentic-rag-v3 --dataset hotpotqa --max-rounds 5
+4. 由于算法在运行过程中无法看到问题对应的真实 DAG 结构，只能通过一些「内部信号（不同节点答案之间的一致性、不同来源之间的独立性、求 解结果与规划意图之间的匹配程度）」来推断当前 DAG 结构是否足够逼近真实 DAG
 
-# 计算汇总指标
-uv run python Eval/compute_metrics.py --mode agentic-rag-v3 --dataset hotpotqa
-```
+   [审查智能体](rag_loop/critic.py)通过对求解智能体求解过后的 DAG 进行「逐节点」和「DAG 整体结构」两个维度的审查将内部信号转化为下轮 DAG 演化的建议
 
-所有评估模式均支持断点续跑（`--retry-failed`）和强制重跑（`--force`）。
+5. 规划智能体根据之前求解智能体在 DAG 上的求解情况并参考审查智能体给出的演化建议，使用操作原语精确地表达出新的 DAG 的结构（此时完成了一轮 DAG 的演化）
 
-### 前端界面
+6. 之后继续求解智能体、审查智能体的循环讨论，直到探索轮次耗尽或预测的 DAG 结构趋于稳定
 
-**在线 QA（基于网络搜索，无需 Milvus 索引）**：
-```bash
-uv run streamlit run web_qa.py
-```
+## 嵌入向量文件说明
 
-**Streamlit 多页应用（基于 Milvus 索引）**：
-```bash
-uv run streamlit run frontend/app.py
-```
+三个数据集的命题嵌入文件可以在[这里](https://drive.google.com/drive/folders/1GQHfmq126jBZU3UO6uXJe_4U2py1H5x0?usp=sharing)获取，将下载的包含嵌入向量的文件放在「[Data/benchmark 文件夹](Data/benchmark/)」下后使用命令 `uv run python Index/milvus_cli.py recover` 即可流式地将所有数据集的命题与其嵌入向量插入 Milvus 供之后检索使用
 
-提供 6 个页面：在线查询、Naive RAG 演示、Judge RAG 演示、Agentic RAG 演示、结果对比、指纹热力图。
-
-## 系统架构
-
-```
-query
-  │
-  ├── Naive RAG ───→ rewrite(5 queries) → fan-out retrieve → RRF fuse → generate
-  │
-  ├── RAG with Judge ───→ rewrite → retrieve → Judge? ──yes──→ generate
-  │                                              │
-  │                                             no
-  │                                              ↓
-  │                                       generate follow-ups → recurse
-  │
-  └── Agentic RAG v3 ───→ plan(sub-questions) → solve(each) → synthesize
-                                                   │
-                                          complete? ──no──→ reflect → pivot
-                                                   │
-                                                  yes
-                                                   ↓
-                                              generate answer
-```
-
-### 模块依赖关系
-
-```
-Index/ (离线索引构建)
-  │
-  ├── milvus_config.py   ← 共享配置（Milvus URI, 嵌入函数单例）
-  ├── milvus_schema.py   ← Collection Schema 定义
-  ├── milvus_ingest.py   ← 数据展平 → 嵌入计算 → Milvus 插入
-  ├── semantic_chunker.py
-  ├── agentic_chunk.py
-  └── benchmark_chunker_v3.py
-  │
-  ↓
-Retrieval/ (在线检索)
-  │
-  └── milvus_retriever.py  ← Hybrid Search → chunk 聚合 → Reranker → top-N
-  │
-  ↓
-naive_rag/  rag_with_judge/  agentic_rag_v3/  ← 各 RAG 实现
-  │
-  ↓
-Eval/ (统一评估)
-  │
-  └── run_eval.py  ← CLI 入口
-```
-
-## 评估设置
-
-### 数据集
-
-| 数据集 | 样本数 | Collection 名称 |
-|--------|--------|-----------------|
-| HotpotQA | 500 | `agentic_propositions_hotpotqa` |
-| 2WikiMultihopQA | 500 | `agentic_propositions_2wikimultihopqa` |
-| MuSiQue | 500 | `agentic_propositions_musique` |
-
-原始 benchmark 源文件（`Data/2WikiMultihopQA_dev.json` 等）未包含在仓库中，可从官方渠道下载后用 `uv run python Data/create_benchmarks.py` 重新生成。
-
-### 大文件说明
-
-以下文件因体积过大未包含在仓库中，后续将通过外部链接提供：
-
-| 文件 | 说明 | 大小 |
-|------|------|------|
-| 嵌入向量文件 | 三个数据集的命题嵌入（`*_embeddings.json`），用于 Milvus 索引构建 | ~5 GB |
-| Agentic RAG v3 结果 | `Eval/agentic_rag_v3_data/result/musique.json`，MuSiQue 数据集上的完整评估结果 | ~134 MB |
-
-下载链接：（待补充）
-
-### 评估指标
-
-- **准确率**：EM（Exact Match）、F1
-- **检索质量**：Hit、MRR、Precision、Recall、Context Recall
-- **效率**：检索轮次、总 chunk 数、搜索深度、每轮 chunk 数
-
-## 项目结构
-
-```
-agentic-rag/
-├── Eval/                  # 统一评估框架
-│   ├── run_eval.py        # CLI 入口
-│   ├── base.py            # BaseEvaluator（批处理 + 断点续跑）
-│   ├── checkpoint.py      # 原子写入 Checkpoint 管理器
-│   ├── metrics.py         # EM/F1 计算
-│   ├── naive_rag.py       # Naive RAG 评估器
-│   └── {mode}_data/       # 各评估模式的结果目录
-│
-├── Index/                 # 离线索引构建
-│   ├── milvus_cli.py      # CLI：build/stats/drop
-│   ├── milvus_config.py   # Milvus 连接 + 嵌入函数单例
-│   ├── milvus_ingest.py   # 数据展平 → 嵌入 → upsert
-│   ├── milvus_schema.py   # Collection Schema 定义
-│   ├── semantic_chunker.py
-│   ├── agentic_chunk.py
-│   └── benchmark_chunker_v3.py
-│
-├── Retrieval/             # 在线检索层
-│   ├── milvus_retriever.py  # Hybrid Search + RRF + Reranker
-│   ├── web_retriever.py
-│   └── query_cli.py
-│
-├── naive_rag/             # Naive RAG 实现
-├── rag_with_judge/        # RAG with Judge 实现
-├── agentic_rag/           # Agentic RAG v1（历史版本）
-├── agentic_rag_v2/        # Agentic RAG v2（历史版本）
-├── agentic_rag_v3/        # Agentic RAG v3（当前推荐版本）
-│
-├── frontend/              # Streamlit Web 界面
-├── streaming/             # LangGraph 流式回调
-├── paper/                 # 基线复现：IR-CoT、Iter-RetGen、GenGround
-│
-├── Data/benchmark/        # 500 样本基准数据集 + chunked 结果
-├── pyproject.toml         # 项目配置与依赖
-├── uv.lock                # 依赖锁定文件
-└── .env.example           # 环境变量模板
-```
+你也可以选择将某一个数据集的命题与其嵌入插入到 Milvus 中，命令为 `uv run python Index/milvus_cli.py recover --dataset hotpotqa/2wikimultihopqa/musique`
 
 ## 开源协议
 

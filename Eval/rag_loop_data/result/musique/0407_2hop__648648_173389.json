@@ -1,0 +1,947 @@
+{
+  "question_index": 407,
+  "question_id": "2hop__648648_173389",
+  "question": "The city which contains Broadhurst Park shares a border with what town?",
+  "answer": "Middleton",
+  "prediction": "Chadderton",
+  "error": null,
+  "latency_ms": 555111.2445999971,
+  "dataset_type": "musique",
+  "timestamp": "2026-05-18T16:27:17.454652+00:00",
+  "chunks": [
+    {
+      "chunk_id": "1295a9d8-e267-485b-8809-f3bd26469675",
+      "chunk_title": "Football Grounds & Teams",
+      "chunk_summary": "This chunk contains information about specific football grounds, including their locations, project names, name changes, and the teams that play there.",
+      "context_title": "Broadhurst Park",
+      "page_content": "The ground was known by its project name, Moston Community Stadium. Broadhurst Park is the home of Moston Juniors F.C. Broadhurst Park is the home of F.C. United of Manchester. Broadhurst Park is a football ground in Moston, Manchester, England. The name of the ground was changed at a members' meeting in 2014."
+    },
+    {
+      "chunk_id": "a172f625-82cd-42a3-b7a3-a78cebb069a2",
+      "chunk_title": "Neighborhoods & Demographics",
+      "chunk_summary": "This chunk contains information about specific neighborhoods, including their locations, historical founding details, internal subdivisions, and population statistics.",
+      "context_title": "Flatbush, Brooklyn",
+      "page_content": "The neighborhood Flatbush had a population of 105,804 as of the 2010 United States Census. The neighborhood Flatbush consists of several subsections. Flatbush was founded in 1651 by Dutch colonists. Flatbush is a neighborhood in the New York City borough of Brooklyn."
+    },
+    {
+      "chunk_id": "7603c992-5b06-4334-8aba-8cc14f14d253",
+      "chunk_title": "Public Parks & Recreation",
+      "chunk_summary": "This chunk contains information about city parks and public recreational spaces.",
+      "context_title": "San Antonio River Walk",
+      "page_content": "The San Antonio River Walk is a city park."
+    },
+    {
+      "chunk_id": "29270e0f-2885-4946-a7e2-4cacc0ef322f",
+      "chunk_title": "US City Locations & Classification",
+      "chunk_summary": "This chunk contains information about the location and classification of specific cities in the United States.",
+      "context_title": "Litchfield Park, Arizona",
+      "page_content": "Litchfield Park is a city in Maricopa County, Arizona, United States. Litchfield Park is twenty miles northwest of Phoenix."
+    },
+    {
+      "chunk_id": "ceea42ba-0817-452b-9aef-d4aecdf6dfa6",
+      "chunk_title": "Dartmouth Park Location",
+      "chunk_summary": "This chunk contains information about the geographical location, topography, and administrative details of Dartmouth Park in London.",
+      "context_title": "Dartmouth Park",
+      "page_content": "Dartmouth Park is in the London Borough of Camden. Dartmouth Park is a district of north London. Dartmouth Park is on the slope of the hill that rises up to Highgate from Kentish Town. On its west side, Dartmouth Park borders Parliament Hill Fields."
+    },
+    {
+      "chunk_id": "26eabc7e-8e71-483c-8c21-0950de3700e8",
+      "chunk_title": "NYC Neighborhood Locations",
+      "chunk_summary": "This chunk contains information about the geographic location of neighborhoods within New York City boroughs.",
+      "context_title": "St. Francis Preparatory School",
+      "page_content": "The Fresh Meadows neighborhood is in the New York City Borough of Queens."
+    },
+    {
+      "chunk_id": "b7a4c751-75cf-44a3-b608-beb57c4865ee",
+      "chunk_title": "Ahuntsic Park Location & Boundaries",
+      "chunk_summary": "This chunk contains information about the location, classification, and boundaries of Ahuntsic Park in Montreal, Quebec.",
+      "context_title": "Ahuntsic Park",
+      "page_content": "Ahuntsic Park is bordered by Saint Hubert Street to the east. Ahuntsic Park is an urban park. Ahuntsic Park is located in the borough of Ahuntsic-Cartierville. Ahuntsic Park is bordered by Henri Bourassa Boulevard to the north. Ahuntsic Park is located next to Terminus Henri-Bourassa. Ahuntsic Park is located in Montreal, Quebec, Canada. Ahuntsic Park is bordered by Fleury Street to the south. Ahuntsic Park is bordered by Lajeunesse Street to the west."
+    },
+    {
+      "chunk_id": "278b6f32-da6f-4b91-bacf-95fd1216c51f",
+      "chunk_title": "Locations & Landmarks",
+      "chunk_summary": "This chunk contains information about the locations of specific venues or landmarks.",
+      "context_title": "2016 NBA draft",
+      "page_content": "Barclays Center is in Brooklyn."
+    },
+    {
+      "chunk_id": "adaaee39-3136-4daf-b5f2-09989da7c1f3",
+      "chunk_title": "US Open Tennis Championships",
+      "chunk_summary": "This chunk contains information about the United States Open Tennis Championships, including its status as a Grand Slam event and details about its venue location.",
+      "context_title": "New York City",
+      "page_content": "The National Tennis Center is located in Flushing Meadows-Corona Park. Flushing Meadows-Corona Park is located in Queens. The annual United States Open Tennis Championships is one of the world's four Grand Slam tennis tournaments. The annual United States Open Tennis Championships is held at the National Tennis Center."
+    },
+    {
+      "chunk_id": "27cacacb-9a08-442f-a533-54ffd8148371",
+      "chunk_title": "London Borough Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of specific places within London boroughs.",
+      "context_title": "Big Wood and Little Wood",
+      "page_content": "Hampstead Garden Suburb is in the London Borough of Barnet."
+    },
+    {
+      "chunk_id": "b4539429-272d-40ef-a7d0-2c2bbf5dadb9",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and relative positions of specific places, including Greengate, Chadderton, Middleton, and Moston.",
+      "context_title": "Greengate, Greater Manchester",
+      "page_content": "Moston lies to the south of Greengate. Moston is in the City of Manchester. Greengate is located in the south west of Chadderton. Greengate is close to the town's common borders with Middleton. Greengate is close to the town's common borders with Moston. Middleton lies to the west of Greengate."
+    },
+    {
+      "chunk_id": "094fa0b2-148b-4df9-a983-6bec89fdc572",
+      "chunk_title": "Hanover Municipality",
+      "chunk_summary": "This chunk contains information about the classification, geographic location, and adjacent municipalities of Hanover.",
+      "context_title": "Rural Municipality of Hanover",
+      "page_content": "Hanover is located southeast of Winnipeg. The town of Niverville is adjacent to Hanover. Hanover is a rural municipality. Hanover is located in southeastern Manitoba, Canada. The city of Steinbach operates as a separate urban municipality. Hanover is located in Division No. 2. The city of Steinbach is adjacent to Hanover."
+    },
+    {
+      "chunk_id": "01f26fd4-583c-4f07-8932-9ad54066a3b3",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of places, including their county, state, country, and bordering towns.",
+      "context_title": "E Township, Maine",
+      "page_content": "E is located in Aroostook County, Maine, United States. E borders the town of Blaine to the east. E borders the town of Westfield to the north."
+    },
+    {
+      "chunk_id": "256a711d-9ee1-40db-b1e6-2f36c37bb716",
+      "chunk_title": "Neighboring Municipalities",
+      "chunk_summary": "This chunk contains information about the neighboring municipalities of specific cities.",
+      "context_title": "Boston",
+      "page_content": "Brookline is a neighboring municipality of Boston. Cambridge is a neighboring municipality of Boston. Somerville is a neighboring municipality of Boston."
+    },
+    {
+      "chunk_id": "c56e8a4b-0e5f-4e3e-a317-8e44aca63746",
+      "chunk_title": "Football Club Locations & Stadiums",
+      "chunk_summary": "This chunk contains information about the location, base, and stadium history of football clubs.",
+      "context_title": "Manchester United F.C.",
+      "page_content": "Manchester United Football Club moved to its current stadium, Old Trafford, in 1910. Manchester United Football Club is based in Old Trafford, Greater Manchester, England."
+    },
+    {
+      "chunk_id": "ca1e8a8d-83dd-442c-bda7-8954e5b1465e",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+      "context_title": "Notogawa, Shiga",
+      "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+    },
+    {
+      "chunk_id": "607710d8-78a4-4f41-a751-a4ca73369537",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+      "context_title": "Notogawa, Shiga",
+      "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+    },
+    {
+      "chunk_id": "0d452cdf-6a25-4e2b-a517-8e8eafa5f8f7",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+      "context_title": "Notogawa, Shiga",
+      "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+    },
+    {
+      "chunk_id": "3bddea20-3309-4030-bf8b-209ed7b9dc8f",
+      "chunk_title": "Urban Geography",
+      "chunk_summary": "This chunk contains information about the geographical extent of urban areas relative to their administrative boundaries.",
+      "context_title": "Valencia",
+      "page_content": "The urban area of Valencia extends beyond the administrative city limits."
+    },
+    {
+      "chunk_id": "d228983e-944a-45cc-a4cc-058a202182e4",
+      "chunk_title": "Geographical Location",
+      "chunk_summary": "This chunk contains information about the geographical location of Penstrowed relative to other places.",
+      "context_title": "Eiluned Lewis",
+      "page_content": "Newtown is in Montgomeryshire. Penstrowed is near Newtown."
+    },
+    {
+      "chunk_id": "ca64f4ea-0f26-442b-a08b-ff15b733843b",
+      "chunk_title": "Geographic Classification",
+      "chunk_summary": "This chunk contains information about the classification of various geographic areas, such as cities and towns, based on their environmental characteristics.",
+      "context_title": "Mega Manila",
+      "page_content": "Cities, towns, and barangays may be urban, suburban, mountains, or rural areas."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.09523809523809523,
+  "retrieval_count": 3,
+  "total_chunks": 21,
+  "total_distinct_titles": 19,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "The city which contains Broadhurst Park shares a border with what town?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "The city which contains Broadhurst Park shares a border with what town?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，Q 询问包含 Broadhurst Park 的城市与哪个城镇接壤",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链合成。当前推理链 N0→N1_1→N1_2 中，N1_1 已求解（Manchester），但 N1_2 未求解，推理链不完整。",
+          "critic_normative_advice": "建议等待 N1_2 求解后再评估 ROOT 健康状态。当前结构分解合理，但 N1_2 搜索方向需调整——'Manchester share a border with' 返回的 chunks 多为其他城市（Hanover、Boston、Valencia、Notogawa）的邻接信息，与 Manchester 无关。建议换搜索方向，尝试 'Manchester bordering towns' 或 'towns adjacent to Manchester England' 等更精确查询。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What city contains Broadhurst Park?",
+          "answer": "Manchester",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What city contains Broadhurst Park?",
+          "planner_rationale": "Q 的核心实体是 'the city which contains Broadhurst Park'——必须先确定这个城市是谁，才能进一步查询它与哪个城镇接壤。这是第一跳。",
+          "solver_judgment": "question 要求找出包含 Broadhurst Park 的城市。search_query 直接搜索了 'What city contains Broadhurst Park?'。chunks 返回了关于 Broadhurst Park 的信息，其中 chunk 1295a9d8-e267-485b-8809-f3bd26469675 明确记载 'Broadhurst Park is a football ground in Moston, Manchester, England.'，直接回答了该公园位于 Manchester。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Broadhurst Park 文档），单来源但直接、具体地陈述了答案。支撑 chunk 1295a9d8 原文明确记载 'Broadhurst Park is a football ground in Moston, Manchester, England.'，与声称答案 'Manchester' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1295a9d8-e267-485b-8809-f3bd26469675"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "1295a9d8-e267-485b-8809-f3bd26469675",
+              "chunk_title": "Football Grounds & Teams",
+              "chunk_summary": "This chunk contains information about specific football grounds, including their locations, project names, name changes, and the teams that play there.",
+              "context_title": "Broadhurst Park",
+              "page_content": "The ground was known by its project name, Moston Community Stadium. Broadhurst Park is the home of Moston Juniors F.C. Broadhurst Park is the home of F.C. United of Manchester. Broadhurst Park is a football ground in Moston, Manchester, England. The name of the ground was changed at a members' meeting in 2014."
+            },
+            {
+              "chunk_id": "a172f625-82cd-42a3-b7a3-a78cebb069a2",
+              "chunk_title": "Neighborhoods & Demographics",
+              "chunk_summary": "This chunk contains information about specific neighborhoods, including their locations, historical founding details, internal subdivisions, and population statistics.",
+              "context_title": "Flatbush, Brooklyn",
+              "page_content": "The neighborhood Flatbush had a population of 105,804 as of the 2010 United States Census. The neighborhood Flatbush consists of several subsections. Flatbush was founded in 1651 by Dutch colonists. Flatbush is a neighborhood in the New York City borough of Brooklyn."
+            },
+            {
+              "chunk_id": "7603c992-5b06-4334-8aba-8cc14f14d253",
+              "chunk_title": "Public Parks & Recreation",
+              "chunk_summary": "This chunk contains information about city parks and public recreational spaces.",
+              "context_title": "San Antonio River Walk",
+              "page_content": "The San Antonio River Walk is a city park."
+            },
+            {
+              "chunk_id": "29270e0f-2885-4946-a7e2-4cacc0ef322f",
+              "chunk_title": "US City Locations & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of specific cities in the United States.",
+              "context_title": "Litchfield Park, Arizona",
+              "page_content": "Litchfield Park is a city in Maricopa County, Arizona, United States. Litchfield Park is twenty miles northwest of Phoenix."
+            },
+            {
+              "chunk_id": "ceea42ba-0817-452b-9aef-d4aecdf6dfa6",
+              "chunk_title": "Dartmouth Park Location",
+              "chunk_summary": "This chunk contains information about the geographical location, topography, and administrative details of Dartmouth Park in London.",
+              "context_title": "Dartmouth Park",
+              "page_content": "Dartmouth Park is in the London Borough of Camden. Dartmouth Park is a district of north London. Dartmouth Park is on the slope of the hill that rises up to Highgate from Kentish Town. On its west side, Dartmouth Park borders Parliament Hill Fields."
+            },
+            {
+              "chunk_id": "26eabc7e-8e71-483c-8c21-0950de3700e8",
+              "chunk_title": "NYC Neighborhood Locations",
+              "chunk_summary": "This chunk contains information about the geographic location of neighborhoods within New York City boroughs.",
+              "context_title": "St. Francis Preparatory School",
+              "page_content": "The Fresh Meadows neighborhood is in the New York City Borough of Queens."
+            },
+            {
+              "chunk_id": "b7a4c751-75cf-44a3-b608-beb57c4865ee",
+              "chunk_title": "Ahuntsic Park Location & Boundaries",
+              "chunk_summary": "This chunk contains information about the location, classification, and boundaries of Ahuntsic Park in Montreal, Quebec.",
+              "context_title": "Ahuntsic Park",
+              "page_content": "Ahuntsic Park is bordered by Saint Hubert Street to the east. Ahuntsic Park is an urban park. Ahuntsic Park is located in the borough of Ahuntsic-Cartierville. Ahuntsic Park is bordered by Henri Bourassa Boulevard to the north. Ahuntsic Park is located next to Terminus Henri-Bourassa. Ahuntsic Park is located in Montreal, Quebec, Canada. Ahuntsic Park is bordered by Fleury Street to the south. Ahuntsic Park is bordered by Lajeunesse Street to the west."
+            },
+            {
+              "chunk_id": "278b6f32-da6f-4b91-bacf-95fd1216c51f",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the locations of specific venues or landmarks.",
+              "context_title": "2016 NBA draft",
+              "page_content": "Barclays Center is in Brooklyn."
+            },
+            {
+              "chunk_id": "adaaee39-3136-4daf-b5f2-09989da7c1f3",
+              "chunk_title": "US Open Tennis Championships",
+              "chunk_summary": "This chunk contains information about the United States Open Tennis Championships, including its status as a Grand Slam event and details about its venue location.",
+              "context_title": "New York City",
+              "page_content": "The National Tennis Center is located in Flushing Meadows-Corona Park. Flushing Meadows-Corona Park is located in Queens. The annual United States Open Tennis Championships is one of the world's four Grand Slam tennis tournaments. The annual United States Open Tennis Championships is held at the National Tennis Center."
+            },
+            {
+              "chunk_id": "27cacacb-9a08-442f-a533-54ffd8148371",
+              "chunk_title": "London Borough Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of specific places within London boroughs.",
+              "context_title": "Big Wood and Little Wood",
+              "page_content": "Hampstead Garden Suburb is in the London Borough of Barnet."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What town does that city share a border with?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What town does Manchester share a border with?",
+          "planner_rationale": "Q 的最终询问是目标城镇。在确定包含 Broadhurst Park 的城市后，需要查询该城市与哪个城镇接壤。这是第二跳，依赖第一跳的答案来消解 'that city'。",
+          "solver_judgment": "question 要求找出与“that city”（根据 search_query 指代 Manchester）接壤的城镇。search_query 搜索了“Manchester share a border with”。但返回的 chunks 中，chunk b4539429 提到了 Moston 位于曼彻斯特市内，以及 Greengate 靠近 Middleton 和 Moston 的边界，并未说明曼彻斯特市与哪个城镇接壤；其他 chunks 涉及 Hanover、Boston、Valencia 等其他城市的邻接关系或曼彻斯特联足球俱乐部的位置。chunks 中缺乏曼彻斯特市边界城镇的直接信息，无法提取答案。检索未能命中目标信息。",
+          "critic_factual_notes": "搜索返回 10 个 chunks，来自 8 个独立来源，但无一与 'Manchester 与哪个城镇接壤' 相关。chunk b4539429 提及 Greengate、Moston、Middleton 的相对位置，但描述的是曼彻斯特市内区域关系，非城市边界。其余 chunks（Hanover、Boston、Valencia、Notogawa 等）讨论的是完全不同的地理实体。搜索返回内容与目标问题完全无关。",
+          "critic_normative_advice": "建议换搜索方向——当前查询 'Manchester share a border with' 返回大量无关结果（其他城市的邻接信息）。KB 可能以不同方式编码 Manchester 的边界信息。建议尝试：(1) 'Manchester England bordering towns' (2) 'towns bordering Manchester' (3) 或从 Moston（Broadhurst Park 所在区域）角度搜索 'Moston borders' 或 'Moston adjacent to'，因为 Moston 是曼彻斯特的一个区域，其边界信息可能间接揭示城市边界。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "b4539429-272d-40ef-a7d0-2c2bbf5dadb9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and relative positions of specific places, including Greengate, Chadderton, Middleton, and Moston.",
+              "context_title": "Greengate, Greater Manchester",
+              "page_content": "Moston lies to the south of Greengate. Moston is in the City of Manchester. Greengate is located in the south west of Chadderton. Greengate is close to the town's common borders with Middleton. Greengate is close to the town's common borders with Moston. Middleton lies to the west of Greengate."
+            },
+            {
+              "chunk_id": "094fa0b2-148b-4df9-a983-6bec89fdc572",
+              "chunk_title": "Hanover Municipality",
+              "chunk_summary": "This chunk contains information about the classification, geographic location, and adjacent municipalities of Hanover.",
+              "context_title": "Rural Municipality of Hanover",
+              "page_content": "Hanover is located southeast of Winnipeg. The town of Niverville is adjacent to Hanover. Hanover is a rural municipality. Hanover is located in southeastern Manitoba, Canada. The city of Steinbach operates as a separate urban municipality. Hanover is located in Division No. 2. The city of Steinbach is adjacent to Hanover."
+            },
+            {
+              "chunk_id": "01f26fd4-583c-4f07-8932-9ad54066a3b3",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places, including their county, state, country, and bordering towns.",
+              "context_title": "E Township, Maine",
+              "page_content": "E is located in Aroostook County, Maine, United States. E borders the town of Blaine to the east. E borders the town of Westfield to the north."
+            },
+            {
+              "chunk_id": "256a711d-9ee1-40db-b1e6-2f36c37bb716",
+              "chunk_title": "Neighboring Municipalities",
+              "chunk_summary": "This chunk contains information about the neighboring municipalities of specific cities.",
+              "context_title": "Boston",
+              "page_content": "Brookline is a neighboring municipality of Boston. Cambridge is a neighboring municipality of Boston. Somerville is a neighboring municipality of Boston."
+            },
+            {
+              "chunk_id": "c56e8a4b-0e5f-4e3e-a317-8e44aca63746",
+              "chunk_title": "Football Club Locations & Stadiums",
+              "chunk_summary": "This chunk contains information about the location, base, and stadium history of football clubs.",
+              "context_title": "Manchester United F.C.",
+              "page_content": "Manchester United Football Club moved to its current stadium, Old Trafford, in 1910. Manchester United Football Club is based in Old Trafford, Greater Manchester, England."
+            },
+            {
+              "chunk_id": "ca1e8a8d-83dd-442c-bda7-8954e5b1465e",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+              "context_title": "Notogawa, Shiga",
+              "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+            },
+            {
+              "chunk_id": "607710d8-78a4-4f41-a751-a4ca73369537",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+              "context_title": "Notogawa, Shiga",
+              "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+            },
+            {
+              "chunk_id": "0d452cdf-6a25-4e2b-a517-8e8eafa5f8f7",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+              "context_title": "Notogawa, Shiga",
+              "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+            },
+            {
+              "chunk_id": "1295a9d8-e267-485b-8809-f3bd26469675",
+              "chunk_title": "Football Grounds & Teams",
+              "chunk_summary": "This chunk contains information about specific football grounds, including their locations, project names, name changes, and the teams that play there.",
+              "context_title": "Broadhurst Park",
+              "page_content": "The ground was known by its project name, Moston Community Stadium. Broadhurst Park is the home of Moston Juniors F.C. Broadhurst Park is the home of F.C. United of Manchester. Broadhurst Park is a football ground in Moston, Manchester, England. The name of the ground was changed at a members' meeting in 2014."
+            },
+            {
+              "chunk_id": "3bddea20-3309-4030-bf8b-209ed7b9dc8f",
+              "chunk_title": "Urban Geography",
+              "chunk_summary": "This chunk contains information about the geographical extent of urban areas relative to their administrative boundaries.",
+              "context_title": "Valencia",
+              "page_content": "The urban area of Valencia extends beyond the administrative city limits."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "The city which contains Broadhurst Park shares a border with what town?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "The city which contains Broadhurst Park shares a border with what town?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，Q 询问包含 Broadhurst Park 的城市与哪个城镇接壤",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链合成。推理链 N0→N1_1→N1_2 完整：N1_1 确定 Broadhurst Park 位于 Manchester，N1_2 确定 Chadderton 与 Moston（Manchester 内区域）接壤。两个子节点均有证据支撑，推理链逻辑自洽。",
+          "critic_normative_advice": "推理链完整，但存在语义缺口：Q 询问的是'the city which contains Broadhurst Park'（即 Manchester）与哪个城镇接壤，而 N1_2 实际搜索的是 Moston 的边界。建议 Planner 在最终答案生成时明确说明这一推理跳跃——Chadderton 与 Moston 接壤，Moston 是 Manchester 的一部分，因此 Chadderton 可视为与 Manchester（含 Broadhurst Park 的城市）接壤的城镇。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What city contains Broadhurst Park?",
+          "answer": "Manchester",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What city contains Broadhurst Park?",
+          "planner_rationale": "Q 的核心实体是 'the city which contains Broadhurst Park'——必须先确定这个城市是谁，才能进一步查询它与哪个城镇接壤。已求解（Manchester），证据充分。",
+          "solver_judgment": "question 要求找出包含 Broadhurst Park 的城市。search_query 直接搜索了 'What city contains Broadhurst Park?'。chunks 返回了关于 Broadhurst Park 的信息，其中 chunk 1295a9d8-e267-485b-8809-f3bd26469675 明确记载 'Broadhurst Park is a football ground in Moston, Manchester, England.'，直接回答了该公园位于 Manchester。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Broadhurst Park 文档），单来源但直接、具体地陈述了答案。支撑 chunk 1295a9d8 原文明确记载'Broadhurst Park is a football ground in Moston, Manchester, England.'，与声称答案'Manchester'完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1295a9d8-e267-485b-8809-f3bd26469675"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "1295a9d8-e267-485b-8809-f3bd26469675",
+              "chunk_title": "Football Grounds & Teams",
+              "chunk_summary": "This chunk contains information about specific football grounds, including their locations, project names, name changes, and the teams that play there.",
+              "context_title": "Broadhurst Park",
+              "page_content": "The ground was known by its project name, Moston Community Stadium. Broadhurst Park is the home of Moston Juniors F.C. Broadhurst Park is the home of F.C. United of Manchester. Broadhurst Park is a football ground in Moston, Manchester, England. The name of the ground was changed at a members' meeting in 2014."
+            },
+            {
+              "chunk_id": "a172f625-82cd-42a3-b7a3-a78cebb069a2",
+              "chunk_title": "Neighborhoods & Demographics",
+              "chunk_summary": "This chunk contains information about specific neighborhoods, including their locations, historical founding details, internal subdivisions, and population statistics.",
+              "context_title": "Flatbush, Brooklyn",
+              "page_content": "The neighborhood Flatbush had a population of 105,804 as of the 2010 United States Census. The neighborhood Flatbush consists of several subsections. Flatbush was founded in 1651 by Dutch colonists. Flatbush is a neighborhood in the New York City borough of Brooklyn."
+            },
+            {
+              "chunk_id": "7603c992-5b06-4334-8aba-8cc14f14d253",
+              "chunk_title": "Public Parks & Recreation",
+              "chunk_summary": "This chunk contains information about city parks and public recreational spaces.",
+              "context_title": "San Antonio River Walk",
+              "page_content": "The San Antonio River Walk is a city park."
+            },
+            {
+              "chunk_id": "29270e0f-2885-4946-a7e2-4cacc0ef322f",
+              "chunk_title": "US City Locations & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of specific cities in the United States.",
+              "context_title": "Litchfield Park, Arizona",
+              "page_content": "Litchfield Park is a city in Maricopa County, Arizona, United States. Litchfield Park is twenty miles northwest of Phoenix."
+            },
+            {
+              "chunk_id": "ceea42ba-0817-452b-9aef-d4aecdf6dfa6",
+              "chunk_title": "Dartmouth Park Location",
+              "chunk_summary": "This chunk contains information about the geographical location, topography, and administrative details of Dartmouth Park in London.",
+              "context_title": "Dartmouth Park",
+              "page_content": "Dartmouth Park is in the London Borough of Camden. Dartmouth Park is a district of north London. Dartmouth Park is on the slope of the hill that rises up to Highgate from Kentish Town. On its west side, Dartmouth Park borders Parliament Hill Fields."
+            },
+            {
+              "chunk_id": "26eabc7e-8e71-483c-8c21-0950de3700e8",
+              "chunk_title": "NYC Neighborhood Locations",
+              "chunk_summary": "This chunk contains information about the geographic location of neighborhoods within New York City boroughs.",
+              "context_title": "St. Francis Preparatory School",
+              "page_content": "The Fresh Meadows neighborhood is in the New York City Borough of Queens."
+            },
+            {
+              "chunk_id": "b7a4c751-75cf-44a3-b608-beb57c4865ee",
+              "chunk_title": "Ahuntsic Park Location & Boundaries",
+              "chunk_summary": "This chunk contains information about the location, classification, and boundaries of Ahuntsic Park in Montreal, Quebec.",
+              "context_title": "Ahuntsic Park",
+              "page_content": "Ahuntsic Park is bordered by Saint Hubert Street to the east. Ahuntsic Park is an urban park. Ahuntsic Park is located in the borough of Ahuntsic-Cartierville. Ahuntsic Park is bordered by Henri Bourassa Boulevard to the north. Ahuntsic Park is located next to Terminus Henri-Bourassa. Ahuntsic Park is located in Montreal, Quebec, Canada. Ahuntsic Park is bordered by Fleury Street to the south. Ahuntsic Park is bordered by Lajeunesse Street to the west."
+            },
+            {
+              "chunk_id": "278b6f32-da6f-4b91-bacf-95fd1216c51f",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the locations of specific venues or landmarks.",
+              "context_title": "2016 NBA draft",
+              "page_content": "Barclays Center is in Brooklyn."
+            },
+            {
+              "chunk_id": "adaaee39-3136-4daf-b5f2-09989da7c1f3",
+              "chunk_title": "US Open Tennis Championships",
+              "chunk_summary": "This chunk contains information about the United States Open Tennis Championships, including its status as a Grand Slam event and details about its venue location.",
+              "context_title": "New York City",
+              "page_content": "The National Tennis Center is located in Flushing Meadows-Corona Park. Flushing Meadows-Corona Park is located in Queens. The annual United States Open Tennis Championships is one of the world's four Grand Slam tennis tournaments. The annual United States Open Tennis Championships is held at the National Tennis Center."
+            },
+            {
+              "chunk_id": "27cacacb-9a08-442f-a533-54ffd8148371",
+              "chunk_title": "London Borough Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of specific places within London boroughs.",
+              "context_title": "Big Wood and Little Wood",
+              "page_content": "Hampstead Garden Suburb is in the London Borough of Barnet."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What town borders Moston, Manchester?",
+          "answer": "Chadderton",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "towns bordering Moston, Manchester",
+          "planner_rationale": "上一轮搜索 'Manchester share a border with' 返回大量无关结果（其他城市的邻接信息）。Critic 建议从 Moston（Broadhurst Park 所在区域）角度搜索边界信息。Broadhurst Park 位于 Moston, Manchester，Q 中 'the city which contains Broadhurst Park' 可能指 Moston 这个区域/城镇，而非整个 Manchester 市。换搜索方向为 'Moston borders' 以命中 KB 中可能存在的 Moston 邻接城镇信息。",
+          "solver_judgment": "question 要求找出与 Moston, Manchester 接壤的城镇。search_query 搜索了 'towns bordering Moston, Manchester'。chunks 返回了 b4539429，其中记载 'Greengate is located in the south west of Chadderton. Greengate is close to the town's common borders with Moston.'，结合上下文 'the town' 指代 Chadderton，表明 Chadderton 与 Moston 接壤。检索命中了关键信息，虽表述间接但足以支撑答案。",
+          "critic_factual_notes": "1 个来源（Greengate, Greater Manchester 文档），单来源。支撑 chunk b4539429 原文记载'Greengate is located in the south west of Chadderton. Greengate is close to the town's common borders with Moston.'，其中'the town'指代前文的 Chadderton，表明 Chadderton 与 Moston 有共同边界。答案'Chadderton'与 chunk 内容一致。交叉验证：不充分（仅 1 个来源），但来源直接支撑答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。注意：此节点回答的是'Moston 与哪个城镇接壤'而非'Manchester 与哪个城镇接壤'，存在语义偏移，但证据本身可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "b4539429-272d-40ef-a7d0-2c2bbf5dadb9"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "b4539429-272d-40ef-a7d0-2c2bbf5dadb9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and relative positions of specific places, including Greengate, Chadderton, Middleton, and Moston.",
+              "context_title": "Greengate, Greater Manchester",
+              "page_content": "Moston lies to the south of Greengate. Moston is in the City of Manchester. Greengate is located in the south west of Chadderton. Greengate is close to the town's common borders with Middleton. Greengate is close to the town's common borders with Moston. Middleton lies to the west of Greengate."
+            },
+            {
+              "chunk_id": "1295a9d8-e267-485b-8809-f3bd26469675",
+              "chunk_title": "Football Grounds & Teams",
+              "chunk_summary": "This chunk contains information about specific football grounds, including their locations, project names, name changes, and the teams that play there.",
+              "context_title": "Broadhurst Park",
+              "page_content": "The ground was known by its project name, Moston Community Stadium. Broadhurst Park is the home of Moston Juniors F.C. Broadhurst Park is the home of F.C. United of Manchester. Broadhurst Park is a football ground in Moston, Manchester, England. The name of the ground was changed at a members' meeting in 2014."
+            },
+            {
+              "chunk_id": "d228983e-944a-45cc-a4cc-058a202182e4",
+              "chunk_title": "Geographical Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Penstrowed relative to other places.",
+              "context_title": "Eiluned Lewis",
+              "page_content": "Newtown is in Montgomeryshire. Penstrowed is near Newtown."
+            },
+            {
+              "chunk_id": "ca1e8a8d-83dd-442c-bda7-8954e5b1465e",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+              "context_title": "Notogawa, Shiga",
+              "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+            },
+            {
+              "chunk_id": "607710d8-78a4-4f41-a751-a4ca73369537",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+              "context_title": "Notogawa, Shiga",
+              "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+            },
+            {
+              "chunk_id": "0d452cdf-6a25-4e2b-a517-8e8eafa5f8f7",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+              "context_title": "Notogawa, Shiga",
+              "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+            },
+            {
+              "chunk_id": "01f26fd4-583c-4f07-8932-9ad54066a3b3",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places, including their county, state, country, and bordering towns.",
+              "context_title": "E Township, Maine",
+              "page_content": "E is located in Aroostook County, Maine, United States. E borders the town of Blaine to the east. E borders the town of Westfield to the north."
+            },
+            {
+              "chunk_id": "256a711d-9ee1-40db-b1e6-2f36c37bb716",
+              "chunk_title": "Neighboring Municipalities",
+              "chunk_summary": "This chunk contains information about the neighboring municipalities of specific cities.",
+              "context_title": "Boston",
+              "page_content": "Brookline is a neighboring municipality of Boston. Cambridge is a neighboring municipality of Boston. Somerville is a neighboring municipality of Boston."
+            },
+            {
+              "chunk_id": "27cacacb-9a08-442f-a533-54ffd8148371",
+              "chunk_title": "London Borough Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of specific places within London boroughs.",
+              "context_title": "Big Wood and Little Wood",
+              "page_content": "Hampstead Garden Suburb is in the London Borough of Barnet."
+            },
+            {
+              "chunk_id": "ca64f4ea-0f26-442b-a08b-ff15b733843b",
+              "chunk_title": "Geographic Classification",
+              "chunk_summary": "This chunk contains information about the classification of various geographic areas, such as cities and towns, based on their environmental characteristics.",
+              "context_title": "Mega Manila",
+              "page_content": "Cities, towns, and barangays may be urban, suburban, mountains, or rural areas."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "The city which contains Broadhurst Park shares a border with what town?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "The city which contains Broadhurst Park shares a border with what town?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。推理链完整：N1_1 确定 Broadhurst Park 位于 Manchester，N1_2 确定 Chadderton 与 Moston（Manchester 内区域）接壤。子节点均已 SOLVED + healthy，可合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链合成。推理链 N0→N1_1→N1_2 完整：N1_1（1个独立来源，Broadhurst Park 文档）确定 Broadhurst Park 位于 Moston, Manchester；N1_2（1个独立来源，Greengate, Greater Manchester 文档）确定 Chadderton 与 Moston 有共同边界。两个子节点证据均直接具体，推理链逻辑自洽。存在语义偏移：Q 询问的是 Manchester 市的边界，实际推理链回答的是 Moston 区域的边界，但这是 KB 约束下的务实策略。",
+          "critic_normative_advice": "推理链完整，证据充分。建议在最终答案生成时明确说明推理跳跃：Chadderton 与 Moston（Manchester 内的区域）接壤，因此 Chadderton 可视为与包含 Broadhurst Park 的城市（Manchester）接壤的城镇。DAG 结构无需调整，可终止探索。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What city contains Broadhurst Park?",
+          "answer": "Manchester",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What city contains Broadhurst Park?",
+          "planner_rationale": "Q 的核心实体识别——确定 'the city which contains Broadhurst Park' 是 Manchester。已 SOLVED + healthy，证据充分（Broadhurst Park 文档直接记载），无需重搜。",
+          "solver_judgment": "question 要求找出包含 Broadhurst Park 的城市。search_query 直接搜索了 'What city contains Broadhurst Park?'。chunks 返回了关于 Broadhurst Park 的信息，其中 chunk 1295a9d8-e267-485b-8809-f3bd26469675 明确记载 'Broadhurst Park is a football ground in Moston, Manchester, England.'，直接回答了该公园位于 Manchester。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（Broadhurst Park 文档）。支撑 chunk 1295a9d8 原文直接记载 'Broadhurst Park is a football ground in Moston, Manchester, England.'，与声称答案 'Manchester' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1295a9d8-e267-485b-8809-f3bd26469675"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "1295a9d8-e267-485b-8809-f3bd26469675",
+              "chunk_title": "Football Grounds & Teams",
+              "chunk_summary": "This chunk contains information about specific football grounds, including their locations, project names, name changes, and the teams that play there.",
+              "context_title": "Broadhurst Park",
+              "page_content": "The ground was known by its project name, Moston Community Stadium. Broadhurst Park is the home of Moston Juniors F.C. Broadhurst Park is the home of F.C. United of Manchester. Broadhurst Park is a football ground in Moston, Manchester, England. The name of the ground was changed at a members' meeting in 2014."
+            },
+            {
+              "chunk_id": "a172f625-82cd-42a3-b7a3-a78cebb069a2",
+              "chunk_title": "Neighborhoods & Demographics",
+              "chunk_summary": "This chunk contains information about specific neighborhoods, including their locations, historical founding details, internal subdivisions, and population statistics.",
+              "context_title": "Flatbush, Brooklyn",
+              "page_content": "The neighborhood Flatbush had a population of 105,804 as of the 2010 United States Census. The neighborhood Flatbush consists of several subsections. Flatbush was founded in 1651 by Dutch colonists. Flatbush is a neighborhood in the New York City borough of Brooklyn."
+            },
+            {
+              "chunk_id": "7603c992-5b06-4334-8aba-8cc14f14d253",
+              "chunk_title": "Public Parks & Recreation",
+              "chunk_summary": "This chunk contains information about city parks and public recreational spaces.",
+              "context_title": "San Antonio River Walk",
+              "page_content": "The San Antonio River Walk is a city park."
+            },
+            {
+              "chunk_id": "29270e0f-2885-4946-a7e2-4cacc0ef322f",
+              "chunk_title": "US City Locations & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of specific cities in the United States.",
+              "context_title": "Litchfield Park, Arizona",
+              "page_content": "Litchfield Park is a city in Maricopa County, Arizona, United States. Litchfield Park is twenty miles northwest of Phoenix."
+            },
+            {
+              "chunk_id": "ceea42ba-0817-452b-9aef-d4aecdf6dfa6",
+              "chunk_title": "Dartmouth Park Location",
+              "chunk_summary": "This chunk contains information about the geographical location, topography, and administrative details of Dartmouth Park in London.",
+              "context_title": "Dartmouth Park",
+              "page_content": "Dartmouth Park is in the London Borough of Camden. Dartmouth Park is a district of north London. Dartmouth Park is on the slope of the hill that rises up to Highgate from Kentish Town. On its west side, Dartmouth Park borders Parliament Hill Fields."
+            },
+            {
+              "chunk_id": "26eabc7e-8e71-483c-8c21-0950de3700e8",
+              "chunk_title": "NYC Neighborhood Locations",
+              "chunk_summary": "This chunk contains information about the geographic location of neighborhoods within New York City boroughs.",
+              "context_title": "St. Francis Preparatory School",
+              "page_content": "The Fresh Meadows neighborhood is in the New York City Borough of Queens."
+            },
+            {
+              "chunk_id": "b7a4c751-75cf-44a3-b608-beb57c4865ee",
+              "chunk_title": "Ahuntsic Park Location & Boundaries",
+              "chunk_summary": "This chunk contains information about the location, classification, and boundaries of Ahuntsic Park in Montreal, Quebec.",
+              "context_title": "Ahuntsic Park",
+              "page_content": "Ahuntsic Park is bordered by Saint Hubert Street to the east. Ahuntsic Park is an urban park. Ahuntsic Park is located in the borough of Ahuntsic-Cartierville. Ahuntsic Park is bordered by Henri Bourassa Boulevard to the north. Ahuntsic Park is located next to Terminus Henri-Bourassa. Ahuntsic Park is located in Montreal, Quebec, Canada. Ahuntsic Park is bordered by Fleury Street to the south. Ahuntsic Park is bordered by Lajeunesse Street to the west."
+            },
+            {
+              "chunk_id": "278b6f32-da6f-4b91-bacf-95fd1216c51f",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the locations of specific venues or landmarks.",
+              "context_title": "2016 NBA draft",
+              "page_content": "Barclays Center is in Brooklyn."
+            },
+            {
+              "chunk_id": "adaaee39-3136-4daf-b5f2-09989da7c1f3",
+              "chunk_title": "US Open Tennis Championships",
+              "chunk_summary": "This chunk contains information about the United States Open Tennis Championships, including its status as a Grand Slam event and details about its venue location.",
+              "context_title": "New York City",
+              "page_content": "The National Tennis Center is located in Flushing Meadows-Corona Park. Flushing Meadows-Corona Park is located in Queens. The annual United States Open Tennis Championships is one of the world's four Grand Slam tennis tournaments. The annual United States Open Tennis Championships is held at the National Tennis Center."
+            },
+            {
+              "chunk_id": "27cacacb-9a08-442f-a533-54ffd8148371",
+              "chunk_title": "London Borough Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of specific places within London boroughs.",
+              "context_title": "Big Wood and Little Wood",
+              "page_content": "Hampstead Garden Suburb is in the London Borough of Barnet."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What town borders Moston, Manchester?",
+          "answer": "Chadderton",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "towns bordering Moston, Manchester",
+          "planner_rationale": "Q 的核心询问——确定与 Broadhurst Park 所在区域接壤的城镇。已 SOLVED + healthy，证据充分（Greengate 文档记载 Chadderton 与 Moston 有共同边界）。虽存在语义偏移（搜索 Moston 边界而非 Manchester 市边界），但这是务实策略且命中了 KB 中的有效信息。",
+          "solver_judgment": "question 要求找出与 Moston, Manchester 接壤的城镇。search_query 搜索了 'towns bordering Moston, Manchester'。chunks 返回了 b4539429，其中记载 'Greengate is located in the south west of Chadderton. Greengate is close to the town's common borders with Moston.'，结合上下文 'the town' 指代 Chadderton，表明 Chadderton 与 Moston 接壤。检索命中了关键信息，虽表述间接但足以支撑答案。",
+          "critic_factual_notes": "1 个独立来源（Greengate, Greater Manchester 文档）。支撑 chunk b4539429 原文记载 'Greengate is located in the south west of Chadderton. Greengate is close to the town's common borders with Moston.'，其中 'the town' 指代前文的 Chadderton，表明 Chadderton 与 Moston 有共同边界。答案 'Chadderton' 与 chunk 内容一致。交叉验证：不充分（仅 1 个来源），但来源直接支撑答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。注意：此节点回答的是 'Moston 与哪个城镇接壤' 而非 'Manchester 与哪个城镇接壤'，存在语义偏移，但证据本身可靠，且是 KB 约束下的最优解。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "b4539429-272d-40ef-a7d0-2c2bbf5dadb9"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "b4539429-272d-40ef-a7d0-2c2bbf5dadb9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and relative positions of specific places, including Greengate, Chadderton, Middleton, and Moston.",
+              "context_title": "Greengate, Greater Manchester",
+              "page_content": "Moston lies to the south of Greengate. Moston is in the City of Manchester. Greengate is located in the south west of Chadderton. Greengate is close to the town's common borders with Middleton. Greengate is close to the town's common borders with Moston. Middleton lies to the west of Greengate."
+            },
+            {
+              "chunk_id": "1295a9d8-e267-485b-8809-f3bd26469675",
+              "chunk_title": "Football Grounds & Teams",
+              "chunk_summary": "This chunk contains information about specific football grounds, including their locations, project names, name changes, and the teams that play there.",
+              "context_title": "Broadhurst Park",
+              "page_content": "The ground was known by its project name, Moston Community Stadium. Broadhurst Park is the home of Moston Juniors F.C. Broadhurst Park is the home of F.C. United of Manchester. Broadhurst Park is a football ground in Moston, Manchester, England. The name of the ground was changed at a members' meeting in 2014."
+            },
+            {
+              "chunk_id": "d228983e-944a-45cc-a4cc-058a202182e4",
+              "chunk_title": "Geographical Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Penstrowed relative to other places.",
+              "context_title": "Eiluned Lewis",
+              "page_content": "Newtown is in Montgomeryshire. Penstrowed is near Newtown."
+            },
+            {
+              "chunk_id": "ca1e8a8d-83dd-442c-bda7-8954e5b1465e",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+              "context_title": "Notogawa, Shiga",
+              "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+            },
+            {
+              "chunk_id": "607710d8-78a4-4f41-a751-a4ca73369537",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+              "context_title": "Notogawa, Shiga",
+              "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+            },
+            {
+              "chunk_id": "0d452cdf-6a25-4e2b-a517-8e8eafa5f8f7",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and borders of towns.",
+              "context_title": "Notogawa, Shiga",
+              "page_content": "The town of Notogawa shares a small border with Lake Biwa to the northwest."
+            },
+            {
+              "chunk_id": "01f26fd4-583c-4f07-8932-9ad54066a3b3",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places, including their county, state, country, and bordering towns.",
+              "context_title": "E Township, Maine",
+              "page_content": "E is located in Aroostook County, Maine, United States. E borders the town of Blaine to the east. E borders the town of Westfield to the north."
+            },
+            {
+              "chunk_id": "256a711d-9ee1-40db-b1e6-2f36c37bb716",
+              "chunk_title": "Neighboring Municipalities",
+              "chunk_summary": "This chunk contains information about the neighboring municipalities of specific cities.",
+              "context_title": "Boston",
+              "page_content": "Brookline is a neighboring municipality of Boston. Cambridge is a neighboring municipality of Boston. Somerville is a neighboring municipality of Boston."
+            },
+            {
+              "chunk_id": "27cacacb-9a08-442f-a533-54ffd8148371",
+              "chunk_title": "London Borough Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of specific places within London boroughs.",
+              "context_title": "Big Wood and Little Wood",
+              "page_content": "Hampstead Garden Suburb is in the London Borough of Barnet."
+            },
+            {
+              "chunk_id": "ca64f4ea-0f26-442b-a08b-ff15b733843b",
+              "chunk_title": "Geographic Classification",
+              "chunk_summary": "This chunk contains information about the classification of various geographic areas, such as cities and towns, based on their environmental characteristics.",
+              "context_title": "Mega Manila",
+              "page_content": "Cities, towns, and barangays may be urban, suburban, mountains, or rural areas."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What city contains Broadhurst Park?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "1295a9d8-e267-485b-8809-f3bd26469675",
+        "a172f625-82cd-42a3-b7a3-a78cebb069a2",
+        "7603c992-5b06-4334-8aba-8cc14f14d253",
+        "29270e0f-2885-4946-a7e2-4cacc0ef322f",
+        "ceea42ba-0817-452b-9aef-d4aecdf6dfa6",
+        "26eabc7e-8e71-483c-8c21-0950de3700e8",
+        "b7a4c751-75cf-44a3-b608-beb57c4865ee",
+        "278b6f32-da6f-4b91-bacf-95fd1216c51f",
+        "adaaee39-3136-4daf-b5f2-09989da7c1f3",
+        "27cacacb-9a08-442f-a533-54ffd8148371"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What town does Manchester share a border with?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "b4539429-272d-40ef-a7d0-2c2bbf5dadb9",
+        "094fa0b2-148b-4df9-a983-6bec89fdc572",
+        "01f26fd4-583c-4f07-8932-9ad54066a3b3",
+        "256a711d-9ee1-40db-b1e6-2f36c37bb716",
+        "c56e8a4b-0e5f-4e3e-a317-8e44aca63746",
+        "ca1e8a8d-83dd-442c-bda7-8954e5b1465e",
+        "607710d8-78a4-4f41-a751-a4ca73369537",
+        "0d452cdf-6a25-4e2b-a517-8e8eafa5f8f7",
+        "1295a9d8-e267-485b-8809-f3bd26469675",
+        "3bddea20-3309-4030-bf8b-209ed7b9dc8f"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "towns bordering Moston, Manchester",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "b4539429-272d-40ef-a7d0-2c2bbf5dadb9",
+        "1295a9d8-e267-485b-8809-f3bd26469675",
+        "d228983e-944a-45cc-a4cc-058a202182e4",
+        "ca1e8a8d-83dd-442c-bda7-8954e5b1465e",
+        "607710d8-78a4-4f41-a751-a4ca73369537",
+        "0d452cdf-6a25-4e2b-a517-8e8eafa5f8f7",
+        "01f26fd4-583c-4f07-8932-9ad54066a3b3",
+        "256a711d-9ee1-40db-b1e6-2f36c37bb716",
+        "27cacacb-9a08-442f-a533-54ffd8148371",
+        "ca64f4ea-0f26-442b-a08b-ff15b733843b"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What city contains Broadhurst Park?（理由：Q 询问的是某个城市与哪个城镇接壤，但该城市通过 'contains Broadhurst Park' 间接指代，必须先识别该城市），F2: What town does that city share a border with?（理由：Q 的核心询问——该城市与哪个城镇接壤）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'that city' 必须用 F1 的 answer 消解后才能搜索）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question='What city contains Broadhurst Park?'），原因：Q 中 'the city which contains Broadhurst Park' 是间接指代，需先确立该城市身份。新增: $2（question='What town does that city share a border with?'），原因：Q 的最终询问是目标城镇。新增边: N0→$1（decomposition），N0→$2（decomposition），$1→$2（dependency），原因：$1 和 $2 都是 Q 的分解子事实，且 $2 的 question 含 'that city' 指代 $1 的 answer，构成硬依赖。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 的 critic_health 为 blocked（搜索返回内容完全无关），非 healthy。条件②通过：N1_1→N1_2 依赖链语义有效（Manchester 消解了 'that city'）。条件①未满足：N1_2 状态为 unsolved。需继续探索——建议调整 N1_2 的搜索查询策略。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What city contains Broadhurst Park?（理由：Q 中 'the city which contains Broadhurst Park' 是间接指代，需先识别该城市），F2: What town borders Moston, Manchester?（理由：Q 的核心询问——该城市/区域与哪个城镇接壤。Broadhurst Park 位于 Moston, Manchester，搜索 Moston 的边界比搜索整个 Manchester 市的边界更可能命中 KB 中的具体信息）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'Moston, Manchester' 的上下文来自 F1 的 answer 'Manchester'，确认 Moston 是 Manchester 内的区域）。",
+      "hypothesis_delta": "换标: N1_2 question 从 \"What town does that city share a border with?\" 改为 \"What town borders Moston, Manchester?\"，原因：上一轮搜索 'Manchester share a border with' 返回 10 个结果中 9 个讨论完全不相关的城市（Hanover、Boston、Valencia、Notogawa），搜索策略完全失效。Critic 建议从 Moston（Broadhurst Park 所在区域）角度搜索边界信息。Broadhurst Park 明确位于 Moston, Manchester，Q 中 'the city which contains Broadhurst Park' 可能实际指 Moston 这个区域/城镇单元，而非整个 Manchester 市。换搜索方向为 Moston 的边界，更可能命中 KB 中的具体邻接信息。保留: N0→N1_2（decomposition）和 N1_1→N1_2（dependency）边结构不变，维持原有分解和依赖关系。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED（N1_1、N1_2 均为 solved）；②推理链语义匹配——N0→N1_1→N1_2 路径中，N1_1 answer='Manchester'为 N1_2 question 中'Moston, Manchester'提供上下文，依赖链有效；③全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；④拓扑虽有变化（N1_2 ques"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What city contains Broadhurst Park?（理由：Q 中 'the city which contains Broadhurst Park' 是间接指代，需先识别该城市），F2: What town borders Moston, Manchester?（理由：Q 的核心询问——该城市/区域与哪个城镇接壤。由于直接搜索 Manchester 的边界返回大量无关结果，务实策略改为搜索 Broadhurst Park 所在的具体区域 Moston 的边界）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'Moston, Manchester' 的上下文确认来自 F1 的 answer 'Manchester'）。推理链完整：Broadhurst Park → Moston, Manchester → Chadderton 与 Moston 接壤。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 INHERIT，所有边通过 LINK 保留。原因：N1_1 和 N1_2 均已 SOLVED + healthy，Critic 建议直接保留。推理链 N0→N1_1→N1_2 完整且逻辑自洽，证据充分（N1_1 有 Broadhurst Park 文档直接支撑，N1_2 有 Greengate 文档支撑）。语义缺口（Manchester 市边界 vs Moston 区域边界）已在 Critic 笔记中记录，不影响 DAG 结构，仅需在最终答案生成时说明推理跳跃。DAG 已收敛，无需进一步搜索。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件②通过：推理链 N0→N1_1→N1_2 语义有效，N1_1 answer='Manchester' 消解了 N1_2 question 中的地理指代。条件③通过：所有节点（N0, N1_1, N1_2）均为 healthy。但条件④未通过——§5 明确指出'如这是首次出现拓扑不变（即上一轮有变化），本轮通过不意味着条件④已满足——还需下一轮确认'。当前拓扑虽与上一轮一致，但需连续 2 轮拓扑"
+      }
+    }
+  ]
+}

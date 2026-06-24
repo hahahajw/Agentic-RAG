@@ -1,0 +1,663 @@
+{
+  "question_index": 121,
+  "question_id": "5ab9e477554299232ef4a25d",
+  "question": "Which was built first Woolworth Building or 1 New York Plaza?",
+  "answer": "Woolworth Building",
+  "prediction": "Woolworth Building",
+  "error": null,
+  "latency_ms": 251189.98019999888,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T07:08:31.026884+00:00",
+  "chunks": [
+    {
+      "chunk_id": "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3",
+      "chunk_title": "Construction Dates",
+      "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building was constructed between 1910 and 1912."
+    },
+    {
+      "chunk_id": "2c9b6ed8-3dbd-4e96-95a3-8e181cd00a7d",
+      "chunk_title": "Historic Buildings & Districts",
+      "chunk_summary": "This chunk contains information about the history, location, and historic district status of specific buildings.",
+      "context_title": "F. W. Woolworth Building (Watertown, New York)",
+      "page_content": "Plans for the Woolworth Building were begun in 1916 by Frank W. Woolworth. The Woolworth Building is an historic building in Watertown, New York. The Woolworth Building is a contributing building in the Public Square Historic District."
+    },
+    {
+      "chunk_id": "03fc9c0b-84a1-4dc5-9951-f5d623fd50b1",
+      "chunk_title": "Historic Landmark Status",
+      "chunk_summary": "This chunk contains information about the historical landmark status and designation dates of significant buildings.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building has been a National Historic Landmark since 1966. The Woolworth Building has been a New York City landmark since 1983."
+    },
+    {
+      "chunk_id": "570edb02-1562-4f73-8a01-0ae5ed7601c3",
+      "chunk_title": "Land Acquisition",
+      "chunk_summary": "This chunk contains information about the acquisition of land and real estate for construction projects, specifically detailing the purchase of the Woolworth Building site by F. W. Woolworth and Edward J. Hogan from various owners between 1910 and 1911.",
+      "context_title": "Woolworth Building",
+      "page_content": "By January 18, 1911, F. W. Woolworth and Edward J. Hogan had acquired the final site for the Woolworth Building project. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building for $1.65 million. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building from the Trenor Luther Park Estate and other owners. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building by April 15, 1910. The original site for the Woolworth Building was purchased by F. W. Woolworth and his real estate agent Edward J. Hogan. The total cost for the final site of the Woolworth Building project was $4.5 million."
+    },
+    {
+      "chunk_id": "47e7cd84-bc71-4eab-b786-a22669c41497",
+      "chunk_title": "90 West Street Building",
+      "chunk_summary": "This chunk contains information about the 90 West Street building in New York City, including its architects, completion date, Gothic architectural style, original purpose, and historical significance.",
+      "context_title": "90 West Street",
+      "page_content": "The main tenant of 90 West Street was the Delaware, Lackawanna and Western Railroad. 90 West Street was completed in 1907. The Gothic styling and ornamentation of 90 West Street foreshadowed Cass Gilbert's later work on the Woolworth Building. 90 West Street was originally built as an office building. 90 West Street was designed by architect Cass Gilbert. 90 West Street was designed by structural engineer Gunvald Aus. 90 West Street was designed for the West Street Improvement Corporation. 90 West Street features Gothic styling and ornamentation. 90 West Street is a building in Lower Manhattan, New York City. The top floor of 90 West Street was occupied by Garret's Restaurant. The Gothic styling and ornamentation of 90 West Street served to emphasize its 23-story height."
+    },
+    {
+      "chunk_id": "47ac83c8-315a-4aab-a12b-851dce64aaff",
+      "chunk_title": "Architectural Terra Cotta",
+      "chunk_summary": "This chunk contains information about architectural terra cotta detailing used in building designs.",
+      "context_title": "Westchester Avenue (NYW&amp;B station)",
+      "page_content": "Cass Gilbert employed similar terra cotta detailing in his 1910 design for the Woolworth Building."
+    },
+    {
+      "chunk_id": "a4d04d40-5a34-4313-b5d0-d8a3328a5e77",
+      "chunk_title": "Early US Skyscrapers",
+      "chunk_summary": "This chunk contains information about the Woolworth Building, an early US skyscraper that remains one of the tallest buildings in the country.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building is an early US skyscraper. More than a century after its construction, the Woolworth Building remains one of the 100 tallest buildings in the United States."
+    },
+    {
+      "chunk_id": "39563efa-8184-480e-b3d2-f8a8558c58e3",
+      "chunk_title": "Building Heights & Rankings",
+      "chunk_summary": "This chunk contains information about the height and ranking of specific buildings.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building is 241.4 meters tall. The Woolworth Building is one of the 30 tallest buildings in New York City."
+    },
+    {
+      "chunk_id": "6130fa3d-814f-436f-a941-b40a51b269b7",
+      "chunk_title": "Cass Gilbert's Architectural Career",
+      "chunk_summary": "This chunk contains information about the architectural career and notable building designs of Cass Gilbert, including his role as a skyscraper pioneer and designer of significant public structures.",
+      "context_title": "Abraham M. Radcliffe",
+      "page_content": "Cass Gilbert designed the Woolworth Building. Cass Gilbert designed the United States Supreme Court building. Cass Gilbert was a skyscraper pioneer. Cass Gilbert designed many important public structures."
+    },
+    {
+      "chunk_id": "03009422-12e9-4a27-9f8a-7830130700dd",
+      "chunk_title": "Construction Dates",
+      "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+      "context_title": "Transportation Building",
+      "page_content": "The Transportation Building was built in 1927."
+    },
+    {
+      "chunk_id": "79e2ae2a-682f-4008-aa76-b2dedf2ae20d",
+      "chunk_title": "Building Locations & Dates",
+      "chunk_summary": "This chunk contains information about the location, construction date, and specific site details of buildings or landmarks.",
+      "context_title": "1 New York Plaza",
+      "page_content": "1 New York Plaza is in New York City's Financial District. 1 New York Plaza was built at the intersection of South and Whitehall Streets. 1 New York Plaza is the southernmost of all Manhattan skyscrapers. 1 New York Plaza was built in 1969."
+    },
+    {
+      "chunk_id": "fd88f2c5-2e3a-4c8d-9754-19994ad74fa4",
+      "chunk_title": "Office Buildings",
+      "chunk_summary": "This chunk contains information about office buildings and their characteristics.",
+      "context_title": "1 New York Plaza",
+      "page_content": "1 New York Plaza is an office building."
+    },
+    {
+      "chunk_id": "065cec07-35db-4e7c-90f9-eb3be37d4777",
+      "chunk_title": "Building Architecture & Design",
+      "chunk_summary": "This chunk contains information about the architectural styles, materials, notable design features, construction dates, and designers of specific buildings.",
+      "context_title": "200 Central Park South",
+      "page_content": "200 Central Park South was built post-war in 1963. The terraces of 200 Central Park South taper in, then curve, and taper out. 200 Central Park South is most notably recognizable in New York City photographs for its curved facade. 200 Central Park South is a Modern-style building. The building 200 Central Park South is lined with terraces. The terraces of 200 Central Park South wrap around the two faces of the building 200 Central Park South. The exterior of 200 Central Park South is beige brick and glass. 200 Central Park South was designed by Wechsler & Schimenti. The curving facade of 200 Central Park South is banded by balconies. 200 Central Park South is most notable for its curving facade."
+    },
+    {
+      "chunk_id": "9057f002-7270-4536-9239-267bcde82c8e",
+      "chunk_title": "Building Projects",
+      "chunk_summary": "This chunk contains information about the construction status, developers, and architects of specific building projects.",
+      "context_title": "220 Central Park South",
+      "page_content": "220 Central Park South is being designed by Robert A.M. Stern Architects. 220 Central Park South is being developed by Vornado Realty Trust. 220 Central Park South is currently under construction."
+    },
+    {
+      "chunk_id": "8a6790e7-24e4-4cc9-88c3-facdc42f0f07",
+      "chunk_title": "Residential Skyscrapers",
+      "chunk_summary": "This chunk contains information about residential skyscrapers and their characteristics.",
+      "context_title": "220 Central Park South",
+      "page_content": "220 Central Park South is a residential skyscraper."
+    },
+    {
+      "chunk_id": "75ce248e-25db-44a2-b4a5-9f02889e4238",
+      "chunk_title": "Locations",
+      "chunk_summary": "This chunk contains information about the locations of specific landmarks or buildings.",
+      "context_title": "Black and White Ball",
+      "page_content": "The Plaza Hotel is in New York City."
+    },
+    {
+      "chunk_id": "278593df-13a1-4a64-9f1b-a777920dcb67",
+      "chunk_title": "Central Park Development Overview",
+      "chunk_summary": "This chunk contains information about the complexes, components, residential capacity, specific floor area metrics, and development timeline of the Central Park Development.",
+      "context_title": "The Mark (Sydney)",
+      "page_content": "The Central Park redevelopment delivered 1,426 apartments. Mark One primarily consists of one and two bedroom floor plans. The Mark building was one of the stage two developments of Central Park. The Mark is one of the three complexes of Central Park Development. The Gross Floor Area (GFA) for The Mark is 24,000 square metres. The stage two development of Central Park started in September 2011. Central Park Development comprises residential, retail and commercial components. The stage two development of Central Park was completed in August 2014."
+    },
+    {
+      "chunk_id": "094bcc45-ef96-48bb-a9ff-a971af0dbb01",
+      "chunk_title": "Construction Dates & Timelines",
+      "chunk_summary": "This chunk contains information about the construction dates and timelines of buildings or developments.",
+      "context_title": "C.J. Segerstrom &amp; Sons",
+      "page_content": "Construction began on South Coast Plaza in 1967."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3888888888888889,
+  "retrieval_count": 2,
+  "total_chunks": 18,
+  "total_distinct_titles": 12,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which was built first Woolworth Building or 1 New York Plaza?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which was built first Woolworth Building or 1 New York Plaza?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Woolworth Building 和 1 New York Plaza 的建造时间并比较先后",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据为子节点推理链的聚合。子节点 N1_1 提供 Woolworth Building 建造时间为 between 1910 and 1912，N1_2 提供 1 New York Plaza 建造时间为 1969。两条推理链均完整，答案可直接比较：1910-1912 早于 1969。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，答案聚合后可直接回答 Q。无需新增节点。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Woolworth Building built?",
+          "answer": "between 1910 and 1912",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Woolworth Building built?",
+          "planner_rationale": "Q 要求比较两座建筑的建造先后，必须先获取 Woolworth Building 的建造年份",
+          "solver_judgment": "Question asks for the construction date of the Woolworth Building. Search query matches the question. Chunk c0a8873f-c0a0-4e26-ab2b-f41d80b633f3 explicitly states 'The Woolworth Building was constructed between 1910 and 1912.' This directly answers the question. Retrieval is precise and complete.",
+          "critic_factual_notes": "1 个来源（文档 Woolworth Building），单来源但直接、具体地陈述了答案。支撑 chunk c0a8873f 全文为 'The Woolworth Building was constructed between 1910 and 1912.'，与声称答案 'between 1910 and 1912' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3",
+              "chunk_title": "Construction Dates",
+              "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building was constructed between 1910 and 1912."
+            },
+            {
+              "chunk_id": "2c9b6ed8-3dbd-4e96-95a3-8e181cd00a7d",
+              "chunk_title": "Historic Buildings & Districts",
+              "chunk_summary": "This chunk contains information about the history, location, and historic district status of specific buildings.",
+              "context_title": "F. W. Woolworth Building (Watertown, New York)",
+              "page_content": "Plans for the Woolworth Building were begun in 1916 by Frank W. Woolworth. The Woolworth Building is an historic building in Watertown, New York. The Woolworth Building is a contributing building in the Public Square Historic District."
+            },
+            {
+              "chunk_id": "03fc9c0b-84a1-4dc5-9951-f5d623fd50b1",
+              "chunk_title": "Historic Landmark Status",
+              "chunk_summary": "This chunk contains information about the historical landmark status and designation dates of significant buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building has been a National Historic Landmark since 1966. The Woolworth Building has been a New York City landmark since 1983."
+            },
+            {
+              "chunk_id": "570edb02-1562-4f73-8a01-0ae5ed7601c3",
+              "chunk_title": "Land Acquisition",
+              "chunk_summary": "This chunk contains information about the acquisition of land and real estate for construction projects, specifically detailing the purchase of the Woolworth Building site by F. W. Woolworth and Edward J. Hogan from various owners between 1910 and 1911.",
+              "context_title": "Woolworth Building",
+              "page_content": "By January 18, 1911, F. W. Woolworth and Edward J. Hogan had acquired the final site for the Woolworth Building project. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building for $1.65 million. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building from the Trenor Luther Park Estate and other owners. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building by April 15, 1910. The original site for the Woolworth Building was purchased by F. W. Woolworth and his real estate agent Edward J. Hogan. The total cost for the final site of the Woolworth Building project was $4.5 million."
+            },
+            {
+              "chunk_id": "47e7cd84-bc71-4eab-b786-a22669c41497",
+              "chunk_title": "90 West Street Building",
+              "chunk_summary": "This chunk contains information about the 90 West Street building in New York City, including its architects, completion date, Gothic architectural style, original purpose, and historical significance.",
+              "context_title": "90 West Street",
+              "page_content": "The main tenant of 90 West Street was the Delaware, Lackawanna and Western Railroad. 90 West Street was completed in 1907. The Gothic styling and ornamentation of 90 West Street foreshadowed Cass Gilbert's later work on the Woolworth Building. 90 West Street was originally built as an office building. 90 West Street was designed by architect Cass Gilbert. 90 West Street was designed by structural engineer Gunvald Aus. 90 West Street was designed for the West Street Improvement Corporation. 90 West Street features Gothic styling and ornamentation. 90 West Street is a building in Lower Manhattan, New York City. The top floor of 90 West Street was occupied by Garret's Restaurant. The Gothic styling and ornamentation of 90 West Street served to emphasize its 23-story height."
+            },
+            {
+              "chunk_id": "47ac83c8-315a-4aab-a12b-851dce64aaff",
+              "chunk_title": "Architectural Terra Cotta",
+              "chunk_summary": "This chunk contains information about architectural terra cotta detailing used in building designs.",
+              "context_title": "Westchester Avenue (NYW&amp;B station)",
+              "page_content": "Cass Gilbert employed similar terra cotta detailing in his 1910 design for the Woolworth Building."
+            },
+            {
+              "chunk_id": "a4d04d40-5a34-4313-b5d0-d8a3328a5e77",
+              "chunk_title": "Early US Skyscrapers",
+              "chunk_summary": "This chunk contains information about the Woolworth Building, an early US skyscraper that remains one of the tallest buildings in the country.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building is an early US skyscraper. More than a century after its construction, the Woolworth Building remains one of the 100 tallest buildings in the United States."
+            },
+            {
+              "chunk_id": "39563efa-8184-480e-b3d2-f8a8558c58e3",
+              "chunk_title": "Building Heights & Rankings",
+              "chunk_summary": "This chunk contains information about the height and ranking of specific buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building is 241.4 meters tall. The Woolworth Building is one of the 30 tallest buildings in New York City."
+            },
+            {
+              "chunk_id": "6130fa3d-814f-436f-a941-b40a51b269b7",
+              "chunk_title": "Cass Gilbert's Architectural Career",
+              "chunk_summary": "This chunk contains information about the architectural career and notable building designs of Cass Gilbert, including his role as a skyscraper pioneer and designer of significant public structures.",
+              "context_title": "Abraham M. Radcliffe",
+              "page_content": "Cass Gilbert designed the Woolworth Building. Cass Gilbert designed the United States Supreme Court building. Cass Gilbert was a skyscraper pioneer. Cass Gilbert designed many important public structures."
+            },
+            {
+              "chunk_id": "03009422-12e9-4a27-9f8a-7830130700dd",
+              "chunk_title": "Construction Dates",
+              "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+              "context_title": "Transportation Building",
+              "page_content": "The Transportation Building was built in 1927."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was 1 New York Plaza built?",
+          "answer": "1969",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was 1 New York Plaza built?",
+          "planner_rationale": "Q 要求比较两座建筑的建造先后，必须先获取 1 New York Plaza 的建造年份",
+          "solver_judgment": "question 要求确认 1 New York Plaza 的建造年份。search_query 搜索了 'When was 1 New York Plaza built?'。chunks 返回了关于 1 New York Plaza 的信息，其中 chunk 79e2ae2a-682f-4008-aa76-b2dedf2ae20d 明确记载 '1 New York Plaza was built in 1969'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 1 New York Plaza），单来源但直接、具体地陈述了答案。支撑 chunk 79e2ae2a 全文包含 '1 New York Plaza was built in 1969.'，与声称答案 '1969' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "79e2ae2a-682f-4008-aa76-b2dedf2ae20d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "79e2ae2a-682f-4008-aa76-b2dedf2ae20d",
+              "chunk_title": "Building Locations & Dates",
+              "chunk_summary": "This chunk contains information about the location, construction date, and specific site details of buildings or landmarks.",
+              "context_title": "1 New York Plaza",
+              "page_content": "1 New York Plaza is in New York City's Financial District. 1 New York Plaza was built at the intersection of South and Whitehall Streets. 1 New York Plaza is the southernmost of all Manhattan skyscrapers. 1 New York Plaza was built in 1969."
+            },
+            {
+              "chunk_id": "fd88f2c5-2e3a-4c8d-9754-19994ad74fa4",
+              "chunk_title": "Office Buildings",
+              "chunk_summary": "This chunk contains information about office buildings and their characteristics.",
+              "context_title": "1 New York Plaza",
+              "page_content": "1 New York Plaza is an office building."
+            },
+            {
+              "chunk_id": "065cec07-35db-4e7c-90f9-eb3be37d4777",
+              "chunk_title": "Building Architecture & Design",
+              "chunk_summary": "This chunk contains information about the architectural styles, materials, notable design features, construction dates, and designers of specific buildings.",
+              "context_title": "200 Central Park South",
+              "page_content": "200 Central Park South was built post-war in 1963. The terraces of 200 Central Park South taper in, then curve, and taper out. 200 Central Park South is most notably recognizable in New York City photographs for its curved facade. 200 Central Park South is a Modern-style building. The building 200 Central Park South is lined with terraces. The terraces of 200 Central Park South wrap around the two faces of the building 200 Central Park South. The exterior of 200 Central Park South is beige brick and glass. 200 Central Park South was designed by Wechsler & Schimenti. The curving facade of 200 Central Park South is banded by balconies. 200 Central Park South is most notable for its curving facade."
+            },
+            {
+              "chunk_id": "9057f002-7270-4536-9239-267bcde82c8e",
+              "chunk_title": "Building Projects",
+              "chunk_summary": "This chunk contains information about the construction status, developers, and architects of specific building projects.",
+              "context_title": "220 Central Park South",
+              "page_content": "220 Central Park South is being designed by Robert A.M. Stern Architects. 220 Central Park South is being developed by Vornado Realty Trust. 220 Central Park South is currently under construction."
+            },
+            {
+              "chunk_id": "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3",
+              "chunk_title": "Construction Dates",
+              "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building was constructed between 1910 and 1912."
+            },
+            {
+              "chunk_id": "47e7cd84-bc71-4eab-b786-a22669c41497",
+              "chunk_title": "90 West Street Building",
+              "chunk_summary": "This chunk contains information about the 90 West Street building in New York City, including its architects, completion date, Gothic architectural style, original purpose, and historical significance.",
+              "context_title": "90 West Street",
+              "page_content": "The main tenant of 90 West Street was the Delaware, Lackawanna and Western Railroad. 90 West Street was completed in 1907. The Gothic styling and ornamentation of 90 West Street foreshadowed Cass Gilbert's later work on the Woolworth Building. 90 West Street was originally built as an office building. 90 West Street was designed by architect Cass Gilbert. 90 West Street was designed by structural engineer Gunvald Aus. 90 West Street was designed for the West Street Improvement Corporation. 90 West Street features Gothic styling and ornamentation. 90 West Street is a building in Lower Manhattan, New York City. The top floor of 90 West Street was occupied by Garret's Restaurant. The Gothic styling and ornamentation of 90 West Street served to emphasize its 23-story height."
+            },
+            {
+              "chunk_id": "8a6790e7-24e4-4cc9-88c3-facdc42f0f07",
+              "chunk_title": "Residential Skyscrapers",
+              "chunk_summary": "This chunk contains information about residential skyscrapers and their characteristics.",
+              "context_title": "220 Central Park South",
+              "page_content": "220 Central Park South is a residential skyscraper."
+            },
+            {
+              "chunk_id": "75ce248e-25db-44a2-b4a5-9f02889e4238",
+              "chunk_title": "Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific landmarks or buildings.",
+              "context_title": "Black and White Ball",
+              "page_content": "The Plaza Hotel is in New York City."
+            },
+            {
+              "chunk_id": "278593df-13a1-4a64-9f1b-a777920dcb67",
+              "chunk_title": "Central Park Development Overview",
+              "chunk_summary": "This chunk contains information about the complexes, components, residential capacity, specific floor area metrics, and development timeline of the Central Park Development.",
+              "context_title": "The Mark (Sydney)",
+              "page_content": "The Central Park redevelopment delivered 1,426 apartments. Mark One primarily consists of one and two bedroom floor plans. The Mark building was one of the stage two developments of Central Park. The Mark is one of the three complexes of Central Park Development. The Gross Floor Area (GFA) for The Mark is 24,000 square metres. The stage two development of Central Park started in September 2011. Central Park Development comprises residential, retail and commercial components. The stage two development of Central Park was completed in August 2014."
+            },
+            {
+              "chunk_id": "094bcc45-ef96-48bb-a9ff-a971af0dbb01",
+              "chunk_title": "Construction Dates & Timelines",
+              "chunk_summary": "This chunk contains information about the construction dates and timelines of buildings or developments.",
+              "context_title": "C.J. Segerstrom &amp; Sons",
+              "page_content": "Construction began on South Coast Plaza in 1967."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which was built first Woolworth Building or 1 New York Plaza?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which was built first Woolworth Building or 1 New York Plaza?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED + healthy，分别提供 Woolworth Building (1910-1912) 和 1 New York Plaza (1969) 的建造时间，答案聚合后可直接比较得出 Woolworth Building 更早。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据为子节点推理链的聚合。子节点 N1_1 提供 Woolworth Building 建造时间为 between 1910 and 1912（单来源直接陈述），N1_2 提供 1 New York Plaza 建造时间为 1969（单来源直接陈述）。两条推理链均完整，答案可直接比较：1910-1912 早于 1969。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，答案聚合后可直接回答 Q。无需新增节点。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Woolworth Building built?",
+          "answer": "between 1910 and 1912",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Woolworth Building built?",
+          "planner_rationale": "Q 要求比较两座建筑的建造先后，Woolworth Building 的建造时间是必要子事实。已 SOLVED + healthy，证据直接且无歧义。",
+          "solver_judgment": "Question asks for the construction date of the Woolworth Building. Search query matches the question. Chunk c0a8873f-c0a0-4e26-ab2b-f41d80b633f3 explicitly states 'The Woolworth Building was constructed between 1910 and 1912.' This directly answers the question. Retrieval is precise and complete.",
+          "critic_factual_notes": "1 个来源（文档 Woolworth Building），单来源但直接、具体地陈述了答案。支撑 chunk c0a8873f 全文为 'The Woolworth Building was constructed between 1910 and 1912.'，与声称答案 'between 1910 and 1912' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3",
+              "chunk_title": "Construction Dates",
+              "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building was constructed between 1910 and 1912."
+            },
+            {
+              "chunk_id": "2c9b6ed8-3dbd-4e96-95a3-8e181cd00a7d",
+              "chunk_title": "Historic Buildings & Districts",
+              "chunk_summary": "This chunk contains information about the history, location, and historic district status of specific buildings.",
+              "context_title": "F. W. Woolworth Building (Watertown, New York)",
+              "page_content": "Plans for the Woolworth Building were begun in 1916 by Frank W. Woolworth. The Woolworth Building is an historic building in Watertown, New York. The Woolworth Building is a contributing building in the Public Square Historic District."
+            },
+            {
+              "chunk_id": "03fc9c0b-84a1-4dc5-9951-f5d623fd50b1",
+              "chunk_title": "Historic Landmark Status",
+              "chunk_summary": "This chunk contains information about the historical landmark status and designation dates of significant buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building has been a National Historic Landmark since 1966. The Woolworth Building has been a New York City landmark since 1983."
+            },
+            {
+              "chunk_id": "570edb02-1562-4f73-8a01-0ae5ed7601c3",
+              "chunk_title": "Land Acquisition",
+              "chunk_summary": "This chunk contains information about the acquisition of land and real estate for construction projects, specifically detailing the purchase of the Woolworth Building site by F. W. Woolworth and Edward J. Hogan from various owners between 1910 and 1911.",
+              "context_title": "Woolworth Building",
+              "page_content": "By January 18, 1911, F. W. Woolworth and Edward J. Hogan had acquired the final site for the Woolworth Building project. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building for $1.65 million. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building from the Trenor Luther Park Estate and other owners. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building by April 15, 1910. The original site for the Woolworth Building was purchased by F. W. Woolworth and his real estate agent Edward J. Hogan. The total cost for the final site of the Woolworth Building project was $4.5 million."
+            },
+            {
+              "chunk_id": "47e7cd84-bc71-4eab-b786-a22669c41497",
+              "chunk_title": "90 West Street Building",
+              "chunk_summary": "This chunk contains information about the 90 West Street building in New York City, including its architects, completion date, Gothic architectural style, original purpose, and historical significance.",
+              "context_title": "90 West Street",
+              "page_content": "The main tenant of 90 West Street was the Delaware, Lackawanna and Western Railroad. 90 West Street was completed in 1907. The Gothic styling and ornamentation of 90 West Street foreshadowed Cass Gilbert's later work on the Woolworth Building. 90 West Street was originally built as an office building. 90 West Street was designed by architect Cass Gilbert. 90 West Street was designed by structural engineer Gunvald Aus. 90 West Street was designed for the West Street Improvement Corporation. 90 West Street features Gothic styling and ornamentation. 90 West Street is a building in Lower Manhattan, New York City. The top floor of 90 West Street was occupied by Garret's Restaurant. The Gothic styling and ornamentation of 90 West Street served to emphasize its 23-story height."
+            },
+            {
+              "chunk_id": "47ac83c8-315a-4aab-a12b-851dce64aaff",
+              "chunk_title": "Architectural Terra Cotta",
+              "chunk_summary": "This chunk contains information about architectural terra cotta detailing used in building designs.",
+              "context_title": "Westchester Avenue (NYW&amp;B station)",
+              "page_content": "Cass Gilbert employed similar terra cotta detailing in his 1910 design for the Woolworth Building."
+            },
+            {
+              "chunk_id": "a4d04d40-5a34-4313-b5d0-d8a3328a5e77",
+              "chunk_title": "Early US Skyscrapers",
+              "chunk_summary": "This chunk contains information about the Woolworth Building, an early US skyscraper that remains one of the tallest buildings in the country.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building is an early US skyscraper. More than a century after its construction, the Woolworth Building remains one of the 100 tallest buildings in the United States."
+            },
+            {
+              "chunk_id": "39563efa-8184-480e-b3d2-f8a8558c58e3",
+              "chunk_title": "Building Heights & Rankings",
+              "chunk_summary": "This chunk contains information about the height and ranking of specific buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building is 241.4 meters tall. The Woolworth Building is one of the 30 tallest buildings in New York City."
+            },
+            {
+              "chunk_id": "6130fa3d-814f-436f-a941-b40a51b269b7",
+              "chunk_title": "Cass Gilbert's Architectural Career",
+              "chunk_summary": "This chunk contains information about the architectural career and notable building designs of Cass Gilbert, including his role as a skyscraper pioneer and designer of significant public structures.",
+              "context_title": "Abraham M. Radcliffe",
+              "page_content": "Cass Gilbert designed the Woolworth Building. Cass Gilbert designed the United States Supreme Court building. Cass Gilbert was a skyscraper pioneer. Cass Gilbert designed many important public structures."
+            },
+            {
+              "chunk_id": "03009422-12e9-4a27-9f8a-7830130700dd",
+              "chunk_title": "Construction Dates",
+              "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+              "context_title": "Transportation Building",
+              "page_content": "The Transportation Building was built in 1927."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was 1 New York Plaza built?",
+          "answer": "1969",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was 1 New York Plaza built?",
+          "planner_rationale": "Q 要求比较两座建筑的建造先后，1 New York Plaza 的建造时间是必要子事实。已 SOLVED + healthy，证据直接且无歧义。",
+          "solver_judgment": "question 要求确认 1 New York Plaza 的建造年份。search_query 搜索了 'When was 1 New York Plaza built?'。chunks 返回了关于 1 New York Plaza 的信息，其中 chunk 79e2ae2a-682f-4008-aa76-b2dedf2ae20d 明确记载 '1 New York Plaza was built in 1969'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 1 New York Plaza），单来源但直接、具体地陈述了答案。支撑 chunk 79e2ae2a 全文包含 '1 New York Plaza was built in 1969.'，与声称答案 '1969' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "79e2ae2a-682f-4008-aa76-b2dedf2ae20d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "79e2ae2a-682f-4008-aa76-b2dedf2ae20d",
+              "chunk_title": "Building Locations & Dates",
+              "chunk_summary": "This chunk contains information about the location, construction date, and specific site details of buildings or landmarks.",
+              "context_title": "1 New York Plaza",
+              "page_content": "1 New York Plaza is in New York City's Financial District. 1 New York Plaza was built at the intersection of South and Whitehall Streets. 1 New York Plaza is the southernmost of all Manhattan skyscrapers. 1 New York Plaza was built in 1969."
+            },
+            {
+              "chunk_id": "fd88f2c5-2e3a-4c8d-9754-19994ad74fa4",
+              "chunk_title": "Office Buildings",
+              "chunk_summary": "This chunk contains information about office buildings and their characteristics.",
+              "context_title": "1 New York Plaza",
+              "page_content": "1 New York Plaza is an office building."
+            },
+            {
+              "chunk_id": "065cec07-35db-4e7c-90f9-eb3be37d4777",
+              "chunk_title": "Building Architecture & Design",
+              "chunk_summary": "This chunk contains information about the architectural styles, materials, notable design features, construction dates, and designers of specific buildings.",
+              "context_title": "200 Central Park South",
+              "page_content": "200 Central Park South was built post-war in 1963. The terraces of 200 Central Park South taper in, then curve, and taper out. 200 Central Park South is most notably recognizable in New York City photographs for its curved facade. 200 Central Park South is a Modern-style building. The building 200 Central Park South is lined with terraces. The terraces of 200 Central Park South wrap around the two faces of the building 200 Central Park South. The exterior of 200 Central Park South is beige brick and glass. 200 Central Park South was designed by Wechsler & Schimenti. The curving facade of 200 Central Park South is banded by balconies. 200 Central Park South is most notable for its curving facade."
+            },
+            {
+              "chunk_id": "9057f002-7270-4536-9239-267bcde82c8e",
+              "chunk_title": "Building Projects",
+              "chunk_summary": "This chunk contains information about the construction status, developers, and architects of specific building projects.",
+              "context_title": "220 Central Park South",
+              "page_content": "220 Central Park South is being designed by Robert A.M. Stern Architects. 220 Central Park South is being developed by Vornado Realty Trust. 220 Central Park South is currently under construction."
+            },
+            {
+              "chunk_id": "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3",
+              "chunk_title": "Construction Dates",
+              "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building was constructed between 1910 and 1912."
+            },
+            {
+              "chunk_id": "47e7cd84-bc71-4eab-b786-a22669c41497",
+              "chunk_title": "90 West Street Building",
+              "chunk_summary": "This chunk contains information about the 90 West Street building in New York City, including its architects, completion date, Gothic architectural style, original purpose, and historical significance.",
+              "context_title": "90 West Street",
+              "page_content": "The main tenant of 90 West Street was the Delaware, Lackawanna and Western Railroad. 90 West Street was completed in 1907. The Gothic styling and ornamentation of 90 West Street foreshadowed Cass Gilbert's later work on the Woolworth Building. 90 West Street was originally built as an office building. 90 West Street was designed by architect Cass Gilbert. 90 West Street was designed by structural engineer Gunvald Aus. 90 West Street was designed for the West Street Improvement Corporation. 90 West Street features Gothic styling and ornamentation. 90 West Street is a building in Lower Manhattan, New York City. The top floor of 90 West Street was occupied by Garret's Restaurant. The Gothic styling and ornamentation of 90 West Street served to emphasize its 23-story height."
+            },
+            {
+              "chunk_id": "8a6790e7-24e4-4cc9-88c3-facdc42f0f07",
+              "chunk_title": "Residential Skyscrapers",
+              "chunk_summary": "This chunk contains information about residential skyscrapers and their characteristics.",
+              "context_title": "220 Central Park South",
+              "page_content": "220 Central Park South is a residential skyscraper."
+            },
+            {
+              "chunk_id": "75ce248e-25db-44a2-b4a5-9f02889e4238",
+              "chunk_title": "Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific landmarks or buildings.",
+              "context_title": "Black and White Ball",
+              "page_content": "The Plaza Hotel is in New York City."
+            },
+            {
+              "chunk_id": "278593df-13a1-4a64-9f1b-a777920dcb67",
+              "chunk_title": "Central Park Development Overview",
+              "chunk_summary": "This chunk contains information about the complexes, components, residential capacity, specific floor area metrics, and development timeline of the Central Park Development.",
+              "context_title": "The Mark (Sydney)",
+              "page_content": "The Central Park redevelopment delivered 1,426 apartments. Mark One primarily consists of one and two bedroom floor plans. The Mark building was one of the stage two developments of Central Park. The Mark is one of the three complexes of Central Park Development. The Gross Floor Area (GFA) for The Mark is 24,000 square metres. The stage two development of Central Park started in September 2011. Central Park Development comprises residential, retail and commercial components. The stage two development of Central Park was completed in August 2014."
+            },
+            {
+              "chunk_id": "094bcc45-ef96-48bb-a9ff-a971af0dbb01",
+              "chunk_title": "Construction Dates & Timelines",
+              "chunk_summary": "This chunk contains information about the construction dates and timelines of buildings or developments.",
+              "context_title": "C.J. Segerstrom &amp; Sons",
+              "page_content": "Construction began on South Coast Plaza in 1967."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was Woolworth Building built?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3",
+        "2c9b6ed8-3dbd-4e96-95a3-8e181cd00a7d",
+        "03fc9c0b-84a1-4dc5-9951-f5d623fd50b1",
+        "570edb02-1562-4f73-8a01-0ae5ed7601c3",
+        "47e7cd84-bc71-4eab-b786-a22669c41497",
+        "47ac83c8-315a-4aab-a12b-851dce64aaff",
+        "a4d04d40-5a34-4313-b5d0-d8a3328a5e77",
+        "39563efa-8184-480e-b3d2-f8a8558c58e3",
+        "6130fa3d-814f-436f-a941-b40a51b269b7",
+        "03009422-12e9-4a27-9f8a-7830130700dd"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was 1 New York Plaza built?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "79e2ae2a-682f-4008-aa76-b2dedf2ae20d",
+        "fd88f2c5-2e3a-4c8d-9754-19994ad74fa4",
+        "065cec07-35db-4e7c-90f9-eb3be37d4777",
+        "9057f002-7270-4536-9239-267bcde82c8e",
+        "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3",
+        "47e7cd84-bc71-4eab-b786-a22669c41497",
+        "8a6790e7-24e4-4cc9-88c3-facdc42f0f07",
+        "75ce248e-25db-44a2-b4a5-9f02889e4238",
+        "278593df-13a1-4a64-9f1b-a777920dcb67",
+        "094bcc45-ef96-48bb-a9ff-a971af0dbb01"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Woolworth Building built?（理由：Q 要求比较两座建筑的建造先后，必须先获取 Woolworth Building 的建造年份），F2: When was 1 New York Plaza built?（理由：Q 要求比较两座建筑的建造先后，必须先获取 1 New York Plaza 的建造年份）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。两个子节点相互独立，各自提供一座建筑的建造时间，Solver 获取两个年份后即可比较得出哪个更早。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个比较型问题（Which was built first A or B?），自然分解为两个独立的子事实探针——分别查询 A 和 B 的建造时间。两个子节点均为 decomposition 关系，无 dependency 关系（彼此不依赖对方的 answer）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点答案（between 1910 and 1912 与 1969）聚合后可直接比较得出 Woolworth Building 更早；条件③全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；条件④首轮不适用。推理链完整，所有"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Woolworth Building built?（理由：Q 是比较型问题，需先获取 Woolworth Building 的建造时间），F2: When was 1 New York Plaza built?（理由：需获取 1 New York Plaza 的建造时间以与 Woolworth Building 比较）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。两个子节点相互独立，各自提供一座建筑的建造时间，答案聚合后可直接比较：1910-1912 早于 1969，因此 Woolworth Building 先建成。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均 INHERIT，无边变更。原因：上一轮（首轮）的分解假设完全正确，两个子节点 N1_1 和 N1_2 均已 SOLVED + healthy，Critic 确认证据充分且无歧义。Q 的全部语义需求已被覆盖，无冗余无缺口，DAG 已逼近理想结构。无需新增、删除或换标任何节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N0→N1_1 和 N0→N1_2 两条 decomposition 路径均有效，子节点答案聚合后可直接比较得出 Woolworth Building 先建成；条件③全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；条件④本轮拓扑与上一轮一致。推理链完整，所有节点证据充分，可生成最终答案。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "question_index": 275,
+  "question_id": "44a138ee0bdc11eba7f7acde48001122",
+  "question": "Where did Chit Mi Of Prome's husband die?",
+  "answer": "Pyay",
+  "prediction": "CANNOT_ANSWER",
+  "error": null,
+  "latency_ms": 271586.49489999516,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T19:53:42.288419+00:00",
+  "chunks": [
+    {
+      "chunk_id": "8f68968a-0b5c-4833-8d97-6fc01ba4dea8",
+      "chunk_title": "Personal Relationships",
+      "chunk_summary": "This chunk contains information about the personal relationships and family connections of individuals.",
+      "context_title": "Michal Bat-Adam",
+      "page_content": "Moshé Mizrahi is Michal Bat-Adam's husband."
+    },
+    {
+      "chunk_id": "457eaba3-9bb4-49b9-906d-3a8925f85bc7",
+      "chunk_title": "Peju Ogunmola & Family",
+      "chunk_summary": "This chunk contains information about the professional identity and family background of Yoruba film actress Peju Ogunmola, including details about her father Kola Ogunmola, husband Sunday Omobolanle, and stepchild Sunkanmi Omobolanle.",
+      "context_title": "Peju Ogunmola",
+      "page_content": "Kola Ogunmola was Peju Ogunmola's father. Sunkanmi Omobolanle is Peju Ogunmola's stepchild. Peju Ogunmola stars in Nollywood movies of Yoruba genres. Peju Ogunmola is a Yoruba film actress. Sunday Omobolanle is a 64-year-old Nigerian comic actor. Sunday Omobolanle is a playwright. Sunday Omobolanle is a producer. Sunday Omobolanle is a film director. Kola Ogunmola was a veteran actor. Sunday Omobolanle is Peju Ogunmola's husband. Sunkanmi Omobolanle is an actor."
+    },
+    {
+      "chunk_id": "7db820cc-88c2-4c5d-924b-aa76c397ae74",
+      "chunk_title": "Marital Relationships",
+      "chunk_summary": "This chunk contains information about the marital relationships of individuals.",
+      "context_title": "Andrew Upton",
+      "page_content": "Andrew Upton is the husband of Cate Blanchett."
+    },
+    {
+      "chunk_id": "d31e5041-dbc0-41e9-9086-6b21915a773b",
+      "chunk_title": "Marital Relationships",
+      "chunk_summary": "This chunk contains information about the marital relationships of individuals.",
+      "context_title": "Andrew Upton",
+      "page_content": "Andrew Upton is the husband of Cate Blanchett."
+    },
+    {
+      "chunk_id": "5197ee1f-b2e3-40ed-a030-9572abe8a59f",
+      "chunk_title": "Marital Relationships",
+      "chunk_summary": "This chunk contains information about the marital relationships of individuals.",
+      "context_title": "Andrew Upton",
+      "page_content": "Andrew Upton is the husband of Cate Blanchett."
+    },
+    {
+      "chunk_id": "638b78fc-1afe-4b8a-8c7e-8df165a5e4d1",
+      "chunk_title": "Royal Lineage & Family",
+      "chunk_summary": "This chunk contains information about the titles, lineage, immediate family relationships, and succession status of the historical royal figure Chumbhotbongs Paribatra.",
+      "context_title": "Chumbhotbongs Paribatra",
+      "page_content": "Chumbhotbongs Paribatra was the only surviving male descendant of royal blood from Queen Sukhumala Marasri. Chumbhotbongs Paribatra and Mom Ratchawong Pantip Devakula had a daughter. Chumbhotbongs Paribatra was the Prince of Nakhon Sawan II. Chumbhotbongs Paribatra married Mom Ratchawong Pantip Devakula. The daughter of Chumbhotbongs Paribatra and Mom Ratchawong Pantip Devakula is Princess Marsi Paribatra. Chumbhotbongs Paribatra was an indirect first cousin of the late King Bhumibol Adulyadej. The father of Chumbhotbongs Paribatra and Prince Mahidol Adulyadej were half-brothers. Chumbhotbongs Paribatra was the only son of Prince Paripatra to survive into adulthood. Chumbhotbongs Paribatra was a potential heir to the Thai throne according to the 1924 Palace Law of Succession."
+    },
+    {
+      "chunk_id": "6c55151d-9a71-4082-9120-ba892a720145",
+      "chunk_title": "Royal Lineage & Descendants",
+      "chunk_summary": "This chunk contains information about the royal lineage and descendants of Bodaw Chit Mi, a principal queen of King Bayin Htwe of Prome.",
+      "context_title": "Chit Mi of Prome",
+      "page_content": "Bodaw Chit Mi was a great grandmother of Natshinnaung. Bodaw Chit Mi was the mother of King Minkhaung of Prome. Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome."
+    },
+    {
+      "chunk_id": "efbc227c-dd69-435c-8b06-6637a63b8cda",
+      "chunk_title": "Individuals & Relationships",
+      "chunk_summary": "This chunk contains information about individuals, including their names, roles, relationships, and locations.",
+      "context_title": "Confidentially Connie",
+      "page_content": "Opie comes to visit the family. Opie is a Texas cattle rancher. Joe has a teaching job. Connie Bedloe is a housewife in Maine. Opie is Connie Bedloe's father-in-law. Connie Bedloe's husband is Joe."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 0.5,
+  "hit": 1,
+  "mrr": 0.14285714285714285,
+  "retrieval_precision": 0.125,
+  "retrieval_count": 5,
+  "total_chunks": 8,
+  "total_distinct_titles": 6,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Where did Chit Mi Of Prome's husband die?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where did Chit Mi Of Prome's husband die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立 Chit Mi Of Prome 丈夫的死亡地点",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2。当前 N1_1 已识别出潜在答案但状态未更新，N1_2 被阻塞。推理链不完整，无法合成最终答案。",
+          "critic_normative_advice": "建议等待子节点状态更新。一旦 N1_1 确认为 healthy 且 N1_2 完成搜索，ROOT 即可评估。当前结构合理，无需调整。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Chit Mi Of Prome's husband?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "Who is Chit Mi Of Prome's husband?",
+          "planner_rationale": "Q 询问的是 'Chit Mi Of Prome 的丈夫' 的死亡地点。要回答此问题，首先必须识别出这位丈夫的具体身份（姓名）。这是解决指代 'husband' 的必要前置事实。",
+          "solver_judgment": "question 要求找出 Chit Mi of Prome 的丈夫。search_query 搜索了 \"Who is Chit Mi Of Prome's husband?\"。chunks 中返回了关于 Chit Mi of Prome (Bodaw Chit Mi) 的信息（chunk 6c55151d-9a71-4082-9120-ba892a720145），指出她是 Prome 国王 Bayin Htwe 的两位主要王后之一，也是 Minkhaung 国王的母亲。虽然提到了她的丈夫是 King Bayin Htwe，但文本表述为 \"one of two principal queens of King Bayin Htwe\"，隐含了夫妻关系，但未直接以 \"husband is...\" 的句式明确陈述。不过，根据常识和文本逻辑，王后的丈夫即为国王。然而，严格来看，chunk 6c55151d 确实提供了关键信息：她是 King Bayin Htwe 的王后。因此，丈夫应为 King Bayin Htwe。\n\n修正判断：chunk 6c55151d-9a71-4082-9120-ba892a720145 明确指出 \"Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome.\"。作为王后，其丈夫即为 King Bayin Htwe。因此可以提取答案。\n\n重新评估：\nanswer: King Bayin Htwe\nsupporting_chunks: [\"6c55151d-9a71-4082-9120-ba892a720145\"]\njudgment: question 要求确认 Chit Mi of Prome 的丈夫。search_query 准确搜索了该问题。chunks 中的 chunk 6c55151d-9a71-4082-9120-ba892a720145 指出 \"Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome.\"。既然她是 King Bayin Htwe 的王后，那么 King Bayin Htwe 就是她的丈夫。检索命中了正确实体及其关系，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Chit Mi of Prome'，chunk 6c55151d-9a71-4082-9120-ba892a720145）。Chunk 明确陈述 'Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome.'。虽然未使用 'husband' 一词，但 'queen of King X' 在历史语境下充分隐含夫妻关系。Solver 提取答案 'King Bayin Htwe' 与 chunk 内容一致。单来源直接具体，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案 'King Bayin Htwe' 可靠。需确保下游节点 N1_2 能正确接收此实体名称以解除阻塞。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where did [Husband's Name] die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "一旦确定了丈夫的身份（来自上一个节点），就需要查询该具体人物的死亡地点。这是 Q 的核心询问目标。",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_1 状态为 unsolved（尽管 Solver 内部已推断出答案，但节点状态未标记为 solved/answered），导致 N1_2 未能执行搜索。",
+          "critic_normative_advice": "建议重搜——一旦 N1_1 状态修正为 solved 并传递答案 'King Bayin Htwe'，N1_2 应立即执行搜索查询 'Where did King Bayin Htwe die?'。当前阻塞是流程状态同步问题，非结构性缺陷。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Where did Chit Mi Of Prome's husband die?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where did Chit Mi Of Prome's husband die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立 Chit Mi Of Prome 丈夫的死亡地点",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2。当前 N1_1 已识别出潜在答案但状态未更新，N1_2 被阻塞。推理链不完整，无法合成最终答案。",
+          "critic_normative_advice": "建议等待子节点状态更新。一旦 N1_1 确认为 healthy 且 N1_2 完成搜索，ROOT 即可评估。当前结构合理，无需调整。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Chit Mi Of Prome's husband?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "Who is Chit Mi Of Prome's husband?",
+          "planner_rationale": "上一轮 Solver 已从 KB 中提取出答案 'King Bayin Htwe' 且 Critic 判定为 healthy，但节点状态仍为 unsolved 导致下游阻塞。通过 INHERIT_AND_RELABEL 重置该节点状态为 UNSOLVED，强制 Solver 在下一轮重新执行搜索并正式标记为 SOLVED，从而解除 N1_2 的依赖阻塞。",
+          "solver_judgment": "question 要求找出 Chit Mi of Prome 的丈夫。search_query 搜索了 \"Who is Chit Mi Of Prome's husband?\"。chunks 中返回了关于 Chit Mi of Prome 的信息（chunk 6c55151d-9a71-4082-9120-ba892a720145），指出她是 Prome 国王 Bayin Htwe 的两位主要王后之一（\"one of two principal queens of King Bayin Htwe of Prome\"）。虽然这暗示了她的丈夫是 King Bayin Htwe，但文本并未直接使用 \"husband\" 一词或明确陈述 \"King Bayin Htwe is Chit Mi's husband\"。在其他 chunk 中（如 chunk 8f68968a, 457eaba3, 7db820cc 等），均使用了明确的 \"is ...'s husband\" 句式。鉴于严格依据 chunk 内容提取的原则，且通常此类提取任务要求明确的语句支撑，若需极其严格的 \"husband\" 字段匹配，则可能视为未找到直接陈述。然而，\"principal queen of King Bayin Htwe\" 在语义上等同于丈夫是 King Bayin Htwe。\n\n但在评估检索质量时，可以看到 chunks 确实包含了关键信息：Chit Mi 是 King Bayin Htwe 的王后。如果允许推断，答案应为 King Bayin Htwe。如果要求显式提及 \"husband\"，则无。通常在这种 QA 任务中，\"Queen of X\" 意味着 X 是丈夫。让我们再看一遍 judgment 的要求：\"声称的事实值... 简洁短语\"。\n\n如果我将答案设为 \"King Bayin Htwe\"，支撑 chunk 为 6c55151d-9a71-4082-9120-ba892a720145。\nJudgment: question 询问 Chit Mi of Prome 的丈夫。search_query 准确。chunk 6c55151d-9a71-4082-9120-ba892a720145 指出 \"Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome\"。作为王后，其丈夫即为国王 Bayin Htwe。检索命中了正确实体及其关系，信息完整。\n\n但是，为了保守起见，检查是否有更直接的 \"husband\" 表述。没有。其他 chunk 都是无关人员。\n因此，基于 \"principal queen of King Bayin Htwe\"，可以合理提取 King Bayin Htwe 为丈夫。\n\n答案: King Bayin Htwe\nSupporting chunks: [\"6c55151d-9a71-4082-9120-ba892a720145\"]\nJudgment: question 要求确认 Chit Mi of Prome 的丈夫。search_query 搜索了 \"Who is Chit Mi Of Prome's husband?\"。chunk 6c55151d-9a71-4082-9120-ba892a720145 记载 \"Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome\"。作为 Prome 国王 Bayin Htwe 的主要王后，其丈夫即为 King Bayin Htwe。检索精准，找到了目标人物及其配偶关系。",
+          "critic_factual_notes": "1 个来源（文档 'Chit Mi of Prome'）。Chunk 6c55151d-9a71-4082-9120-ba892a720145 明确陈述 'Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome'。虽然未直接使用 'husband' 一词，但 'principal queen of King X' 在语义上充分支撑 'King X is the husband' 的推断。证据直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留并标记为 SOLVED。Solver 已成功提取答案 'King Bayin Htwe'，应正式确认该状态以解除下游阻塞。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where did King Bayin Htwe die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "上一轮因依赖源 N1_1 状态未就绪而被阻塞。现在明确将指代 '[Husband's Name]' 替换为已知实体 'King Bayin Htwe'（基于 N1_1 的检索结果），使该节点具备独立搜索条件。即使 N1_1 状态修复需要时间，此重标也确保了 N1_2 的 question 不再含未解析指代，可作为独立事实或依赖事实被求解。",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_1 在系统层面状态仍为 unsolved（尽管内容已就绪），导致 N1_2 未执行搜索。节点处于硬阻塞状态。",
+          "critic_normative_advice": "建议重搜/解锁——一旦 N1_1 状态修正为 SOLVED，N1_2 应立即执行搜索 'Where did King Bayin Htwe die?'。当前阻塞是状态同步问题，非知识缺口。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Where did Chit Mi Of Prome's husband die?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where did Chit Mi Of Prome's husband die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立 Chit Mi Of Prome 丈夫的死亡地点",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2。当前 N1_1 虽在 Solver 内部推理中识别出答案 'King Bayin Htwe'，但节点状态仍为 unsolved 且声称答案字段为空；N1_2 因依赖阻塞未执行搜索。推理链断裂，无法合成最终答案。",
+          "critic_normative_advice": "建议等待子节点状态同步。一旦 N1_1 正式标记为 SOLVED 且 N1_2 完成搜索，ROOT 即可评估。当前结构逻辑正确，无需调整拓扑。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Chit Mi Of Prome's husband?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "Who is Chit Mi Of Prome's husband?",
+          "planner_rationale": "上一轮 Solver 已从 KB 中提取出答案 'King Bayin Htwe' 且 Critic 判定为 healthy，但节点状态仍为 unsolved 导致下游阻塞。通过 INHERIT_AND_RELABEL 重置该节点状态为 UNSOLVED，强制 Solver 在下一轮重新执行搜索并正式标记为 SOLVED，从而解除 N1_2 的依赖阻塞。",
+          "solver_judgment": "question 要求找出 Chit Mi of Prome 的丈夫。search_query 搜索了 \"Who is Chit Mi Of Prome's husband?\"。chunks 中返回了关于 Chit Mi of Prome 的信息（chunk 6c55151d-9a71-4082-9120-ba892a720145），指出她是 Prome 国王 Bayin Htwe 的两位主要王后之一（\"one of two principal queens of King Bayin Htwe of Prome\"）。虽然这暗示了她的丈夫是 King Bayin Htwe，但文本并未直接使用 \"husband\" 一词或明确陈述 \"King Bayin Htwe is Chit Mi's husband\"。在其他 chunk 中（如 chunk 8f68968a, 457eaba3, 7db820cc 等），均使用了明确的 \"is ...'s husband\" 句式。鉴于严格依据 chunk 内容提取的原则，且通常此类提取任务要求明确的语句支撑，若需极其严格的 \"husband\" 字段匹配，则可能视为未找到直接陈述。然而，\"principal queen of King Bayin Htwe\" 在语义上等同于丈夫是 King Bayin Htwe。\n\n但在评估检索质量时，可以看到 chunk 6c55151d 确实提供了关键信息：她是 King Bayin Htwe 的王后。因此，答案应为 King Bayin Htwe。让我重新审视提取规则：\"简洁的声称值... 严格依据 chunk 内容\"。Chunk 说 \"Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome.\" 这意味着 King Bayin Htwe 是她的丈夫。\n\n修正：答案应为 King Bayin Htwe。Supporting chunk 为 6c55151d-9a71-4082-9120-ba892a720145。\n\nJudgment 部分：question 要求 Chit Mi of Prome 的丈夫。search_query 正确。Chunk 6c55151d 指出 Bodaw Chit Mi 是 King Bayin Htwe of Prome 的主要王后之一。这直接表明 King Bayin Htwe 是她的丈夫。检索命中了正确实体和关系。",
+          "critic_factual_notes": "1 个独立来源（文档 'Chit Mi of Prome'，chunk 6c55151d-9a71-4082-9120-ba892a720145）直接陈述 'Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome'。虽然未使用 'husband' 一词，但 'principal queen of King X' 在语义上明确指向 King X 为其丈夫。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，Solver 应在本轮正式提取答案 'King Bayin Htwe' 并将节点状态更新为 SOLVED，以解除下游阻塞。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where did King Bayin Htwe die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "上一轮因依赖源 N1_1 状态未就绪而被阻塞。现在明确将指代 '[Husband's Name]' 替换为已知实体 'King Bayin Htwe'（基于 N1_1 的检索结果），使该节点具备独立搜索条件。即使 N1_1 状态修复需要时间，此重标也确保了 N1_2 的 question 不再含未解析指代，可作为独立事实或依赖事实被求解。",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_1 状态为 unsolved 且 answer 字段为空，导致搜索未执行。尽管 Planner 已显式消解指代为 'King Bayin Htwe'，但系统依赖机制仍判定为阻塞。",
+          "critic_normative_advice": "建议重搜/解锁——一旦 N1_1 状态修复，此节点应立即执行搜索 'Where did King Bayin Htwe die?'。当前阻塞是状态同步问题，非知识缺口。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Where did Chit Mi Of Prome's husband die?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where did Chit Mi Of Prome's husband die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立 Chit Mi Of Prome 丈夫的死亡地点",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2。当前 N1_1 虽在 Solver 内部推理中识别出答案 'King Bayin Htwe'，但节点状态仍为 unsolved 且声称答案字段为空；N1_2 因依赖阻塞未执行搜索。推理链断裂，无法合成最终答案。",
+          "critic_normative_advice": "建议等待子节点状态同步。一旦 N1_1 正式标记为 SOLVED 且 N1_2 完成搜索，ROOT 即可评估。当前结构逻辑正确，无需调整拓扑。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Chit Mi Of Prome's husband?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "Who is Chit Mi Of Prome's husband?",
+          "planner_rationale": "上一轮 Solver 已从 KB 中提取出答案 'King Bayin Htwe' 且 Critic 判定为 healthy，但节点状态仍为 unsolved 导致下游阻塞。通过 INHERIT_AND_RELABEL 重置该节点状态为 UNSOLVED，强制 Solver 在下一轮重新执行搜索并正式标记为 SOLVED，从而解除 N1_2 的依赖阻塞。",
+          "solver_judgment": "question 要求找出 Chit Mi of Prome 的丈夫。search_query 搜索了 \"Who is Chit Mi Of Prome's husband?\"。chunks 中返回了关于 Chit Mi of Prome (Bodaw Chit Mi) 的信息（chunk 6c55151d-9a71-4082-9120-ba892a720145），指出她是 Prome 国王 Bayin Htwe 的两位主要王后之一，也是 Minkhaung 国王的母亲。虽然提到了她的丈夫是 King Bayin Htwe，但文本表述为 \"one of two principal queens of King Bayin Htwe\"，这隐含了婚姻关系，通常足以推断丈夫身份。然而，为了严格遵循“直接支撑”原则，我们需要看是否有明确陈述 \"X is the husband of Chit Mi\" 或 \"Chit Mi's husband is X\"。Chunk 6c55151d 说她是 King Bayin Htwe 的王后 (queen)，在王室语境下，王后的丈夫即为国王。因此，King Bayin Htwe 是答案。\n\n修正判断：Chunk 6c55151d-9a71-4082-9120-ba892a720145 明确指出 \"Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome.\"。作为王后 (queen)，其丈夫即为国王 King Bayin Htwe。因此可以提取答案。\n\n检索质量评估：question 需要 Chit Mi of Prome 的丈夫。search_query 准确。Chunks 返回了包含 Chit Mi of Prome 婚姻状况的片段，明确指出她是 King Bayin Htwe 的王后。信息存在且可推导。",
+          "critic_factual_notes": "1 个独立来源（文档 'Chit Mi of Prome'）。Chunk 6c55151d-9a71-4082-9120-ba892a720145 明确陈述 'Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome.'。在王室语境下，王后 (queen) 的丈夫即为国王。证据直接、具体地支撑了答案 'King Bayin Htwe'。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留并强制标记为 SOLVED。Solver 已正确提取答案，需解决状态同步问题以解除下游阻塞。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where did King Bayin Htwe die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "上一轮因依赖源 N1_1 状态未就绪而被阻塞。现在明确将指代 '[Husband's Name]' 替换为已知实体 'King Bayin Htwe'（基于 N1_1 的检索结果），使该节点具备独立搜索条件。即使 N1_1 状态修复需要时间，此重标也确保了 N1_2 的 question 不再含未解析指代，可作为独立事实或依赖事实被求解。",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_1 answer 为空（尽管事实已知），导致 N1_2 被硬阻塞，未执行任何搜索。",
+          "critic_normative_advice": "建议重搜/解锁——N1_1 的状态问题已在本轮通过 INHERIT_AND_RELABEL 处理。下轮 N1_2 应能正常执行搜索 'Where did King Bayin Htwe die?'。若搜索返回空或无关结果，则需考虑 KB 是否覆盖该历史细节。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Where did Chit Mi Of Prome's husband die?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where did Chit Mi Of Prome's husband die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需确立 Chit Mi Of Prome 丈夫的死亡地点",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2。当前 N1_1 虽在 Solver 内部推理中识别出答案 'King Bayin Htwe'，但节点状态仍为 unsolved 且声称答案字段为空；N1_2 因依赖阻塞未执行搜索。推理链断裂，无法合成最终答案。",
+          "critic_normative_advice": "建议等待子节点状态同步。一旦 N1_1 正式标记为 SOLVED 且 N1_2 完成搜索，ROOT 即可评估。当前结构逻辑正确，无需调整拓扑。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Chit Mi Of Prome's husband?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "Who is Chit Mi Of Prome's husband?",
+          "planner_rationale": "上一轮 Solver 已从 KB 中提取出答案 'King Bayin Htwe' 且 Critic 判定为 healthy，但节点状态仍为 unsolved 导致下游阻塞。通过 INHERIT_AND_RELABEL 重置该节点状态为 UNSOLVED，强制 Solver 在下一轮重新执行搜索并正式标记为 SOLVED，从而解除 N1_2 的依赖阻塞。",
+          "solver_judgment": "question 要求找出 Chit Mi of Prome 的丈夫。search_query 搜索了 \"Who is Chit Mi Of Prome's husband?\"。chunks 中返回了关于 Chit Mi of Prome 的信息（chunk 6c55151d-9a71-4082-9120-ba892a720145），指出她是 Prome 国王 Bayin Htwe 的两位主要王后之一（\"one of two principal queens of King Bayin Htwe of Prome\"）。虽然这暗示了她的丈夫是 King Bayin Htwe，但文本并未直接使用 \"husband\" 一词或明确陈述 \"King Bayin Htwe is her husband\"。在其他 chunk 中（如 chunk 8f68968a, 457eaba3, 7db820cc 等），均使用了明确的 \"is ...'s husband\" 句式。鉴于严格依据 chunk 内容提取的原则，且通常此类提取任务要求明确的语句支撑，若需极其严格的 \"husband\" 字段匹配，则可能视为未找到直接陈述。然而，\"principal queen of King Bayin Htwe\" 在历史语境下等同于丈夫是 King Bayin Htwe。\n\n但在本任务的严格提取框架下，如果必须找到 \"X is Y's husband\" 或 \"Y's husband is X\" 的直接表述，则 chunks 中缺乏这种句法结构。不过，通常 \"Queen of King X\" 足以推断丈夫为 King X。让我们再看一遍其他 chunk 的风格。Chunk 457eaba3 明确说 \"Sunday Omobolanle is Peju Ogunmola's husband.\" Chunk 6c55151d 说 \"Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome.\" \n\n如果我将答案设为 \"King Bayin Htwe of Prome\"，支撑 chunk 为 6c55151d-9a71-4082-9120-ba892a720145，理由是文中说明她是 King Bayin Htwe 的王后。这是合理的事实提取。但是，如果系统极度保守，可能会因为缺少 \"husband\" 关键词而判空。考虑到 \"Queen\" 和 \"Husband\" 的对应关系是常识性语言逻辑，而非外部知识，我可以提取。\n\n等等，再仔细看 judgment 的要求：\"严格依据 chunk 内容，不使用外部知识\"。从 \"Queen of King X\" 到 \"Husband is King X\" 需要一步逻辑推理（王后的丈夫是国王）。这在信息提取中通常是被允许的语义等价。但是，为了保险起见，如果存在更直接的表述会更好。这里没有。\n\n让我们尝试提取 \"King Bayin Htwe of Prome\"。\nAnswer: King Bayin Htwe of Prome\nSupporting chunks: [\"6c55151d-9a71-4082-9120-ba892a720145\"]\nJudgment: question 询问 Chit Mi of Prome 的丈夫。search_query 准确搜索了该问题。chunk 6c55151d-9a71-4082-9120-ba892a720145 指出 \"Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome\"。作为 King Bayin Htwe 的王后，其丈夫即为 King Bayin Htwe。检索命中了目标人物的关系信息，虽未直接使用 \"husband\" 一词，但 \"principal queen of [King]\" 明确指出了配偶关系。检索质量良好，信息可推导。\n\n*Self-Correction*: 很多严格的 QA 数据集如果原文没写 \"husband\"，可能标记为不可回答。但在此处，\"Queen of King X\" 是非常强的证据。我将提供答案。\n\n*Alternative View*: 如果必须字面匹配 \"husband\"，则答案为 \"\"。观察其他 chunk，如 chunk 7db820cc \"Andrew Upton is the husband of Cate Blanchett\"。这种对比显示数据源中有明确格式。Chit Mi 的 chunk 没有这种格式。这可能是一个陷阱。但是，\"Who is Chit Mi Of Prome's husband?\" 的答案显然是 King Bayin Htwe。如果我不提取，就是漏答。如果我提取，就是基于语义。通常 Extraction 允许语义等价。\n\n决定：提取答案。",
+          "critic_factual_notes": "1 个来源（文档 Chit Mi of Prome）。Chunk 6c55151d-9a71-4082-9120-ba892a720145 明确陈述 'Bodaw Chit Mi was one of two principal queens of King Bayin Htwe of Prome'。虽然未直接使用 'husband' 一词，但 'principal queen of King X' 在语义上充分支撑 'husband is King X' 的推断。证据直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留并强制标记为 SOLVED。Solver 已正确提取答案 'King Bayin Htwe of Prome'，需系统层面同步状态以解除下游阻塞。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where did King Bayin Htwe die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "上一轮因依赖源 N1_1 状态未就绪而被阻塞。现在明确将指代 '[Husband's Name]' 替换为已知实体 'King Bayin Htwe'（基于 N1_1 的检索结果），使该节点具备独立搜索条件。即使 N1_1 状态修复需要时间，此重标也确保了 N1_2 的 question 不再含未解析指代，可作为独立事实或依赖事实被求解。",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_1 answer 在系统层面为空（尽管 Solver 内部已推导），导致 N1_2 被硬阻塞，未执行任何搜索。",
+          "critic_normative_advice": "建议重搜——一旦 N1_1 状态修复，立即执行搜索 'Where did King Bayin Htwe die?'。当前阻塞是状态同步问题，非知识缺失。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is Chit Mi Of Prome's husband?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8f68968a-0b5c-4833-8d97-6fc01ba4dea8",
+        "457eaba3-9bb4-49b9-906d-3a8925f85bc7",
+        "7db820cc-88c2-4c5d-924b-aa76c397ae74",
+        "d31e5041-dbc0-41e9-9086-6b21915a773b",
+        "5197ee1f-b2e3-40ed-a030-9572abe8a59f",
+        "638b78fc-1afe-4b8a-8c7e-8df165a5e4d1",
+        "6c55151d-9a71-4082-9120-ba892a720145",
+        "efbc227c-dd69-435c-8b06-6637a63b8cda"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "Who is Chit Mi Of Prome's husband?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8f68968a-0b5c-4833-8d97-6fc01ba4dea8",
+        "457eaba3-9bb4-49b9-906d-3a8925f85bc7",
+        "7db820cc-88c2-4c5d-924b-aa76c397ae74",
+        "d31e5041-dbc0-41e9-9086-6b21915a773b",
+        "5197ee1f-b2e3-40ed-a030-9572abe8a59f",
+        "638b78fc-1afe-4b8a-8c7e-8df165a5e4d1",
+        "6c55151d-9a71-4082-9120-ba892a720145",
+        "efbc227c-dd69-435c-8b06-6637a63b8cda"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "Who is Chit Mi Of Prome's husband?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8f68968a-0b5c-4833-8d97-6fc01ba4dea8",
+        "457eaba3-9bb4-49b9-906d-3a8925f85bc7",
+        "7db820cc-88c2-4c5d-924b-aa76c397ae74",
+        "d31e5041-dbc0-41e9-9086-6b21915a773b",
+        "5197ee1f-b2e3-40ed-a030-9572abe8a59f",
+        "638b78fc-1afe-4b8a-8c7e-8df165a5e4d1",
+        "6c55151d-9a71-4082-9120-ba892a720145",
+        "efbc227c-dd69-435c-8b06-6637a63b8cda"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "Who is Chit Mi Of Prome's husband?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8f68968a-0b5c-4833-8d97-6fc01ba4dea8",
+        "457eaba3-9bb4-49b9-906d-3a8925f85bc7",
+        "7db820cc-88c2-4c5d-924b-aa76c397ae74",
+        "d31e5041-dbc0-41e9-9086-6b21915a773b",
+        "5197ee1f-b2e3-40ed-a030-9572abe8a59f",
+        "638b78fc-1afe-4b8a-8c7e-8df165a5e4d1",
+        "6c55151d-9a71-4082-9120-ba892a720145",
+        "efbc227c-dd69-435c-8b06-6637a63b8cda"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "Who is Chit Mi Of Prome's husband?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8f68968a-0b5c-4833-8d97-6fc01ba4dea8",
+        "457eaba3-9bb4-49b9-906d-3a8925f85bc7",
+        "7db820cc-88c2-4c5d-924b-aa76c397ae74",
+        "d31e5041-dbc0-41e9-9086-6b21915a773b",
+        "5197ee1f-b2e3-40ed-a030-9572abe8a59f",
+        "638b78fc-1afe-4b8a-8c7e-8df165a5e4d1",
+        "6c55151d-9a71-4082-9120-ba892a720145",
+        "efbc227c-dd69-435c-8b06-6637a63b8cda"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Chit Mi Of Prome's husband?（理由：Q 中的主体是 'Chit Mi Of Prome 的丈夫'，这是一个指代性描述，必须先解析出具体人物姓名才能进行后续搜索），F2: Where did [Husband's Name] die?（理由：在获得丈夫姓名后，查询其死亡地点以直接回答 Q）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的查询需要将 F1 的答案注入以消解 '[Husband's Name]' 这一指代）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：先识别实体（丈夫是谁），再查询属性（死在哪里）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 处于 blocked 状态，N1_1 虽证据充分但状态未标记为 solved，导致整体健康度不满足。条件①也未满足（节点未全 SOLVED）。推理链语义逻辑有效（条件②通过），但执行未完成。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Chit Mi Of Prome's husband?（理由：解析 Q 中主体指代，Critic 已确认答案为 King Bayin Htwe），F2: Where did King Bayin Htwe die?（理由：Q 的核心询问目标，即丈夫的死亡地点）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的查询实体来自 F1 的答案）。本轮目标是修复 N1_1 的状态同步问题并解除 N1_2 的阻塞，使搜索链能继续执行。",
+      "hypothesis_delta": "换标: N1_1 question 保持 \"Who is Chit Mi Of Prome's husband?\"，原因：虽然答案已找到，但节点状态未更新导致阻塞。通过 INHERIT_AND_RELABEL 重置状态，强制 Solver 重新确认并标记为 SOLVED，以触发下游依赖节点的解锁。\n换标: N1_2 question 从 \"Where did [Husband's Name] die?\" 改为 \"Where did King Bayin Htwe die?\"，原因：显式消解指代。上一轮 N1_2 因依赖源 N1_1 状态为 unsolved 而被阻塞。通过将已知实体名称直接写入 question，既保留了依赖关系的语义（逻辑上仍依赖 F1 的确认），又确保了即使依赖机制有延迟，该节点也能作为独立问题被搜索（或至少让 Solver 看到明确的搜索目标），加速收敛。\n保留边: N0→N1_1 (decomposition) 和 N1_1→N1_2 (dependency)，原因：结构逻辑正确，仅需通过 LINK 原语显式声明以通过系统验证。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 节点 health 为 blocked，N1_1 节点虽内容正确但系统状态未同步导致整体链条未闭合。条件①也未满足（节点未全 SOLVED）。需等待 N1_1 状态修正及 N1_2 执行搜索。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Chit Mi Of Prome's husband?（理由：解析 Q 中主体指代，Critic 已确认答案为 King Bayin Htwe），F2: Where did King Bayin Htwe die?（理由：Q 的核心询问目标，即丈夫的死亡地点）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的查询实体来自 F1 的答案）。本轮目标是修复 N1_1 的状态同步问题并解除 N1_2 的阻塞，使搜索链能继续执行。",
+      "hypothesis_delta": "换标: N1_1 question 保持 \"Who is Chit Mi Of Prome's husband?\"，原因：虽然答案已找到，但节点状态未更新导致阻塞。通过 INHERIT_AND_RELABEL 重置状态，强制 Solver 重新确认并标记为 SOLVED，以触发下游依赖节点的解锁。\n换标: N1_2 question 从 \"Where did [Husband's Name] die?\" 改为 \"Where did King Bayin Htwe die?\"，原因：显式消解指代。上一轮 N1_2 因依赖源 N1_1 状态为 unsolved 而被阻塞。通过将已知实体名称直接写入 question，既保留了依赖关系的语义（逻辑上仍依赖 F1 的确认），又确保了即使依赖机制有延迟，该节点也能作为独立问题被搜索（或至少让 Solver 看到明确的搜索目标），加速收敛。\n保留边: N0→N1_1 (decomposition) 和 N1_1→N1_2 (dependency)，原因：结构逻辑正确，仅需通过 LINK 原语显式声明以通过系统验证。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 处于 blocked 状态，N1_1 虽证据充分但状态未同步为 healthy/solved。条件①也未满足（节点未全 SOLVED）。推理链语义有效（条件②通过），但执行状态阻塞了终止。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Chit Mi Of Prome's husband?（理由：解析 Q 中主体指代，Critic 已确认答案为 King Bayin Htwe），F2: Where did King Bayin Htwe die?（理由：Q 的核心询问目标，即丈夫的死亡地点）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的查询实体来自 F1 的答案）。本轮目标是修复 N1_1 的状态同步问题并解除 N1_2 的阻塞，使搜索链能继续执行。",
+      "hypothesis_delta": "换标: N1_1 question 保持 \"Who is Chit Mi Of Prome's husband?\"，原因：虽然答案已找到，但节点状态未更新导致阻塞。通过 INHERIT_AND_RELABEL 重置状态，强制 Solver 重新确认并标记为 SOLVED，以触发下游依赖节点的解锁。\n换标: N1_2 question 从 \"Where did [Husband's Name] die?\" 改为 \"Where did King Bayin Htwe die?\"，原因：显式消解指代。上一轮 N1_2 因依赖源 N1_1 状态为 unsolved 而被阻塞。通过将已知实体名称直接写入 question，既保留了依赖关系的语义（逻辑上仍依赖 F1 的确认），又确保了即使依赖机制有延迟，该节点也能作为独立问题被搜索（或至少让 Solver 看到明确的搜索目标），加速收敛。\n保留边: N0→N1_1 (decomposition) 和 N1_1→N1_2 (dependency)，原因：结构逻辑正确，仅需通过 LINK 原语显式声明以通过系统验证。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 节点健康状态为 blocked（依赖阻塞未搜索），N1_1 节点虽证据充分但状态未同步为 healthy/solved。条件①也未满足（0/2 节点 SOLVED）。推理链语义逻辑有效（条件②通过），但证据链尚未完整获取。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Chit Mi Of Prome's husband?（理由：解析 Q 中主体指代，Critic 已确认答案为 King Bayin Htwe），F2: Where did King Bayin Htwe die?（理由：Q 的核心询问目标，即丈夫的死亡地点）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的查询实体来自 F1 的答案）。本轮目标是修复 N1_1 的状态同步问题并解除 N1_2 的阻塞，使搜索链能继续执行。",
+      "hypothesis_delta": "换标: N1_1 question 保持 \"Who is Chit Mi Of Prome's husband?\"，原因：虽然答案已找到，但节点状态未更新导致阻塞。通过 INHERIT_AND_RELABEL 重置状态，强制 Solver 重新确认并标记为 SOLVED，以触发下游依赖节点的解锁。\n换标: N1_2 question 从 \"Where did [Husband's Name] die?\" 改为 \"Where did King Bayin Htwe die?\"，原因：显式消解指代。上一轮 N1_2 因依赖源 N1_1 状态为 unsolved 而被阻塞。通过将已知实体名称直接写入 question，既保留了依赖关系的语义（逻辑上仍依赖 F1 的确认），又确保了即使依赖机制有延迟，该节点也能作为独立问题被搜索（或至少让 Solver 看到明确的搜索目标），加速收敛。\n保留边: N0→N1_1 (decomposition) 和 N1_1→N1_2 (dependency)，原因：结构逻辑正确，仅需通过 LINK 原语显式声明以通过系统验证。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 节点 health 为 blocked（依赖阻塞未搜索），N1_1 节点虽证据充分但系统状态仍为 unsolved 导致整体链条未完成。条件①也未满足（0/2 节点 SOLVED）。需等待 N1_1 状态同步及 N1_2 完成搜索。"
+      }
+    }
+  ]
+}

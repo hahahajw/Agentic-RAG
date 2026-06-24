@@ -1,0 +1,288 @@
+{
+  "question_index": 87,
+  "question_id": "2hop__450608_373421",
+  "question": "What is the county where Ukmergė District Municipality is located one of?",
+  "answer": "counties of Lithuania",
+  "prediction": "Vilnius County",
+  "error": null,
+  "latency_ms": 87677.18080000486,
+  "dataset_type": "musique",
+  "timestamp": "2026-05-14T16:13:48.130512+00:00",
+  "chunks": [
+    {
+      "chunk_id": "5e26025b-0003-4723-9555-ec01fd260dea",
+      "chunk_title": "Ukmergė District Municipality",
+      "chunk_summary": "This chunk contains information about the Ukmergė District Municipality, including its location, capital, settlement hierarchy, and ethnographic region.",
+      "context_title": "Ukmergė District Municipality",
+      "page_content": "The capital of the Ukmergė District Municipality is Ukmergė. The Ukmergė District Municipality is a municipality in Vilnius County, Lithuania. The entire Ukmergė District Municipality belongs to the Aukštaitija ethnographic region. Ukmergė is the largest settlement in the Ukmergė District Municipality. Ukmergė is the only city in the Ukmergė District Municipality."
+    },
+    {
+      "chunk_id": "c813eda7-881e-4956-8b13-1eebe1d9d0d8",
+      "chunk_title": "Alūksne Municipality Geography",
+      "chunk_summary": "This chunk contains information about the geographical location, administrative center, and bordering regions of Alūksne Municipality in Latvia.",
+      "context_title": "Alūksne Municipality",
+      "page_content": "Alūksne Municipality borders Võru County of Estonia in the north. Alūksne Municipality borders Gulbene Municipality in the south. Alūksne Municipality is a municipality in Vidzeme, Latvia. The administrative center of Alūksne Municipality is Alūksne. Alūksne Municipality borders Balvi Municipality in the south. Alūksne Municipality borders Alūksne Municipality in the south. Alūksne Municipality is located in the northeast of Latvia. Alūksne Municipality borders Pskov Oblast of Russia in the east. Alūksne Municipality borders Ape in the west."
+    },
+    {
+      "chunk_id": "84ff9be2-3f0e-41cd-836c-22809bbc2690",
+      "chunk_title": "Municipalities & Locations",
+      "chunk_summary": "This chunk contains information about specific municipalities, their locations, and classifications.",
+      "context_title": "Krimulda Castle",
+      "page_content": "Sigulda municipality is in Latvia. Sigulda is a municipality."
+    },
+    {
+      "chunk_id": "dd96f518-2afb-4714-9d31-aa70df38ed2d",
+      "chunk_title": "Localities & Administration",
+      "chunk_summary": "This chunk contains information about specific localities, their administrative roles as municipal seats, their hierarchical location within counties and countries, their population statistics, and their relative size rankings.",
+      "context_title": "Katrineholm",
+      "page_content": "Katrineholm Municipality is in Södermanland County. Eskilstuna is larger than Katrineholm. Södermanland County is in Sweden. Nyköping is larger than Katrineholm. Katrineholm is a locality. Nyköping is the county seat of Södermanland County. Katrineholm had 21,993 inhabitants in 2010. Katrineholm is located in the inland of Södermanland. Katrineholm is the seat of Katrineholm Municipality. Eskilstuna is an urban area in Södermanland County. Katrineholm is the third largest urban area in Södermanland County."
+    },
+    {
+      "chunk_id": "a43b2428-8f70-4b59-a6fb-bfeea362ffdc",
+      "chunk_title": "Saulkrasti Municipality Overview",
+      "chunk_summary": "This chunk contains information about the location, formation history, administrative reorganization, and center of Saulkrasti Municipality and its parish in Latvia.",
+      "context_title": "Saulkrasti Municipality",
+      "page_content": "Saulkrasti parish was created in 2010. Saulkrasti Municipality is a municipality in Vidzeme, Latvia. The administrative centre of Saulkrasti Municipality is Saulkrasti. Saulkrasti parish was created from the countryside territory of Saulkrasti town. Saulkrasti Municipality was formed by reorganization of Saulkrasti town with its countryside territory. Saulkrasti Municipality was formed in 2009."
+    },
+    {
+      "chunk_id": "f6349881-a8e5-4fd7-a0a8-e340c29e35bd",
+      "chunk_title": "Geographical Locations & Administration",
+      "chunk_summary": "This chunk contains information about the geographical location and administrative divisions of places, including neighborhoods, municipalities, counties, and countries.",
+      "context_title": "Eidsvåg Church",
+      "page_content": "Bergen municipality is in Hordaland county. Hordaland county is in Norway. The Eidsvåg neighborhood is in the city of Bergen."
+    },
+    {
+      "chunk_id": "af732396-b0b6-475f-9093-7801cbdee3d1",
+      "chunk_title": "Crawford High School Overview",
+      "chunk_summary": "This chunk contains information about the classification, location, school district affiliation, and academic ratings of Crawford High School.",
+      "context_title": "Crawford High School (Texas)",
+      "page_content": "Crawford High School is a 2A high school. The Crawford Independent School District is located in northwestern McLennan County. In 2011, Crawford High School was rated \"Recognized\" by the Texas Education Agency. Crawford High School is part of the Crawford Independent School District. Crawford High School is located in Crawford, Texas."
+    },
+    {
+      "chunk_id": "55418179-4260-45f0-bb38-78b00869d32d",
+      "chunk_title": "Saulkrasti Municipality",
+      "chunk_summary": "This chunk contains information about the formation, location, administrative centers, and reorganization history of Saulkrasti Municipality and its parish in Latvia.",
+      "context_title": "Saulkrasti Municipality",
+      "page_content": "Saulkrasti Municipality is a municipality in Vidzeme, Latvia. Saulkrasti parish was created from the countryside territory of Saulkrasti town. Saulkrasti Municipality was formed in 2009. The administrative centre of Saulkrasti Municipality is Saulkrasti. Saulkrasti Municipality was formed by reorganization of Saulkrasti town with its countryside territory. Saulkrasti parish was created in 2010."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 0.5,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.125,
+  "retrieval_count": 1,
+  "total_chunks": 8,
+  "total_distinct_titles": 7,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 2,
+  "dag_edges": 1,
+  "dag_snapshots": [
+    {
+      "q": "What is the county where Ukmergė District Municipality is located one of?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the county where Ukmergė District Municipality is located one of?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Ukmergė District Municipality 所属的 county",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点自身不搜索。其健康状态依赖于子节点推理链。子节点 N1_1 已提供确凿证据表明 Ukmergė District Municipality 位于 Vilnius County。Q 中的 'one of' 措辞在立陶宛行政区划语境下（Municipality 隶属于唯一的 County）通常被视为语法冗余或强调其作为 County 成员的身份。N1_1 的答案 'Vilnius County' 完整回答了 Q 的核心语义需求。",
+          "critic_normative_advice": "建议终止探索。DAG 结构合理，核心事实已确立，无需新增节点或修正依赖。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What county is Ukmergė District Municipality located in?",
+          "answer": "Vilnius County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What county is Ukmergė District Municipality located in?",
+          "planner_rationale": "Q 询问的是 Ukmergė District Municipality 所在的 county。这是一个直接的地理归属事实，需要先确立这个核心事实才能回答 Q 中 'one of' 的隐含含义（即该 county 是哪个更大集合的一员，或者更可能的是，Q 的措辞 'is located one of' 是语法上的冗余或特定语境，核心仍是询问其所属的 county。通常立陶宛的行政区划是 Municipality -> County。因此，直接询问其所属 county 是最直接的分解）",
+          "solver_judgment": "question 要求确认 Ukmergė District Municipality 所在的县（county）。search_query 直接搜索了 'What county is Ukmergė District Municipality located in?'。chunks 返回了关于 Ukmergė District Municipality 的具体信息，其中 chunk 5e26025b-0003-4723-9555-ec01fd260dea 明确记载 'The Ukmergė District Municipality is a municipality in Vilnius County, Lithuania.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Ukmergė District Municipality'）。该来源直接且具体地陈述了答案：'The Ukmergė District Municipality is a municipality in Vilnius County, Lithuania.'。虽然只有一个独立来源，但内容明确、无歧义，足以支撑事实声称。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "What is the county where Ukmergė District Municipality is located one of?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the county where Ukmergė District Municipality is located one of?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已确立 Ukmergė District Municipality 位于 Vilnius County，Critic 确认 'one of' 为语法冗余或强调隶属关系，该答案完整覆盖 Q 的语义需求。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点自身不搜索。其健康状态依赖于子节点推理链。子节点 N1_1 已提供确凿证据（单来源，直接具体）表明 Ukmergė District Municipality 位于 Vilnius County。Q 中的 'one of' 在立陶宛行政区划语境下（Municipality 隶属于唯一的 County）被视为语法冗余或强调隶属关系，N1_1 的答案完整覆盖 Q 的语义需求。",
+          "critic_normative_advice": "建议终止探索。DAG 结构合理，核心事实已确立，无需新增节点或修正依赖。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What county is Ukmergė District Municipality located in?",
+          "answer": "Vilnius County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What county is Ukmergė District Municipality located in?",
+          "planner_rationale": "核心事实已确立：Ukmergė District Municipality 位于 Vilnius County。证据确凿（chunk 5e26025b...），Critic 判为 healthy，建议保留。",
+          "solver_judgment": "question 要求确认 Ukmergė District Municipality 所在的县（county）。search_query 直接搜索了 'What county is Ukmergė District Municipality located in?'。chunks 返回了关于 Ukmergė District Municipality 的具体信息，其中 chunk 5e26025b-0003-4723-9555-ec01fd260dea 明确记载 'The Ukmergė District Municipality is a municipality in Vilnius County, Lithuania.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Ukmergė District Municipality'）。该来源直接且具体地陈述了答案：'The Ukmergė District Municipality is a municipality in Vilnius County, Lithuania.'。虽然只有一个独立来源，但内容明确、无歧义，足以支撑事实声称。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "What is the county where Ukmergė District Municipality is located one of?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the county where Ukmergė District Municipality is located one of?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已确立 Ukmergė District Municipality 位于 Vilnius County，Critic 确认 'one of' 为语法冗余或强调隶属关系，该答案完整覆盖 Q 的语义需求。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点自身不搜索。其健康状态依赖于子节点推理链。子节点 N1_1 已提供确凿证据（单来源，直接具体）表明 Ukmergė District Municipality 位于 Vilnius County。Q 中的 'one of' 在立陶宛行政区划语境下（Municipality 隶属于唯一的 County）被视为语法冗余或强调隶属关系，N1_1 的答案完整覆盖 Q 的语义需求。",
+          "critic_normative_advice": "建议终止探索。DAG 结构合理，核心事实已确立，无需新增节点或修正依赖。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What county is Ukmergė District Municipality located in?",
+          "answer": "Vilnius County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What county is Ukmergė District Municipality located in?",
+          "planner_rationale": "核心事实已确立：Ukmergė District Municipality 位于 Vilnius County。证据确凿（chunk 5e26025b...），Critic 判为 healthy，建议保留。",
+          "solver_judgment": "question 要求确认 Ukmergė District Municipality 所在的县（county）。search_query 直接搜索了 'What county is Ukmergė District Municipality located in?'。chunks 返回了关于 Ukmergė District Municipality 的具体信息，其中 chunk 5e26025b-0003-4723-9555-ec01fd260dea 明确记载 'The Ukmergė District Municipality is a municipality in Vilnius County, Lithuania.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Ukmergė District Municipality'）。该来源直接且具体地陈述了答案：'The Ukmergė District Municipality is a municipality in Vilnius County, Lithuania.'。虽然只有一个独立来源，但内容明确、无歧义，足以支撑事实声称。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What county is Ukmergė District Municipality located in?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "5e26025b-0003-4723-9555-ec01fd260dea",
+        "c813eda7-881e-4956-8b13-1eebe1d9d0d8",
+        "84ff9be2-3f0e-41cd-836c-22809bbc2690",
+        "dd96f518-2afb-4714-9d31-aa70df38ed2d",
+        "a43b2428-8f70-4b59-a6fb-bfeea362ffdc",
+        "f6349881-a8e5-4fd7-a0a8-e340c29e35bd",
+        "af732396-b0b6-475f-9093-7801cbdee3d1",
+        "55418179-4260-45f0-bb38-78b00869d32d"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What county is Ukmergė District Municipality located in?（理由：Q 的核心语义是询问 Ukmergė District Municipality 的上级行政单位 county。虽然 Q 中有 'one of' 的措辞，但在立陶宛行政区划语境下，Municipality 隶属于唯一的 County。因此，确立其所属 county 即可回答 Q。如果 'one of' 暗示该 county 属于某个集合，那可能是对 Q 的过度解读，或者 Q 本身措辞有误，通常这类问题意在询问直接的上级行政区）。关系: F1 是 Q 的直接分解产物（decomposition），因为 F1 的答案即为 Q 的答案。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将 Q 简化为直接的地理归属查询，因为 'located one of' 在标准地理问答中通常等同于 'located in'，除非有特定上下文表明该 municipality 跨越多个 county（这在立陶宛行政区划中极罕见，通常是唯一隶属）。因此，单点突破是最优策略。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 答案直接回答 N0）；③ 所有节点（N1_1 和 N0）均为 healthy；④ 首轮无拓扑变化阻碍。DAG 结构合理，证据充分，可生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What county is Ukmergė District Municipality located in?（理由：Q 的核心语义是询问 Ukmergė District Municipality 的上级行政单位 county。尽管 Q 包含 'one of'，但在立陶宛行政体系中，Municipality 通常只属于一个 County，因此确立其所属 county 即可回答 Q）。关系: F1 是 Q 的直接分解产物（decomposition），F1 的答案 'Vilnius County' 即为 Q 的答案。DAG 结构保持现状，无需新增节点或调整边。",
+      "hypothesis_delta": "本轮无结构调整。原因：上一轮初始分解策略成功，N1_1 已 SOLVED 且 health=healthy，Critic 确认证据充分且无语义缺口。Q 中的 'one of' 被合理处理为语法冗余，无需引入额外节点解释集合成员资格。因此，直接 INHERIT 所有现有节点和边，维持 DAG 收敛状态。修正：显式声明 LINK N0→N1_1 以保留该边，避免系统自动删除。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链 N0→N1_1 语义有效，N1_1 答案直接回答 Q；③所有节点（N0, N1_1）均为 healthy；④拓扑连续两轮无变化（由系统计数器确认，此处假设满足）。置信度高，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What county is Ukmergė District Municipality located in?（理由：Q 的核心语义是询问 Ukmergė District Municipality 的上级行政单位 county。尽管 Q 包含 'one of'，但在立陶宛行政体系中，Municipality 通常只属于一个 County，因此确立其所属 county 即可回答 Q）。关系: F1 是 Q 的直接分解产物（decomposition），F1 的答案 'Vilnius County' 即为 Q 的答案。DAG 结构保持现状，无需新增节点或调整边。",
+      "hypothesis_delta": "本轮无结构调整。原因：上一轮初始分解策略成功，N1_1 已 SOLVED 且 health=healthy，Critic 确认证据充分且无语义缺口。Q 中的 'one of' 被合理处理为语法冗余，无需引入额外节点解释集合成员资格。因此，直接 INHERIT 所有现有节点和边，维持 DAG 收敛状态。显式声明 LINK N0→N1_1 以保留该边，避免系统自动删除。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链 N0->N1_1 语义有效，N1_1 答案直接回答 N0；③所有节点（N0, N1_1）均为 healthy；④拓扑连续两轮无变化。答案 'Vilnius County' 证据充分且结构收敛。"
+      }
+    }
+  ]
+}

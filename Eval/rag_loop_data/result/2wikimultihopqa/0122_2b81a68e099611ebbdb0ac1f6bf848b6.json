@@ -1,0 +1,642 @@
+{
+  "question_index": 122,
+  "question_id": "2b81a68e099611ebbdb0ac1f6bf848b6",
+  "question": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+  "answer": "yes",
+  "prediction": "yes",
+  "error": null,
+  "latency_ms": 193097.8963000016,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T07:35:41.515708+00:00",
+  "chunks": [
+    {
+      "chunk_id": "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the railway lines they are situated on.",
+      "context_title": "Guancangping railway station",
+      "page_content": "Guancangping railway station is located in Hubei Province, People's Republic of China. Guancangping railway station is a railway station. Guancangping railway station is on the Yiwan Railway."
+    },
+    {
+      "chunk_id": "c576b1a8-a572-447b-81c9-7723966c1491",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of provinces within China.",
+      "context_title": "Xinyu North railway station",
+      "page_content": "Jiangxi is located in the People's Republic of China."
+    },
+    {
+      "chunk_id": "fcaedc95-1c65-47d6-9828-53ecd9eab4db",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of regions within the People's Republic of China.",
+      "context_title": "Guiding North railway station",
+      "page_content": "Guizhou is located in the People's Republic of China."
+    },
+    {
+      "chunk_id": "c69641c1-848f-4658-b38f-a7254173f458",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of provinces within China.",
+      "context_title": "Yingtan North railway station",
+      "page_content": "Jiangxi is located in the People's Republic of China."
+    },
+    {
+      "chunk_id": "21e56f4b-0d79-438e-ab0c-c0e49c5927aa",
+      "chunk_title": "Railway Stations & Locations",
+      "chunk_summary": "This chunk contains information about railway stations, including their locations and the lines they serve.",
+      "context_title": "Yangquan North railway station",
+      "page_content": "The Yangquan North railway station is a railway station of Shitai Passenger Railway. The Yangquan North railway station is located in the People's Republic of China."
+    },
+    {
+      "chunk_id": "4987ad39-6e6d-4c08-a4b5-eb53ba91cf04",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+      "context_title": "Guiding North railway station",
+      "page_content": "Guiding North railway station is located in Guizhou. Guiding North railway station is located on the Hangchangkun Passenger Railway. Guiding North railway station is a railway station."
+    },
+    {
+      "chunk_id": "ff585d18-39f0-42ee-bdbf-0bc5c56fcb29",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of regions within the People's Republic of China.",
+      "context_title": "Xiangtan North railway station",
+      "page_content": "Hunan is located in the People's Republic of China."
+    },
+    {
+      "chunk_id": "9e871665-4fd7-4975-8505-fbb232e6771c",
+      "chunk_title": "Railway Stations & Locations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their associated lines and geographic locations.",
+      "context_title": "Fuyu North railway station",
+      "page_content": "Fuyu North railway station is a railway station of Hada Passenger Railway. Fuyu North railway station is located in Jilin, China."
+    },
+    {
+      "chunk_id": "337f6f27-41fe-451f-ac3f-153e39d11ef4",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+      "context_title": "Xiangtan North railway station",
+      "page_content": "Xiangtan North railway station is located on the Hangchangkun Passenger Railway. Xiangtan North railway station is a railway station. Xiangtan North railway station is located in Hunan."
+    },
+    {
+      "chunk_id": "8f1a24e4-a633-4841-a7d3-f13f08c9f9f8",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, former designations, locations, and the railway lines they belong to.",
+      "context_title": "Shaoxing East railway station",
+      "page_content": "Shaoxing East railway station is a railway station. Shaoxing East railway station was formerly known as Shangyu North railway station. Shaoxing East railway station is part of the Hangyong Passenger Railway. Shaoxing East railway station is located in Zhejiang, People's Republic of China."
+    },
+    {
+      "chunk_id": "427b4939-aae9-42de-8834-7e090357b430",
+      "chunk_title": "Railway Operators",
+      "chunk_summary": "This chunk contains information about the operators of specific railway lines.",
+      "context_title": "Guancangping railway station",
+      "page_content": "The Yiwan Railway is operated by China Railway Corporation."
+    },
+    {
+      "chunk_id": "5e3538bd-bcd0-40fe-82fd-a00f05da47da",
+      "chunk_title": "Major Railway Stations",
+      "chunk_summary": "This chunk contains information about major railway stations in various cities.",
+      "context_title": "Timișoara North railway station",
+      "page_content": "Timișoara North railway station is the main railway station in Timișoara, Romania."
+    },
+    {
+      "chunk_id": "fa7c392c-b3be-4de6-b060-f7ad593676b8",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about railway stations, including their names, status, and locations.",
+      "context_title": "Strathaven North railway station",
+      "page_content": "Strathaven North railway station was in South Lanarkshire, Scotland. Strathaven North railway station was a railway station."
+    },
+    {
+      "chunk_id": "7a550cc8-2903-4750-b54a-feb6db400735",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of historical places.",
+      "context_title": "Jorightu Khan Yesüder",
+      "page_content": "Daiying is located in modern Inner Mongolia."
+    },
+    {
+      "chunk_id": "c4722239-a83c-4a67-a030-5a873ae1a891",
+      "chunk_title": "Railway Stations",
+      "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+      "context_title": "Xinyu North railway station",
+      "page_content": "Xinyu North railway station is located in Jiangxi. Xinyu North railway station is a railway station. Xinyu North railway station is located on the Hangchangkun Passenger Railway."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2,
+  "retrieval_count": 2,
+  "total_chunks": 15,
+  "total_distinct_titles": 11,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需通过比较两个火车站的所属国家来回答",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 和 N1_2 均返回 'People's Republic of China'，两个独立来源（不同文档）一致。推理链完整：比较两国答案相同 → 可回答 'Yes'。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，答案可合成。无需结构调整。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is Guancangping Railway Station located in?",
+          "answer": "People's Republic of China",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Guancangping Railway Station located in?",
+          "planner_rationale": "Q 询问两个火车站是否位于同一国家，需先确定 Guancangping Railway Station 的所属国家",
+          "solver_judgment": "question 要求确认 Guancangping Railway Station 所在的国家。search_query 搜索了 'What country is Guancangping Railway Station located in?'。chunks 返回了 c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a，其中明确记载 'Guancangping railway station is located in Hubei Province, People's Republic of China.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Guancangping railway station）。支撑 chunk c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a 全文直接陈述 'Guancangping railway station is located in Hubei Province, People's Republic of China.'，与声称答案 'People's Republic of China' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地回答了问题，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the railway lines they are situated on.",
+              "context_title": "Guancangping railway station",
+              "page_content": "Guancangping railway station is located in Hubei Province, People's Republic of China. Guancangping railway station is a railway station. Guancangping railway station is on the Yiwan Railway."
+            },
+            {
+              "chunk_id": "c576b1a8-a572-447b-81c9-7723966c1491",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of provinces within China.",
+              "context_title": "Xinyu North railway station",
+              "page_content": "Jiangxi is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "fcaedc95-1c65-47d6-9828-53ecd9eab4db",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within the People's Republic of China.",
+              "context_title": "Guiding North railway station",
+              "page_content": "Guizhou is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "c69641c1-848f-4658-b38f-a7254173f458",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of provinces within China.",
+              "context_title": "Yingtan North railway station",
+              "page_content": "Jiangxi is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "21e56f4b-0d79-438e-ab0c-c0e49c5927aa",
+              "chunk_title": "Railway Stations & Locations",
+              "chunk_summary": "This chunk contains information about railway stations, including their locations and the lines they serve.",
+              "context_title": "Yangquan North railway station",
+              "page_content": "The Yangquan North railway station is a railway station of Shitai Passenger Railway. The Yangquan North railway station is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "4987ad39-6e6d-4c08-a4b5-eb53ba91cf04",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+              "context_title": "Guiding North railway station",
+              "page_content": "Guiding North railway station is located in Guizhou. Guiding North railway station is located on the Hangchangkun Passenger Railway. Guiding North railway station is a railway station."
+            },
+            {
+              "chunk_id": "ff585d18-39f0-42ee-bdbf-0bc5c56fcb29",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within the People's Republic of China.",
+              "context_title": "Xiangtan North railway station",
+              "page_content": "Hunan is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "9e871665-4fd7-4975-8505-fbb232e6771c",
+              "chunk_title": "Railway Stations & Locations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their associated lines and geographic locations.",
+              "context_title": "Fuyu North railway station",
+              "page_content": "Fuyu North railway station is a railway station of Hada Passenger Railway. Fuyu North railway station is located in Jilin, China."
+            },
+            {
+              "chunk_id": "337f6f27-41fe-451f-ac3f-153e39d11ef4",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+              "context_title": "Xiangtan North railway station",
+              "page_content": "Xiangtan North railway station is located on the Hangchangkun Passenger Railway. Xiangtan North railway station is a railway station. Xiangtan North railway station is located in Hunan."
+            },
+            {
+              "chunk_id": "8f1a24e4-a633-4841-a7d3-f13f08c9f9f8",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, former designations, locations, and the railway lines they belong to.",
+              "context_title": "Shaoxing East railway station",
+              "page_content": "Shaoxing East railway station is a railway station. Shaoxing East railway station was formerly known as Shangyu North railway station. Shaoxing East railway station is part of the Hangyong Passenger Railway. Shaoxing East railway station is located in Zhejiang, People's Republic of China."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is Yangquan North Railway Station located in?",
+          "answer": "People's Republic of China",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Yangquan North Railway Station located in?",
+          "planner_rationale": "Q 询问两个火车站是否位于同一国家，需确定 Yangquan North Railway Station 的所属国家以与前者比较",
+          "solver_judgment": "question 要求确认 Yangquan North Railway Station 所在的国家。search_query 搜索了 'What country is Yangquan North Railway Station located in?'。chunks 返回了关于 Yangquan North railway station 的信息，其中 chunk 21e56f4b-0d79-438e-ab0c-c0e49c5927aa 明确记载 'The Yangquan North railway station is located in the People's Republic of China.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Yangquan North railway station）。支撑 chunk 21e56f4b-0d79-438e-ab0c-c0e49c5927aa 全文直接陈述 'The Yangquan North railway station is located in the People's Republic of China.'，与声称答案 'People's Republic of China' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地回答了问题，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "21e56f4b-0d79-438e-ab0c-c0e49c5927aa"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "21e56f4b-0d79-438e-ab0c-c0e49c5927aa",
+              "chunk_title": "Railway Stations & Locations",
+              "chunk_summary": "This chunk contains information about railway stations, including their locations and the lines they serve.",
+              "context_title": "Yangquan North railway station",
+              "page_content": "The Yangquan North railway station is a railway station of Shitai Passenger Railway. The Yangquan North railway station is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "4987ad39-6e6d-4c08-a4b5-eb53ba91cf04",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+              "context_title": "Guiding North railway station",
+              "page_content": "Guiding North railway station is located in Guizhou. Guiding North railway station is located on the Hangchangkun Passenger Railway. Guiding North railway station is a railway station."
+            },
+            {
+              "chunk_id": "9e871665-4fd7-4975-8505-fbb232e6771c",
+              "chunk_title": "Railway Stations & Locations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their associated lines and geographic locations.",
+              "context_title": "Fuyu North railway station",
+              "page_content": "Fuyu North railway station is a railway station of Hada Passenger Railway. Fuyu North railway station is located in Jilin, China."
+            },
+            {
+              "chunk_id": "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the railway lines they are situated on.",
+              "context_title": "Guancangping railway station",
+              "page_content": "Guancangping railway station is located in Hubei Province, People's Republic of China. Guancangping railway station is a railway station. Guancangping railway station is on the Yiwan Railway."
+            },
+            {
+              "chunk_id": "427b4939-aae9-42de-8834-7e090357b430",
+              "chunk_title": "Railway Operators",
+              "chunk_summary": "This chunk contains information about the operators of specific railway lines.",
+              "context_title": "Guancangping railway station",
+              "page_content": "The Yiwan Railway is operated by China Railway Corporation."
+            },
+            {
+              "chunk_id": "5e3538bd-bcd0-40fe-82fd-a00f05da47da",
+              "chunk_title": "Major Railway Stations",
+              "chunk_summary": "This chunk contains information about major railway stations in various cities.",
+              "context_title": "Timișoara North railway station",
+              "page_content": "Timișoara North railway station is the main railway station in Timișoara, Romania."
+            },
+            {
+              "chunk_id": "fa7c392c-b3be-4de6-b060-f7ad593676b8",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about railway stations, including their names, status, and locations.",
+              "context_title": "Strathaven North railway station",
+              "page_content": "Strathaven North railway station was in South Lanarkshire, Scotland. Strathaven North railway station was a railway station."
+            },
+            {
+              "chunk_id": "7a550cc8-2903-4750-b54a-feb6db400735",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of historical places.",
+              "context_title": "Jorightu Khan Yesüder",
+              "page_content": "Daiying is located in modern Inner Mongolia."
+            },
+            {
+              "chunk_id": "c4722239-a83c-4a67-a030-5a873ae1a891",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+              "context_title": "Xinyu North railway station",
+              "page_content": "Xinyu North railway station is located in Jiangxi. Xinyu North railway station is a railway station. Xinyu North railway station is located on the Hangchangkun Passenger Railway."
+            },
+            {
+              "chunk_id": "8f1a24e4-a633-4841-a7d3-f13f08c9f9f8",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, former designations, locations, and the railway lines they belong to.",
+              "context_title": "Shaoxing East railway station",
+              "page_content": "Shaoxing East railway station is a railway station. Shaoxing East railway station was formerly known as Shangyu North railway station. Shaoxing East railway station is part of the Hangyong Passenger Railway. Shaoxing East railway station is located in Zhejiang, People's Republic of China."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。两个子节点 N1_1 和 N1_2 均已 SOLVED + healthy，答案均为 'People's Republic of China'，比较结果相同 → 可回答 'Yes'。推理链完整，无需结构调整。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 和 N1_2 均为 healthy，答案均为 'People's Republic of China'，两个独立来源（不同文档：Guancangping railway station 和 Yangquan North railway station）一致。推理链完整：两国答案相同 → 可回答 'Yes'。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，答案可合成。无需结构调整。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is Guancangping Railway Station located in?",
+          "answer": "People's Republic of China",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Guancangping Railway Station located in?",
+          "planner_rationale": "Q 的分解子事实之一——确定 Guancangping Railway Station 的所属国家。已 SOLVED + healthy，支撑 chunk 直接陈述 'Guancangping railway station is located in Hubei Province, People's Republic of China.'，证据充分。",
+          "solver_judgment": "question 要求确认 Guancangping Railway Station 所在的国家。search_query 搜索了 'What country is Guancangping Railway Station located in?'。chunks 返回了 c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a，其中明确记载 'Guancangping railway station is located in Hubei Province, People's Republic of China.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Guancangping railway station）。支撑 chunk c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a 全文直接陈述 'Guancangping railway station is located in Hubei Province, People's Republic of China.'，与声称答案 'People's Republic of China' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地回答了问题，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the railway lines they are situated on.",
+              "context_title": "Guancangping railway station",
+              "page_content": "Guancangping railway station is located in Hubei Province, People's Republic of China. Guancangping railway station is a railway station. Guancangping railway station is on the Yiwan Railway."
+            },
+            {
+              "chunk_id": "c576b1a8-a572-447b-81c9-7723966c1491",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of provinces within China.",
+              "context_title": "Xinyu North railway station",
+              "page_content": "Jiangxi is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "fcaedc95-1c65-47d6-9828-53ecd9eab4db",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within the People's Republic of China.",
+              "context_title": "Guiding North railway station",
+              "page_content": "Guizhou is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "c69641c1-848f-4658-b38f-a7254173f458",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of provinces within China.",
+              "context_title": "Yingtan North railway station",
+              "page_content": "Jiangxi is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "21e56f4b-0d79-438e-ab0c-c0e49c5927aa",
+              "chunk_title": "Railway Stations & Locations",
+              "chunk_summary": "This chunk contains information about railway stations, including their locations and the lines they serve.",
+              "context_title": "Yangquan North railway station",
+              "page_content": "The Yangquan North railway station is a railway station of Shitai Passenger Railway. The Yangquan North railway station is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "4987ad39-6e6d-4c08-a4b5-eb53ba91cf04",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+              "context_title": "Guiding North railway station",
+              "page_content": "Guiding North railway station is located in Guizhou. Guiding North railway station is located on the Hangchangkun Passenger Railway. Guiding North railway station is a railway station."
+            },
+            {
+              "chunk_id": "ff585d18-39f0-42ee-bdbf-0bc5c56fcb29",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within the People's Republic of China.",
+              "context_title": "Xiangtan North railway station",
+              "page_content": "Hunan is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "9e871665-4fd7-4975-8505-fbb232e6771c",
+              "chunk_title": "Railway Stations & Locations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their associated lines and geographic locations.",
+              "context_title": "Fuyu North railway station",
+              "page_content": "Fuyu North railway station is a railway station of Hada Passenger Railway. Fuyu North railway station is located in Jilin, China."
+            },
+            {
+              "chunk_id": "337f6f27-41fe-451f-ac3f-153e39d11ef4",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+              "context_title": "Xiangtan North railway station",
+              "page_content": "Xiangtan North railway station is located on the Hangchangkun Passenger Railway. Xiangtan North railway station is a railway station. Xiangtan North railway station is located in Hunan."
+            },
+            {
+              "chunk_id": "8f1a24e4-a633-4841-a7d3-f13f08c9f9f8",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, former designations, locations, and the railway lines they belong to.",
+              "context_title": "Shaoxing East railway station",
+              "page_content": "Shaoxing East railway station is a railway station. Shaoxing East railway station was formerly known as Shangyu North railway station. Shaoxing East railway station is part of the Hangyong Passenger Railway. Shaoxing East railway station is located in Zhejiang, People's Republic of China."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is Yangquan North Railway Station located in?",
+          "answer": "People's Republic of China",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Yangquan North Railway Station located in?",
+          "planner_rationale": "Q 的分解子事实之二——确定 Yangquan North Railway Station 的所属国家。已 SOLVED + healthy，支撑 chunk 直接陈述 'The Yangquan North railway station is located in the People's Republic of China.'，证据充分。",
+          "solver_judgment": "question 要求确认 Yangquan North Railway Station 所在的国家。search_query 搜索了 'What country is Yangquan North Railway Station located in?'。chunks 返回了关于 Yangquan North railway station 的信息，其中 chunk 21e56f4b-0d79-438e-ab0c-c0e49c5927aa 明确记载 'The Yangquan North railway station is located in the People's Republic of China.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Yangquan North railway station）。支撑 chunk 21e56f4b-0d79-438e-ab0c-c0e49c5927aa 全文直接陈述 'The Yangquan North railway station is located in the People's Republic of China.'，与声称答案 'People's Republic of China' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地回答了问题，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "21e56f4b-0d79-438e-ab0c-c0e49c5927aa"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "21e56f4b-0d79-438e-ab0c-c0e49c5927aa",
+              "chunk_title": "Railway Stations & Locations",
+              "chunk_summary": "This chunk contains information about railway stations, including their locations and the lines they serve.",
+              "context_title": "Yangquan North railway station",
+              "page_content": "The Yangquan North railway station is a railway station of Shitai Passenger Railway. The Yangquan North railway station is located in the People's Republic of China."
+            },
+            {
+              "chunk_id": "4987ad39-6e6d-4c08-a4b5-eb53ba91cf04",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+              "context_title": "Guiding North railway station",
+              "page_content": "Guiding North railway station is located in Guizhou. Guiding North railway station is located on the Hangchangkun Passenger Railway. Guiding North railway station is a railway station."
+            },
+            {
+              "chunk_id": "9e871665-4fd7-4975-8505-fbb232e6771c",
+              "chunk_title": "Railway Stations & Locations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their associated lines and geographic locations.",
+              "context_title": "Fuyu North railway station",
+              "page_content": "Fuyu North railway station is a railway station of Hada Passenger Railway. Fuyu North railway station is located in Jilin, China."
+            },
+            {
+              "chunk_id": "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the railway lines they are situated on.",
+              "context_title": "Guancangping railway station",
+              "page_content": "Guancangping railway station is located in Hubei Province, People's Republic of China. Guancangping railway station is a railway station. Guancangping railway station is on the Yiwan Railway."
+            },
+            {
+              "chunk_id": "427b4939-aae9-42de-8834-7e090357b430",
+              "chunk_title": "Railway Operators",
+              "chunk_summary": "This chunk contains information about the operators of specific railway lines.",
+              "context_title": "Guancangping railway station",
+              "page_content": "The Yiwan Railway is operated by China Railway Corporation."
+            },
+            {
+              "chunk_id": "5e3538bd-bcd0-40fe-82fd-a00f05da47da",
+              "chunk_title": "Major Railway Stations",
+              "chunk_summary": "This chunk contains information about major railway stations in various cities.",
+              "context_title": "Timișoara North railway station",
+              "page_content": "Timișoara North railway station is the main railway station in Timișoara, Romania."
+            },
+            {
+              "chunk_id": "fa7c392c-b3be-4de6-b060-f7ad593676b8",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about railway stations, including their names, status, and locations.",
+              "context_title": "Strathaven North railway station",
+              "page_content": "Strathaven North railway station was in South Lanarkshire, Scotland. Strathaven North railway station was a railway station."
+            },
+            {
+              "chunk_id": "7a550cc8-2903-4750-b54a-feb6db400735",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of historical places.",
+              "context_title": "Jorightu Khan Yesüder",
+              "page_content": "Daiying is located in modern Inner Mongolia."
+            },
+            {
+              "chunk_id": "c4722239-a83c-4a67-a030-5a873ae1a891",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, locations, and the lines they are situated on.",
+              "context_title": "Xinyu North railway station",
+              "page_content": "Xinyu North railway station is located in Jiangxi. Xinyu North railway station is a railway station. Xinyu North railway station is located on the Hangchangkun Passenger Railway."
+            },
+            {
+              "chunk_id": "8f1a24e4-a633-4841-a7d3-f13f08c9f9f8",
+              "chunk_title": "Railway Stations",
+              "chunk_summary": "This chunk contains information about specific railway stations, including their names, former designations, locations, and the railway lines they belong to.",
+              "context_title": "Shaoxing East railway station",
+              "page_content": "Shaoxing East railway station is a railway station. Shaoxing East railway station was formerly known as Shangyu North railway station. Shaoxing East railway station is part of the Hangyong Passenger Railway. Shaoxing East railway station is located in Zhejiang, People's Republic of China."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What country is Guancangping Railway Station located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a",
+        "c576b1a8-a572-447b-81c9-7723966c1491",
+        "fcaedc95-1c65-47d6-9828-53ecd9eab4db",
+        "c69641c1-848f-4658-b38f-a7254173f458",
+        "21e56f4b-0d79-438e-ab0c-c0e49c5927aa",
+        "4987ad39-6e6d-4c08-a4b5-eb53ba91cf04",
+        "ff585d18-39f0-42ee-bdbf-0bc5c56fcb29",
+        "9e871665-4fd7-4975-8505-fbb232e6771c",
+        "337f6f27-41fe-451f-ac3f-153e39d11ef4",
+        "8f1a24e4-a633-4841-a7d3-f13f08c9f9f8"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What country is Yangquan North Railway Station located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "21e56f4b-0d79-438e-ab0c-c0e49c5927aa",
+        "4987ad39-6e6d-4c08-a4b5-eb53ba91cf04",
+        "9e871665-4fd7-4975-8505-fbb232e6771c",
+        "c3cdc0e1-b8ba-44e6-9b7f-4d5d193f5a9a",
+        "427b4939-aae9-42de-8834-7e090357b430",
+        "5e3538bd-bcd0-40fe-82fd-a00f05da47da",
+        "fa7c392c-b3be-4de6-b060-f7ad593676b8",
+        "7a550cc8-2903-4750-b54a-feb6db400735",
+        "c4722239-a83c-4a67-a030-5a873ae1a891",
+        "8f1a24e4-a633-4841-a7d3-f13f08c9f9f8"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Guancangping Railway Station located in?（理由：Q 询问两个火车站是否位于同一国家，需先确定 Guancangping Railway Station 的所属国家），F2: What country is Yangquan North Railway Station located in?（理由：同理，需确定 Yangquan North Railway Station 的所属国家）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系——两个火车站的国家信息可以并行搜索，最后比较两者是否相同即可回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: $1（question=\"What country is Guancangping Railway Station located in?\"），原因：Q 的核心语义需求之一——确定第一个火车站的所属国家。新增: $2（question=\"What country is Yangquan North Railway Station located in?\"），原因：Q 的核心语义需求之二——确定第二个火车站的所属国家。新增边: N0→$1（decomposition），原因：$1 是 Q 的分解子事实。新增边: N0→$2（decomposition），原因：$2 是 Q 的分解子事实。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 两条 decomposition 边语义有效，子节点 question 直接包含实体名称无需指代消解，答案聚合后可直接比较得出 Q 的答案；③全部节点 healthy——N1_1 和 N1_2 各有单来源但直接具体的证据支撑，ROOT 节点推理链完整一致；④首轮无拓扑变化。置信评估：推理链完整，所"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Guancangping Railway Station located in?（理由：Q 询问两个火车站是否位于同一国家，需先确定 Guancangping Railway Station 的所属国家），F2: What country is Yangquan North Railway Station located in?（理由：同理，需确定 Yangquan North Railway Station 的所属国家以进行比较）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系——两个火车站的国家信息可以并行搜索，最后比较两者是否相同即可回答 Q。当前两个子节点均已 SOLVED + healthy，答案均为 'People's Republic of China'，推理链完整，可直接合成答案 'Yes'。",
+      "hypothesis_delta": "无变更——所有节点和边均通过 INHERIT 保留。原因：上一轮（首轮）的分解策略完全正确，两个子节点 N1_1 和 N1_2 均已 SOLVED + healthy，Critic 确认证据充分、无结构缺口、无冗余。DAG 已收敛，无需任何结构调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点答案聚合后可支撑 ROOT 回答 'Yes'；③全部节点（N0, N1_1, N1_2）critic_health 均为 healthy；④拓扑与上一轮一致（无变化）。推理链完整，所有节点证据充分，可终止探索并生成最终答案。"
+      }
+    }
+  ]
+}

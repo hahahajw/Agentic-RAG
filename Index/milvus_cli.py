@@ -1,4 +1,4 @@
-"""CLI 入口：build / stats / drop / create — 索引管理
+"""CLI 入口：build / stats / drop / create / recover — 索引管理
 
 每个数据集独立 collection，命令默认操作全部数据集，
 可通过 --dataset 指定。
@@ -65,6 +65,15 @@ def cmd_create(args):
         print(f"Created: {get_collection_name(ds)}")
 
 
+def cmd_recover(args):
+    """从已有嵌入文件流式恢复到 Milvus（不重新计算嵌入）"""
+    from Index.milvus_ingest import recover_index
+
+    datasets = args.dataset if args.dataset else None
+    result = recover_index(dataset_types=datasets)
+    print(json.dumps(result, indent=2, ensure_ascii=False))
+
+
 def main():
     parser = argparse.ArgumentParser(description="Milvus 索引管理 CLI")
     subparsers = parser.add_subparsers(dest="command", help="可用命令")
@@ -89,6 +98,10 @@ def main():
     create_p.add_argument("--dataset", nargs="+", choices=get_all_dataset_types(), help="指定数据集（默认全部）")
     create_p.add_argument("--rebuild", action="store_true", help="已存在则重建")
 
+    # recover
+    recover_p = subparsers.add_parser("recover", help="从已有嵌入文件流式恢复到 Milvus")
+    recover_p.add_argument("--dataset", nargs="+", choices=get_all_dataset_types(), help="指定数据集（默认全部）")
+
     args = parser.parse_args()
     if not args.command:
         parser.print_help()
@@ -96,7 +109,7 @@ def main():
 
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 
-    commands = {"build": cmd_build, "stats": cmd_stats, "drop": cmd_drop, "create": cmd_create}
+    commands = {"build": cmd_build, "stats": cmd_stats, "drop": cmd_drop, "create": cmd_create, "recover": cmd_recover}
     commands[args.command](args)
 
 

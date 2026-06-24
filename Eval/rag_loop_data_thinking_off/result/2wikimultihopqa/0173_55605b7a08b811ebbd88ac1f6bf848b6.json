@@ -1,0 +1,422 @@
+{
+  "question_index": 173,
+  "question_id": "55605b7a08b811ebbd88ac1f6bf848b6",
+  "question": "Which film was released more recently, Daredevil'S Time or Paid In Error?",
+  "answer": "Daredevil'S Time",
+  "prediction": "Daredevil's Time",
+  "error": null,
+  "latency_ms": 109662.19979996094,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T18:20:02.910962+00:00",
+  "chunks": [
+    {
+      "chunk_id": "d8ee3db1-9583-43f7-8b5f-50785daf2a52",
+      "chunk_title": "Films & Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, countries of origin, directors, and release dates.",
+      "context_title": "Daredevil's Time",
+      "page_content": "Daredevil's Time has the original title \"Hajdučka vremena\". Daredevil's Time was released in 1977. Daredevil's Time is a Croatian film. Daredevil's Time was directed by Vladimir Tadej."
+    },
+    {
+      "chunk_id": "208024c6-0487-420c-8fb9-24eb5d570099",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about film release dates and years.",
+      "context_title": "Tim Miller (director)",
+      "page_content": "The short animated film \"Gopher Broke\" was released in 2004. The film \"Deadpool\" was released in 2016."
+    },
+    {
+      "chunk_id": "55427c72-b3c3-4cfb-95a1-6923541e1ba7",
+      "chunk_title": "Truth or Dare? Film Details",
+      "chunk_summary": "This chunk contains information about the horror film \"Truth or Dare?\", including its release year, format (short film), and anthology origin.",
+      "context_title": "Truth or Dare? (1986 film)",
+      "page_content": "The short film Truth or Dare? is from the anthology film Twisted Illusions. Truth or Dare? is a 1986 horror film. The short film Truth or Dare? was created in 1985."
+    },
+    {
+      "chunk_id": "1dd4e5b6-0794-4bd2-ab8c-74fb16fcbcd7",
+      "chunk_title": "When the Mountains Tremble Documentary",
+      "chunk_summary": "This chunk contains information about the 1983 documentary film \"When the Mountains Tremble,\" including its production, subject matter regarding the Guatemalan Civil War and indigenous experiences, its focus on Rigoberta Menchú, its accolades, its use as forensic evidence in legal proceedings, and related follow-up films.",
+      "context_title": "When the Mountains Tremble",
+      "page_content": "Footage from When the Mountains Tremble was used in the genocide case against Efraín Ríos Montt. When the Mountains Tremble won the Grand Coral Award for Best North American Documentary at the Havana Film Festival. When the Mountains Tremble is about the war between the Guatemalan Military and the Mayan Indigenous population of Guatemala. When the Mountains Tremble is a 1983 documentary film. When the Mountains Tremble won the Blue Ribbon Award at the American Film Festival. When the Mountains Tremble centers on the experiences of Rigoberta Menchú. Footage from When the Mountains Tremble was used as forensic evidence in the Guatemalan court for crimes against humanity. A follow-up film to When the Mountains Tremble was released in 2011. The follow-up film to When the Mountains Tremble is titled Granito: How to Nail a Dictator. When the Mountains Tremble was produced by Skylight Pictures. When the Mountains Tremble won the Special Jury Award at the Sundance Film Festival."
+    },
+    {
+      "chunk_id": "5cf15922-9bca-43fc-897b-d42ea212d228",
+      "chunk_title": "King Mongkut's Life & Legacy",
+      "chunk_summary": "This chunk contains information about the identity, reign dates, modernization efforts, cultural legacy, and key political relationships of King Mongkut (Rama IV) of Siam.",
+      "context_title": "Mongkut",
+      "page_content": "Mongkut appointed his brother, Prince Chutamani, as Second King. Prince Chutamani was crowned in 1851 as King Pinklao. Mongkut ruled from 1851 to 1868. Mongkut was the fourth monarch of Siam (Thailand). Mongkut initiated the modernization of Siam in technology. Mongkut was also known as King Rama IV. During Mongkut's reign, the pressure of Western expansionism was felt for the first time in Siam. Mongkut initiated the modernization of Siam in culture. Mongkut ruled under the House of Chakri. Outside Thailand, Mongkut is best known as the king in the 1951 musical \"The King and I\". The House of Bunnag became the most powerful noble family of Siam during Mongkut's reign. Mongkut's reign was the time when the power of the House of Bunnag reached its zenith. Mongkut assured the country that King Pinklao should be respected with equal honor to himself. Outside Thailand, Mongkut is best known as the king in the 1956 film \"The King and I\". Mongkut was born on 18 October 1804. Mongkut earned the nickname \"The Father of Science and Technology\" in Siam. Mongkut's reigning title was Phra Chom Klao Chao Yu Hua. Mongkut embraced Western innovations. Mongkut died on 1 October 1868."
+    },
+    {
+      "chunk_id": "0e390ece-de2b-46c0-896d-f033af8711c6",
+      "chunk_title": "Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of films and media.",
+      "context_title": "Hubert Sauper",
+      "page_content": "\"Darwin's Nightmare\" was released in 2004."
+    },
+    {
+      "chunk_id": "f9d69e73-427b-4156-99dc-b73948237ae5",
+      "chunk_title": "The Gordons: Career & Discography",
+      "chunk_summary": "This chunk contains information about the folk music duo The Gordons, including their genre blend, professional history since 1973, touring activities across various regions of the United States and Europe, notable collaborations, and album releases.",
+      "context_title": "The Gordons (duo)",
+      "page_content": "The album \"Was n't Born To Follow\" featured fiddler Wade Ray. The Gordons released the album \"Time Will Tell Our Story\" in 2002. The Gordons have been performing professionally since 1973. The Gordons have become popular in the Carolinas. The album \"Was n't Born To Follow\" was more country flavored than previous records. The 1999 live record by The Gordons is titled \"Live in Holland\". Occasionally, The Gordons tour with a larger ensemble. In 1989, The Gordons recorded with bluegrass fiddler Kenny Baker. The album \"End of a Long Hard Day\" was released in 1997. The album \"Time Will Tell Our Story\" featured guest musicians Alison Brown and Robert Bowlin. The 1989 recording by The Gordons, Josh Graves, and Kenny Baker resulted in the album \"Old Time Radio Show\". A live record chronicling The Gordons' tours in Europe arrived in 1999. The Gordons released the album \"Our Time\" in 2008. The Gordons have become popular in Europe. In 1996, The Gordons performed live in Dublin on Ireland's RTÉ television network. In 1989, The Gordons recorded with Dobroist Josh Graves. The Gordons began touring throughout the Midwestern United States in the 1970s. The album \"Our Time\" was released on The Gordons' own label. The Gordons have become popular in the Northeastern United States. The Gordons released the album \"Was n't Born To Follow\" one year after 1989. The larger ensemble occasionally touring with The Gordons includes David Johnson. The Gordons played clubs, fairs, festivals, and colleges in the Midwestern United States. The Gordons are a folk music duo. The Gordons bring a blend of folk, bluegrass, and country music to audiences. In 1996, The Gordons toured Ireland."
+    },
+    {
+      "chunk_id": "1bd0647d-dffc-48c6-9b29-761079890d14",
+      "chunk_title": "What's Your Number? Film Details",
+      "chunk_summary": "This chunk contains information about the 2011 romantic comedy film \"What's Your Number?\", including its director, starring actors, and release details.",
+      "context_title": "What's Your Number?",
+      "page_content": "What's Your Number? was directed by Mark Mylod. What's Your Number? is a 2011 American romantic comedy film. The film What's Your Number? was released in 2011. What's Your Number? stars Anna Faris. What's Your Number? stars Chris Evans."
+    },
+    {
+      "chunk_id": "0d9e84f9-2daf-4a5e-976e-13086b1c1436",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, cast members, and screenplay details.",
+      "context_title": "Paid in Error",
+      "page_content": "Paid in Error was directed by Maclean Rogers. Paid in Error is a 1938 British comedy film. Paid in Error features Lillian Christine. The screenplay of Paid in Error concerns a man. Paid in Error features George Carney. The man in the screenplay of Paid in Error is mistakenly given a large sum of money at the bank. Paid in Error features Tom Helmore."
+    },
+    {
+      "chunk_id": "e5e6c0f6-4504-43eb-b8fd-bf7741e9e115",
+      "chunk_title": "Film Release & Distribution",
+      "chunk_summary": "This chunk contains information about the release details and distribution of films.",
+      "context_title": "Paid in Full (1950 film)",
+      "page_content": "Paid in Full was released by Paramount Pictures."
+    },
+    {
+      "chunk_id": "55ceddd5-ad97-4a14-88a3-fb4c6d231fb3",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release dates, genres, countries of origin, and directors.",
+      "context_title": "Paid in Full (1950 film)",
+      "page_content": "Paid in Full is a 1950 American drama film. Paid in Full was directed by William Dieterle. Paid in Full was released on February 15, 1950."
+    },
+    {
+      "chunk_id": "36057622-4d2a-4a82-9825-a37849c92b89",
+      "chunk_title": "Film Production & Distribution",
+      "chunk_summary": "This chunk contains information about the production and distribution companies of films.",
+      "context_title": "Paid in Full (1919 film)",
+      "page_content": "Paid in Full was released by Paramount Pictures. Paid in Full was produced by Famous Players-Lasky."
+    },
+    {
+      "chunk_id": "17150a1c-50bb-4f9b-9c17-19c0f497168a",
+      "chunk_title": "Source Material & Adaptations",
+      "chunk_summary": "This chunk contains information about the source material, authors, and film adaptations of the play \"Paid in Full\".",
+      "context_title": "Paid in Full (1914 film)",
+      "page_content": "The story of Paid in Full was re-filmed five years after 1914. The 1908 play Paid in Full was written by Eugene Walter. The re-filmed version of Paid in Full was titled \"Paid in Full\". Paid in Full is based on a 1908 play."
+    },
+    {
+      "chunk_id": "0c9ffa72-f7b8-4df9-a723-6d0d21d6998c",
+      "chunk_title": "Lost Silent Films",
+      "chunk_summary": "This chunk contains information about lost silent films, including their titles, release years, and genres.",
+      "context_title": "Paid in Full (1914 film)",
+      "page_content": "Paid in Full is a lost 1914 silent film drama."
+    },
+    {
+      "chunk_id": "8444584f-7379-4f8a-a9a4-a4fbcad640f1",
+      "chunk_title": "Film Release & Series Data",
+      "chunk_summary": "This chunk contains information about the release dates, series details, and commercial performance of various films, particularly those within the sci-fi, horror, and video game adaptation genres.",
+      "context_title": "Paul W. S. Anderson",
+      "page_content": "The film \"Shopping\" was released in 1994. The film \"Death Race\" is a remake/prequel to 1975's \"Death Race 2000\". The \"Resident Evil\" film series ran from 2002 to 2016. The \"Resident Evil\" film series is the most commercially successful video game adaptation to this date. The film \"Death Race\" was released in 2008. The film \"Event Horizon\" was released in 1997. The film \"Alien vs. Predator\" was released in 2004. The \"Resident Evil\" film series consists of six films. The film \"Mortal Kombat\" was released in 1995. The film \"Event Horizon\" was an initial critical and commercial disappointment. The \"Resident Evil\" film series has collectively grossed over $1 billion worldwide."
+    },
+    {
+      "chunk_id": "e6167827-015b-46ed-81e4-5ce535f4f577",
+      "chunk_title": "Paid in Full Films",
+      "chunk_summary": "This chunk contains information about the various film adaptations of \"Paid in Full,\" including their release years, formats, and key cast members.",
+      "context_title": "Paid in Full (1919 film)",
+      "page_content": "Paid in Full is a lost 1919 American silent drama film. Paid in Full starred Pauline Frederick. A previous silent film version of Paid in Full appeared in 1914 as a feature. A previous silent film version of Paid in Full appeared in 1910 as a short."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.125,
+  "retrieval_count": 2,
+  "total_chunks": 16,
+  "total_distinct_titles": 13,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which film was released more recently, Daredevil'S Time or Paid In Error?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released more recently, Daredevil'S Time or Paid In Error?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影的上映时间",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 (answer=1977) 和 N1_2 (answer=1938) 均已 solved 且证据充分。基于子节点答案，可推断 Daredevil's Time (1977) 比 Paid In Error (1938) 更近期上映。推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点事实已确立，逻辑比较可直接得出最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film Daredevil's Time released?",
+          "answer": "1977",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Daredevil's Time released?",
+          "planner_rationale": "Q 要求比较两部电影的上映时间，首先需要获取 Daredevil's Time 的具体上映日期",
+          "solver_judgment": "question 要求确认电影《Daredevil's Time》的上映年份。search_query 直接搜索了该电影的上映时间。chunks 返回的结果中，chunk d8ee3db1-9583-43f7-8b5f-50785daf2a52 明确记载 \"Daredevil's Time was released in 1977\"，直接回答了问题。其他 chunks 涉及其他电影或无关主题，未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Daredevil's Time'）。支撑 chunk [d8ee3db1-...] 全文明确记载 'Daredevil's Time was released in 1977'。单来源但直接、具体地陈述了答案，与声称一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film Paid In Error released?",
+          "answer": "1938",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Paid In Error released?",
+          "planner_rationale": "Q 要求比较两部电影的上映时间，需要获取 Paid In Error 的具体上映日期以进行对比",
+          "solver_judgment": "question 要求确认电影《Paid In Error》的上映年份。search_query 搜索了 'When was the film Paid In Error released?'。chunks 返回了多个包含 'Paid in Full' 或 'Paid in Error' 的片段。其中 chunk_0d9e84f9-2daf-4a5e-976e-13086b1c1436 明确记载 'Paid in Error is a 1938 British comedy film'，直接提供了目标电影的年份信息。其他 chunks 主要涉及名为 'Paid in Full' 的不同电影，与问题无关。检索精准命中目标信息。",
+          "critic_factual_notes": "1 个来源（文档 'Paid in Error'）。支撑 chunk [0d9e84f9-...] 全文明确记载 'Paid in Error is a 1938 British comedy film'。单来源但直接、具体地陈述了答案，与声称一致。其他检索结果多为 'Paid in Full'，已被正确排除。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which film was released more recently, Daredevil'S Time or Paid In Error?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released more recently, Daredevil'S Time or Paid In Error?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 (1977) 和 N1_2 (1938) 均已确立，逻辑比较可直接得出最终答案：Daredevil's Time 更近期。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 (answer=1977) 和 N1_2 (answer=1938) 均已 solved 且证据充分。基于子节点答案，可推断 Daredevil's Time (1977) 比 Paid In Error (1938) 更近期上映。推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点事实已确立，逻辑比较可直接得出最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film Daredevil's Time released?",
+          "answer": "1977",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Daredevil's Time released?",
+          "planner_rationale": "事实已确立：Daredevil's Time 上映于 1977 年。证据充分且 Critic 判定 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认电影《Daredevil's Time》的上映年份。search_query 直接搜索了该电影的上映时间。chunks 返回的结果中，chunk d8ee3db1-9583-43f7-8b5f-50785daf2a52 明确记载 \"Daredevil's Time was released in 1977\"，直接回答了问题。其他 chunks 涉及其他电影或无关主题，未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Daredevil's Time'）。支撑 chunk [d8ee3db1-...] 全文明确记载 'Daredevil's Time was released in 1977'。单来源但直接、具体地陈述了答案，与声称一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film Paid In Error released?",
+          "answer": "1938",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Paid In Error released?",
+          "planner_rationale": "事实已确立：Paid In Error 上映于 1938 年。证据充分且 Critic 判定 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认电影《Paid In Error》的上映年份。search_query 搜索了 'When was the film Paid In Error released?'。chunks 返回了多个包含 'Paid in Full' 或 'Paid in Error' 的片段。其中 chunk_0d9e84f9-2daf-4a5e-976e-13086b1c1436 明确记载 'Paid in Error is a 1938 British comedy film'，直接提供了目标电影的年份信息。其他 chunks 主要涉及名为 'Paid in Full' 的不同电影，与问题无关。检索精准命中目标信息。",
+          "critic_factual_notes": "1 个来源（文档 'Paid in Error'）。支撑 chunk [0d9e84f9-...] 全文明确记载 'Paid in Error is a 1938 British comedy film'。单来源但直接、具体地陈述了答案，与声称一致。其他检索结果多为 'Paid in Full'，已被正确排除。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which film was released more recently, Daredevil'S Time or Paid In Error?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released more recently, Daredevil'S Time or Paid In Error?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 (1977) 和 N1_2 (1938) 均已确立，逻辑比较可直接得出最终答案：Daredevil's Time 更近期。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 (answer=1977) 和 N1_2 (answer=1938) 均已 solved 且证据充分。基于子节点答案，可推断 Daredevil's Time (1977) 比 Paid In Error (1938) 更近期上映。推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点事实已确立，逻辑比较可直接得出最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film Daredevil's Time released?",
+          "answer": "1977",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Daredevil's Time released?",
+          "planner_rationale": "事实已确立：Daredevil's Time 上映于 1977 年。证据充分且 Critic 判定 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认电影《Daredevil's Time》的上映年份。search_query 直接搜索了该电影的上映时间。chunks 返回的结果中，chunk d8ee3db1-9583-43f7-8b5f-50785daf2a52 明确记载 \"Daredevil's Time was released in 1977\"，直接回答了问题。其他 chunks 涉及其他电影或无关主题，未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Daredevil's Time'）。支撑 chunk [d8ee3db1-...] 全文明确记载 'Daredevil's Time was released in 1977'。单来源但直接、具体地陈述了答案，与声称一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film Paid In Error released?",
+          "answer": "1938",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Paid In Error released?",
+          "planner_rationale": "事实已确立：Paid In Error 上映于 1938 年。证据充分且 Critic 判定 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认电影《Paid In Error》的上映年份。search_query 搜索了 'When was the film Paid In Error released?'。chunks 返回了多个包含 'Paid in Full' 或 'Paid in Error' 的片段。其中 chunk_0d9e84f9-2daf-4a5e-976e-13086b1c1436 明确记载 'Paid in Error is a 1938 British comedy film'，直接提供了目标电影的年份信息。其他 chunks 主要涉及名为 'Paid in Full' 的不同电影，与问题无关。检索精准命中目标信息。",
+          "critic_factual_notes": "1 个来源（文档 'Paid in Error'）。支撑 chunk [0d9e84f9-...] 全文明确记载 'Paid in Error is a 1938 British comedy film'。单来源但直接、具体地陈述了答案，与声称一致。其他检索结果多为 'Paid in Full'，已被正确排除。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was the film Daredevil's Time released?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "d8ee3db1-9583-43f7-8b5f-50785daf2a52",
+        "208024c6-0487-420c-8fb9-24eb5d570099",
+        "55427c72-b3c3-4cfb-95a1-6923541e1ba7",
+        "1dd4e5b6-0794-4bd2-ab8c-74fb16fcbcd7",
+        "5cf15922-9bca-43fc-897b-d42ea212d228",
+        "0e390ece-de2b-46c0-896d-f033af8711c6",
+        "f9d69e73-427b-4156-99dc-b73948237ae5",
+        "1bd0647d-dffc-48c6-9b29-761079890d14"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was the film Paid In Error released?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "0d9e84f9-2daf-4a5e-976e-13086b1c1436",
+        "e5e6c0f6-4504-43eb-b8fd-bf7741e9e115",
+        "55ceddd5-ad97-4a14-88a3-fb4c6d231fb3",
+        "36057622-4d2a-4a82-9825-a37849c92b89",
+        "17150a1c-50bb-4f9b-9c17-19c0f497168a",
+        "0c9ffa72-f7b8-4df9-a723-6d0d21d6998c",
+        "8444584f-7379-4f8a-a9a4-a4fbcad640f1",
+        "e6167827-015b-46ed-81e4-5ce535f4f577"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Daredevil's Time released?（理由：比较上映时间的必要数据点之一），F2: When was Paid In Error released?（理由：比较上映时间的必要数据点之二）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。通过获取 F1 和 F2 的答案，可以直接比较得出哪部电影更近期上映。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。修正：增加了从根节点 N0 到两个新初始化节点 $1 和 $2 的 decomposition 边，以满足 DAG 结构不变式（确保非根节点有入边，且只有一个根节点）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（分解边有效，子节点答案可聚合比较）；③所有节点（含 ROOT）health 均为 healthy；④首轮无拓扑震荡。DAG 结构完整，证据充分，可生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Daredevil's Time 的上映年份（已确立为 1977），F2: Paid In Error 的上映年份（已确立为 1938）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。基于 F1 和 F2 的答案，可直接推断 Daredevil's Time (1977) 比 Paid In Error (1938) 更近期上映。当前 DAG 结构已完整覆盖 Q 的语义需求，且所有子节点均已 SOLVED + healthy。",
+      "hypothesis_delta": "本轮无结构变更。原因：Critic 指出子节点 N1_1 和 N1_2 均已 solved 且证据充分，逻辑链完整。上一轮假设的目标状态（获取两部电影上映时间并比较）已完全实现。因此，所有节点均通过 INHERIT 保留，并通过 LINK 原语显式声明保留现有的 decomposition 边，以维持 DAG 结构的完整性并聚合最终答案。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，答案聚合可比较）；③ 所有节点（含 ROOT）健康状态为 healthy；④ 拓扑连续两轮无变化。DAG 结构完整，证据充分，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Daredevil's Time 的上映年份（已确立为 1977），F2: Paid In Error 的上映年份（已确立为 1938）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。基于 F1 和 F2 的答案，可直接推断 Daredevil's Time (1977) 比 Paid In Error (1938) 更近期上映。当前 DAG 结构已完整覆盖 Q 的语义需求，且所有子节点均已 SOLVED + healthy。",
+      "hypothesis_delta": "本轮无结构变更。原因：Critic 指出子节点 N1_1 和 N1_2 均已 solved 且证据充分，逻辑链完整。上一轮假设的目标状态（获取两部电影上映时间并比较）已完全实现。因此，所有节点均通过 INHERIT 保留，并通过 LINK 原语显式声明保留现有的 decomposition 边，以维持 DAG 结构的完整性并聚合最终答案。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1/N1_2 答案有效支撑 N0 的比较逻辑）；③ 全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④ 拓扑连续两轮无变化。DAG 结构完整，证据充分，可生成最终答案。"
+      }
+    }
+  ]
+}

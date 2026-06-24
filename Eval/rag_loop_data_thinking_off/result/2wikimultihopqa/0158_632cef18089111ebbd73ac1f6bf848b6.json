@@ -1,0 +1,922 @@
+{
+  "question_index": 158,
+  "question_id": "632cef18089111ebbd73ac1f6bf848b6",
+  "question": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+  "answer": "The Last Face",
+  "prediction": "The Last Face",
+  "error": null,
+  "latency_ms": 233812.9876999883,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T18:08:15.582687+00:00",
+  "chunks": [
+    {
+      "chunk_id": "1c4915ac-45e3-40ad-bcc9-c267d295df26",
+      "chunk_title": "Movie Cast",
+      "chunk_summary": "This chunk contains information about the cast of movies, specifically listing actors starring in particular films.",
+      "context_title": "The Last Face",
+      "page_content": "The Last Face stars Javier Bardem. The Last Face stars Charlize Theron. The Last Face stars Jean Reno. The Last Face stars Adèle Exarchopoulos."
+    },
+    {
+      "chunk_id": "72c38409-155c-49dc-b896-5fb6b6e32712",
+      "chunk_title": "Actor Identities & Roles",
+      "chunk_summary": "This chunk contains information about the identities, nationalities, and notable roles of actors and actresses.",
+      "context_title": "Sibongile Mlambo",
+      "page_content": "Sibongile Mlambo is known for starring in the film \"The Last Face\". Sibongile Mlambo is known for starring in the Starz historical adventure television series \"Black Sails\". Sibongile Mlambo is best known for her role as Donna on the Freeform television series \"Siren\". Sibongile Mlambo is best known for her role as Tamora Monroe on the MTV television series \"Teen Wolf\". Sibongile Mlambo is a Zimbabwean actress."
+    },
+    {
+      "chunk_id": "e0834d7a-a7de-4046-bad8-d26c8b1fbaa3",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 2016 film \"The Last Face,\" including its director, festival selection, critical reception, and release details.",
+      "context_title": "The Last Face",
+      "page_content": "The Last Face was directed by Sean Penn. The Last Face was released in theaters on July 28, 2017. The Last Face debuted to generally poor reviews. The Last Face was released on DirecTV on June 29, 2017. The Last Face was released on video on demand on July 28, 2017. Saban Films released The Last Face on video on demand and in theaters. The Last Face is a 2016 American drama film. The Last Face was selected to compete for the Palme d'Or at the 2016 Cannes Film Festival."
+    },
+    {
+      "chunk_id": "86f269eb-0914-4302-a99e-8f11c3dbe4f0",
+      "chunk_title": "Director Profiles",
+      "chunk_summary": "This chunk contains information about the professional roles, nationalities, and specific works of directors.",
+      "context_title": "Linda Yellen",
+      "page_content": "Linda Yellen is an American director. Linda Yellen was a director for \"Northern Lights\" (1997). Linda Yellen was a director for a film released in 2011. Linda Yellen was a director for \"The Last Film Festival\" (2011). Linda Yellen was a director for \"The Simian Line\" (2001)."
+    },
+    {
+      "chunk_id": "fd1b99f9-ddff-4b85-a1a4-992894f6e50c",
+      "chunk_title": "The Very Eye of Night",
+      "chunk_summary": "This chunk contains information about the 1958 experimental film \"The Very Eye of Night,\" including its production details, Maya Deren's multiple roles in its creation, its status as her final completed work, and its collaboration with the Metropolitan Opera Ballet School.",
+      "context_title": "The Very Eye of Night",
+      "page_content": "The Very Eye of Night was Maya Deren's last completed film. The Very Eye of Night is a 1958 American experimental silent black and white short. The music for The Very Eye of Night was by Teiji Ito. The Very Eye of Night had cinematography by Maya Deren. The Very Eye of Night was made in collaboration with Metropolitan Opera Ballet School. The entire film The Very Eye of Night is projected as photographed in the negative. The Very Eye of Night was edited by Maya Deren into a 16 mm format. The Very Eye of Night was directed by Maya Deren. The Very Eye of Night was written by Maya Deren."
+    },
+    {
+      "chunk_id": "a09a1d1d-395e-4f46-a6b9-fd8eea03a119",
+      "chunk_title": "Authorship of Creative Works",
+      "chunk_summary": "This chunk contains information about the authorship of creative works.",
+      "context_title": "The Last Face",
+      "page_content": "The Last Face was written by Erin Dignam."
+    },
+    {
+      "chunk_id": "fc7d11bc-ebf9-4f89-bf3e-deb0cb21b26c",
+      "chunk_title": "Last Woman on Earth Film Details",
+      "chunk_summary": "This chunk contains information about the 1960 science fiction film \"Last Woman on Earth,\" including its production, direction, screenplay, cast appearances, music composition, plot details, and release history.",
+      "context_title": "Last Woman on Earth",
+      "page_content": "\"Last Woman on Earth\" was originally released as a double feature with \"The Little Shop of Horrors\". The mysterious apocalypse in \"Last Woman on Earth\" appears to have wiped out all human life on earth. \"Last Woman on Earth\" was directed by Roger Corman. Robert Towne appears in the film \"Last Woman on Earth\" under the pseudonym Edward Wain. The screenplay for \"Last Woman on Earth\" is by Robert Towne. \"Last Woman on Earth\" was produced by Roger Corman. \"Last Woman on Earth\" tells the story of three survivors of a mysterious apocalypse. \"Last Woman on Earth\" is a 1960 American science fiction film. Robert Towne appears in the film \"Last Woman on Earth\". The music for \"Last Woman on Earth\" was composed by Ronald Stein. The music for \"Last Woman on Earth\" was conducted by Ronald Stein."
+    },
+    {
+      "chunk_id": "205b60c7-71f2-4f01-a6f4-f8ae8e17c553",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "The Last Dragon",
+      "page_content": "The Last Dragon was directed by Michael Schultz."
+    },
+    {
+      "chunk_id": "48eaf3e1-0f96-4061-af72-b901ae3bf4ae",
+      "chunk_title": "Movie Casts",
+      "chunk_summary": "This chunk contains information about the cast of movies, specifically listing actors who star in particular films.",
+      "context_title": "The Jackhammer Massacre",
+      "page_content": "The Jackhammer Massacre stars Aaron Gaffey. The Jackhammer Massacre stars Kyle Yaskin."
+    },
+    {
+      "chunk_id": "2573f121-1027-45e4-9e4f-33a5a9406c51",
+      "chunk_title": "The Jackhammer Massacre Creators",
+      "chunk_summary": "This chunk contains information about the creators of The Jackhammer Massacre, specifically detailing the writing and directing roles of Joe Castro and Daniel Benton.",
+      "context_title": "The Jackhammer Massacre",
+      "page_content": "The Jackhammer Massacre was written by Joe Castro. The Jackhammer Massacre was directed by Joe Castro. The Jackhammer Massacre was co-written by Daniel Benton."
+    },
+    {
+      "chunk_id": "361eac08-ff5f-44e7-9e71-a60de904a5d3",
+      "chunk_title": "Lance Mungia's Career",
+      "chunk_summary": "This chunk contains information about the professional background and filmography of American filmmaker Lance Mungia, including his roles as director and screenwriter for specific films, his work with production companies, and his educational history.",
+      "context_title": "Lance Mungia",
+      "page_content": "Lance Mungia is the screenwriter of the film \"Six String Samurai\". The short film \"Garden for Rio\" was produced at Loyola Marymount University. Lance Mungia is an American film director. Lance Mungia wrote the short film \"Garden for Rio\". Lance Mungia is an American screenwriter. Lance Mungia is a director for Dimension Films. Lance Mungia is the director of the film \"Six String Samurai\". Lance Mungia attended Loyola Marymount University. Lance Mungia directed the short film \"Garden for Rio\". Lance Mungia was a film student at Loyola Marymount University. Lance Mungia is a co-writer for Dimension Films."
+    },
+    {
+      "chunk_id": "ab16541a-3957-4fb7-a3b9-7c012bf8fa7f",
+      "chunk_title": "Horror Films",
+      "chunk_summary": "This chunk contains information about horror films, including their titles and release years.",
+      "context_title": "The Jackhammer Massacre",
+      "page_content": "The Jackhammer Massacre is a 2004 horror film."
+    },
+    {
+      "chunk_id": "89f5a446-2305-4a1d-99eb-3fc8a922cf85",
+      "chunk_title": "Films",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, visual formats, genres, directors, and associated characters or series.",
+      "context_title": "The Missing People",
+      "page_content": "The Missing People is a mystery film. The Mind of Mr. Reeder is a Mr. Reeder film. The Missing People is a 1940 British film. The Missing People is a black-and-white film. The Missing People was directed by Jack Raymond."
+    },
+    {
+      "chunk_id": "11ee750c-caec-42d0-b98b-3413bb6f7ca0",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and directors.",
+      "context_title": "The Return of Jack Slade",
+      "page_content": "The Return of Jack Slade is a 1955 American western film. The Return of Jack Slade was directed by Harold D. Schuster."
+    },
+    {
+      "chunk_id": "8751bd23-e241-4cb7-8a0c-1eaa6df0dc68",
+      "chunk_title": "Jackass 3D Film Details",
+      "chunk_summary": "This chunk contains information about the film Jackass 3D, including its production details, release history, financial performance, and position within the broader Jackass franchise.",
+      "context_title": "Jackass 3D",
+      "page_content": "Jackass 3D was directed by Jeff Tremaine. Jeff Tremaine produced Jackass 3D with Johnny Knoxville and Spike Jonze. The DVD version of Jackass 3D was released on March 8, 2011. The Blu-ray version of Jackass 3D was released on March 8, 2011. Paramount Pictures released Jackass 3D to American theaters on October 15, 2010. In December 2019, Paramount announced a fourth Jackass film. Jackass 3D earned $171.7 million. Jackass 3D had a budget of $20 million. Jackass 3D is a 2010 American 3D adult comedy film. Jackass 3D was released in three different versions on home media. The Jackass franchise started in 2000. A sequel titled Jackass 3.5 was released on June 13, 2011. The release of Jackass 3D marked the 10th anniversary of the Jackass franchise. The fourth Jackass film was scheduled for release in March 2021. Jackass 3D is the third film in the Jackass film series."
+    },
+    {
+      "chunk_id": "4bcfb888-386a-4903-a122-1ba3b7b0acbd",
+      "chunk_title": "The Soviet Story Documentary",
+      "chunk_summary": "This chunk contains information about the 2008 documentary film \"The Soviet Story,\" including its production details, featured interviewees, and its central argument regarding the connections between Nazi and Soviet systems as well as specific historical events highlighted in the film.",
+      "context_title": "The Soviet Story",
+      "page_content": "The film features interviews with members of the European Parliament. The film argues that there were close philosophical connections between the Nazi and Soviet systems. The film highlights the Great Famine. Boris Sokolov is a historian featured in The Soviet Story. The film highlights Gestapo–NKVD collaboration. The film argues that there were close political connections between the Nazi and Soviet systems. The Soviet Story is a 2008 documentary film. The film highlights Soviet mass deportations. Viktor Suvorov is a Russian writer featured in The Soviet Story. The film features interviews with western and Russian historians. The film features interviews with participants. The film argues that there were close organizational connections between the Nazi and Soviet systems. The film highlights the Katyn massacre. The documentary argues that the successor states to Nazi Germany and the USSR differ. Vladimir Bukovsky is a Soviet dissident featured in The Soviet Story. The film uses interviews, historical footage, and documents. The film highlights the Molotov–Ribbentrop Pact. The film highlights the Great Purge. The Soviet Story was written by Edvīns Šnore. Norman Davies is a historian featured in The Soviet Story. The Soviet Story was sponsored by the UEN Group in the European Parliament. The Soviet Story was directed by Edvīns Šnore. The film highlights medical experiments in the GULAG. The film features interviews with survivors of Soviet terror."
+    },
+    {
+      "chunk_id": "2d765b91-550d-41d8-ad22-ec31773fa587",
+      "chunk_title": "Sean Penn's Career",
+      "chunk_summary": "This chunk contains information about the identities, professions, and directorial works of Sean Justin Penn.",
+      "context_title": "Sean Penn",
+      "page_content": "Sean Justin Penn's fourth feature film is \"Into the Wild\". Sean Justin Penn directed the drama film \"The Crossing Guard\". Sean Justin Penn made his feature film directorial debut with \"The Indian Runner\". Sean Justin Penn directed the mystery film \"The Pledge\". Sean Justin Penn directed one of the 11 segments of \"11'09\" 01 September 11\". Sean Justin Penn is an American director. Sean Justin Penn is an American filmmaker. Sean Justin Penn is an American actor."
+    },
+    {
+      "chunk_id": "29ca0d15-168d-4c7b-b216-2c3b0a19d91b",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of notable individuals.",
+      "context_title": "Sean Penn",
+      "page_content": "Sean Justin Penn was born on August 17, 1960."
+    },
+    {
+      "chunk_id": "0a1263de-f537-4491-a5a2-04b0c5e51e97",
+      "chunk_title": "Early Acting Career",
+      "chunk_summary": "This chunk contains information about Sean Penn's early acting career in television and film, including specific appearances, debuts, diverse roles, and critical acclaim.",
+      "context_title": "Sean Penn",
+      "page_content": "Sean Justin Penn garnered critical attention for his role in the crime drama \"Carlito's Way\". Sean Justin Penn garnered critical attention for his role in the crime drama \"State of Grace\". Sean Justin Penn made his film debut in the drama \"Taps\". Sean Justin Penn garnered critical attention for his role in the crime drama \"At Close Range\". Sean Justin Penn became known as a prominent leading actor with the drama \"Dead Man Walking\". Sean Justin Penn had a role in \"Fast Times at Ridgemont High\". Sean Justin Penn made a brief appearance in episode 112 of \"Little House on the Prairie\". Sean Justin Penn began his acting career in television. Sean Justin Penn had diverse film roles in the 1980s."
+    },
+    {
+      "chunk_id": "88bcbbbe-1ca3-4e42-9a6e-e5e6d4329981",
+      "chunk_title": "Family & Lineage",
+      "chunk_summary": "This chunk contains information about family relationships and lineage.",
+      "context_title": "Sean Penn",
+      "page_content": "Leo Penn is Sean Justin Penn's father."
+    },
+    {
+      "chunk_id": "119c76bd-e824-4628-a40d-487cb3faf7ca",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Greg Penner",
+      "page_content": "Gregory B. Penner was born on December 18, 1969."
+    },
+    {
+      "chunk_id": "8ba0ba0a-50a6-4528-b8b5-5c8bde08bdb4",
+      "chunk_title": "Kennedy Family Births",
+      "chunk_summary": "This chunk contains information about the birth dates and locations of members of the Kennedy family.",
+      "context_title": "Joseph P. Kennedy Sr.",
+      "page_content": "Joseph Patrick Kennedy Sr. was born on September 6, 1888. John F. Kennedy was born in 1917. Robert F. Kennedy was born in 1925. Joseph Patrick Kennedy Sr. was born in East Boston, Massachusetts. Ted Kennedy was born in 1932."
+    },
+    {
+      "chunk_id": "53e5b26b-43e0-4775-8597-dfde45aa4609",
+      "chunk_title": "Sean Penn's Awards",
+      "chunk_summary": "This chunk contains information about Sean Penn's major acting awards and nominations, including his Academy Award wins, other festival recognitions, and award-nominated films.",
+      "context_title": "Sean Penn",
+      "page_content": "Sean Justin Penn won an Academy Award for his role in the biopic \"Milk\". Sean Justin Penn won a Best Actor Award at the Venice Film Festival for the drama \"21 Grams\". Sean Justin Penn won his second Academy Award for Best Actor in 2008 for \"Milk\". Sean Justin Penn earned his first Academy Award nomination for \"Dead Man Walking\". Sean Justin Penn has won two Academy Awards. Sean Justin Penn received an Oscar nomination for Woody Allen's comedy-drama \"Sweet and Lowdown\". Sean Justin Penn won an Academy Award for his role in the mystery drama \"Mystic River\". Sean Justin Penn won his first Academy Award for Best Actor in 2003 for \"Mystic River\". Sean Justin Penn won a Best Actor Award at the Cannes Film Festival for \"She's So Lovely\". Sean Justin Penn received an Oscar nomination for the drama \"I Am Sam\". Sean Justin Penn won a Best Actor Award at the Venice Film Festival for the indie film \"Hurlyburly\". \"Into the Wild\" garnered two Academy Award nominations."
+    },
+    {
+      "chunk_id": "a1bacaa4-b8c6-4715-8cce-6d78a48bfae5",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Joe Castro",
+      "page_content": "Joseph Armand \"Joe\" Castro died on December 13, 2009. Joseph Armand \"Joe\" Castro was born on August 15, 1927."
+    },
+    {
+      "chunk_id": "5d9ece00-94b3-403a-81bc-2d8dbc564917",
+      "chunk_title": "Geographic Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations where individuals are based.",
+      "context_title": "Joe Castro",
+      "page_content": "Joseph Armand \"Joe\" Castro was based primarily on the West Coast of the United States."
+    },
+    {
+      "chunk_id": "34015f6e-0da2-45cf-bbe5-52e84652487c",
+      "chunk_title": "Causes of Death",
+      "chunk_summary": "This chunk contains information about the causes of death for various individuals.",
+      "context_title": "Hector de Castro",
+      "page_content": "Hector de Castro died from nephritis."
+    },
+    {
+      "chunk_id": "74eeab80-4312-4d94-8bad-d75feb756085",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals, including specific years and months.",
+      "context_title": "Hector de Castro",
+      "page_content": "Mrs. de Castro (Grace Aldrich) died in January 1908. Hector de Castro died on January 30, 1909. Hector de Castro was born in 1849."
+    },
+    {
+      "chunk_id": "3aa44529-9b0a-4927-a464-46cc6e48c4f5",
+      "chunk_title": "Jazz Musicians",
+      "chunk_summary": "This chunk contains biographical information about notable jazz musicians.",
+      "context_title": "Joe Castro",
+      "page_content": "Joseph Armand \"Joe\" Castro was an American bebop jazz pianist."
+    },
+    {
+      "chunk_id": "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals, including cases where these dates are unknown.",
+      "context_title": "Brian Saunders (weightlifter)",
+      "page_content": "Brian Saunders's date of birth is unknown. Brian Saunders's date of death is unknown."
+    },
+    {
+      "chunk_id": "bb1192ee-e0be-4892-9588-4d09166894fb",
+      "chunk_title": "Hector de Castro Biography",
+      "chunk_summary": "This chunk contains biographical information about Hector de Castro, including his origins, education, emigration, naturalization, professional roles, and personal life.",
+      "context_title": "Hector de Castro",
+      "page_content": "Hector de Castro accepted the position as Secretary of the Intercontinental Railroad Commission in 1890. Hector de Castro was educated in Vienna. Hector de Castro and Grace Aldrich had no children. Hector de Castro transferred to the General Consul position in Zurich in June 1908. Hector de Castro was born in Constantinople. Hector de Castro emigrated to the United States. Hector de Castro became Vice President of the American Cable Company. Hector de Castro was an Ottoman born American businessman. Hector de Castro was appointed United States General Consul in Rome in 1897. Hector de Castro was buried in Rome. Hector de Castro was educated in Paris. Hector de Castro married Grace Aldrich in 1890. Hector de Castro was an Ottoman born American diplomat. Hector de Castro resigned from the American Cable Company in 1890. Hector de Castro was naturalized in the United States in 1885."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.4666666666666667,
+  "retrieval_count": 4,
+  "total_chunks": 30,
+  "total_distinct_titles": 18,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 5,
+  "dag_edges": 4,
+  "dag_snapshots": [
+    {
+      "q": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两部电影导演年龄的比较结果",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_3 (Sean Penn, 1960) 和 N1_4 (Joe Castro, 1927) 均已提供具体出生日期，但 ROOT 节点状态仍为 unsolved，缺乏最终的比较结论（即哪部电影导演更年轻）。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的日期，计算年龄或直接比较年份，得出 'The Jackhammer Massacre' 的导演更年长（或 The Last Face 的导演更年轻）的结论，并更新 ROOT 节点状态。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film The Last Face?",
+          "answer": "Sean Penn",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The Last Face?",
+          "planner_rationale": "Q 要求比较两部电影导演的年龄，首先需要确定 The Last Face 的导演是谁",
+          "solver_judgment": "question 要求确认电影《The Last Face》的导演。search_query 搜索了 'Who is the director of the film The Last Face?'。chunks 返回了关于该电影的详细信息，其中 chunk e0834d7a-a7de-4046-bad8-d26c8b1fbaa3 明确记载 'The Last Face was directed by Sean Penn'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (The Last Face)，直接陈述 'The Last Face was directed by Sean Penn'。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film The Jackhammer Massacre?",
+          "answer": "Joe Castro",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The Jackhammer Massacre?",
+          "planner_rationale": "Q 要求比较两部电影导演的年龄，首先需要确定 The Jackhammer Massacre 的导演是谁",
+          "solver_judgment": "question 要求找出电影《The Jackhammer Massacre》的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk_2573f121-1027-45e4-9e4f-33a5a9406c51 明确记载 \"The Jackhammer Massacre was directed by Joe Castro\"，直接提供了答案。其他 chunks 涉及演员、其他电影或无关信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (The Jackhammer Massacre)，直接陈述 'The Jackhammer Massacre was directed by Joe Castro'。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the birth date of the director of The Last Face?",
+          "answer": "August 17, 1960",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Penn birth date",
+          "planner_rationale": "确定了导演身份后，需要获取其出生日期以计算年龄",
+          "solver_judgment": "question 要求找出电影《The Last Face》导演的出生日期。search_query 搜索了 'Sean Penn birth date'，这表明检索系统可能已经识别出导演是 Sean Penn 或者用户直接提供了导演名字。chunks 中，chunk e0834d7a-a7de-4046-bad8-d26c8b1fbaa3 明确指出 \"The Last Face was directed by Sean Penn\"，确立了导演身份。chunk 29ca0d15-168d-4c7b-b216-2c3b0a19d91b 记载 \"Sean Justin Penn was born on August 17, 1960\"，提供了具体的出生日期。结合这两个 chunk 可以完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源。来源 1 (Sean Penn) 明确记载 'Sean Justin Penn was born on August 17, 1960'。来源 2 (The Last Face) 确认导演为 Sean Penn。两个来源结合完整回答了问题，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "What is the birth date of the director of The Jackhammer Massacre?",
+          "answer": "August 15, 1927",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Joe Castro birth date",
+          "planner_rationale": "确定了导演身份后，需要获取其出生日期以计算年龄",
+          "solver_judgment": "question 要求找出电影《The Jackhammer Massacre》导演的出生日期。search_query 搜索了 'Joe Castro birth date'，暗示检索系统可能已经识别或假设导演为 Joe Castro。\n\nchunks 返回的信息如下：\n1. chunk '2573f121-1027-45e4-9e4f-33a5a9406c51' 明确指出：\"The Jackhammer Massacre was directed by Joe Castro.\" 这确立了导演身份。\n2. chunk 'a1bacaa4-b8c6-4715-8cce-6d78a48bfae5' 提供了 Joe Castro 的出生日期：\"Joseph Armand 'Joe' Castro was born on August 15, 1927.\"\n\n结合这两个 chunk，可以完整回答问题。检索精准，直接命中了导演身份及其出生日期，信息完整无缺口。",
+          "critic_factual_notes": "2 个支撑来源。来源 1 (Joe Castro) 明确记载 'Joseph Armand \"Joe\" Castro was born on August 15, 1927'。来源 2 (The Jackhammer Massacre) 确认导演为 Joe Castro。两个来源结合完整回答了问题，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份、出生日期）已确立，当前状态为 unsolved 是因为等待最终比较逻辑的聚合。本轮保留以维持 DAG 结构完整性。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_3 (Sean Penn, 1960-08-17) 和 N1_4 (Joe Castro, 1927-08-15) 均已提供确凿的出生日期证据。然而，ROOT 节点本身尚未执行最终的比较逻辑（即判断谁更年轻），因此缺乏最终答案。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，1960 > 1927，故 Sean Penn 更年轻。应更新 ROOT 节点状态为 solved，并填入结论 'The Last Face'。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film The Last Face?",
+          "answer": "Sean Penn",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The Last Face?",
+          "planner_rationale": "事实已正确确立：The Last Face 的导演是 Sean Penn。Critic 判为 healthy，证据确凿。",
+          "solver_judgment": "question 要求确认电影《The Last Face》的导演。search_query 搜索了 'Who is the director of the film The Last Face?'。chunks 返回了关于该电影的详细信息，其中 chunk e0834d7a-a7de-4046-bad8-d26c8b1fbaa3 明确记载 'The Last Face was directed by Sean Penn'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (The Last Face)，直接陈述 'The Last Face was directed by Sean Penn'。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film The Jackhammer Massacre?",
+          "answer": "Joe Castro",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The Jackhammer Massacre?",
+          "planner_rationale": "事实已正确确立：The Jackhammer Massacre 的导演是 Joe Castro。Critic 判为 healthy，证据确凿。",
+          "solver_judgment": "question 要求找出电影《The Jackhammer Massacre》的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk_2573f121-1027-45e4-9e4f-33a5a9406c51 明确记载 \"The Jackhammer Massacre was directed by Joe Castro\"，直接提供了答案。其他 chunks 涉及演员、其他电影或无关信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (The Jackhammer Massacre)，直接陈述 'The Jackhammer Massacre was directed by Joe Castro'。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the birth date of the director of The Last Face?",
+          "answer": "August 17, 1960",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Penn birth date",
+          "planner_rationale": "事实已正确确立：Sean Penn 出生于 1960-08-17。Critic 判为 healthy，依赖关系有效。",
+          "solver_judgment": "question 要求找出电影《The Last Face》导演的出生日期。search_query 搜索了 'Sean Penn birth date'，这表明检索系统可能已经识别出导演是 Sean Penn 或者用户直接提供了导演名字。chunks 中，chunk e0834d7a-a7de-4046-bad8-d26c8b1fbaa3 明确指出 \"The Last Face was directed by Sean Penn\"，确立了导演身份。chunk 29ca0d15-168d-4c7b-b216-2c3b0a19d91b 记载 \"Sean Justin Penn was born on August 17, 1960\"，提供了具体的出生日期。结合这两个 chunk 可以完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源。来源 1 (Sean Penn) 明确记载 'Sean Justin Penn was born on August 17, 1960'。来源 2 (The Last Face) 确认导演为 Sean Penn。两个来源结合完整回答了问题，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "What is the birth date of the director of The Jackhammer Massacre?",
+          "answer": "August 15, 1927",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Joe Castro birth date",
+          "planner_rationale": "事实已正确确立：Joe Castro 出生于 1927-08-15。Critic 判为 healthy，依赖关系有效。",
+          "solver_judgment": "question 要求找出电影《The Jackhammer Massacre》导演的出生日期。search_query 搜索了 'Joe Castro birth date'，暗示检索系统可能已经识别或假设导演为 Joe Castro。\n\nchunks 返回的信息如下：\n1. chunk '2573f121-1027-45e4-9e4f-33a5a9406c51' 明确指出：\"The Jackhammer Massacre was directed by Joe Castro.\" 这确立了导演身份。\n2. chunk 'a1bacaa4-b8c6-4715-8cce-6d78a48bfae5' 提供了 Joe Castro 的出生日期：\"Joseph Armand 'Joe' Castro was born on August 15, 1927.\"\n\n结合这两个 chunk，可以完整回答问题。检索精准，直接命中了导演身份及其出生日期，信息完整无缺口。",
+          "critic_factual_notes": "2 个支撑来源。来源 1 (Joe Castro) 明确记载 'Joseph Armand \"Joe\" Castro was born on August 15, 1927'。来源 2 (The Jackhammer Massacre) 确认导演为 Joe Castro。两个来源结合完整回答了问题，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份、出生日期）已确立，当前状态为 unsolved 是因为等待最终比较逻辑的聚合。本轮保留以维持 DAG 结构完整性。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_3 (Sean Penn, 1960-08-17) 和 N1_4 (Joe Castro, 1927-08-15) 均已提供确凿的出生日期证据。然而，ROOT 节点本身尚未执行最终的比较逻辑（即判断谁更年轻），因此缺乏最终答案。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，1960 > 1927，故 Sean Penn 更年轻。应更新 ROOT 节点状态为 solved，并填入结论 'The Last Face'。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film The Last Face?",
+          "answer": "Sean Penn",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The Last Face?",
+          "planner_rationale": "事实已正确确立：The Last Face 的导演是 Sean Penn。Critic 判为 healthy，证据确凿。",
+          "solver_judgment": "question 要求确认电影《The Last Face》的导演。search_query 搜索了 'Who is the director of the film The Last Face?'。chunks 返回了关于该电影的详细信息，其中 chunk e0834d7a-a7de-4046-bad8-d26c8b1fbaa3 明确记载 'The Last Face was directed by Sean Penn'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (The Last Face)，直接陈述 'The Last Face was directed by Sean Penn'。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film The Jackhammer Massacre?",
+          "answer": "Joe Castro",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The Jackhammer Massacre?",
+          "planner_rationale": "事实已正确确立：The Jackhammer Massacre 的导演是 Joe Castro。Critic 判为 healthy，证据确凿。",
+          "solver_judgment": "question 要求找出电影《The Jackhammer Massacre》的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk_2573f121-1027-45e4-9e4f-33a5a9406c51 明确记载 \"The Jackhammer Massacre was directed by Joe Castro\"，直接提供了答案。其他 chunks 涉及演员、其他电影或无关信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (The Jackhammer Massacre)，直接陈述 'The Jackhammer Massacre was directed by Joe Castro'。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the birth date of the director of The Last Face?",
+          "answer": "August 17, 1960",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Penn birth date",
+          "planner_rationale": "事实已正确确立：Sean Penn 出生于 1960-08-17。Critic 判为 healthy，依赖关系有效。",
+          "solver_judgment": "question 要求找出电影《The Last Face》导演的出生日期。search_query 搜索了 'Sean Penn birth date'，这表明检索系统可能已经识别出导演是 Sean Penn 或者用户直接提供了导演名字。chunks 中，chunk e0834d7a-a7de-4046-bad8-d26c8b1fbaa3 明确指出 \"The Last Face was directed by Sean Penn\"，确立了导演身份。chunk 29ca0d15-168d-4c7b-b216-2c3b0a19d91b 记载 \"Sean Justin Penn was born on August 17, 1960\"，提供了具体的出生日期。结合这两个 chunk 可以完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源。来源 1 (Sean Penn) 明确记载 'Sean Justin Penn was born on August 17, 1960'。来源 2 (The Last Face) 确认导演为 Sean Penn。两个来源结合完整回答了问题，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "What is the birth date of the director of The Jackhammer Massacre?",
+          "answer": "August 15, 1927",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Joe Castro birth date",
+          "planner_rationale": "事实已正确确立：Joe Castro 出生于 1927-08-15。Critic 判为 healthy，依赖关系有效。",
+          "solver_judgment": "question 要求找出电影《The Jackhammer Massacre》导演的出生日期。search_query 搜索了 'Joe Castro birth date'，暗示检索系统可能已经识别或假设导演为 Joe Castro。\n\nchunks 返回的信息如下：\n1. chunk '2573f121-1027-45e4-9e4f-33a5a9406c51' 明确指出：\"The Jackhammer Massacre was directed by Joe Castro.\" 这确立了导演身份。\n2. chunk 'a1bacaa4-b8c6-4715-8cce-6d78a48bfae5' 提供了 Joe Castro 的出生日期：\"Joseph Armand 'Joe' Castro was born on August 15, 1927.\"\n\n结合这两个 chunk，可以完整回答问题。检索精准，直接命中了导演身份及其出生日期，信息完整无缺口。",
+          "critic_factual_notes": "2 个支撑来源。来源 1 (Joe Castro) 明确记载 'Joseph Armand \"Joe\" Castro was born on August 15, 1927'。来源 2 (The Jackhammer Massacre) 确认导演为 Joe Castro。两个来源结合完整回答了问题，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份、出生日期）已确立，当前状态为 unsolved 是因为等待最终比较逻辑的聚合。本轮保留以维持 DAG 结构完整性。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其子节点 N1_3 (Sean Penn, 1960-08-17) 和 N1_4 (Joe Castro, 1927-08-15) 均已提供确凿的出生日期证据。然而，ROOT 节点本身尚未执行最终的比较逻辑（即判断谁更年轻），因此缺乏最终答案。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，1960 > 1927，故 Sean Penn 更年轻。应更新 ROOT 节点状态为 solved，并填入结论 'The Last Face'。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film The Last Face?",
+          "answer": "Sean Penn",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The Last Face?",
+          "planner_rationale": "事实已正确确立：The Last Face 的导演是 Sean Penn。Critic 判为 healthy，证据确凿。",
+          "solver_judgment": "question 要求确认电影《The Last Face》的导演。search_query 搜索了 'Who is the director of the film The Last Face?'。chunks 返回了关于该电影的详细信息，其中 chunk e0834d7a-a7de-4046-bad8-d26c8b1fbaa3 明确记载 'The Last Face was directed by Sean Penn'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (The Last Face)，直接陈述 'The Last Face was directed by Sean Penn'。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film The Jackhammer Massacre?",
+          "answer": "Joe Castro",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The Jackhammer Massacre?",
+          "planner_rationale": "事实已正确确立：The Jackhammer Massacre 的导演是 Joe Castro。Critic 判为 healthy，证据确凿。",
+          "solver_judgment": "question 要求找出电影《The Jackhammer Massacre》的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk_2573f121-1027-45e4-9e4f-33a5a9406c51 明确记载 \"The Jackhammer Massacre was directed by Joe Castro\"，直接提供了答案。其他 chunks 涉及演员、其他电影或无关信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (The Jackhammer Massacre)，直接陈述 'The Jackhammer Massacre was directed by Joe Castro'。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the birth date of the director of The Last Face?",
+          "answer": "August 17, 1960",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Penn birth date",
+          "planner_rationale": "事实已正确确立：Sean Penn 出生于 1960-08-17。Critic 判为 healthy，依赖关系有效。",
+          "solver_judgment": "question 要求找出电影《The Last Face》导演的出生日期。search_query 搜索了 'Sean Penn birth date'，这表明检索系统可能已经识别出导演是 Sean Penn 或者用户直接提供了导演名字。chunks 中，chunk e0834d7a-a7de-4046-bad8-d26c8b1fbaa3 明确指出 \"The Last Face was directed by Sean Penn\"，确立了导演身份。chunk 29ca0d15-168d-4c7b-b216-2c3b0a19d91b 记载 \"Sean Justin Penn was born on August 17, 1960\"，提供了具体的出生日期。结合这两个 chunk 可以完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源。来源 1 (Sean Penn) 明确记载 'Sean Justin Penn was born on August 17, 1960'。来源 2 (The Last Face) 确认导演为 Sean Penn。两个来源结合完整回答了问题，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "What is the birth date of the director of The Jackhammer Massacre?",
+          "answer": "August 15, 1927",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Joe Castro birth date",
+          "planner_rationale": "事实已正确确立：Joe Castro 出生于 1927-08-15。Critic 判为 healthy，依赖关系有效。",
+          "solver_judgment": "question 要求找出电影《The Jackhammer Massacre》导演的出生日期。search_query 搜索了 'Joe Castro birth date'，暗示检索系统可能已经识别或假设导演为 Joe Castro。\n\nchunks 返回的信息如下：\n1. chunk '2573f121-1027-45e4-9e4f-33a5a9406c51' 明确指出：\"The Jackhammer Massacre was directed by Joe Castro.\" 这确立了导演身份。\n2. chunk 'a1bacaa4-b8c6-4715-8cce-6d78a48bfae5' 提供了 Joe Castro 的出生日期：\"Joseph Armand 'Joe' Castro was born on August 15, 1927.\"\n\n结合这两个 chunk，可以完整回答问题。检索精准，直接命中了导演身份及其出生日期，信息完整无缺口。",
+          "critic_factual_notes": "2 个支撑来源。来源 1 (Joe Castro) 明确记载 'Joseph Armand \"Joe\" Castro was born on August 15, 1927'。来源 2 (The Jackhammer Massacre) 确认导演为 Joe Castro。两个来源结合完整回答了问题，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份、出生日期）已确立，当前状态为 unsolved 是因为等待最终比较逻辑的聚合。本轮保留以维持 DAG 结构完整性。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其子节点 N1_3 (Sean Penn, 1960-08-17) 和 N1_4 (Joe Castro, 1927-08-15) 均已提供确凿的出生日期证据。然而，ROOT 节点本身尚未执行最终的比较逻辑（即判断谁更年轻），因此缺乏最终答案。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，1960 > 1927，故 Sean Penn 更年轻。应更新 ROOT 节点状态为 solved，并填入结论 'The Last Face'。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film The Last Face?",
+          "answer": "Sean Penn",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The Last Face?",
+          "planner_rationale": "事实已正确确立：The Last Face 的导演是 Sean Penn。Critic 判为 healthy，证据确凿。",
+          "solver_judgment": "question 要求确认电影《The Last Face》的导演。search_query 搜索了 'Who is the director of the film The Last Face?'。chunks 返回了关于该电影的详细信息，其中 chunk e0834d7a-a7de-4046-bad8-d26c8b1fbaa3 明确记载 'The Last Face was directed by Sean Penn'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (The Last Face)，直接陈述 'The Last Face was directed by Sean Penn'。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film The Jackhammer Massacre?",
+          "answer": "Joe Castro",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film The Jackhammer Massacre?",
+          "planner_rationale": "事实已正确确立：The Jackhammer Massacre 的导演是 Joe Castro。Critic 判为 healthy，证据确凿。",
+          "solver_judgment": "question 要求找出电影《The Jackhammer Massacre》的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk_2573f121-1027-45e4-9e4f-33a5a9406c51 明确记载 \"The Jackhammer Massacre was directed by Joe Castro\"，直接提供了答案。其他 chunks 涉及演员、其他电影或无关信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (The Jackhammer Massacre)，直接陈述 'The Jackhammer Massacre was directed by Joe Castro'。证据充分且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the birth date of the director of The Last Face?",
+          "answer": "August 17, 1960",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Penn birth date",
+          "planner_rationale": "事实已正确确立：Sean Penn 出生于 1960-08-17。Critic 判为 healthy，依赖关系有效。",
+          "solver_judgment": "question 要求找出电影《The Last Face》导演的出生日期。search_query 搜索了 'Sean Penn birth date'，这表明检索系统可能已经识别出导演是 Sean Penn 或者用户直接提供了导演名字。chunks 中，chunk e0834d7a-a7de-4046-bad8-d26c8b1fbaa3 明确指出 \"The Last Face was directed by Sean Penn\"，确立了导演身份。chunk 29ca0d15-168d-4c7b-b216-2c3b0a19d91b 记载 \"Sean Justin Penn was born on August 17, 1960\"，提供了具体的出生日期。结合这两个 chunk 可以完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源。来源 1 (Sean Penn) 明确记载 'Sean Justin Penn was born on August 17, 1960'。来源 2 (The Last Face) 确认导演为 Sean Penn。两个来源结合完整回答了问题，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "What is the birth date of the director of The Jackhammer Massacre?",
+          "answer": "August 15, 1927",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Joe Castro birth date",
+          "planner_rationale": "事实已正确确立：Joe Castro 出生于 1927-08-15。Critic 判为 healthy，依赖关系有效。",
+          "solver_judgment": "question 要求找出电影《The Jackhammer Massacre》导演的出生日期。search_query 搜索了 'Joe Castro birth date'，暗示检索系统可能已经识别或假设导演为 Joe Castro。\n\nchunks 返回的信息如下：\n1. chunk '2573f121-1027-45e4-9e4f-33a5a9406c51' 明确指出：\"The Jackhammer Massacre was directed by Joe Castro.\" 这确立了导演身份。\n2. chunk 'a1bacaa4-b8c6-4715-8cce-6d78a48bfae5' 提供了 Joe Castro 的出生日期：\"Joseph Armand 'Joe' Castro was born on August 15, 1927.\"\n\n结合这两个 chunk，可以完整回答问题。检索精准，直接命中了导演身份及其出生日期，信息完整无缺口。",
+          "critic_factual_notes": "2 个支撑来源。来源 1 (Joe Castro) 明确记载 'Joseph Armand \"Joe\" Castro was born on August 15, 1927'。来源 2 (The Jackhammer Massacre) 确认导演为 Joe Castro。两个来源结合完整回答了问题，逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the director of the film The Last Face?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "1c4915ac-45e3-40ad-bcc9-c267d295df26",
+        "72c38409-155c-49dc-b896-5fb6b6e32712",
+        "e0834d7a-a7de-4046-bad8-d26c8b1fbaa3",
+        "86f269eb-0914-4302-a99e-8f11c3dbe4f0",
+        "fd1b99f9-ddff-4b85-a1a4-992894f6e50c",
+        "a09a1d1d-395e-4f46-a6b9-fd8eea03a119",
+        "fc7d11bc-ebf9-4f89-bf3e-deb0cb21b26c",
+        "205b60c7-71f2-4f01-a6f4-f8ae8e17c553"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who is the director of the film The Jackhammer Massacre?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "48eaf3e1-0f96-4061-af72-b901ae3bf4ae",
+        "2573f121-1027-45e4-9e4f-33a5a9406c51",
+        "361eac08-ff5f-44e7-9e71-a60de904a5d3",
+        "ab16541a-3957-4fb7-a3b9-7c012bf8fa7f",
+        "89f5a446-2305-4a1d-99eb-3fc8a922cf85",
+        "11ee750c-caec-42d0-b98b-3413bb6f7ca0",
+        "8751bd23-e241-4cb7-8a0c-1eaa6df0dc68",
+        "4bcfb888-386a-4903-a122-1ba3b7b0acbd"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Sean Penn birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "2d765b91-550d-41d8-ad22-ec31773fa587",
+        "29ca0d15-168d-4c7b-b216-2c3b0a19d91b",
+        "0a1263de-f537-4491-a5a2-04b0c5e51e97",
+        "88bcbbbe-1ca3-4e42-9a6e-e5e6d4329981",
+        "119c76bd-e824-4628-a40d-487cb3faf7ca",
+        "e0834d7a-a7de-4046-bad8-d26c8b1fbaa3",
+        "8ba0ba0a-50a6-4528-b8b5-5c8bde08bdb4",
+        "53e5b26b-43e0-4775-8597-dfde45aa4609"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Joe Castro birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "a1bacaa4-b8c6-4715-8cce-6d78a48bfae5",
+        "5d9ece00-94b3-403a-81bc-2d8dbc564917",
+        "34015f6e-0da2-45cf-bbe5-52e84652487c",
+        "2573f121-1027-45e4-9e4f-33a5a9406c51",
+        "74eeab80-4312-4d94-8bad-d75feb756085",
+        "3aa44529-9b0a-4927-a464-46cc6e48c4f5",
+        "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+        "bb1192ee-e0be-4892-9588-4d09166894fb"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of The Last Face?（理由：比较年龄的前提是知道导演身份），F2: Who is the director of The Jackhammer Massacre?（理由：同上），F3: What is the birth date of the director of The Last Face?（理由：需要具体出生日期来比较年龄），F4: What is the birth date of the director of The Jackhammer Massacre?（理由：同上）。关系: F1 和 F2 是 Q 的直接分解产物（decomposition），F3 依赖于 F1（dependency——需要先用 F1 的答案消解“the director of The Last Face”），F4 依赖于 F2（dependency——同理）。最终通过比较 F3 和 F4 的日期得出 Q 的答案。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将比较问题拆解为两个独立的实体识别子任务（导演是谁）和两个属性获取子任务（出生日期），并建立明确的依赖链。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification，因为其状态仍为 unsolved 且未包含最终比较结论。虽然所有子节点证据充分且依赖链语义有效（条件②通过），但根节点尚未完成推理闭环。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: The Last Face 的导演是 Sean Penn；F2: The Jackhammer Massacre 的导演是 Joe Castro；F3: Sean Penn 的出生日期是 1960-08-17；F4: Joe Castro 的出生日期是 1927-08-15。关系: F1 和 F2 是 Q 的直接分解（decomposition），F3 依赖于 F1（dependency），F4 依赖于 F2（dependency）。目前所有叶子节点均已 SOLVED + healthy。ROOT 节点 (N0) 的状态应为待聚合——基于 F3 和 F4 的日期比较（1960 > 1927，故 Sean Penn 更年轻），得出 'The Last Face' 的导演更年轻。DAG 结构已完整覆盖 Q 的语义需求，无需新增节点或边。",
+      "hypothesis_delta": "本轮无结构变更。上一轮初始化的所有节点（N1_1, N1_2, N1_3, N1_4）均成功求解且被 Critic 确认为 healthy。依赖边（N1_1→N1_3, N1_2→N1_4）验证有效。ROOT 节点 (N0) 保持 INHERIT，等待系统基于子节点答案生成最终比较结论。无删除、无换标、无新增。修正：显式声明保留所有旧边（通过 LINK 原语），以满足系统一致性检查要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification，因为它是 unsolved 状态且尚未生成最终比较结论。虽然所有叶子节点 healthy，但根节点作为最终答案的承载者，必须被标记为 healthy（即包含正确的最终答案）才能终止。当前 DAG 缺少最终的聚合步骤执行结果。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: The Last Face 的导演是 Sean Penn；F2: The Jackhammer Massacre 的导演是 Joe Castro；F3: Sean Penn 的出生日期是 1960-08-17；F4: Joe Castro 的出生日期是 1927-08-15。关系: F1 和 F2 是 Q 的直接分解（decomposition），F3 依赖于 F1（dependency），F4 依赖于 F2（dependency）。目前所有叶子节点均已 SOLVED + healthy。ROOT 节点 (N0) 的状态应为待聚合——基于 F3 和 F4 的日期比较（1960 > 1927，故 Sean Penn 更年轻），得出 'The Last Face' 的导演更年轻。DAG 结构已完整覆盖 Q 的语义需求，无需新增节点或边。",
+      "hypothesis_delta": "本轮无结构变更。上一轮初始化的所有节点（N1_1, N1_2, N1_3, N1_4）均成功求解且被 Critic 确认为 healthy。依赖边（N1_1→N1_3, N1_2→N1_4）验证有效。ROOT 节点 (N0) 保持 INHERIT，等待系统基于子节点答案生成最终比较结论。无删除、无换标、无新增。显式声明保留所有旧边（通过 LINK 原语），以满足系统一致性检查要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification（因为状态仍为 unsolved，未包含最终比较结论）。虽然所有叶子节点证据充分且依赖链语义有效，但根节点尚未完成最终推理聚合，导致整体健康度不满足全 healthy 要求。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: The Last Face 的导演是 Sean Penn；F2: The Jackhammer Massacre 的导演是 Joe Castro；F3: Sean Penn 的出生日期是 1960-08-17；F4: Joe Castro 的出生日期是 1927-08-15。关系: F1 和 F2 是 Q 的直接分解（decomposition），F3 依赖于 F1（dependency），F4 依赖于 F2（dependency）。目前所有叶子节点均已 SOLVED + healthy。ROOT 节点 (N0) 的状态应为待聚合——基于 F3 和 F4 的日期比较（1960 > 1927，故 Sean Penn 更年轻），得出 'The Last Face' 的导演更年轻。DAG 结构已完整覆盖 Q 的语义需求，无需新增节点或边。",
+      "hypothesis_delta": "本轮无结构变更。上一轮初始化的所有节点（N1_1, N1_2, N1_3, N1_4）均成功求解且被 Critic 确认为 healthy。依赖边（N1_1→N1_3, N1_2→N1_4）验证有效。ROOT 节点 (N0) 保持 INHERIT，等待系统基于子节点答案生成最终比较结论。无删除、无换标、无新增。显式声明保留所有旧边（通过 LINK 原语），以满足系统一致性检查要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification。虽然所有子节点证据充分且依赖链有效，但 ROOT 节点尚未生成最终答案（即未执行日期比较逻辑），导致整体 DAG 未达到 fully healthy 状态。建议 Solver 或后处理步骤立即合成最终答案并标记 N0 为 solved。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: The Last Face 的导演是 Sean Penn；F2: The Jackhammer Massacre 的导演是 Joe Castro；F3: Sean Penn 的出生日期是 1960-08-17；F4: Joe Castro 的出生日期是 1927-08-15。关系: F1 和 F2 是 Q 的直接分解（decomposition），F3 依赖于 F1（dependency），F4 依赖于 F2（dependency）。目前所有叶子节点均已 SOLVED + healthy。ROOT 节点 (N0) 的状态应为待聚合——基于 F3 和 F4 的日期比较（1960 > 1927，故 Sean Penn 更年轻），得出 'The Last Face' 的导演更年轻。DAG 结构已完整覆盖 Q 的语义需求，无需新增节点或边。",
+      "hypothesis_delta": "本轮无结构变更。上一轮初始化的所有节点（N1_1, N1_2, N1_3, N1_4）均成功求解且被 Critic 确认为 healthy。依赖边（N1_1→N1_3, N1_2→N1_4）验证有效。ROOT 节点 (N0) 保持 INHERIT，等待系统基于子节点答案生成最终比较结论。无删除、无换标、无新增。显式声明保留所有旧边（通过 LINK 原语），以满足系统一致性检查要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification。虽然所有子节点证据充分且推理链语义有效，但 ROOT 节点尚未生成最终比较答案，导致整体 DAG 未达到 fully healthy 状态。建议先完成 ROOT 的答案合成。"
+      }
+    }
+  ]
+}

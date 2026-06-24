@@ -1,0 +1,632 @@
+{
+  "question_index": 442,
+  "question_id": "2a78f9e9084b11ebbd56ac1f6bf848b6",
+  "question": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+  "answer": "yes",
+  "prediction": "yes",
+  "error": null,
+  "latency_ms": 237027.88839999994,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T19:08:18.029895+00:00",
+  "chunks": [
+    {
+      "chunk_id": "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of places.",
+      "context_title": "Pender Harbour Water Aerodrome",
+      "page_content": "Pender Harbour is in British Columbia, Canada."
+    },
+    {
+      "chunk_id": "3e7a9f73-bdfb-4676-8c1b-da613a55d66d",
+      "chunk_title": "Water Aerodrome Locations",
+      "chunk_summary": "This chunk contains information about the location of water aerodromes.",
+      "context_title": "Pender Harbour Water Aerodrome",
+      "page_content": "Pender Harbour Water Aerodrome is located adjacent to Pender Harbour."
+    },
+    {
+      "chunk_id": "d1b9bfbe-fe66-4bc6-8c15-a5f8cd05853a",
+      "chunk_title": "Airports & Locations",
+      "chunk_summary": "This chunk contains information about specific airports, including their classifications and locations.",
+      "context_title": "Bamfield Water Aerodrome",
+      "page_content": "Bamfield Water Aerodrome is located adjacent to Bamfield, British Columbia, Canada. Bamfield Water Aerodrome is an airport."
+    },
+    {
+      "chunk_id": "ff709abf-8751-417d-a7a4-2d5f2be44800",
+      "chunk_title": "Water Aerodrome Locations",
+      "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+      "context_title": "Tofino Harbour Water Aerodrome",
+      "page_content": "Tofino Harbour Water Aerodrome is located in Tofino Harbour."
+    },
+    {
+      "chunk_id": "7c777d74-fd97-4e55-a7f3-bc6ac2f3925e",
+      "chunk_title": "Geographical Location",
+      "chunk_summary": "This chunk contains information about the geographical location of Tofino Harbour relative to Tofino, British Columbia.",
+      "context_title": "Tofino Harbour Water Aerodrome",
+      "page_content": "Tofino Harbour is adjacent to Tofino, British Columbia, Canada."
+    },
+    {
+      "chunk_id": "9abfc5ab-af0f-41d4-a06c-646132950295",
+      "chunk_title": "Water Aerodrome Locations",
+      "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+      "context_title": "Coal Harbour Water Aerodrome",
+      "page_content": "Coal Harbour Water Aerodrome is located at the village of Coal Harbour."
+    },
+    {
+      "chunk_id": "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the location of airports.",
+      "context_title": "Kangiqsujuaq (Wakeham Bay) Airport",
+      "page_content": "Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada."
+    },
+    {
+      "chunk_id": "eebcb418-6f78-489d-9b63-eabbf8eacf30",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the location of airports relative to city centers.",
+      "context_title": "Goose Bay Airport (Alaska)",
+      "page_content": "Goose Bay Airport is located 14 miles north of the central business district (CBD) of Anchorage, Alaska, USA."
+    },
+    {
+      "chunk_id": "8c9152f2-2d20-42eb-986b-92c7f0d497f3",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of islands, settlements, and airports, including their specific county and state placements.",
+      "context_title": "Put-in-Bay Airport",
+      "page_content": "Put-in-Bay is on South Bass Island. South Bass Island is in Ottawa County, Ohio, United States. Erie-Ottawa Regional Airport is in Port Clinton."
+    },
+    {
+      "chunk_id": "5ab3cb2d-2b84-4156-9e3d-f8ed5688ce80",
+      "chunk_title": "Airports",
+      "chunk_summary": "This chunk contains information about airports, including their names, classifications, and locations.",
+      "context_title": "South West Bay Airport",
+      "page_content": "South West Bay Airport is an airport. South West Bay Airport is in Southwest Bay, Vanuatu."
+    },
+    {
+      "chunk_id": "ebddeab5-6b43-4041-9184-4e801a7c1699",
+      "chunk_title": "Airport Classification & Status",
+      "chunk_summary": "This chunk contains information about the classification and status of airports.",
+      "context_title": "Goose Bay Airport (Alaska)",
+      "page_content": "Goose Bay Airport is a public airport."
+    },
+    {
+      "chunk_id": "7b2dc20c-58a6-409c-88be-510bee6492a8",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of places.",
+      "context_title": "Kangiqsujuaq (Wakeham Bay) Airport",
+      "page_content": "Kangiqsujuaq is located in Quebec, Canada."
+    },
+    {
+      "chunk_id": "8776b852-3b93-44cf-a237-8512397c236b",
+      "chunk_title": "Airport Ownership & Use",
+      "chunk_summary": "This chunk contains information about the ownership and public use status of airports.",
+      "context_title": "Scammon Bay Airport",
+      "page_content": "Scammon Bay Airport is a state-owned public-use airport."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3076923076923077,
+  "retrieval_count": 2,
+  "total_chunks": 13,
+  "total_distinct_titles": 9,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两个机场是否位于同一国家",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其答案由子节点推理链聚合得出。子节点 N1_1 和 N1_2 均返回 'Canada'，两者一致。推理链：N1_1 答案=Canada + N1_2 答案=Canada → 两者位于同一国家 → Q 的答案为 Yes。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，两个机场均位于 Canada，可直接合成最终答案 'Yes'。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is Pender Harbour Water Aerodrome located in?",
+          "answer": "Canada",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Pender Harbour Water Aerodrome located in?",
+          "planner_rationale": "Q 要求比较两个机场的国家归属，必须先确定 Pender Harbour Water Aerodrome 所在国家",
+          "solver_judgment": "question 要求确认 Pender Harbour Water Aerodrome 所在的国家。search_query 直接搜索了该问题。chunks 返回了两条关键信息：chunk 3ad858d9 指出 'Pender Harbour is in British Columbia, Canada'，chunk 3e7a9f73 指出 'Pender Harbour Water Aerodrome is located adjacent to Pender Harbour'。结合两者可推断该水上机场位于加拿大。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk，均来自同一文档（Pender Harbour Water Aerodrome），非独立来源。chunk 3ad858d9 直接陈述 'Pender Harbour is in British Columbia, Canada'；chunk 3e7a9f73 陈述 'Pender Harbour Water Aerodrome is located adjacent to Pender Harbour'。两者结合可推理得出该水上机场位于 Canada。推理链逻辑自洽：机场毗邻 Pender Harbour，而 Pender Harbour 在 Canada → 机场在 Canada。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，推理链完整。虽为单文档双 chunk 交叉支撑，但逻辑链条清晰直接。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+            "3e7a9f73-bdfb-4676-8c1b-da613a55d66d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places.",
+              "context_title": "Pender Harbour Water Aerodrome",
+              "page_content": "Pender Harbour is in British Columbia, Canada."
+            },
+            {
+              "chunk_id": "3e7a9f73-bdfb-4676-8c1b-da613a55d66d",
+              "chunk_title": "Water Aerodrome Locations",
+              "chunk_summary": "This chunk contains information about the location of water aerodromes.",
+              "context_title": "Pender Harbour Water Aerodrome",
+              "page_content": "Pender Harbour Water Aerodrome is located adjacent to Pender Harbour."
+            },
+            {
+              "chunk_id": "d1b9bfbe-fe66-4bc6-8c15-a5f8cd05853a",
+              "chunk_title": "Airports & Locations",
+              "chunk_summary": "This chunk contains information about specific airports, including their classifications and locations.",
+              "context_title": "Bamfield Water Aerodrome",
+              "page_content": "Bamfield Water Aerodrome is located adjacent to Bamfield, British Columbia, Canada. Bamfield Water Aerodrome is an airport."
+            },
+            {
+              "chunk_id": "ff709abf-8751-417d-a7a4-2d5f2be44800",
+              "chunk_title": "Water Aerodrome Locations",
+              "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+              "context_title": "Tofino Harbour Water Aerodrome",
+              "page_content": "Tofino Harbour Water Aerodrome is located in Tofino Harbour."
+            },
+            {
+              "chunk_id": "7c777d74-fd97-4e55-a7f3-bc6ac2f3925e",
+              "chunk_title": "Geographical Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Tofino Harbour relative to Tofino, British Columbia.",
+              "context_title": "Tofino Harbour Water Aerodrome",
+              "page_content": "Tofino Harbour is adjacent to Tofino, British Columbia, Canada."
+            },
+            {
+              "chunk_id": "9abfc5ab-af0f-41d4-a06c-646132950295",
+              "chunk_title": "Water Aerodrome Locations",
+              "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+              "context_title": "Coal Harbour Water Aerodrome",
+              "page_content": "Coal Harbour Water Aerodrome is located at the village of Coal Harbour."
+            },
+            {
+              "chunk_id": "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the location of airports.",
+              "context_title": "Kangiqsujuaq (Wakeham Bay) Airport",
+              "page_content": "Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada."
+            },
+            {
+              "chunk_id": "eebcb418-6f78-489d-9b63-eabbf8eacf30",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the location of airports relative to city centers.",
+              "context_title": "Goose Bay Airport (Alaska)",
+              "page_content": "Goose Bay Airport is located 14 miles north of the central business district (CBD) of Anchorage, Alaska, USA."
+            },
+            {
+              "chunk_id": "8c9152f2-2d20-42eb-986b-92c7f0d497f3",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of islands, settlements, and airports, including their specific county and state placements.",
+              "context_title": "Put-in-Bay Airport",
+              "page_content": "Put-in-Bay is on South Bass Island. South Bass Island is in Ottawa County, Ohio, United States. Erie-Ottawa Regional Airport is in Port Clinton."
+            },
+            {
+              "chunk_id": "5ab3cb2d-2b84-4156-9e3d-f8ed5688ce80",
+              "chunk_title": "Airports",
+              "chunk_summary": "This chunk contains information about airports, including their names, classifications, and locations.",
+              "context_title": "South West Bay Airport",
+              "page_content": "South West Bay Airport is an airport. South West Bay Airport is in Southwest Bay, Vanuatu."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is Kangiqsujuaq (Wakeham Bay) Airport located in?",
+          "answer": "Canada",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Kangiqsujuaq (Wakeham Bay) Airport located in?",
+          "planner_rationale": "Q 要求比较两个机场的国家归属，必须先确定 Kangiqsujuaq (Wakeham Bay) Airport 所在国家",
+          "solver_judgment": "question 要求确认 Kangiqsujuaq (Wakeham Bay) Airport 所在的国家。search_query 直接搜索了该问题。chunks 返回了包含该机场位置信息的片段，其中 chunk 7c8cfd51-bf38-444f-aaf8-bfb7abd319b8 明确记载 'Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada.'，chunk 7b2dc20c-58a6-409c-88be-510bee6492a8 也提到 'Kangiqsujuaq is located in Quebec, Canada.'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 chunk，均来自同一文档（Kangiqsujuaq (Wakeham Bay) Airport），非独立来源。chunk 7c8cfd51 直接陈述 'Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada'；chunk 7b2dc20c 陈述 'Kangiqsujuaq is located in Quebec, Canada'。两个 chunk 均直接提及 Canada，答案 'Canada' 在 chunk 全文中明确出现。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，两个 chunk 均直接陈述该机场位于 Canada，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+            "7b2dc20c-58a6-409c-88be-510bee6492a8"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the location of airports.",
+              "context_title": "Kangiqsujuaq (Wakeham Bay) Airport",
+              "page_content": "Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada."
+            },
+            {
+              "chunk_id": "5ab3cb2d-2b84-4156-9e3d-f8ed5688ce80",
+              "chunk_title": "Airports",
+              "chunk_summary": "This chunk contains information about airports, including their names, classifications, and locations.",
+              "context_title": "South West Bay Airport",
+              "page_content": "South West Bay Airport is an airport. South West Bay Airport is in Southwest Bay, Vanuatu."
+            },
+            {
+              "chunk_id": "eebcb418-6f78-489d-9b63-eabbf8eacf30",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the location of airports relative to city centers.",
+              "context_title": "Goose Bay Airport (Alaska)",
+              "page_content": "Goose Bay Airport is located 14 miles north of the central business district (CBD) of Anchorage, Alaska, USA."
+            },
+            {
+              "chunk_id": "d1b9bfbe-fe66-4bc6-8c15-a5f8cd05853a",
+              "chunk_title": "Airports & Locations",
+              "chunk_summary": "This chunk contains information about specific airports, including their classifications and locations.",
+              "context_title": "Bamfield Water Aerodrome",
+              "page_content": "Bamfield Water Aerodrome is located adjacent to Bamfield, British Columbia, Canada. Bamfield Water Aerodrome is an airport."
+            },
+            {
+              "chunk_id": "ebddeab5-6b43-4041-9184-4e801a7c1699",
+              "chunk_title": "Airport Classification & Status",
+              "chunk_summary": "This chunk contains information about the classification and status of airports.",
+              "context_title": "Goose Bay Airport (Alaska)",
+              "page_content": "Goose Bay Airport is a public airport."
+            },
+            {
+              "chunk_id": "7b2dc20c-58a6-409c-88be-510bee6492a8",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places.",
+              "context_title": "Kangiqsujuaq (Wakeham Bay) Airport",
+              "page_content": "Kangiqsujuaq is located in Quebec, Canada."
+            },
+            {
+              "chunk_id": "ff709abf-8751-417d-a7a4-2d5f2be44800",
+              "chunk_title": "Water Aerodrome Locations",
+              "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+              "context_title": "Tofino Harbour Water Aerodrome",
+              "page_content": "Tofino Harbour Water Aerodrome is located in Tofino Harbour."
+            },
+            {
+              "chunk_id": "8776b852-3b93-44cf-a237-8512397c236b",
+              "chunk_title": "Airport Ownership & Use",
+              "chunk_summary": "This chunk contains information about the ownership and public use status of airports.",
+              "context_title": "Scammon Bay Airport",
+              "page_content": "Scammon Bay Airport is a state-owned public-use airport."
+            },
+            {
+              "chunk_id": "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places.",
+              "context_title": "Pender Harbour Water Aerodrome",
+              "page_content": "Pender Harbour is in British Columbia, Canada."
+            },
+            {
+              "chunk_id": "9abfc5ab-af0f-41d4-a06c-646132950295",
+              "chunk_title": "Water Aerodrome Locations",
+              "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+              "context_title": "Coal Harbour Water Aerodrome",
+              "page_content": "Coal Harbour Water Aerodrome is located at the village of Coal Harbour."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两个机场是否位于同一国家。子节点 N1_1 和 N1_2 均已 SOLVED + healthy，答案均为 Canada，推理链完整，可直接合成最终答案 'Yes'",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其答案由子节点推理链聚合得出。子节点 N1_1 答案=Canada（单文档双 chunk 交叉推理支撑），N1_2 答案=Canada（单文档双 chunk 直接陈述支撑）。两者答案一致。推理链：N1_1(Canada) + N1_2(Canada) → 两者位于同一国家 → Q 的答案为 Yes。推理逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，两个机场均位于 Canada，可直接合成最终答案 'Yes'。DAG 结构无需调整。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is Pender Harbour Water Aerodrome located in?",
+          "answer": "Canada",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Pender Harbour Water Aerodrome located in?",
+          "planner_rationale": "Q 要求比较两个机场的国家归属，必须先确定 Pender Harbour Water Aerodrome 所在国家。该节点已 SOLVED + healthy，answer=Canada，证据链完整（Pender Harbour 在 British Columbia, Canada + 水上机场毗邻 Pender Harbour）",
+          "solver_judgment": "question 要求确认 Pender Harbour Water Aerodrome 所在的国家。search_query 直接搜索了该问题。chunks 返回了两条关键信息：chunk 3ad858d9 指出 'Pender Harbour is in British Columbia, Canada'，chunk 3e7a9f73 指出 'Pender Harbour Water Aerodrome is located adjacent to Pender Harbour'。结合两者可推断该水上机场位于加拿大。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk，均来自同一文档（Pender Harbour Water Aerodrome），非独立来源。chunk 3ad858d9 直接陈述 'Pender Harbour is in British Columbia, Canada'；chunk 3e7a9f73 陈述 'Pender Harbour Water Aerodrome is located adjacent to Pender Harbour'。两者结合可推理得出该水上机场位于 Canada。推理链逻辑自洽：机场毗邻 Pender Harbour，而 Pender Harbour 在 Canada → 机场在 Canada。答案 'Canada' 虽未在单 chunk 中直接陈述为机场所在国，但通过两步推理可确定。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，推理链完整。虽为单文档双 chunk 交叉支撑，但逻辑链条清晰直接，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+            "3e7a9f73-bdfb-4676-8c1b-da613a55d66d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places.",
+              "context_title": "Pender Harbour Water Aerodrome",
+              "page_content": "Pender Harbour is in British Columbia, Canada."
+            },
+            {
+              "chunk_id": "3e7a9f73-bdfb-4676-8c1b-da613a55d66d",
+              "chunk_title": "Water Aerodrome Locations",
+              "chunk_summary": "This chunk contains information about the location of water aerodromes.",
+              "context_title": "Pender Harbour Water Aerodrome",
+              "page_content": "Pender Harbour Water Aerodrome is located adjacent to Pender Harbour."
+            },
+            {
+              "chunk_id": "d1b9bfbe-fe66-4bc6-8c15-a5f8cd05853a",
+              "chunk_title": "Airports & Locations",
+              "chunk_summary": "This chunk contains information about specific airports, including their classifications and locations.",
+              "context_title": "Bamfield Water Aerodrome",
+              "page_content": "Bamfield Water Aerodrome is located adjacent to Bamfield, British Columbia, Canada. Bamfield Water Aerodrome is an airport."
+            },
+            {
+              "chunk_id": "ff709abf-8751-417d-a7a4-2d5f2be44800",
+              "chunk_title": "Water Aerodrome Locations",
+              "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+              "context_title": "Tofino Harbour Water Aerodrome",
+              "page_content": "Tofino Harbour Water Aerodrome is located in Tofino Harbour."
+            },
+            {
+              "chunk_id": "7c777d74-fd97-4e55-a7f3-bc6ac2f3925e",
+              "chunk_title": "Geographical Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Tofino Harbour relative to Tofino, British Columbia.",
+              "context_title": "Tofino Harbour Water Aerodrome",
+              "page_content": "Tofino Harbour is adjacent to Tofino, British Columbia, Canada."
+            },
+            {
+              "chunk_id": "9abfc5ab-af0f-41d4-a06c-646132950295",
+              "chunk_title": "Water Aerodrome Locations",
+              "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+              "context_title": "Coal Harbour Water Aerodrome",
+              "page_content": "Coal Harbour Water Aerodrome is located at the village of Coal Harbour."
+            },
+            {
+              "chunk_id": "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the location of airports.",
+              "context_title": "Kangiqsujuaq (Wakeham Bay) Airport",
+              "page_content": "Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada."
+            },
+            {
+              "chunk_id": "eebcb418-6f78-489d-9b63-eabbf8eacf30",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the location of airports relative to city centers.",
+              "context_title": "Goose Bay Airport (Alaska)",
+              "page_content": "Goose Bay Airport is located 14 miles north of the central business district (CBD) of Anchorage, Alaska, USA."
+            },
+            {
+              "chunk_id": "8c9152f2-2d20-42eb-986b-92c7f0d497f3",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of islands, settlements, and airports, including their specific county and state placements.",
+              "context_title": "Put-in-Bay Airport",
+              "page_content": "Put-in-Bay is on South Bass Island. South Bass Island is in Ottawa County, Ohio, United States. Erie-Ottawa Regional Airport is in Port Clinton."
+            },
+            {
+              "chunk_id": "5ab3cb2d-2b84-4156-9e3d-f8ed5688ce80",
+              "chunk_title": "Airports",
+              "chunk_summary": "This chunk contains information about airports, including their names, classifications, and locations.",
+              "context_title": "South West Bay Airport",
+              "page_content": "South West Bay Airport is an airport. South West Bay Airport is in Southwest Bay, Vanuatu."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is Kangiqsujuaq (Wakeham Bay) Airport located in?",
+          "answer": "Canada",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is Kangiqsujuaq (Wakeham Bay) Airport located in?",
+          "planner_rationale": "Q 要求比较两个机场的国家归属，必须先确定 Kangiqsujuaq (Wakeham Bay) Airport 所在国家。该节点已 SOLVED + healthy，answer=Canada，证据链完整（机场位于 Quebec, Canada 直接陈述）",
+          "solver_judgment": "question 要求确认 Kangiqsujuaq (Wakeham Bay) Airport 所在的国家。search_query 直接搜索了该问题。chunks 返回了包含该机场位置信息的片段，其中 chunk 7c8cfd51-bf38-444f-aaf8-bfb7abd319b8 明确记载 'Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada.'，chunk 7b2dc20c-58a6-409c-88be-510bee6492a8 也提到 'Kangiqsujuaq is located in Quebec, Canada.'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 chunk，均来自同一文档（Kangiqsujuaq (Wakeham Bay) Airport），非独立来源。chunk 7c8cfd51 直接陈述 'Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada'——答案 'Canada' 在 chunk 全文中明确出现。chunk 7b2dc20c 陈述 'Kangiqsujuaq is located in Quebec, Canada'，提供辅助确认。两个 chunk 均直接提及 Canada，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，两个 chunk 均直接陈述该机场位于 Canada，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+            "7b2dc20c-58a6-409c-88be-510bee6492a8"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the location of airports.",
+              "context_title": "Kangiqsujuaq (Wakeham Bay) Airport",
+              "page_content": "Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada."
+            },
+            {
+              "chunk_id": "5ab3cb2d-2b84-4156-9e3d-f8ed5688ce80",
+              "chunk_title": "Airports",
+              "chunk_summary": "This chunk contains information about airports, including their names, classifications, and locations.",
+              "context_title": "South West Bay Airport",
+              "page_content": "South West Bay Airport is an airport. South West Bay Airport is in Southwest Bay, Vanuatu."
+            },
+            {
+              "chunk_id": "eebcb418-6f78-489d-9b63-eabbf8eacf30",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the location of airports relative to city centers.",
+              "context_title": "Goose Bay Airport (Alaska)",
+              "page_content": "Goose Bay Airport is located 14 miles north of the central business district (CBD) of Anchorage, Alaska, USA."
+            },
+            {
+              "chunk_id": "d1b9bfbe-fe66-4bc6-8c15-a5f8cd05853a",
+              "chunk_title": "Airports & Locations",
+              "chunk_summary": "This chunk contains information about specific airports, including their classifications and locations.",
+              "context_title": "Bamfield Water Aerodrome",
+              "page_content": "Bamfield Water Aerodrome is located adjacent to Bamfield, British Columbia, Canada. Bamfield Water Aerodrome is an airport."
+            },
+            {
+              "chunk_id": "ebddeab5-6b43-4041-9184-4e801a7c1699",
+              "chunk_title": "Airport Classification & Status",
+              "chunk_summary": "This chunk contains information about the classification and status of airports.",
+              "context_title": "Goose Bay Airport (Alaska)",
+              "page_content": "Goose Bay Airport is a public airport."
+            },
+            {
+              "chunk_id": "7b2dc20c-58a6-409c-88be-510bee6492a8",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places.",
+              "context_title": "Kangiqsujuaq (Wakeham Bay) Airport",
+              "page_content": "Kangiqsujuaq is located in Quebec, Canada."
+            },
+            {
+              "chunk_id": "ff709abf-8751-417d-a7a4-2d5f2be44800",
+              "chunk_title": "Water Aerodrome Locations",
+              "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+              "context_title": "Tofino Harbour Water Aerodrome",
+              "page_content": "Tofino Harbour Water Aerodrome is located in Tofino Harbour."
+            },
+            {
+              "chunk_id": "8776b852-3b93-44cf-a237-8512397c236b",
+              "chunk_title": "Airport Ownership & Use",
+              "chunk_summary": "This chunk contains information about the ownership and public use status of airports.",
+              "context_title": "Scammon Bay Airport",
+              "page_content": "Scammon Bay Airport is a state-owned public-use airport."
+            },
+            {
+              "chunk_id": "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of places.",
+              "context_title": "Pender Harbour Water Aerodrome",
+              "page_content": "Pender Harbour is in British Columbia, Canada."
+            },
+            {
+              "chunk_id": "9abfc5ab-af0f-41d4-a06c-646132950295",
+              "chunk_title": "Water Aerodrome Locations",
+              "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+              "context_title": "Coal Harbour Water Aerodrome",
+              "page_content": "Coal Harbour Water Aerodrome is located at the village of Coal Harbour."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What country is Pender Harbour Water Aerodrome located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+        "3e7a9f73-bdfb-4676-8c1b-da613a55d66d",
+        "d1b9bfbe-fe66-4bc6-8c15-a5f8cd05853a",
+        "ff709abf-8751-417d-a7a4-2d5f2be44800",
+        "7c777d74-fd97-4e55-a7f3-bc6ac2f3925e",
+        "9abfc5ab-af0f-41d4-a06c-646132950295",
+        "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+        "eebcb418-6f78-489d-9b63-eabbf8eacf30",
+        "8c9152f2-2d20-42eb-986b-92c7f0d497f3",
+        "5ab3cb2d-2b84-4156-9e3d-f8ed5688ce80"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What country is Kangiqsujuaq (Wakeham Bay) Airport located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+        "5ab3cb2d-2b84-4156-9e3d-f8ed5688ce80",
+        "eebcb418-6f78-489d-9b63-eabbf8eacf30",
+        "d1b9bfbe-fe66-4bc6-8c15-a5f8cd05853a",
+        "ebddeab5-6b43-4041-9184-4e801a7c1699",
+        "7b2dc20c-58a6-409c-88be-510bee6492a8",
+        "ff709abf-8751-417d-a7a4-2d5f2be44800",
+        "8776b852-3b93-44cf-a237-8512397c236b",
+        "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+        "9abfc5ab-af0f-41d4-a06c-646132950295"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Pender Harbour Water Aerodrome located in?（理由：Q 问两个机场是否在同一国家，需先确定第一个机场的国家），F2: What country is Kangiqsujuaq (Wakeham Bay) Airport located in?（理由：需确定第二个机场的国家以进行比较）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立——它们的答案可以并行搜索，最终通过比较两者是否相同来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（Pender Harbour Water Aerodrome 所在国家），$2（Kangiqsujuaq (Wakeham Bay) Airport 所在国家）。新增边: N0→$1（decomposition），N0→$2（decomposition）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点 question 自包含，答案聚合后可支撑 ROOT 推理；③全部节点 healthy——N1_1 和 N1_2 证据充分（各 2 个 chunk 支撑），N0 推理链完整；④首轮无拓扑变化。置信评估：两个机场均明确位于 Ca"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is Pender Harbour Water Aerodrome located in?（理由：Q 问两个机场是否在同一国家，需先确定第一个机场的国家），F2: What country is Kangiqsujuaq (Wakeham Bay) Airport located in?（理由：需确定第二个机场的国家以进行比较）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立——它们的答案可以并行搜索，最终通过比较两者是否相同来回答 Q。当前状态：F1 和 F2 均已确立（answer 均为 Canada），推理链完整，Q 可回答为 'Yes'。",
+      "hypothesis_delta": "本轮无结构调整——所有节点（N0, N1_1, N1_2）均 INHERIT 保留，两条 decomposition 边均保留。原因：Critic 确认首轮 DAG 结构质量高，分解策略正确，无冗余无缺口。N1_1 和 N1_2 均已 SOLVED + healthy，证据充分，answer 一致（均为 Canada），推理链完整，无需任何修改。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 的 decomposition 边语义有效，子节点答案（均为 Canada）聚合后可直接支撑 ROOT 节点的推理（两者位于同一国家 → Yes）；③全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④拓扑连续稳定（本轮与上一轮一致）。推理链"
+      }
+    }
+  ]
+}

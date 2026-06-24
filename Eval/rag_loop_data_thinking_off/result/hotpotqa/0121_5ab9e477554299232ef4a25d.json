@@ -1,0 +1,422 @@
+{
+  "question_index": 121,
+  "question_id": "5ab9e477554299232ef4a25d",
+  "question": "Which was built first Woolworth Building or 1 New York Plaza?",
+  "answer": "Woolworth Building",
+  "prediction": "Woolworth Building",
+  "error": null,
+  "latency_ms": 113248.67889995221,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T17:34:36.276633+00:00",
+  "chunks": [
+    {
+      "chunk_id": "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3",
+      "chunk_title": "Construction Dates",
+      "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building was constructed between 1910 and 1912."
+    },
+    {
+      "chunk_id": "2c9b6ed8-3dbd-4e96-95a3-8e181cd00a7d",
+      "chunk_title": "Historic Buildings & Districts",
+      "chunk_summary": "This chunk contains information about the history, location, and historic district status of specific buildings.",
+      "context_title": "F. W. Woolworth Building (Watertown, New York)",
+      "page_content": "Plans for the Woolworth Building were begun in 1916 by Frank W. Woolworth. The Woolworth Building is an historic building in Watertown, New York. The Woolworth Building is a contributing building in the Public Square Historic District."
+    },
+    {
+      "chunk_id": "6130fa3d-814f-436f-a941-b40a51b269b7",
+      "chunk_title": "Cass Gilbert's Architectural Career",
+      "chunk_summary": "This chunk contains information about the architectural career and notable building designs of Cass Gilbert, including his role as a skyscraper pioneer and designer of significant public structures.",
+      "context_title": "Abraham M. Radcliffe",
+      "page_content": "Cass Gilbert designed the Woolworth Building. Cass Gilbert designed the United States Supreme Court building. Cass Gilbert was a skyscraper pioneer. Cass Gilbert designed many important public structures."
+    },
+    {
+      "chunk_id": "db7c0771-960a-45ce-a1bb-b42e656ff846",
+      "chunk_title": "Architecture & Design",
+      "chunk_summary": "This chunk contains information about the architects and design of notable buildings.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building was designed by architect Cass Gilbert. Cass Gilbert was an architect."
+    },
+    {
+      "chunk_id": "39563efa-8184-480e-b3d2-f8a8558c58e3",
+      "chunk_title": "Building Heights & Rankings",
+      "chunk_summary": "This chunk contains information about the height and ranking of specific buildings.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building is 241.4 meters tall. The Woolworth Building is one of the 30 tallest buildings in New York City."
+    },
+    {
+      "chunk_id": "a4d04d40-5a34-4313-b5d0-d8a3328a5e77",
+      "chunk_title": "Early US Skyscrapers",
+      "chunk_summary": "This chunk contains information about the Woolworth Building, an early US skyscraper that remains one of the tallest buildings in the country.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building is an early US skyscraper. More than a century after its construction, the Woolworth Building remains one of the 100 tallest buildings in the United States."
+    },
+    {
+      "chunk_id": "a9e121bc-997c-412c-bfd3-3a8ea6a37758",
+      "chunk_title": "Building Locations",
+      "chunk_summary": "This chunk contains information about the specific street addresses, corner locations, and neighborhood areas of the Transportation Building.",
+      "context_title": "Transportation Building",
+      "page_content": "The Transportation Building is located in New York City. The Transportation Building is located at 225 Broadway. The Transportation Building is located in the Civic Center neighborhood. The Transportation Building sits across Barclay Street from the Woolworth Building. The Transportation Building carries the address 2-4 Barclay Street. The Transportation Building is located on the corner of Barclay Street. The Transportation Building is located in Lower Manhattan."
+    },
+    {
+      "chunk_id": "570edb02-1562-4f73-8a01-0ae5ed7601c3",
+      "chunk_title": "Land Acquisition",
+      "chunk_summary": "This chunk contains information about the acquisition of land and real estate for construction projects, specifically detailing the purchase of the Woolworth Building site by F. W. Woolworth and Edward J. Hogan from various owners between 1910 and 1911.",
+      "context_title": "Woolworth Building",
+      "page_content": "By January 18, 1911, F. W. Woolworth and Edward J. Hogan had acquired the final site for the Woolworth Building project. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building for $1.65 million. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building from the Trenor Luther Park Estate and other owners. F. W. Woolworth and Edward J. Hogan purchased the original site for the Woolworth Building by April 15, 1910. The original site for the Woolworth Building was purchased by F. W. Woolworth and his real estate agent Edward J. Hogan. The total cost for the final site of the Woolworth Building project was $4.5 million."
+    },
+    {
+      "chunk_id": "79e2ae2a-682f-4008-aa76-b2dedf2ae20d",
+      "chunk_title": "Building Locations & Dates",
+      "chunk_summary": "This chunk contains information about the location, construction date, and specific site details of buildings or landmarks.",
+      "context_title": "1 New York Plaza",
+      "page_content": "1 New York Plaza is in New York City's Financial District. 1 New York Plaza was built at the intersection of South and Whitehall Streets. 1 New York Plaza is the southernmost of all Manhattan skyscrapers. 1 New York Plaza was built in 1969."
+    },
+    {
+      "chunk_id": "fd88f2c5-2e3a-4c8d-9754-19994ad74fa4",
+      "chunk_title": "Office Buildings",
+      "chunk_summary": "This chunk contains information about office buildings and their characteristics.",
+      "context_title": "1 New York Plaza",
+      "page_content": "1 New York Plaza is an office building."
+    },
+    {
+      "chunk_id": "75ce248e-25db-44a2-b4a5-9f02889e4238",
+      "chunk_title": "Locations",
+      "chunk_summary": "This chunk contains information about the locations of specific landmarks or buildings.",
+      "context_title": "Black and White Ball",
+      "page_content": "The Plaza Hotel is in New York City."
+    },
+    {
+      "chunk_id": "9bd0a165-51fb-4c37-baf9-53badfe24fb3",
+      "chunk_title": "Riverton, NY Development History",
+      "chunk_summary": "This chunk contains information about the construction history, geographic location, federal assistance status, original development plans, and actual built components of Riverton, New York, including details on HUD's New Communities Program.",
+      "context_title": "Riverton, New York",
+      "page_content": "Original plans for Riverton, New York included an 18-hole golf course. Riverton, New York was built in 1973. Riverton Park included a walking trail. Riverton Park was created as part of the Riverton, New York community. Riverton, New York was built in the town of Henrietta, New York. Original plans for Riverton, New York included commercial centers. Original plans for Riverton, New York included 12 swimming pools. Riverton Park included a playground. Riverton, New York was supposed to encompass a 2335 acre land area. Riverton Knolls was a moderately priced townhouse subdivision. The eastern border of the planned Riverton, New York was East River Rd. Riverton, New York was the seventh of thirteen communities receiving Federal guarantee assistance from HUD. The northern border of the planned Riverton, New York was the New York State Thruway. Original plans for Riverton, New York included industrial centers. Some development of Riverton, New York was supposed to continue east along Erie Station Rd. The southern border of the planned Riverton, New York was the Rush-Henrietta town line. Only a small portion of the planned Riverton, New York was built. The western border of the planned Riverton, New York was the Genesee River. $12 million was earmarked for Riverton, New York. The built portion of Riverton, New York was located along Scottsville-West Henrietta Rd. Riverton Park included a baseball diamond. The Riverton Golf Club was created as part of the Riverton, New York community. Original plans for Riverton, New York called for construction to occur for a 16-year period. Original plans for Riverton, New York called for the community to eventually house over 25,000 people. Original plans for Riverton, New York included a marina on the Genesee River. Riverton, New York was built along the Genesee River. Original plans for Riverton, New York included 3 artificial lakes. The Federal guarantee assistance for Riverton, New York was part of HUD's New Communities Program. HUD's New Communities Program was created by the Urban Growth and New Community Development Act of 1970. A 28 acre forested nature park was nestled in a bend in the Genesee River. Riverton Park included a volleyball court. Riverton Knolls was created as part of the Riverton, New York community. The 28 acre forested nature park was part of the Riverton, New York community. Riverton Park included river front benches."
+    },
+    {
+      "chunk_id": "9057f002-7270-4536-9239-267bcde82c8e",
+      "chunk_title": "Building Projects",
+      "chunk_summary": "This chunk contains information about the construction status, developers, and architects of specific building projects.",
+      "context_title": "220 Central Park South",
+      "page_content": "220 Central Park South is being designed by Robert A.M. Stern Architects. 220 Central Park South is being developed by Vornado Realty Trust. 220 Central Park South is currently under construction."
+    },
+    {
+      "chunk_id": "065cec07-35db-4e7c-90f9-eb3be37d4777",
+      "chunk_title": "Building Architecture & Design",
+      "chunk_summary": "This chunk contains information about the architectural styles, materials, notable design features, construction dates, and designers of specific buildings.",
+      "context_title": "200 Central Park South",
+      "page_content": "200 Central Park South was built post-war in 1963. The terraces of 200 Central Park South taper in, then curve, and taper out. 200 Central Park South is most notably recognizable in New York City photographs for its curved facade. 200 Central Park South is a Modern-style building. The building 200 Central Park South is lined with terraces. The terraces of 200 Central Park South wrap around the two faces of the building 200 Central Park South. The exterior of 200 Central Park South is beige brick and glass. 200 Central Park South was designed by Wechsler & Schimenti. The curving facade of 200 Central Park South is banded by balconies. 200 Central Park South is most notable for its curving facade."
+    },
+    {
+      "chunk_id": "094bcc45-ef96-48bb-a9ff-a971af0dbb01",
+      "chunk_title": "Construction Dates & Timelines",
+      "chunk_summary": "This chunk contains information about the construction dates and timelines of buildings or developments.",
+      "context_title": "C.J. Segerstrom &amp; Sons",
+      "page_content": "Construction began on South Coast Plaza in 1967."
+    },
+    {
+      "chunk_id": "990dd783-4f8e-482d-a412-64089e8cc7b1",
+      "chunk_title": "34th Street Station History & Structure",
+      "chunk_summary": "This chunk contains historical and structural details about the 34th Street station on the IRT Ninth Avenue Line, including its construction date, builder, service type, physical layout, closure, adjacent stops, and connection to Penn Station.",
+      "context_title": "34th Street (IRT Ninth Avenue Line)",
+      "page_content": "The upper level of 34th Street station was over the lower level local tracks. The lower level of 34th Street station had two side platforms. The upper level of 34th Street station was built as part of the Dual Contracts. 34th Street station was built by the New York Elevated Railroad Company. 34th Street was an express station on the IRT Ninth Avenue Line. The next southbound local stop from 34th Street station was 30th Street. The next northbound express stop from 34th Street station was 66th Street. 34th Street station was originally built on July 30, 1873. The next southbound express stop from 34th Street station was 14th Street. The next northbound local stop from 34th Street station was 42nd Street. The lower level of 34th Street station was built first. 34th Street station serviced Penn Station. 34th Street station was west of the IRT subway stations at Penn Station. The upper level of 34th Street station had two side platforms. The lower level of 34th Street station had two tracks. 34th Street station closed on June 11, 1940. 34th Street station had two levels. 34th Street station was west of the IND subway stations at Penn Station. The upper level of 34th Street station had one track."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.4375,
+  "retrieval_count": 2,
+  "total_chunks": 16,
+  "total_distinct_titles": 11,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which was built first Woolworth Building or 1 New York Plaza?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which was built first Woolworth Building or 1 New York Plaza?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两个建筑的建成时间",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生搜索证据，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，子节点 N1_1 和 N1_2 均已 SOLVED 且提供了明确的建成时间（'between 1910 and 1912' 和 '1969'）。基于这两个独立事实，可以明确推断出 Woolworth Building 先于 1 New York Plaza 建成。推理链逻辑闭环，无缺失环节。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且逻辑一致，ROOT 节点可直接基于子节点答案生成最终比较结论。无需新增节点或修改结构。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the Woolworth Building built?",
+          "answer": "between 1910 and 1912",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the Woolworth Building built?",
+          "planner_rationale": "Q 要求比较两个建筑的建成先后，必须首先获取 Woolworth Building 的具体建成年份",
+          "solver_judgment": "question 要求确认 Woolworth Building 的建造时间。search_query 搜索了 'When was the Woolworth Building built?'。chunks 返回了多个关于该建筑的信息，其中 chunk c0a8873f-c0a0-4e26-ab2b-f41d80b633f3 明确记载 'The Woolworth Building was constructed between 1910 and 1912'，直接回答了问题。其他 chunks 提供了设计师、高度、地点或另一座同名建筑的信息，虽相关但非直接答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档: Woolworth Building），chunk c0a8873f-c0a0-4e26-ab2b-f41d80b633f3 全文直接陈述 'The Woolworth Building was constructed between 1910 and 1912'。Solver 声称答案 'between 1910 and 1912' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，足以确立事实。其他检索结果虽来自同一文档或其他来源，但未提供冲突信息。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或补充。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was 1 New York Plaza built?",
+          "answer": "1969",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was 1 New York Plaza built?",
+          "planner_rationale": "Q 要求比较两个建筑的建成先后，必须首先获取 1 New York Plaza 的具体建成年份",
+          "solver_judgment": "question 要求确认 1 New York Plaza 的建造年份。search_query 搜索了 'When was 1 New York Plaza built?'。chunks 返回了关于 1 New York Plaza 的具体信息，其中 chunk 79e2ae2a-682f-4008-aa76-b2dedf2ae20d 明确记载 '1 New York Plaza was built in 1969'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档: 1 New York Plaza），chunk 79e2ae2a-682f-4008-aa76-b2dedf2ae20d 全文直接陈述 '1 New York Plaza was built in 1969'。Solver 声称答案 '1969' 与 chunk 内容完全匹配。单来源直接陈述，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或补充。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which was built first Woolworth Building or 1 New York Plaza?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which was built first Woolworth Building or 1 New York Plaza?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且提供了明确的建成时间，基于这两个独立事实可推断出 Woolworth Building (1910-1912) 先于 1 New York Plaza (1969) 建成。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生搜索证据，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，子节点 N1_1 和 N1_2 均已 SOLVED 且提供了明确的建成时间（'between 1910 and 1912' 和 '1969'）。基于这两个独立事实，可以明确推断出 Woolworth Building 先于 1 New York Plaza 建成。推理链逻辑闭环，无缺失环节。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且逻辑一致，ROOT 节点可直接基于子节点答案生成最终比较结论。无需新增节点或修改结构。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the Woolworth Building built?",
+          "answer": "between 1910 and 1912",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the Woolworth Building built?",
+          "planner_rationale": "Q 要求比较两个建筑的建成先后，必须首先获取 Woolworth Building 的具体建成年份。该节点已 SOLVED 且 Critic 判为 healthy，证据充分。",
+          "solver_judgment": "question 要求确认 Woolworth Building 的建造时间。search_query 搜索了 'When was the Woolworth Building built?'。chunks 返回了多个关于该建筑的信息，其中 chunk c0a8873f-c0a0-4e26-ab2b-f41d80b633f3 明确记载 'The Woolworth Building was constructed between 1910 and 1912'，直接回答了问题。其他 chunks 提供了设计师、高度、地点或另一座同名建筑的信息，虽相关但非直接答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档: Woolworth Building），chunk c0a8873f-c0a0-4e26-ab2b-f41d80b633f3 全文直接陈述 'The Woolworth Building was constructed between 1910 and 1912'。Solver 声称答案 'between 1910 and 1912' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，足以确立事实。其他检索结果虽来自同一文档或其他来源，但未提供冲突信息。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或补充。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was 1 New York Plaza built?",
+          "answer": "1969",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was 1 New York Plaza built?",
+          "planner_rationale": "Q 要求比较两个建筑的建成先后，必须首先获取 1 New York Plaza 的具体建成年份。该节点已 SOLVED 且 Critic 判为 healthy，证据充分。",
+          "solver_judgment": "question 要求确认 1 New York Plaza 的建造年份。search_query 搜索了 'When was 1 New York Plaza built?'。chunks 返回了关于 1 New York Plaza 的具体信息，其中 chunk 79e2ae2a-682f-4008-aa76-b2dedf2ae20d 明确记载 '1 New York Plaza was built in 1969'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档: 1 New York Plaza），chunk 79e2ae2a-682f-4008-aa76-b2dedf2ae20d 全文直接陈述 '1 New York Plaza was built in 1969'。Solver 声称答案 '1969' 与 chunk 内容完全匹配。单来源直接陈述，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或补充。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which was built first Woolworth Building or 1 New York Plaza?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which was built first Woolworth Building or 1 New York Plaza?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且提供了明确的建成时间（Woolworth: 1910-1912, 1 New York Plaza: 1969）。基于这两个独立事实，逻辑上可直接推断 Woolworth Building 先建成。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点无独立搜索来源。其健康状态依赖于子节点推理链的完整性。子节点 N1_1 (Woolworth: 1910-1912) 和 N1_2 (1 New York Plaza: 1969) 均已 SOLVED 且证据充分。基于这两个独立事实，逻辑上可直接推断 Woolworth Building 先建成。推理链完整，无缺失环节。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且逻辑一致，ROOT 节点可直接基于子节点答案生成最终比较结论。无需新增节点或修改结构。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the Woolworth Building built?",
+          "answer": "between 1910 and 1912",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the Woolworth Building built?",
+          "planner_rationale": "Q 要求比较两个建筑的建成先后，必须首先获取 Woolworth Building 的具体建成年份。该节点已 SOLVED 且 Critic 判为 healthy，证据充分（chunk c0a8873f... 明确记载 'constructed between 1910 and 1912'）。",
+          "solver_judgment": "question 要求确认 Woolworth Building 的建造时间。search_query 搜索了 'When was the Woolworth Building built?'。chunks 返回了多个关于该建筑的信息，其中 chunk c0a8873f-c0a0-4e26-ab2b-f41d80b633f3 明确记载 'The Woolworth Building was constructed between 1910 and 1912'，直接回答了问题。其他 chunks 提供了设计师、高度、地点或另一座同名建筑的信息，虽相关但非直接答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档: Woolworth Building）。Chunk c0a8873f-c0a0-4e26-ab2b-f41d80b633f3 全文直接陈述 'The Woolworth Building was constructed between 1910 and 1912'。Solver 声称答案 'between 1910 and 1912' 与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，足以确立事实。其他检索结果未提供冲突信息。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或补充。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was 1 New York Plaza built?",
+          "answer": "1969",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was 1 New York Plaza built?",
+          "planner_rationale": "Q 要求比较两个建筑的建成先后，必须首先获取 1 New York Plaza 的具体建成年份。该节点已 SOLVED 且 Critic 判为 healthy，证据充分（chunk 79e2ae2a... 明确记载 'built in 1969'）。",
+          "solver_judgment": "question 要求确认 1 New York Plaza 的建造年份。search_query 搜索了 'When was 1 New York Plaza built?'。chunks 返回了关于 1 New York Plaza 的具体信息，其中 chunk 79e2ae2a-682f-4008-aa76-b2dedf2ae20d 明确记载 '1 New York Plaza was built in 1969'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档: 1 New York Plaza）。Chunk 79e2ae2a-682f-4008-aa76-b2dedf2ae20d 全文直接陈述 '1 New York Plaza was built in 1969'。Solver 声称答案 '1969' 与 chunk 内容完全匹配。单来源直接陈述，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需重搜或补充。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was the Woolworth Building built?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "c0a8873f-c0a0-4e26-ab2b-f41d80b633f3",
+        "2c9b6ed8-3dbd-4e96-95a3-8e181cd00a7d",
+        "6130fa3d-814f-436f-a941-b40a51b269b7",
+        "db7c0771-960a-45ce-a1bb-b42e656ff846",
+        "39563efa-8184-480e-b3d2-f8a8558c58e3",
+        "a4d04d40-5a34-4313-b5d0-d8a3328a5e77",
+        "a9e121bc-997c-412c-bfd3-3a8ea6a37758",
+        "570edb02-1562-4f73-8a01-0ae5ed7601c3"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was 1 New York Plaza built?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "79e2ae2a-682f-4008-aa76-b2dedf2ae20d",
+        "fd88f2c5-2e3a-4c8d-9754-19994ad74fa4",
+        "75ce248e-25db-44a2-b4a5-9f02889e4238",
+        "9bd0a165-51fb-4c37-baf9-53badfe24fb3",
+        "9057f002-7270-4536-9239-267bcde82c8e",
+        "065cec07-35db-4e7c-90f9-eb3be37d4777",
+        "094bcc45-ef96-48bb-a9ff-a971af0dbb01",
+        "990dd783-4f8e-482d-a412-64089e8cc7b1"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was the Woolworth Building built?（理由：比较建成先后的必要数据点之一），F2: When was 1 New York Plaza built?（理由：比较建成先后的必要数据点之二）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。根节点 N0 通过汇总 F1 和 F2 的答案即可得出哪个更早。",
+      "hypothesis_delta": "本轮为首轮——所有子节点为新增，无从上一轮调整的变更。新增: $1 (Woolworth Building 建成时间), $2 (1 New York Plaza 建成时间)，原因：Q 的核心是比较两个实体的时间属性，需分别探测这两个实体的建成年份。新增边: N0→$1 (decomposition), N0→$2 (decomposition)，原因：这两个子事实是回答 Q 的直接组成部分，且确保所有非根节点都有入边（满足 I3），且只有 N0 是根节点（满足 I4）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 和 N1_2 的答案可直接用于 N0 的比较推理）；③ 所有节点（含 ROOT）审查结果为 healthy；④ 首轮无拓扑变化阻碍。DAG 结构完整，证据充分，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was the Woolworth Building built?（理由：比较建成先后的必要数据点之一），F2: When was 1 New York Plaza built?（理由：比较建成先后的必要数据点之二）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。根节点 N0 通过汇总 F1 和 F2 的答案即可得出哪个更早。当前 DAG 已完全覆盖这些需求，且所有子节点均已成功求解。",
+      "hypothesis_delta": "本轮无结构变更。原因：Critic 确认上一轮构建的 DAG 结构已达到回答 Q 所需的最小完备状态。N1_1 和 N1_2 均已被正确确立（SOLVED + healthy），且直接支撑根节点 N0 的比较逻辑。无需新增、删除或修改任何节点及边。所有节点通过 INHERIT 保留，所有边通过 LINK 重申。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，子节点答案提供比较所需的全部事实）；③ 全部节点 healthy（N0, N1_1, N1_2 均判为 healthy）；④ 拓扑连续两轮无变化（本轮通过，结合控制循环计数器确认）。置信度高，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was the Woolworth Building built?（理由：比较建成先后的必要数据点之一），F2: When was 1 New York Plaza built?（理由：比较建成先后的必要数据点之二）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。根节点 N0 通过汇总 F1 和 F2 的答案即可得出哪个更早。当前 DAG 已完全覆盖这些需求，且所有子节点均已成功求解。",
+      "hypothesis_delta": "本轮无结构变更。原因：Critic 确认上一轮构建的 DAG 结构已达到回答 Q 所需的最小完备状态。N1_1 和 N1_2 均已被正确确立（SOLVED + healthy），且直接支撑根节点 N0 的比较逻辑。无需新增、删除或修改任何节点及边。所有节点通过 INHERIT 保留，所有边通过 LINK 重申。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，子节点答案可聚合支撑 N0）；③ 全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④ 拓扑连续两轮无变化（本轮与上一轮一致）。DAG 结构稳定，证据充分，可生成最终答案。"
+      }
+    }
+  ]
+}

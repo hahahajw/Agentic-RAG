@@ -1,0 +1,594 @@
+{
+  "question_index": 185,
+  "question_id": "5a7af2a455429931da12c998",
+  "question": "Palm Springs lies in Palm Beach County, the third most populated county in its state. Which major U.S. city is it near?",
+  "answer": "Miami",
+  "prediction": "West Palm Beach",
+  "error": null,
+  "latency_ms": 157331.75329997903,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T18:41:27.754298+00:00",
+  "chunks": [
+    {
+      "chunk_id": "aa1251cd-5660-4c98-9923-c7fc5effad8b",
+      "chunk_title": "Palm Beach County Overview",
+      "chunk_summary": "This chunk contains information about the location, neighboring counties, population statistics, major cities, naming origin, and establishment date of Palm Beach County in Florida.",
+      "context_title": "Palm Beach County, Florida",
+      "page_content": "Palm Beach County is one of the three counties in South Florida which make up the Miami metropolitan area. Palm Beach County was split from Dade County. As of the 2010 census, the population of Palm Beach County was 1,320,134. Palm Beach County is named after one of its oldest settlements, Palm Beach. The modern-day boundaries of Palm Beach County were established in 1963. The largest city in Palm Beach County is West Palm Beach. Palm Beach County was established in 1909. Palm Beach County is located directly north of Broward County. Palm Beach County is a county located in the state of Florida. West Palm Beach is the county seat of Palm Beach County. Palm Beach County is the third-most populous county in Florida."
+    },
+    {
+      "chunk_id": "ec668768-93c1-420e-86f6-03791c549d96",
+      "chunk_title": "Town Locations",
+      "chunk_summary": "This chunk contains information about specific towns, their locations, and administrative classifications.",
+      "context_title": "Cloud Lake, Florida",
+      "page_content": "Cloud Lake is a town. The town of Cloud Lake is situated adjacent to Glen Ridge. Palm Beach County is in Florida. Cloud Lake is in Palm Beach County."
+    },
+    {
+      "chunk_id": "5e3b55b9-a63e-41b1-86b8-8df090a3f622",
+      "chunk_title": "North Palm Beach County Airport Overview",
+      "chunk_summary": "This chunk contains information about the names, aliases, identifiers, operational characteristics, location, and ownership of North Palm Beach County Airport.",
+      "context_title": "North Palm Beach County General Aviation Airport",
+      "page_content": "North Palm Beach County Airport is located off the Bee Line Highway. North Palm Beach County Airport is owned by Palm Beach County. North Palm Beach County Airport is an uncontrolled general aviation airport. North Palm Beach County Airport is operated by the Palm Beach County Airports Department. North Palm Beach County Airport is located in Palm Beach Gardens, Florida. North Palm Beach County Airport is also known as North County Airport. North Palm Beach County Airport has the FAA LID F45. North Palm Beach County Airport is located 12 nautical miles (22 km) northwest of West Palm Beach."
+    },
+    {
+      "chunk_id": "a72b483b-ef1f-4b03-a51b-6a2e9a9a4cda",
+      "chunk_title": "Florida City History & Status",
+      "chunk_summary": "This chunk contains information about the administrative status, location, and historical incorporation dates of cities in Florida.",
+      "context_title": "West Palm Beach, Florida",
+      "page_content": "Miami was incorporated as a city two years after West Palm Beach. West Palm Beach was incorporated as a city in November 1894. West Palm Beach is the county seat of Palm Beach County, Florida, United States. West Palm Beach is the oldest municipality in the Miami metropolitan area."
+    },
+    {
+      "chunk_id": "0e414440-f240-405e-bc56-3c15e3c80d82",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the location of airports, including specific details such as county, state, country, and distance from nearby cities.",
+      "context_title": "Palm Beach County Glades Airport",
+      "page_content": "Palm Beach County Glades Airport is located three nautical miles (6 km) southwest of the central business district of Pahokee, Florida. Palm Beach County Glades Airport is located in Palm Beach County, Florida, United States."
+    },
+    {
+      "chunk_id": "fa7abcc9-e792-4e32-b9a0-63dcb4456c79",
+      "chunk_title": "State Road 882 Overview",
+      "chunk_summary": "This chunk contains information about the route, location, and communities served by State Road 882 in Florida.",
+      "context_title": "Florida State Road 882",
+      "page_content": "State Road 882 heads east serving West Palm Beach. State Road 882 is a primary commuter road for the region. State Road 882 is located in Palm Beach County, Florida. State Road 882 is locally known as Forest Hill Boulevard. The eastern terminus of State Road 882 is an intersection with South Dixie Highway (US 1/SR 805) in West Palm Beach. State Road 882 extends from an intersection of US 441-SR 7 in Wellington. State Road 882 heads east serving Palm Springs. State Road 882 is a 9.233 mi east–west highway. State Road 882 heads east serving Greenacres. State Road 882 heads east serving Lake Clarke Shores."
+    },
+    {
+      "chunk_id": "6712a03e-afd6-420e-888b-44a341009343",
+      "chunk_title": "City Locations",
+      "chunk_summary": "This chunk contains information about the geographical location, surrounding areas, and metropolitan classification of specific cities.",
+      "context_title": "Palm Springs, Florida",
+      "page_content": "Palm Springs is situated between Greenacres, Lake Clarke Shores, Lake Worth, and West Palm Beach. Palm Springs is in Palm Beach County, Florida, United States. Palm Springs is a minor city of the Miami metropolitan area."
+    },
+    {
+      "chunk_id": "f9f0769a-86ae-479f-9a2b-916b9e714ccc",
+      "chunk_title": "Palm Tran Overview",
+      "chunk_summary": "This chunk contains information about the public transit system Palm Tran in Palm Beach County, Florida, including its governance, service area, passenger statistics, facility locations, and leadership.",
+      "context_title": "Palm Tran",
+      "page_content": "Palm Tran's main headquarters is in West Palm Beach on Electronics Way. During fiscal year 2015, Palm Tran provided 889,056 paratransit trips to Palm Beach County. One of Palm Tran's main facilities is the Belle Glade Facility. During fiscal year 2015, Palm Tran provided 10,773,132 one-way passenger trips to Palm Beach County. Palm Tran is the public transit bus system run by the Palm Beach County Government. One of Palm Tran's main facilities is the North Campus in West Palm Beach. Palm Tran has four main facilities. One of Palm Tran's main facilities is the South Campus in Delray Beach. One of Palm Tran's main facilities is the Palm Tran Connection/Military Trail. The current Executive Director of Palm Tran is Clinton B. Forbes. Palm Tran serves Palm Beach County, Florida. Palm Tran's service area in Broward County overlaps with Broward County Transit."
+    },
+    {
+      "chunk_id": "55cf45e1-57af-40d1-bea8-0c10fb774302",
+      "chunk_title": "West Palm Beach Overview",
+      "chunk_summary": "This chunk contains information about the location, classification, and regional significance of West Palm Beach, Florida.",
+      "context_title": "West Palm Beach, Florida",
+      "page_content": "West Palm Beach is considered a principal city within the Miami metropolitan area. West Palm Beach is a city in Palm Beach County, Florida, United States. West Palm Beach is one of the three main cities in South Florida. West Palm Beach is located approximately 68 miles north of Downtown Miami."
+    },
+    {
+      "chunk_id": "6b048c57-9940-460c-a42e-f99ecaeafef3",
+      "chunk_title": "Baltimore County Overview",
+      "chunk_summary": "This chunk contains information about the geographical location, population statistics, and metropolitan affiliations of Baltimore County, Maryland.",
+      "context_title": "Baltimore County, Maryland",
+      "page_content": "Baltimore County is a county in the U.S. state of Maryland. Baltimore County is part of the Baltimore metropolitan area. The Baltimore-Washington metropolitan area is a combined statistical area. Baltimore County is part of the Northeast Megalopolis. Baltimore County is Maryland's third-most populous county. Baltimore County is part of the Baltimore-Washington metropolitan area."
+    },
+    {
+      "chunk_id": "6a762917-b9a7-4c6f-aa62-c5bbfc259780",
+      "chunk_title": "Florida Counties History & Structure",
+      "chunk_summary": "This chunk contains information about the history, formation, and administrative structure of Florida's counties.",
+      "context_title": "List of counties in Florida",
+      "page_content": "Escambia County and St. Johns County were divided by the Suwannee River. Florida's counties are subdivisions of the state government of Florida. Gilchrist County was formed from a segment of Alachua County in 1925. Florida became the 27th U.S. state in 1845. The last county in Florida was created in 1925. Gilchrist County is the last county created in Florida. All of the other counties in Florida were apportioned from Escambia County and St. Johns County. St. Johns County was to the east when Florida became a U.S. territory in 1821. There are 67 counties in the state of Florida. All but two of Florida's county seats are incorporated municipalities. Florida had two counties complementing the provincial divisions retained as a Spanish territory when Florida became a U.S. territory in 1821. Escambia County was to the west when Florida became a U.S. territory in 1821. In 1968, counties in Florida gained the power to develop their own charters. Florida became a territory of the U.S. in 1821."
+    },
+    {
+      "chunk_id": "c43ef525-136f-4fde-a0dd-2138eaad7e26",
+      "chunk_title": "Gainesville Overview",
+      "chunk_summary": "This chunk contains information about the geographic location, administrative status, and population statistics of Gainesville, Florida.",
+      "context_title": "Gainesville, Florida",
+      "page_content": "The population of Gainesville in the 2013 US Census estimates was 127,488. Gainesville is the largest city in Alachua County, Florida, United States. Gainesville is the principal city of the Gainesville, Florida Metropolitan Statistical Area (MSA). Gainesville is the largest city in the region of North Central Florida. The Gainesville-Lake City Combined Statistical Area had a 2013 population of 337,925. Gainesville is the county seat of Alachua County, Florida, United States. Gainesville is a component of the Gainesville-Lake City Combined Statistical Area. The population of Gainesville in the 2013 US Census estimates represented a 2.4% growth from 2010."
+    },
+    {
+      "chunk_id": "78ba0ac7-f389-4b62-9740-bdb1be145f2d",
+      "chunk_title": "County Cities & Seats",
+      "chunk_summary": "This chunk contains information about the geographical location and administrative status of cities within specific counties, including details on county seats and population characteristics.",
+      "context_title": "Florida's 16th congressional district",
+      "page_content": "Bradenton is the County Seat of Manatee County. The city of Sarasota is the County Seat of Sarasota County. North Port is in Sarasota County. North Port is the county's youngest incorporated city in Sarasota County. Bradenton is in Manatee County. North Port is the most populous incorporated city in Sarasota County."
+    },
+    {
+      "chunk_id": "905920c1-3b0a-4400-8fd4-02fa93bf1418",
+      "chunk_title": "Village Classification & Characteristics",
+      "chunk_summary": "This chunk contains information about the classification and characteristics of villages.",
+      "context_title": "Palm Springs, Florida",
+      "page_content": "Palm Springs is a village."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.21428571428571427,
+  "retrieval_count": 4,
+  "total_chunks": 14,
+  "total_distinct_titles": 12,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 5,
+  "dag_edges": 6,
+  "dag_snapshots": [
+    {
+      "q": "Palm Springs lies in Palm Beach County, the third most populated county in its state. Which major U.S. city is it near?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Palm Springs lies in Palm Beach County, the third most populated county in its state. Which major U.S. city is it near?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Palm Springs 的地理位置及其邻近的主要城市",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，N1_1, N1_2, N1_3, N1_4 均已 SOLVED 且证据充分（见下文审查）。推理链逻辑自洽：N1_1 确定州为 Florida -> N1_3 验证 Palm Beach County 是该州第三大县 -> N1_2 确认 Palm Springs 位于该郡 -> N1_4 找出邻近主要城市 West Palm Beach。所有子节点答案一致且相互支撑，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据充分，推理链完整，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which state is Palm Beach County located?",
+          "answer": "Florida",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which state is Palm Beach County located?",
+          "planner_rationale": "Q 中提到 'its state'，需要先确定 Palm Beach County 所在的州，才能进一步确认该州的第三大县身份及 Palm Springs 的具体位置",
+          "solver_judgment": "question 要求确认 Palm Beach County 所在的州。search_query 直接搜索了 'In which state is Palm Beach County located?'。chunks 返回了多个明确提及 Palm Beach County 位于 Florida 的片段。例如，chunk aa1251cd-5660-4c98-9923-c7fc5effad8b 明确指出 'Palm Beach County is a county located in the state of Florida'；chunk ec668768-93c1-420e-86f6-03791c549d96 指出 'Palm Beach County is in Florida'；其他多个 chunk 也通过提及 'Palm Beach County, Florida' 佐证了这一事实。检索精准，信息完整且高度一致。",
+          "critic_factual_notes": "6 个支撑 chunk 来自 8 个独立来源。多个来源（如 aa1251cd, ec668768, 0e414440 等）明确陈述 'Palm Beach County is located in the state of Florida' 或 'Palm Beach County, Florida'。证据高度一致且直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 6,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is Palm Springs located in Palm Beach County, Florida?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is Palm Springs located in Palm Beach County, Florida?",
+          "planner_rationale": "Q 的前提是 'Palm Springs lies in Palm Beach County'。需要验证这一前提是否正确，因为 Palm Springs 更著名的是在加州，而佛罗里达也有 Palm Beach County。如果前提错误，后续推理需调整",
+          "solver_judgment": "question 要求确认 Palm Springs 是否位于佛罗里达州的 Palm Beach County。search_query 直接搜索了该问题。chunks 中的 chunk_6712a03e-afd6-420e-888b-44a341009343 明确记载 \"Palm Springs is in Palm Beach County, Florida, United States.\"，直接肯定了这一事实。检索精准，信息完整，能够直接回答问题。",
+          "critic_factual_notes": "1 个支撑 chunk (6712a03e) 来自 Palm Springs, Florida 文档，明确陈述 'Palm Springs is in Palm Beach County, Florida, United States.'。虽为单来源，但表述直接、具体，且与其他节点信息（N1_1, N1_4）无冲突。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体，足以支撑事实。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the third most populated county in Florida?",
+          "answer": "Palm Beach County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "third most populated county in Florida",
+          "planner_rationale": "Q 声称 Palm Beach County 是 'the third most populated county in its state'。需要验证这一事实，以确认我们讨论的是正确的县和州",
+          "solver_judgment": "question 要求找出佛罗里达州人口第三多的县。search_query 搜索了 'third most populated county in Florida'。chunks 返回了多个关于佛罗里达各县的信息，其中 chunk aa1251cd-5660-4c98-9923-c7fc5effad8b 明确记载 \"Palm Beach County is the third-most populous county in Florida.\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aa1251cd) 来自 Palm Beach County, Florida 文档，明确陈述 'Palm Beach County is the third-most populous county in Florida.'。虽为单来源，但表述直接具体，且与 N1_1 确定的州名一致。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体，足以支撑事实。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "Which major U.S. city is near Palm Springs, Florida?",
+          "answer": "West Palm Beach",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "major U.S. city near Palm Springs, Florida",
+          "planner_rationale": "Q 的核心问题是询问 Palm Springs 邻近的主要美国城市。在确认了 Palm Springs 的具体位置（州、县）后，才能准确回答此问题",
+          "solver_judgment": "question 要求找出靠近佛罗里达州 Palm Springs 的主要美国城市。search_query 搜索了 'major U.S. city near Palm Springs, Florida'。chunks 返回了关于 Palm Springs, Florida 的地理位置信息。chunk_6712a03e-afd6-420e-888b-44a341009343 明确指出 \"Palm Springs is situated between Greenacres, Lake Clarke Shores, Lake Worth, and West Palm Beach\"，列出了其邻近城市。chunk_aa1251cd-5660-4c98-9923-c7fc5effad8b 指出 \"The largest city in Palm Beach County is West Palm Beach\"，确认了 West Palm Beach 是该地区的主要城市。综合来看，West Palm Beach 是符合“主要城市”且“邻近”条件的答案。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk。Chunk 6712a03e 列出 Palm Springs 邻近城市包括 West Palm Beach。Chunk aa1251cd 指出 West Palm Beach 是 Palm Beach County 的最大城市（largest city），符合 'major U.S. city' 的定义。两个独立来源交叉验证了邻近性和主要性。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，交叉验证通过。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_4",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Palm Springs lies in Palm Beach County, the third most populated county in its state. Which major U.S. city is it near?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Palm Springs lies in Palm Beach County, the third most populated county in its state. Which major U.S. city is it near?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子节点已 SOLVED 且 healthy，推理链完整，可聚合最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，N1_1, N1_2, N1_3, N1_4 均已 SOLVED 且证据充分。推理链逻辑自洽：N1_1 确定州为 Florida -> N1_3 验证 Palm Beach County 是该州第三大县 -> N1_2 确认 Palm Springs 位于该郡 -> N1_4 找出邻近主要城市 West Palm Beach。所有子节点答案一致且相互支撑，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据充分，推理链完整，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which state is Palm Beach County located?",
+          "answer": "Florida",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which state is Palm Beach County located?",
+          "planner_rationale": "已确立 Palm Beach County 位于 Florida，证据充分（6个支撑chunk），无需重搜",
+          "solver_judgment": "question 要求确认 Palm Beach County 所在的州。search_query 直接搜索了 'In which state is Palm Beach County located?'。chunks 返回了多个明确提及 Palm Beach County 位于 Florida 的片段。例如，chunk aa1251cd-5660-4c98-9923-c7fc5effad8b 明确指出 'Palm Beach County is a county located in the state of Florida'；chunk ec668768-93c1-420e-86f6-03791c549d96 指出 'Palm Beach County is in Florida'；其他多个 chunk 也通过提及 'Palm Beach County, Florida' 佐证了这一事实。检索精准，信息完整且高度一致。",
+          "critic_factual_notes": "6 个支撑 chunk 来自 8 个独立来源（Palm Beach County, Florida; Cloud Lake, Florida; 等）。多个来源明确陈述 'Palm Beach County is located in the state of Florida' 或 'Palm Beach County, Florida'。证据高度一致且直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 6,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is Palm Springs located in Palm Beach County, Florida?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is Palm Springs located in Palm Beach County, Florida?",
+          "planner_rationale": "已确认 Palm Springs 位于 Florida 的 Palm Beach County，排除了加州同名城市的歧义，证据直接具体",
+          "solver_judgment": "question 要求确认 Palm Springs 是否位于佛罗里达州的 Palm Beach County。search_query 直接搜索了该问题。chunks 中的 chunk_6712a03e-afd6-420e-888b-44a341009343 明确记载 \"Palm Springs is in Palm Beach County, Florida, United States.\"，直接肯定了这一事实。检索精准，信息完整，能够直接回答问题。",
+          "critic_factual_notes": "1 个支撑 chunk (6712a03e) 来自 Palm Springs, Florida 文档，明确陈述 'Palm Springs is in Palm Beach County, Florida, United States.'。虽为单来源，但表述直接、具体，且与其他节点信息（N1_1, N1_4）无冲突。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体，足以支撑事实。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the third most populated county in Florida?",
+          "answer": "Palm Beach County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "third most populated county in Florida",
+          "planner_rationale": "已验证 Palm Beach County 是 Florida 人口第三多的县，与 Q 的前提一致，证据充分",
+          "solver_judgment": "question 要求找出佛罗里达州人口第三多的县。search_query 搜索了 'third most populated county in Florida'。chunks 返回了多个关于佛罗里达各县的信息，其中 chunk aa1251cd-5660-4c98-9923-c7fc5effad8b 明确记载 \"Palm Beach County is the third-most populous county in Florida.\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aa1251cd) 来自 Palm Beach County, Florida 文档，明确陈述 'Palm Beach County is the third-most populous county in Florida.'。虽为单来源，但表述直接具体，且与 N1_1 确定的州名一致。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体，足以支撑事实。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "Which major U.S. city is near Palm Springs, Florida?",
+          "answer": "West Palm Beach",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "major U.S. city near Palm Springs, Florida",
+          "planner_rationale": "已找出邻近的主要城市 West Palm Beach，有交叉验证（邻近性+最大城市地位），证据充分",
+          "solver_judgment": "question 要求找出靠近佛罗里达州 Palm Springs 的主要美国城市。search_query 搜索了 'major U.S. city near Palm Springs, Florida'。chunks 返回了关于 Palm Springs, Florida 的地理位置信息。chunk_6712a03e-afd6-420e-888b-44a341009343 明确指出 \"Palm Springs is situated between Greenacres, Lake Clarke Shores, Lake Worth, and West Palm Beach\"，列出了其邻近城市。chunk_aa1251cd-5660-4c98-9923-c7fc5effad8b 指出 \"The largest city in Palm Beach County is West Palm Beach\"，确认了 West Palm Beach 是该地区的主要城市。综合来看，West Palm Beach 是符合“主要城市”且“邻近”条件的答案。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk。Chunk 6712a03e 列出 Palm Springs 邻近城市包括 West Palm Beach。Chunk aa1251cd 指出 West Palm Beach 是 Palm Beach County 的最大城市（largest city），符合 'major U.S. city' 的定义。两个独立来源交叉验证了邻近性和主要性。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，交叉验证通过。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_4",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Palm Springs lies in Palm Beach County, the third most populated county in its state. Which major U.S. city is it near?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Palm Springs lies in Palm Beach County, the third most populated county in its state. Which major U.S. city is it near?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子节点已 SOLVED 且 healthy，推理链完整，可聚合最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，N1_1, N1_2, N1_3, N1_4 均已 SOLVED 且证据充分。推理链逻辑自洽：N1_1 确定州为 Florida -> N1_3 验证 Palm Beach County 是该州第三大县 -> N1_2 确认 Palm Springs 位于该郡 -> N1_4 找出邻近主要城市 West Palm Beach。所有子节点答案一致且相互支撑，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据充分，推理链完整，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which state is Palm Beach County located?",
+          "answer": "Florida",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which state is Palm Beach County located?",
+          "planner_rationale": "已确立 Palm Beach County 位于 Florida，证据充分（6个支撑chunk），无需重搜",
+          "solver_judgment": "question 要求确认 Palm Beach County 所在的州。search_query 直接搜索了 'In which state is Palm Beach County located?'。chunks 返回了多个明确提及 Palm Beach County 位于 Florida 的片段。例如，chunk aa1251cd-5660-4c98-9923-c7fc5effad8b 明确指出 'Palm Beach County is a county located in the state of Florida'；chunk ec668768-93c1-420e-86f6-03791c549d96 指出 'Palm Beach County is in Florida'；其他多个 chunk 也通过提及 'Palm Beach County, Florida' 佐证了这一事实。检索精准，信息完整且高度一致。",
+          "critic_factual_notes": "6 个支撑 chunk 来自 8 个独立来源（Palm Beach County, Florida; Cloud Lake, Florida; 等）。多个来源明确陈述 'Palm Beach County is located in the state of Florida' 或 'Palm Beach County, Florida'。证据高度一致且直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 6,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is Palm Springs located in Palm Beach County, Florida?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is Palm Springs located in Palm Beach County, Florida?",
+          "planner_rationale": "已确认 Palm Springs 位于 Florida 的 Palm Beach County，排除了加州同名城市的歧义，证据直接具体",
+          "solver_judgment": "question 要求确认 Palm Springs 是否位于佛罗里达州的 Palm Beach County。search_query 直接搜索了该问题。chunks 中的 chunk_6712a03e-afd6-420e-888b-44a341009343 明确记载 \"Palm Springs is in Palm Beach County, Florida, United States.\"，直接肯定了这一事实。检索精准，信息完整，能够直接回答问题。",
+          "critic_factual_notes": "1 个支撑 chunk (6712a03e) 来自 Palm Springs, Florida 文档，明确陈述 'Palm Springs is in Palm Beach County, Florida, United States.'。虽为单来源，但表述直接、具体，且与其他节点信息（N1_1, N1_4）无冲突。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体，足以支撑事实。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the third most populated county in Florida?",
+          "answer": "Palm Beach County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "third most populated county in Florida",
+          "planner_rationale": "已验证 Palm Beach County 是 Florida 人口第三多的县，与 Q 的前提一致，证据充分",
+          "solver_judgment": "question 要求找出佛罗里达州人口第三多的县。search_query 搜索了 'third most populated county in Florida'。chunks 返回了多个关于佛罗里达各县的信息，其中 chunk aa1251cd-5660-4c98-9923-c7fc5effad8b 明确记载 \"Palm Beach County is the third-most populous county in Florida.\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aa1251cd) 来自 Palm Beach County, Florida 文档，明确陈述 'Palm Beach County is the third-most populous county in Florida.'。虽为单来源，但表述直接具体，且与 N1_1 确定的州名一致。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体，足以支撑事实。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "Which major U.S. city is near Palm Springs, Florida?",
+          "answer": "West Palm Beach",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "major U.S. city near Palm Springs, Florida",
+          "planner_rationale": "已找出邻近的主要城市 West Palm Beach，有交叉验证（邻近性+最大城市地位），证据充分",
+          "solver_judgment": "question 要求找出靠近佛罗里达州 Palm Springs 的主要美国城市。search_query 搜索了 'major U.S. city near Palm Springs, Florida'。chunks 返回了关于 Palm Springs, Florida 的地理位置信息。chunk_6712a03e-afd6-420e-888b-44a341009343 明确指出 \"Palm Springs is situated between Greenacres, Lake Clarke Shores, Lake Worth, and West Palm Beach\"，列出了其邻近城市。chunk_aa1251cd-5660-4c98-9923-c7fc5effad8b 指出 \"The largest city in Palm Beach County is West Palm Beach\"，确认了 West Palm Beach 是该地区的主要城市。综合来看，West Palm Beach 是符合“主要城市”且“邻近”条件的答案。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk。Chunk 6712a03e 列出 Palm Springs 邻近城市包括 West Palm Beach。Chunk aa1251cd 指出 West Palm Beach 是 Palm Beach County 的最大城市（largest city），符合 'major U.S. city' 的定义。两个独立来源交叉验证了邻近性和主要性。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，交叉验证通过。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_4",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "In which state is Palm Beach County located?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "aa1251cd-5660-4c98-9923-c7fc5effad8b",
+        "ec668768-93c1-420e-86f6-03791c549d96",
+        "5e3b55b9-a63e-41b1-86b8-8df090a3f622",
+        "a72b483b-ef1f-4b03-a51b-6a2e9a9a4cda",
+        "0e414440-f240-405e-bc56-3c15e3c80d82",
+        "fa7abcc9-e792-4e32-b9a0-63dcb4456c79",
+        "6712a03e-afd6-420e-888b-44a341009343",
+        "f9f0769a-86ae-479f-9a2b-916b9e714ccc"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Is Palm Springs located in Palm Beach County, Florida?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6712a03e-afd6-420e-888b-44a341009343",
+        "ec668768-93c1-420e-86f6-03791c549d96",
+        "5e3b55b9-a63e-41b1-86b8-8df090a3f622",
+        "aa1251cd-5660-4c98-9923-c7fc5effad8b",
+        "a72b483b-ef1f-4b03-a51b-6a2e9a9a4cda",
+        "f9f0769a-86ae-479f-9a2b-916b9e714ccc",
+        "55cf45e1-57af-40d1-bea8-0c10fb774302",
+        "0e414440-f240-405e-bc56-3c15e3c80d82"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "third most populated county in Florida",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "aa1251cd-5660-4c98-9923-c7fc5effad8b",
+        "6b048c57-9940-460c-a42e-f99ecaeafef3",
+        "6a762917-b9a7-4c6f-aa62-c5bbfc259780",
+        "ec668768-93c1-420e-86f6-03791c549d96",
+        "c43ef525-136f-4fde-a0dd-2138eaad7e26",
+        "78ba0ac7-f389-4b62-9740-bdb1be145f2d",
+        "a72b483b-ef1f-4b03-a51b-6a2e9a9a4cda",
+        "f9f0769a-86ae-479f-9a2b-916b9e714ccc"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "major U.S. city near Palm Springs, Florida",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6712a03e-afd6-420e-888b-44a341009343",
+        "55cf45e1-57af-40d1-bea8-0c10fb774302",
+        "905920c1-3b0a-4400-8fd4-02fa93bf1418",
+        "ec668768-93c1-420e-86f6-03791c549d96",
+        "aa1251cd-5660-4c98-9923-c7fc5effad8b",
+        "5e3b55b9-a63e-41b1-86b8-8df090a3f622",
+        "a72b483b-ef1f-4b03-a51b-6a2e9a9a4cda",
+        "f9f0769a-86ae-479f-9a2b-916b9e714ccc"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: In which state is Palm Beach County located?（理由：Q 中提到 'its state'，需先确定州名以缩小搜索范围），F2: Is Palm Springs located in Palm Beach County, Florida?（理由：验证 Q 的前提条件，排除加州 Palm Springs 的干扰），F3: What is the third most populated county in Florida?（理由：验证 Q 中关于人口排名的描述，确保地理定位准确），F4: Which major U.S. city is near Palm Springs, Florida?（理由：Q 的核心询问——在确认具体位置后，找出邻近的主要城市）。关系: F1 是 F3 的前置条件（dependency——F3 的搜索需要知道州名），F2 是 F4 的前置条件（dependency——F4 的搜索需要确认是佛罗里达的 Palm Springs），F1, F2, F3, F4 均为 Q 的分解产物（decomp",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1→N1_3 和 N1_2→N1_4 依赖有效）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 首轮无历史对比，但结构稳定。置信度高，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Palm Beach County 所在的州（Florida），F2: Palm Springs 是否位于该州的 Palm Beach County（是，排除加州歧义），F3: 该州人口第三多的县是否为 Palm Beach County（是，验证前提），F4: 该 Palm Springs 邻近的主要美国城市（West Palm Beach）。关系: F1 是 F3 的前置依赖（确定州名以验证排名），F2 是 F4 的前置依赖（确定具体地理位置以查找邻近城市），F1-F4 均为 Q 的直接分解产物。当前 DAG 已完整覆盖所有事实，且所有节点均 SOLVED + healthy，推理链闭合。",
+      "hypothesis_delta": "本轮无结构变更——所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2, N0→N1_3, N0→N1_4, N1_1→N1_3, N1_2→N1_4）均通过 LINK 显式声明保留。原因：Critic 审查确认所有子节点证据充分、健康状态良好，推理链逻辑自洽且无矛盾。Q 的所有语义需求已被覆盖，无缺口或冗余，无需新增、删除或重标节点。上一轮遗漏了显式声明保留边的步骤，本轮已修正。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1→N1_3 和 N1_2→N1_4 依赖有效）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续两轮无变化。DAG 已完整覆盖 Q 的语义，证据充分且一致，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Palm Beach County 所在的州（Florida），F2: Palm Springs 是否位于该州的 Palm Beach County（是，排除加州歧义），F3: 该州人口第三多的县是否为 Palm Beach County（是，验证前提），F4: 该 Palm Springs 邻近的主要美国城市（West Palm Beach）。关系: F1 是 F3 的前置依赖（确定州名以验证排名），F2 是 F4 的前置依赖（确定具体地理位置以查找邻近城市），F1-F4 均为 Q 的直接分解产物。当前 DAG 已完整覆盖所有事实，且所有节点均 SOLVED + healthy，推理链闭合。",
+      "hypothesis_delta": "本轮无结构变更——所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2, N0→N1_3, N0→N1_4, N1_1→N1_3, N1_2→N1_4）均通过 LINK 显式声明保留。原因：Critic 审查确认所有子节点证据充分、健康状态良好，推理链逻辑自洽且无矛盾。Q 的所有语义需求已被覆盖，无缺口或冗余，无需新增、删除或重标节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1→N1_3 和 N1_2→N1_4 依赖有效）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续稳定。置信度高，可生成最终答案。"
+      }
+    }
+  ]
+}

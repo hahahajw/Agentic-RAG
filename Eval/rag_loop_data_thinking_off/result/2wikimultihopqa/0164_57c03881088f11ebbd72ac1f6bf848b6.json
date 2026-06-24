@@ -1,0 +1,1158 @@
+{
+  "question_index": 164,
+  "question_id": "57c03881088f11ebbd72ac1f6bf848b6",
+  "question": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+  "answer": "The Girl In 419",
+  "prediction": "CANNOT_ANSWER",
+  "error": null,
+  "latency_ms": 364989.9210000294,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T18:14:21.288665+00:00",
+  "chunks": [
+    {
+      "chunk_id": "29636b07-81c4-42fe-84dd-1ecc30792046",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1933 film \"The Girl in 419,\" including its genre, directors, writers, cast, release date, and production studio.",
+      "context_title": "The Girl in 419",
+      "page_content": "The Girl in 419 stars William Harrigan. The Girl in 419 was written by Allen Rivkin. The Girl in 419 stars James Dunn. The Girl in 419 stars Jack La Rue. The Girl in 419 was directed by George Somnes. The Girl in 419 was written by Manuel Seff. The Girl in 419 was directed by Alexander Hall. The Girl in 419 was written by P.J. Wolfson. The Girl in 419 was released on May 26, 1933. The Girl in 419 is a 1933 American pre-Code drama film. The Girl in 419 stars Shirley Grey. The Girl in 419 was released by Paramount Pictures. The Girl in 419 stars Gloria Stuart. The Girl in 419 stars David Manners."
+    },
+    {
+      "chunk_id": "cde9df3a-9259-4eec-a743-a37d8a5211af",
+      "chunk_title": "Films",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, directors, and cast members.",
+      "context_title": "Girl in Room 13",
+      "page_content": "Girl in Room 13 stars Brian Donlevy. Girl in Room 13 was directed by Richard Cunha. Girl in Room 13 is a 1960 American film."
+    },
+    {
+      "chunk_id": "3c958056-41ff-4b96-8df2-38b01a98a8c8",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, and directors.",
+      "context_title": "The Girl in the Sneakers",
+      "page_content": "The Girl in the Sneakers is a 1999 Iranian drama film. The Girl in the Sneakers was directed by Rasul Sadr Ameli."
+    },
+    {
+      "chunk_id": "3bcb26b9-a7d6-4371-9ef8-eacd12e9b584",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+      "context_title": "La ragazzola",
+      "page_content": "La ragazzola is a 1965 Italian film. La ragazzola was directed by Giuseppe Orlandini."
+    },
+    {
+      "chunk_id": "8a54cb47-3358-4d2b-aead-d075fce6af66",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, alternative names, and directors.",
+      "context_title": "Insaciable",
+      "page_content": "Insaciable is also known as The Insatiable Widow. Insaciable was directed by Armando Bo. Insaciable is a 1976 Argentine erotic drama film."
+    },
+    {
+      "chunk_id": "279e56e5-6062-4067-8b8d-aac1e6f2dce5",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, countries of origin, directors, and relationships to other films with similar titles.",
+      "context_title": "The Time, the Place and the Girl (1946 film)",
+      "page_content": "The Time, the Place and the Girl was directed by David Butler. The 1946 film The Time, the Place and the Girl is unrelated to the 1929 film The Time, the Place and the Girl. The Time, the Place and the Girl is a 1946 American musical film."
+    },
+    {
+      "chunk_id": "31da6056-fe6d-433e-b962-221270600c0f",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, countries of origin, directors, and relationships to other films with similar titles.",
+      "context_title": "The Time, the Place and the Girl (1946 film)",
+      "page_content": "The Time, the Place and the Girl is a 1946 American musical film. The 1946 film The Time, the Place and the Girl is unrelated to the 1929 film The Time, the Place and the Girl. The Time, the Place and the Girl was directed by David Butler."
+    },
+    {
+      "chunk_id": "62244668-603c-440c-9033-4c1d66d03c89",
+      "chunk_title": "Film Adaptations",
+      "chunk_summary": "This chunk contains information about film adaptations of book series, specifically listing the Swedish \"Millennium\" trilogy.",
+      "context_title": "Noomi Rapace",
+      "page_content": "The Swedish film adaptations of the \"Millennium\" series include \"The Girl with the Dragon Tattoo\", \"The Girl Who Played with Fire\", and \"The Girl Who Kicked the Hornets' Nest\"."
+    },
+    {
+      "chunk_id": "db552249-a4d2-474c-aef8-9c26479b6299",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of various films.",
+      "context_title": "Dunked in the Deep",
+      "page_content": "Dunked in the Deep was directed by Jules White."
+    },
+    {
+      "chunk_id": "0bd2cdc9-f3ca-40ed-9007-a3420bd66cf8",
+      "chunk_title": "Three Stooges Shorts",
+      "chunk_summary": "This chunk contains information about short subject films, specifically focusing on The Three Stooges series produced by Columbia Pictures, including titles, release years, and production details.",
+      "context_title": "Dunked in the Deep",
+      "page_content": "Dunked in the Deep is a 1949 short subject. Dunked in the Deep stars the American slapstick comedy team The Three Stooges. Dunked in the Deep is the 119th entry in the series released by Columbia Pictures starring The Three Stooges. Columbia Pictures released 190 shorts starring The Three Stooges between 1934 and 1959."
+    },
+    {
+      "chunk_id": "d7519b60-29e2-4e41-ac4e-6acd525e756c",
+      "chunk_title": "Film Cast",
+      "chunk_summary": "This chunk contains information about the cast of films, specifically listing actors who star in particular movies.",
+      "context_title": "Jerzy Skolimowski",
+      "page_content": "The film \"Deep End\" stars John Moulder Brown. The film \"Deep End\" stars Jane Asher."
+    },
+    {
+      "chunk_id": "aa7077da-87d0-4771-a393-67ff7f9876ed",
+      "chunk_title": "Films & Production",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, directors, starring actors, and source material.",
+      "context_title": "Weekend at Dunkirk",
+      "page_content": "Weekend at Dunkirk is a 1964 drama film. Weekend at Dunkirk is based on the novel Weekend at Zuydcoote. Weekend at Dunkirk was directed by Henri Verneuil. Weekend at Dunkirk stars Jean-Paul Belmondo."
+    },
+    {
+      "chunk_id": "410fa04d-2c3e-4a53-81ab-13f6aa4f082a",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of films.",
+      "context_title": "Jerzy Skolimowski",
+      "page_content": "The film \"Deep End\" was released in 1970."
+    },
+    {
+      "chunk_id": "8ed837be-b3d3-416f-8270-0b8ece4930be",
+      "chunk_title": "Film & Acting Roles",
+      "chunk_summary": "This chunk contains information about Kim Kardashian's film appearances and acting roles, including specific titles and years.",
+      "context_title": "Kim Kardashian",
+      "page_content": "Kim Kardashian appeared in the film \"Deep in the Valley\" in 2009. Kim Kardashian appeared in a film in 2013. Kim Kardashian appeared in the film \"Disaster Movie\" in 2008."
+    },
+    {
+      "chunk_id": "215c5e5e-05eb-487a-9ed4-ff5f36f45900",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of various films.",
+      "context_title": "Dark Purpose",
+      "page_content": "Dark Purpose was directed by George Marshall."
+    },
+    {
+      "chunk_id": "3b652d00-bfbf-47d2-9979-f39d384ed01c",
+      "chunk_title": "Miss Seventeen Show Details",
+      "chunk_summary": "This chunk contains information about the reality television show Miss Seventeen, including its network, air dates, competition format, prizes, key personnel, contestant selection criteria, and production details.",
+      "context_title": "Miss Seventeen",
+      "page_content": "Atoosa Rubenstein watched the girls of Miss Seventeen with their guards down to see their real motivations and dreams. Miss Seventeen aired from October 17, 2005 to December 19, 2005. Based on the conversation in the first episode of Miss Seventeen, Atoosa Rubenstein eliminated 7 of the girls from the contest. The girls of Miss Seventeen were given tasks to be done by Atoosa Rubenstein. Atoosa Rubenstein was the main judge of Miss Seventeen. The girls of Miss Seventeen took part in a contest similar in format to The Apprentice. The TV screen in Miss Seventeen displayed the names of the girls staying in the house in cursive form. In the first episode of Miss Seventeen, the 17 girls had to describe in brief who they were and what they hoped to get out of the experience. The format of Miss Seventeen differed from other shows in how the contestants found out who was eliminated. Miss Seventeen is a reality television show on MTV. The winner of Miss Seventeen would be offered an internship job on Seventeen magazine. The girls of Miss Seventeen generally found out who was eliminated by sitting around a TV while Atoosa Rubenstein told them the results of the tasks. The eliminated girl in Miss Seventeen met with Atoosa Rubenstein to hear her reasoning for the elimination. The girl whose name did not appear on 'The List' in Miss Seventeen was eliminated. Miss Seventeen consisted of 17 young women competing for an internship at Seventeen magazine. In each episode of Miss Seventeen, one of the girls was eliminated from the competition. The winner of Miss Seventeen would get a college scholarship. The 17 girls were picked to provide a role model for young women. In one elimination of Miss Seventeen, Atoosa Rubenstein explained to a girl that she did not feel the girl was in the contest for the right reasons. The 17 girls picked for Miss Seventeen were photogenic. Brianne Burrowes voluntarily left Miss Seventeen in an early episode of the series. Video clips shown to viewers of Miss Seventeen showed a girl talking to her roommates about being more interested in the face-time she would get for being part of an MTV show. In the first episode of Miss Seventeen, all 17 girls sat around a dinner table with Atoosa Rubenstein. The criteria for elimination in Miss Seventeen included performing poorly. Miss Seventeen consisted of 17 young women competing for a college scholarship. The producers of Miss Seventeen picked 17 girls from around the United States. The 17 girls picked for Miss Seventeen had been at the top of their class. The format of Miss Seventeen differed from other shows in the first elimination round. The girls of Miss Seventeen were flown to New York. In the final episode of Miss Seventeen, Jennifer Steele was declared the winner. The winner of Miss Seventeen would get her face on the cover of Seventeen magazine. Atoosa Rubenstein watched how the girls of Miss Seventeen talked when no one else was in the room via cameras set up around the house."
+    },
+    {
+      "chunk_id": "60090dbb-d456-405b-aaf6-f2671ef7cbf2",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, countries of origin, directors, and relationships to other films with similar titles.",
+      "context_title": "The Time, the Place and the Girl (1946 film)",
+      "page_content": "The Time, the Place and the Girl is a 1946 American musical film. The 1946 film The Time, the Place and the Girl is unrelated to the 1929 film The Time, the Place and the Girl. The Time, the Place and the Girl was directed by David Butler."
+    },
+    {
+      "chunk_id": "ff4bff21-780e-4050-adc0-fc7cd8f6104c",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, countries of origin, directors, and relationships to other films with similar titles.",
+      "context_title": "The Time, the Place and the Girl (1946 film)",
+      "page_content": "The 1946 film The Time, the Place and the Girl is unrelated to the 1929 film The Time, the Place and the Girl. The Time, the Place and the Girl is a 1946 American musical film. The Time, the Place and the Girl was directed by David Butler."
+    },
+    {
+      "chunk_id": "8e3aa3e9-0dcd-4996-8852-c9f7a5c97eb8",
+      "chunk_title": "Identities & Birth Names",
+      "chunk_summary": "This chunk contains information about the birth names and identities of individuals.",
+      "context_title": "Jules White",
+      "page_content": "Jules White was born Julius Weiss."
+    },
+    {
+      "chunk_id": "76258135-cc73-4a4f-a6e8-f9bd36faabd3",
+      "chunk_title": "Jules White Biography",
+      "chunk_summary": "This chunk contains biographical details about Jules White, including his birthplace, nationality, and professional roles as a film director and producer known for The Three Stooges.",
+      "context_title": "Jules White",
+      "page_content": "Jules White was an American film producer. Jules White was Hungarian-born. Jules White was an American film director. Jules White is best known for his short-subject comedies starring The Three Stooges."
+    },
+    {
+      "chunk_id": "b9b8638e-0649-4517-9051-8ce2e38dce87",
+      "chunk_title": "Identities & Birth Names",
+      "chunk_summary": "This chunk contains information about the birth names and identities of individuals.",
+      "context_title": "Jules White",
+      "page_content": "Jules White was born Julius Weiss."
+    },
+    {
+      "chunk_id": "cb092052-fde7-4fad-bc8e-621af038b1cf",
+      "chunk_title": "Jules White Biography",
+      "chunk_summary": "This chunk contains biographical information about Jules White, including his nationality, profession as a film director and producer, and his notable work with The Three Stooges.",
+      "context_title": "Jules White",
+      "page_content": "Jules White was an American film producer. Jules White is best known for his short-subject comedies starring The Three Stooges. Jules White was an American film director. Jules White was Hungarian-born."
+    },
+    {
+      "chunk_id": "87224628-fc55-405f-90e6-22dc4f4dbacc",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Jules White",
+      "page_content": "Jules White was born on 17 September 1900."
+    },
+    {
+      "chunk_id": "30883335-43cf-45ee-957b-9593b0b3ec3d",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date of death for Jules White.",
+      "context_title": "Jules White",
+      "page_content": "Jules White died on 30 April 1985."
+    },
+    {
+      "chunk_id": "b54a2677-2d36-493d-97d2-0826877cb329",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Jules White",
+      "page_content": "Jules White was born on 17 September 1900."
+    },
+    {
+      "chunk_id": "8fc6b935-a59a-4ab7-a0cf-5592d7c13a94",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date of death for individuals.",
+      "context_title": "Jules White",
+      "page_content": "Jules White died on 30 April 1985."
+    },
+    {
+      "chunk_id": "bd235dc6-b5ab-424d-ad4e-49f69696d5ee",
+      "chunk_title": "Antony Armstrong-Jones Biography",
+      "chunk_summary": "This chunk contains biographical details about Antony Charles Robert Armstrong-Jones, including his titles, birth date, professions, and family relations.",
+      "context_title": "Antony Armstrong-Jones, 1st Earl of Snowdon",
+      "page_content": "Antony Charles Robert Armstrong-Jones was the husband of Princess Margaret. Antony Charles Robert Armstrong-Jones was a British photographer. Antony Charles Robert Armstrong-Jones was born on 7 March 1930. Antony Charles Robert Armstrong-Jones was commonly known as Lord Snowdon. Antony Charles Robert Armstrong-Jones was the 1st Earl of Snowdon. Antony Charles Robert Armstrong-Jones was the brother-in-law of Queen Elizabeth II. Antony Charles Robert Armstrong-Jones was a British filmmaker."
+    },
+    {
+      "chunk_id": "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals, including cases where these dates are unknown.",
+      "context_title": "Brian Saunders (weightlifter)",
+      "page_content": "Brian Saunders's date of birth is unknown. Brian Saunders's date of death is unknown."
+    },
+    {
+      "chunk_id": "3fccc300-09c6-45ce-840a-8cf5ddea6999",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Leon Ames",
+      "page_content": "Leon Ames was born on January 20, 1902. Leon Ames died on October 12, 1993."
+    },
+    {
+      "chunk_id": "92b4b831-ba04-4eda-83e6-61219a3e711c",
+      "chunk_title": "Male Weightlifter Biographies",
+      "chunk_summary": "This chunk contains biographical details about male weightlifters, including their names and birth dates.",
+      "context_title": "Brian Saunders (weightlifter)",
+      "page_content": "Brian Saunders was a male weightlifter. Brian Saunders's date of birth is unknown."
+    },
+    {
+      "chunk_id": "e9e15514-23cd-4d8e-8ccb-c1e558d7fab4",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Suman Ghosh (director)",
+      "page_content": "Suman Ghosh was born in 1972."
+    },
+    {
+      "chunk_id": "393aab06-b8a4-46c0-9736-e276fc1e0ab0",
+      "chunk_title": "Christopher Monck Biography",
+      "chunk_summary": "This chunk contains biographical information about Christopher Monck, 2nd Duke of Albemarle, including his titles, professions, political service, and birth and death dates.",
+      "context_title": "Christopher Monck, 2nd Duke of Albemarle",
+      "page_content": "Christopher Monck was born on 14 August 1653. Christopher Monck was an English politician. Christopher Monck inherited the Dukedom in 1670. Christopher Monck died on 6 October 1688. Christopher Monck was the 2nd Duke of Albemarle. Christopher Monck sat in the House of Lords after inheriting the Dukedom. Christopher Monck was an English soldier. Christopher Monck sat in the House of Commons from 1667 to 1670."
+    },
+    {
+      "chunk_id": "a81e3a63-fcd5-494d-93fe-88d35a8c5636",
+      "chunk_title": "Moffat Sinkala Biography",
+      "chunk_summary": "This chunk contains biographical information about the Zambian footballer Moffat Sinkala, including his Olympic participation and life dates.",
+      "context_title": "Moffat Sinkala",
+      "page_content": "Moffat Sinkala's date of birth is unknown. Moffat Sinkala was a Zambian footballer. Moffat Sinkala died in June 2004. Moffat Sinkala competed in the men's tournament at the 1980 Summer Olympics."
+    },
+    {
+      "chunk_id": "9f8cd9d8-dcdc-49e2-939e-c576d714e408",
+      "chunk_title": "Performing Arts Careers",
+      "chunk_summary": "This chunk contains information about the professional roles and careers of individuals in the performing arts.",
+      "context_title": "Alexander Hall",
+      "page_content": "Alexander Hall was a theatre actor."
+    },
+    {
+      "chunk_id": "c2c571e1-f26f-4afb-93c3-b0cc19ba706c",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date of death for specific individuals.",
+      "context_title": "Alexander Hall",
+      "page_content": "Alexander Hall died on July 30, 1968."
+    },
+    {
+      "chunk_id": "6629ed0a-3b16-47b1-ac46-fbfeb6892670",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Alexander Hall",
+      "page_content": "Alexander Hall was born on January 11, 1894."
+    },
+    {
+      "chunk_id": "a34a4cdc-feb8-4969-a25d-ba34db536cc4",
+      "chunk_title": "Performing Arts Careers",
+      "chunk_summary": "This chunk contains information about the professional roles and careers of individuals in the performing arts.",
+      "context_title": "Alexander Hall",
+      "page_content": "Alexander Hall was a theatre actor."
+    },
+    {
+      "chunk_id": "999a6d6b-8a4a-4a2d-9d22-2ea0e6ab536d",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date and time of Alexander Hall's death.",
+      "context_title": "Alexander Hall",
+      "page_content": "Alexander Hall died on July 30, 1968."
+    },
+    {
+      "chunk_id": "4188af18-d340-4e4d-b02c-4b4712d854e3",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Alexander Hall",
+      "page_content": "Alexander Hall was born on January 11, 1894."
+    },
+    {
+      "chunk_id": "ba5ba00e-35ed-49fe-ab65-5e03b4af2ed3",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the professional background and identity of film directors.",
+      "context_title": "Alexander Hall",
+      "page_content": "Alexander Hall was an American film director."
+    },
+    {
+      "chunk_id": "47804ddd-9340-4a63-a31e-321a51be4f30",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the professional background and identity of film directors.",
+      "context_title": "Alexander Hall",
+      "page_content": "Alexander Hall was an American film director."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.4634146341463415,
+  "retrieval_count": 9,
+  "total_chunks": 41,
+  "total_distinct_titles": 21,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 6,
+  "dag_edges": 5,
+  "dag_snapshots": [
+    {
+      "q": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两部电影的导演及其出生年份以进行比较",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未得出最终结论。其子节点 N1_3 处于 unsolved 状态，导致无法完成比较推理。当前依赖的子事实中：N1_1 (The Girl In 419 导演) 已确认为 George Somnes 和 Alexander Hall；N1_2 (Dunked In The Deep 导演) 已确认为 Jules White；N1_4 (Jules White 生日) 已确认为 17 September 1900。缺失关键事实：George Somnes 和 Alexander Hall 的出生日期。",
+          "critic_normative_advice": "建议等待 N1_3 解决或调整策略。由于 N1_3 搜索失败，需审查 N1_3 的搜索策略或考虑拆分节点分别查询两位导演的生日。目前 ROOT 无法生成答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'The Girl In 419'?",
+          "answer": "George Somnes and Alexander Hall",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'The Girl In 419'?",
+          "planner_rationale": "Q 要求比较两部电影的导演出生时间，首先需要确定《The Girl In 419》的导演是谁",
+          "solver_judgment": "question 要求找出电影 'The Girl In 419' 的导演。search_query 直接搜索了该电影的导演信息。chunks 中的 chunk 29636b07-81c4-42fe-84dd-1ecc30792046 明确记载 \"The Girl in 419 was directed by George Somnes\" 和 \"The Girl in 419 was directed by Alexander Hall\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'The Girl in 419'）直接陈述了答案。Chunk 29636b07... 明确记载 'The Girl in 419 was directed by George Somnes' 和 'The Girl in 419 was directed by Alexander Hall'。单来源但内容具体、直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'Dunked In The Deep'?",
+          "answer": "Jules White",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Dunked In The Deep'?",
+          "planner_rationale": "Q 要求比较两部电影的导演出生时间，首先需要确定《Dunked In The Deep》的导演是谁",
+          "solver_judgment": "question 要求找出电影 'Dunked In The Deep' 的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk db552249-a4d2-474c-aef8-9c26479b6299 明确记载 \"Dunked in the Deep was directed by Jules White\"，直接提供了答案。其他 chunks 涉及其他电影（如 Deep End, Weekend at Dunkirk）或仅提供该电影的年份和主演信息，未包含导演信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Dunked in the Deep'）直接陈述了答案。Chunk db552249... 明确记载 'Dunked in the Deep was directed by Jules White'。单来源但内容具体、直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of 'The Girl In 419' born?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Who is the director of 'The Girl In 419' and when were they born?",
+          "planner_rationale": "为了比较谁出生更早，需要获取《The Girl In 419》导演的具体出生日期",
+          "solver_judgment": "question 要求提供电影《The Girl In 419》导演的出生日期。search_query 搜索了该电影的导演及其出生时间。chunks 中的 chunk_29636b07-81c4-42fe-84dd-1ecc30792046 明确指出《The Girl in 419》由 George Somnes 和 Alexander Hall 联合执导。然而，所有提供的 chunks 中均未包含 George Somnes 或 Alexander Hall 的出生年份或日期信息。其他 chunks 涉及的是《Miss Seventeen》、《Girl in Room 13》、《The Time, the Place and the Girl》和《The Girl in the Sneakers》等无关影片。因此，虽然找到了导演名字，但缺失关键的出生日期信息，无法回答问题。",
+          "critic_factual_notes": "搜索未返回包含目标事实（导演出生日期）的结果。虽然 N1_1 确定了导演为 George Somnes 和 Alexander Hall，但针对这两人的生日搜索（Query: 'Who is the director of 'The Girl In 419' and when were they born?'）返回的 chunks 均不包含出生年份信息。Solver 正确识别了缺失，但节点状态为 unsolved，无答案产出。",
+          "critic_normative_advice": "建议拆分并重搜——当前查询可能过于宽泛或未命中 KB 中的人名实体索引。建议将 N1_3 拆分为两个独立节点：'When was George Somnes born?' 和 'When was Alexander Hall born?'，利用 N1_1 已提取的具体人名进行精确搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of 'Dunked In The Deep' born?",
+          "answer": "17 September 1900",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Jules White birth date",
+          "planner_rationale": "为了比较谁出生更早，需要获取《Dunked In The Deep》导演的具体出生日期",
+          "solver_judgment": "question 要求找出电影 'Dunked In The Deep' 导演的出生日期。search_query 直接搜索了 'Jules White birth date'，隐含前提是 Jules White 为该电影导演。chunks 返回了关于 Jules White 的多条信息，其中 chunk 87224628-fc55-405f-90e6-22dc4f4dbacc 和 b54a2677-2d36-493d-97d2-0826877cb329 明确记载 \"Jules White was born on 17 September 1900\"。虽然 chunks 未显式确认 Jules White 是 'Dunked In The Deep' 的导演，但检索结果高度聚焦于 Jules White 的生平，且提供了明确的出生日期，足以回答基于该前提的问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个来源（均为文档 'Jules White'，不同 chunk ID）一致陈述了答案。Chunk 87224628... 和 b54a2677... 均记载 'Jules White was born on 17 September 1900'。虽为同一文档来源，但多 chunk 交叉验证且内容完全一致，可信度高。注意：N1_2 已确立 Jules White 为导演，此处依赖成立。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两部电影的导演及其出生年份以进行比较",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1, N1_2, N1_4, N2_1, N2_2 的推理链。当前 N2_1 (George Somnes 生日) 处于 unsolved 状态，导致无法完成最终比较。其他子节点证据充分：N1_1 (The Girl In 419 导演: George Somnes, Alexander Hall), N1_2 (Dunked In The Deep 导演: Jules White), N1_4 (Jules White 生日: 17 September 1900), N2_2 (Alexander Hall 生日: January 11, 1894)。缺失关键事实：George Somnes 的出生日期。",
+          "critic_normative_advice": "建议等待 N2_1 解决。由于 N2_1 搜索未返回有效结果，需审查 N2_1 的搜索策略或考虑 KB 中可能缺乏该信息。若 N2_1 持续失败，需评估是否可基于现有信息（仅 Alexander Hall 和 Jules White）做出部分推断，或标记为不可解。目前 ROOT 无法生成完整答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'The Girl In 419'?",
+          "answer": "George Somnes and Alexander Hall",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'The Girl In 419'?",
+          "planner_rationale": "已确立《The Girl In 419》的导演为 George Somnes 和 Alexander Hall，证据充分",
+          "solver_judgment": "question 要求找出电影 'The Girl In 419' 的导演。search_query 直接搜索了该电影的导演信息。chunks 中的 chunk 29636b07-81c4-42fe-84dd-1ecc30792046 明确记载 \"The Girl in 419 was directed by George Somnes\" 和 \"The Girl in 419 was directed by Alexander Hall\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'The Girl in 419'）直接陈述了答案。Chunk 29636b07... 明确记载 'The Girl in 419 was directed by George Somnes' 和 'The Girl in 419 was directed by Alexander Hall'。单来源但内容具体、直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'Dunked In The Deep'?",
+          "answer": "Jules White",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Dunked In The Deep'?",
+          "planner_rationale": "已确立《Dunked In The Deep》的导演为 Jules White，证据充分",
+          "solver_judgment": "question 要求找出电影 'Dunked In The Deep' 的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk db552249-a4d2-474c-aef8-9c26479b6299 明确记载 \"Dunked in the Deep was directed by Jules White\"，直接提供了答案。其他 chunks 涉及其他电影（如 Deep End, Weekend at Dunkirk）或仅提供该电影的年份和主演信息，未包含导演信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Dunked in the Deep'）直接陈述了答案。Chunk db552249... 明确记载 'Dunked in the Deep was directed by Jules White'。单来源但内容具体、直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of 'Dunked In The Deep' born?",
+          "answer": "17 September 1900",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Jules White birth date",
+          "planner_rationale": "已确立 Jules White 的出生日期为 17 September 1900，证据充分",
+          "solver_judgment": "question 要求找出电影 'Dunked In The Deep' 导演的出生日期。search_query 直接搜索了 'Jules White birth date'，隐含前提是 Jules White 为该电影导演。chunks 返回了关于 Jules White 的多条信息，其中 chunk 87224628-fc55-405f-90e6-22dc4f4dbacc 和 b54a2677-2d36-493d-97d2-0826877cb329 明确记载 \"Jules White was born on 17 September 1900\"。虽然 chunks 未显式确认 Jules White 是 'Dunked In The Deep' 的导演，但检索结果高度聚焦于 Jules White 的生平，且提供了明确的出生日期，足以回答基于该前提的问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个来源（均为文档 'Jules White'，不同 chunk ID）一致陈述了答案。Chunk 87224628... 和 b54a2677... 均记载 'Jules White was born on 17 September 1900'。虽为同一文档来源，但多 chunk 交叉验证且内容完全一致，可信度高。依赖 N1_2 确立 Jules White 为导演，逻辑成立。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "When was George Somnes born?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "George Somnes birth date",
+          "planner_rationale": "N1_3 因同时查询两位导演生日而失败。根据 Critic 建议，需拆分为独立节点，首先查询 George Somnes 的出生日期",
+          "solver_judgment": "question 要求提供 George Somnes 的出生日期。search_query 搜索了 'George Somnes birth date'。chunks 中，chunk 29636b07-81c4-42fe-84dd-1ecc30792046 提到了 George Somnes，但仅指出他是电影《The Girl in 419》的导演之一，并未包含其出生信息。其余 chunks 涉及其他人物（如 Antony Armstrong-Jones, Leon Ames, Brian Saunders 等）的生平或出生日期，与 George Somnes 无关。因此，检索结果中缺乏目标人物的出生日期信息，无法提取答案。",
+          "critic_factual_notes": "搜索未返回有效答案。Chunk 29636b07... 提到 George Somnes 但未包含出生信息。其余 chunks 涉及其他人物（Antony Armstrong-Jones, Leon Ames 等），与 George Somnes 无关。KB 中似乎缺乏 George Somnes 的出生日期记录。",
+          "critic_normative_advice": "建议放弃此方向或标记为 KB 缺失。已尝试精确搜索 'George Somnes birth date' 但无果。若 KB 确实无覆盖，需在 ROOT 层面处理缺失数据（如仅比较已知生日的导演，或声明无法完全回答）。不建议继续重试相同查询。",
+          "round_created": 2,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N2_2": {
+          "id": "N2_2",
+          "question": "When was Alexander Hall born?",
+          "answer": "January 11, 1894",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Alexander Hall birth date",
+          "planner_rationale": "N1_3 因同时查询两位导演生日而失败。根据 Critic 建议，需拆分为独立节点，其次查询 Alexander Hall 的出生日期",
+          "solver_judgment": "question 要求提供 Alexander Hall 的出生日期。search_query 搜索了 'Alexander Hall birth date'。chunks 返回了关于 Alexander Hall 的多条信息，其中 chunk_6629ed0a-3b16-47b1-ac46-fbfeb6892670 和 chunk_4188af18-d340-4e4d-b02c-4b4712d854e3 均明确记载 \"Alexander Hall was born on January 11, 1894\"，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个来源（均为文档 'Alexander Hall'，不同 chunk ID）一致陈述了答案。Chunk 6629ed0a... 和 4188af18... 均记载 'Alexander Hall was born on January 11, 1894'。虽为同一文档来源，但多 chunk 交叉验证且内容完全一致，可信度高。依赖 N1_1 确立 Alexander Hall 为导演，逻辑成立。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 2,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_1",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。当前 DAG 已确立《Dunked In The Deep》导演 Jules White (1900) 和《The Girl In 419》导演之一 Alexander Hall (1894)。另一导演 George Somnes 的生日在 KB 中缺失 (N2_1 blocked)。需基于现有有效数据比较 Hall 与 White，并说明 Somnes 数据缺失对最终结论的影响。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点推理链。当前 N2_1 (George Somnes 生日) 处于 blocked 状态，导致无法完成对《The Girl In 419》所有导演的完整比较。其他子节点证据充分：N1_1 (The Girl In 419 导演: George Somnes, Alexander Hall), N1_2 (Dunked In The Deep 导演: Jules White), N1_4 (Jules White 生日: 17 September 1900), N2_2 (Alexander Hall 生日: January 11, 1894)。缺失关键事实：George Somnes 的出生日期。",
+          "critic_normative_advice": "建议等待 N2_1 解决或标记为不可解。由于 N2_1 搜索未返回有效结果，需评估是否可基于现有信息（仅 Alexander Hall 和 Jules White）做出部分推断，或明确说明 KB 中缺乏 George Somnes 数据导致无法完全确定答案。目前 ROOT 无法生成完整且无歧义的答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'The Girl In 419'?",
+          "answer": "George Somnes and Alexander Hall",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'The Girl In 419'?",
+          "planner_rationale": "已确立《The Girl In 419》的导演为 George Somnes 和 Alexander Hall，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求找出电影 'The Girl In 419' 的导演。search_query 直接搜索了该电影的导演信息。chunks 中的 chunk 29636b07-81c4-42fe-84dd-1ecc30792046 明确记载 \"The Girl in 419 was directed by George Somnes\" 和 \"The Girl in 419 was directed by Alexander Hall\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'The Girl in 419'）直接陈述了答案。Chunk 29636b07... 明确记载 'The Girl in 419 was directed by George Somnes' 和 'The Girl in 419 was directed by Alexander Hall'。单来源但内容具体、直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'Dunked In The Deep'?",
+          "answer": "Jules White",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Dunked In The Deep'?",
+          "planner_rationale": "已确立《Dunked In The Deep》的导演为 Jules White，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求找出电影 'Dunked In The Deep' 的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk db552249-a4d2-474c-aef8-9c26479b6299 明确记载 \"Dunked in the Deep was directed by Jules White\"，直接提供了答案。其他 chunks 涉及其他电影（如 Deep End, Weekend at Dunkirk）或仅提供该电影的年份和主演信息，未包含导演信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Dunked in the Deep'）直接陈述了答案。Chunk db552249... 明确记载 'Dunked in the Deep was directed by Jules White'。单来源但内容具体、直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of 'Dunked In The Deep' born?",
+          "answer": "17 September 1900",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Jules White birth date",
+          "planner_rationale": "已确立 Jules White 的出生日期为 17 September 1900，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求找出电影 'Dunked In The Deep' 导演的出生日期。search_query 直接搜索了 'Jules White birth date'，隐含前提是 Jules White 为该电影导演。chunks 返回了关于 Jules White 的多条信息，其中 chunk 87224628-fc55-405f-90e6-22dc4f4dbacc 和 b54a2677-2d36-493d-97d2-0826877cb329 明确记载 \"Jules White was born on 17 September 1900\"。虽然 chunks 未显式确认 Jules White 是 'Dunked In The Deep' 的导演，但检索结果高度聚焦于 Jules White 的生平，且提供了明确的出生日期，足以回答基于该前提的问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个来源（均为文档 'Jules White'，不同 chunk ID）一致陈述了答案。Chunk 87224628... 和 b54a2677... 均记载 'Jules White was born on 17 September 1900'。虽为同一文档来源，但多 chunk 交叉验证且内容完全一致，可信度高。依赖 N1_2 确立 Jules White 为导演，逻辑成立。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N2_2": {
+          "id": "N2_2",
+          "question": "When was Alexander Hall born?",
+          "answer": "January 11, 1894",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Alexander Hall birth date",
+          "planner_rationale": "已确立 Alexander Hall 的出生日期为 January 11, 1894，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求提供 Alexander Hall 的出生日期。search_query 搜索了 'Alexander Hall birth date'。chunks 返回了关于 Alexander Hall 的多条信息，其中 chunk_6629ed0a-3b16-47b1-ac46-fbfeb6892670 和 chunk_4188af18-d340-4e4d-b02c-4b4712d854e3 均明确记载 \"Alexander Hall was born on January 11, 1894\"，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个来源（均为文档 'Alexander Hall'，不同 chunk ID）一致陈述了答案。Chunk 6629ed0a... 和 4188af18... 均记载 'Alexander Hall was born on January 11, 1894'。虽为同一文档来源，但多 chunk 交叉验证且内容完全一致，可信度高。依赖 N1_1 确立 Alexander Hall 为导演，逻辑成立。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 2,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "When was George Somnes born?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "George Somnes birth date",
+          "planner_rationale": "KB 中缺乏 George Somnes 的出生日期记录 (Critic: blocked/unreliable)。保留此节点以标记该语义缺口，表明 Q 的部分前提无法完全验证。",
+          "solver_judgment": "question 要求提供 George Somnes 的出生日期。search_query 搜索了 'George Somnes birth date'。在返回的 chunks 中，只有 chunk 29636b07-81c4-42fe-84dd-1ecc30792046 提到了 George Somnes，但仅指出他是电影《The Girl in 419》的导演之一（\"The Girl in 419 was directed by George Somnes\"），并未包含其出生年份或日期。其他 chunks 涉及的是 Antony Armstrong-Jones、Brian Saunders、Leon Ames、Suman Ghosh、Christopher Monck 和 Moffat Sinkala 等人的信息，与 George Somnes 无关。因此，检索结果中缺失目标人物的生平日期信息，无法提取答案。",
+          "critic_factual_notes": "搜索未返回有效结果。Chunk 29636b07... 仅提及 George Somnes 为导演，未包含出生日期。其他 chunks 涉及无关人物。KB 中似乎缺乏 George Somnes 的出生日期信息。",
+          "critic_normative_advice": "建议放弃此方向——多次搜索无果，KB 确实无覆盖。标记为已知缺口。",
+          "round_created": 2,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_1",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。当前 DAG 已确立《Dunked In The Deep》导演 Jules White (1900) 和《The Girl In 419》导演之一 Alexander Hall (1894)。另一导演 George Somnes 的生日在 KB 中缺失 (N2_1 blocked)。需基于现有有效数据比较 Hall 与 White，并说明 Somnes 数据缺失对最终结论的影响。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点推理链。当前 N2_1 (George Somnes 生日) 处于 blocked 状态，导致无法完成对《The Girl In 419》所有导演的完整比较。其他子节点证据充分：N1_1 (The Girl In 419 导演: George Somnes, Alexander Hall), N1_2 (Dunked In The Deep 导演: Jules White), N1_4 (Jules White 生日: 17 September 1900), N2_2 (Alexander Hall 生日: January 11, 1894)。缺失关键事实：George Somnes 的出生日期。",
+          "critic_normative_advice": "建议等待 N2_1 解决或标记为不可解。由于 N2_1 搜索未返回有效结果，需评估是否可基于现有信息（仅 Alexander Hall 和 Jules White）做出部分推断，或明确说明 KB 中缺乏 George Somnes 数据导致无法完全确定答案。目前 ROOT 无法生成完整且无歧义的答案。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'The Girl In 419'?",
+          "answer": "George Somnes and Alexander Hall",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'The Girl In 419'?",
+          "planner_rationale": "已确立《The Girl In 419》的导演为 George Somnes 和 Alexander Hall，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求找出电影 'The Girl In 419' 的导演。search_query 直接搜索了该电影的导演信息。chunks 中的 chunk 29636b07-81c4-42fe-84dd-1ecc30792046 明确记载 \"The Girl in 419 was directed by George Somnes\" 和 \"The Girl in 419 was directed by Alexander Hall\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'The Girl in 419'）直接陈述了答案。Chunk 29636b07... 明确记载 'The Girl in 419 was directed by George Somnes' 和 'The Girl in 419 was directed by Alexander Hall'。单来源但内容具体、直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'Dunked In The Deep'?",
+          "answer": "Jules White",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Dunked In The Deep'?",
+          "planner_rationale": "已确立《Dunked In The Deep》的导演为 Jules White，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求找出电影 'Dunked In The Deep' 的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk db552249-a4d2-474c-aef8-9c26479b6299 明确记载 \"Dunked in the Deep was directed by Jules White\"，直接提供了答案。其他 chunks 涉及其他电影（如 Deep End, Weekend at Dunkirk）或仅提供该电影的年份和主演信息，未包含导演信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Dunked in the Deep'）直接陈述了答案。Chunk db552249... 明确记载 'Dunked in the Deep was directed by Jules White'。单来源但内容具体、直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of 'Dunked In The Deep' born?",
+          "answer": "17 September 1900",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Jules White birth date",
+          "planner_rationale": "已确立 Jules White 的出生日期为 17 September 1900，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求找出电影 'Dunked In The Deep' 导演的出生日期。search_query 直接搜索了 'Jules White birth date'，隐含前提是 Jules White 为该电影导演。chunks 返回了关于 Jules White 的多条信息，其中 chunk 87224628-fc55-405f-90e6-22dc4f4dbacc 和 b54a2677-2d36-493d-97d2-0826877cb329 明确记载 \"Jules White was born on 17 September 1900\"。虽然 chunks 未显式确认 Jules White 是 'Dunked In The Deep' 的导演，但检索结果高度聚焦于 Jules White 的生平，且提供了明确的出生日期，足以回答基于该前提的问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个来源（均为文档 'Jules White'，不同 chunk ID）一致陈述了答案。Chunk 87224628... 和 b54a2677... 均记载 'Jules White was born on 17 September 1900'。虽为同一文档来源，但多 chunk 交叉验证且内容完全一致，可信度高。依赖 N1_2 确立 Jules White 为导演，逻辑成立。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "When was George Somnes born?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "George Somnes birth date",
+          "planner_rationale": "KB 中缺乏 George Somnes 的出生日期记录 (Critic: blocked/unreliable)。保留此节点以标记该语义缺口，表明 Q 的部分前提无法完全验证。",
+          "solver_judgment": "question 要求提供 George Somnes 的出生日期。search_query 搜索了 'George Somnes birth date'。在返回的 chunks 中，只有 chunk 29636b07-81c4-42fe-84dd-1ecc30792046 提到了 George Somnes，但仅指出他是电影《The Girl in 419》的导演之一（\"The Girl in 419 was directed by George Somnes\"），并未包含其出生日期的信息。其他 chunks 涉及的是 Antony Armstrong-Jones、Brian Saunders、Leon Ames 等其他人的生平信息，与 George Somnes 无关。因此，检索结果中缺失目标人物的出生日期信息，无法提取答案。",
+          "critic_factual_notes": "无法求解——KB 中缺乏 George Somnes 的出生日期记录。搜索返回的 8 个 chunk 中，仅 1 个提及 George Somnes 但未包含生日，其余 7 个完全无关。多次搜索无果，确认为 KB 覆盖缺口。",
+          "critic_normative_advice": "建议放弃此方向——经过多轮搜索确认 KB 无此数据。保留节点以标记语义缺口，但不再尝试重搜。最终答案需处理此缺失。",
+          "round_created": 2,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N2_2": {
+          "id": "N2_2",
+          "question": "When was Alexander Hall born?",
+          "answer": "January 11, 1894",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Alexander Hall birth date",
+          "planner_rationale": "已确立 Alexander Hall 的出生日期为 January 11, 1894，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求提供 Alexander Hall 的出生日期。search_query 搜索了 'Alexander Hall birth date'。chunks 返回了关于 Alexander Hall 的多条信息，其中 chunk_6629ed0a-3b16-47b1-ac46-fbfeb6892670 和 chunk_4188af18-d340-4e4d-b02c-4b4712d854e3 均明确记载 \"Alexander Hall was born on January 11, 1894\"，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个来源（均为文档 'Alexander Hall'，不同 chunk ID）一致陈述了答案。Chunk 6629ed0a... 和 4188af18... 均记载 'Alexander Hall was born on January 11, 1894'。虽为同一文档来源，但多 chunk 交叉验证且内容完全一致，可信度高。依赖 N1_1 确立 Alexander Hall 为导演，逻辑成立。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 2,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_1",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。当前 DAG 已确立《Dunked In The Deep》导演 Jules White (1900) 和《The Girl In 419》导演之一 Alexander Hall (1894)。另一导演 George Somnes 的生日在 KB 中缺失 (N2_1 blocked)。需基于现有有效数据比较 Hall 与 White，并说明 Somnes 数据缺失对最终结论的影响。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点推理链。当前 N2_1 (George Somnes 生日) 处于 blocked 状态，导致无法完成对《The Girl In 419》所有导演的完整比较。其他子节点证据充分：N1_1 (The Girl In 419 导演: George Somnes, Alexander Hall), N1_2 (Dunked In The Deep 导演: Jules White), N1_4 (Jules White 生日: 17 September 1900), N2_2 (Alexander Hall 生日: January 11, 1894)。缺失关键事实：George Somnes 的出生日期。",
+          "critic_normative_advice": "建议等待 N2_1 解决或标记为不可解。由于 N2_1 搜索未返回有效结果，需评估是否可基于现有信息（仅 Alexander Hall 和 Jules White）做出部分推断，或明确说明 KB 中缺乏 George Somnes 数据导致无法完全确定答案。目前 ROOT 无法生成完整且无歧义的答案。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'The Girl In 419'?",
+          "answer": "George Somnes and Alexander Hall",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'The Girl In 419'?",
+          "planner_rationale": "已确立《The Girl In 419》的导演为 George Somnes 和 Alexander Hall，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求找出电影 'The Girl In 419' 的导演。search_query 直接搜索了该电影的导演信息。chunks 中的 chunk 29636b07-81c4-42fe-84dd-1ecc30792046 明确记载 \"The Girl in 419 was directed by George Somnes\" 和 \"The Girl in 419 was directed by Alexander Hall\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'The Girl in 419'）直接陈述了答案。Chunk 29636b07... 明确记载 'The Girl in 419 was directed by George Somnes' 和 'The Girl in 419 was directed by Alexander Hall'。单来源但内容具体、直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'Dunked In The Deep'?",
+          "answer": "Jules White",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Dunked In The Deep'?",
+          "planner_rationale": "已确立《Dunked In The Deep》的导演为 Jules White，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求找出电影 'Dunked In The Deep' 的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk db552249-a4d2-474c-aef8-9c26479b6299 明确记载 \"Dunked in the Deep was directed by Jules White\"，直接提供了答案。其他 chunks 涉及其他电影（如 Deep End, Weekend at Dunkirk）或仅提供该电影的年份和主演信息，未包含导演信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Dunked in the Deep'）直接陈述了答案。Chunk db552249... 明确记载 'Dunked in the Deep was directed by Jules White'。单来源但内容具体、直接匹配问题，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of 'Dunked In The Deep' born?",
+          "answer": "17 September 1900",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Jules White birth date",
+          "planner_rationale": "已确立 Jules White 的出生日期为 17 September 1900，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求找出电影 'Dunked In The Deep' 导演的出生日期。search_query 直接搜索了 'Jules White birth date'，隐含前提是 Jules White 为该电影导演。chunks 返回了关于 Jules White 的多条信息，其中 chunk 87224628-fc55-405f-90e6-22dc4f4dbacc 和 b54a2677-2d36-493d-97d2-0826877cb329 明确记载 \"Jules White was born on 17 September 1900\"。虽然 chunks 未显式确认 Jules White 是 'Dunked In The Deep' 的导演，但检索结果高度聚焦于 Jules White 的生平，且提供了明确的出生日期，足以回答基于该前提的问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个来源（均为文档 'Jules White'，不同 chunk ID）一致陈述了答案。Chunk 87224628... 和 b54a2677... 均记载 'Jules White was born on 17 September 1900'。虽为同一文档来源，但多 chunk 交叉验证且内容完全一致，可信度高。依赖 N1_2 确立 Jules White 为导演，逻辑成立。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "When was George Somnes born?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "George Somnes birth date",
+          "planner_rationale": "KB 中缺乏 George Somnes 的出生日期记录 (Critic: blocked/unreliable)。保留此节点以标记该语义缺口，表明 Q 的部分前提无法完全验证。",
+          "solver_judgment": "question 要求提供 George Somnes 的出生日期。search_query 搜索了 'George Somnes birth date'。chunks 中，chunk 29636b07-81c4-42fe-84dd-1ecc30792046 提到了 George Somnes，但仅指出他是电影《The Girl in 419》的导演之一，并未包含其出生信息。其余 chunks 涉及其他人物（如 Antony Armstrong-Jones, Leon Ames 等）的生平或出生日期，与 George Somnes 无关。因此，检索结果中缺乏回答该问题所需的关键信息。",
+          "critic_factual_notes": "无法求解——KB 中缺乏 George Somnes 的出生日期记录。搜索返回的 8 个 chunk 中，仅 chunk 29636b07... 提及 George Somnes 但未包含生日信息，其余 chunk 涉及无关人物。多次搜索无果，确认为 KB 缺失。",
+          "critic_normative_advice": "建议放弃此方向——KB 确实无覆盖。标记为已知缺口，不再重试相同查询。",
+          "round_created": 2,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N2_2": {
+          "id": "N2_2",
+          "question": "When was Alexander Hall born?",
+          "answer": "January 11, 1894",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Alexander Hall birth date",
+          "planner_rationale": "已确立 Alexander Hall 的出生日期为 January 11, 1894，证据充分 (Critic: healthy)。",
+          "solver_judgment": "question 要求提供 Alexander Hall 的出生日期。search_query 搜索了 'Alexander Hall birth date'。chunks 返回了关于 Alexander Hall 的多条信息，其中 chunk_6629ed0a-3b16-47b1-ac46-fbfeb6892670 和 chunk_4188af18-d340-4e4d-b02c-4b4712d854e3 均明确记载 \"Alexander Hall was born on January 11, 1894\"，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个来源（均为文档 'Alexander Hall'，不同 chunk ID）一致陈述了答案。Chunk 6629ed0a... 和 4188af18... 均记载 'Alexander Hall was born on January 11, 1894'。虽为同一文档来源，但多 chunk 交叉验证且内容完全一致，可信度高。依赖 N1_1 确立 Alexander Hall 为导演，逻辑成立。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 2,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_1",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_1",
+          "to": "N2_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the director of the film 'The Girl In 419'?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "29636b07-81c4-42fe-84dd-1ecc30792046",
+        "cde9df3a-9259-4eec-a743-a37d8a5211af",
+        "3c958056-41ff-4b96-8df2-38b01a98a8c8",
+        "3bcb26b9-a7d6-4371-9ef8-eacd12e9b584",
+        "8a54cb47-3358-4d2b-aead-d075fce6af66",
+        "279e56e5-6062-4067-8b8d-aac1e6f2dce5",
+        "31da6056-fe6d-433e-b962-221270600c0f",
+        "62244668-603c-440c-9033-4c1d66d03c89"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who is the director of the film 'Dunked In The Deep'?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "db552249-a4d2-474c-aef8-9c26479b6299",
+        "0bd2cdc9-f3ca-40ed-9007-a3420bd66cf8",
+        "d7519b60-29e2-4e41-ac4e-6acd525e756c",
+        "aa7077da-87d0-4771-a393-67ff7f9876ed",
+        "8a54cb47-3358-4d2b-aead-d075fce6af66",
+        "410fa04d-2c3e-4a53-81ab-13f6aa4f082a",
+        "8ed837be-b3d3-416f-8270-0b8ece4930be",
+        "215c5e5e-05eb-487a-9ed4-ff5f36f45900"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who is the director of 'The Girl In 419' and when were they born?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "29636b07-81c4-42fe-84dd-1ecc30792046",
+        "3b652d00-bfbf-47d2-9979-f39d384ed01c",
+        "cde9df3a-9259-4eec-a743-a37d8a5211af",
+        "279e56e5-6062-4067-8b8d-aac1e6f2dce5",
+        "31da6056-fe6d-433e-b962-221270600c0f",
+        "60090dbb-d456-405b-aaf6-f2671ef7cbf2",
+        "ff4bff21-780e-4050-adc0-fc7cd8f6104c",
+        "3c958056-41ff-4b96-8df2-38b01a98a8c8"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Jules White birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8e3aa3e9-0dcd-4996-8852-c9f7a5c97eb8",
+        "76258135-cc73-4a4f-a6e8-f9bd36faabd3",
+        "b9b8638e-0649-4517-9051-8ce2e38dce87",
+        "cb092052-fde7-4fad-bc8e-621af038b1cf",
+        "87224628-fc55-405f-90e6-22dc4f4dbacc",
+        "30883335-43cf-45ee-957b-9593b0b3ec3d",
+        "b54a2677-2d36-493d-97d2-0826877cb329",
+        "8fc6b935-a59a-4ab7-a0cf-5592d7c13a94"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "George Somnes birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "29636b07-81c4-42fe-84dd-1ecc30792046",
+        "bd235dc6-b5ab-424d-ad4e-49f69696d5ee",
+        "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+        "3fccc300-09c6-45ce-840a-8cf5ddea6999",
+        "92b4b831-ba04-4eda-83e6-61219a3e711c",
+        "e9e15514-23cd-4d8e-8ccb-c1e558d7fab4",
+        "393aab06-b8a4-46c0-9736-e276fc1e0ab0",
+        "a81e3a63-fcd5-494d-93fe-88d35a8c5636"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "Alexander Hall birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "9f8cd9d8-dcdc-49e2-939e-c576d714e408",
+        "c2c571e1-f26f-4afb-93c3-b0cc19ba706c",
+        "6629ed0a-3b16-47b1-ac46-fbfeb6892670",
+        "a34a4cdc-feb8-4969-a25d-ba34db536cc4",
+        "999a6d6b-8a4a-4a2d-9d22-2ea0e6ab536d",
+        "4188af18-d340-4e4d-b02c-4b4712d854e3",
+        "ba5ba00e-35ed-49fe-ab65-5e03b4af2ed3",
+        "47804ddd-9340-4a63-a31e-321a51be4f30"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "George Somnes birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "29636b07-81c4-42fe-84dd-1ecc30792046",
+        "bd235dc6-b5ab-424d-ad4e-49f69696d5ee",
+        "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+        "3fccc300-09c6-45ce-840a-8cf5ddea6999",
+        "92b4b831-ba04-4eda-83e6-61219a3e711c",
+        "e9e15514-23cd-4d8e-8ccb-c1e558d7fab4",
+        "393aab06-b8a4-46c0-9736-e276fc1e0ab0",
+        "a81e3a63-fcd5-494d-93fe-88d35a8c5636"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "George Somnes birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "29636b07-81c4-42fe-84dd-1ecc30792046",
+        "bd235dc6-b5ab-424d-ad4e-49f69696d5ee",
+        "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+        "3fccc300-09c6-45ce-840a-8cf5ddea6999",
+        "92b4b831-ba04-4eda-83e6-61219a3e711c",
+        "e9e15514-23cd-4d8e-8ccb-c1e558d7fab4",
+        "393aab06-b8a4-46c0-9736-e276fc1e0ab0",
+        "a81e3a63-fcd5-494d-93fe-88d35a8c5636"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "George Somnes birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "29636b07-81c4-42fe-84dd-1ecc30792046",
+        "bd235dc6-b5ab-424d-ad4e-49f69696d5ee",
+        "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+        "3fccc300-09c6-45ce-840a-8cf5ddea6999",
+        "92b4b831-ba04-4eda-83e6-61219a3e711c",
+        "e9e15514-23cd-4d8e-8ccb-c1e558d7fab4",
+        "393aab06-b8a4-46c0-9736-e276fc1e0ab0",
+        "a81e3a63-fcd5-494d-93fe-88d35a8c5636"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of 'The Girl In 419'?（理由：Q 涉及该电影，需先识别其导演），F2: Who is the director of 'Dunked In The Deep'?（理由：Q 涉及该电影，需先识别其导演），F3: When was the director of 'The Girl In 419' born?（理由：Q 的核心比较维度是出生时间，需获取该导演的出生日期），F4: When was the director of 'Dunked In The Deep' born?（理由：Q 的核心比较维度是出生时间，需获取该导演的出生日期）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F3 依赖于 F1（dependency——需先知道导演是谁才能查其生日），F4 依赖于 F2（dependency——需先知道导演是谁才能查其生日）。最终通过比较 F3 和 F4 的答案来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_3 健康状态为 blocked（unsolved），导致无法完成最终比较推理。条件①也未满足（N1_3 未 SOLVED）。虽然推理链语义结构（条件②）有效，但缺乏必要的事实数据。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of 'The Girl In 419'? (已确立: George Somnes, Alexander Hall), F2: Who is the director of 'Dunked In The Deep'? (已确立: Jules White), F3: When was George Somnes born? (新增，替代原 N1_3), F4: When was Alexander Hall born? (新增，替代原 N1_3), F5: When was Jules White born? (已确立: 17 September 1900). 关系: F1 是 Q 的分解产物 (decomposition)，F2 是 Q 的分解产物 (decomposition)。F3 依赖于 F1 (dependency，需从 F1 答案中提取 George Somnes)，F4 依赖于 F1 (dependency，需从 F1 答案中提取 Alexander Hall)。F5 依赖于 F2 (dependenc",
+      "hypothesis_delta": "删除: N1_3（question='When was the director of 'The Girl In 419' born?'），原因：该节点处于 [BLOCKED] 状态，Critic 指出其搜索策略失败是因为试图在一个查询中获取两位导演的生日。KB 中缺乏针对“电影导演集体生日”的直接记录，导致搜索返回噪声。\\n新增: $1（question='When was George Somnes born?'），原因：将 N1_3 拆分为细粒度节点，直接利用 N1_1 已确立的人名进行精确搜索，提高命中率。\\n新增: $2（question='When was Alexander Hall born?'），原因：同上，处理 N1_1 中的另一位导演。\\n保留边: N0→N1_1 (decomposition), N0→N1_2 (decomposition), N1_2→N1_4 (dependency) 均通过 LINK 原语显式保留，因为它们仍是有效的结构关系。\\n新增边: N1_1→$1 (dependency)，原因：$1 的查询依赖 N1_1 提供的具体人名 'Geo",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N2_1 的 critic_health 为 blocked（搜索无有效结果），并非 healthy。条件①也未满足（N2_1 状态为 unsolved）。虽然推理链语义有效（条件②通过），但由于关键事实缺失，无法生成完整的最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 《The Girl In 419》的导演是谁? (已确立: George Somnes, Alexander Hall)，F2: 《Dunked In The Deep》的导演是谁? (已确立: Jules White)，F3: George Somnes 的生日? (KB 缺失，标记为缺口)，F4: Alexander Hall 的生日? (已确立: 1894-01-11)，F5: Jules White 的生日? (已确立: 1900-09-17)。关系: F1, F2 是 Q 的分解产物。F3, F4 依赖于 F1 (获取具体人名)。F5 依赖于 F2。由于 F3 缺失，最终比较只能在 F4 (Hall) 和 F5 (White) 之间进行，得出 Hall (1894) 早于 White (1900) 的结论，从而推断《The Girl In 419》拥有目前已知出生最早的导演。",
+      "hypothesis_delta": "本轮为结构稳定轮——所有节点均通过 INHERIT 保留，无边增删。原因：上一轮拆分策略已成功验证（N2_2 求解成功），当前主要问题是 N2_1 (George Somnes 生日) 的 KB 数据缺失而非结构错误。Critic 建议放弃重试相同查询，因此保持 N2_1 为 blocked 状态以标记缺口，不再尝试 INITIALIZE 新节点或 RELABEL。DAG 结构已收敛至 KB 允许的最大信息覆盖范围。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N2_1 的 critic_health 为 blocked，非 healthy。虽然推理链语义有效（条件②通过），但由于关键事实 George Somnes 的生日缺失，导致无法完全确定 Q 的答案。系统应终止探索并生成部分答案或说明缺口的最终回答，但根据严格终止条件（所有节点 healthy），当前不满足。然而，考虑到 N2_1 已确认为 KB 缺失，继续搜索无意义。若系统"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 《The Girl In 419》的导演是谁? (已确立: George Somnes, Alexander Hall)，F2: 《Dunked In The Deep》的导演是谁? (已确立: Jules White)，F3: George Somnes 的生日? (KB 缺失，标记为缺口)，F4: Alexander Hall 的生日? (已确立: 1894-01-11)，F5: Jules White 的生日? (已确立: 1900-09-17)。关系: F1, F2 是 Q 的分解产物。F3, F4 依赖于 F1 (获取具体人名)。F5 依赖于 F2。由于 F3 缺失，最终比较只能在 F4 (Hall) 和 F5 (White) 之间进行，得出 Hall (1894) 早于 White (1900) 的结论，从而推断《The Girl In 419》拥有目前已知出生最早的导演。",
+      "hypothesis_delta": "本轮为结构稳定轮——所有节点均通过 INHERIT 保留，所有边均通过 LINK 原语显式声明保留。原因：上一轮拆分策略已成功验证（N2_2 求解成功），当前主要问题是 N2_1 (George Somnes 生日) 的 KB 数据缺失而非结构错误。Critic 建议放弃重试相同查询，因此保持 N2_1 为 blocked 状态以标记缺口，不再尝试 INITIALIZE 新节点或 RELABEL。DAG 结构已收敛至 KB 允许的最大信息覆盖范围。修正：补全了上一轮遗漏的 LINK 原语，确保所有旧边被显式保留。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N2_1 节点的 critic_health 为 blocked，非 healthy。虽然推理链语义有效 (条件②通过) 且拓扑收敛 (条件④通过)，但由于存在未解决且被标记为 blocked 的节点，系统条件①也未满足 (4/5 非根节点 solved)。因此不能终止。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 《The Girl In 419》的导演是谁? (已确立: George Somnes, Alexander Hall)，F2: 《Dunked In The Deep》的导演是谁? (已确立: Jules White)，F3: George Somnes 的生日? (KB 缺失，标记为缺口)，F4: Alexander Hall 的生日? (已确立: 1894-01-11)，F5: Jules White 的生日? (已确立: 1900-09-17)。关系: F1, F2 是 Q 的分解产物。F3, F4 依赖于 F1 (获取具体人名)。F5 依赖于 F2。由于 F3 缺失，最终比较只能在 F4 (Hall) 和 F5 (White) 之间进行，得出 Hall (1894) 早于 White (1900) 的结论，从而推断《The Girl In 419》拥有目前已知出生最早的导演。",
+      "hypothesis_delta": "本轮为结构稳定轮——所有节点均通过 INHERIT 保留，所有边均通过 LINK 原语显式声明保留。原因：上一轮拆分策略已成功验证（N2_2 求解成功），当前主要问题是 N2_1 (George Somnes 生日) 的 KB 数据缺失而非结构错误。Critic 建议放弃重试相同查询，因此保持 N2_1 为 blocked 状态以标记缺口，不再尝试 INITIALIZE 新节点或 RELABEL。DAG 结构已收敛至 KB 允许的最大信息覆盖范围。修正：补全了上一轮遗漏的 LINK 原语，确保所有旧边被显式保留。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N2_1 节点的 critic_health 为 blocked，非 healthy。虽然推理链语义有效（条件②通过）且拓扑收敛（条件④通过），但由于存在未解决的阻塞节点，系统判定尚未达到完全终止状态。需由控制循环决定是强制终止（接受部分答案）还是继续尝试其他策略。"
+      }
+    }
+  ]
+}

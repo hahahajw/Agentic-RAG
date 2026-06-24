@@ -1,0 +1,911 @@
+{
+  "question_index": 409,
+  "question_id": "1815632c0bdc11eba7f7acde48001122",
+  "question": "Which country the director of film Vendetta (1986 Film) is from?",
+  "answer": "New Zealand",
+  "prediction": "New Zealand",
+  "error": null,
+  "latency_ms": 366212.7218999958,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T18:27:30.087122+00:00",
+  "chunks": [
+    {
+      "chunk_id": "5a837432-08ce-4afd-b978-448a2e8dc0db",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of various films.",
+      "context_title": "Vendetta (1986 film)",
+      "page_content": "Vendetta was directed by Bruce Logan."
+    },
+    {
+      "chunk_id": "9b2ab9d8-2a1f-408e-a83a-807995f00627",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, specifically their titles, release dates, and genres.",
+      "context_title": "Vendetta (1986 film)",
+      "page_content": "Vendetta is a 1986 women in prison film. Vendetta was released in September 1986."
+    },
+    {
+      "chunk_id": "67555480-d66e-4cf6-8ddf-18d16c2e0bf7",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+      "context_title": "Vendetta di zingara",
+      "page_content": "Vendetta di zingara is a 1950 Italian film. Vendetta di zingara was directed by Aldo Molinari."
+    },
+    {
+      "chunk_id": "ae3f8987-61f8-49d3-9a7f-af21cf7483ce",
+      "chunk_title": "Vendetta Cast",
+      "chunk_summary": "This chunk contains information about the cast members of various productions, specifically focusing on actors who starred in \"Vendetta\".",
+      "context_title": "Vendetta (1986 film)",
+      "page_content": "Vendetta starred Karen Chase. Vendetta starred Sandy Martin."
+    },
+    {
+      "chunk_id": "5320d1f6-4dcf-47fe-89e1-365d36b58545",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their title, release year, genre, country of origin, director, and writer.",
+      "context_title": "La vendetta di Lady Morgan",
+      "page_content": "La vendetta di Lady Morgan is a 1965 Italian horror film. La vendetta di Lady Morgan was written by Gianni Grimaldi. La vendetta di Lady Morgan was directed by Massimo Pupillo."
+    },
+    {
+      "chunk_id": "a60fb1c5-80e9-4c06-ac0d-df8c7d9f6936",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, alternative names, directors, and production details.",
+      "context_title": "The Revenge of Spartacus",
+      "page_content": "The Revenge of Spartacus is a 1965 Italian film. The Revenge of Spartacus is also known as La vendetta di Spartacus. The US title of The Revenge of Spartacus is \"Revenge of the Gladiators\". The Revenge of Spartacus was directed by Michele Lupo. Michele Lupo is a director. The Revenge of Spartacus was shot back to back with \"Seven Slaves Against the World\"."
+    },
+    {
+      "chunk_id": "0db8287b-bfd3-4084-86a6-e01534f5f772",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, countries of origin, writers, directors, and source materials.",
+      "context_title": "Revenge of a Crazy Girl",
+      "page_content": "Revenge of a Crazy Girl was directed by Pino Mercanti. Revenge of a Crazy Girl was written by Pino Mercanti. Revenge of a Crazy Girl is loosely based on the novel La vendetta di una pazza. La vendetta di una pazza was written by Carolina Invernizio. Revenge of a Crazy Girl is a 1951 Italian historical melodrama film."
+    },
+    {
+      "chunk_id": "fea298d8-c9d8-4e7c-83e1-5fe6d0f0f85d",
+      "chunk_title": "Barbarosa Film Overview",
+      "chunk_summary": "This chunk contains information about the 1982 Western film Barbarosa, including its cast, plot themes, critical reception, and production details.",
+      "context_title": "Barbarosa",
+      "page_content": "Barbarosa stars Gary Busey. Reviewer LG Writer described Barbarosa as one of the best overlooked westerns of the last 20 years. Barbarosa was featured on an episode of the television show Siskel & Ebert. Barbarosa is a 1982 American Western film. The episode of Siskel & Ebert featuring Barbarosa was dedicated to uncovering worthy sleepers. Barbarosa stars Willie Nelson. The young cowboy in Barbarosa learns about life from the famous bandito. Barbarosa is about a young cowboy on the run from the law. Barbarosa was the first American film by Fred Schepisi. LG Writer described Barbarosa as a tale of betrayal, vendetta, honor, and dignity. The young cowboy in Barbarosa partners with a famous bandito."
+    },
+    {
+      "chunk_id": "6decb17a-8afb-4bcd-8df3-de1be7d37220",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "Ms. Stiletto",
+      "page_content": "Ms. Stiletto was directed by Bruno Corbucci."
+    },
+    {
+      "chunk_id": "46f116e2-fcef-493c-a2dd-0c3bbcd59482",
+      "chunk_title": "Professional Roles & Careers",
+      "chunk_summary": "This chunk contains information about the professional roles and careers of individuals.",
+      "context_title": "William Klein (photographer)",
+      "page_content": "William Klein is a filmmaker."
+    },
+    {
+      "chunk_id": "f6a118a5-1e69-43d6-9807-128332abf9fb",
+      "chunk_title": "Conservative Christian Activism",
+      "chunk_summary": "This chunk contains information about the identities, backgrounds, and political activism of conservative Christian individuals.",
+      "context_title": "Bruce Logan",
+      "page_content": "Bruce Logan has been involved in opposition to liberal social policies within New Zealand for over two decades. Bruce Logan is a New Zealand conservative Christian."
+    },
+    {
+      "chunk_id": "d84eefed-95ec-4b4f-b7d2-d997dd7b7b21",
+      "chunk_title": "Birth Dates",
+      "chunk_summary": "This chunk contains biographical information about individuals, specifically their birth dates.",
+      "context_title": "Bruce Logan",
+      "page_content": "Bruce Logan was born in 1938."
+    },
+    {
+      "chunk_id": "9832ec85-8f03-4821-9f48-0a6e202cd571",
+      "chunk_title": "Writer Identities & Professions",
+      "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+      "context_title": "Logan Sandler",
+      "page_content": "Logan Sandler is an American writer."
+    },
+    {
+      "chunk_id": "742edf70-b750-4e08-9e47-63474df262b6",
+      "chunk_title": "Writer Identities & Professions",
+      "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+      "context_title": "Logan Sandler",
+      "page_content": "Logan Sandler is an American writer."
+    },
+    {
+      "chunk_id": "34ee944b-c456-4296-b664-e14798875545",
+      "chunk_title": "Writer Identities & Professions",
+      "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+      "context_title": "Logan Sandler",
+      "page_content": "Logan Sandler is an American writer."
+    },
+    {
+      "chunk_id": "e3c995e7-fdc2-4880-aa25-7d9138857073",
+      "chunk_title": "Writer Identities & Professions",
+      "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+      "context_title": "Logan Sandler",
+      "page_content": "Logan Sandler is an American writer."
+    },
+    {
+      "chunk_id": "05fb42a0-94aa-4519-9738-e74dc9c4da61",
+      "chunk_title": "Writer Identities & Professions",
+      "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+      "context_title": "Logan Sandler",
+      "page_content": "Logan Sandler is an American writer."
+    },
+    {
+      "chunk_id": "6956992d-b121-4462-8c2f-31d64fa55310",
+      "chunk_title": "Writer Identities & Professions",
+      "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+      "context_title": "Logan Sandler",
+      "page_content": "Logan Sandler is an American writer."
+    },
+    {
+      "chunk_id": "8aef9f7c-f1e5-42bf-afaa-4b71a6e03830",
+      "chunk_title": "Oklahoma Counties",
+      "chunk_summary": "This chunk contains information about counties located in the U.S. state of Oklahoma, including their population statistics, county seats, and metropolitan statistical area affiliations.",
+      "context_title": "Logan County, Oklahoma",
+      "page_content": "Logan County is a county located in the U.S. state of Oklahoma. The county seat of Logan County is Guthrie. As of the 2010 census, the population of Logan County was 41,848. Logan County is part of the Oklahoma City, OK Metropolitan Statistical Area."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2631578947368421,
+  "retrieval_count": 2,
+  "total_chunks": 19,
+  "total_distinct_titles": 11,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which country the director of film Vendetta (1986 Film) is from?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which country the director of film Vendetta (1986 Film) is from?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 1986 年电影 Vendetta 导演的国籍",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1 确立导演为 Bruce Logan（单来源直接陈述），N1_2 确立 Bruce Logan 为新西兰人（单来源直接陈述）。推理链完整：导演身份 → 导演国籍。",
+          "critic_normative_advice": "推理链结构完整，但存在一条冗余分解边 N0→N1_2——N1_2 的 question 中 'the director' 指代需要 N1_1 的 answer 消解，不应作为独立分解路径。建议 Planner 将 N0→N1_2 从 decomposition 改为 dependency 或删除此边（N1_2 已通过 N1_1→N1_2 依赖边获得所需输入）。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film Vendetta (1986)?",
+          "answer": "Bruce Logan",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film Vendetta (1986)?",
+          "planner_rationale": "Q 询问导演的国籍，必须先确定导演是谁。这是回答 Q 的第一个必要子事实。",
+          "solver_judgment": "question 要求确认 1986 年电影《Vendetta》的导演。search_query 搜索了 'Who directed the film Vendetta (1986)?'。chunks 返回了多个包含 'Vendetta' 的电影信息，其中 chunk 5a837432-08ce-4afd-b978-448a2e8dc0db 明确记载 'Vendetta was directed by Bruce Logan.'，且来源文档为 'Vendetta (1986 film)'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Vendetta (1986 film)），直接且具体地陈述 'Vendetta was directed by Bruce Logan.'。单来源但内容直接匹配问题，无歧义。交叉验证：不充分（仅 1 个来源），但证据质量高。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5a837432-08ce-4afd-b978-448a2e8dc0db"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5a837432-08ce-4afd-b978-448a2e8dc0db",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta was directed by Bruce Logan."
+            },
+            {
+              "chunk_id": "9b2ab9d8-2a1f-408e-a83a-807995f00627",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, specifically their titles, release dates, and genres.",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta is a 1986 women in prison film. Vendetta was released in September 1986."
+            },
+            {
+              "chunk_id": "67555480-d66e-4cf6-8ddf-18d16c2e0bf7",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+              "context_title": "Vendetta di zingara",
+              "page_content": "Vendetta di zingara is a 1950 Italian film. Vendetta di zingara was directed by Aldo Molinari."
+            },
+            {
+              "chunk_id": "ae3f8987-61f8-49d3-9a7f-af21cf7483ce",
+              "chunk_title": "Vendetta Cast",
+              "chunk_summary": "This chunk contains information about the cast members of various productions, specifically focusing on actors who starred in \"Vendetta\".",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta starred Karen Chase. Vendetta starred Sandy Martin."
+            },
+            {
+              "chunk_id": "5320d1f6-4dcf-47fe-89e1-365d36b58545",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about specific films, including their title, release year, genre, country of origin, director, and writer.",
+              "context_title": "La vendetta di Lady Morgan",
+              "page_content": "La vendetta di Lady Morgan is a 1965 Italian horror film. La vendetta di Lady Morgan was written by Gianni Grimaldi. La vendetta di Lady Morgan was directed by Massimo Pupillo."
+            },
+            {
+              "chunk_id": "a60fb1c5-80e9-4c06-ac0d-df8c7d9f6936",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, alternative names, directors, and production details.",
+              "context_title": "The Revenge of Spartacus",
+              "page_content": "The Revenge of Spartacus is a 1965 Italian film. The Revenge of Spartacus is also known as La vendetta di Spartacus. The US title of The Revenge of Spartacus is \"Revenge of the Gladiators\". The Revenge of Spartacus was directed by Michele Lupo. Michele Lupo is a director. The Revenge of Spartacus was shot back to back with \"Seven Slaves Against the World\"."
+            },
+            {
+              "chunk_id": "0db8287b-bfd3-4084-86a6-e01534f5f772",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, countries of origin, writers, directors, and source materials.",
+              "context_title": "Revenge of a Crazy Girl",
+              "page_content": "Revenge of a Crazy Girl was directed by Pino Mercanti. Revenge of a Crazy Girl was written by Pino Mercanti. Revenge of a Crazy Girl is loosely based on the novel La vendetta di una pazza. La vendetta di una pazza was written by Carolina Invernizio. Revenge of a Crazy Girl is a 1951 Italian historical melodrama film."
+            },
+            {
+              "chunk_id": "fea298d8-c9d8-4e7c-83e1-5fe6d0f0f85d",
+              "chunk_title": "Barbarosa Film Overview",
+              "chunk_summary": "This chunk contains information about the 1982 Western film Barbarosa, including its cast, plot themes, critical reception, and production details.",
+              "context_title": "Barbarosa",
+              "page_content": "Barbarosa stars Gary Busey. Reviewer LG Writer described Barbarosa as one of the best overlooked westerns of the last 20 years. Barbarosa was featured on an episode of the television show Siskel & Ebert. Barbarosa is a 1982 American Western film. The episode of Siskel & Ebert featuring Barbarosa was dedicated to uncovering worthy sleepers. Barbarosa stars Willie Nelson. The young cowboy in Barbarosa learns about life from the famous bandito. Barbarosa is about a young cowboy on the run from the law. Barbarosa was the first American film by Fred Schepisi. LG Writer described Barbarosa as a tale of betrayal, vendetta, honor, and dignity. The young cowboy in Barbarosa partners with a famous bandito."
+            },
+            {
+              "chunk_id": "6decb17a-8afb-4bcd-8df3-de1be7d37220",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Ms. Stiletto",
+              "page_content": "Ms. Stiletto was directed by Bruno Corbucci."
+            },
+            {
+              "chunk_id": "46f116e2-fcef-493c-a2dd-0c3bbcd59482",
+              "chunk_title": "Professional Roles & Careers",
+              "chunk_summary": "This chunk contains information about the professional roles and careers of individuals.",
+              "context_title": "William Klein (photographer)",
+              "page_content": "William Klein is a filmmaker."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which country is the director of Vendetta (1986) from?",
+          "answer": "New Zealand",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Bruce Logan nationality",
+          "planner_rationale": "Q 的核心询问——导演的国籍/来源国。需要先知道导演身份（$1 的 answer）才能精确搜索。",
+          "solver_judgment": "question 要求确认电影 Vendetta (1986) 导演的国籍。chunk 5a837432 指出 Vendetta 的导演是 Bruce Logan。chunk f6a118a5 记载 'Bruce Logan is a New Zealand conservative Christian'，表明他是新西兰人。search_query 搜索了 'Bruce Logan nationality'，成功返回了关于 Bruce Logan 国籍的信息。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源，其中 1 个独立来源（文档 Bruce Logan）直接陈述 'Bruce Logan is a New Zealand conservative Christian.'，明确指向新西兰国籍。另一来源（Vendetta (1986 film)）仅确认导演身份，不直接涉及国籍。核心证据来自单文档但表述直接具体。交叉验证：不充分（国籍事实仅 1 个来源直接支撑），但证据质量高。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f6a118a5-1e69-43d6-9807-128332abf9fb",
+            "5a837432-08ce-4afd-b978-448a2e8dc0db"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f6a118a5-1e69-43d6-9807-128332abf9fb",
+              "chunk_title": "Conservative Christian Activism",
+              "chunk_summary": "This chunk contains information about the identities, backgrounds, and political activism of conservative Christian individuals.",
+              "context_title": "Bruce Logan",
+              "page_content": "Bruce Logan has been involved in opposition to liberal social policies within New Zealand for over two decades. Bruce Logan is a New Zealand conservative Christian."
+            },
+            {
+              "chunk_id": "d84eefed-95ec-4b4f-b7d2-d997dd7b7b21",
+              "chunk_title": "Birth Dates",
+              "chunk_summary": "This chunk contains biographical information about individuals, specifically their birth dates.",
+              "context_title": "Bruce Logan",
+              "page_content": "Bruce Logan was born in 1938."
+            },
+            {
+              "chunk_id": "9832ec85-8f03-4821-9f48-0a6e202cd571",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "5a837432-08ce-4afd-b978-448a2e8dc0db",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta was directed by Bruce Logan."
+            },
+            {
+              "chunk_id": "742edf70-b750-4e08-9e47-63474df262b6",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "34ee944b-c456-4296-b664-e14798875545",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "e3c995e7-fdc2-4880-aa25-7d9138857073",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "05fb42a0-94aa-4519-9738-e74dc9c4da61",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "6956992d-b121-4462-8c2f-31d64fa55310",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "8aef9f7c-f1e5-42bf-afaa-4b71a6e03830",
+              "chunk_title": "Oklahoma Counties",
+              "chunk_summary": "This chunk contains information about counties located in the U.S. state of Oklahoma, including their population statistics, county seats, and metropolitan statistical area affiliations.",
+              "context_title": "Logan County, Oklahoma",
+              "page_content": "Logan County is a county located in the U.S. state of Oklahoma. The county seat of Logan County is Guthrie. As of the 2010 census, the population of Logan County was 41,848. Logan County is part of the Oklahoma City, OK Metropolitan Statistical Area."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which country the director of film Vendetta (1986 Film) is from?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which country the director of film Vendetta (1986 Film) is from?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 1986 年电影 Vendetta 导演的国籍。子节点推理链已完整：N1_1 确立导演为 Bruce Logan，N1_2 确立 Bruce Logan 为新西兰人。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1确立导演为Bruce Logan（单来源直接陈述），N1_2确立Bruce Logan为新西兰人（单来源直接陈述）。推理链完整：导演身份→导演国籍。",
+          "critic_normative_advice": "推理链结构完整，DAG已修正为线性链N0→N1_1→N1_2。建议INHERIT——所有子节点证据充分，推理链有效，下轮可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film Vendetta (1986)?",
+          "answer": "Bruce Logan",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film Vendetta (1986)?",
+          "planner_rationale": "Q 询问导演的国籍，必须先确定导演是谁。这是回答 Q 的第一个必要子事实。已 SOLVED + healthy，证据充分。",
+          "solver_judgment": "question 要求确认 1986 年电影《Vendetta》的导演。search_query 搜索了 'Who directed the film Vendetta (1986)?'。chunks 返回了多个包含 'Vendetta' 的电影信息，其中 chunk 5a837432-08ce-4afd-b978-448a2e8dc0db 明确记载 'Vendetta was directed by Bruce Logan.'，且来源文档为 'Vendetta (1986 film)'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1个来源（文档Vendetta (1986 film)），直接且具体地陈述'Vendetta was directed by Bruce Logan.'。单来源但内容直接匹配问题，无歧义。交叉验证：不充分（仅1个来源），但证据质量高。",
+          "critic_normative_advice": "建议INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5a837432-08ce-4afd-b978-448a2e8dc0db"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5a837432-08ce-4afd-b978-448a2e8dc0db",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta was directed by Bruce Logan."
+            },
+            {
+              "chunk_id": "9b2ab9d8-2a1f-408e-a83a-807995f00627",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, specifically their titles, release dates, and genres.",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta is a 1986 women in prison film. Vendetta was released in September 1986."
+            },
+            {
+              "chunk_id": "67555480-d66e-4cf6-8ddf-18d16c2e0bf7",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+              "context_title": "Vendetta di zingara",
+              "page_content": "Vendetta di zingara is a 1950 Italian film. Vendetta di zingara was directed by Aldo Molinari."
+            },
+            {
+              "chunk_id": "ae3f8987-61f8-49d3-9a7f-af21cf7483ce",
+              "chunk_title": "Vendetta Cast",
+              "chunk_summary": "This chunk contains information about the cast members of various productions, specifically focusing on actors who starred in \"Vendetta\".",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta starred Karen Chase. Vendetta starred Sandy Martin."
+            },
+            {
+              "chunk_id": "5320d1f6-4dcf-47fe-89e1-365d36b58545",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about specific films, including their title, release year, genre, country of origin, director, and writer.",
+              "context_title": "La vendetta di Lady Morgan",
+              "page_content": "La vendetta di Lady Morgan is a 1965 Italian horror film. La vendetta di Lady Morgan was written by Gianni Grimaldi. La vendetta di Lady Morgan was directed by Massimo Pupillo."
+            },
+            {
+              "chunk_id": "a60fb1c5-80e9-4c06-ac0d-df8c7d9f6936",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, alternative names, directors, and production details.",
+              "context_title": "The Revenge of Spartacus",
+              "page_content": "The Revenge of Spartacus is a 1965 Italian film. The Revenge of Spartacus is also known as La vendetta di Spartacus. The US title of The Revenge of Spartacus is \"Revenge of the Gladiators\". The Revenge of Spartacus was directed by Michele Lupo. Michele Lupo is a director. The Revenge of Spartacus was shot back to back with \"Seven Slaves Against the World\"."
+            },
+            {
+              "chunk_id": "0db8287b-bfd3-4084-86a6-e01534f5f772",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, countries of origin, writers, directors, and source materials.",
+              "context_title": "Revenge of a Crazy Girl",
+              "page_content": "Revenge of a Crazy Girl was directed by Pino Mercanti. Revenge of a Crazy Girl was written by Pino Mercanti. Revenge of a Crazy Girl is loosely based on the novel La vendetta di una pazza. La vendetta di una pazza was written by Carolina Invernizio. Revenge of a Crazy Girl is a 1951 Italian historical melodrama film."
+            },
+            {
+              "chunk_id": "fea298d8-c9d8-4e7c-83e1-5fe6d0f0f85d",
+              "chunk_title": "Barbarosa Film Overview",
+              "chunk_summary": "This chunk contains information about the 1982 Western film Barbarosa, including its cast, plot themes, critical reception, and production details.",
+              "context_title": "Barbarosa",
+              "page_content": "Barbarosa stars Gary Busey. Reviewer LG Writer described Barbarosa as one of the best overlooked westerns of the last 20 years. Barbarosa was featured on an episode of the television show Siskel & Ebert. Barbarosa is a 1982 American Western film. The episode of Siskel & Ebert featuring Barbarosa was dedicated to uncovering worthy sleepers. Barbarosa stars Willie Nelson. The young cowboy in Barbarosa learns about life from the famous bandito. Barbarosa is about a young cowboy on the run from the law. Barbarosa was the first American film by Fred Schepisi. LG Writer described Barbarosa as a tale of betrayal, vendetta, honor, and dignity. The young cowboy in Barbarosa partners with a famous bandito."
+            },
+            {
+              "chunk_id": "6decb17a-8afb-4bcd-8df3-de1be7d37220",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Ms. Stiletto",
+              "page_content": "Ms. Stiletto was directed by Bruno Corbucci."
+            },
+            {
+              "chunk_id": "46f116e2-fcef-493c-a2dd-0c3bbcd59482",
+              "chunk_title": "Professional Roles & Careers",
+              "chunk_summary": "This chunk contains information about the professional roles and careers of individuals.",
+              "context_title": "William Klein (photographer)",
+              "page_content": "William Klein is a filmmaker."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which country is the director of Vendetta (1986) from?",
+          "answer": "New Zealand",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Bruce Logan nationality",
+          "planner_rationale": "Q 的核心询问——导演的国籍/来源国。已 SOLVED + healthy，证据充分。依赖 N1_1 的 answer 消解 'the director' 指代。",
+          "solver_judgment": "question 要求确认电影 Vendetta (1986) 导演的国籍。chunk 5a837432 指出 Vendetta 的导演是 Bruce Logan。chunk f6a118a5 记载 'Bruce Logan is a New Zealand conservative Christian'，表明他是新西兰人。search_query 搜索了 'Bruce Logan nationality'，成功返回了关于 Bruce Logan 国籍的信息。检索精准，信息完整。",
+          "critic_factual_notes": "2个支撑来源，其中1个独立来源（文档Bruce Logan）直接陈述'Bruce Logan is a New Zealand conservative Christian.'，明确指向新西兰国籍。另一来源（Vendetta (1986 film)）仅确认导演身份，不直接涉及国籍。核心证据来自单文档但表述直接具体。交叉验证：不充分（国籍事实仅1个来源直接支撑），但证据质量高。",
+          "critic_normative_advice": "建议INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f6a118a5-1e69-43d6-9807-128332abf9fb",
+            "5a837432-08ce-4afd-b978-448a2e8dc0db"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f6a118a5-1e69-43d6-9807-128332abf9fb",
+              "chunk_title": "Conservative Christian Activism",
+              "chunk_summary": "This chunk contains information about the identities, backgrounds, and political activism of conservative Christian individuals.",
+              "context_title": "Bruce Logan",
+              "page_content": "Bruce Logan has been involved in opposition to liberal social policies within New Zealand for over two decades. Bruce Logan is a New Zealand conservative Christian."
+            },
+            {
+              "chunk_id": "d84eefed-95ec-4b4f-b7d2-d997dd7b7b21",
+              "chunk_title": "Birth Dates",
+              "chunk_summary": "This chunk contains biographical information about individuals, specifically their birth dates.",
+              "context_title": "Bruce Logan",
+              "page_content": "Bruce Logan was born in 1938."
+            },
+            {
+              "chunk_id": "9832ec85-8f03-4821-9f48-0a6e202cd571",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "5a837432-08ce-4afd-b978-448a2e8dc0db",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta was directed by Bruce Logan."
+            },
+            {
+              "chunk_id": "742edf70-b750-4e08-9e47-63474df262b6",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "34ee944b-c456-4296-b664-e14798875545",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "e3c995e7-fdc2-4880-aa25-7d9138857073",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "05fb42a0-94aa-4519-9738-e74dc9c4da61",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "6956992d-b121-4462-8c2f-31d64fa55310",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "8aef9f7c-f1e5-42bf-afaa-4b71a6e03830",
+              "chunk_title": "Oklahoma Counties",
+              "chunk_summary": "This chunk contains information about counties located in the U.S. state of Oklahoma, including their population statistics, county seats, and metropolitan statistical area affiliations.",
+              "context_title": "Logan County, Oklahoma",
+              "page_content": "Logan County is a county located in the U.S. state of Oklahoma. The county seat of Logan County is Guthrie. As of the 2010 census, the population of Logan County was 41,848. Logan County is part of the Oklahoma City, OK Metropolitan Statistical Area."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which country the director of film Vendetta (1986 Film) is from?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which country the director of film Vendetta (1986 Film) is from?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 1986 年电影 Vendetta 导演的国籍。子节点推理链已完整：N1_1 确立导演为 Bruce Logan，N1_2 确立 Bruce Logan 为新西兰人。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1确立导演为Bruce Logan（单来源直接陈述），N1_2确立Bruce Logan为新西兰人（单来源直接陈述）。推理链完整：导演身份→导演国籍。",
+          "critic_normative_advice": "建议INHERIT——推理链结构完整，所有子节点证据充分，依赖边语义有效，下轮可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film Vendetta (1986)?",
+          "answer": "Bruce Logan",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film Vendetta (1986)?",
+          "planner_rationale": "Q 询问导演的国籍，必须先确定导演是谁。这是回答 Q 的第一个必要子事实。已 SOLVED + healthy，证据充分（单来源直接陈述 'Vendetta was directed by Bruce Logan.'）。",
+          "solver_judgment": "question 要求确认 1986 年电影《Vendetta》的导演。search_query 搜索了 'Who directed the film Vendetta (1986)?'。chunks 返回了多个包含 'Vendetta' 的电影信息，其中 chunk 5a837432-08ce-4afd-b978-448a2e8dc0db 明确记载 'Vendetta was directed by Bruce Logan.'，且来源文档为 'Vendetta (1986 film)'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1个来源（文档Vendetta (1986 film)），直接且具体地陈述'Vendetta was directed by Bruce Logan.'。单来源但内容直接匹配问题，无歧义。交叉验证：不充分（仅1个来源），但证据质量高。",
+          "critic_normative_advice": "建议INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5a837432-08ce-4afd-b978-448a2e8dc0db"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5a837432-08ce-4afd-b978-448a2e8dc0db",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta was directed by Bruce Logan."
+            },
+            {
+              "chunk_id": "9b2ab9d8-2a1f-408e-a83a-807995f00627",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, specifically their titles, release dates, and genres.",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta is a 1986 women in prison film. Vendetta was released in September 1986."
+            },
+            {
+              "chunk_id": "67555480-d66e-4cf6-8ddf-18d16c2e0bf7",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+              "context_title": "Vendetta di zingara",
+              "page_content": "Vendetta di zingara is a 1950 Italian film. Vendetta di zingara was directed by Aldo Molinari."
+            },
+            {
+              "chunk_id": "ae3f8987-61f8-49d3-9a7f-af21cf7483ce",
+              "chunk_title": "Vendetta Cast",
+              "chunk_summary": "This chunk contains information about the cast members of various productions, specifically focusing on actors who starred in \"Vendetta\".",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta starred Karen Chase. Vendetta starred Sandy Martin."
+            },
+            {
+              "chunk_id": "5320d1f6-4dcf-47fe-89e1-365d36b58545",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about specific films, including their title, release year, genre, country of origin, director, and writer.",
+              "context_title": "La vendetta di Lady Morgan",
+              "page_content": "La vendetta di Lady Morgan is a 1965 Italian horror film. La vendetta di Lady Morgan was written by Gianni Grimaldi. La vendetta di Lady Morgan was directed by Massimo Pupillo."
+            },
+            {
+              "chunk_id": "a60fb1c5-80e9-4c06-ac0d-df8c7d9f6936",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, alternative names, directors, and production details.",
+              "context_title": "The Revenge of Spartacus",
+              "page_content": "The Revenge of Spartacus is a 1965 Italian film. The Revenge of Spartacus is also known as La vendetta di Spartacus. The US title of The Revenge of Spartacus is \"Revenge of the Gladiators\". The Revenge of Spartacus was directed by Michele Lupo. Michele Lupo is a director. The Revenge of Spartacus was shot back to back with \"Seven Slaves Against the World\"."
+            },
+            {
+              "chunk_id": "0db8287b-bfd3-4084-86a6-e01534f5f772",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about specific films, including their titles, release years, genres, countries of origin, writers, directors, and source materials.",
+              "context_title": "Revenge of a Crazy Girl",
+              "page_content": "Revenge of a Crazy Girl was directed by Pino Mercanti. Revenge of a Crazy Girl was written by Pino Mercanti. Revenge of a Crazy Girl is loosely based on the novel La vendetta di una pazza. La vendetta di una pazza was written by Carolina Invernizio. Revenge of a Crazy Girl is a 1951 Italian historical melodrama film."
+            },
+            {
+              "chunk_id": "fea298d8-c9d8-4e7c-83e1-5fe6d0f0f85d",
+              "chunk_title": "Barbarosa Film Overview",
+              "chunk_summary": "This chunk contains information about the 1982 Western film Barbarosa, including its cast, plot themes, critical reception, and production details.",
+              "context_title": "Barbarosa",
+              "page_content": "Barbarosa stars Gary Busey. Reviewer LG Writer described Barbarosa as one of the best overlooked westerns of the last 20 years. Barbarosa was featured on an episode of the television show Siskel & Ebert. Barbarosa is a 1982 American Western film. The episode of Siskel & Ebert featuring Barbarosa was dedicated to uncovering worthy sleepers. Barbarosa stars Willie Nelson. The young cowboy in Barbarosa learns about life from the famous bandito. Barbarosa is about a young cowboy on the run from the law. Barbarosa was the first American film by Fred Schepisi. LG Writer described Barbarosa as a tale of betrayal, vendetta, honor, and dignity. The young cowboy in Barbarosa partners with a famous bandito."
+            },
+            {
+              "chunk_id": "6decb17a-8afb-4bcd-8df3-de1be7d37220",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Ms. Stiletto",
+              "page_content": "Ms. Stiletto was directed by Bruno Corbucci."
+            },
+            {
+              "chunk_id": "46f116e2-fcef-493c-a2dd-0c3bbcd59482",
+              "chunk_title": "Professional Roles & Careers",
+              "chunk_summary": "This chunk contains information about the professional roles and careers of individuals.",
+              "context_title": "William Klein (photographer)",
+              "page_content": "William Klein is a filmmaker."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which country is the director of Vendetta (1986) from?",
+          "answer": "New Zealand",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Bruce Logan nationality",
+          "planner_rationale": "Q 的核心询问——导演的国籍/来源国。已 SOLVED + healthy，证据充分（单来源直接陈述 'Bruce Logan is a New Zealand conservative Christian.'）。依赖 N1_1 的 answer 消解 'the director' 指代。",
+          "solver_judgment": "question 要求确认电影 Vendetta (1986) 导演的国籍。chunk 5a837432 指出 Vendetta 的导演是 Bruce Logan。chunk f6a118a5 记载 'Bruce Logan is a New Zealand conservative Christian'，表明他是新西兰人。search_query 搜索了 'Bruce Logan nationality'，成功返回了关于 Bruce Logan 国籍的信息。检索精准，信息完整。",
+          "critic_factual_notes": "2个支撑来源，其中1个独立来源（文档Bruce Logan）直接陈述'Bruce Logan is a New Zealand conservative Christian.'，明确指向新西兰国籍。另一来源（Vendetta (1986 film)）仅确认导演身份，不直接涉及国籍。核心证据来自单文档但表述直接具体。交叉验证：不充分（国籍事实仅1个来源直接支撑），但证据质量高。",
+          "critic_normative_advice": "建议INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f6a118a5-1e69-43d6-9807-128332abf9fb",
+            "5a837432-08ce-4afd-b978-448a2e8dc0db"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f6a118a5-1e69-43d6-9807-128332abf9fb",
+              "chunk_title": "Conservative Christian Activism",
+              "chunk_summary": "This chunk contains information about the identities, backgrounds, and political activism of conservative Christian individuals.",
+              "context_title": "Bruce Logan",
+              "page_content": "Bruce Logan has been involved in opposition to liberal social policies within New Zealand for over two decades. Bruce Logan is a New Zealand conservative Christian."
+            },
+            {
+              "chunk_id": "d84eefed-95ec-4b4f-b7d2-d997dd7b7b21",
+              "chunk_title": "Birth Dates",
+              "chunk_summary": "This chunk contains biographical information about individuals, specifically their birth dates.",
+              "context_title": "Bruce Logan",
+              "page_content": "Bruce Logan was born in 1938."
+            },
+            {
+              "chunk_id": "9832ec85-8f03-4821-9f48-0a6e202cd571",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "5a837432-08ce-4afd-b978-448a2e8dc0db",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Vendetta (1986 film)",
+              "page_content": "Vendetta was directed by Bruce Logan."
+            },
+            {
+              "chunk_id": "742edf70-b750-4e08-9e47-63474df262b6",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "34ee944b-c456-4296-b664-e14798875545",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "e3c995e7-fdc2-4880-aa25-7d9138857073",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "05fb42a0-94aa-4519-9738-e74dc9c4da61",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "6956992d-b121-4462-8c2f-31d64fa55310",
+              "chunk_title": "Writer Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of writers.",
+              "context_title": "Logan Sandler",
+              "page_content": "Logan Sandler is an American writer."
+            },
+            {
+              "chunk_id": "8aef9f7c-f1e5-42bf-afaa-4b71a6e03830",
+              "chunk_title": "Oklahoma Counties",
+              "chunk_summary": "This chunk contains information about counties located in the U.S. state of Oklahoma, including their population statistics, county seats, and metropolitan statistical area affiliations.",
+              "context_title": "Logan County, Oklahoma",
+              "page_content": "Logan County is a county located in the U.S. state of Oklahoma. The county seat of Logan County is Guthrie. As of the 2010 census, the population of Logan County was 41,848. Logan County is part of the Oklahoma City, OK Metropolitan Statistical Area."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who directed the film Vendetta (1986)?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "5a837432-08ce-4afd-b978-448a2e8dc0db",
+        "9b2ab9d8-2a1f-408e-a83a-807995f00627",
+        "67555480-d66e-4cf6-8ddf-18d16c2e0bf7",
+        "ae3f8987-61f8-49d3-9a7f-af21cf7483ce",
+        "5320d1f6-4dcf-47fe-89e1-365d36b58545",
+        "a60fb1c5-80e9-4c06-ac0d-df8c7d9f6936",
+        "0db8287b-bfd3-4084-86a6-e01534f5f772",
+        "fea298d8-c9d8-4e7c-83e1-5fe6d0f0f85d",
+        "6decb17a-8afb-4bcd-8df3-de1be7d37220",
+        "46f116e2-fcef-493c-a2dd-0c3bbcd59482"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Bruce Logan nationality",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f6a118a5-1e69-43d6-9807-128332abf9fb",
+        "d84eefed-95ec-4b4f-b7d2-d997dd7b7b21",
+        "9832ec85-8f03-4821-9f48-0a6e202cd571",
+        "5a837432-08ce-4afd-b978-448a2e8dc0db",
+        "742edf70-b750-4e08-9e47-63474df262b6",
+        "34ee944b-c456-4296-b664-e14798875545",
+        "e3c995e7-fdc2-4880-aa25-7d9138857073",
+        "05fb42a0-94aa-4519-9738-e74dc9c4da61",
+        "6956992d-b121-4462-8c2f-31d64fa55310",
+        "8aef9f7c-f1e5-42bf-afaa-4b71a6e03830"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed the film Vendetta (1986)?（理由：Q 问的是导演的国籍，必须先识别导演身份），F2: Which country is the director of Vendetta (1986) from?（理由：Q 的核心询问——导演的来源国）。关系: F1 是 Q 的分解产物（decomposition——确定导演是回答国籍问题的前置步骤），F2 是 Q 的分解产物（decomposition——国籍是 Q 直接询问的内容），F1 是 F2 的前置条件（dependency——F2 的 question 中 'the director' 指代 F1 的 answer，必须先用 F1 的导演姓名消解指代才能搜索 F2）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个两步推理问题（先识别实体→再查询该实体的属性），因此创建两个子节点，用 dependency 边表达第二步对第一步的指代依赖。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": true,
+        "reason": "条件②未通过：路径 1.2 (N0→N1_2) 中，N0 answer 为空，无法语义消解 N1_2 question 中 'the director' 的指代。这条 decomposition 边在语义上不成立——N1_2 的 question 需要导演姓名作为输入，但 N0 不提供此信息。条件③已通过（所有节点 healthy）。条件①已满足（所有非根节点 SOLVED）。建议修正 DAG 结"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed the film Vendetta (1986)?（理由：Q 问的是导演的国籍，必须先识别导演身份），F2: Which country is the director of Vendetta (1986) from?（理由：Q 的核心询问——导演的来源国）。关系: F1 是 Q 的分解产物（decomposition——确定导演是回答国籍问题的前置步骤），F2 是 F1 的依赖目标（dependency——F2 的 question 中 'the director' 指代 F1 的 answer，必须先用 F1 的导演姓名消解指代才能搜索 F2）。DAG 结构为线性链 N0→N1_1→N1_2。",
+      "hypothesis_delta": "删除边: N0→N1_2（decomposition），原因：Critic 指出 N1_2 的 question 中 'the director' 是未消解的指代变量，N0 的 answer 为空无法消解此指代，因此 N0→N1_2 作为 decomposition 边在语义上不成立。N1_2 已通过 N1_1→N1_2（dependency）获得所需输入，N0→N1_2 是冗余路径。修正后 DAG 为线性链 N0→N1_1→N1_2。N1_1 和 N1_2 均 INHERIT——两者均已 SOLVED + healthy，证据充分，无需重搜。显式 LINK N0→N1_1 和 N1_1→N1_2 以保留有效边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（删除边N0→N1_2 decomposition）。其余条件均满足——条件①：所有2个非根节点均已SOLVED；条件②：推理链语义匹配，路径N0→N1_1→N1_2中，N1_1 answer='Bruce Logan'有效消解N1_2 question中'the director'指代，分解链答案聚合后可支撑ROOT推理；条件③：全部节点（N0/N1_1/"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed the film Vendetta (1986)?（理由：Q 问的是导演的国籍，必须先识别导演身份），F2: Which country is the director of Vendetta (1986) from?（理由：Q 的核心询问——导演的来源国）。关系: F1 是 Q 的分解产物（decomposition——确定导演是回答国籍问题的前置步骤），F2 是 F1 的依赖目标（dependency——F2 的 question 中 'the director' 指代 F1 的 answer，必须先用 F1 的导演姓名消解指代才能搜索 F2）。DAG 结构为线性链 N0→N1_1→N1_2。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 INHERIT，所有边保留。原因：Critic 确认 DAG 已收敛为清晰的线性链 N0→N1_1→N1_2，Q 语义覆盖完整，无冗余无缺口。N1_1（导演=Bruce Logan）和 N1_2（国籍=New Zealand）均已 SOLVED + healthy，证据充分。推理链完整：导演身份→导演国籍。下轮可直接生成最终答案。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已SOLVED；②推理链语义匹配——N0→N1_1分解有效，N1_1 answer'Bruce Logan'消解N1_2 question中'the director'指代，依赖链完整；③全部节点（N0, N1_1, N1_2）critic_health均为healthy；④本轮拓扑与上一轮一致（无节点增删、无边变化、无question修改）。"
+      }
+    }
+  ]
+}

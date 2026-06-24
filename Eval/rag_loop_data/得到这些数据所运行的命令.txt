@@ -1,0 +1,46 @@
+uv run python Eval/run_eval.py 
+  --mode rag-loop 
+  --dataset musique 
+  --model qwen3.6-plus 
+  --enable-thinking 
+  --topk 60 
+  --max-chunks 10 
+  --rerank 
+  --max-rounds 5 
+  --max-workers 5 
+  --batch-size 5
+
+
+2wikimultihopqa/musique
+
+
+
+主模型默认为 qwen3.6-plus，{"extra_body": {"enable_thinking": false, "enable_search": false}}
+
+
+
+对于标准问答：
+ uv run python Eval/run_eval.py 
+      --mode rag-loop 
+      --dataset gb_standards_25 
+      --search-source tavily 
+      --model qwen3.6-plus 
+      --enable-thinking planner,critic,rewrite,solver,answer 
+      --max-rounds 7 
+      --max-revisions 3 
+      --max-chunks 10 
+      --batch-size 1 
+      --max-workers 3
+
+
+DuckDuckGO 后端
+uv run python Eval/run_eval.py 
+      --mode rag-loop 
+      --dataset gb_standards_25 
+      --search-source web 
+      --model qwen3.6-plus 
+      --enable-thinking planner,critic,rewrite,solver,answer 
+      --max-rounds 5 
+      --max-chunks 10 
+      --batch-size 1 
+      --max-workers 3

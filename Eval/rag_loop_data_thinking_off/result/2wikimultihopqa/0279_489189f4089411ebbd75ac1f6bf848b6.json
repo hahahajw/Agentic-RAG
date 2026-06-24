@@ -1,0 +1,707 @@
+{
+  "question_index": 279,
+  "question_id": "489189f4089411ebbd75ac1f6bf848b6",
+  "question": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+  "answer": "no",
+  "prediction": "CANNOT_ANSWER",
+  "error": null,
+  "latency_ms": 251686.19889998809,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T19:53:22.418584+00:00",
+  "chunks": [
+    {
+      "chunk_id": "4b42b69f-1434-45b2-b8f7-3ce5fcaa8846",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1920 silent film \"The Road to Divorce,\" including its director, starring actors, and release date.",
+      "context_title": "The Road to Divorce",
+      "page_content": "The Road to Divorce was released on April 5, 1920. The Road to Divorce was directed by Phil Rosen. The Road to Divorce stars Mary MacLaren. The Road to Divorce is a 1920 American silent drama film. The Road to Divorce stars William Ellingford. The Road to Divorce stars Alberta Lee."
+    },
+    {
+      "chunk_id": "baff0afc-83d3-4bea-87c5-5051cc996d48",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, and directors.",
+      "context_title": "The Road to 'Saturn'",
+      "page_content": "The Road to 'Saturn' was directed by an unnamed director. The Road to 'Saturn' is a 1967 Soviet action film."
+    },
+    {
+      "chunk_id": "37d64a04-afb5-4f9f-8ef6-78d5e7698bdc",
+      "chunk_title": "Documentary Films",
+      "chunk_summary": "This chunk contains information about documentary films, including their titles, release years, subject matter, and filmmakers.",
+      "context_title": "My Country, My Country",
+      "page_content": "My Country, My Country is a 2006 documentary film. Laura Poitras is the filmmaker of My Country, My Country. My Country, My Country is about Iraq under U.S. occupation."
+    },
+    {
+      "chunk_id": "db2ec3b4-9ad0-42e0-be94-16f1e6b7bc1e",
+      "chunk_title": "Telephone Numbering Codes",
+      "chunk_summary": "This chunk contains information about telephone numbering codes, including country codes and international call prefixes, for specific regions like Ascension Island and St Helena.",
+      "context_title": "Telephone numbers in Ascension Island",
+      "page_content": "The country code for telephone numbers in Ascension Island is +247. Ascension Island does not share the same country code with the rest of St Helena. The country code for the rest of St Helena is +290. The international call prefix for telephone numbers in Ascension Island is 00."
+    },
+    {
+      "chunk_id": "ef96ce0b-e33b-4d75-9e98-2f0261a25407",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "Crossroads (1937 film)",
+      "page_content": "Blood on Wolf Mountain was directed by Fei Mu. Crossroads was directed by Shen Xiling. The Big Road was directed by Sun Yu."
+    },
+    {
+      "chunk_id": "20e8538d-5bbb-4c1b-b110-92154019776b",
+      "chunk_title": "Crossroads Film & Context",
+      "chunk_summary": "This chunk contains information about the 1937 Chinese film Crossroads, its historical context regarding the war with Japan and the Great Depression, its relation to contemporary films, and its 2001 sequel.",
+      "context_title": "Crossroads (1937 film)",
+      "page_content": "The sequel to Crossroads was made despite a half-century gap. The sequel to Crossroads is entitled New Crossroads. Crossroads has its background in the Great Depression of the 1930s. Crossroads joins films like Blood on Wolf Mountain by Fei Mu. The film Crossroads exemplified the growing trend of Chinese films by the mid-1930s of incorporating references to the war with Japan. A sequel to Crossroads was made in 2001. Crossroads joins films like The Big Road by Sun Yu. The references to the war with Japan in Chinese films by the mid-1930s were both veiled and explicit. Crossroads is a 1937 Chinese seriocomedy film."
+    },
+    {
+      "chunk_id": "0b82fcff-4b2c-4c6a-b610-f71a4ddba81c",
+      "chunk_title": "The Cup Film Details",
+      "chunk_summary": "This chunk contains information about the 1999 Tibetan-language film \"The Cup,\" including its director, plot involving football-crazed novice monks in a Himalayan monastery, filming locations, and production details.",
+      "context_title": "The Cup (1999 film)",
+      "page_content": "The Cup is a Tibetan-language film. The plot of The Cup involves two young novice monks. The two young novice monks in The Cup are football-crazed. Thomas later remembered his experience making the film The Cup. The Cup is a 1999 film. The movie The Cup was shot in the Tibetan refugee village Bir in India. The purpose of obtaining the television in The Cup is to watch the 1998 World Cup final. Jeremy Thomas was a producer of The Cup. The movie The Cup was shot almost entirely between Chokling Gompa and Elu Road. The Cup was directed by Khyentse Norbu. The two young novice monks in The Cup desperately try to obtain a television for the monastery. The two young novice monks in The Cup live in a remote Himalayan monastery in India. The two young novice monks in The Cup are Tibetan refugees."
+    },
+    {
+      "chunk_id": "d35c1542-c4fe-4d40-8889-ee10034821ca",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, plot summaries, and production details such as filming locations.",
+      "context_title": "My Country (film)",
+      "page_content": "My Country is a 1986 Australian film. My Country is about the discovery of Australia. The film My Country was partly shot at Monash University."
+    },
+    {
+      "chunk_id": "6393904a-dd55-46e5-83e7-7ba0e8387679",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of various films.",
+      "context_title": "Want So Much To Believe",
+      "page_content": "Want So Much To Believe is directed by Gunnar Höglund."
+    },
+    {
+      "chunk_id": "f2084445-a1e2-43f3-904e-0ccd32abc7e1",
+      "chunk_title": "Cast & Crew",
+      "chunk_summary": "This chunk contains information about the cast of movies or media productions, specifically listing actors starring in particular titles.",
+      "context_title": "Want So Much To Believe",
+      "page_content": "Want So Much To Believe stars Christina Schollin. Want So Much To Believe stars Johnny Nash."
+    },
+    {
+      "chunk_id": "8740557e-f97d-4301-8759-245aa3ebb10b",
+      "chunk_title": "Romance Films",
+      "chunk_summary": "This chunk contains information about romance films, including their titles and release years.",
+      "context_title": "Want So Much To Believe",
+      "page_content": "Want So Much To Believe is a 1971 romance film."
+    },
+    {
+      "chunk_id": "65e198f6-f0b4-44e8-a7a0-03c428a94098",
+      "chunk_title": "Short Film Details",
+      "chunk_summary": "This chunk contains information about the 2010 short film \"I Want Your Love,\" including its director, writer, genre, plot, casting details, and content warnings.",
+      "context_title": "I Want Your Love (film)",
+      "page_content": "The 2010 short film I Want Your Love revolves around the friends and ex-lovers of Jesse Metzger. The actors' own names were used for their characters in the 2010 short film I Want Your Love. The 2010 short film I Want Your Love was directed by Travis Mathews. The 2010 short film I Want Your Love is a drama film. Much of the actors' real-life stories were used for their characters in the 2010 short film I Want Your Love. The 2010 short film I Want Your Love features graphic sexual scenes. The 2010 short film I Want Your Love was written by Travis Mathews. I Want Your Love is the title of a 2010 short film. The production of the 2010 short film I Want Your Love was aided by the gay pornographic studio NakedSword."
+    },
+    {
+      "chunk_id": "29587b85-4cd2-4091-ba94-2056c21344ab",
+      "chunk_title": "I Want Your Love Films",
+      "chunk_summary": "This chunk contains information about the 2010 short film and 2012 feature-length film \"I Want Your Love,\" including their production, creative team, plot, casting approach, content, and classification issues; please add further details regarding these specific films or related works by Travis Mathews.",
+      "context_title": "I Want Your Love (film)",
+      "page_content": "The 2010 short film I Want Your Love revolves around the friends and ex-lovers of Jesse Metzger. I Want Your Love is the title of a 2010 short film. James Franco invited Travis Mathews to collaborate on Franco's film Interior. Leather Bar. The full-length film I Want Your Love was refused exemption from classification. The 2010 short film I Want Your Love was directed by Travis Mathews. Much of the actors' real-life stories were used for their characters in the 2010 short film I Want Your Love. The 2010 short film I Want Your Love was written by Travis Mathews. The 2012 feature-length film I Want Your Love features graphic sexual scenes. James Franco reacted negatively to the decision to refuse exemption from classification for the full-length film I Want Your Love. The production of the 2012 feature-length film I Want Your Love was aided by the gay pornographic studio NakedSword. The actors' own names were used for their characters in the 2010 short film I Want Your Love. The 2012 feature-length film I Want Your Love revolves around the friends and ex-lovers of Jesse Metzger. The production of the 2010 short film I Want Your Love was aided by the gay pornographic studio NakedSword. The 2010 short film I Want Your Love features graphic sexual scenes. Much of the actors' real-life stories were used for their characters in the 2012 feature-length film I Want Your Love. The actors' own names were used for their characters in the 2012 feature-length film I Want Your Love. Exemption from classification would have allowed the full-length film I Want Your Love to screen at the Melbourne Queer Film Festival. The 2010 short film I Want Your Love is a drama film."
+    },
+    {
+      "chunk_id": "4644ef3a-9819-4839-9d5b-88fc2979a079",
+      "chunk_title": "I Want Your Love Films",
+      "chunk_summary": "This chunk contains information about the 2010 short film and 2012 feature-length film \"I Want Your Love,\" including their director, writer, genre, plot, casting details, production background, and classification status; please add further details regarding these specific films or other works by Travis Mathews.",
+      "context_title": "I Want Your Love (film)",
+      "page_content": "James Franco invited Travis Mathews to collaborate on Franco's film Interior. Leather Bar. The full-length film I Want Your Love was refused exemption from classification. The 2010 short film I Want Your Love was written by Travis Mathews. The production of the 2010 short film I Want Your Love was aided by the gay pornographic studio NakedSword. The 2010 short film I Want Your Love revolves around the friends and ex-lovers of Jesse Metzger. I Want Your Love is the title of a 2010 short film. Much of the actors' real-life stories were used for their characters in the 2010 short film I Want Your Love. The actors' own names were used for their characters in the 2012 feature-length film I Want Your Love. Exemption from classification would have allowed the full-length film I Want Your Love to screen at the Melbourne Queer Film Festival. The 2012 feature-length film I Want Your Love revolves around the friends and ex-lovers of Jesse Metzger. The 2010 short film I Want Your Love was directed by Travis Mathews. The 2010 short film I Want Your Love is a drama film. The 2012 feature-length film I Want Your Love features graphic sexual scenes. The production of the 2012 feature-length film I Want Your Love was aided by the gay pornographic studio NakedSword. The actors' own names were used for their characters in the 2010 short film I Want Your Love. Much of the actors' real-life stories were used for their characters in the 2012 feature-length film I Want Your Love. James Franco reacted negatively to the decision to refuse exemption from classification for the full-length film I Want Your Love. The 2010 short film I Want Your Love features graphic sexual scenes."
+    },
+    {
+      "chunk_id": "b7536a50-11a2-43c2-b279-093e2c156c4e",
+      "chunk_title": "I Want Your Love Films",
+      "chunk_summary": "This chunk contains information about the 2010 short film and 2012 feature-length film \"I Want Your Love,\" including their director, writer, genre, plot, casting details, production background, and classification status; please add further details regarding these specific films or other works by Travis Mathews.",
+      "context_title": "I Want Your Love (film)",
+      "page_content": "The 2010 short film I Want Your Love was written by Travis Mathews. The full-length film I Want Your Love was refused exemption from classification. Exemption from classification would have allowed the full-length film I Want Your Love to screen at the Melbourne Queer Film Festival. The actors' own names were used for their characters in the 2012 feature-length film I Want Your Love. The 2010 short film I Want Your Love is a drama film. Much of the actors' real-life stories were used for their characters in the 2012 feature-length film I Want Your Love. The actors' own names were used for their characters in the 2010 short film I Want Your Love. The production of the 2010 short film I Want Your Love was aided by the gay pornographic studio NakedSword. The 2010 short film I Want Your Love features graphic sexual scenes. I Want Your Love is the title of a 2010 short film. James Franco reacted negatively to the decision to refuse exemption from classification for the full-length film I Want Your Love. The 2010 short film I Want Your Love was directed by Travis Mathews. The 2012 feature-length film I Want Your Love revolves around the friends and ex-lovers of Jesse Metzger. The production of the 2012 feature-length film I Want Your Love was aided by the gay pornographic studio NakedSword. James Franco invited Travis Mathews to collaborate on Franco's film Interior. Leather Bar. The 2012 feature-length film I Want Your Love features graphic sexual scenes. Much of the actors' real-life stories were used for their characters in the 2010 short film I Want Your Love. The 2010 short film I Want Your Love revolves around the friends and ex-lovers of Jesse Metzger."
+    },
+    {
+      "chunk_id": "f1969a53-19d7-4ebe-88dc-e7d2bf02d66a",
+      "chunk_title": "Translations",
+      "chunk_summary": "This chunk contains information about the translations of titles or phrases into different languages.",
+      "context_title": "Want So Much To Believe",
+      "page_content": "Want So Much To Believe is known in Swedish as Vill så gärna tro."
+    },
+    {
+      "chunk_id": "f7b64939-eb45-42ef-9fe6-908243052deb",
+      "chunk_title": "Films & Adaptations",
+      "chunk_summary": "This chunk contains information about the Swedish film \"The Children of Noisy Village,\" its sequel, and their adaptation into a TV series, including details on release dates and formats.",
+      "context_title": "The Children of Noisy Village (film)",
+      "page_content": "The Children of Noisy Village was released to cinemas in Sweden on 6 December 1986. The 7 episode TV series based on The Children of Noisy Village and More About the Children of Noisy Village was broadcast in 1989. The Children of Noisy Village is a Swedish film. The two movies, The Children of Noisy Village and More About the Children of Noisy Village, were reworked into a 7 episode TV series. A sequel titled More About the Children of Noisy Village premiered the year after 1986."
+    },
+    {
+      "chunk_id": "790b6a2c-de89-4e5e-bba8-b8eddadeedfb",
+      "chunk_title": "Film Details & Adaptations",
+      "chunk_summary": "This chunk contains information about the Swedish film \"More About the Children of Noisy Village,\" including its release date, director, literary source material, its status as a sequel, and related media adaptations.",
+      "context_title": "More About the Children of Noisy Village",
+      "page_content": "The Children of Noisy Village premiered in 1986. More About the Children of Noisy Village and The Children of Noisy Village were reworked into a seven episode TV-series. More About the Children of Noisy Village was directed by Lasse Hallström. More About the Children of Noisy Village is based on the books about The Six Bullerby Children. The books about The Six Bullerby Children were written by Astrid Lindgren. More About the Children of Noisy Village is a Swedish film. The seven episode TV-series based on More About the Children of Noisy Village and The Children of Noisy Village was broadcast in 1989. More About the Children of Noisy Village is a sequel to The Children of Noisy Village. More About the Children of Noisy Village was released to cinemas in Sweden on 5 September 1987."
+    },
+    {
+      "chunk_id": "8cb9ef3f-86c7-4ae4-a6d3-d096723cff98",
+      "chunk_title": "Films & Details",
+      "chunk_summary": "This chunk contains information about specific films, including their titles, countries of origin, genres, and release years.",
+      "context_title": "Bombay Dreams (film)",
+      "page_content": "Bombay Dreams is a film. Bombay Dreams is from 2004. Bombay Dreams is a comedy film. Bombay Dreams is a Swedish film."
+    },
+    {
+      "chunk_id": "2814eb84-be79-4ff1-9ff4-dbbe4739b874",
+      "chunk_title": "Documentary Films",
+      "chunk_summary": "This chunk contains information about documentary films, including their titles, countries of origin, subject matters, and release dates.",
+      "context_title": "The Planet (film)",
+      "page_content": "The Planet is a documentary film on environmental issues. The Planet is a Swedish documentary film. The Planet was released in 2006."
+    },
+    {
+      "chunk_id": "46d04ab5-d0e5-4c61-bbf1-fed04bc7d6f3",
+      "chunk_title": "Dollar Film Details",
+      "chunk_summary": "This chunk contains information about the 1938 Swedish comedy film Dollar, including its director, cast, and art direction.",
+      "context_title": "Dollar (1938 film)",
+      "page_content": "Dollar is a 1938 Swedish comedy film. Georg Rydeberg starred in the 1938 Swedish comedy film Dollar. The art direction of the 1938 Swedish comedy film Dollar was by Arne Åkermark. Ingrid Bergman starred in the 1938 Swedish comedy film Dollar. Tutta Rolf starred in the 1938 Swedish comedy film Dollar. Gustaf Molander directed the 1938 Swedish comedy film Dollar. Dollar was directed by Gustaf Molander."
+    },
+    {
+      "chunk_id": "c5724394-8e8d-4a53-8736-865192dc5c2c",
+      "chunk_title": "Bombay Dreams Film Details",
+      "chunk_summary": "This chunk contains information about the film Bombay Dreams, including its genre, country of origin, and release year.",
+      "context_title": "Bombay Dreams (film)",
+      "page_content": "Bombay Dreams is a Swedish comedy film. Bombay Dreams is a film. Bombay Dreams is from 2004."
+    },
+    {
+      "chunk_id": "b1ccc9ee-1d4c-4652-9abc-a1ee21e51148",
+      "chunk_title": "Frederick de Cordova Films",
+      "chunk_summary": "This chunk contains information about films directed by Frederick de Cordova.",
+      "context_title": "I'll Take Sweden",
+      "page_content": "Frederick de Cordova directed the 1965 comedy film I'll Take Sweden. I'll Take Sweden was directed by Frederick de Cordova."
+    },
+    {
+      "chunk_id": "ce8a84c1-6d23-4ec8-8e67-d64d56d4a6af",
+      "chunk_title": "Crazy Heart Film Details",
+      "chunk_summary": "This chunk contains comprehensive information about the 2009 film Crazy Heart, including its production details, creative team, source material, plot summary, cast, filming locations, music, and awards.",
+      "context_title": "Crazy Heart",
+      "page_content": "Jeff Bridges earned the 2009 Academy Award for Best Actor for his performance in the film Crazy Heart. Colin Farrell played a supporting role in the film Crazy Heart. The film Crazy Heart was produced by Country Music Television. Colin Farrell sings in the film Crazy Heart. Original music for the film Crazy Heart was composed by Stephen Bruton. Crazy Heart was Scott Cooper's directorial debut. The film Crazy Heart was originally acquired by Paramount Vantage for a direct-to-video release. Ryan Bingham received the 2009 Academy Award for Best Original Song for co-writing \"The Weary Kind\". Filming for the film Crazy Heart took place in Los Angeles, California. The novel on which the film Crazy Heart was based was inspired by country singer Hank Thompson. Crazy Heart was written by Scott Cooper. Filming for the film Crazy Heart took place in Santa Fe, New Mexico. The character played by Jeff Bridges tries to turn his life around after beginning a relationship with a young journalist. T Bone Burnett received the 2009 Academy Award for Best Original Song for co-writing \"The Weary Kind\". Crazy Heart is based on the 1987 novel of the same name. The film Crazy Heart ends with a dedication to musician Stephen Bruton. Filming for the film Crazy Heart took place during 2008. Filming for the film Crazy Heart took place in Albuquerque, New Mexico. Jeff Bridges sings in the film Crazy Heart. Ryan Bingham performed \"The Weary Kind\". Filming for the film Crazy Heart took place in New Mexico. The film Crazy Heart was produced for $7 million. The film Crazy Heart was later purchased for theatrical distribution by Fox Searchlight Pictures. Robert Duvall played a supporting role in the film Crazy Heart. Robert Duvall sings in the film Crazy Heart. The film Crazy Heart amassed international earnings of $7.9 million. Jack Nation played a supporting role in the film Crazy Heart. Filming for the film Crazy Heart took place in Española, New Mexico. Filming for the film Crazy Heart took place in Houston, Texas. Original music for the film Crazy Heart was composed by T Bone Burnett. Filming for the film Crazy Heart took place in Galisteo, New Mexico. The 1987 novel Crazy Heart was written by Thomas Cobb. The film Crazy Heart was made in 2009. Jeff Bridges played the down-and-out country music singer-songwriter in the film Crazy Heart. Crazy Heart was directed by Scott Cooper. Original music for the film Crazy Heart was composed by others. The film Crazy Heart amassed domestic earnings of $39.5 million. The film Crazy Heart centers around a down-and-out country music singer-songwriter. Maggie Gyllenhaal played a young journalist in the film Crazy Heart. The film Crazy Heart amassed a worldwide total of $47.4 million. The film Crazy Heart opened in limited release in the U.S. on December 16, 2009. Crazy Heart is a 2009 American drama film. Original music for the film Crazy Heart was composed by Ryan Bingham."
+    },
+    {
+      "chunk_id": "e9908acb-6a21-412d-9a47-103895641cb9",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the film \"I Want Someone to Eat Cheese With,\" including its release year, country of origin, production type, genre, and key cast and crew members.",
+      "context_title": "I Want Someone to Eat Cheese With",
+      "page_content": "Sarah Silverman appeared in I Want Someone to Eat Cheese With. Jeff Garlin starred in I Want Someone to Eat Cheese With. I Want Someone to Eat Cheese With is an American film. Jeff Garlin wrote I Want Someone to Eat Cheese With. I Want Someone to Eat Cheese With is a 2006 film. Bonnie Hunt appeared in I Want Someone to Eat Cheese With. Improv veterans of Compass Players appear in I Want Someone to Eat Cheese With. I Want Someone to Eat Cheese With is a romantic comedy film. Jeff Garlin produced I Want Someone to Eat Cheese With. I Want Someone to Eat Cheese With is an independent film. Many improv veterans of Chicago's Second City appear in I Want Someone to Eat Cheese With. Steve Dahl appeared in a cameo in I Want Someone to Eat Cheese With. Jeff Garlin directed I Want Someone to Eat Cheese With."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2,
+  "retrieval_count": 6,
+  "total_chunks": 25,
+  "total_distinct_titles": 17,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两部电影是否来自同一国家",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态取决于子节点。当前 N1_1 已解决（United States），但 N1_2 未解决（无答案）。推理链不完整，无法合成最终结论。",
+          "critic_normative_advice": "建议等待 N1_2 解决后再进行 ROOT 节点的最终判定。当前结构合理，需补全缺失事实。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the country of origin for the movie The Road To Divorce?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie The Road To Divorce?",
+          "planner_rationale": "Q 询问两部电影是否来自同一国家，因此必须首先确定第一部电影《The Road To Divorce》的制片国家",
+          "solver_judgment": "question 要求确认电影《The Road To Divorce》的原产国。search_query 搜索了 'What is the country of origin for the movie The Road To Divorce?'。chunks 返回了关于该电影的详细信息，其中 chunk_4b42b69f-1434-45b2-b8f7-3ce5fcaa8846 明确记载 'The Road to Divorce is a 1920 American silent drama film'，'American' 指代原产国为美国。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'The Road to Divorce'）。Chunk [4b42b69f...] 明确陈述 'The Road to Divorce is a 1920 American silent drama film'。'American' 直接对应原产国 United States。证据充分且直接。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the country of origin for the movie Want So Much To Believe?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "What is the country of origin for the movie Want So Much To Believe?",
+          "planner_rationale": "Q 询问两部电影是否来自同一国家，因此必须首先确定第二部电影《Want So Much To Believe》的制片国家",
+          "solver_judgment": "question 要求提供电影《Want So Much To Believe》的原产国（country of origin）。search_query 搜索了该电影的起源国家。chunks 返回了关于该电影的导演（Gunnar Höglund）、演员（Christina Schollin, Johnny Nash）、类型和年份（1971 romance film）以及瑞典语译名（Vill så gärna tro）的信息。虽然瑞典语译名暗示该电影可能来自瑞典，但 chunks 中并没有明确陈述其原产国是瑞典或其他任何国家。因此，无法从提供的文本中直接提取出确切的“country of origin”答案。检索结果提供了相关元数据，但缺少核心的地理位置/国家属性字段。",
+          "critic_factual_notes": "4 个相关来源（文档 'Want So Much To Believe'）。Solver 指出 chunks 包含导演、演员、年份及瑞典语译名 'Vill så gärna tro'，但未找到明确的 'country of origin' 字段。虽然瑞典语译名强烈暗示瑞典，但缺乏直接陈述 'Country: Sweden' 的证据，属于有提示但不充分。",
+          "critic_normative_advice": "建议重搜或细化搜索——尝试查询 'Want So Much To Believe film country' 或直接搜索 'Vill så gärna tro film origin' 以获取更明确的国家属性声明。若 KB 中确实无直接陈述，可考虑基于瑞典语译名和导演 Gunnar Höglund（若已知为瑞典人）进行推理，但当前需先尝试获取直接证据。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两部电影是否来自同一国家。当前 N1_1 已解决，等待 N1_2 解决以完成比较。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2 的答案进行推理。N1_1 (United States) 证据充分且健康。N1_2 (Sweden) 虽标记为 solved，但其证据链存在逻辑跳跃（见 N1_2 审查），导致 ROOT 的最终结论缺乏坚实的事实基础。因此 ROOT 暂定为 needs_verification，待 N1_2 修正后可能转为 healthy。",
+          "critic_normative_advice": "建议等待 N1_2 的证据质量提升。当前 N1_2 的 'Sweden' 结论基于问题预设而非 KB 证据，需验证该电影是否确实为瑞典制作，或寻找更直接的产地声明。若 N1_2 确认为 healthy，则 ROOT 可合成最终答案 'No' (US vs Sweden)。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the country of origin for the movie The Road To Divorce?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie The Road To Divorce?",
+          "planner_rationale": "该事实已被正确确立（United States），Critic 判为 healthy，本轮原封不动保留。",
+          "solver_judgment": "question 要求确认电影《The Road To Divorce》的原产国。search_query 搜索了 'What is the country of origin for the movie The Road To Divorce?'。chunks 返回了关于该电影的详细信息，其中 chunk_4b42b69f-1434-45b2-b8f7-3ce5fcaa8846 明确记载 'The Road to Divorce is a 1920 American silent drama film'，'American' 指代原产国为美国。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'The Road to Divorce'）。Chunk [4b42b69f...] 明确陈述 'The Road to Divorce is a 1920 American silent drama film'。'American' 直接对应原产国 United States。证据充分、直接且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the country of origin for the Swedish film Vill så gärna tro (Want So Much To Believe)?",
+          "answer": "Sweden",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "What is the country of origin for the Swedish film Vill så gärna tro (Want So Much To Believe)?",
+          "planner_rationale": "上一轮搜索未找到明确的国家字段，但 Critic 指出瑞典语译名 'Vill så gärna tro' 强烈暗示瑞典来源。通过在新问题中明确提及瑞典语原名和 'Swedish film' 线索，旨在提高搜索精度，直接定位到确认其瑞典制片背景的证据。",
+          "solver_judgment": "question 要求确认瑞典电影《Vill så gärna tro》（Want So Much To Believe）的原产国。search_query 直接搜索了该电影的出处。chunks 返回了关于该电影的信息：chunk_6393904a-dd55-46e5-83e7-7ba0e8387679 指出其导演为 Gunnar Höglund，chunk_8740557e-f97d-4301-8759-245aa3ebb10b 指出其为 1971 年的浪漫电影。虽然这两个 chunk 没有显式写出“Country of origin: Sweden”，但问题本身已将其限定为“Swedish film”（瑞典电影），且检索结果确认了这些片段确实属于目标电影《Want So Much To Believe》。在电影语境中，“Swedish film”即意味着原产国为瑞典。其他 chunks 涉及的是完全不同的电影（如 The Children of Noisy Village, Bombay Dreams 等），与目标无关。因此，基于问题前提和检索到的实体确认，答案为瑞典。",
+          "critic_factual_notes": "2 个来源来自同一文档 'Want So Much To Believe'，非独立来源。Chunk [6393904a...] 仅提及导演 Gunnar Höglund；Chunk [8740557e...] 仅提及 '1971 romance film'。两个 chunk 均未显式声明 'Country of origin: Sweden' 或 'Swedish film'。Solver 声称答案 'Sweden' 是基于搜索查询中嵌入的前提 ('Swedish film') 以及导演姓名的推断，而非 KB 中的直接事实陈述。存在循环论证风险：用包含答案的查询去验证答案，但返回的片段并未证实该前提。",
+          "critic_normative_advice": "建议重搜或验证——当前证据不足以支撑 'Sweden' 这一事实声称。虽然导演 Gunnar Höglund 是瑞典人，强烈暗示电影为瑞典制作，但严格来说 KB 未提供直接证据。建议尝试搜索 'Vill så gärna tro country of origin' 或 'Gunnar Höglund filmography nationality' 以获取更明确的产地信息。若 KB 中确实无直接产地字段，需评估是否接受基于导演国籍的强推断，或在 factual_notes 中明确标注此为推断而非直接事实。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。当前 N1_1 (US) 已确立，N1_2 (Sweden) 证据存疑，需修正 N1_2 以完成比较。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2 的答案进行推理。N1_1 (United States) 证据充分且健康。N1_2 当前状态为 unsolved，无有效答案，导致 ROOT 无法完成比较推理。因此 ROOT 暂定为 needs_verification。",
+          "critic_normative_advice": "建议等待 N1_2 的证据质量提升。当前 N1_2 未能提供原产国证据，需修正搜索策略或确认 KB 是否覆盖该信息。若 N1_2 确认为 healthy，则 ROOT 可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the country of origin for the movie The Road To Divorce?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie The Road To Divorce?",
+          "planner_rationale": "该事实已被正确确立（United States），Critic 判为 healthy，本轮原封不动保留。",
+          "solver_judgment": "question 要求确认电影《The Road To Divorce》的原产国。search_query 搜索了 'What is the country of origin for the movie The Road To Divorce?'。chunks 返回了关于该电影的详细信息，其中 chunk_4b42b69f-1434-45b2-b8f7-3ce5fcaa8846 明确记载 'The Road to Divorce is a 1920 American silent drama film'，'American' 指代原产国为美国。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'The Road to Divorce'）。Chunk [4b42b69f...] 明确陈述 'The Road to Divorce is a 1920 American silent drama film'。'American' 直接对应原产国 United States。证据充分、直接且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the country of origin for the film directed by Gunnar Höglund titled 'Vill så gärna tro'?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What is the country of origin for the film directed by Gunnar Höglund titled 'Vill så gärna tro'?",
+          "planner_rationale": "上一轮搜索虽确认了电影实体和导演，但 Critic 指出证据链存在循环论证风险（依赖问题预设而非 KB 直接陈述）。本轮移除问题中的 'Swedish' 预设，改为通过导演 Gunnar Höglund（瑞典知名导演）和瑞典语原名 'Vill så gärna tro' 作为检索锚点，期望 KB 中关于该导演作品列表或电影元数据的条目能显式包含 'Sweden' 或 'Swedish' 产地信息，从而获得独立于问题预设的证据。",
+          "solver_judgment": "question 要求找出由 Gunnar Höglund 执导、题为 'Vill så gärna tro' 的电影的原产国。search_query 搜索了该电影的原产国信息。chunks 返回的结果中：chunk_6393904a-dd55-46e5-83e7-7ba0e8387679 确认了 'Want So Much To Believe' 由 Gunnar Höglund 执导；chunk_f1969a53-19d7-4ebe-88dc-e7d2bf02d66a 确认了 'Want So Much To Believe' 的瑞典语标题是 'Vill så gärna tro'。虽然这两块 chunk 成功关联了导演和标题，但它们均未提及该电影的原产国（country of origin）。其他 chunk 涉及的是完全不同的电影（如 'Crazy Heart', 'The Children of Noisy Village' 等）或无关主题。因此，尽管检索命中了正确的实体，但缺失了问题所需的关键属性（原产国），无法提取答案。",
+          "critic_factual_notes": "搜索返回了 8 个 chunk，其中 2 个来自 'Want So Much To Believe' 文档。Chunk [6393904a...] 确认导演为 Gunnar Höglund，Chunk [f1969a53...] 确认瑞典语标题为 'Vill så gärna tro'。然而，没有任何 chunk 提及该电影的原产国（country of origin）。其他 chunk 涉及完全不同的电影或无关主题。虽然实体识别正确，但关键属性（原产国）缺失，导致无法提取答案。",
+          "critic_normative_advice": "建议换搜索方向或放弃此方向。当前搜索已确认实体关联，但 KB 中似乎缺乏该电影原产国的直接陈述。尝试搜索 'Gunnar Höglund filmography country' 或 'Vill så gärna tro production country'。若仍无结果，可能需接受 KB 未覆盖此事实，标记为 unreliable 或基于导演国籍推理（需注明推理风险）。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。当前 N1_1 (US) 已确立，N1_2 证据存疑，需修正 N1_2 以完成比较。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2 的答案进行推理。N1_1 (United States) 证据充分且健康。N1_2 当前状态为 unsolved，无有效答案，导致 ROOT 无法完成比较推理。因此 ROOT 暂定为 needs_verification。",
+          "critic_normative_advice": "建议等待 N1_2 的证据质量提升。当前 N1_2 未能提供原产国证据，需修正搜索策略或确认 KB 是否覆盖该信息。若 N1_2 确认为 healthy，则 ROOT 可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the country of origin for the movie The Road To Divorce?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie The Road To Divorce?",
+          "planner_rationale": "该事实已被正确确立（United States），Critic 判为 healthy，本轮原封不动保留。",
+          "solver_judgment": "question 要求确认电影《The Road To Divorce》的原产国。search_query 搜索了 'What is the country of origin for the movie The Road To Divorce?'。chunks 返回了关于该电影的详细信息，其中 chunk_4b42b69f-1434-45b2-b8f7-3ce5fcaa8846 明确记载 'The Road to Divorce is a 1920 American silent drama film'，'American' 指代原产国为美国。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'The Road to Divorce'）。Chunk [4b42b69f...] 明确陈述 'The Road to Divorce is a 1920 American silent drama film'。'American' 直接对应原产国 United States。证据充分、直接且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the country of origin for the film 'Want So Much To Believe'?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What is the country of origin for the film 'Want So Much To Believe'?",
+          "planner_rationale": "上一轮搜索虽确认了实体关联（导演 Gunnar Höglund、瑞典语标题），但未返回原产国元数据。Critic 建议尝试更直接的搜索或基于导演国籍推理。本轮简化 question，移除可能干扰的导演名和原名细节，直接询问电影 'Want So Much To Believe' 的原产国，期望 KB 中该电影的主条目能直接包含 'Country: Sweden' 或类似陈述。若仍失败，则需考虑接受基于导演国籍的推理证据。",
+          "solver_judgment": "question 要求提供电影 'Want So Much To Believe' 的原产国。search_query 搜索了该电影的原产国。chunks 返回了关于 'Want So Much To Believe' 的信息（chunk 8740557e-f97d-4301-8759-245aa3ebb10b 和 chunk 6393904a-dd55-46e5-83e7-7ba0e8387679），但仅包含其类型（romance film）、年份（1971）和导演（Gunnar Höglund），未提及原产国。其他 chunks 涉及的是名称相似但不同的电影（如 'I Want Someone to Eat Cheese With' 和 'I Want Your Love'）。因此，chunks 中缺少回答 question 所需的关键信息。",
+          "critic_factual_notes": "搜索返回了关于电影 'Want So Much To Believe' 的元数据（导演、年份、类型），但所有相关 chunk（来源: Want So Much To Believe）均未包含 'country of origin' 或具体国家名称。其他返回结果涉及不同电影（如 'I Want Someone to Eat Cheese With'），不相关。KB 中该实体缺乏原产国属性记录。",
+          "critic_normative_advice": "建议放弃直接搜索原产国——KB 中该电影条目似乎缺失此字段。建议尝试间接推理：搜索导演 Gunnar Höglund 的国籍或主要工作国家，作为原产国的强代理证据；或者搜索该电影的瑞典语原名 'Vill så gärna tro' 是否有更完整的元数据条目。若间接证据仍不足，则标记为 KB 未覆盖。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are the movies The Road To Divorce and Want So Much To Believe, from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。当前 N1_1 (US) 已确立，N1_2 证据存疑，需修正 N1_2 以完成比较。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2 的答案进行推理。N1_1 (United States) 证据充分且健康。N1_2 当前状态为 unsolved，无有效答案，导致 ROOT 无法完成比较推理。因此 ROOT 暂定为 needs_verification。",
+          "critic_normative_advice": "建议等待 N1_2 的证据质量提升。当前 N1_2 未能提供原产国证据，需修正搜索策略或确认 KB 是否覆盖该信息。若 N1_2 确认为 healthy，则 ROOT 可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the country of origin for the movie The Road To Divorce?",
+          "answer": "United States",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the country of origin for the movie The Road To Divorce?",
+          "planner_rationale": "该事实已被正确确立（United States），Critic 判为 healthy，本轮原封不动保留。",
+          "solver_judgment": "question 要求确认电影《The Road To Divorce》的原产国。search_query 搜索了 'What is the country of origin for the movie The Road To Divorce?'。chunks 返回了关于该电影的详细信息，其中 chunk_4b42b69f-1434-45b2-b8f7-3ce5fcaa8846 明确记载 'The Road to Divorce is a 1920 American silent drama film'，'American' 指代原产国为美国。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'The Road to Divorce'）。Chunk [4b42b69f-1434-45b2-b8f7-3ce5fcaa8846] 明确陈述 'The Road to Divorce is a 1920 American silent drama film'。'American' 直接对应原产国 United States。证据充分、直接且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据确凿，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the country of origin for the film 'Want So Much To Believe'?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What is the country of origin for the film 'Want So Much To Believe'?",
+          "planner_rationale": "上一轮简化查询仍未能获取原产国元数据。Critic 指出 KB 中该条目可能缺失此字段，建议尝试间接推理或确认 KB 覆盖度。本轮保持 question 不变但重置状态，期望 Solver 在新一轮搜索中能挖掘出之前遗漏的元数据，或明确标记为不可用以便后续引入间接路径。",
+          "solver_judgment": "question 要求提供电影 'Want So Much To Believe' 的原产国。search_query 搜索了该电影的原产国。chunks 返回了关于 'Want So Much To Believe' 的信息（chunk 8740557e-f97d-4301-8759-245aa3ebb10b 和 chunk 6393904a-dd55-46e5-83e7-7ba0e8387679），但仅包含其类型（romance film）、年份（1971）和导演（Gunnar Höglund），未提及原产国。其他 chunks 涉及的是标题相似但不同的电影（如 'I Want Someone to Eat Cheese With' 和 'I Want Your Love'）。因此，chunks 中缺少回答 question 所需的关键信息。",
+          "critic_factual_notes": "搜索返回了关于电影 'Want So Much To Believe' 的元数据（导演、年份、类型），但所有相关 chunk（[8740557e...], [6393904a...]）均未包含 'country of origin' 字段。其他返回结果涉及标题相似但不同的电影，不相关。KB 中该实体缺失关键属性。",
+          "critic_normative_advice": "建议放弃直接搜索路径，转向间接推理。既然 KB 缺失直接的原产国元数据，应新增子节点查询导演 Gunnar Höglund 的国籍或主要工作国家，以此推断电影原产国。当前直接搜索已证实无效。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the country of origin for the movie The Road To Divorce?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "4b42b69f-1434-45b2-b8f7-3ce5fcaa8846",
+        "baff0afc-83d3-4bea-87c5-5051cc996d48",
+        "37d64a04-afb5-4f9f-8ef6-78d5e7698bdc",
+        "db2ec3b4-9ad0-42e0-be94-16f1e6b7bc1e",
+        "ef96ce0b-e33b-4d75-9e98-2f0261a25407",
+        "20e8538d-5bbb-4c1b-b110-92154019776b",
+        "0b82fcff-4b2c-4c6a-b610-f71a4ddba81c",
+        "d35c1542-c4fe-4d40-8889-ee10034821ca"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What is the country of origin for the movie Want So Much To Believe?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6393904a-dd55-46e5-83e7-7ba0e8387679",
+        "f2084445-a1e2-43f3-904e-0ccd32abc7e1",
+        "8740557e-f97d-4301-8759-245aa3ebb10b",
+        "65e198f6-f0b4-44e8-a7a0-03c428a94098",
+        "29587b85-4cd2-4091-ba94-2056c21344ab",
+        "4644ef3a-9819-4839-9d5b-88fc2979a079",
+        "b7536a50-11a2-43c2-b279-093e2c156c4e",
+        "f1969a53-19d7-4ebe-88dc-e7d2bf02d66a"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "What is the country of origin for the Swedish film Vill så gärna tro (Want So Much To Believe)?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6393904a-dd55-46e5-83e7-7ba0e8387679",
+        "8740557e-f97d-4301-8759-245aa3ebb10b",
+        "f7b64939-eb45-42ef-9fe6-908243052deb",
+        "790b6a2c-de89-4e5e-bba8-b8eddadeedfb",
+        "8cb9ef3f-86c7-4ae4-a6d3-d096723cff98",
+        "2814eb84-be79-4ff1-9ff4-dbbe4739b874",
+        "46d04ab5-d0e5-4c61-bbf1-fed04bc7d6f3",
+        "c5724394-8e8d-4a53-8736-865192dc5c2c"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "What is the country of origin for the film directed by Gunnar Höglund titled 'Vill så gärna tro'?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6393904a-dd55-46e5-83e7-7ba0e8387679",
+        "37d64a04-afb5-4f9f-8ef6-78d5e7698bdc",
+        "f1969a53-19d7-4ebe-88dc-e7d2bf02d66a",
+        "f7b64939-eb45-42ef-9fe6-908243052deb",
+        "db2ec3b4-9ad0-42e0-be94-16f1e6b7bc1e",
+        "b1ccc9ee-1d4c-4652-9abc-a1ee21e51148",
+        "ce8a84c1-6d23-4ec8-8e67-d64d56d4a6af",
+        "790b6a2c-de89-4e5e-bba8-b8eddadeedfb"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "What is the country of origin for the film 'Want So Much To Believe'?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8740557e-f97d-4301-8759-245aa3ebb10b",
+        "6393904a-dd55-46e5-83e7-7ba0e8387679",
+        "e9908acb-6a21-412d-9a47-103895641cb9",
+        "b7536a50-11a2-43c2-b279-093e2c156c4e",
+        "65e198f6-f0b4-44e8-a7a0-03c428a94098",
+        "4644ef3a-9819-4839-9d5b-88fc2979a079",
+        "29587b85-4cd2-4091-ba94-2056c21344ab",
+        "37d64a04-afb5-4f9f-8ef6-78d5e7698bdc"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "What is the country of origin for the film 'Want So Much To Believe'?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8740557e-f97d-4301-8759-245aa3ebb10b",
+        "6393904a-dd55-46e5-83e7-7ba0e8387679",
+        "e9908acb-6a21-412d-9a47-103895641cb9",
+        "b7536a50-11a2-43c2-b279-093e2c156c4e",
+        "65e198f6-f0b4-44e8-a7a0-03c428a94098",
+        "4644ef3a-9819-4839-9d5b-88fc2979a079",
+        "29587b85-4cd2-4091-ba94-2056c21344ab",
+        "37d64a04-afb5-4f9f-8ef6-78d5e7698bdc"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the country of origin for the movie The Road To Divorce?（理由：为了比较两部电影的国家，必须先知道第一部电影的国家），F2: What is the country of origin for the movie Want So Much To Believe?（理由：为了比较两部电影的国家，必须先知道第二部电影的国家）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。一旦 F1 和 F2 都得到解答，就可以比较它们的答案是否相同，从而回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的 critic_health 为 needs_verification（证据不充分），且系统条件①未满足（N1_2 状态为 unsolved）。推理链语义有效（条件②通过），但事实证据尚未完备。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: The Road To Divorce 的原产国（已确立为 United States），F2: Want So Much To Believe 的原产国（待确立，线索指向瑞典）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。一旦 F2 被确认为 Sweden（或其他国家），即可与 F1 比较得出 Q 的答案。",
+      "hypothesis_delta": "新增: 无。删除: 无。换标: N1_2 question 从 \"What is the country of origin for the movie Want So Much To Believe?\" 改为 \"What is the country of origin for the Swedish film Vill så gärna tro (Want So Much To Believe)?\", 原因：Critic 指出上一轮搜索虽返回元数据但缺乏明确国家陈述，且瑞典语译名是关键线索。通过在问题中注入 \"Swedish\" 和原名 \"Vill så gärna tro\"，期望 KB 中能检索到更明确的产地声明或分类信息。保留: N0, N1_1, N1_2 (重搜), 以及原有的 decomposition 边 N0→N1_1 和 N0→N1_2。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的 critic_health 为 needs_verification，非 healthy。其答案 'Sweden' 缺乏 KB 中的直接证据支撑，仅基于搜索查询的预设和间接推断。ROOT 节点也因此无法达到 healthy 状态。需进一步验证 N1_2 的事实依据。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: The Road To Divorce 的原产国（已确立为 United States，证据充分），F2: Want So Much To Believe (Vill så gärna tro) 的原产国（待通过更中立的搜索验证）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。一旦 F2 被确认为 Sweden（或其他国家），即可与 F1 比较得出 Q 的答案（No，如果不同；Yes，如果相同）。当前重点在于提升 F2 的证据质量，使其从 'needs_verification' 转为 'healthy'。",
+      "hypothesis_delta": "新增: 无。删除: 无。换标: N1_2 question 从 \"What is the country of origin for the Swedish film Vill så gärna tro (Want So Much To Believe)?\" 改为 \"What is the country of origin for the film directed by Gunnar Höglund titled 'Vill så gärna tro'?\", 原因：Critic 指出上一轮搜索存在循环论证风险（答案基于问题预设）。本轮移除预设词 'Swedish'，改用导演名和原名作为检索键，旨在从 KB 中获取独立的产地声明，而非依赖推断。保留: N0, N1_1, 以及原有的 decomposition 边 N0→N1_1 和 N0→N1_2。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的健康状态为 blocked（证据缺失），导致 condition_3_passed 为 False。此外，条件①也未满足（N1_2 未 SOLVED）。虽然推理链结构（条件②）语义有效，但缺乏足够的事实证据支撑最终答案。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: The Road To Divorce 的原产国（已确立为 United States，证据充分），F2: Want So Much To Believe 的原产国（待通过更直接的搜索验证）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。一旦 F2 被确认为 Sweden（或其他国家），即可与 F1 比较得出 Q 的答案。当前重点在于提升 F2 的证据质量，使其从 'blocked' 转为 'solved/healthy'。",
+      "hypothesis_delta": "新增: 无。删除: 无。换标: N1_2 question 从 \"What is the country of origin for the film directed by Gunnar Höglund titled 'Vill så gärna tro'?\" 改为 \"What is the country of origin for the film 'Want So Much To Believe'?\", 原因：上一轮搜索虽命中实体但缺失关键属性（原产国）。Critic 建议优化搜索策略。本轮尝试简化查询，直接使用英文片名作为核心检索词，期望 KB 中该电影的标准条目能提供更完整的元数据（包括原产国）。保留: N0, N1_1, 以及原有的 decomposition 边 N0→N1_1 和 N0→N1_2。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的健康状态为 blocked（证据不足/KB 未覆盖），导致整体 DAG 未完全 healthy。条件①也未满足（N1_2 未 SOLVED）。推理链语义有效（条件②通过），但证据链断裂。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: The Road To Divorce 的原产国（已确立为 United States），F2: Want So Much To Believe 的原产国（当前受阻，需重新尝试搜索或确认 KB 缺失）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。一旦 F2 被确认为某国（如 Sweden）或明确为 KB 未覆盖，即可与 F1 比较得出 Q 的答案。当前重点在于通过重搜 N1_2 验证直接路径是否彻底失效。",
+      "hypothesis_delta": "新增: 无。删除: 无。换标: N1_2 使用 INHERIT_AND_RELABEL 重置状态，question 保持不变（\"What is the country of origin for the film 'Want So Much To Believe'?\"），原因：虽然上一轮搜索失败，但 Critic 建议先确认 KB 是否真的完全缺失该属性。重置状态可触发 Solver 重新检索，若再次失败则更有力地证明需要引入间接推理路径（如导演国籍）。保留: N0, N1_1, 以及原有的 decomposition 边 N0→N1_1 和 N0→N1_2。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的健康状态为 blocked（证据不足/KB缺失），导致整体 DAG 未收敛。虽然推理链结构（条件②）在逻辑上成立，但缺乏必要的事实输入来完成 ROOT 节点的比较推理。此外，Planner 未针对 N1_2 的阻塞状态采取有效的结构修正（如引入间接推理节点），导致问题悬而未决。"
+      }
+    }
+  ]
+}

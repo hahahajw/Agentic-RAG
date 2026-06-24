@@ -1,0 +1,687 @@
+{
+  "question_index": 30,
+  "question_id": "5ae22eae554299495565da30",
+  "question": "What was the 2010 population of the town where Black Crescent Mountain was located? ",
+  "answer": "310",
+  "prediction": "310",
+  "error": null,
+  "latency_ms": 300604.4522000002,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T04:09:25.747367+00:00",
+  "chunks": [
+    {
+      "chunk_id": "32405e73-6f66-4013-9f8d-3195add00fb0",
+      "chunk_title": "Mountains & Locations",
+      "chunk_summary": "This chunk contains information about specific mountains, including their names, heights, rankings, geographical locations within mountain ranges and towns, and historical mapping details.",
+      "context_title": "Mount Crescent",
+      "page_content": "The Crescent Range is in the White Mountains. Black Crescent Mountain is 3,264 feet (995 m) high. On the 1896 topographic map, Black Crescent Mountain is shown as \"Mt. Crescent\". The summit of Mount Crescent is the second highest mountain summit in Randolph. Black Crescent Mountain is the highest mountain summit in Randolph. On the 1896 topographic map, Mount Crescent is shown as \"Randolph Mtn.\". On the 1896 topographic map, Mount Crescent is shown with an elevation of 3,280 ft. Black Crescent Mountain is in Randolph's Ice Gulch Town Forest. On the 1896 topographic map, Black Crescent Mountain is shown with an elevation of 3,322 ft. Mount Crescent is in Randolph's Ice Gulch Town Forest. Mount Crescent is a mountain. Mount Crescent is located in the Crescent Range. The White Mountains are in Randolph, New Hampshire. Mount Crescent is 3,251 ft (991 m) high."
+    },
+    {
+      "chunk_id": "d5872163-d878-4c81-ad7d-4caa737c5bcb",
+      "chunk_title": "Mountains & Locations",
+      "chunk_summary": "This chunk contains information about specific mountains, their names, and their geographical locations or ranges.",
+      "context_title": "Black Crescent Mountain",
+      "page_content": "The summit of Black Crescent Mountain is on the eastern boundary of the White Mountain National Forest. The Crescent Range is in the White Mountains. Randolph is in New Hampshire. Black Crescent Mountain is 4.7 mi southwest of Berlin. Black Crescent Mountain is a mountain. Berlin is in New Hampshire. Black Crescent Mountain is 4.4 mi north of Randolph. Black Crescent Mountain is in the Crescent Range."
+    },
+    {
+      "chunk_id": "b5d9e8b2-0d77-4788-949d-18611bc35448",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of mountain ranges.",
+      "context_title": "Crescent Range",
+      "page_content": "The Crescent Range is located in the White Mountains of New Hampshire in the United States."
+    },
+    {
+      "chunk_id": "5ea8b48d-0a45-4a77-9ca9-51f75a5b53c7",
+      "chunk_title": "Mountain Peaks",
+      "chunk_summary": "This chunk contains information about the highest peaks in mountain ranges, including their names and elevations.",
+      "context_title": "Crescent Range",
+      "page_content": "The highest peak in the Crescent Range is Black Crescent Mountain. Black Crescent Mountain has an elevation of 3264 ft."
+    },
+    {
+      "chunk_id": "92b8bd61-5733-4ceb-bdcf-33ff503838c8",
+      "chunk_title": "Black Mountain Summit Location",
+      "chunk_summary": "This chunk contains information about the geographical location of Black Mountain's summit, specifically detailing its proximity to state borders and nearby towns.",
+      "context_title": "Black Mountain (Kentucky)",
+      "page_content": "The summit of Black Mountain is located near the Virginia border. The summit of Black Mountain is located just above the town of Lynch, Kentucky. The summit of Black Mountain is located just above the town of Appalachia, Virginia."
+    },
+    {
+      "chunk_id": "d3da04d7-6ac2-488d-b866-3c312f53086d",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of specific places, including their county, state, and relative distance to nearby towns.",
+      "context_title": "Crescent Mills, California",
+      "page_content": "Crescent Mills is located in Plumas County, California, United States. Crescent Mills is located 3.5 mi southeast of Greenville."
+    },
+    {
+      "chunk_id": "08ca31a2-8ff0-4f3d-8b7d-1ae8b347f080",
+      "chunk_title": "Mountain Peaks",
+      "chunk_summary": "This chunk contains information about the highest mountain peaks in specific regions, including their names, summit elevations, top-to-bottom heights, and locations.",
+      "context_title": "Black Mountain (Kentucky)",
+      "page_content": "The summit of Black Mountain is located in Harlan County, Kentucky. Black Mountain is the highest mountain peak in the Commonwealth of Kentucky, USA. Black Mountain is about 500 ft taller than any other mountain in Kentucky. Black Mountain has a summit elevation of 4145 ft above mean sea level. Black Mountain has a top to bottom height of over 2500 ft."
+    },
+    {
+      "chunk_id": "4bf83a90-f463-4a70-9f97-5288b999e76a",
+      "chunk_title": "Census-Designated Places",
+      "chunk_summary": "This chunk contains information about the history and classification of specific census-designated places, including former names.",
+      "context_title": "Crescent Mills, California",
+      "page_content": "Crescent Mills was formerly known as Crescent City. Crescent Mills was formerly known as Crescent. Crescent Mills is a census-designated place (CDP)."
+    },
+    {
+      "chunk_id": "0c8bfc04-d77f-405c-b8e3-36f3fbd28c3d",
+      "chunk_title": "Mountain Range Names",
+      "chunk_summary": "This chunk contains information about alternative names for mountain ranges.",
+      "context_title": "Crescent Range",
+      "page_content": "The Crescent Range is sometimes referred to as the Randolph Mountains."
+    },
+    {
+      "chunk_id": "9201a54c-dbbd-4e5e-9081-c5d9a9759077",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of places within countries, including specific towns and landmarks.",
+      "context_title": "Old Man of the Mountain",
+      "page_content": "The site of the Old Man of the Mountain is located in the town of Franconia. New Hampshire is in the United States."
+    },
+    {
+      "chunk_id": "dd613112-f0d3-4276-9bdb-987fa7f88cc7",
+      "chunk_title": "Demographic Data",
+      "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various towns or locations.",
+      "context_title": "Randolph, New Hampshire",
+      "page_content": "As of the 2010 census, the town of Randolph had a total population of 310."
+    },
+    {
+      "chunk_id": "a6d2d2ed-fafd-435a-96b7-fa70ce426ce2",
+      "chunk_title": "Town Location & Classification",
+      "chunk_summary": "This chunk contains information about the location and classification of towns.",
+      "context_title": "Randolph, New Hampshire",
+      "page_content": "Randolph is a town in Coos County, New Hampshire, U.S."
+    },
+    {
+      "chunk_id": "0232331a-2444-4ff8-bc23-8655e4f6f7f5",
+      "chunk_title": "US Town Demographics",
+      "chunk_summary": "This chunk contains information about the location, administrative details, and population statistics of towns in the United States.",
+      "context_title": "Halifax, North Carolina",
+      "page_content": "The population of Halifax was 234 at the 2010 census. Halifax is the county seat of Halifax County. Halifax is a town in Halifax County, North Carolina, United States."
+    },
+    {
+      "chunk_id": "b23473ea-8397-4c48-8792-042fbb11fcf8",
+      "chunk_title": "Population Statistics",
+      "chunk_summary": "This chunk contains demographic data, such as population counts and growth rates from census records, for specific locations.",
+      "context_title": "Enfield, North Carolina",
+      "page_content": "The population of Enfield in the 2010 United States Census reflects an increase of almost 8% from the population of 2,347 at the 2000 census. The population of Enfield at the 2000 census was 2,347. As of the 2010 United States Census, the population of Enfield was 2,532."
+    },
+    {
+      "chunk_id": "30231dd3-eb0f-49ae-b79e-5344816b0404",
+      "chunk_title": "Population & Census Dates",
+      "chunk_summary": "This chunk contains information about the population of Henderson at specific census dates.",
+      "context_title": "Henderson, Texas",
+      "page_content": "The population of Henderson was 13,712 at the 2010 census."
+    },
+    {
+      "chunk_id": "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+      "chunk_title": "Population Counts",
+      "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+      "context_title": "Henderson Point, Mississippi",
+      "page_content": "The population of Henderson Point was 170 at the 2010 census."
+    },
+    {
+      "chunk_id": "56f3d7e9-4fbb-4f41-8b1d-e587b65220d2",
+      "chunk_title": "Population Counts",
+      "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+      "context_title": "Lakeland, Tennessee",
+      "page_content": "The population of Lakeland was 12,430 at the 2010 census."
+    },
+    {
+      "chunk_id": "d4b95142-d9e5-473f-afc6-6714d2ff66cb",
+      "chunk_title": "Population Statistics",
+      "chunk_summary": "This chunk contains information about the population of Walpole Town and its Census Designated Place.",
+      "context_title": "Walpole (CDP), Massachusetts",
+      "page_content": "The population of Walpole Town was 24,070 in 2010. The population of the Walpole Census Designated Place was 5,918 at the 2010 census."
+    },
+    {
+      "chunk_id": "09853571-d017-42bc-a070-e11d9310be69",
+      "chunk_title": "Population Statistics",
+      "chunk_summary": "This chunk contains demographic data, specifically population counts and growth rates from census records for Ada.",
+      "context_title": "Ada, Oklahoma",
+      "page_content": "The population of Ada at the 2010 census was an increase of 7.1 percent from the population at the 2000 census. The population of Ada was 15,691 at the 2000 census. The population of Ada was 16,810 at the 2010 census."
+    },
+    {
+      "chunk_id": "5604f2dd-174e-471f-bd9e-22eb2499f8a6",
+      "chunk_title": "Demographic Data",
+      "chunk_summary": "This chunk contains demographic data regarding population counts from census records.",
+      "context_title": "Holbrook, New York",
+      "page_content": "The population of Holbrook was 27,195 at the 2010 census."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 0.5,
+  "retrieval_precision": 0.15,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 15,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "What was the 2010 population of the town where Black Crescent Mountain was located? ",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What was the 2010 population of the town where Black Crescent Mountain was located? ",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需通过子事实聚合得出答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1(answer=Randolph) + N1_2(answer=310)。推理链完整：Black Crescent Mountain位于Randolph → Randolph的2010年人口为310 → Q的答案为310。两个子节点均为healthy，依赖边N1_1→N1_2语义有效（Randolph消解了'that town'）。",
+          "critic_normative_advice": "建议INHERIT——子节点推理链完整且一致，所有依赖边语义有效，证据充分支撑最终答案310。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which town is Black Crescent Mountain located in?",
+          "answer": "Randolph",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which town is Black Crescent Mountain located in?",
+          "planner_rationale": "Q 询问的是某镇的 2010 年人口，但首先需要确定 Black Crescent Mountain 位于哪个镇——这是回答 Q 的前置事实",
+          "solver_judgment": "question 要求确认 Black Crescent Mountain 所在的城镇。search_query 直接搜索了该问题。chunks 返回了相关信息，其中 chunk 32405e73-6f66-4013-9f8d-3195add00fb0 明确记载 'Black Crescent Mountain is the highest mountain summit in Randolph' 以及 'Black Crescent Mountain is in Randolph's Ice Gulch Town Forest'，直接指出其位于 Randolph。检索精准，信息完整。",
+          "critic_factual_notes": "1个来源（文档Mount Crescent），单来源但直接具体。支撑chunk [32405e73-6f66-4013-9f8d-3195add00fb0]全文逐字记载：'Black Crescent Mountain is the highest mountain summit in Randolph' 以及 'Black Crescent Mountain is in Randolph's Ice Gulch Town Forest'，明确陈述Black Crescent Mountain位于Randolph。答案'Randolph'与chunk内容完全匹配。交叉验证：不充分（仅1个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议INHERIT——单来源但证据直接、具体，答案与chunk内容精确匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "32405e73-6f66-4013-9f8d-3195add00fb0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "32405e73-6f66-4013-9f8d-3195add00fb0",
+              "chunk_title": "Mountains & Locations",
+              "chunk_summary": "This chunk contains information about specific mountains, including their names, heights, rankings, geographical locations within mountain ranges and towns, and historical mapping details.",
+              "context_title": "Mount Crescent",
+              "page_content": "The Crescent Range is in the White Mountains. Black Crescent Mountain is 3,264 feet (995 m) high. On the 1896 topographic map, Black Crescent Mountain is shown as \"Mt. Crescent\". The summit of Mount Crescent is the second highest mountain summit in Randolph. Black Crescent Mountain is the highest mountain summit in Randolph. On the 1896 topographic map, Mount Crescent is shown as \"Randolph Mtn.\". On the 1896 topographic map, Mount Crescent is shown with an elevation of 3,280 ft. Black Crescent Mountain is in Randolph's Ice Gulch Town Forest. On the 1896 topographic map, Black Crescent Mountain is shown with an elevation of 3,322 ft. Mount Crescent is in Randolph's Ice Gulch Town Forest. Mount Crescent is a mountain. Mount Crescent is located in the Crescent Range. The White Mountains are in Randolph, New Hampshire. Mount Crescent is 3,251 ft (991 m) high."
+            },
+            {
+              "chunk_id": "d5872163-d878-4c81-ad7d-4caa737c5bcb",
+              "chunk_title": "Mountains & Locations",
+              "chunk_summary": "This chunk contains information about specific mountains, their names, and their geographical locations or ranges.",
+              "context_title": "Black Crescent Mountain",
+              "page_content": "The summit of Black Crescent Mountain is on the eastern boundary of the White Mountain National Forest. The Crescent Range is in the White Mountains. Randolph is in New Hampshire. Black Crescent Mountain is 4.7 mi southwest of Berlin. Black Crescent Mountain is a mountain. Berlin is in New Hampshire. Black Crescent Mountain is 4.4 mi north of Randolph. Black Crescent Mountain is in the Crescent Range."
+            },
+            {
+              "chunk_id": "b5d9e8b2-0d77-4788-949d-18611bc35448",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of mountain ranges.",
+              "context_title": "Crescent Range",
+              "page_content": "The Crescent Range is located in the White Mountains of New Hampshire in the United States."
+            },
+            {
+              "chunk_id": "5ea8b48d-0a45-4a77-9ca9-51f75a5b53c7",
+              "chunk_title": "Mountain Peaks",
+              "chunk_summary": "This chunk contains information about the highest peaks in mountain ranges, including their names and elevations.",
+              "context_title": "Crescent Range",
+              "page_content": "The highest peak in the Crescent Range is Black Crescent Mountain. Black Crescent Mountain has an elevation of 3264 ft."
+            },
+            {
+              "chunk_id": "92b8bd61-5733-4ceb-bdcf-33ff503838c8",
+              "chunk_title": "Black Mountain Summit Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Black Mountain's summit, specifically detailing its proximity to state borders and nearby towns.",
+              "context_title": "Black Mountain (Kentucky)",
+              "page_content": "The summit of Black Mountain is located near the Virginia border. The summit of Black Mountain is located just above the town of Lynch, Kentucky. The summit of Black Mountain is located just above the town of Appalachia, Virginia."
+            },
+            {
+              "chunk_id": "d3da04d7-6ac2-488d-b866-3c312f53086d",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of specific places, including their county, state, and relative distance to nearby towns.",
+              "context_title": "Crescent Mills, California",
+              "page_content": "Crescent Mills is located in Plumas County, California, United States. Crescent Mills is located 3.5 mi southeast of Greenville."
+            },
+            {
+              "chunk_id": "08ca31a2-8ff0-4f3d-8b7d-1ae8b347f080",
+              "chunk_title": "Mountain Peaks",
+              "chunk_summary": "This chunk contains information about the highest mountain peaks in specific regions, including their names, summit elevations, top-to-bottom heights, and locations.",
+              "context_title": "Black Mountain (Kentucky)",
+              "page_content": "The summit of Black Mountain is located in Harlan County, Kentucky. Black Mountain is the highest mountain peak in the Commonwealth of Kentucky, USA. Black Mountain is about 500 ft taller than any other mountain in Kentucky. Black Mountain has a summit elevation of 4145 ft above mean sea level. Black Mountain has a top to bottom height of over 2500 ft."
+            },
+            {
+              "chunk_id": "4bf83a90-f463-4a70-9f97-5288b999e76a",
+              "chunk_title": "Census-Designated Places",
+              "chunk_summary": "This chunk contains information about the history and classification of specific census-designated places, including former names.",
+              "context_title": "Crescent Mills, California",
+              "page_content": "Crescent Mills was formerly known as Crescent City. Crescent Mills was formerly known as Crescent. Crescent Mills is a census-designated place (CDP)."
+            },
+            {
+              "chunk_id": "0c8bfc04-d77f-405c-b8e3-36f3fbd28c3d",
+              "chunk_title": "Mountain Range Names",
+              "chunk_summary": "This chunk contains information about alternative names for mountain ranges.",
+              "context_title": "Crescent Range",
+              "page_content": "The Crescent Range is sometimes referred to as the Randolph Mountains."
+            },
+            {
+              "chunk_id": "9201a54c-dbbd-4e5e-9081-c5d9a9759077",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of places within countries, including specific towns and landmarks.",
+              "context_title": "Old Man of the Mountain",
+              "page_content": "The site of the Old Man of the Mountain is located in the town of Franconia. New Hampshire is in the United States."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What was the 2010 population of that town?",
+          "answer": "310",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Randolph 2010 population",
+          "planner_rationale": "Q 的核心询问——目标镇的 2010 年人口。此问题中的 'that town' 指代前一个事实的答案，必须先消解才能搜索",
+          "solver_judgment": "question 要求确认'that town'的 2010 年人口。search_query 搜索了'Randolph 2010 population'。chunks 返回了 Randolph, New Hampshire 的人口数据，其中 chunk dd613112-f0d3-4276-9bdb-987fa7f88cc7 明确记载'As of the 2010 census, the town of Randolph had a total population of 310'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1个来源（文档Randolph, New Hampshire），单来源但直接具体。支撑chunk [dd613112-f0d3-4276-9bdb-987fa7f88cc7]全文逐字记载：'As of the 2010 census, the town of Randolph had a total population of 310.'，明确陈述Randolph镇2010年人口为310。答案'310'与chunk内容完全匹配。交叉验证：不充分（仅1个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议INHERIT——单来源但证据直接、具体，答案与chunk内容精确匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "dd613112-f0d3-4276-9bdb-987fa7f88cc7"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "dd613112-f0d3-4276-9bdb-987fa7f88cc7",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various towns or locations.",
+              "context_title": "Randolph, New Hampshire",
+              "page_content": "As of the 2010 census, the town of Randolph had a total population of 310."
+            },
+            {
+              "chunk_id": "a6d2d2ed-fafd-435a-96b7-fa70ce426ce2",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of towns.",
+              "context_title": "Randolph, New Hampshire",
+              "page_content": "Randolph is a town in Coos County, New Hampshire, U.S."
+            },
+            {
+              "chunk_id": "0232331a-2444-4ff8-bc23-8655e4f6f7f5",
+              "chunk_title": "US Town Demographics",
+              "chunk_summary": "This chunk contains information about the location, administrative details, and population statistics of towns in the United States.",
+              "context_title": "Halifax, North Carolina",
+              "page_content": "The population of Halifax was 234 at the 2010 census. Halifax is the county seat of Halifax County. Halifax is a town in Halifax County, North Carolina, United States."
+            },
+            {
+              "chunk_id": "b23473ea-8397-4c48-8792-042fbb11fcf8",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains demographic data, such as population counts and growth rates from census records, for specific locations.",
+              "context_title": "Enfield, North Carolina",
+              "page_content": "The population of Enfield in the 2010 United States Census reflects an increase of almost 8% from the population of 2,347 at the 2000 census. The population of Enfield at the 2000 census was 2,347. As of the 2010 United States Census, the population of Enfield was 2,532."
+            },
+            {
+              "chunk_id": "30231dd3-eb0f-49ae-b79e-5344816b0404",
+              "chunk_title": "Population & Census Dates",
+              "chunk_summary": "This chunk contains information about the population of Henderson at specific census dates.",
+              "context_title": "Henderson, Texas",
+              "page_content": "The population of Henderson was 13,712 at the 2010 census."
+            },
+            {
+              "chunk_id": "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "The population of Henderson Point was 170 at the 2010 census."
+            },
+            {
+              "chunk_id": "56f3d7e9-4fbb-4f41-8b1d-e587b65220d2",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Lakeland, Tennessee",
+              "page_content": "The population of Lakeland was 12,430 at the 2010 census."
+            },
+            {
+              "chunk_id": "d4b95142-d9e5-473f-afc6-6714d2ff66cb",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains information about the population of Walpole Town and its Census Designated Place.",
+              "context_title": "Walpole (CDP), Massachusetts",
+              "page_content": "The population of Walpole Town was 24,070 in 2010. The population of the Walpole Census Designated Place was 5,918 at the 2010 census."
+            },
+            {
+              "chunk_id": "09853571-d017-42bc-a070-e11d9310be69",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts and growth rates from census records for Ada.",
+              "context_title": "Ada, Oklahoma",
+              "page_content": "The population of Ada at the 2010 census was an increase of 7.1 percent from the population at the 2000 census. The population of Ada was 15,691 at the 2000 census. The population of Ada was 16,810 at the 2010 census."
+            },
+            {
+              "chunk_id": "5604f2dd-174e-471f-bd9e-22eb2499f8a6",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data regarding population counts from census records.",
+              "context_title": "Holbrook, New York",
+              "page_content": "The population of Holbrook was 27,195 at the 2010 census."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What was the 2010 population of the town where Black Crescent Mountain was located? ",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What was the 2010 population of the town where Black Crescent Mountain was located? ",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，子节点推理链完整（N1_1: Randolph, N1_2: 310），可聚合得出答案 310",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1(answer=Randolph) + N1_2(answer=310)。推理链完整：Black Crescent Mountain位于Randolph → Randolph的2010年人口为310 → Q的答案为310。两个子节点均为healthy，依赖边N1_1→N1_2语义有效（Randolph消解了'that town'）。",
+          "critic_normative_advice": "建议INHERIT——子节点推理链完整且一致，所有依赖边语义有效，证据充分支撑最终答案310。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which town is Black Crescent Mountain located in?",
+          "answer": "Randolph",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which town is Black Crescent Mountain located in?",
+          "planner_rationale": "Black Crescent Mountain 位于 Randolph，证据直接具体（支撑 chunk 32405e73 明确记载 'Black Crescent Mountain is the highest mountain summit in Randolph'），Critic 判为 healthy，无需进一步搜索",
+          "solver_judgment": "question 要求确认 Black Crescent Mountain 所在的城镇。search_query 直接搜索了该问题。chunks 返回了相关信息，其中 chunk 32405e73-6f66-4013-9f8d-3195add00fb0 明确记载 'Black Crescent Mountain is the highest mountain summit in Randolph' 以及 'Black Crescent Mountain is in Randolph's Ice Gulch Town Forest'，直接指出其位于 Randolph。检索精准，信息完整。",
+          "critic_factual_notes": "1个来源（文档Mount Crescent），单来源但直接具体。支撑chunk [32405e73-6f66-4013-9f8d-3195add00fb0]全文逐字记载：'Black Crescent Mountain is the highest mountain summit in Randolph' 以及 'Black Crescent Mountain is in Randolph's Ice Gulch Town Forest'，明确陈述Black Crescent Mountain位于Randolph。答案'Randolph'与chunk内容完全匹配。交叉验证：不充分（仅1个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议INHERIT——单来源但证据直接、具体，答案与chunk内容精确匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "32405e73-6f66-4013-9f8d-3195add00fb0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "32405e73-6f66-4013-9f8d-3195add00fb0",
+              "chunk_title": "Mountains & Locations",
+              "chunk_summary": "This chunk contains information about specific mountains, including their names, heights, rankings, geographical locations within mountain ranges and towns, and historical mapping details.",
+              "context_title": "Mount Crescent",
+              "page_content": "The Crescent Range is in the White Mountains. Black Crescent Mountain is 3,264 feet (995 m) high. On the 1896 topographic map, Black Crescent Mountain is shown as \"Mt. Crescent\". The summit of Mount Crescent is the second highest mountain summit in Randolph. Black Crescent Mountain is the highest mountain summit in Randolph. On the 1896 topographic map, Mount Crescent is shown as \"Randolph Mtn.\". On the 1896 topographic map, Mount Crescent is shown with an elevation of 3,280 ft. Black Crescent Mountain is in Randolph's Ice Gulch Town Forest. On the 1896 topographic map, Black Crescent Mountain is shown with an elevation of 3,322 ft. Mount Crescent is in Randolph's Ice Gulch Town Forest. Mount Crescent is a mountain. Mount Crescent is located in the Crescent Range. The White Mountains are in Randolph, New Hampshire. Mount Crescent is 3,251 ft (991 m) high."
+            },
+            {
+              "chunk_id": "d5872163-d878-4c81-ad7d-4caa737c5bcb",
+              "chunk_title": "Mountains & Locations",
+              "chunk_summary": "This chunk contains information about specific mountains, their names, and their geographical locations or ranges.",
+              "context_title": "Black Crescent Mountain",
+              "page_content": "The summit of Black Crescent Mountain is on the eastern boundary of the White Mountain National Forest. The Crescent Range is in the White Mountains. Randolph is in New Hampshire. Black Crescent Mountain is 4.7 mi southwest of Berlin. Black Crescent Mountain is a mountain. Berlin is in New Hampshire. Black Crescent Mountain is 4.4 mi north of Randolph. Black Crescent Mountain is in the Crescent Range."
+            },
+            {
+              "chunk_id": "b5d9e8b2-0d77-4788-949d-18611bc35448",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of mountain ranges.",
+              "context_title": "Crescent Range",
+              "page_content": "The Crescent Range is located in the White Mountains of New Hampshire in the United States."
+            },
+            {
+              "chunk_id": "5ea8b48d-0a45-4a77-9ca9-51f75a5b53c7",
+              "chunk_title": "Mountain Peaks",
+              "chunk_summary": "This chunk contains information about the highest peaks in mountain ranges, including their names and elevations.",
+              "context_title": "Crescent Range",
+              "page_content": "The highest peak in the Crescent Range is Black Crescent Mountain. Black Crescent Mountain has an elevation of 3264 ft."
+            },
+            {
+              "chunk_id": "92b8bd61-5733-4ceb-bdcf-33ff503838c8",
+              "chunk_title": "Black Mountain Summit Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Black Mountain's summit, specifically detailing its proximity to state borders and nearby towns.",
+              "context_title": "Black Mountain (Kentucky)",
+              "page_content": "The summit of Black Mountain is located near the Virginia border. The summit of Black Mountain is located just above the town of Lynch, Kentucky. The summit of Black Mountain is located just above the town of Appalachia, Virginia."
+            },
+            {
+              "chunk_id": "d3da04d7-6ac2-488d-b866-3c312f53086d",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of specific places, including their county, state, and relative distance to nearby towns.",
+              "context_title": "Crescent Mills, California",
+              "page_content": "Crescent Mills is located in Plumas County, California, United States. Crescent Mills is located 3.5 mi southeast of Greenville."
+            },
+            {
+              "chunk_id": "08ca31a2-8ff0-4f3d-8b7d-1ae8b347f080",
+              "chunk_title": "Mountain Peaks",
+              "chunk_summary": "This chunk contains information about the highest mountain peaks in specific regions, including their names, summit elevations, top-to-bottom heights, and locations.",
+              "context_title": "Black Mountain (Kentucky)",
+              "page_content": "The summit of Black Mountain is located in Harlan County, Kentucky. Black Mountain is the highest mountain peak in the Commonwealth of Kentucky, USA. Black Mountain is about 500 ft taller than any other mountain in Kentucky. Black Mountain has a summit elevation of 4145 ft above mean sea level. Black Mountain has a top to bottom height of over 2500 ft."
+            },
+            {
+              "chunk_id": "4bf83a90-f463-4a70-9f97-5288b999e76a",
+              "chunk_title": "Census-Designated Places",
+              "chunk_summary": "This chunk contains information about the history and classification of specific census-designated places, including former names.",
+              "context_title": "Crescent Mills, California",
+              "page_content": "Crescent Mills was formerly known as Crescent City. Crescent Mills was formerly known as Crescent. Crescent Mills is a census-designated place (CDP)."
+            },
+            {
+              "chunk_id": "0c8bfc04-d77f-405c-b8e3-36f3fbd28c3d",
+              "chunk_title": "Mountain Range Names",
+              "chunk_summary": "This chunk contains information about alternative names for mountain ranges.",
+              "context_title": "Crescent Range",
+              "page_content": "The Crescent Range is sometimes referred to as the Randolph Mountains."
+            },
+            {
+              "chunk_id": "9201a54c-dbbd-4e5e-9081-c5d9a9759077",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of places within countries, including specific towns and landmarks.",
+              "context_title": "Old Man of the Mountain",
+              "page_content": "The site of the Old Man of the Mountain is located in the town of Franconia. New Hampshire is in the United States."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What was the 2010 population of that town?",
+          "answer": "310",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Randolph 2010 population",
+          "planner_rationale": "Randolph 2010 年人口为 310，证据直接具体（支撑 chunk dd613112 明确记载 'As of the 2010 census, the town of Randolph had a total population of 310'），Critic 判为 healthy，无需进一步搜索",
+          "solver_judgment": "question 要求确认'that town'的 2010 年人口。search_query 搜索了'Randolph 2010 population'。chunks 返回了 Randolph, New Hampshire 的人口数据，其中 chunk dd613112-f0d3-4276-9bdb-987fa7f88cc7 明确记载'As of the 2010 census, the town of Randolph had a total population of 310'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1个来源（文档Randolph, New Hampshire），单来源但直接具体。支撑chunk [dd613112-f0d3-4276-9bdb-987fa7f88cc7]全文逐字记载：'As of the 2010 census, the town of Randolph had a total population of 310.'，明确陈述Randolph镇2010年人口为310。答案'310'与chunk内容完全匹配。交叉验证：不充分（仅1个来源），但来源直接且具体。",
+          "critic_normative_advice": "建议INHERIT——单来源但证据直接、具体，答案与chunk内容精确匹配，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "dd613112-f0d3-4276-9bdb-987fa7f88cc7"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "dd613112-f0d3-4276-9bdb-987fa7f88cc7",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, such as population counts from specific census years, for various towns or locations.",
+              "context_title": "Randolph, New Hampshire",
+              "page_content": "As of the 2010 census, the town of Randolph had a total population of 310."
+            },
+            {
+              "chunk_id": "a6d2d2ed-fafd-435a-96b7-fa70ce426ce2",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of towns.",
+              "context_title": "Randolph, New Hampshire",
+              "page_content": "Randolph is a town in Coos County, New Hampshire, U.S."
+            },
+            {
+              "chunk_id": "0232331a-2444-4ff8-bc23-8655e4f6f7f5",
+              "chunk_title": "US Town Demographics",
+              "chunk_summary": "This chunk contains information about the location, administrative details, and population statistics of towns in the United States.",
+              "context_title": "Halifax, North Carolina",
+              "page_content": "The population of Halifax was 234 at the 2010 census. Halifax is the county seat of Halifax County. Halifax is a town in Halifax County, North Carolina, United States."
+            },
+            {
+              "chunk_id": "b23473ea-8397-4c48-8792-042fbb11fcf8",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains demographic data, such as population counts and growth rates from census records, for specific locations.",
+              "context_title": "Enfield, North Carolina",
+              "page_content": "The population of Enfield in the 2010 United States Census reflects an increase of almost 8% from the population of 2,347 at the 2000 census. The population of Enfield at the 2000 census was 2,347. As of the 2010 United States Census, the population of Enfield was 2,532."
+            },
+            {
+              "chunk_id": "30231dd3-eb0f-49ae-b79e-5344816b0404",
+              "chunk_title": "Population & Census Dates",
+              "chunk_summary": "This chunk contains information about the population of Henderson at specific census dates.",
+              "context_title": "Henderson, Texas",
+              "page_content": "The population of Henderson was 13,712 at the 2010 census."
+            },
+            {
+              "chunk_id": "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "The population of Henderson Point was 170 at the 2010 census."
+            },
+            {
+              "chunk_id": "56f3d7e9-4fbb-4f41-8b1d-e587b65220d2",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Lakeland, Tennessee",
+              "page_content": "The population of Lakeland was 12,430 at the 2010 census."
+            },
+            {
+              "chunk_id": "d4b95142-d9e5-473f-afc6-6714d2ff66cb",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains information about the population of Walpole Town and its Census Designated Place.",
+              "context_title": "Walpole (CDP), Massachusetts",
+              "page_content": "The population of Walpole Town was 24,070 in 2010. The population of the Walpole Census Designated Place was 5,918 at the 2010 census."
+            },
+            {
+              "chunk_id": "09853571-d017-42bc-a070-e11d9310be69",
+              "chunk_title": "Population Statistics",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts and growth rates from census records for Ada.",
+              "context_title": "Ada, Oklahoma",
+              "page_content": "The population of Ada at the 2010 census was an increase of 7.1 percent from the population at the 2000 census. The population of Ada was 15,691 at the 2000 census. The population of Ada was 16,810 at the 2010 census."
+            },
+            {
+              "chunk_id": "5604f2dd-174e-471f-bd9e-22eb2499f8a6",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data regarding population counts from census records.",
+              "context_title": "Holbrook, New York",
+              "page_content": "The population of Holbrook was 27,195 at the 2010 census."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Which town is Black Crescent Mountain located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "32405e73-6f66-4013-9f8d-3195add00fb0",
+        "d5872163-d878-4c81-ad7d-4caa737c5bcb",
+        "b5d9e8b2-0d77-4788-949d-18611bc35448",
+        "5ea8b48d-0a45-4a77-9ca9-51f75a5b53c7",
+        "92b8bd61-5733-4ceb-bdcf-33ff503838c8",
+        "d3da04d7-6ac2-488d-b866-3c312f53086d",
+        "08ca31a2-8ff0-4f3d-8b7d-1ae8b347f080",
+        "4bf83a90-f463-4a70-9f97-5288b999e76a",
+        "0c8bfc04-d77f-405c-b8e3-36f3fbd28c3d",
+        "9201a54c-dbbd-4e5e-9081-c5d9a9759077"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Randolph 2010 population",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "dd613112-f0d3-4276-9bdb-987fa7f88cc7",
+        "a6d2d2ed-fafd-435a-96b7-fa70ce426ce2",
+        "0232331a-2444-4ff8-bc23-8655e4f6f7f5",
+        "b23473ea-8397-4c48-8792-042fbb11fcf8",
+        "30231dd3-eb0f-49ae-b79e-5344816b0404",
+        "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+        "56f3d7e9-4fbb-4f41-8b1d-e587b65220d2",
+        "d4b95142-d9e5-473f-afc6-6714d2ff66cb",
+        "09853571-d017-42bc-a070-e11d9310be69",
+        "5604f2dd-174e-471f-bd9e-22eb2499f8a6"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which town is Black Crescent Mountain located in?（理由：Q 询问的是某镇的人口，但首先需要识别出这个镇是哪个——这是定位目标实体的前置步骤），F2: What was the 2010 population of that town?（理由：Q 的核心询问——目标镇在 2010 年的人口数量）。关系: F1 是 Q 的分解产物（decomposition——要回答 Q 必须先知道镇名），F2 也是 Q 的分解产物（decomposition——人口数据是 Q 的直接答案），F1 是 F2 的前置条件（dependency——F2 的 question 中 'that town' 必须用 F1 的 answer 消解后才能构造有意义的搜索查询）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个嵌套查询（nested query），包含两个语义层次——(1) 定位实体：Black Crescent Mountain 位于哪个镇；(2) 查询属性：该镇 2010 年的人口。因此创建两个子节点，F1 负责定位，F2 负责查询人口。F2 对 F1 建立 dependency 边，因为 F2 的 question 中 'that town' 是指代词，必须用 F1 的 answer 消解。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点(N1_1, N1_2)均已SOLVED；④首轮无拓扑变化（视为通过）；②推理链语义匹配——路径N0→N1_1→N1_2中，N1_1的answer='Randolph'有效消解N1_2的'that town'指代，所有dependency步骤语义成立；③全部节点healthy——N1_1和N1_2均为单来源但直接具体，ROOT节点推理链完整一致。置信评估：推理链完整，所"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which town is Black Crescent Mountain located in?（理由：Q 是嵌套查询，需先定位目标实体——Black Crescent Mountain 所在的镇），F2: What was the 2010 population of that town?（理由：Q 的核心询问——该镇 2010 年的人口数量）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F1 是 F2 的前置条件（dependency——F2 的 question 中 'that town' 必须用 F1 的 answer 消解）。当前 DAG 已完整覆盖 Q 的所有语义需求，两个子节点均已 SOLVED + healthy，推理链完整：Black Crescent Mountain → Randolph → 310。",
+      "hypothesis_delta": "无结构调整——所有节点与边均 INHERIT。原因：上一轮假设被完全验证。N1_1（镇名定位）和 N1_2（人口查询）均已 SOLVED + healthy，Critic 确认证据直接具体、答案与 chunk 内容精确匹配、依赖边语义有效。DAG 结构简洁合理，无冗余无缺口，无需新增、删除或换标任何节点或边。推理链已闭合，Q 的答案 310 可由子节点聚合得出。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已SOLVED；②推理链语义完整——N1_1 answer='Randolph'消解N1_2 question中的'that town'，依赖链N0→N1_1→N1_2各环节语义有效；③全部节点（N0, N1_1, N1_2）critic_health均为healthy；④本轮拓扑与上一轮一致（无变化）。推理链完整闭合：Black Cresce"
+      }
+    }
+  ]
+}

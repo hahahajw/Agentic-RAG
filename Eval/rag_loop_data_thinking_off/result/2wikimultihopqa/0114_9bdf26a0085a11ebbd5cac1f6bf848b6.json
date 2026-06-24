@@ -1,0 +1,584 @@
+{
+  "question_index": 114,
+  "question_id": "9bdf26a0085a11ebbd5cac1f6bf848b6",
+  "question": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+  "answer": "Neil Lloyd Macky",
+  "prediction": "Neil Lloyd Macky",
+  "error": null,
+  "latency_ms": 187331.71990001574,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T17:29:05.298266+00:00",
+  "chunks": [
+    {
+      "chunk_id": "6e9b66f3-fbce-47fc-ab96-40cfaaa09f42",
+      "chunk_title": "Birth Details",
+      "chunk_summary": "This chunk contains information about the birth dates and locations of individuals.",
+      "context_title": "Neil Lloyd Macky",
+      "page_content": "Neil Lloyd Macky was born on 20 February 1891. Neil Lloyd Macky was born in Auckland, New Zealand."
+    },
+    {
+      "chunk_id": "fef84c42-aa3a-4280-9e94-06b3e9adc122",
+      "chunk_title": "Death Details",
+      "chunk_summary": "This chunk contains information about the death dates, ages, and specific circumstances of individuals' deaths.",
+      "context_title": "Neil Lloyd Macky",
+      "page_content": "Neil Lloyd Macky died in 1981. Neil Lloyd Macky died at the age of 90. Neil Lloyd Macky died on 4 October 1981."
+    },
+    {
+      "chunk_id": "9fd85c5c-a3a9-494c-a7d9-8d6b3ee3ea9c",
+      "chunk_title": "Neil Lloyd Macky's Career",
+      "chunk_summary": "This chunk contains information about the professional background and identity of Neil Lloyd Macky, specifically focusing on his careers in law and military leadership; add further details regarding his education, practice, or other professional roles.",
+      "context_title": "Neil Lloyd Macky",
+      "page_content": "Neil Lloyd Macky served during the Senussi Campaign in the Middle East. Neil Lloyd Macky served on the Western Front. Neil Lloyd Macky was a New Zealand lawyer. Neil Lloyd Macky was the practice manager for his law firm. Neil Lloyd Macky set himself up as a sole practitioner. Neil Lloyd Macky joined the New Zealand Expeditionary Force (NZEF) in 1915. Neil Lloyd Macky returned to his legal career after the First World War. Neil Lloyd Macky was a military leader. Neil Lloyd Macky earned a law degree from Auckland University College. Neil Lloyd Macky returned to his law firm after the Second World War."
+    },
+    {
+      "chunk_id": "b2d40380-c573-4fa7-91c3-8c5a327fe5b0",
+      "chunk_title": "Military Career & Service",
+      "chunk_summary": "This chunk contains information about the military career, ranks, commands, public protests, and subsequent recall to duty of Neil Lloyd Macky as a senior officer in the New Zealand Rifle Brigade and Territorial Force.",
+      "context_title": "Neil Lloyd Macky",
+      "page_content": "Neil Lloyd Macky was commissioned as an officer in the New Zealand Rifle Brigade. Neil Lloyd Macky was placed on the reserve of officers after commanding the Bay of Islands Fortress Area. The reforms protested by Neil Lloyd Macky and other TF colonels reduced personnel and affected morale in the TF. Neil Lloyd Macky commanded an infantry brigade in the Territorial Force (TF). Neil Lloyd Macky commanded the 21st Battalion during the Battle of Greece. Neil Lloyd Macky was a senior officer in the Territorial Force (TF). Neil Lloyd Macky was repatriated to New Zealand after the Battle of Greece. In 1937, Neil Lloyd Macky was one of four TF colonels that publicly protested reforms. Neil Lloyd Macky commanded the Bay of Islands Fortress Area after being repatriated to New Zealand. Neil Lloyd Macky was recalled to duty in the Second World War. Neil Lloyd Macky held the rank of Colonel. Neil Lloyd Macky was punished by being placed on the retired list."
+    },
+    {
+      "chunk_id": "7e028893-ce60-406a-9de7-6c7a8c629e39",
+      "chunk_title": "Military Awards & Honors",
+      "chunk_summary": "This chunk contains information about military awards and honors received by individuals for their leadership and service in battle.",
+      "context_title": "Neil Lloyd Macky",
+      "page_content": "Neil Lloyd Macky's leadership during the Battle of Flers–Courcelette earned him the Military Cross. Neil Lloyd Macky was awarded the Military Cross."
+    },
+    {
+      "chunk_id": "5cc9d5b3-5d5c-42cf-9bf1-11285646741e",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about birth dates and times.",
+      "context_title": "Neil Lloyd",
+      "page_content": "Neil Lloyd was born on 1 October 1966."
+    },
+    {
+      "chunk_id": "e56d220e-97b9-4462-af34-283352f40cc2",
+      "chunk_title": "John Neil Bell's Life Events",
+      "chunk_summary": "This chunk contains information about the birth, death dates, age at death, and cause of death of John Neil Bell.",
+      "context_title": "Johnny Bell (Canadian football)",
+      "page_content": "John Neil Bell died of a heart condition. John Neil Bell was aged 76 when John Neil Bell died. John Neil Bell died in 1998. John Neil Bell was born on October 4, 1921. John Neil Bell died on August 17, 1998."
+    },
+    {
+      "chunk_id": "d03b9fc4-b41a-4210-be53-eaf15d62a0f9",
+      "chunk_title": "John Milton Mackie Biography",
+      "chunk_summary": "This chunk contains biographical information about John Milton Mackie, including his birthplace, death details, profession, and areas of specialization.",
+      "context_title": "John Milton Mackie",
+      "page_content": "John Milton Mackie died in Great Barrington, Massachusetts. John Milton Mackie was a United States writer. John Milton Mackie died on 27 July 1894. John Milton Mackie specialized in topics from German history and literature. John Milton Mackie was born in Wareham, Massachusetts."
+    },
+    {
+      "chunk_id": "7bd863d5-dbe7-46dc-8a4e-1339e1339070",
+      "chunk_title": "Birth Dates & Locations",
+      "chunk_summary": "This chunk contains information about the birth dates and locations of individuals.",
+      "context_title": "Domenico Cosselli",
+      "page_content": "Domenico Cosselli was born on 27 May 1801 in Parma."
+    },
+    {
+      "chunk_id": "aff7ce0e-c333-49fc-bce8-6cc8d3a1aa91",
+      "chunk_title": "Death Date & Location",
+      "chunk_summary": "This chunk contains information about the date and location of a person's death.",
+      "context_title": "Domenico Cosselli",
+      "page_content": "Domenico Cosselli died on 9 November 1855 in Parma."
+    },
+    {
+      "chunk_id": "2eec7d1c-d7d5-45ea-8353-780d617b1beb",
+      "chunk_title": "Age at Death",
+      "chunk_summary": "This chunk contains information about the age at death of individuals.",
+      "context_title": "Tulio Demicheli",
+      "page_content": "Tulio Demicheli was aged 77 when he died."
+    },
+    {
+      "chunk_id": "d70e8055-056d-467e-840f-7a7d1a2d8ced",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates, as well as ages at death, of various individuals.",
+      "context_title": "J. Sasikumar",
+      "page_content": "Nambiathusseril Varkey John was born on 14 October 1927. Sasikumar died in 2014. Nambiathusseril Varkey John died on 17 July 2014. Sasikumar was 86 years old when he died."
+    },
+    {
+      "chunk_id": "a409f8d7-0b7a-4525-86e6-f758c363fabf",
+      "chunk_title": "Sennedjem's Life and Tomb",
+      "chunk_summary": "This chunk contains information about the Ancient Egyptian artisan Sennedjem, including his titles, residence, reigns, family, tomb discovery, and artifacts found within.",
+      "context_title": "Sennedjem",
+      "page_content": "Sennedjem actually used the stool and the bed when he was alive. Sennedjem was buried in a tomb in the village necropolis. The furniture found in Sennedjem's tomb included a bed. Sennedjem was buried along with his wife, Iyneferti. The furniture found in Sennedjem's tomb included a stool. Sennedjem lived in Set Maat. Sennedjem was buried along with his family. Sennedjem's tomb was discovered on January 31, 1886. Sennedjem's titles included \"Servant in the Place of Truth\". Sennedjem had the title \"Servant in the Place of Truth\". Sennedjem was an Ancient Egyptian artisan. Sennedjem lived during the reign of Seti I. Regular furniture from Sennedjem's home was found in Sennedjem's tomb. Set Maat is contemporary Deir el-Medina. Sennedjem lived during the reign of Ramesses II."
+    },
+    {
+      "chunk_id": "8f5e6816-e489-4272-a0e0-42c364851092",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Domenico Paolella",
+      "page_content": "Domenico Paolella died on 7 October 2002. Domenico Paolella was born on 18 October 1915."
+    },
+    {
+      "chunk_id": "4394f6a8-870f-4c51-99df-9a86dc2f0a66",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates, as well as the age at death, of individuals.",
+      "context_title": "Edward Buzzell",
+      "page_content": "Edward Buzzell was 89 years old when he died. Edward Buzzell was born on November 13, 1895. Edward Buzzell died in 1985. Edward Buzzell died on January 11, 1985."
+    },
+    {
+      "chunk_id": "d7d0c140-3949-4875-aa59-0dc4882f3ad2",
+      "chunk_title": "Birth & Death Details",
+      "chunk_summary": "This chunk contains information about the birth and death dates, locations, and ages of individuals.",
+      "context_title": "Francis Buxton",
+      "page_content": "Francis William Buxton died in Marylebone, London. Francis William Buxton was aged 64 when he died. Francis William Buxton was born on 5 August 1847. Francis William Buxton died in November 1911. Francis William Buxton died on 14 November 1911."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.4375,
+  "retrieval_count": 2,
+  "total_chunks": 16,
+  "total_distinct_titles": 11,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较 Neil Lloyd Macky 和 Domenico Cosselli 的寿命",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未合成最终答案。其子节点 N1_1 和 N1_2 均已 solved 且证据充分，但 ROOT 本身仍标记为 unsolved，缺乏最终的比较结论（谁活得更久）。",
+          "critic_normative_advice": "建议执行最终推理——基于 N1_1 (1891-1981, ~90岁) 和 N1_2 (1801-1855, ~54岁) 的事实，计算寿命并得出 'Neil Lloyd Macky lived longer' 的结论，更新 N0 状态为 solved。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Neil Lloyd Macky born and when did he die?",
+          "answer": "Born: 20 February 1891; Died: 4 October 1981",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Neil Lloyd Macky born and when did he die?",
+          "planner_rationale": "要计算 Neil Lloyd Macky 的寿命，必须知道他的出生年份和死亡年份",
+          "solver_judgment": "question 要求提供 Neil Lloyd Macky 的出生和死亡日期。search_query 直接搜索了 'When was Neil Lloyd Macky born and when did he die?'。chunks 返回了精准匹配的信息：chunk 6e9b66f3-fbce-47fc-ab96-40cfaaa09f42 记载 'Neil Lloyd Macky was born on 20 February 1891'，chunk fef84c42-aa3a-4280-9e94-06b3e9adc122 记载 'Neil Lloyd Macky died on 4 October 1981'。检索结果完整且准确地回答了问题，无信息缺口。",
+          "critic_factual_notes": "2 个独立来源（文档 'Neil Lloyd Macky' 的不同 chunk）一致支持答案。Chunk 6e9b66f3 明确记载 'born on 20 February 1891'，Chunk fef84c42 明确记载 'died on 4 October 1981'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Domenico Cosselli born and when did he die?",
+          "answer": "Born: 27 May 1801; Died: 9 November 1855",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Domenico Cosselli born and when did he die?",
+          "planner_rationale": "要计算 Domenico Cosselli 的寿命，必须知道他的出生年份和死亡年份",
+          "solver_judgment": "question 要求提供 Domenico Cosselli 的出生和死亡日期。search_query 直接搜索了 'When was Domenico Cosselli born and when did he die?'。chunks 返回了精准匹配的信息：chunk 7bd863d5-dbe7-46dc-8a4e-1339e1339070 记载 'Domenico Cosselli was born on 27 May 1801'，chunk aff7ce0e-c333-49fc-bce8-6cc8d3a1aa91 记载 'Domenico Cosselli died on 9 November 1855'。检索结果完整且准确地回答了问题，无信息缺口。",
+          "critic_factual_notes": "2 个独立来源（文档 'Domenico Cosselli' 的不同 chunk）一致支持答案。Chunk 7bd863d5 明确记载 'born on 27 May 1801'，Chunk aff7ce0e 明确记载 'died on 9 November 1855'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且健康，提供了计算寿命所需的全部数据。本轮目标是基于子节点答案合成最终比较结论。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其子节点 N1_1 (Neil Lloyd Macky: 1891-1981) 和 N1_2 (Domenico Cosselli: 1801-1855) 均已 solved 且证据充分（healthy）。然而，ROOT 节点本身尚未执行最终的比较推理步骤，缺乏明确的结论性答案（如 'Neil Lloyd Macky lived longer'）。因此，虽然输入数据完备，但节点自身的断言缺失，判定为 needs_verification。",
+          "critic_normative_advice": "建议执行最终推理——基于 N1_1 和 N1_2 的确凿生卒日期，计算寿命差值并生成最终比较结论。一旦答案生成器填入结论，此节点即可转为 healthy。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Neil Lloyd Macky born and when did he die?",
+          "answer": "Born: 20 February 1891; Died: 4 October 1981",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Neil Lloyd Macky born and when did he die?",
+          "planner_rationale": "Neil Lloyd Macky 的生卒日期已确证（1891-1981），证据充分且 Critic 判为 healthy。此事实是计算其寿命并回答 Q 的必要组成部分。",
+          "solver_judgment": "question 要求提供 Neil Lloyd Macky 的出生和死亡日期。search_query 直接搜索了 'When was Neil Lloyd Macky born and when did he die?'。chunks 返回了精准匹配的信息：chunk 6e9b66f3-fbce-47fc-ab96-40cfaaa09f42 记载 'Neil Lloyd Macky was born on 20 February 1891'，chunk fef84c42-aa3a-4280-9e94-06b3e9adc122 记载 'Neil Lloyd Macky died on 4 October 1981'。检索结果完整且准确地回答了问题，无信息缺口。",
+          "critic_factual_notes": "2 个独立来源（文档 'Neil Lloyd Macky' 的不同 chunk）一致支持答案。Chunk 6e9b66f3 明确记载 'born on 20 February 1891'，Chunk fef84c42 明确记载 'died on 4 October 1981'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Domenico Cosselli born and when did he die?",
+          "answer": "Born: 27 May 1801; Died: 9 November 1855",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Domenico Cosselli born and when did he die?",
+          "planner_rationale": "Domenico Cosselli 的生卒日期已确证（1801-1855），证据充分且 Critic 判为 healthy。此事实是计算其寿命并回答 Q 的必要组成部分。",
+          "solver_judgment": "question 要求提供 Domenico Cosselli 的出生和死亡日期。search_query 直接搜索了 'When was Domenico Cosselli born and when did he die?'。chunks 返回了精准匹配的信息：chunk 7bd863d5-dbe7-46dc-8a4e-1339e1339070 记载 'Domenico Cosselli was born on 27 May 1801'，chunk aff7ce0e-c333-49fc-bce8-6cc8d3a1aa91 记载 'Domenico Cosselli died on 9 November 1855'。检索结果完整且准确地回答了问题，无信息缺口。",
+          "critic_factual_notes": "2 个独立来源（文档 'Domenico Cosselli' 的不同 chunk）一致支持答案。Chunk 7bd863d5 明确记载 'born on 27 May 1801'，Chunk aff7ce0e 明确记载 'died on 9 November 1855'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且健康，提供了计算寿命所需的全部数据。本轮目标是基于子节点答案合成最终比较结论。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其子节点 N1_1 (Neil Lloyd Macky: 1891-1981) 和 N1_2 (Domenico Cosselli: 1801-1855) 均已 solved 且证据充分（healthy）。然而，ROOT 节点本身尚未执行最终的比较推理步骤，缺乏明确的结论性答案（如 'Neil Lloyd Macky lived longer'）。因此，虽然输入数据完备，但节点自身的断言缺失，判定为 needs_verification。",
+          "critic_normative_advice": "建议执行最终推理——基于 N1_1 和 N1_2 的确凿生卒日期，计算寿命差值并生成最终比较结论。一旦答案生成器填入结论，此节点即可转为 healthy。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Neil Lloyd Macky born and when did he die?",
+          "answer": "Born: 20 February 1891; Died: 4 October 1981",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Neil Lloyd Macky born and when did he die?",
+          "planner_rationale": "Neil Lloyd Macky 的生卒日期已确证（1891-1981），证据充分且 Critic 判为 healthy。此事实是计算其寿命并回答 Q 的必要组成部分。",
+          "solver_judgment": "question 要求提供 Neil Lloyd Macky 的出生和死亡日期。search_query 直接搜索了 'When was Neil Lloyd Macky born and when did he die?'。chunks 返回了精准匹配的信息：chunk 6e9b66f3-fbce-47fc-ab96-40cfaaa09f42 记载 'Neil Lloyd Macky was born on 20 February 1891'，chunk fef84c42-aa3a-4280-9e94-06b3e9adc122 记载 'Neil Lloyd Macky died on 4 October 1981'。检索结果完整且准确地回答了问题，无信息缺口。",
+          "critic_factual_notes": "2 个独立来源（文档 'Neil Lloyd Macky' 的不同 chunk）一致支持答案。Chunk 6e9b66f3 明确记载 'born on 20 February 1891'，Chunk fef84c42 明确记载 'died on 4 October 1981'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Domenico Cosselli born and when did he die?",
+          "answer": "Born: 27 May 1801; Died: 9 November 1855",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Domenico Cosselli born and when did he die?",
+          "planner_rationale": "Domenico Cosselli 的生卒日期已确证（1801-1855），证据充分且 Critic 判为 healthy。此事实是计算其寿命并回答 Q 的必要组成部分。",
+          "solver_judgment": "question 要求提供 Domenico Cosselli 的出生和死亡日期。search_query 直接搜索了 'When was Domenico Cosselli born and when did he die?'。chunks 返回了精准匹配的信息：chunk 7bd863d5-dbe7-46dc-8a4e-1339e1339070 记载 'Domenico Cosselli was born on 27 May 1801'，chunk aff7ce0e-c333-49fc-bce8-6cc8d3a1aa91 记载 'Domenico Cosselli died on 9 November 1855'。检索结果完整且准确地回答了问题，无信息缺口。",
+          "critic_factual_notes": "2 个独立来源（文档 'Domenico Cosselli' 的不同 chunk）一致支持答案。Chunk 7bd863d5 明确记载 'born on 27 May 1801'，Chunk aff7ce0e 明确记载 'died on 9 November 1855'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且健康，提供了计算寿命所需的全部数据。本轮目标是基于子节点答案合成最终比较结论。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其子节点 N1_1 (Neil Lloyd Macky: 1891-1981) 和 N1_2 (Domenico Cosselli: 1801-1855) 均已 solved 且证据充分（healthy）。然而，ROOT 节点本身尚未执行最终的比较推理步骤，缺乏明确的结论性答案（如 'Neil Lloyd Macky lived longer'）。因此，虽然输入数据完备，但节点自身的断言缺失，判定为 needs_verification。",
+          "critic_normative_advice": "建议执行最终推理——基于 N1_1 和 N1_2 的确凿生卒日期，计算寿命差值并生成最终比较结论。一旦答案生成器填入结论，此节点即可转为 healthy。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Neil Lloyd Macky born and when did he die?",
+          "answer": "Born: 20 February 1891; Died: 4 October 1981",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Neil Lloyd Macky born and when did he die?",
+          "planner_rationale": "Neil Lloyd Macky 的生卒日期已确证（1891-1981），证据充分且 Critic 判为 healthy。此事实是计算其寿命并回答 Q 的必要组成部分。",
+          "solver_judgment": "question 要求提供 Neil Lloyd Macky 的出生和死亡日期。search_query 直接搜索了 'When was Neil Lloyd Macky born and when did he die?'。chunks 返回了精准匹配的信息：chunk 6e9b66f3-fbce-47fc-ab96-40cfaaa09f42 记载 'Neil Lloyd Macky was born on 20 February 1891'，chunk fef84c42-aa3a-4280-9e94-06b3e9adc122 记载 'Neil Lloyd Macky died on 4 October 1981'。检索结果完整且准确地回答了问题，无信息缺口。",
+          "critic_factual_notes": "2 个独立来源（文档 'Neil Lloyd Macky' 的不同 chunk）一致支持答案。Chunk 6e9b66f3 明确记载 'born on 20 February 1891'，Chunk fef84c42 明确记载 'died on 4 October 1981'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Domenico Cosselli born and when did he die?",
+          "answer": "Born: 27 May 1801; Died: 9 November 1855",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Domenico Cosselli born and when did he die?",
+          "planner_rationale": "Domenico Cosselli 的生卒日期已确证（1801-1855），证据充分且 Critic 判为 healthy。此事实是计算其寿命并回答 Q 的必要组成部分。",
+          "solver_judgment": "question 要求提供 Domenico Cosselli 的出生和死亡日期。search_query 直接搜索了 'When was Domenico Cosselli born and when did he die?'。chunks 返回了精准匹配的信息：chunk 7bd863d5-dbe7-46dc-8a4e-1339e1339070 记载 'Domenico Cosselli was born on 27 May 1801'，chunk aff7ce0e-c333-49fc-bce8-6cc8d3a1aa91 记载 'Domenico Cosselli died on 9 November 1855'。检索结果完整且准确地回答了问题，无信息缺口。",
+          "critic_factual_notes": "2 个独立来源（文档 'Domenico Cosselli' 的不同 chunk）一致支持答案。Chunk 7bd863d5 明确记载 'born on 27 May 1801'，Chunk aff7ce0e 明确记载 'died on 9 November 1855'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who lived longer, Neil Lloyd Macky or Domenico Cosselli?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 SOLVED 且健康，提供了计算寿命所需的全部数据。本轮目标是基于子节点答案合成最终比较结论。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其子节点 N1_1 (Neil Lloyd Macky: 1891-1981) 和 N1_2 (Domenico Cosselli: 1801-1855) 均已 solved 且证据充分（healthy）。然而，ROOT 节点本身尚未执行最终的比较推理步骤，缺乏明确的结论性答案（如 'Neil Lloyd Macky lived longer'）。因此，虽然输入数据完备，但节点自身的断言缺失，判定为 needs_verification。",
+          "critic_normative_advice": "建议执行最终推理——基于 N1_1 和 N1_2 的确凿生卒日期，计算寿命差值并生成最终比较结论。一旦答案生成器填入结论，此节点即可转为 healthy。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Neil Lloyd Macky born and when did he die?",
+          "answer": "Born: 20 February 1891; Died: 4 October 1981",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Neil Lloyd Macky born and when did he die?",
+          "planner_rationale": "Neil Lloyd Macky 的生卒日期已确证（1891-1981），证据充分且 Critic 判为 healthy。此事实是计算其寿命并回答 Q 的必要组成部分。",
+          "solver_judgment": "question 要求提供 Neil Lloyd Macky 的出生和死亡日期。search_query 直接搜索了 'When was Neil Lloyd Macky born and when did he die?'。chunks 返回了精准匹配的信息：chunk 6e9b66f3-fbce-47fc-ab96-40cfaaa09f42 记载 'Neil Lloyd Macky was born on 20 February 1891'，chunk fef84c42-aa3a-4280-9e94-06b3e9adc122 记载 'Neil Lloyd Macky died on 4 October 1981'。检索结果完整且准确地回答了问题，无信息缺口。",
+          "critic_factual_notes": "2 个独立来源（文档 'Neil Lloyd Macky' 的不同 chunk）一致支持答案。Chunk 6e9b66f3 明确记载 'born on 20 February 1891'，Chunk fef84c42 明确记载 'died on 4 October 1981'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Domenico Cosselli born and when did he die?",
+          "answer": "Born: 27 May 1801; Died: 9 November 1855",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Domenico Cosselli born and when did he die?",
+          "planner_rationale": "Domenico Cosselli 的生卒日期已确证（1801-1855），证据充分且 Critic 判为 healthy。此事实是计算其寿命并回答 Q 的必要组成部分。",
+          "solver_judgment": "question 要求提供 Domenico Cosselli 的出生和死亡日期。search_query 直接搜索了 'When was Domenico Cosselli born and when did he die?'。chunks 返回了精准匹配的信息：chunk 7bd863d5-dbe7-46dc-8a4e-1339e1339070 记载 'Domenico Cosselli was born on 27 May 1801'，chunk aff7ce0e-c333-49fc-bce8-6cc8d3a1aa91 记载 'Domenico Cosselli died on 9 November 1855'。检索结果完整且准确地回答了问题，无信息缺口。",
+          "critic_factual_notes": "2 个独立来源（文档 'Domenico Cosselli' 的不同 chunk）一致支持答案。Chunk 7bd863d5 明确记载 'born on 27 May 1801'，Chunk aff7ce0e 明确记载 'died on 9 November 1855'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was Neil Lloyd Macky born and when did he die?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6e9b66f3-fbce-47fc-ab96-40cfaaa09f42",
+        "fef84c42-aa3a-4280-9e94-06b3e9adc122",
+        "9fd85c5c-a3a9-494c-a7d9-8d6b3ee3ea9c",
+        "b2d40380-c573-4fa7-91c3-8c5a327fe5b0",
+        "7e028893-ce60-406a-9de7-6c7a8c629e39",
+        "5cc9d5b3-5d5c-42cf-9bf1-11285646741e",
+        "e56d220e-97b9-4462-af34-283352f40cc2",
+        "d03b9fc4-b41a-4210-be53-eaf15d62a0f9"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was Domenico Cosselli born and when did he die?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "7bd863d5-dbe7-46dc-8a4e-1339e1339070",
+        "aff7ce0e-c333-49fc-bce8-6cc8d3a1aa91",
+        "2eec7d1c-d7d5-45ea-8353-780d617b1beb",
+        "d70e8055-056d-467e-840f-7a7d1a2d8ced",
+        "a409f8d7-0b7a-4525-86e6-f758c363fabf",
+        "8f5e6816-e489-4272-a0e0-42c364851092",
+        "4394f6a8-870f-4c51-99df-9a86dc2f0a66",
+        "d7d0c140-3949-4875-aa59-0dc4882f3ad2"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Neil Lloyd Macky 的生卒年份（理由：计算其寿命的必要数据），F2: Domenico Cosselli 的生卒年份（理由：计算其寿命的必要数据）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。通过比较 F1 和 F2 推导出的寿命长度，可以回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将比较寿命的问题分解为分别获取两人的生卒年份。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification（因为状态仍为 unsolved，未生成最终比较结论）。虽然子节点 N1_1 和 N1_2 均为 healthy，且推理链语义匹配（条件②通过），但整个 DAG 尚未达到‘所有节点 healthy’的终止状态。需先完成根节点的推理合成。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1 (N1_1): Neil Lloyd Macky 的生卒年份（理由：计算其寿命的必要数据，已确证），F2 (N1_2): Domenico Cosselli 的生卒年份（理由：计算其寿命的必要数据，已确证）。关系: F1 和 F2 均为 Q (N0) 的分解产物（decomposition）。当前 DAG 结构已完整覆盖 Q 的语义需求，所有子事实均已 SOLVED。本轮目标是保持结构稳定，以便系统基于已确立的子节点答案合成根节点的最终比较结论（即谁活得更久）。",
+      "hypothesis_delta": "本轮无结构性变更。\n- 保留: N0, N1_1, N1_2 均通过 INHERIT 保留，因为它们的 status 和 health 状态理想（SOLVED + healthy），且完全覆盖 Q 的语义需求。\n- 保留边: N0→N1_1 和 N0→N1_2 均保留，维持分解关系。\n- 原因: Critic 指出 DAG 已无缺口，子节点证据充分。无需新增节点或调整探测方向。当前的 unsolved 状态仅表示等待最终推理聚合，而非结构缺陷。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（因为尚未生成最终比较结论）。虽然子节点 N1_1 和 N1_2 均 healthy 且推理链语义有效（条件②通过），但根节点作为最终答案的承载者，目前仍缺少明确的断言，导致整体健康度不满足全 healthy 要求。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1 (N1_1): Neil Lloyd Macky 的生卒日期（理由：计算其寿命的必要数据，已确证），F2 (N1_2): Domenico Cosselli 的生卒日期（理由：计算其寿命的必要数据，已确证）。关系: F1 和 F2 均为 Q (N0) 的分解产物（decomposition）。当前 DAG 结构已完整覆盖 Q 的语义需求，所有子事实均已 SOLVED。本轮目标是保持结构稳定，以便系统基于已确立的子节点答案合成根节点的最终比较结论（即谁活得更久）。",
+      "hypothesis_delta": "本轮无结构性变更。\n- 保留: N0, N1_1, N1_2 均通过 INHERIT 保留，因为它们的 status 和 health 状态理想（SOLVED + healthy），且完全覆盖 Q 的语义需求。\n- 保留边: N0→N1_1 和 N0→N1_2 均通过 LINK 原语显式声明保留，维持分解关系。\n- 原因: Critic 指出 DAG 已无缺口，子节点证据充分。无需新增节点或调整探测方向。当前的 unsolved 状态仅表示等待最终推理聚合，而非结构缺陷。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（因为答案尚未合成/填入）。虽然子节点 N1_1 和 N1_2 均为 healthy，但根节点作为最终答案的承载者，目前仍为 unsolved 状态，缺乏明确的比较结论。需等待答案生成器基于子节点数据完成推理并填入 N0 答案后，方可终止。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1 (N1_1): Neil Lloyd Macky 的生卒日期（理由：计算其寿命的必要数据，已确证），F2 (N1_2): Domenico Cosselli 的生卒日期（理由：计算其寿命的必要数据，已确证）。关系: F1 和 F2 均为 Q (N0) 的分解产物（decomposition）。当前 DAG 结构已完整覆盖 Q 的语义需求，所有子事实均已 SOLVED。本轮目标是保持结构稳定，以便系统基于已确立的子节点答案合成根节点的最终比较结论（即谁活得更久）。",
+      "hypothesis_delta": "本轮无结构性变更。\n- 保留: N0, N1_1, N1_2 均通过 INHERIT 保留，因为它们的 status 和 health 状态理想（SOLVED + healthy），且完全覆盖 Q 的语义需求。\n- 保留边: N0→N1_1 和 N0→N1_2 均通过 LINK 原语显式声明保留，维持分解关系。\n- 原因: Critic 指出 DAG 已无缺口，子节点证据充分。无需新增节点或调整探测方向。当前的 unsolved 状态仅表示等待最终推理聚合，而非结构缺陷。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（因为尚未生成最终比较结论）。虽然子节点 N1_1 和 N1_2 均 healthy，但根节点作为最终答案的承载者，必须包含明确的比较结果才能标记为 healthy。建议下一轮由答案生成器完成 N0 的答案填充，届时应可终止。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1 (N1_1): Neil Lloyd Macky 的生卒日期（理由：计算其寿命的必要数据，已确证），F2 (N1_2): Domenico Cosselli 的生卒日期（理由：计算其寿命的必要数据，已确证）。关系: F1 和 F2 均为 Q (N0) 的分解产物（decomposition）。当前 DAG 结构已完整覆盖 Q 的语义需求，所有子事实均已 SOLVED。本轮目标是保持结构稳定，以便系统基于已确立的子节点答案合成根节点的最终比较结论（即谁活得更久）。",
+      "hypothesis_delta": "本轮无结构性变更。\n- 保留: N0, N1_1, N1_2 均通过 INHERIT 保留，因为它们的 status 和 health 状态理想（SOLVED + healthy），且完全覆盖 Q 的语义需求。\n- 保留边: N0→N1_1 和 N0→N1_2 均通过 LINK 原语显式声明保留，维持分解关系。\n- 原因: Critic 指出 DAG 已无缺口，子节点证据充分。无需新增节点或调整探测方向。当前的 unsolved 状态仅表示等待最终推理聚合，而非结构缺陷。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（因为答案尚未合成/填入）。虽然子节点 N1_1 和 N1_2 均为 healthy，且推理链语义有效（条件②通过），但根节点自身状态不满足全部 healthy 的要求。需等待答案生成器基于子节点数据完成最终比较并填入 N0 answer 后，方可终止。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "question_index": 402,
+  "question_id": "5ae075455542993d6555eb59",
+  "question": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+  "answer": "yes",
+  "prediction": "yes",
+  "error": null,
+  "latency_ms": 207039.6847000011,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T17:42:06.016788+00:00",
+  "chunks": [
+    {
+      "chunk_id": "a005c2e8-48dc-49ab-a653-1a17a771309d",
+      "chunk_title": "111 Murray Street Overview",
+      "chunk_summary": "This chunk contains information about the residential skyscraper 111 Murray Street, including its location, construction status, former names, and developers.",
+      "context_title": "111 Murray Street",
+      "page_content": "111 Murray Street is a residential skyscraper. 111 Murray Street was formerly known as 101 Murray Street. 111 Murray Street is located in Tribeca, Manhattan, New York City. 111 Murray Street is developed by Witkoff Group. 111 Murray Street was formerly known as 101 Tribeca. 111 Murray Street is under construction. 111 Murray Street is developed by Fisher Brothers."
+    },
+    {
+      "chunk_id": "380adce4-6f66-4e43-9cb9-3455330af5c3",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of places, including their county, state, and specific street boundaries.",
+      "context_title": "Murray Street Historic District",
+      "page_content": "Mount Morris is in Livingston County, New York. The 16 properties on Murray Street are between Eagle Street and Stanley Street."
+    },
+    {
+      "chunk_id": "e9066b39-b890-445f-9927-61edf7e33c87",
+      "chunk_title": "Murray Street Historic District",
+      "chunk_summary": "This chunk contains information about the Murray Street Historic District, including its location, status, and details about its contributing residential buildings, outbuildings, and objects.",
+      "context_title": "Murray Street Historic District",
+      "page_content": "The 16 contributing primary buildings in the Murray Street Historic District are all residences. The Murray Street Historic District includes three contributing objects. The three contributing objects in the Murray Street Historic District are a carriage step, a hitching post, and early 20th century street lights. Murray Street Historic District is a national historic district. The Murray Street Historic District includes 16 contributing primary buildings. Murray Street Historic District is located at Mount Morris. The Murray Street Historic District includes six contributing outbuildings. The Murray Street Historic District consists of 16 properties on Murray Street. The six contributing outbuildings in the Murray Street Historic District are carriage houses and garages."
+    },
+    {
+      "chunk_id": "ead7c1da-f3d1-4c13-8201-673624375cd5",
+      "chunk_title": "Neighborhood Locations",
+      "chunk_summary": "This chunk contains information about the location, boundaries, and regional descriptions of specific neighborhoods within cities.",
+      "context_title": "Morningside Heights, Manhattan",
+      "page_content": "Morningside Heights is a neighborhood of the borough of Manhattan in New York City. The area of Morningside Heights has been described as part of \"Greater Harlem\". Morningside Heights is on the border of the Upper West Side and Manhattanville. There is a disputed claim that the Upper West Side goes no farther north than 110th Street. The area of Morningside Heights is usually described as being on the Upper West Side."
+    },
+    {
+      "chunk_id": "2eefefe3-8171-4d63-8b68-b26db4797bd5",
+      "chunk_title": "Historical Building Locations",
+      "chunk_summary": "This chunk contains information about the locations of historical buildings.",
+      "context_title": "Joseph Papp",
+      "page_content": "The Astor Library Building was located in lower Manhattan."
+    },
+    {
+      "chunk_id": "ed0f2e1b-0898-482b-b7b8-6753f5143bc1",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical hierarchy and location of specific areas within cities and countries.",
+      "context_title": "Carnegie Hall",
+      "page_content": "Midtown Manhattan is in New York City. New York City is in the United States."
+    },
+    {
+      "chunk_id": "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b",
+      "chunk_title": "Building Locations",
+      "chunk_summary": "This chunk contains information about the locations of specific buildings.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building is located at 233 Broadway, Manhattan, New York City."
+    },
+    {
+      "chunk_id": "aa7c473f-b8af-401d-8bbb-a08f020c3dd3",
+      "chunk_title": "Locations & Addresses",
+      "chunk_summary": "This chunk contains information about the geographical location and address of specific places, including details on their position relative to streets and neighborhoods.",
+      "context_title": "Park Lane Hotel (Manhattan)",
+      "page_content": "36 Central Park South is between Fifth and Sixth Avenues. 36 Central Park South is in Midtown Manhattan."
+    },
+    {
+      "chunk_id": "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+      "chunk_title": "Geographic Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations and hierarchical contexts of specific buildings or landmarks.",
+      "context_title": "220 Central Park South",
+      "page_content": "New York City is located in the U.S. state of New York. 220 Central Park South is located in Midtown Manhattan. Midtown Manhattan is located in New York City."
+    },
+    {
+      "chunk_id": "09f69d13-0e0f-467b-936b-3294fccaad2d",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of boroughs within New York City.",
+      "context_title": "Westchester Avenue (NYW&amp;B station)",
+      "page_content": "The borough of the Bronx is in New York City."
+    },
+    {
+      "chunk_id": "8a6790e7-24e4-4cc9-88c3-facdc42f0f07",
+      "chunk_title": "Residential Skyscrapers",
+      "chunk_summary": "This chunk contains information about residential skyscrapers and their characteristics.",
+      "context_title": "220 Central Park South",
+      "page_content": "220 Central Park South is a residential skyscraper."
+    },
+    {
+      "chunk_id": "9057f002-7270-4536-9239-267bcde82c8e",
+      "chunk_title": "Building Projects",
+      "chunk_summary": "This chunk contains information about the construction status, developers, and architects of specific building projects.",
+      "context_title": "220 Central Park South",
+      "page_content": "220 Central Park South is being designed by Robert A.M. Stern Architects. 220 Central Park South is being developed by Vornado Realty Trust. 220 Central Park South is currently under construction."
+    },
+    {
+      "chunk_id": "76184eea-46b0-4a46-97b2-5106d6601ed5",
+      "chunk_title": "Hotel Locations",
+      "chunk_summary": "This chunk contains information about the specific locations of hotels or buildings, including their street addresses and proximity to landmarks.",
+      "context_title": "JW Marriott Essex House",
+      "page_content": "The JW Marriott Essex House is located at 160 Central Park South in Manhattan. The JW Marriott Essex House is located across the street from the southern border of Central Park."
+    },
+    {
+      "chunk_id": "274b91dd-3058-4d09-a97b-38ed8a6f7dc8",
+      "chunk_title": "Building Services & Amenities",
+      "chunk_summary": "This chunk contains information about the service level and amenities of specific buildings.",
+      "context_title": "200 Central Park South",
+      "page_content": "200 Central Park South is a full service building."
+    },
+    {
+      "chunk_id": "a1348da3-04b5-4f9e-9e9d-c9888c47af28",
+      "chunk_title": "Locations & Landmarks",
+      "chunk_summary": "This chunk contains information about the specific location, street address, and immediate surroundings of 200 Central Park South in New York City, including its proximity to Central Park and the Merchant's Gate entrance.",
+      "context_title": "200 Central Park South",
+      "page_content": "200 Central Park South is across from a major pedestrian and vehicle entrance into Central Park. 200 Central Park South is on the south side of Central Park in New York City. The major pedestrian and vehicle entrance into Central Park across from 200 Central Park South is known as the \"Merchant's Gate\". 200 Central Park South is at the corner of 7th Avenue and Central Park South (59th Street)."
+    },
+    {
+      "chunk_id": "612c6715-3c8e-43fb-a96e-08e37151b968",
+      "chunk_title": "Real Estate Developers",
+      "chunk_summary": "This chunk contains information about real estate developments and the builders associated with them.",
+      "context_title": "200 Central Park South",
+      "page_content": "Melvin Lipman built 200 Central Park South. Bernard Spitzer built 200 Central Park South."
+    },
+    {
+      "chunk_id": "a502355c-3ed6-43d2-a68c-760e1d29cfff",
+      "chunk_title": "NYC Landmarks & Locations",
+      "chunk_summary": "This chunk contains information about recognizable landmarks and locations in New York City.",
+      "context_title": "200 Central Park South",
+      "page_content": "200 Central Park South is highly recognizable in New York City photographs."
+    },
+    {
+      "chunk_id": "ff98e454-6fe6-490a-ac1d-bf68d73c3741",
+      "chunk_title": "Luxury Hotels",
+      "chunk_summary": "This chunk contains information about luxury hotels, including their names, locations, and notable features.",
+      "context_title": "Park Lane Hotel (Manhattan)",
+      "page_content": "The Park Lane Hotel is located at 36 Central Park South. The Park Lane Hotel overlooks Central Park. The Park Lane Hotel is a New York City luxury hotel."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2222222222222222,
+  "retrieval_count": 2,
+  "total_chunks": 18,
+  "total_distinct_titles": 11,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两个建筑是否都位于曼哈顿",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。两个子节点 N1_1 和 N1_2 均返回 Yes，且各有直接证据支撑。推理链完整：N1_1 确认 111 Murray Street 位于 Tribeca, Manhattan；N1_2 确认 220 Central Park South 位于 Midtown Manhattan。两者均为 Manhattan 内的位置，合取判断成立。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，答案可确定为 Yes。结构层面：当前分解已覆盖 Q 的全部语义需求（两个建筑的位置确认），无需新增节点。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Is 111 Murray Street located in Manhattan?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is 111 Murray Street located in Manhattan?",
+          "planner_rationale": "Q 询问两个建筑是否都位于曼哈顿，需要先确认 111 Murray Street 的位置——这是回答 Q 的两个核心子事实之一",
+          "solver_judgment": "question 询问 111 Murray Street 是否位于曼哈顿。search_query 直接搜索了该问题。chunks 返回了 chunk a005c2e8-48dc-49ab-a653-1a17a771309d，其中明确记载 '111 Murray Street is located in Tribeca, Manhattan, New York City'，直接确认了其位于曼哈顿。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 111 Murray Street），单来源但直接、具体地陈述了答案。支撑 chunk a005c2e8 全文记载 '111 Murray Street is located in Tribeca, Manhattan, New York City'，与声称答案 Yes 完全匹配。交叉验证：不充分（仅 1 个来源），但证据直接明确。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 直接确认 111 Murray Street 位于 Manhattan（Tribeca 是 Manhattan 的街区），无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a005c2e8-48dc-49ab-a653-1a17a771309d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a005c2e8-48dc-49ab-a653-1a17a771309d",
+              "chunk_title": "111 Murray Street Overview",
+              "chunk_summary": "This chunk contains information about the residential skyscraper 111 Murray Street, including its location, construction status, former names, and developers.",
+              "context_title": "111 Murray Street",
+              "page_content": "111 Murray Street is a residential skyscraper. 111 Murray Street was formerly known as 101 Murray Street. 111 Murray Street is located in Tribeca, Manhattan, New York City. 111 Murray Street is developed by Witkoff Group. 111 Murray Street was formerly known as 101 Tribeca. 111 Murray Street is under construction. 111 Murray Street is developed by Fisher Brothers."
+            },
+            {
+              "chunk_id": "380adce4-6f66-4e43-9cb9-3455330af5c3",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of places, including their county, state, and specific street boundaries.",
+              "context_title": "Murray Street Historic District",
+              "page_content": "Mount Morris is in Livingston County, New York. The 16 properties on Murray Street are between Eagle Street and Stanley Street."
+            },
+            {
+              "chunk_id": "e9066b39-b890-445f-9927-61edf7e33c87",
+              "chunk_title": "Murray Street Historic District",
+              "chunk_summary": "This chunk contains information about the Murray Street Historic District, including its location, status, and details about its contributing residential buildings, outbuildings, and objects.",
+              "context_title": "Murray Street Historic District",
+              "page_content": "The 16 contributing primary buildings in the Murray Street Historic District are all residences. The Murray Street Historic District includes three contributing objects. The three contributing objects in the Murray Street Historic District are a carriage step, a hitching post, and early 20th century street lights. Murray Street Historic District is a national historic district. The Murray Street Historic District includes 16 contributing primary buildings. Murray Street Historic District is located at Mount Morris. The Murray Street Historic District includes six contributing outbuildings. The Murray Street Historic District consists of 16 properties on Murray Street. The six contributing outbuildings in the Murray Street Historic District are carriage houses and garages."
+            },
+            {
+              "chunk_id": "ead7c1da-f3d1-4c13-8201-673624375cd5",
+              "chunk_title": "Neighborhood Locations",
+              "chunk_summary": "This chunk contains information about the location, boundaries, and regional descriptions of specific neighborhoods within cities.",
+              "context_title": "Morningside Heights, Manhattan",
+              "page_content": "Morningside Heights is a neighborhood of the borough of Manhattan in New York City. The area of Morningside Heights has been described as part of \"Greater Harlem\". Morningside Heights is on the border of the Upper West Side and Manhattanville. There is a disputed claim that the Upper West Side goes no farther north than 110th Street. The area of Morningside Heights is usually described as being on the Upper West Side."
+            },
+            {
+              "chunk_id": "2eefefe3-8171-4d63-8b68-b26db4797bd5",
+              "chunk_title": "Historical Building Locations",
+              "chunk_summary": "This chunk contains information about the locations of historical buildings.",
+              "context_title": "Joseph Papp",
+              "page_content": "The Astor Library Building was located in lower Manhattan."
+            },
+            {
+              "chunk_id": "ed0f2e1b-0898-482b-b7b8-6753f5143bc1",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical hierarchy and location of specific areas within cities and countries.",
+              "context_title": "Carnegie Hall",
+              "page_content": "Midtown Manhattan is in New York City. New York City is in the United States."
+            },
+            {
+              "chunk_id": "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b",
+              "chunk_title": "Building Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building is located at 233 Broadway, Manhattan, New York City."
+            },
+            {
+              "chunk_id": "aa7c473f-b8af-401d-8bbb-a08f020c3dd3",
+              "chunk_title": "Locations & Addresses",
+              "chunk_summary": "This chunk contains information about the geographical location and address of specific places, including details on their position relative to streets and neighborhoods.",
+              "context_title": "Park Lane Hotel (Manhattan)",
+              "page_content": "36 Central Park South is between Fifth and Sixth Avenues. 36 Central Park South is in Midtown Manhattan."
+            },
+            {
+              "chunk_id": "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations and hierarchical contexts of specific buildings or landmarks.",
+              "context_title": "220 Central Park South",
+              "page_content": "New York City is located in the U.S. state of New York. 220 Central Park South is located in Midtown Manhattan. Midtown Manhattan is located in New York City."
+            },
+            {
+              "chunk_id": "09f69d13-0e0f-467b-936b-3294fccaad2d",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of boroughs within New York City.",
+              "context_title": "Westchester Avenue (NYW&amp;B station)",
+              "page_content": "The borough of the Bronx is in New York City."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is 220 Central Park South located in Manhattan?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is 220 Central Park South located in Manhattan?",
+          "planner_rationale": "Q 询问两个建筑是否都位于曼哈顿，需要确认 220 Central Park South 的位置——这是回答 Q 的两个核心子事实之二",
+          "solver_judgment": "question 要求确认 220 Central Park South 是否位于曼哈顿。search_query 直接搜索了该问题。chunks 返回了 f113cdc1-4b6c-4ecd-a3db-b0d8609ed729，其中明确记载 '220 Central Park South is located in Midtown Manhattan'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 220 Central Park South），单来源但直接、具体地陈述了答案。支撑 chunk f113cdc1 全文记载 '220 Central Park South is located in Midtown Manhattan'，与声称答案 Yes 完全匹配。交叉验证：不充分（仅 1 个来源），但证据直接明确。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 直接确认 220 Central Park South 位于 Midtown Manhattan，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations and hierarchical contexts of specific buildings or landmarks.",
+              "context_title": "220 Central Park South",
+              "page_content": "New York City is located in the U.S. state of New York. 220 Central Park South is located in Midtown Manhattan. Midtown Manhattan is located in New York City."
+            },
+            {
+              "chunk_id": "8a6790e7-24e4-4cc9-88c3-facdc42f0f07",
+              "chunk_title": "Residential Skyscrapers",
+              "chunk_summary": "This chunk contains information about residential skyscrapers and their characteristics.",
+              "context_title": "220 Central Park South",
+              "page_content": "220 Central Park South is a residential skyscraper."
+            },
+            {
+              "chunk_id": "9057f002-7270-4536-9239-267bcde82c8e",
+              "chunk_title": "Building Projects",
+              "chunk_summary": "This chunk contains information about the construction status, developers, and architects of specific building projects.",
+              "context_title": "220 Central Park South",
+              "page_content": "220 Central Park South is being designed by Robert A.M. Stern Architects. 220 Central Park South is being developed by Vornado Realty Trust. 220 Central Park South is currently under construction."
+            },
+            {
+              "chunk_id": "aa7c473f-b8af-401d-8bbb-a08f020c3dd3",
+              "chunk_title": "Locations & Addresses",
+              "chunk_summary": "This chunk contains information about the geographical location and address of specific places, including details on their position relative to streets and neighborhoods.",
+              "context_title": "Park Lane Hotel (Manhattan)",
+              "page_content": "36 Central Park South is between Fifth and Sixth Avenues. 36 Central Park South is in Midtown Manhattan."
+            },
+            {
+              "chunk_id": "76184eea-46b0-4a46-97b2-5106d6601ed5",
+              "chunk_title": "Hotel Locations",
+              "chunk_summary": "This chunk contains information about the specific locations of hotels or buildings, including their street addresses and proximity to landmarks.",
+              "context_title": "JW Marriott Essex House",
+              "page_content": "The JW Marriott Essex House is located at 160 Central Park South in Manhattan. The JW Marriott Essex House is located across the street from the southern border of Central Park."
+            },
+            {
+              "chunk_id": "274b91dd-3058-4d09-a97b-38ed8a6f7dc8",
+              "chunk_title": "Building Services & Amenities",
+              "chunk_summary": "This chunk contains information about the service level and amenities of specific buildings.",
+              "context_title": "200 Central Park South",
+              "page_content": "200 Central Park South is a full service building."
+            },
+            {
+              "chunk_id": "a1348da3-04b5-4f9e-9e9d-c9888c47af28",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the specific location, street address, and immediate surroundings of 200 Central Park South in New York City, including its proximity to Central Park and the Merchant's Gate entrance.",
+              "context_title": "200 Central Park South",
+              "page_content": "200 Central Park South is across from a major pedestrian and vehicle entrance into Central Park. 200 Central Park South is on the south side of Central Park in New York City. The major pedestrian and vehicle entrance into Central Park across from 200 Central Park South is known as the \"Merchant's Gate\". 200 Central Park South is at the corner of 7th Avenue and Central Park South (59th Street)."
+            },
+            {
+              "chunk_id": "612c6715-3c8e-43fb-a96e-08e37151b968",
+              "chunk_title": "Real Estate Developers",
+              "chunk_summary": "This chunk contains information about real estate developments and the builders associated with them.",
+              "context_title": "200 Central Park South",
+              "page_content": "Melvin Lipman built 200 Central Park South. Bernard Spitzer built 200 Central Park South."
+            },
+            {
+              "chunk_id": "a502355c-3ed6-43d2-a68c-760e1d29cfff",
+              "chunk_title": "NYC Landmarks & Locations",
+              "chunk_summary": "This chunk contains information about recognizable landmarks and locations in New York City.",
+              "context_title": "200 Central Park South",
+              "page_content": "200 Central Park South is highly recognizable in New York City photographs."
+            },
+            {
+              "chunk_id": "ff98e454-6fe6-490a-ac1d-bf68d73c3741",
+              "chunk_title": "Luxury Hotels",
+              "chunk_summary": "This chunk contains information about luxury hotels, including their names, locations, and notable features.",
+              "context_title": "Park Lane Hotel (Manhattan)",
+              "page_content": "The Park Lane Hotel is located at 36 Central Park South. The Park Lane Hotel overlooks Central Park. The Park Lane Hotel is a New York City luxury hotel."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are 111 Murray Street and 220 Central Park South both located in Manhattan?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。两个子节点 N1_1 和 N1_2 均已 SOLVED + healthy，answer 均为 Yes，推理链完整：111 Murray Street 位于 Tribeca, Manhattan；220 Central Park South 位于 Midtown Manhattan。合取判断成立，Q 答案可确定为 Yes。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。两个子节点 N1_1 和 N1_2 均返回 Yes，且各有直接证据支撑。N1_1 的支撑 chunk a005c2e8 明确记载 '111 Murray Street is located in Tribeca, Manhattan, New York City'；N1_2 的支撑 chunk f113cdc1 明确记载 '220 Central Park South is located in Midtown Manhattan'。两者均为 Manhattan 内的位置，合取判断成立。推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，答案可确定为 Yes。结构层面：当前分解已覆盖 Q 的全部语义需求（两个建筑的位置确认），无需新增节点。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Is 111 Murray Street located in Manhattan?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is 111 Murray Street located in Manhattan?",
+          "planner_rationale": "Q 的两个核心子事实之一——确认 111 Murray Street 是否位于曼哈顿。已 SOLVED + healthy，支撑 chunk a005c2e8 直接记载 '111 Murray Street is located in Tribeca, Manhattan, New York City'，证据充分。",
+          "solver_judgment": "question 询问 111 Murray Street 是否位于曼哈顿。search_query 直接搜索了该问题。chunks 返回了 chunk a005c2e8-48dc-49ab-a653-1a17a771309d，其中明确记载 '111 Murray Street is located in Tribeca, Manhattan, New York City'，直接确认了其位于曼哈顿。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 111 Murray Street），单来源但直接、具体地陈述了答案。支撑 chunk a005c2e8 全文记载 '111 Murray Street is located in Tribeca, Manhattan, New York City'，与声称答案 Yes 完全匹配。交叉验证：不充分（仅 1 个来源），但证据直接明确。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 直接确认 111 Murray Street 位于 Manhattan（Tribeca 是 Manhattan 的街区），无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a005c2e8-48dc-49ab-a653-1a17a771309d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a005c2e8-48dc-49ab-a653-1a17a771309d",
+              "chunk_title": "111 Murray Street Overview",
+              "chunk_summary": "This chunk contains information about the residential skyscraper 111 Murray Street, including its location, construction status, former names, and developers.",
+              "context_title": "111 Murray Street",
+              "page_content": "111 Murray Street is a residential skyscraper. 111 Murray Street was formerly known as 101 Murray Street. 111 Murray Street is located in Tribeca, Manhattan, New York City. 111 Murray Street is developed by Witkoff Group. 111 Murray Street was formerly known as 101 Tribeca. 111 Murray Street is under construction. 111 Murray Street is developed by Fisher Brothers."
+            },
+            {
+              "chunk_id": "380adce4-6f66-4e43-9cb9-3455330af5c3",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of places, including their county, state, and specific street boundaries.",
+              "context_title": "Murray Street Historic District",
+              "page_content": "Mount Morris is in Livingston County, New York. The 16 properties on Murray Street are between Eagle Street and Stanley Street."
+            },
+            {
+              "chunk_id": "e9066b39-b890-445f-9927-61edf7e33c87",
+              "chunk_title": "Murray Street Historic District",
+              "chunk_summary": "This chunk contains information about the Murray Street Historic District, including its location, status, and details about its contributing residential buildings, outbuildings, and objects.",
+              "context_title": "Murray Street Historic District",
+              "page_content": "The 16 contributing primary buildings in the Murray Street Historic District are all residences. The Murray Street Historic District includes three contributing objects. The three contributing objects in the Murray Street Historic District are a carriage step, a hitching post, and early 20th century street lights. Murray Street Historic District is a national historic district. The Murray Street Historic District includes 16 contributing primary buildings. Murray Street Historic District is located at Mount Morris. The Murray Street Historic District includes six contributing outbuildings. The Murray Street Historic District consists of 16 properties on Murray Street. The six contributing outbuildings in the Murray Street Historic District are carriage houses and garages."
+            },
+            {
+              "chunk_id": "ead7c1da-f3d1-4c13-8201-673624375cd5",
+              "chunk_title": "Neighborhood Locations",
+              "chunk_summary": "This chunk contains information about the location, boundaries, and regional descriptions of specific neighborhoods within cities.",
+              "context_title": "Morningside Heights, Manhattan",
+              "page_content": "Morningside Heights is a neighborhood of the borough of Manhattan in New York City. The area of Morningside Heights has been described as part of \"Greater Harlem\". Morningside Heights is on the border of the Upper West Side and Manhattanville. There is a disputed claim that the Upper West Side goes no farther north than 110th Street. The area of Morningside Heights is usually described as being on the Upper West Side."
+            },
+            {
+              "chunk_id": "2eefefe3-8171-4d63-8b68-b26db4797bd5",
+              "chunk_title": "Historical Building Locations",
+              "chunk_summary": "This chunk contains information about the locations of historical buildings.",
+              "context_title": "Joseph Papp",
+              "page_content": "The Astor Library Building was located in lower Manhattan."
+            },
+            {
+              "chunk_id": "ed0f2e1b-0898-482b-b7b8-6753f5143bc1",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical hierarchy and location of specific areas within cities and countries.",
+              "context_title": "Carnegie Hall",
+              "page_content": "Midtown Manhattan is in New York City. New York City is in the United States."
+            },
+            {
+              "chunk_id": "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b",
+              "chunk_title": "Building Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building is located at 233 Broadway, Manhattan, New York City."
+            },
+            {
+              "chunk_id": "aa7c473f-b8af-401d-8bbb-a08f020c3dd3",
+              "chunk_title": "Locations & Addresses",
+              "chunk_summary": "This chunk contains information about the geographical location and address of specific places, including details on their position relative to streets and neighborhoods.",
+              "context_title": "Park Lane Hotel (Manhattan)",
+              "page_content": "36 Central Park South is between Fifth and Sixth Avenues. 36 Central Park South is in Midtown Manhattan."
+            },
+            {
+              "chunk_id": "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations and hierarchical contexts of specific buildings or landmarks.",
+              "context_title": "220 Central Park South",
+              "page_content": "New York City is located in the U.S. state of New York. 220 Central Park South is located in Midtown Manhattan. Midtown Manhattan is located in New York City."
+            },
+            {
+              "chunk_id": "09f69d13-0e0f-467b-936b-3294fccaad2d",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of boroughs within New York City.",
+              "context_title": "Westchester Avenue (NYW&amp;B station)",
+              "page_content": "The borough of the Bronx is in New York City."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Is 220 Central Park South located in Manhattan?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Is 220 Central Park South located in Manhattan?",
+          "planner_rationale": "Q 的两个核心子事实之二——确认 220 Central Park South 是否位于曼哈顿。已 SOLVED + healthy，支撑 chunk f113cdc1 直接记载 '220 Central Park South is located in Midtown Manhattan'，证据充分。",
+          "solver_judgment": "question 要求确认 220 Central Park South 是否位于曼哈顿。search_query 直接搜索了该问题。chunks 返回了 f113cdc1-4b6c-4ecd-a3db-b0d8609ed729，其中明确记载 '220 Central Park South is located in Midtown Manhattan'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 220 Central Park South），单来源但直接、具体地陈述了答案。支撑 chunk f113cdc1 全文记载 '220 Central Park South is located in Midtown Manhattan'，与声称答案 Yes 完全匹配。交叉验证：不充分（仅 1 个来源），但证据直接明确。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 直接确认 220 Central Park South 位于 Midtown Manhattan，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations and hierarchical contexts of specific buildings or landmarks.",
+              "context_title": "220 Central Park South",
+              "page_content": "New York City is located in the U.S. state of New York. 220 Central Park South is located in Midtown Manhattan. Midtown Manhattan is located in New York City."
+            },
+            {
+              "chunk_id": "8a6790e7-24e4-4cc9-88c3-facdc42f0f07",
+              "chunk_title": "Residential Skyscrapers",
+              "chunk_summary": "This chunk contains information about residential skyscrapers and their characteristics.",
+              "context_title": "220 Central Park South",
+              "page_content": "220 Central Park South is a residential skyscraper."
+            },
+            {
+              "chunk_id": "9057f002-7270-4536-9239-267bcde82c8e",
+              "chunk_title": "Building Projects",
+              "chunk_summary": "This chunk contains information about the construction status, developers, and architects of specific building projects.",
+              "context_title": "220 Central Park South",
+              "page_content": "220 Central Park South is being designed by Robert A.M. Stern Architects. 220 Central Park South is being developed by Vornado Realty Trust. 220 Central Park South is currently under construction."
+            },
+            {
+              "chunk_id": "aa7c473f-b8af-401d-8bbb-a08f020c3dd3",
+              "chunk_title": "Locations & Addresses",
+              "chunk_summary": "This chunk contains information about the geographical location and address of specific places, including details on their position relative to streets and neighborhoods.",
+              "context_title": "Park Lane Hotel (Manhattan)",
+              "page_content": "36 Central Park South is between Fifth and Sixth Avenues. 36 Central Park South is in Midtown Manhattan."
+            },
+            {
+              "chunk_id": "76184eea-46b0-4a46-97b2-5106d6601ed5",
+              "chunk_title": "Hotel Locations",
+              "chunk_summary": "This chunk contains information about the specific locations of hotels or buildings, including their street addresses and proximity to landmarks.",
+              "context_title": "JW Marriott Essex House",
+              "page_content": "The JW Marriott Essex House is located at 160 Central Park South in Manhattan. The JW Marriott Essex House is located across the street from the southern border of Central Park."
+            },
+            {
+              "chunk_id": "274b91dd-3058-4d09-a97b-38ed8a6f7dc8",
+              "chunk_title": "Building Services & Amenities",
+              "chunk_summary": "This chunk contains information about the service level and amenities of specific buildings.",
+              "context_title": "200 Central Park South",
+              "page_content": "200 Central Park South is a full service building."
+            },
+            {
+              "chunk_id": "a1348da3-04b5-4f9e-9e9d-c9888c47af28",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the specific location, street address, and immediate surroundings of 200 Central Park South in New York City, including its proximity to Central Park and the Merchant's Gate entrance.",
+              "context_title": "200 Central Park South",
+              "page_content": "200 Central Park South is across from a major pedestrian and vehicle entrance into Central Park. 200 Central Park South is on the south side of Central Park in New York City. The major pedestrian and vehicle entrance into Central Park across from 200 Central Park South is known as the \"Merchant's Gate\". 200 Central Park South is at the corner of 7th Avenue and Central Park South (59th Street)."
+            },
+            {
+              "chunk_id": "612c6715-3c8e-43fb-a96e-08e37151b968",
+              "chunk_title": "Real Estate Developers",
+              "chunk_summary": "This chunk contains information about real estate developments and the builders associated with them.",
+              "context_title": "200 Central Park South",
+              "page_content": "Melvin Lipman built 200 Central Park South. Bernard Spitzer built 200 Central Park South."
+            },
+            {
+              "chunk_id": "a502355c-3ed6-43d2-a68c-760e1d29cfff",
+              "chunk_title": "NYC Landmarks & Locations",
+              "chunk_summary": "This chunk contains information about recognizable landmarks and locations in New York City.",
+              "context_title": "200 Central Park South",
+              "page_content": "200 Central Park South is highly recognizable in New York City photographs."
+            },
+            {
+              "chunk_id": "ff98e454-6fe6-490a-ac1d-bf68d73c3741",
+              "chunk_title": "Luxury Hotels",
+              "chunk_summary": "This chunk contains information about luxury hotels, including their names, locations, and notable features.",
+              "context_title": "Park Lane Hotel (Manhattan)",
+              "page_content": "The Park Lane Hotel is located at 36 Central Park South. The Park Lane Hotel overlooks Central Park. The Park Lane Hotel is a New York City luxury hotel."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Is 111 Murray Street located in Manhattan?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "a005c2e8-48dc-49ab-a653-1a17a771309d",
+        "380adce4-6f66-4e43-9cb9-3455330af5c3",
+        "e9066b39-b890-445f-9927-61edf7e33c87",
+        "ead7c1da-f3d1-4c13-8201-673624375cd5",
+        "2eefefe3-8171-4d63-8b68-b26db4797bd5",
+        "ed0f2e1b-0898-482b-b7b8-6753f5143bc1",
+        "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b",
+        "aa7c473f-b8af-401d-8bbb-a08f020c3dd3",
+        "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+        "09f69d13-0e0f-467b-936b-3294fccaad2d"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Is 220 Central Park South located in Manhattan?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+        "8a6790e7-24e4-4cc9-88c3-facdc42f0f07",
+        "9057f002-7270-4536-9239-267bcde82c8e",
+        "aa7c473f-b8af-401d-8bbb-a08f020c3dd3",
+        "76184eea-46b0-4a46-97b2-5106d6601ed5",
+        "274b91dd-3058-4d09-a97b-38ed8a6f7dc8",
+        "a1348da3-04b5-4f9e-9e9d-c9888c47af28",
+        "612c6715-3c8e-43fb-a96e-08e37151b968",
+        "a502355c-3ed6-43d2-a68c-760e1d29cfff",
+        "ff98e454-6fe6-490a-ac1d-bf68d73c3741"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Is 111 Murray Street located in Manhattan?（理由：Q 问两个建筑是否都在曼哈顿，需先确认第一个建筑的位置），F2: Is 220 Central Park South located in Manhattan?（理由：需确认第二个建筑的位置）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系——两者的 answer 汇总后即可判断 Q 的答案（两者都为 yes → Q 为 yes；任一为 no → Q 为 no）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question='Is 111 Murray Street located in Manhattan?'），$2（question='Is 220 Central Park South located in Manhattan?'）。新增边: N0→$1（decomposition），N0→$2（decomposition）。原因：Q 是一个合取判断（both...），自然分解为两个独立的位置确认子问题。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点 question 自包含，答案聚合后可支撑 ROOT 推理；③全部节点 healthy——N1_1 和 N1_2 各有直接证据支撑，N0 推理链完整一致；④首轮无拓扑变化。置信评估：两个建筑的位置均有 KB 直接确认，推理链完"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Is 111 Murray Street located in Manhattan?（理由：Q 是合取判断，需确认第一个建筑的位置），F2: Is 220 Central Park South located in Manhattan?（理由：需确认第二个建筑的位置）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 相互独立，无依赖关系——两者的 answer 汇总后即可判断 Q 的答案（两者都为 Yes → Q 为 Yes）。当前 DAG 已完全覆盖 Q 的全部语义需求，两个子节点均已 SOLVED + healthy，推理链完整，无需新增或调整节点。",
+      "hypothesis_delta": "本轮无结构调整——全部 INHERIT。原因：上一轮假设（将 Q 分解为两个独立的位置确认子问题）已被完全验证。N1_1 和 N1_2 均返回 Yes 且有直接证据支撑（chunk a005c2e8 确认 111 Murray Street 在 Tribeca, Manhattan；chunk f113cdc1 确认 220 Central Park South 在 Midtown Manhattan）。Critic 结构分析确认无缺口、无冗余、无需调整。DAG 已收敛至理想状态。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件②和③已通过：推理链语义匹配（N0 分解为 N1_1 和 N1_2，两个子问题独立且均可直接回答），所有节点 healthy。但条件④要求连续 2 轮拓扑快照相同——§5 明确指出'如这是首次出现拓扑不变（即上一轮有变化），本轮通过不意味着条件④已满足——还需下一轮确认'。当前为第 2 轮，需等待下一轮确认拓扑是否持续不变后再终止。"
+      }
+    }
+  ]
+}

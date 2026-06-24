@@ -1,0 +1,683 @@
+{
+  "question_index": 349,
+  "question_id": "7d94852a08cb11ebbd92ac1f6bf848b6",
+  "question": "Which film has the director died first, Hit Parade Of 1943 or Mr. Reeder In Room 13?",
+  "answer": "Mr. Reeder In Room 13",
+  "prediction": "Mr. Reeder In Room 13",
+  "error": null,
+  "latency_ms": 151730.2900000359,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T20:51:48.584626+00:00",
+  "chunks": [
+    {
+      "chunk_id": "1ff74c2b-e07c-47de-8b6c-1ebf6c1aa092",
+      "chunk_title": "Musical Films",
+      "chunk_summary": "This chunk contains information about musical films, including their titles and release years.",
+      "context_title": "Hit Parade of 1943",
+      "page_content": "Hit Parade of 1943 is a 1943 American musical film."
+    },
+    {
+      "chunk_id": "d9d376d6-b9bc-4e55-a839-6f96809d03d2",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "Hit Parade of 1943",
+      "page_content": "Hit Parade of 1943 was directed by Albert S. Rogell."
+    },
+    {
+      "chunk_id": "58e2c5ce-26c0-4c1f-b3ec-acbd7cdb1e10",
+      "chunk_title": "Film Production Details",
+      "chunk_summary": "This chunk contains information about the production details of films, including studios, producers, and screenwriters.",
+      "context_title": "Hit Parade of 1943",
+      "page_content": "The screenplay for Hit Parade of 1943 was written by Frances Hyland. The screenplay for Hit Parade of 1943 was written by Frank Gill Jr. Hit Parade of 1943 was made by Republic Pictures. Hit Parade of 1943 was produced by Albert J. Cohen."
+    },
+    {
+      "chunk_id": "88c7e421-a6be-4382-b18f-a3c6046af042",
+      "chunk_title": "Alternative Titles",
+      "chunk_summary": "This chunk contains information about alternative titles for movies or media productions.",
+      "context_title": "Hit Parade of 1943",
+      "page_content": "Hit Parade of 1943 is also known as Change of Heart."
+    },
+    {
+      "chunk_id": "c75aab0b-4aff-4dd3-a356-6e2c6a488f21",
+      "chunk_title": "Hit Parade of 1943 Cast & Music",
+      "chunk_summary": "This chunk contains information about the cast, singing voice dubbing, and musical features of the film Hit Parade of 1943.",
+      "context_title": "Hit Parade of 1943",
+      "page_content": "Jeanne Darrell dubbed the singing voice for Susan Hayward in Hit Parade of 1943. John Carroll stars in Hit Parade of 1943. Susan Hayward stars in Hit Parade of 1943. Walter Catlett stars in Hit Parade of 1943. Mary Treen stars in Hit Parade of 1943. Gail Patrick stars in Hit Parade of 1943. Hit Parade of 1943 features the Golden Gate Quartet. Dorothy Dandridge stars in Hit Parade of 1943. Ruth Fox dubbed the singing voice for Gail Patrick in Hit Parade of 1943. Hit Parade of 1943 features Freddy Martin and his orchestra. Hit Parade of 1943 features the Count Basie Orchestra. Melville Cooper stars in Hit Parade of 1943. Hit Parade of 1943 features Ray McKinley and his orchestra. Eve Arden stars in Hit Parade of 1943."
+    },
+    {
+      "chunk_id": "f26f42aa-0579-46d0-9af8-92852a0f4b14",
+      "chunk_title": "Film Remakes",
+      "chunk_summary": "This chunk contains information about film remakes and their original versions, specifically focusing on the 1943 film 'Rickshaw Man' and its remake.",
+      "context_title": "Rickshaw Man",
+      "page_content": "The 1943 film has the same name as the film Rickshaw Man. The film Rickshaw Man is a remake of a 1943 film."
+    },
+    {
+      "chunk_id": "e84dc55d-8425-47b9-b15e-e0e8f512b30f",
+      "chunk_title": "Josef von Báky's Filmography",
+      "chunk_summary": "This chunk contains information about the filmography and professional output of directors or producers, specifically focusing on Josef von Báky's career, notable works like \"Münchhausen\", release dates, genres, thematic characteristics, and production context.",
+      "context_title": "Josef von Báky",
+      "page_content": "Báky's best known film is \"Münchhausen\". The film \"Münchhausen\" was ordered to compete with Hollywood productions. The film \"Münchhausen\" was ordered to celebrate the 25th anniversary of UFA. The film \"Münchhausen\" was ordered by Nazi propaganda minister Goebbels. The film \"Münchhausen\" is a fantasy-comedy. The film \"Münchhausen\" was released in 1943. Josef von Báky worked as a director or producer on no less than 48 films. The film \"Münchhausen\" is noted for how it avoids politics of its time."
+    },
+    {
+      "chunk_id": "0aaf53e2-275c-41be-9231-896907a07bde",
+      "chunk_title": "The Gentle Sex Film Details",
+      "chunk_summary": "This chunk contains information about the 1943 British film \"The Gentle Sex,\" including its genre, format, director, narrator, production companies, and its significance as Leslie Howard's final film; please add further details about this specific film or similar cinematic works.",
+      "context_title": "The Gentle Sex",
+      "page_content": "The Gentle Sex was produced by Two Cities Films. The Gentle Sex is a romantic comedy-drama war film. The Gentle Sex is a 1943 British film. The Gentle Sex was Leslie Howard's last film before his death. The Gentle Sex was produced by Derrick de Marney. The Gentle Sex was directed by Leslie Howard. The Gentle Sex is a black-and-white film. The Gentle Sex was narrated by Leslie Howard. The Gentle Sex was produced by Concanen Productions."
+    },
+    {
+      "chunk_id": "33afd602-486f-4a3a-9c92-b83606633076",
+      "chunk_title": "Mr. Reeder in Room 13 Film Details",
+      "chunk_summary": "This chunk contains information about the 1938 British crime film \"Mr. Reeder in Room 13,\" including its director, cast, release dates, and its literary source material by Edgar Wallace.",
+      "context_title": "Mr. Reeder in Room 13",
+      "page_content": "Mr. Reeder in Room 13 is a 1938 British crime film. The film Mr. Reeder in Room 13 was released in the U.S. under the title Mystery of Room 13. Mr. Reeder in Room 13 is based on the book Room 13. Mr. Reeder in Room 13 stars Sally Gray. Mr. Reeder in Room 13 was directed by Norman Lee. The film Mr. Reeder in Room 13 was released in the U.S. in 1941. Mr. Reeder in Room 13 stars Gibb McLaughlin. Room 13 was written by Edgar Wallace. Mr. Reeder in Room 13 stars Peter Murray-Hill. Room 13 is the first J. G. Reeder book."
+    },
+    {
+      "chunk_id": "320c5cdc-64d4-44d1-b095-7e8738182492",
+      "chunk_title": "The Mind of Mr. Reeder Film Details",
+      "chunk_summary": "This chunk contains information about the 1939 British mystery crime film \"The Mind of Mr. Reeder,\" including its director, cast members, production details, distribution history, related films in the series, and its literary source material.",
+      "context_title": "The Mind of Mr. Reeder",
+      "page_content": "John Warwick had a supporting role in The Mind of Mr. Reeder. Jack Raymond was involved in the Mr. Reeder film The Missing People. Will Fyffe starred as Mr. Reeder in The Mind of Mr. Reeder. Ronald Shiner had a supporting role in The Mind of Mr. Reeder. Chili Bouchier had a supporting role in The Mind of Mr. Reeder. The Mind of Mr. Reeder is a 1939 British mystery crime film. Kay Walsh had a role in The Mind of Mr. Reeder. Will Fyffe was involved in the Mr. Reeder film The Missing People. Monogram Pictures used the alternative title The Mysterious Mr. Reeder for The Mind of Mr. Reeder in the United States. The sets for The Mind of Mr. Reeder were designed by the art director James Carter. The Mind of Mr. Reeder was distributed in the United States by Monogram Pictures. The Mind of Mr. Reeder is based on a novel by Edgar Wallace. The Mind of Mr. Reeder was shot at the Highbury Studios in London. George Curzon had a role in The Mind of Mr. Reeder. Ronald Shiner was involved in the Mr. Reeder film The Missing People. The Mind of Mr. Reeder was directed by Jack Raymond. The Mind of Mr. Reeder was produced by Jack Raymond Productions."
+    },
+    {
+      "chunk_id": "9424bf2c-0ffb-4044-9057-48cb1470d511",
+      "chunk_title": "Actors & Films",
+      "chunk_summary": "This chunk contains information about actors, their roles, and their involvement in specific films.",
+      "context_title": "The Missing People",
+      "page_content": "Ronald Shiner starred as Sam Hackett in The Missing People. Will Fyffe was involved in the film The Mind of Mr. Reeder. Will Fyffe starred as Mr. J. G. Reeder in The Missing People. Jack Raymond was involved in the film The Mind of Mr. Reeder. Ronald Shiner was involved in the film The Mind of Mr. Reeder."
+    },
+    {
+      "chunk_id": "f0ce39d2-1e7f-4fda-8b8e-b2fbf8a5d9d5",
+      "chunk_title": "The Woman in Room 13 Film Details",
+      "chunk_summary": "This chunk contains information about the 1920 American lost silent mystery drama film \"The Woman in Room 13\", including its director, starring cast, production and distribution companies, its basis on a Broadway play, and details regarding its remakes.",
+      "context_title": "The Woman in Room 13",
+      "page_content": "The Woman in Room 13 was produced by Goldwyn Pictures. The Woman in Room 13 starred Pauline Frederick. The Woman in Room 13 was remade at Fox in 1932. The Woman in Room 13 was distributed by Goldwyn Pictures. The Broadway play is named The Woman in Room 13. The 1932 remake of The Woman in Room 13 was a talkie. The Woman in Room 13 is a lost film. The Woman in Room 13 is a silent film. The Woman in Room 13 was directed by Frank Lloyd. The Woman in Room 13 is based on a Broadway play. The Woman in Room 13 is a 1920 film. The Woman in Room 13 is an American film. The Woman in Room 13 is a mystery drama film."
+    },
+    {
+      "chunk_id": "cde9df3a-9259-4eec-a743-a37d8a5211af",
+      "chunk_title": "Films",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, directors, and cast members.",
+      "context_title": "Girl in Room 13",
+      "page_content": "Girl in Room 13 stars Brian Donlevy. Girl in Room 13 was directed by Richard Cunha. Girl in Room 13 is a 1960 American film."
+    },
+    {
+      "chunk_id": "89f5a446-2305-4a1d-99eb-3fc8a922cf85",
+      "chunk_title": "Films",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, visual formats, genres, directors, and associated characters or series.",
+      "context_title": "The Missing People",
+      "page_content": "The Missing People is a mystery film. The Mind of Mr. Reeder is a Mr. Reeder film. The Missing People is a 1940 British film. The Missing People is a black-and-white film. The Missing People was directed by Jack Raymond."
+    },
+    {
+      "chunk_id": "cc572470-443c-4a51-853b-604416d1e129",
+      "chunk_title": "Mr. Right Film Details",
+      "chunk_summary": "This chunk contains information about the 2009 British film Mr. Right, including its directors, production nature, and themes; add details about other films or specific attributes of this movie here.",
+      "context_title": "Mr. Right (2009 film)",
+      "page_content": "Mr. Right was directed by David Morris. Mr. Right is a jointly-made film. Mr. Right is the debut film for David Morris. Mr. Right is a 2009 British film. Mr. Right is the debut film for Jacqui Morris. Mr. Right is a gay-themed film. Mr. Right was directed by Jacqui Morris."
+    },
+    {
+      "chunk_id": "d9619b39-ea1c-4487-a7bf-b0b07f394350",
+      "chunk_title": "Martin Ritt Filmography",
+      "chunk_summary": "This chunk contains information about the professional background, nationality, and specific filmography of Martin Ritt.",
+      "context_title": "Martin Ritt",
+      "page_content": "Martin Ritt directed the movie \"The Outrage\" in 1964. Martin Ritt directed the movie \"Hombre\" in 1967. Martin Ritt directed the movie \"Cross Creek\" in 1983. Martin Ritt directed the movie \"Norma Rae\" in 1979. Martin Ritt directed the movie \"Conrack\" in 1974. Martin Ritt directed the movie \"Sounder\" in 1972. Martin Ritt directed the movie \"Hud\" in 1963. Martin Ritt directed the movie \"The Long, Hot Summer\" in 1958. Martin Ritt directed the movie \"The Black Orchid\" in 1958. Martin Ritt directed the movie \"The Great White Hope\" in 1970. Martin Ritt directed the movie \"Stanley & Iris\" in 1990. Martin Ritt worked in film. Martin Ritt directed the movie \"The Spy Who Came in from the Cold\" in 1965. Martin Ritt directed the movie \"Nuts\" in 1987. Martin Ritt directed the movie \"Paris Blues\" in 1961. Martin Ritt directed the movie \"Murphy's Romance\" in 1985. Martin Ritt was an American director. Martin Ritt directed the movie \"Hemingway's Adventures of a Young Man\" in 1962."
+    },
+    {
+      "chunk_id": "d0df024c-c5c3-4502-b185-641e27c12a9b",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the death dates of individuals.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell died on April 7, 1988."
+    },
+    {
+      "chunk_id": "c5ffd797-f1ab-4420-a9dc-157be8868a71",
+      "chunk_title": "Birth & Death Places",
+      "chunk_summary": "This chunk contains biographical information about individuals, specifically their birthplaces and death places.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell died in Los Angeles, California. Albert S. Rogell was born in Oklahoma City, Oklahoma."
+    },
+    {
+      "chunk_id": "67f7a2b4-b9f3-4c18-80d6-b26118130773",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the death dates of individuals.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell died on April 7, 1988."
+    },
+    {
+      "chunk_id": "a86b2012-f296-4c9f-99ff-397874c15241",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the professional background and identity of film directors, specifically focusing on their nationality and career output.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell was an American film director. Albert S. Rogell directed more than a hundred movies between 1921 and 1958."
+    },
+    {
+      "chunk_id": "29f6b2ae-1fcc-4247-840f-5345d9f67855",
+      "chunk_title": "Death Locations",
+      "chunk_summary": "This chunk contains information about the death locations of individuals.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell died in Los Angeles, California."
+    },
+    {
+      "chunk_id": "dab25465-c99c-4835-8b85-cfccc1654f51",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth date of Albert S. Rogell.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell was born on August 21, 1901."
+    },
+    {
+      "chunk_id": "47dff52e-95c2-4456-900c-42cb7661c846",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth date of Albert S. Rogell.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell was born on August 21, 1901."
+    },
+    {
+      "chunk_id": "c8dd50e8-8e11-421d-b67c-8a6e957ea448",
+      "chunk_title": "Birthplaces",
+      "chunk_summary": "This chunk contains information about the birthplace of individuals.",
+      "context_title": "Albert S. Rogell",
+      "page_content": "Albert S. Rogell was born in Oklahoma City, Oklahoma."
+    },
+    {
+      "chunk_id": "6e886637-1e06-48e8-beda-58202de0a2ba",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Norman Lee",
+      "page_content": "Norman Lee died on 2 June 1964. Norman Lee was born on 10 October 1898."
+    },
+    {
+      "chunk_id": "b49e4ac0-63cb-49dd-8d77-5d7cdbeace9d",
+      "chunk_title": "Nationality",
+      "chunk_summary": "This chunk contains information about the nationality of individuals.",
+      "context_title": "Norman Lee",
+      "page_content": "Norman Lee was British."
+    },
+    {
+      "chunk_id": "3b69140e-fc57-4ade-9cda-796ed132f08e",
+      "chunk_title": "Professions",
+      "chunk_summary": "This chunk contains information about the professions of individuals, specifically screenwriters and film directors.",
+      "context_title": "Norman Lee",
+      "page_content": "Norman Lee was a screenwriter. Norman Lee was a film director."
+    },
+    {
+      "chunk_id": "3fccc300-09c6-45ce-840a-8cf5ddea6999",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Leon Ames",
+      "page_content": "Leon Ames was born on January 20, 1902. Leon Ames died on October 12, 1993."
+    },
+    {
+      "chunk_id": "a9aa6e1c-ce4a-4efa-a548-166df7081729",
+      "chunk_title": "Deaths & Dates",
+      "chunk_summary": "This chunk contains information about the death of individuals, including details such as location, date, and identity.",
+      "context_title": "Brad Newman",
+      "page_content": "Brad Newman died on 18 January 1999. Brad Newman died in Spain."
+    },
+    {
+      "chunk_id": "45e33f59-2283-404d-b168-391adcf354c9",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date of death for specific individuals.",
+      "context_title": "Edward Norman Hay",
+      "page_content": "Edward Norman Hay died on 10 September 1943."
+    },
+    {
+      "chunk_id": "7a8400f6-4354-42b7-8df6-65fff15015d7",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Leigh Jason",
+      "page_content": "Leigh Jason died on February 19, 1979. Leigh Jason was born on July 26, 1904."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.5483870967741935,
+  "retrieval_count": 4,
+  "total_chunks": 31,
+  "total_distinct_titles": 17,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 5,
+  "dag_edges": 4,
+  "dag_snapshots": [
+    {
+      "q": "Which film has the director died first, Hit Parade Of 1943 or Mr. Reeder In Room 13?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director died first, Hit Parade Of 1943 or Mr. Reeder In Room 13?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影导演的死亡日期以确定谁先去世",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生事实，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，两条分支（N1_1→N1_3 和 N1_2→N1_4）均已 SOLVED 且证据充分。N1_3 答案 'April 7, 1988' 与 N1_4 答案 '2 June 1964' 提供了可比较的日期事实。推理链完整，无缺失环节。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据充分，依赖关系语义有效，已具备生成最终答案的条件。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'Hit Parade Of 1943'?",
+          "answer": "Albert S. Rogell",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Hit Parade Of 1943'?",
+          "planner_rationale": "为了回答 Q，首先需要确定电影 'Hit Parade Of 1943' 的导演是谁，这是获取其死亡日期的前提",
+          "solver_judgment": "question 要求找出电影 'Hit Parade Of 1943' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于该电影的片段，其中 chunk d9d376d6-b9bc-4e55-a839-6f96809d03d2 明确记载 \"Hit Parade of 1943 was directed by Albert S. Rogell\"，直接提供了答案。其他 chunks 提供了演员、编剧、制片公司等额外信息，但未包含导演信息或与之无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 'Hit Parade of 1943'）。Chunk d9d376d6-b9bc-4e55-a839-6f96809d03d2 全文直接陈述 'Hit Parade of 1943 was directed by Albert S. Rogell'。单来源但直接具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步验证。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'Mr. Reeder In Room 13'?",
+          "answer": "Norman Lee",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Mr. Reeder In Room 13'?",
+          "planner_rationale": "为了回答 Q，首先需要确定电影 'Mr. Reeder In Room 13' 的导演是谁，这是获取其死亡日期的前提",
+          "solver_judgment": "question 要求找出电影 'Mr. Reeder In Room 13' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个包含 \"Room 13\" 或 \"Mr. Reeder\" 的电影信息，其中 chunk 33afd602-486f-4a3a-9c92-b83606633076 明确记载 \"Mr. Reeder in Room 13 was directed by Norman Lee\"，直接回答了问题。其他 chunks 涉及的是系列中的其他电影（如 The Mind of Mr. Reeder, The Missing People）或名称相似但无关的电影（The Woman in Room 13, Girl in Room 13），未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 'Mr. Reeder in Room 13'）。Chunk 33afd602-486f-4a3a-9c92-b83606633076 全文直接陈述 'Mr. Reeder in Room 13 was directed by Norman Lee'。单来源但直接具体，足以确立事实。其他检索结果虽涉及相似片名但未造成干扰。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步验证。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When did the director of 'Hit Parade Of 1943' die?",
+          "answer": "April 7, 1988",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Albert S. Rogell death date",
+          "planner_rationale": "需要获取 'Hit Parade Of 1943' 导演的具体死亡日期，以便与另一部电影的导演死亡日期进行比较",
+          "solver_judgment": "question 要求找出电影《Hit Parade Of 1943》导演的死亡日期。search_query 搜索了 'Albert S. Rogell death date'，这表明检索系统已经识别出 Albert S. Rogell 是该电影的导演。chunks 返回了关于 Albert S. Rogell 的详细生平信息。其中 chunk d0df024c-c5c3-4502-b185-641e27c12a9b 和 chunk 67f7a2b4-b9f3-4c18-80d6-b26118130773 明确记载 \"Albert S. Rogell died on April 7, 1988\"。chunk a86b2012-f296-4c9f-99ff-397874c15241 确认了他是电影导演。检索精准命中了目标人物及其死亡日期，信息完整。",
+          "critic_factual_notes": "2 个支撑 Chunk，但均来自同一独立来源（文档 'Albert S. Rogell'）。Chunk d0df024c-c5c3-4502-b185-641e27c12a9b 和 67f7a2b4-b9f3-4c18-80d6-b26118130773 均明确记载 'Albert S. Rogell died on April 7, 1988'。虽为单独立来源，但内容直接、具体且一致，对于此类客观事实可接受。",
+          "critic_normative_advice": "建议 INHERIT——单来源直接陈述，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When did the director of 'Mr. Reeder In Room 13' die?",
+          "answer": "2 June 1964",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Norman Lee death date",
+          "planner_rationale": "需要获取 'Mr. Reeder In Room 13' 导演的具体死亡日期，以便与另一部电影的导演死亡日期进行比较",
+          "solver_judgment": "question 要求找出电影 'Mr. Reeder In Room 13' 导演的死亡日期。search_query 搜索了 'Norman Lee death date'，这表明检索系统已经识别出导演为 Norman Lee。chunks 中，chunk_33afd602-486f-4a3a-9c92-b83606633076 明确指出 \"Mr. Reeder in Room 13 was directed by Norman Lee\"，确立了导演身份。chunk_6e886637-1e06-48e8-beda-58202de0a2ba 记载 \"Norman Lee died on 2 June 1964\"，提供了具体的死亡日期。检索精准命中了目标实体及其属性，信息完整且直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 Chunk。Chunk 6e886637-1e06-48e8-beda-58202de0a2ba（来源 'Norman Lee'）明确记载 'Norman Lee died on 2 June 1964'。Chunk 33afd602-486f-4a3a-9c92-b83606633076（来源 'Mr. Reeder in Room 13'）确认了导演身份但未提供死亡日期。核心事实由单独立来源（'Norman Lee'）直接提供，内容具体。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步验证。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director died first, Hit Parade Of 1943 or Mr. Reeder In Room 13?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director died first, Hit Parade Of 1943 or Mr. Reeder In Room 13?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份、死亡日期）已确立，具备生成最终答案的条件。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生事实，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，两条分支（N1_1→N1_3 和 N1_2→N1_4）均已 SOLVED 且证据充分。N1_3 答案 'April 7, 1988' 与 N1_4 答案 '2 June 1964' 提供了可比较的日期事实。推理链完整，无缺失环节。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据充分，依赖关系语义有效，已具备生成最终答案的条件。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'Hit Parade Of 1943'?",
+          "answer": "Albert S. Rogell",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Hit Parade Of 1943'?",
+          "planner_rationale": "已确立 'Hit Parade Of 1943' 的导演为 Albert S. Rogell，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影 'Hit Parade Of 1943' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于该电影的片段，其中 chunk d9d376d6-b9bc-4e55-a839-6f96809d03d2 明确记载 \"Hit Parade of 1943 was directed by Albert S. Rogell\"，直接提供了答案。其他 chunks 提供了演员、编剧、制片公司等额外信息，但未包含导演信息或与之无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 'Hit Parade of 1943'）。Chunk d9d376d6-b9bc-4e55-a839-6f96809d03d2 全文直接陈述 'Hit Parade of 1943 was directed by Albert S. Rogell'。单来源但直接具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步验证。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'Mr. Reeder In Room 13'?",
+          "answer": "Norman Lee",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Mr. Reeder In Room 13'?",
+          "planner_rationale": "已确立 'Mr. Reeder In Room 13' 的导演为 Norman Lee，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影 'Mr. Reeder In Room 13' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个包含 \"Room 13\" 或 \"Mr. Reeder\" 的电影信息，其中 chunk 33afd602-486f-4a3a-9c92-b83606633076 明确记载 \"Mr. Reeder in Room 13 was directed by Norman Lee\"，直接回答了问题。其他 chunks 涉及的是系列中的其他电影（如 The Mind of Mr. Reeder, The Missing People）或名称相似但无关的电影（The Woman in Room 13, Girl in Room 13），未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 'Mr. Reeder in Room 13'）。Chunk 33afd602-486f-4a3a-9c92-b83606633076 全文直接陈述 'Mr. Reeder in Room 13 was directed by Norman Lee'。单来源但直接具体，足以确立事实。其他检索结果虽涉及相似片名但未造成干扰。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步验证。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When did the director of 'Hit Parade Of 1943' die?",
+          "answer": "April 7, 1988",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Albert S. Rogell death date",
+          "planner_rationale": "已确立 Albert S. Rogell 的死亡日期为 April 7, 1988，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影《Hit Parade Of 1943》导演的死亡日期。search_query 搜索了 'Albert S. Rogell death date'，这表明检索系统已经识别出 Albert S. Rogell 是该电影的导演。chunks 返回了关于 Albert S. Rogell 的详细生平信息。其中 chunk d0df024c-c5c3-4502-b185-641e27c12a9b 和 chunk 67f7a2b4-b9f3-4c18-80d6-b26118130773 明确记载 \"Albert S. Rogell died on April 7, 1988\"。chunk a86b2012-f296-4c9f-99ff-397874c15241 确认了他是电影导演。检索精准命中了目标人物及其死亡日期，信息完整。",
+          "critic_factual_notes": "2 个支撑 Chunk，但均来自同一独立来源（文档 'Albert S. Rogell'）。Chunk d0df024c-c5c3-4502-b185-641e27c12a9b 和 67f7a2b4-b9f3-4c18-80d6-b26118130773 均明确记载 'Albert S. Rogell died on April 7, 1988'。虽为单独立来源，但内容直接、具体且一致，对于此类客观事实可接受。",
+          "critic_normative_advice": "建议 INHERIT——单来源直接陈述，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When did the director of 'Mr. Reeder In Room 13' die?",
+          "answer": "2 June 1964",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Norman Lee death date",
+          "planner_rationale": "已确立 Norman Lee 的死亡日期为 2 June 1964，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影 'Mr. Reeder In Room 13' 导演的死亡日期。search_query 搜索了 'Norman Lee death date'，这表明检索系统已经识别出导演为 Norman Lee。chunks 中，chunk_33afd602-486f-4a3a-9c92-b83606633076 明确指出 \"Mr. Reeder in Room 13 was directed by Norman Lee\"，确立了导演身份。chunk_6e886637-1e06-48e8-beda-58202de0a2ba 记载 \"Norman Lee died on 2 June 1964\"，提供了具体的死亡日期。检索精准命中了目标实体及其属性，信息完整且直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 Chunk。Chunk 6e886637-1e06-48e8-beda-58202de0a2ba（来源 'Norman Lee'）明确记载 'Norman Lee died on 2 June 1964'。Chunk 33afd602-486f-4a3a-9c92-b83606633076（来源 'Mr. Reeder in Room 13'）确认了导演身份但未提供死亡日期。核心事实由单独立来源（'Norman Lee'）直接提供，内容具体。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步验证。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director died first, Hit Parade Of 1943 or Mr. Reeder In Room 13?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director died first, Hit Parade Of 1943 or Mr. Reeder In Room 13?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份、死亡日期）已确立，具备生成最终答案的条件。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生事实，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，两条分支（N1_1→N1_3 和 N1_2→N1_4）均已 SOLVED 且证据充分。N1_3 答案 'April 7, 1988' 与 N1_4 答案 '2 June 1964' 提供了可比较的日期事实。推理链完整，无缺失环节。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据充分，依赖关系语义有效，已具备生成最终答案的条件。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'Hit Parade Of 1943'?",
+          "answer": "Albert S. Rogell",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Hit Parade Of 1943'?",
+          "planner_rationale": "已确立 'Hit Parade Of 1943' 的导演为 Albert S. Rogell，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影 'Hit Parade Of 1943' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于该电影的片段，其中 chunk d9d376d6-b9bc-4e55-a839-6f96809d03d2 明确记载 \"Hit Parade of 1943 was directed by Albert S. Rogell\"，直接提供了答案。其他 chunks 提供了演员、编剧、制片公司等额外信息，但未包含导演信息或与之无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 'Hit Parade of 1943'）。Chunk d9d376d6-b9bc-4e55-a839-6f96809d03d2 全文直接陈述 'Hit Parade of 1943 was directed by Albert S. Rogell'。单来源但直接具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步验证。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'Mr. Reeder In Room 13'?",
+          "answer": "Norman Lee",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'Mr. Reeder In Room 13'?",
+          "planner_rationale": "已确立 'Mr. Reeder In Room 13' 的导演为 Norman Lee，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影 'Mr. Reeder In Room 13' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个包含 \"Room 13\" 或 \"Mr. Reeder\" 的电影信息，其中 chunk 33afd602-486f-4a3a-9c92-b83606633076 明确记载 \"Mr. Reeder in Room 13 was directed by Norman Lee\"，直接回答了问题。其他 chunks 涉及的是系列中的其他电影（如 The Mind of Mr. Reeder, The Missing People）或名称相似但无关的电影（The Woman in Room 13, Girl in Room 13），未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 'Mr. Reeder in Room 13'）。Chunk 33afd602-486f-4a3a-9c92-b83606633076 全文直接陈述 'Mr. Reeder in Room 13 was directed by Norman Lee'。单来源但直接具体，足以确立事实。其他检索结果虽涉及相似片名但未造成干扰。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步验证。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When did the director of 'Hit Parade Of 1943' die?",
+          "answer": "April 7, 1988",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Albert S. Rogell death date",
+          "planner_rationale": "已确立 Albert S. Rogell 的死亡日期为 April 7, 1988，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影《Hit Parade Of 1943》导演的死亡日期。search_query 搜索了 'Albert S. Rogell death date'，这表明检索系统已经识别出 Albert S. Rogell 是该电影的导演。chunks 返回了关于 Albert S. Rogell 的详细生平信息。其中 chunk d0df024c-c5c3-4502-b185-641e27c12a9b 和 chunk 67f7a2b4-b9f3-4c18-80d6-b26118130773 明确记载 \"Albert S. Rogell died on April 7, 1988\"。chunk a86b2012-f296-4c9f-99ff-397874c15241 确认了他是电影导演。检索精准命中了目标人物及其死亡日期，信息完整。",
+          "critic_factual_notes": "2 个支撑 Chunk，但均来自同一独立来源（文档 'Albert S. Rogell'）。Chunk d0df024c-c5c3-4502-b185-641e27c12a9b 和 67f7a2b4-b9f3-4c18-80d6-b26118130773 均明确记载 'Albert S. Rogell died on April 7, 1988'。虽为单独立来源，但内容直接、具体且一致，对于此类客观事实可接受。",
+          "critic_normative_advice": "建议 INHERIT——单来源直接陈述，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When did the director of 'Mr. Reeder In Room 13' die?",
+          "answer": "2 June 1964",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Norman Lee death date",
+          "planner_rationale": "已确立 Norman Lee 的死亡日期为 2 June 1964，证据充分且 Critic 判为 healthy。",
+          "solver_judgment": "question 要求找出电影 'Mr. Reeder In Room 13' 导演的死亡日期。search_query 搜索了 'Norman Lee death date'，这表明检索系统已经识别出导演为 Norman Lee。chunks 中，chunk_33afd602-486f-4a3a-9c92-b83606633076 明确指出 \"Mr. Reeder in Room 13 was directed by Norman Lee\"，确立了导演身份。chunk_6e886637-1e06-48e8-beda-58202de0a2ba 记载 \"Norman Lee died on 2 June 1964\"，提供了具体的死亡日期。检索精准命中了目标实体及其属性，信息完整且直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 Chunk。Chunk 6e886637-1e06-48e8-beda-58202de0a2ba（来源 'Norman Lee'）明确记载 'Norman Lee died on 2 June 1964'。Chunk 33afd602-486f-4a3a-9c92-b83606633076（来源 'Mr. Reeder in Room 13'）确认了导演身份但未提供死亡日期。核心事实由单独立来源（'Norman Lee'）直接提供，内容具体。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且明确，无需进一步验证。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the director of the film 'Hit Parade Of 1943'?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "1ff74c2b-e07c-47de-8b6c-1ebf6c1aa092",
+        "d9d376d6-b9bc-4e55-a839-6f96809d03d2",
+        "58e2c5ce-26c0-4c1f-b3ec-acbd7cdb1e10",
+        "88c7e421-a6be-4382-b18f-a3c6046af042",
+        "c75aab0b-4aff-4dd3-a356-6e2c6a488f21",
+        "f26f42aa-0579-46d0-9af8-92852a0f4b14",
+        "e84dc55d-8425-47b9-b15e-e0e8f512b30f",
+        "0aaf53e2-275c-41be-9231-896907a07bde"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who is the director of the film 'Mr. Reeder In Room 13'?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "33afd602-486f-4a3a-9c92-b83606633076",
+        "320c5cdc-64d4-44d1-b095-7e8738182492",
+        "9424bf2c-0ffb-4044-9057-48cb1470d511",
+        "f0ce39d2-1e7f-4fda-8b8e-b2fbf8a5d9d5",
+        "cde9df3a-9259-4eec-a743-a37d8a5211af",
+        "89f5a446-2305-4a1d-99eb-3fc8a922cf85",
+        "cc572470-443c-4a51-853b-604416d1e129",
+        "d9619b39-ea1c-4487-a7bf-b0b07f394350"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Albert S. Rogell death date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "d0df024c-c5c3-4502-b185-641e27c12a9b",
+        "c5ffd797-f1ab-4420-a9dc-157be8868a71",
+        "67f7a2b4-b9f3-4c18-80d6-b26118130773",
+        "a86b2012-f296-4c9f-99ff-397874c15241",
+        "29f6b2ae-1fcc-4247-840f-5345d9f67855",
+        "dab25465-c99c-4835-8b85-cfccc1654f51",
+        "47dff52e-95c2-4456-900c-42cb7661c846",
+        "c8dd50e8-8e11-421d-b67c-8a6e957ea448"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Norman Lee death date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6e886637-1e06-48e8-beda-58202de0a2ba",
+        "b49e4ac0-63cb-49dd-8d77-5d7cdbeace9d",
+        "3b69140e-fc57-4ade-9cda-796ed132f08e",
+        "3fccc300-09c6-45ce-840a-8cf5ddea6999",
+        "a9aa6e1c-ce4a-4efa-a548-166df7081729",
+        "45e33f59-2283-404d-b168-391adcf354c9",
+        "33afd602-486f-4a3a-9c92-b83606633076",
+        "7a8400f6-4354-42b7-8df6-65fff15015d7"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of 'Hit Parade Of 1943'?（理由：确定第一部电影的导演身份），F2: Who is the director of 'Mr. Reeder In Room 13'?（理由：确定第二部电影的导演身份），F3: When did the director of 'Hit Parade Of 1943' die?（理由：获取第一部电影导演的死亡日期），F4: When did the director of 'Mr. Reeder In Room 13' die?（理由：获取第二部电影导演的死亡日期）。关系: F1 是 F3 的前置条件（dependency——F3 的查询需要 F1 的答案来指定具体导演），F2 是 F4 的前置条件（dependency——F4 的查询需要 F2 的答案来指定具体导演），F1 和 F2 是 Q 的直接分解产物（decomposition），最终通过比较 F3 和 F4 的日期来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将比较问题拆解为两个独立的子任务链（每部电影对应一条链：查导演 -> 查死亡日期），最后汇总比较。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1→N1_3 和 N1_2→N1_4 的依赖均有效消解了指代）；③ 所有节点（含 ROOT）审查结果为 healthy；④ 首轮无拓扑变化争议。DAG 结构完整，证据充分，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of 'Hit Parade Of 1943'?（理由：确定第一部电影的导演身份），F2: Who is the director of 'Mr. Reeder In Room 13'?（理由：确定第二部电影的导演身份），F3: When did the director of 'Hit Parade Of 1943' die?（理由：获取第一部电影导演的死亡日期），F4: When did the director of 'Mr. Reeder In Room 13' die?（理由：获取第二部电影导演的死亡日期）。关系: F1 是 F3 的前置条件（dependency），F2 是 F4 的前置条件（dependency），F1 和 F2 是 Q 的直接分解产物（decomposition）。当前 DAG 已完全覆盖这些事实且全部 SOLVED + healthy。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边均通过 LINK 重申。原因：Critic 确认 DAG 结构合理、依赖有效、证据充分，已具备生成最终答案的条件，无需进一步搜索或结构调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N1_1→N1_3 和 N1_2→N1_4 依赖有效）；③所有节点（含 ROOT）均为 healthy；④拓扑连续稳定。DAG 已具备生成最终答案的条件。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of 'Hit Parade Of 1943'?（理由：确定第一部电影的导演身份），F2: Who is the director of 'Mr. Reeder In Room 13'?（理由：确定第二部电影的导演身份），F3: When did the director of 'Hit Parade Of 1943' die?（理由：获取第一部电影导演的死亡日期），F4: When did the director of 'Mr. Reeder In Room 13' die?（理由：获取第二部电影导演的死亡日期）。关系: F1 是 F3 的前置条件（dependency），F2 是 F4 的前置条件（dependency），F1 和 F2 是 Q 的直接分解产物（decomposition）。当前 DAG 已完全覆盖这些事实且全部 SOLVED + healthy。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边均通过 LINK 重申。原因：Critic 确认 DAG 结构合理、依赖有效、证据充分，已具备生成最终答案的条件，无需进一步搜索或结构调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1→N1_3 和 N1_2→N1_4 的依赖均有效消解了指代）；③ 所有节点（包括 ROOT）均为 healthy；④ 拓扑连续稳定。DAG 已具备生成最终答案的条件。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1227 @@
+{
+  "question_index": 354,
+  "question_id": "f1caf470088411ebbd6dac1f6bf848b6",
+  "question": "Which film whose director is younger, Private Information or My Family'S Beautiful!?",
+  "answer": "My Family'S Beautiful!",
+  "prediction": "My Family'S Beautiful!",
+  "error": null,
+  "latency_ms": 384433.28330000077,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T16:38:36.611284+00:00",
+  "chunks": [
+    {
+      "chunk_id": "1277495a-1e33-4c4c-91e6-167169fee09a",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1952 British drama film \"Private Information,\" including its director, cast, production studio, and release format.",
+      "context_title": "Private Information",
+      "page_content": "Private Information was made at Walton Studios. Private Information was directed by Fergus McDonell. Private Information starred Jill Esmond. Private Information is a 1952 British drama film. Private Information starred Jack Watling. Private Information starred Carol Marsh. Private Information was made as a second feature."
+    },
+    {
+      "chunk_id": "215c5e5e-05eb-487a-9ed4-ff5f36f45900",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of various films.",
+      "context_title": "Dark Purpose",
+      "page_content": "Dark Purpose was directed by George Marshall."
+    },
+    {
+      "chunk_id": "6393904a-dd55-46e5-83e7-7ba0e8387679",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of various films.",
+      "context_title": "Want So Much To Believe",
+      "page_content": "Want So Much To Believe is directed by Gunnar Höglund."
+    },
+    {
+      "chunk_id": "cc572470-443c-4a51-853b-604416d1e129",
+      "chunk_title": "Mr. Right Film Details",
+      "chunk_summary": "This chunk contains information about the 2009 British film Mr. Right, including its directors, production nature, and themes; add details about other films or specific attributes of this movie here.",
+      "context_title": "Mr. Right (2009 film)",
+      "page_content": "Mr. Right was directed by David Morris. Mr. Right is a jointly-made film. Mr. Right is the debut film for David Morris. Mr. Right is a 2009 British film. Mr. Right is the debut film for Jacqui Morris. Mr. Right is a gay-themed film. Mr. Right was directed by Jacqui Morris."
+    },
+    {
+      "chunk_id": "e3951591-b5c0-4d5e-9b52-5e12232cd4b3",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "Politics of Love",
+      "page_content": "Politics of Love was directed by William Dear."
+    },
+    {
+      "chunk_id": "60a701fb-32f4-474e-929b-d5ab6ab32646",
+      "chunk_title": "Sir Alexander Korda's Career",
+      "chunk_summary": "This chunk contains information about the professional roles, entrepreneurial achievements, international career history, and notable film productions of Sir Alexander Korda in the film industry.",
+      "context_title": "Alexander Korda",
+      "page_content": "Sir Alexander Korda produced \"The Third Man\". Sir Alexander Korda was the post-war owner of British Lion Films. Sir Alexander Korda worked briefly in the Austrian film industry during the era of silent films. Sir Alexander Korda worked briefly in the German film industry during the era of silent films. Sir Alexander Korda was a British film director. Sir Alexander Korda produced \"Things To Come\". Sir Alexander Korda produced \"Rembrandt\". Sir Alexander Korda soon became one of the leading figures of the British film industry. Sir Alexander Korda founded his own film production studios. Sir Alexander Korda had a second brief period in Hollywood during World War II. Sir Alexander Korda's time in Hollywood from 1926 to 1930 was the first of his two brief periods there. Sir Alexander Korda was based in Hollywood from 1926 to 1930. Sir Alexander Korda was a British screenwriter. Sir Alexander Korda produced many outstanding classics of the British film industry. From 1930, Sir Alexander Korda was active in the British film industry. Sir Alexander Korda produced \"The Private Life of Henry VIII\". Sir Alexander Korda was the founder of London Films. Sir Alexander Korda was a British film producer. Sir Alexander Korda founded his own film distribution company. Sir Alexander Korda produced \"The Thief of Baghdad\". Sir Alexander Korda began his career in Hungary."
+    },
+    {
+      "chunk_id": "46f116e2-fcef-493c-a2dd-0c3bbcd59482",
+      "chunk_title": "Professional Roles & Careers",
+      "chunk_summary": "This chunk contains information about the professional roles and careers of individuals.",
+      "context_title": "William Klein (photographer)",
+      "page_content": "William Klein is a filmmaker."
+    },
+    {
+      "chunk_id": "43781ce6-c3c1-42f0-af0d-65ca999840c0",
+      "chunk_title": "Film Directors & Works",
+      "chunk_summary": "This chunk contains information about film directors, their nationalities, and their notable works.",
+      "context_title": "Peter Jackson",
+      "page_content": "Peter Robert Jackson is a New Zealand film director. Peter Robert Jackson is best known as the director of the \"Lord of the Rings\" trilogy."
+    },
+    {
+      "chunk_id": "c77cca3a-95e4-4f46-bf7c-9ece3ab71898",
+      "chunk_title": "People & Roles",
+      "chunk_summary": "This chunk contains information about individuals and their professional roles or titles.",
+      "context_title": "Andrew S. Gilbert",
+      "page_content": "David Caesar is a Director."
+    },
+    {
+      "chunk_id": "2d4c0bb1-7ce4-4d87-ad39-559c7b2c3275",
+      "chunk_title": "Film Producers",
+      "chunk_summary": "This chunk contains information about the professional background and identity of film producers.",
+      "context_title": "John Pogue",
+      "page_content": "John Pogue is an American film producer."
+    },
+    {
+      "chunk_id": "757e4f93-d803-459f-b9d3-01c97926304d",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1980 Argentine comedy film \"My Family's Beautiful!\", including its Spanish title, director, starring actors, and details regarding Niní Marshall's career.",
+      "context_title": "My Family's Beautiful!",
+      "page_content": "My Family's Beautiful! starred Niní Marshall. My Family's Beautiful! was the final film of Niní Marshall. My Family's Beautiful! is known in Spanish as ¡ Qué linda es mi familia! My Family's Beautiful! starred Luis Sandrini. My Family's Beautiful! is a 1980 Argentine comedy film. My Family's Beautiful! was directed by Palito Ortega. Niní Marshall made her screen debut in 1938."
+    },
+    {
+      "chunk_id": "ec8a022c-5d40-40e2-8c8f-5d42858f6b1b",
+      "chunk_title": "Actor Identities & Roles",
+      "chunk_summary": "This chunk contains information about the identities, professions, and notable roles of actors, specifically focusing on Tayler Marshall's career in British television.",
+      "context_title": "Tayler Marshall",
+      "page_content": "Tayler Marshall appeared in \"My Family\" for 23 episodes. Tayler Marshall is a British actor. Tayler Marshall is best known for his role as Kenzo Harper in the British situation comedy series \"My Family\"."
+    },
+    {
+      "chunk_id": "dd1836e3-6098-4a33-8df9-58ffdab49599",
+      "chunk_title": "Films & Production",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, directors, and screenwriters.",
+      "context_title": "Beautiful Girls (film)",
+      "page_content": "Beautiful Girls is an American film. Beautiful Girls is a 1996 film. Beautiful Girls was directed by Ted Demme. Beautiful Girls is a romantic comedy-drama film. The screenplay for Beautiful Girls was written by Scott Rosenberg."
+    },
+    {
+      "chunk_id": "49d92755-2730-4bbc-8ceb-7bee802deea7",
+      "chunk_title": "Film Directors & Careers",
+      "chunk_summary": "This chunk contains information about film directors, their nationalities, and their career progression into directing.",
+      "context_title": "Rajan Madhav",
+      "page_content": "Rajan Babu is an Indian film director. Rajan Madhav made it to direction."
+    },
+    {
+      "chunk_id": "019b1584-b192-4722-80b5-f8c6d344752a",
+      "chunk_title": "TV Series Broadcast & Cast",
+      "chunk_summary": "This chunk contains information about the broadcast dates, duration, and cast involvement in television series.",
+      "context_title": "Tayler Marshall",
+      "page_content": "Tayler Marshall appeared in \"My Family\" over a period of 5 series. The British situation comedy series \"My Family\" ran from 2005 to 2011. Tayler Marshall appeared in \"My Family\" over a period of 5 years."
+    },
+    {
+      "chunk_id": "6932df6b-4323-42fa-bd68-b6d014a2ab81",
+      "chunk_title": "Durrell Memoir Adaptations",
+      "chunk_summary": "This chunk contains information about television and film adaptations of Gerald Durrell's memoirs regarding his family's life in Greece.",
+      "context_title": "Gerald Durrell",
+      "page_content": "The memoirs of Gerald Malcolm Durrell about his family's years living in Greece were adapted into a television series titled \"My Family and Other Animals\" in 1987. The memoirs of Gerald Malcolm Durrell about his family's years living in Greece were adapted into a television film titled \"My Family and Other Animals\" in 2005. The memoirs of Gerald Malcolm Durrell about his family's years living in Greece were adapted into a television series titled \"The Durrells\" from 2016 to 2019."
+    },
+    {
+      "chunk_id": "820e79d4-1724-4e0f-a1a1-930357a23b62",
+      "chunk_title": "Josiane Balasko Films",
+      "chunk_summary": "This chunk contains information about films directed by Josiane Balasko.",
+      "context_title": "The Ex-Wife of My Life",
+      "page_content": "The Ex-Wife of My Life is the sixth film directed by Josiane Balasko. The Ex-Wife of My Life was directed by Josiane Balasko."
+    },
+    {
+      "chunk_id": "8bf1527e-f420-423b-9736-f57c381b5cca",
+      "chunk_title": "Éric Rohmer Films",
+      "chunk_summary": "This chunk contains information about films directed by Éric Rohmer.",
+      "context_title": "Éric Rohmer",
+      "page_content": "The film \"My Night at Maud's\" was directed by Éric Rohmer. The film \"Claire's Knee\" was directed by Éric Rohmer. The film \"The Green Ray\" was directed by Éric Rohmer."
+    },
+    {
+      "chunk_id": "34029ec7-3a37-4011-89ec-e23b70daf7ee",
+      "chunk_title": "Indian Film Directors",
+      "chunk_summary": "This chunk contains information about Indian film directors, including specific individuals like Homi Wadia and JBH Wadia.",
+      "context_title": "Homi Wadia",
+      "page_content": "JBH Wadia was a movie director. Homi Wadia was an Indian film director."
+    },
+    {
+      "chunk_id": "43725a7d-a043-409d-b652-2fdce3a5e1ee",
+      "chunk_title": "1953 Mexican Wrestling Film",
+      "chunk_summary": "This chunk contains information about the 1953 Mexican wrestling film \"La bestia magnífica,\" including its production details, director Chano Urueta's involvement, plot summary, runtime, awards, and its significance as the film that started the wrestling movie genre.",
+      "context_title": "The Magnificent Beast",
+      "page_content": "Jorge Bustos won the Ariel Award for Best Film Editing for his work on \"La bestia magnífica (Lucha libre)\". \"La bestia magnífica (Lucha libre)\" tells the story of two good friends. The two good friends in \"La bestia magnífica (Lucha libre)\" become wrestlers to leave poverty behind. A runtime of 128 minutes was very unusual in the Mexican film industry. \"La bestia magnífica (Lucha libre)\" is also known as \"The Magnificent Beast (Wrestling)\". José Elías Moreno won the Ariel Award for Best Supporting Actor for his role in \"La bestia magnífica (Lucha libre)\". \"La bestia magnífica (Lucha libre)\" is regarded as the film that started the genre of \"wrestling movies\". \"La bestia magnífica (Lucha libre)\" was directed by Chano Urueta. \"La bestia magnífica (Lucha libre)\" is a 1953 Mexican film. Chano Urueta was so enthusiastic about the project \"La bestia magnífica (Lucha libre)\" that he filmed three fights in their entirety. The genre of \"wrestling movies\" became immensely popular in Mexico for many decades. The arrival of an ambitious woman tragically changes the destiny of the two good friends in \"La bestia magnífica (Lucha libre)\". Chano Urueta was the director of \"La bestia magnífica (Lucha libre)\". The final cut of \"La bestia magnífica (Lucha libre)\" came to 128 minutes."
+    },
+    {
+      "chunk_id": "647d882a-e9a9-4ff5-ac7c-1b9d0fc5fc45",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Fergus McDonell",
+      "page_content": "Fergus McDonell was born on 6 October 1910."
+    },
+    {
+      "chunk_id": "2bcdd57a-3c94-4f7d-9814-4a94e9522674",
+      "chunk_title": "Birth & Death Locations",
+      "chunk_summary": "This chunk contains information about the birth and death locations of individuals.",
+      "context_title": "Fergus McDonell",
+      "page_content": "Fergus McDonell died in Norwich, Norfolk. Fergus McDonell was born in Ticehurst, Sussex."
+    },
+    {
+      "chunk_id": "4c4d6768-de95-4157-a8c2-1108bd52cd89",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date of death for specific individuals.",
+      "context_title": "Fergus McDonell",
+      "page_content": "Fergus McDonell died on 3 January 1984."
+    },
+    {
+      "chunk_id": "5af34a97-2929-4522-94db-a3a7a01fa26a",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the professional background and nationality of film directors.",
+      "context_title": "Fergus McDonell",
+      "page_content": "Fergus McDonell was an English director."
+    },
+    {
+      "chunk_id": "8d00c2d0-5ba6-4e5a-9a72-a434efd0a9dc",
+      "chunk_title": "Film Editor Profiles",
+      "chunk_summary": "This chunk contains information about the professional background, identity, and award nominations of film editors.",
+      "context_title": "Fergus McDonell",
+      "page_content": "Fergus McDonell was nominated for the Academy Award for Best Film Editing for \"Odd Man Out\". Fergus McDonell was an English film editor. Fergus McDonell was nominated for the Academy Award for Best Film Editing."
+    },
+    {
+      "chunk_id": "05fe1052-c33e-4ecf-b0fe-5c0ae8d6fd80",
+      "chunk_title": "Mary MacDuff's Birth Date",
+      "chunk_summary": "This chunk contains information about the birth dates of Mary MacDuff, including conflicting sources regarding the specific year.",
+      "context_title": "Mary de Monthermer",
+      "page_content": "Mary MacDuff was born in October 1297. Other sources have Mary MacDuff being born in 1298."
+    },
+    {
+      "chunk_id": "1ea2a091-0db9-4323-85d2-c331926641a3",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth and death dates of historical figures.",
+      "context_title": "James FitzGerald, 1st Earl of Desmond",
+      "page_content": "James FitzGerald lived from c. 1570 to November 1601."
+    },
+    {
+      "chunk_id": "dfe9379e-1df0-4b06-8090-5586b3697c87",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Gordon MacRae",
+      "page_content": "Albert Gordon MacRae was born on March 12, 1921. Albert Gordon MacRae died on January 24, 1986."
+    },
+    {
+      "chunk_id": "e67e59b3-a605-47d8-b99e-13496cb5c032",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Martin Donovan (screenwriter)",
+      "page_content": "Martin Donovan was born on January 21, 1950."
+    },
+    {
+      "chunk_id": "c328c3d6-bbb5-420a-9041-01e437e39d9a",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Palito Ortega",
+      "page_content": "Ramón Bautista Ortega was born on March 8, 1942."
+    },
+    {
+      "chunk_id": "8450772d-8cfe-4106-8370-7c7a4c8b322c",
+      "chunk_title": "Palito Ortega Biography",
+      "chunk_summary": "This chunk contains information about the identity, aliases, professional status, and musical career of Argentinian singer Ramón Bautista Ortega (Palito Ortega).",
+      "context_title": "Palito Ortega",
+      "page_content": "Palito Ortega reached international fame during the 1960s. Palito Ortega is considered one of the main representatives of the musical style called New wave. Palito Ortega is an icon of Argentinian popular music. Ramón Bautista Ortega is better known as Palito Ortega. Palito Ortega reached international fame particularly in Spain. Ramón Bautista Ortega is an Argentinian singer. Palito Ortega reached international fame particularly in Latin America."
+    },
+    {
+      "chunk_id": "d814345c-78b7-48d5-ae60-ca32ab539d44",
+      "chunk_title": "Actor Identities & Professions",
+      "chunk_summary": "This chunk contains information about the identities and professions of actors.",
+      "context_title": "Palito Ortega",
+      "page_content": "Ramón Bautista Ortega is an Argentinian actor."
+    },
+    {
+      "chunk_id": "2e60ed7a-9923-48d6-8453-149b3fc53e7e",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Robert Torti",
+      "page_content": "Robert Felix Torti was born on October 22, 1961."
+    },
+    {
+      "chunk_id": "48a81d1a-71a1-41ba-948a-4e3a6219ff35",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Pablo Moret",
+      "page_content": "Pablo Moret was born on June 2, 1933."
+    },
+    {
+      "chunk_id": "c2bb18de-1ae3-4fc2-bc0e-fc85d78ab6a3",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Chano Urueta",
+      "page_content": "Santiago Eduardo Urueta Sierra was born on February 24, 1904. Santiago Eduardo Urueta Sierra died on March 23, 1979."
+    },
+    {
+      "chunk_id": "113bbeaf-171e-47ef-8fd6-317e8f626512",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Roberto Dinamite",
+      "page_content": "Carlos Roberto de Oliveira was born on 13 April 1954."
+    },
+    {
+      "chunk_id": "8c46a5e9-88c5-4569-9257-4aa3f7e935c6",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Federico Martín Aramburú",
+      "page_content": "Federico Martín Aramburú was born on January 20, 1980."
+    },
+    {
+      "chunk_id": "95d41407-f57d-470f-a1dd-9df3d8692347",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth date of Federico Martín Bahamontes.",
+      "context_title": "Federico Bahamontes",
+      "page_content": "Federico Martín Bahamontes was born on 9 July 1928."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2631578947368421,
+  "retrieval_count": 4,
+  "total_chunks": 38,
+  "total_distinct_titles": 31,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 5,
+  "dag_edges": 4,
+  "dag_snapshots": [
+    {
+      "q": "Which film whose director is younger, Private Information or My Family'S Beautiful!?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director is younger, Private Information or My Family'S Beautiful!?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影的导演年龄，返回导演更年轻的那部电影",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。推理链完整：N1_1(Fergus McDonell)→N1_3(6 October 1910) 与 N1_2(Palito Ortega)→N1_4(March 8, 1942) 两条路径均证据充分。比较 1910 年与 1942 年，Palito Ortega 更年轻，对应电影为 My Family's Beautiful!。",
+          "critic_normative_advice": "推理链完整，所有子节点证据充分，建议 INHERIT——可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film Private Information?",
+          "answer": "Fergus McDonell",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film Private Information?",
+          "planner_rationale": "Q 要求比较两部电影的导演年龄，首先需要确定 Private Information 的导演是谁",
+          "solver_judgment": "question 要求确认电影《Private Information》的导演。search_query 搜索了 'Who directed the film Private Information?'。chunks 返回了关于该电影的详细信息，其中 chunk 1277495a-1e33-4c4c-91e6-167169fee09a 明确记载 'Private Information was directed by Fergus McDonell'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Private Information），直接且具体地陈述 'Private Information was directed by Fergus McDonell'。单来源但答案明确出现在支撑 chunk 全文中，无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1277495a-1e33-4c4c-91e6-167169fee09a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "1277495a-1e33-4c4c-91e6-167169fee09a",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1952 British drama film \"Private Information,\" including its director, cast, production studio, and release format.",
+              "context_title": "Private Information",
+              "page_content": "Private Information was made at Walton Studios. Private Information was directed by Fergus McDonell. Private Information starred Jill Esmond. Private Information is a 1952 British drama film. Private Information starred Jack Watling. Private Information starred Carol Marsh. Private Information was made as a second feature."
+            },
+            {
+              "chunk_id": "215c5e5e-05eb-487a-9ed4-ff5f36f45900",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Dark Purpose",
+              "page_content": "Dark Purpose was directed by George Marshall."
+            },
+            {
+              "chunk_id": "6393904a-dd55-46e5-83e7-7ba0e8387679",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Want So Much To Believe",
+              "page_content": "Want So Much To Believe is directed by Gunnar Höglund."
+            },
+            {
+              "chunk_id": "cc572470-443c-4a51-853b-604416d1e129",
+              "chunk_title": "Mr. Right Film Details",
+              "chunk_summary": "This chunk contains information about the 2009 British film Mr. Right, including its directors, production nature, and themes; add details about other films or specific attributes of this movie here.",
+              "context_title": "Mr. Right (2009 film)",
+              "page_content": "Mr. Right was directed by David Morris. Mr. Right is a jointly-made film. Mr. Right is the debut film for David Morris. Mr. Right is a 2009 British film. Mr. Right is the debut film for Jacqui Morris. Mr. Right is a gay-themed film. Mr. Right was directed by Jacqui Morris."
+            },
+            {
+              "chunk_id": "e3951591-b5c0-4d5e-9b52-5e12232cd4b3",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Politics of Love",
+              "page_content": "Politics of Love was directed by William Dear."
+            },
+            {
+              "chunk_id": "60a701fb-32f4-474e-929b-d5ab6ab32646",
+              "chunk_title": "Sir Alexander Korda's Career",
+              "chunk_summary": "This chunk contains information about the professional roles, entrepreneurial achievements, international career history, and notable film productions of Sir Alexander Korda in the film industry.",
+              "context_title": "Alexander Korda",
+              "page_content": "Sir Alexander Korda produced \"The Third Man\". Sir Alexander Korda was the post-war owner of British Lion Films. Sir Alexander Korda worked briefly in the Austrian film industry during the era of silent films. Sir Alexander Korda worked briefly in the German film industry during the era of silent films. Sir Alexander Korda was a British film director. Sir Alexander Korda produced \"Things To Come\". Sir Alexander Korda produced \"Rembrandt\". Sir Alexander Korda soon became one of the leading figures of the British film industry. Sir Alexander Korda founded his own film production studios. Sir Alexander Korda had a second brief period in Hollywood during World War II. Sir Alexander Korda's time in Hollywood from 1926 to 1930 was the first of his two brief periods there. Sir Alexander Korda was based in Hollywood from 1926 to 1930. Sir Alexander Korda was a British screenwriter. Sir Alexander Korda produced many outstanding classics of the British film industry. From 1930, Sir Alexander Korda was active in the British film industry. Sir Alexander Korda produced \"The Private Life of Henry VIII\". Sir Alexander Korda was the founder of London Films. Sir Alexander Korda was a British film producer. Sir Alexander Korda founded his own film distribution company. Sir Alexander Korda produced \"The Thief of Baghdad\". Sir Alexander Korda began his career in Hungary."
+            },
+            {
+              "chunk_id": "46f116e2-fcef-493c-a2dd-0c3bbcd59482",
+              "chunk_title": "Professional Roles & Careers",
+              "chunk_summary": "This chunk contains information about the professional roles and careers of individuals.",
+              "context_title": "William Klein (photographer)",
+              "page_content": "William Klein is a filmmaker."
+            },
+            {
+              "chunk_id": "43781ce6-c3c1-42f0-af0d-65ca999840c0",
+              "chunk_title": "Film Directors & Works",
+              "chunk_summary": "This chunk contains information about film directors, their nationalities, and their notable works.",
+              "context_title": "Peter Jackson",
+              "page_content": "Peter Robert Jackson is a New Zealand film director. Peter Robert Jackson is best known as the director of the \"Lord of the Rings\" trilogy."
+            },
+            {
+              "chunk_id": "c77cca3a-95e4-4f46-bf7c-9ece3ab71898",
+              "chunk_title": "People & Roles",
+              "chunk_summary": "This chunk contains information about individuals and their professional roles or titles.",
+              "context_title": "Andrew S. Gilbert",
+              "page_content": "David Caesar is a Director."
+            },
+            {
+              "chunk_id": "2d4c0bb1-7ce4-4d87-ad39-559c7b2c3275",
+              "chunk_title": "Film Producers",
+              "chunk_summary": "This chunk contains information about the professional background and identity of film producers.",
+              "context_title": "John Pogue",
+              "page_content": "John Pogue is an American film producer."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who directed the film My Family's Beautiful!?",
+          "answer": "Palito Ortega",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film My Family's Beautiful!?",
+          "planner_rationale": "Q 要求比较两部电影的导演年龄，首先需要确定 My Family's Beautiful! 的导演是谁",
+          "solver_judgment": "question 要求找出电影 'My Family's Beautiful!' 的导演。search_query 直接搜索了该电影的导演。chunks 返回了 chunk 757e4f93-d803-459f-b9d3-01c97926304d，其中明确记载 'My Family's Beautiful! was directed by Palito Ortega.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 My Family's Beautiful!），直接且具体地陈述 'My Family's Beautiful! was directed by Palito Ortega'。单来源但答案明确出现在支撑 chunk 全文中，无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "757e4f93-d803-459f-b9d3-01c97926304d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "757e4f93-d803-459f-b9d3-01c97926304d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1980 Argentine comedy film \"My Family's Beautiful!\", including its Spanish title, director, starring actors, and details regarding Niní Marshall's career.",
+              "context_title": "My Family's Beautiful!",
+              "page_content": "My Family's Beautiful! starred Niní Marshall. My Family's Beautiful! was the final film of Niní Marshall. My Family's Beautiful! is known in Spanish as ¡ Qué linda es mi familia! My Family's Beautiful! starred Luis Sandrini. My Family's Beautiful! is a 1980 Argentine comedy film. My Family's Beautiful! was directed by Palito Ortega. Niní Marshall made her screen debut in 1938."
+            },
+            {
+              "chunk_id": "ec8a022c-5d40-40e2-8c8f-5d42858f6b1b",
+              "chunk_title": "Actor Identities & Roles",
+              "chunk_summary": "This chunk contains information about the identities, professions, and notable roles of actors, specifically focusing on Tayler Marshall's career in British television.",
+              "context_title": "Tayler Marshall",
+              "page_content": "Tayler Marshall appeared in \"My Family\" for 23 episodes. Tayler Marshall is a British actor. Tayler Marshall is best known for his role as Kenzo Harper in the British situation comedy series \"My Family\"."
+            },
+            {
+              "chunk_id": "dd1836e3-6098-4a33-8df9-58ffdab49599",
+              "chunk_title": "Films & Production",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, directors, and screenwriters.",
+              "context_title": "Beautiful Girls (film)",
+              "page_content": "Beautiful Girls is an American film. Beautiful Girls is a 1996 film. Beautiful Girls was directed by Ted Demme. Beautiful Girls is a romantic comedy-drama film. The screenplay for Beautiful Girls was written by Scott Rosenberg."
+            },
+            {
+              "chunk_id": "49d92755-2730-4bbc-8ceb-7bee802deea7",
+              "chunk_title": "Film Directors & Careers",
+              "chunk_summary": "This chunk contains information about film directors, their nationalities, and their career progression into directing.",
+              "context_title": "Rajan Madhav",
+              "page_content": "Rajan Babu is an Indian film director. Rajan Madhav made it to direction."
+            },
+            {
+              "chunk_id": "019b1584-b192-4722-80b5-f8c6d344752a",
+              "chunk_title": "TV Series Broadcast & Cast",
+              "chunk_summary": "This chunk contains information about the broadcast dates, duration, and cast involvement in television series.",
+              "context_title": "Tayler Marshall",
+              "page_content": "Tayler Marshall appeared in \"My Family\" over a period of 5 series. The British situation comedy series \"My Family\" ran from 2005 to 2011. Tayler Marshall appeared in \"My Family\" over a period of 5 years."
+            },
+            {
+              "chunk_id": "6932df6b-4323-42fa-bd68-b6d014a2ab81",
+              "chunk_title": "Durrell Memoir Adaptations",
+              "chunk_summary": "This chunk contains information about television and film adaptations of Gerald Durrell's memoirs regarding his family's life in Greece.",
+              "context_title": "Gerald Durrell",
+              "page_content": "The memoirs of Gerald Malcolm Durrell about his family's years living in Greece were adapted into a television series titled \"My Family and Other Animals\" in 1987. The memoirs of Gerald Malcolm Durrell about his family's years living in Greece were adapted into a television film titled \"My Family and Other Animals\" in 2005. The memoirs of Gerald Malcolm Durrell about his family's years living in Greece were adapted into a television series titled \"The Durrells\" from 2016 to 2019."
+            },
+            {
+              "chunk_id": "820e79d4-1724-4e0f-a1a1-930357a23b62",
+              "chunk_title": "Josiane Balasko Films",
+              "chunk_summary": "This chunk contains information about films directed by Josiane Balasko.",
+              "context_title": "The Ex-Wife of My Life",
+              "page_content": "The Ex-Wife of My Life is the sixth film directed by Josiane Balasko. The Ex-Wife of My Life was directed by Josiane Balasko."
+            },
+            {
+              "chunk_id": "8bf1527e-f420-423b-9736-f57c381b5cca",
+              "chunk_title": "Éric Rohmer Films",
+              "chunk_summary": "This chunk contains information about films directed by Éric Rohmer.",
+              "context_title": "Éric Rohmer",
+              "page_content": "The film \"My Night at Maud's\" was directed by Éric Rohmer. The film \"Claire's Knee\" was directed by Éric Rohmer. The film \"The Green Ray\" was directed by Éric Rohmer."
+            },
+            {
+              "chunk_id": "34029ec7-3a37-4011-89ec-e23b70daf7ee",
+              "chunk_title": "Indian Film Directors",
+              "chunk_summary": "This chunk contains information about Indian film directors, including specific individuals like Homi Wadia and JBH Wadia.",
+              "context_title": "Homi Wadia",
+              "page_content": "JBH Wadia was a movie director. Homi Wadia was an Indian film director."
+            },
+            {
+              "chunk_id": "43725a7d-a043-409d-b652-2fdce3a5e1ee",
+              "chunk_title": "1953 Mexican Wrestling Film",
+              "chunk_summary": "This chunk contains information about the 1953 Mexican wrestling film \"La bestia magnífica,\" including its production details, director Chano Urueta's involvement, plot summary, runtime, awards, and its significance as the film that started the wrestling movie genre.",
+              "context_title": "The Magnificent Beast",
+              "page_content": "Jorge Bustos won the Ariel Award for Best Film Editing for his work on \"La bestia magnífica (Lucha libre)\". \"La bestia magnífica (Lucha libre)\" tells the story of two good friends. The two good friends in \"La bestia magnífica (Lucha libre)\" become wrestlers to leave poverty behind. A runtime of 128 minutes was very unusual in the Mexican film industry. \"La bestia magnífica (Lucha libre)\" is also known as \"The Magnificent Beast (Wrestling)\". José Elías Moreno won the Ariel Award for Best Supporting Actor for his role in \"La bestia magnífica (Lucha libre)\". \"La bestia magnífica (Lucha libre)\" is regarded as the film that started the genre of \"wrestling movies\". \"La bestia magnífica (Lucha libre)\" was directed by Chano Urueta. \"La bestia magnífica (Lucha libre)\" is a 1953 Mexican film. Chano Urueta was so enthusiastic about the project \"La bestia magnífica (Lucha libre)\" that he filmed three fights in their entirety. The genre of \"wrestling movies\" became immensely popular in Mexico for many decades. The arrival of an ambitious woman tragically changes the destiny of the two good friends in \"La bestia magnífica (Lucha libre)\". Chano Urueta was the director of \"La bestia magnífica (Lucha libre)\". The final cut of \"La bestia magnífica (Lucha libre)\" came to 128 minutes."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Private Information born?",
+          "answer": "6 October 1910",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Fergus McDonell birth date",
+          "planner_rationale": "确定 Private Information 导演的出生年份，用于年龄比较——该问题依赖 N1 的 answer 来指代具体导演",
+          "solver_judgment": "question 要求确认电影《Private Information》导演的出生日期。search_query 搜索了 'Fergus McDonell birth date'。chunks 中，chunk 1277495a... 明确指出 'Private Information was directed by Fergus McDonell'，锁定了导演身份；chunk 647d882a... 记载 'Fergus McDonell was born on 6 October 1910'，直接提供了准确的出生日期。检索精准命中目标人物及其关键生平信息，无信息缺口，答案完整可靠。",
+          "critic_factual_notes": "2 个来源，其中 2 个独立（文档 Fergus McDonell，文档 Private Information）。来源 [647d882a] 直接记载 'Fergus McDonell was born on 6 October 1910'；来源 [1277495a] 确认 'Private Information was directed by Fergus McDonell'。两个独立来源对核心事实表述一致，交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1277495a-1e33-4c4c-91e6-167169fee09a",
+            "647d882a-e9a9-4ff5-ac7c-1b9d0fc5fc45"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "647d882a-e9a9-4ff5-ac7c-1b9d0fc5fc45",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Fergus McDonell",
+              "page_content": "Fergus McDonell was born on 6 October 1910."
+            },
+            {
+              "chunk_id": "2bcdd57a-3c94-4f7d-9814-4a94e9522674",
+              "chunk_title": "Birth & Death Locations",
+              "chunk_summary": "This chunk contains information about the birth and death locations of individuals.",
+              "context_title": "Fergus McDonell",
+              "page_content": "Fergus McDonell died in Norwich, Norfolk. Fergus McDonell was born in Ticehurst, Sussex."
+            },
+            {
+              "chunk_id": "4c4d6768-de95-4157-a8c2-1108bd52cd89",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date of death for specific individuals.",
+              "context_title": "Fergus McDonell",
+              "page_content": "Fergus McDonell died on 3 January 1984."
+            },
+            {
+              "chunk_id": "5af34a97-2929-4522-94db-a3a7a01fa26a",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the professional background and nationality of film directors.",
+              "context_title": "Fergus McDonell",
+              "page_content": "Fergus McDonell was an English director."
+            },
+            {
+              "chunk_id": "8d00c2d0-5ba6-4e5a-9a72-a434efd0a9dc",
+              "chunk_title": "Film Editor Profiles",
+              "chunk_summary": "This chunk contains information about the professional background, identity, and award nominations of film editors.",
+              "context_title": "Fergus McDonell",
+              "page_content": "Fergus McDonell was nominated for the Academy Award for Best Film Editing for \"Odd Man Out\". Fergus McDonell was an English film editor. Fergus McDonell was nominated for the Academy Award for Best Film Editing."
+            },
+            {
+              "chunk_id": "1277495a-1e33-4c4c-91e6-167169fee09a",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1952 British drama film \"Private Information,\" including its director, cast, production studio, and release format.",
+              "context_title": "Private Information",
+              "page_content": "Private Information was made at Walton Studios. Private Information was directed by Fergus McDonell. Private Information starred Jill Esmond. Private Information is a 1952 British drama film. Private Information starred Jack Watling. Private Information starred Carol Marsh. Private Information was made as a second feature."
+            },
+            {
+              "chunk_id": "05fe1052-c33e-4ecf-b0fe-5c0ae8d6fd80",
+              "chunk_title": "Mary MacDuff's Birth Date",
+              "chunk_summary": "This chunk contains information about the birth dates of Mary MacDuff, including conflicting sources regarding the specific year.",
+              "context_title": "Mary de Monthermer",
+              "page_content": "Mary MacDuff was born in October 1297. Other sources have Mary MacDuff being born in 1298."
+            },
+            {
+              "chunk_id": "1ea2a091-0db9-4323-85d2-c331926641a3",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth and death dates of historical figures.",
+              "context_title": "James FitzGerald, 1st Earl of Desmond",
+              "page_content": "James FitzGerald lived from c. 1570 to November 1601."
+            },
+            {
+              "chunk_id": "dfe9379e-1df0-4b06-8090-5586b3697c87",
+              "chunk_title": "Birth & Death Dates",
+              "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+              "context_title": "Gordon MacRae",
+              "page_content": "Albert Gordon MacRae was born on March 12, 1921. Albert Gordon MacRae died on January 24, 1986."
+            },
+            {
+              "chunk_id": "e67e59b3-a605-47d8-b99e-13496cb5c032",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Martin Donovan (screenwriter)",
+              "page_content": "Martin Donovan was born on January 21, 1950."
+            }
+          ]
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of My Family's Beautiful! born?",
+          "answer": "March 8, 1942",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Palito Ortega birth date",
+          "planner_rationale": "确定 My Family's Beautiful! 导演的出生年份，用于年龄比较——该问题依赖 N2 的 answer 来指代具体导演",
+          "solver_judgment": "question 要求确认电影 'My Family's Beautiful!' 导演的出生日期。search_query 搜索了 'Palito Ortega birth date'。chunks 返回了相关信息：chunk 757e4f93... 指出该电影由 Palito Ortega 执导；chunk 8450772d... 说明 Palito Ortega 的真名是 Ramón Bautista Ortega；chunk c328c3d6... 记载 Ramón Bautista Ortega 出生于 1942 年 3 月 8 日。检索精准，信息完整，通过关联导演艺名与真名成功提取答案。",
+          "critic_factual_notes": "3 个来源，其中 2 个独立（文档 Palito Ortega，文档 My Family's Beautiful!）。来源 [c328c3d6] 记载 'Ramón Bautista Ortega was born on March 8, 1942'；来源 [8450772d] 建立别名关联 'Ramón Bautista Ortega is better known as Palito Ortega'；来源 [757e4f93] 确认 'My Family's Beautiful! was directed by Palito Ortega'。三 chunk 形成完整推理链：电影导演=Palito Ortega=Ramón Bautista Ortega，出生于 1942 年 3 月 8 日。交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "757e4f93-d803-459f-b9d3-01c97926304d",
+            "8450772d-8cfe-4106-8370-7c7a4c8b322c",
+            "c328c3d6-bbb5-420a-9041-01e437e39d9a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c328c3d6-bbb5-420a-9041-01e437e39d9a",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Palito Ortega",
+              "page_content": "Ramón Bautista Ortega was born on March 8, 1942."
+            },
+            {
+              "chunk_id": "8450772d-8cfe-4106-8370-7c7a4c8b322c",
+              "chunk_title": "Palito Ortega Biography",
+              "chunk_summary": "This chunk contains information about the identity, aliases, professional status, and musical career of Argentinian singer Ramón Bautista Ortega (Palito Ortega).",
+              "context_title": "Palito Ortega",
+              "page_content": "Palito Ortega reached international fame during the 1960s. Palito Ortega is considered one of the main representatives of the musical style called New wave. Palito Ortega is an icon of Argentinian popular music. Ramón Bautista Ortega is better known as Palito Ortega. Palito Ortega reached international fame particularly in Spain. Ramón Bautista Ortega is an Argentinian singer. Palito Ortega reached international fame particularly in Latin America."
+            },
+            {
+              "chunk_id": "757e4f93-d803-459f-b9d3-01c97926304d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1980 Argentine comedy film \"My Family's Beautiful!\", including its Spanish title, director, starring actors, and details regarding Niní Marshall's career.",
+              "context_title": "My Family's Beautiful!",
+              "page_content": "My Family's Beautiful! starred Niní Marshall. My Family's Beautiful! was the final film of Niní Marshall. My Family's Beautiful! is known in Spanish as ¡ Qué linda es mi familia! My Family's Beautiful! starred Luis Sandrini. My Family's Beautiful! is a 1980 Argentine comedy film. My Family's Beautiful! was directed by Palito Ortega. Niní Marshall made her screen debut in 1938."
+            },
+            {
+              "chunk_id": "d814345c-78b7-48d5-ae60-ca32ab539d44",
+              "chunk_title": "Actor Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of actors.",
+              "context_title": "Palito Ortega",
+              "page_content": "Ramón Bautista Ortega is an Argentinian actor."
+            },
+            {
+              "chunk_id": "2e60ed7a-9923-48d6-8453-149b3fc53e7e",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Robert Torti",
+              "page_content": "Robert Felix Torti was born on October 22, 1961."
+            },
+            {
+              "chunk_id": "48a81d1a-71a1-41ba-948a-4e3a6219ff35",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Pablo Moret",
+              "page_content": "Pablo Moret was born on June 2, 1933."
+            },
+            {
+              "chunk_id": "c2bb18de-1ae3-4fc2-bc0e-fc85d78ab6a3",
+              "chunk_title": "Birth & Death Dates",
+              "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+              "context_title": "Chano Urueta",
+              "page_content": "Santiago Eduardo Urueta Sierra was born on February 24, 1904. Santiago Eduardo Urueta Sierra died on March 23, 1979."
+            },
+            {
+              "chunk_id": "113bbeaf-171e-47ef-8fd6-317e8f626512",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Roberto Dinamite",
+              "page_content": "Carlos Roberto de Oliveira was born on 13 April 1954."
+            },
+            {
+              "chunk_id": "8c46a5e9-88c5-4569-9257-4aa3f7e935c6",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Federico Martín Aramburú",
+              "page_content": "Federico Martín Aramburú was born on January 20, 1980."
+            },
+            {
+              "chunk_id": "95d41407-f57d-470f-a1dd-9df3d8692347",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth date of Federico Martín Bahamontes.",
+              "context_title": "Federico Bahamontes",
+              "page_content": "Federico Martín Bahamontes was born on 9 July 1928."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film whose director is younger, Private Information or My Family'S Beautiful!?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film whose director is younger, Private Information or My Family'S Beautiful!?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影的导演年龄，返回导演更年轻的那部电影。所有子节点已 SOLVED + healthy，推理链完整，可直接聚合答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。两条推理路径均完整：N1_1(Fergus McDonell)→N1_3(6 October 1910) 与 N1_2(Palito Ortega)→N1_4(March 8, 1942)。比较 1910 年与 1942 年，Palito Ortega 更年轻，对应电影为 My Family's Beautiful!。推理链完整，交叉验证通过。",
+          "critic_normative_advice": "推理链完整，所有子节点证据充分，建议 INHERIT——可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film Private Information?",
+          "answer": "Fergus McDonell",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film Private Information?",
+          "planner_rationale": "Q 要求比较两部电影的导演年龄，首先需要确定 Private Information 的导演是谁。已确认 Fergus McDonell，证据充分。",
+          "solver_judgment": "question 要求确认电影《Private Information》的导演。search_query 搜索了 'Who directed the film Private Information?'。chunks 返回了关于该电影的详细信息，其中 chunk 1277495a-1e33-4c4c-91e6-167169fee09a 明确记载 'Private Information was directed by Fergus McDonell'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Private Information），直接且具体地陈述 'Private Information was directed by Fergus McDonell'。单来源但答案明确出现在支撑 chunk 全文中，无歧义。交叉验证：不充分（仅 1 个来源），但来源直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1277495a-1e33-4c4c-91e6-167169fee09a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "1277495a-1e33-4c4c-91e6-167169fee09a",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1952 British drama film \"Private Information,\" including its director, cast, production studio, and release format.",
+              "context_title": "Private Information",
+              "page_content": "Private Information was made at Walton Studios. Private Information was directed by Fergus McDonell. Private Information starred Jill Esmond. Private Information is a 1952 British drama film. Private Information starred Jack Watling. Private Information starred Carol Marsh. Private Information was made as a second feature."
+            },
+            {
+              "chunk_id": "215c5e5e-05eb-487a-9ed4-ff5f36f45900",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Dark Purpose",
+              "page_content": "Dark Purpose was directed by George Marshall."
+            },
+            {
+              "chunk_id": "6393904a-dd55-46e5-83e7-7ba0e8387679",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Want So Much To Believe",
+              "page_content": "Want So Much To Believe is directed by Gunnar Höglund."
+            },
+            {
+              "chunk_id": "cc572470-443c-4a51-853b-604416d1e129",
+              "chunk_title": "Mr. Right Film Details",
+              "chunk_summary": "This chunk contains information about the 2009 British film Mr. Right, including its directors, production nature, and themes; add details about other films or specific attributes of this movie here.",
+              "context_title": "Mr. Right (2009 film)",
+              "page_content": "Mr. Right was directed by David Morris. Mr. Right is a jointly-made film. Mr. Right is the debut film for David Morris. Mr. Right is a 2009 British film. Mr. Right is the debut film for Jacqui Morris. Mr. Right is a gay-themed film. Mr. Right was directed by Jacqui Morris."
+            },
+            {
+              "chunk_id": "e3951591-b5c0-4d5e-9b52-5e12232cd4b3",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Politics of Love",
+              "page_content": "Politics of Love was directed by William Dear."
+            },
+            {
+              "chunk_id": "60a701fb-32f4-474e-929b-d5ab6ab32646",
+              "chunk_title": "Sir Alexander Korda's Career",
+              "chunk_summary": "This chunk contains information about the professional roles, entrepreneurial achievements, international career history, and notable film productions of Sir Alexander Korda in the film industry.",
+              "context_title": "Alexander Korda",
+              "page_content": "Sir Alexander Korda produced \"The Third Man\". Sir Alexander Korda was the post-war owner of British Lion Films. Sir Alexander Korda worked briefly in the Austrian film industry during the era of silent films. Sir Alexander Korda worked briefly in the German film industry during the era of silent films. Sir Alexander Korda was a British film director. Sir Alexander Korda produced \"Things To Come\". Sir Alexander Korda produced \"Rembrandt\". Sir Alexander Korda soon became one of the leading figures of the British film industry. Sir Alexander Korda founded his own film production studios. Sir Alexander Korda had a second brief period in Hollywood during World War II. Sir Alexander Korda's time in Hollywood from 1926 to 1930 was the first of his two brief periods there. Sir Alexander Korda was based in Hollywood from 1926 to 1930. Sir Alexander Korda was a British screenwriter. Sir Alexander Korda produced many outstanding classics of the British film industry. From 1930, Sir Alexander Korda was active in the British film industry. Sir Alexander Korda produced \"The Private Life of Henry VIII\". Sir Alexander Korda was the founder of London Films. Sir Alexander Korda was a British film producer. Sir Alexander Korda founded his own film distribution company. Sir Alexander Korda produced \"The Thief of Baghdad\". Sir Alexander Korda began his career in Hungary."
+            },
+            {
+              "chunk_id": "46f116e2-fcef-493c-a2dd-0c3bbcd59482",
+              "chunk_title": "Professional Roles & Careers",
+              "chunk_summary": "This chunk contains information about the professional roles and careers of individuals.",
+              "context_title": "William Klein (photographer)",
+              "page_content": "William Klein is a filmmaker."
+            },
+            {
+              "chunk_id": "43781ce6-c3c1-42f0-af0d-65ca999840c0",
+              "chunk_title": "Film Directors & Works",
+              "chunk_summary": "This chunk contains information about film directors, their nationalities, and their notable works.",
+              "context_title": "Peter Jackson",
+              "page_content": "Peter Robert Jackson is a New Zealand film director. Peter Robert Jackson is best known as the director of the \"Lord of the Rings\" trilogy."
+            },
+            {
+              "chunk_id": "c77cca3a-95e4-4f46-bf7c-9ece3ab71898",
+              "chunk_title": "People & Roles",
+              "chunk_summary": "This chunk contains information about individuals and their professional roles or titles.",
+              "context_title": "Andrew S. Gilbert",
+              "page_content": "David Caesar is a Director."
+            },
+            {
+              "chunk_id": "2d4c0bb1-7ce4-4d87-ad39-559c7b2c3275",
+              "chunk_title": "Film Producers",
+              "chunk_summary": "This chunk contains information about the professional background and identity of film producers.",
+              "context_title": "John Pogue",
+              "page_content": "John Pogue is an American film producer."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who directed the film My Family's Beautiful!?",
+          "answer": "Palito Ortega",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film My Family's Beautiful!?",
+          "planner_rationale": "Q 要求比较两部电影的导演年龄，首先需要确定 My Family's Beautiful! 的导演是谁。已确认 Palito Ortega，证据充分。",
+          "solver_judgment": "question 要求找出电影 'My Family's Beautiful!' 的导演。search_query 直接搜索了该电影的导演。chunks 返回了 chunk 757e4f93-d803-459f-b9d3-01c97926304d，其中明确记载 'My Family's Beautiful! was directed by Palito Ortega.'，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 My Family's Beautiful!），直接且具体地陈述 'My Family's Beautiful! was directed by Palito Ortega'。单来源但答案明确出现在支撑 chunk 全文中，无歧义。交叉验证：不充分（仅 1 个来源），但来源直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "757e4f93-d803-459f-b9d3-01c97926304d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "757e4f93-d803-459f-b9d3-01c97926304d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1980 Argentine comedy film \"My Family's Beautiful!\", including its Spanish title, director, starring actors, and details regarding Niní Marshall's career.",
+              "context_title": "My Family's Beautiful!",
+              "page_content": "My Family's Beautiful! starred Niní Marshall. My Family's Beautiful! was the final film of Niní Marshall. My Family's Beautiful! is known in Spanish as ¡ Qué linda es mi familia! My Family's Beautiful! starred Luis Sandrini. My Family's Beautiful! is a 1980 Argentine comedy film. My Family's Beautiful! was directed by Palito Ortega. Niní Marshall made her screen debut in 1938."
+            },
+            {
+              "chunk_id": "ec8a022c-5d40-40e2-8c8f-5d42858f6b1b",
+              "chunk_title": "Actor Identities & Roles",
+              "chunk_summary": "This chunk contains information about the identities, professions, and notable roles of actors, specifically focusing on Tayler Marshall's career in British television.",
+              "context_title": "Tayler Marshall",
+              "page_content": "Tayler Marshall appeared in \"My Family\" for 23 episodes. Tayler Marshall is a British actor. Tayler Marshall is best known for his role as Kenzo Harper in the British situation comedy series \"My Family\"."
+            },
+            {
+              "chunk_id": "dd1836e3-6098-4a33-8df9-58ffdab49599",
+              "chunk_title": "Films & Production",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, directors, and screenwriters.",
+              "context_title": "Beautiful Girls (film)",
+              "page_content": "Beautiful Girls is an American film. Beautiful Girls is a 1996 film. Beautiful Girls was directed by Ted Demme. Beautiful Girls is a romantic comedy-drama film. The screenplay for Beautiful Girls was written by Scott Rosenberg."
+            },
+            {
+              "chunk_id": "49d92755-2730-4bbc-8ceb-7bee802deea7",
+              "chunk_title": "Film Directors & Careers",
+              "chunk_summary": "This chunk contains information about film directors, their nationalities, and their career progression into directing.",
+              "context_title": "Rajan Madhav",
+              "page_content": "Rajan Babu is an Indian film director. Rajan Madhav made it to direction."
+            },
+            {
+              "chunk_id": "019b1584-b192-4722-80b5-f8c6d344752a",
+              "chunk_title": "TV Series Broadcast & Cast",
+              "chunk_summary": "This chunk contains information about the broadcast dates, duration, and cast involvement in television series.",
+              "context_title": "Tayler Marshall",
+              "page_content": "Tayler Marshall appeared in \"My Family\" over a period of 5 series. The British situation comedy series \"My Family\" ran from 2005 to 2011. Tayler Marshall appeared in \"My Family\" over a period of 5 years."
+            },
+            {
+              "chunk_id": "6932df6b-4323-42fa-bd68-b6d014a2ab81",
+              "chunk_title": "Durrell Memoir Adaptations",
+              "chunk_summary": "This chunk contains information about television and film adaptations of Gerald Durrell's memoirs regarding his family's life in Greece.",
+              "context_title": "Gerald Durrell",
+              "page_content": "The memoirs of Gerald Malcolm Durrell about his family's years living in Greece were adapted into a television series titled \"My Family and Other Animals\" in 1987. The memoirs of Gerald Malcolm Durrell about his family's years living in Greece were adapted into a television film titled \"My Family and Other Animals\" in 2005. The memoirs of Gerald Malcolm Durrell about his family's years living in Greece were adapted into a television series titled \"The Durrells\" from 2016 to 2019."
+            },
+            {
+              "chunk_id": "820e79d4-1724-4e0f-a1a1-930357a23b62",
+              "chunk_title": "Josiane Balasko Films",
+              "chunk_summary": "This chunk contains information about films directed by Josiane Balasko.",
+              "context_title": "The Ex-Wife of My Life",
+              "page_content": "The Ex-Wife of My Life is the sixth film directed by Josiane Balasko. The Ex-Wife of My Life was directed by Josiane Balasko."
+            },
+            {
+              "chunk_id": "8bf1527e-f420-423b-9736-f57c381b5cca",
+              "chunk_title": "Éric Rohmer Films",
+              "chunk_summary": "This chunk contains information about films directed by Éric Rohmer.",
+              "context_title": "Éric Rohmer",
+              "page_content": "The film \"My Night at Maud's\" was directed by Éric Rohmer. The film \"Claire's Knee\" was directed by Éric Rohmer. The film \"The Green Ray\" was directed by Éric Rohmer."
+            },
+            {
+              "chunk_id": "34029ec7-3a37-4011-89ec-e23b70daf7ee",
+              "chunk_title": "Indian Film Directors",
+              "chunk_summary": "This chunk contains information about Indian film directors, including specific individuals like Homi Wadia and JBH Wadia.",
+              "context_title": "Homi Wadia",
+              "page_content": "JBH Wadia was a movie director. Homi Wadia was an Indian film director."
+            },
+            {
+              "chunk_id": "43725a7d-a043-409d-b652-2fdce3a5e1ee",
+              "chunk_title": "1953 Mexican Wrestling Film",
+              "chunk_summary": "This chunk contains information about the 1953 Mexican wrestling film \"La bestia magnífica,\" including its production details, director Chano Urueta's involvement, plot summary, runtime, awards, and its significance as the film that started the wrestling movie genre.",
+              "context_title": "The Magnificent Beast",
+              "page_content": "Jorge Bustos won the Ariel Award for Best Film Editing for his work on \"La bestia magnífica (Lucha libre)\". \"La bestia magnífica (Lucha libre)\" tells the story of two good friends. The two good friends in \"La bestia magnífica (Lucha libre)\" become wrestlers to leave poverty behind. A runtime of 128 minutes was very unusual in the Mexican film industry. \"La bestia magnífica (Lucha libre)\" is also known as \"The Magnificent Beast (Wrestling)\". José Elías Moreno won the Ariel Award for Best Supporting Actor for his role in \"La bestia magnífica (Lucha libre)\". \"La bestia magnífica (Lucha libre)\" is regarded as the film that started the genre of \"wrestling movies\". \"La bestia magnífica (Lucha libre)\" was directed by Chano Urueta. \"La bestia magnífica (Lucha libre)\" is a 1953 Mexican film. Chano Urueta was so enthusiastic about the project \"La bestia magnífica (Lucha libre)\" that he filmed three fights in their entirety. The genre of \"wrestling movies\" became immensely popular in Mexico for many decades. The arrival of an ambitious woman tragically changes the destiny of the two good friends in \"La bestia magnífica (Lucha libre)\". Chano Urueta was the director of \"La bestia magnífica (Lucha libre)\". The final cut of \"La bestia magnífica (Lucha libre)\" came to 128 minutes."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Private Information born?",
+          "answer": "6 October 1910",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Fergus McDonell birth date",
+          "planner_rationale": "确定 Private Information 导演的出生日期，用于年龄比较。已确认 6 October 1910，依赖 N1_1 消解指代，证据充分。",
+          "solver_judgment": "question 要求确认电影《Private Information》导演的出生日期。search_query 搜索了 'Fergus McDonell birth date'。chunks 中，chunk 1277495a... 明确指出 'Private Information was directed by Fergus McDonell'，锁定了导演身份；chunk 647d882a... 记载 'Fergus McDonell was born on 6 October 1910'，直接提供了准确的出生日期。检索精准命中目标人物及其关键生平信息，无信息缺口，答案完整可靠。",
+          "critic_factual_notes": "2 个来源，其中 2 个独立（文档 Fergus McDonell，文档 Private Information）。来源 [647d882a] 直接记载 'Fergus McDonell was born on 6 October 1910'；来源 [1277495a] 确认 'Private Information was directed by Fergus McDonell'。两个独立来源对核心事实表述一致，交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1277495a-1e33-4c4c-91e6-167169fee09a",
+            "647d882a-e9a9-4ff5-ac7c-1b9d0fc5fc45"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "647d882a-e9a9-4ff5-ac7c-1b9d0fc5fc45",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Fergus McDonell",
+              "page_content": "Fergus McDonell was born on 6 October 1910."
+            },
+            {
+              "chunk_id": "2bcdd57a-3c94-4f7d-9814-4a94e9522674",
+              "chunk_title": "Birth & Death Locations",
+              "chunk_summary": "This chunk contains information about the birth and death locations of individuals.",
+              "context_title": "Fergus McDonell",
+              "page_content": "Fergus McDonell died in Norwich, Norfolk. Fergus McDonell was born in Ticehurst, Sussex."
+            },
+            {
+              "chunk_id": "4c4d6768-de95-4157-a8c2-1108bd52cd89",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date of death for specific individuals.",
+              "context_title": "Fergus McDonell",
+              "page_content": "Fergus McDonell died on 3 January 1984."
+            },
+            {
+              "chunk_id": "5af34a97-2929-4522-94db-a3a7a01fa26a",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the professional background and nationality of film directors.",
+              "context_title": "Fergus McDonell",
+              "page_content": "Fergus McDonell was an English director."
+            },
+            {
+              "chunk_id": "8d00c2d0-5ba6-4e5a-9a72-a434efd0a9dc",
+              "chunk_title": "Film Editor Profiles",
+              "chunk_summary": "This chunk contains information about the professional background, identity, and award nominations of film editors.",
+              "context_title": "Fergus McDonell",
+              "page_content": "Fergus McDonell was nominated for the Academy Award for Best Film Editing for \"Odd Man Out\". Fergus McDonell was an English film editor. Fergus McDonell was nominated for the Academy Award for Best Film Editing."
+            },
+            {
+              "chunk_id": "1277495a-1e33-4c4c-91e6-167169fee09a",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1952 British drama film \"Private Information,\" including its director, cast, production studio, and release format.",
+              "context_title": "Private Information",
+              "page_content": "Private Information was made at Walton Studios. Private Information was directed by Fergus McDonell. Private Information starred Jill Esmond. Private Information is a 1952 British drama film. Private Information starred Jack Watling. Private Information starred Carol Marsh. Private Information was made as a second feature."
+            },
+            {
+              "chunk_id": "05fe1052-c33e-4ecf-b0fe-5c0ae8d6fd80",
+              "chunk_title": "Mary MacDuff's Birth Date",
+              "chunk_summary": "This chunk contains information about the birth dates of Mary MacDuff, including conflicting sources regarding the specific year.",
+              "context_title": "Mary de Monthermer",
+              "page_content": "Mary MacDuff was born in October 1297. Other sources have Mary MacDuff being born in 1298."
+            },
+            {
+              "chunk_id": "1ea2a091-0db9-4323-85d2-c331926641a3",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth and death dates of historical figures.",
+              "context_title": "James FitzGerald, 1st Earl of Desmond",
+              "page_content": "James FitzGerald lived from c. 1570 to November 1601."
+            },
+            {
+              "chunk_id": "dfe9379e-1df0-4b06-8090-5586b3697c87",
+              "chunk_title": "Birth & Death Dates",
+              "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+              "context_title": "Gordon MacRae",
+              "page_content": "Albert Gordon MacRae was born on March 12, 1921. Albert Gordon MacRae died on January 24, 1986."
+            },
+            {
+              "chunk_id": "e67e59b3-a605-47d8-b99e-13496cb5c032",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Martin Donovan (screenwriter)",
+              "page_content": "Martin Donovan was born on January 21, 1950."
+            }
+          ]
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of My Family's Beautiful! born?",
+          "answer": "March 8, 1942",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Palito Ortega birth date",
+          "planner_rationale": "确定 My Family's Beautiful! 导演的出生日期，用于年龄比较。已确认 March 8, 1942，依赖 N1_2 消解指代，证据充分。",
+          "solver_judgment": "question 要求确认电影 'My Family's Beautiful!' 导演的出生日期。search_query 搜索了 'Palito Ortega birth date'。chunks 返回了相关信息：chunk 757e4f93... 指出该电影由 Palito Ortega 执导；chunk 8450772d... 说明 Palito Ortega 的真名是 Ramón Bautista Ortega；chunk c328c3d6... 记载 Ramón Bautista Ortega 出生于 1942 年 3 月 8 日。检索精准，信息完整，通过关联导演艺名与真名成功提取答案。",
+          "critic_factual_notes": "3 个来源，其中 2 个独立（文档 Palito Ortega，文档 My Family's Beautiful!）。来源 [c328c3d6] 记载 'Ramón Bautista Ortega was born on March 8, 1942'；来源 [8450772d] 建立别名关联 'Ramón Bautista Ortega is better known as Palito Ortega'；来源 [757e4f93] 确认 'My Family's Beautiful! was directed by Palito Ortega'。三 chunk 形成完整推理链：电影导演=Palito Ortega=Ramón Bautista Ortega，出生于 1942 年 3 月 8 日。交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "757e4f93-d803-459f-b9d3-01c97926304d",
+            "8450772d-8cfe-4106-8370-7c7a4c8b322c",
+            "c328c3d6-bbb5-420a-9041-01e437e39d9a"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c328c3d6-bbb5-420a-9041-01e437e39d9a",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Palito Ortega",
+              "page_content": "Ramón Bautista Ortega was born on March 8, 1942."
+            },
+            {
+              "chunk_id": "8450772d-8cfe-4106-8370-7c7a4c8b322c",
+              "chunk_title": "Palito Ortega Biography",
+              "chunk_summary": "This chunk contains information about the identity, aliases, professional status, and musical career of Argentinian singer Ramón Bautista Ortega (Palito Ortega).",
+              "context_title": "Palito Ortega",
+              "page_content": "Palito Ortega reached international fame during the 1960s. Palito Ortega is considered one of the main representatives of the musical style called New wave. Palito Ortega is an icon of Argentinian popular music. Ramón Bautista Ortega is better known as Palito Ortega. Palito Ortega reached international fame particularly in Spain. Ramón Bautista Ortega is an Argentinian singer. Palito Ortega reached international fame particularly in Latin America."
+            },
+            {
+              "chunk_id": "757e4f93-d803-459f-b9d3-01c97926304d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1980 Argentine comedy film \"My Family's Beautiful!\", including its Spanish title, director, starring actors, and details regarding Niní Marshall's career.",
+              "context_title": "My Family's Beautiful!",
+              "page_content": "My Family's Beautiful! starred Niní Marshall. My Family's Beautiful! was the final film of Niní Marshall. My Family's Beautiful! is known in Spanish as ¡ Qué linda es mi familia! My Family's Beautiful! starred Luis Sandrini. My Family's Beautiful! is a 1980 Argentine comedy film. My Family's Beautiful! was directed by Palito Ortega. Niní Marshall made her screen debut in 1938."
+            },
+            {
+              "chunk_id": "d814345c-78b7-48d5-ae60-ca32ab539d44",
+              "chunk_title": "Actor Identities & Professions",
+              "chunk_summary": "This chunk contains information about the identities and professions of actors.",
+              "context_title": "Palito Ortega",
+              "page_content": "Ramón Bautista Ortega is an Argentinian actor."
+            },
+            {
+              "chunk_id": "2e60ed7a-9923-48d6-8453-149b3fc53e7e",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Robert Torti",
+              "page_content": "Robert Felix Torti was born on October 22, 1961."
+            },
+            {
+              "chunk_id": "48a81d1a-71a1-41ba-948a-4e3a6219ff35",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Pablo Moret",
+              "page_content": "Pablo Moret was born on June 2, 1933."
+            },
+            {
+              "chunk_id": "c2bb18de-1ae3-4fc2-bc0e-fc85d78ab6a3",
+              "chunk_title": "Birth & Death Dates",
+              "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+              "context_title": "Chano Urueta",
+              "page_content": "Santiago Eduardo Urueta Sierra was born on February 24, 1904. Santiago Eduardo Urueta Sierra died on March 23, 1979."
+            },
+            {
+              "chunk_id": "113bbeaf-171e-47ef-8fd6-317e8f626512",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Roberto Dinamite",
+              "page_content": "Carlos Roberto de Oliveira was born on 13 April 1954."
+            },
+            {
+              "chunk_id": "8c46a5e9-88c5-4569-9257-4aa3f7e935c6",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Federico Martín Aramburú",
+              "page_content": "Federico Martín Aramburú was born on January 20, 1980."
+            },
+            {
+              "chunk_id": "95d41407-f57d-470f-a1dd-9df3d8692347",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth date of Federico Martín Bahamontes.",
+              "context_title": "Federico Bahamontes",
+              "page_content": "Federico Martín Bahamontes was born on 9 July 1928."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who directed the film Private Information?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "1277495a-1e33-4c4c-91e6-167169fee09a",
+        "215c5e5e-05eb-487a-9ed4-ff5f36f45900",
+        "6393904a-dd55-46e5-83e7-7ba0e8387679",
+        "cc572470-443c-4a51-853b-604416d1e129",
+        "e3951591-b5c0-4d5e-9b52-5e12232cd4b3",
+        "60a701fb-32f4-474e-929b-d5ab6ab32646",
+        "46f116e2-fcef-493c-a2dd-0c3bbcd59482",
+        "43781ce6-c3c1-42f0-af0d-65ca999840c0",
+        "c77cca3a-95e4-4f46-bf7c-9ece3ab71898",
+        "2d4c0bb1-7ce4-4d87-ad39-559c7b2c3275"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who directed the film My Family's Beautiful!?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "757e4f93-d803-459f-b9d3-01c97926304d",
+        "ec8a022c-5d40-40e2-8c8f-5d42858f6b1b",
+        "dd1836e3-6098-4a33-8df9-58ffdab49599",
+        "49d92755-2730-4bbc-8ceb-7bee802deea7",
+        "019b1584-b192-4722-80b5-f8c6d344752a",
+        "6932df6b-4323-42fa-bd68-b6d014a2ab81",
+        "820e79d4-1724-4e0f-a1a1-930357a23b62",
+        "8bf1527e-f420-423b-9736-f57c381b5cca",
+        "34029ec7-3a37-4011-89ec-e23b70daf7ee",
+        "43725a7d-a043-409d-b652-2fdce3a5e1ee"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Fergus McDonell birth date",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "647d882a-e9a9-4ff5-ac7c-1b9d0fc5fc45",
+        "2bcdd57a-3c94-4f7d-9814-4a94e9522674",
+        "4c4d6768-de95-4157-a8c2-1108bd52cd89",
+        "5af34a97-2929-4522-94db-a3a7a01fa26a",
+        "8d00c2d0-5ba6-4e5a-9a72-a434efd0a9dc",
+        "1277495a-1e33-4c4c-91e6-167169fee09a",
+        "05fe1052-c33e-4ecf-b0fe-5c0ae8d6fd80",
+        "1ea2a091-0db9-4323-85d2-c331926641a3",
+        "dfe9379e-1df0-4b06-8090-5586b3697c87",
+        "e67e59b3-a605-47d8-b99e-13496cb5c032"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Palito Ortega birth date",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "c328c3d6-bbb5-420a-9041-01e437e39d9a",
+        "8450772d-8cfe-4106-8370-7c7a4c8b322c",
+        "757e4f93-d803-459f-b9d3-01c97926304d",
+        "d814345c-78b7-48d5-ae60-ca32ab539d44",
+        "2e60ed7a-9923-48d6-8453-149b3fc53e7e",
+        "48a81d1a-71a1-41ba-948a-4e3a6219ff35",
+        "c2bb18de-1ae3-4fc2-bc0e-fc85d78ab6a3",
+        "113bbeaf-171e-47ef-8fd6-317e8f626512",
+        "8c46a5e9-88c5-4569-9257-4aa3f7e935c6",
+        "95d41407-f57d-470f-a1dd-9df3d8692347"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed Private Information?（理由：Q 是比较型问题，需先确定第一部电影的导演身份），F2: Who directed My Family's Beautiful!?（理由：需确定第二部电影的导演身份），F3: When was the director of Private Information born?（理由：需要该导演的出生年份来参与年龄比较，question 中 \"the director of Private Information\" 指代 F1 的 answer），F4: When was the director of My Family's Beautiful! born?（理由：需要该导演的出生年份来参与年龄比较，question 中 \"the director of My Family's Beautiful!\" 指代 F2 的 answer）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F3 依赖 F1（depend",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N1（question=\"Who directed the film Private Information?\"），原因：Q 需要比较两部电影导演的年龄，必须先获取第一部电影的导演信息。新增: N2（question=\"Who directed the film My Family's Beautiful!?\"），原因：同上，获取第二部电影的导演信息。新增: N3（question=\"When was the director of Private Information born?\"），原因：获取导演出生年份以进行年龄比较，该节点依赖 N1 的 answer 消解指代。新增: N4（question=\"When was the director of My Family's Beautiful! born?\"），原因：同上，依赖 N2 的 answer 消解指代。新增边: N0→N1（decomposition），N0→N2（decomposition），N1→N3（dependency），N2→N4（dependency）",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有 4 个非根节点均已 SOLVED；②推理链语义匹配——N1_1→N1_3（Fergus McDonell 消解 'the director of Private Information'）和 N1_2→N1_4（Palito Ortega 消解 'the director of My Family's Beautiful!'）两条路径均语义有效；③全部节点 healthy——"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed Private Information?（理由：Q 是比较型问题，需先确定第一部电影的导演身份），F2: Who directed My Family's Beautiful!?（理由：需确定第二部电影的导演身份），F3: When was the director of Private Information born?（理由：需要该导演的出生年份来参与年龄比较，question 中 \"the director of Private Information\" 指代 F1 的 answer），F4: When was the director of My Family's Beautiful! born?（理由：需要该导演的出生年份来参与年龄比较，question 中 \"the director of My Family's Beautiful!\" 指代 F2 的 answer）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F3 依赖 F1（depend",
+      "hypothesis_delta": "本轮无结构调整——所有节点保持 INHERIT。原因：Critic 确认所有 4 个子节点均已 SOLVED + healthy，证据充分，推理链完整（N1_1→N1_3 和 N1_2→N1_4 两条路径均交叉验证通过）。Q 的语义覆盖完整，无缺口，无冗余，无阻塞。上一轮假设完全被验证，DAG 已收敛至理想结构，可直接生成最终答案。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有 4 个非根节点均已 SOLVED；②推理链语义匹配——N1_1 answer='Fergus McDonell' 消解 N1_3 指代，N1_2 answer='Palito Ortega' 消解 N1_4 指代，两条路径（N0→N1_1→N1_3 和 N0→N1_2→N1_4）所有 dependency 环节语义有效；③全部节点 healthy（N0-N1_4 均为 hea"
+      }
+    }
+  ]
+}

@@ -1,0 +1,680 @@
+{
+  "question_index": 180,
+  "question_id": "2hop__25788_990",
+  "question": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+  "answer": "third generation",
+  "prediction": "third generation",
+  "error": null,
+  "latency_ms": 345193.8190999999,
+  "dataset_type": "musique",
+  "timestamp": "2026-05-18T04:40:02.422190+00:00",
+  "chunks": [
+    {
+      "chunk_id": "6d9bf546-16a1-417c-8323-061cfcebabc1",
+      "chunk_title": "USB Purpose & Design",
+      "chunk_summary": "This chunk contains information about the purpose and design of USB as a standard for connecting, communicating with, and powering computer peripherals.",
+      "context_title": "USB",
+      "page_content": "USB was designed to allow computer peripherals to communicate with personal computers. USB was designed to standardize the connection of computer peripherals to personal computers. USB was designed to supply electric power to computer peripherals."
+    },
+    {
+      "chunk_id": "f981fe59-d445-4a7b-8aaa-d6e942eeb8ff",
+      "chunk_title": "USB Architecture & Topology",
+      "chunk_summary": "This chunk contains information about the asymmetrical, host-based design architecture and tiered-star topology of USB systems, including details on downstream ports, peripheral devices, hubs, host controllers, and connection limits.",
+      "context_title": "USB",
+      "page_content": "Up to 127 devices may be connected to a single host controller. The design architecture of USB consists of multiple peripheral devices connected in a tiered-star topology. The hub built into the host controller is the root hub. Each host controller may provide one or more USB ports. Hub devices are included in the count of up to 127 devices connected to a single host controller. The design architecture of USB is asymmetrical in its topology. Additional USB hubs may be included in the tiers of the USB design architecture. The design architecture of USB consists of a multitude of downstream USB ports. Additional USB hubs allow branching into a tree structure with up to five tier levels. USB devices are linked in series through hubs. The design architecture of USB consists of a host. One hub is built into the host controller. A USB host may implement multiple host controllers."
+    },
+    {
+      "chunk_id": "4198adc5-f51b-42fd-a044-96b81c3f5c47",
+      "chunk_title": "Computer Peripherals",
+      "chunk_summary": "This chunk contains information about various types of computer peripherals and their functions.",
+      "context_title": "USB",
+      "page_content": "Computer peripherals include keyboards, pointing devices, digital cameras, printers, portable media players, disk drives and network adapters."
+    },
+    {
+      "chunk_id": "ca2fafa8-12e6-4d8b-a696-177d316799c8",
+      "chunk_title": "USB Adoption & Replacement",
+      "chunk_summary": "This chunk contains information about the widespread adoption of USB connectivity across various electronic devices and its role in replacing older connection standards and power solutions.",
+      "context_title": "USB",
+      "page_content": "USB has effectively replaced parallel ports. USB has effectively replaced separate power chargers for portable devices. USB has become commonplace on video game consoles. USB has effectively replaced serial ports. USB has become commonplace on smartphones. USB has become commonplace on PDAs."
+    },
+    {
+      "chunk_id": "a0ceac2f-d690-4dc2-8e96-bb6db8ac53e0",
+      "chunk_title": "USB Connector Specifications",
+      "chunk_summary": "This chunk contains information about the technical specifications and physical design constraints for USB connectors, including tolerance standards to minimize vendor incompatibilities, size limits around the plug to address weaknesses in other standards, and potential port blocking issues caused by cable strain relief mechanisms.",
+      "context_title": "USB",
+      "page_content": "The cable strain relief mechanism is usually molding integral with the cable outer insulation. The USB specification defines limits to the size of a connecting device in the area around its plug. The USB standard specifies relatively loose tolerances for compliant USB connectors to minimize physical incompatibilities in connectors from different vendors. The USB specification defines limits to the size of a connecting device in the area around its plug to address a weakness present in some other connector standards. Compliant devices must fit within the size restrictions. A device may block adjacent ports due to the size of the cable strain relief mechanism at the connector. The limits to the size of a connecting device in the area around its plug were done to prevent a device from blocking adjacent ports due to the size of the cable strain relief mechanism at the connector. Compliant devices must support a compliant extension cable that fits within the size restrictions. The USB standard specifies relatively loose tolerances for compliant USB connectors."
+    },
+    {
+      "chunk_id": "a304dc72-a794-4f1b-a2cc-89cf01d259a5",
+      "chunk_title": "Dell Proprietary Hardware",
+      "chunk_summary": "This chunk contains information about Dell's use of proprietary hardware connectors and motherboard pin-outs, their impact on customer upgradeability, and the partial reversion to industry standards.",
+      "context_title": "Dell",
+      "page_content": "Customers wishing to upgrade their hardware would have to replace parts with scarce Dell-compatible parts instead of commonly available parts. In the 1990s, Dell used primarily ATX motherboards and PSU. Motherboard power connections reverted to the industry standard in 2003. In the 1990s, Dell switched to using boards and power supplies with mechanically identical but differently wired connectors. Dell continues to remain secretive about their motherboard pin-outs for peripherals."
+    },
+    {
+      "chunk_id": "d36e2243-48c7-457d-a7cf-9e3d95d1f075",
+      "chunk_title": "Network Standards & Protocols",
+      "chunk_summary": "This chunk contains information about standards and protocols for connecting network computers.",
+      "context_title": "Open Blueprint",
+      "page_content": "Open Blueprint provided a standard for connecting network computers."
+    },
+    {
+      "chunk_id": "bb4835c3-884e-4522-996d-79e4df0f9e60",
+      "chunk_title": "iPod Hardware Connectors",
+      "chunk_summary": "This chunk details the evolution of hardware connectors in iPod models, specifically the capabilities of the 30-pin dock connector and the function of the 3.5 mm minijack across various generations.",
+      "context_title": "IPod",
+      "page_content": "The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a headphone jack. The second-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third generation iPod began including a 30-pin dock connector. The 30-pin dock connector provided better compatibility with non-Apple machines. The 30-pin dock connector allowed for USB connectivity. The 30-pin dock connector allowed for FireWire connectivity. The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a data port for the dock. The fourth-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third-generation iPod Shuffle uses a single 3.5 mm minijack phone connector."
+    },
+    {
+      "chunk_id": "a922dd1e-ea30-4bec-b8e4-b1a0db72722b",
+      "chunk_title": "Computer Hardware & Peripherals",
+      "chunk_summary": "This chunk contains information about various types of computer peripherals and hardware components.",
+      "context_title": "Dell",
+      "page_content": "Peripherals include MMC readers, power on/off switches, and LEDs."
+    },
+    {
+      "chunk_id": "cad36be5-849c-424f-b803-c4c6f5c9995b",
+      "chunk_title": "Connector Standards Weaknesses",
+      "chunk_summary": "This chunk contains information about weaknesses present in various connector standards.",
+      "context_title": "USB",
+      "page_content": "A weakness is present in some other connector standards."
+    },
+    {
+      "chunk_id": "51c0db10-2bc8-4bf1-ab9c-49ccb80ed928",
+      "chunk_title": "Hardware Connectivity Standards",
+      "chunk_summary": "This chunk contains information about changes in hardware connectivity standards for consumer electronics.",
+      "context_title": "IPod",
+      "page_content": "Apple eventually began shipping iPods with USB cables instead of FireWire cables."
+    },
+    {
+      "chunk_id": "cfb2390d-9a49-43a0-b6f1-f05b6de6549a",
+      "chunk_title": "FireWire Connectivity Evolution",
+      "chunk_summary": "This chunk details the adoption, availability, and phased discontinuation of FireWire connectivity for data transfer and charging across various iPod generations in comparison to USB.",
+      "context_title": "IPod",
+      "page_content": "Most non-Apple machines did not have FireWire ports at the time of the third generation iPod. Apple discontinued using FireWire for data transfer in an attempt to reduce form factor. FireWire charging ability has been removed as of the second-generation iPod Touch. FireWire charging ability has been removed as of the fourth-generation iPod Nano. Apple still allowed the use of FireWire to charge the device after discontinuing FireWire for data transfer. Apple discontinued using FireWire for data transfer as of the first-generation iPod Nano. Apple discontinued using FireWire for data transfer in an attempt to reduce cost. FireWire cables were available separately when Apple began shipping iPods with USB cables. Apple discontinued using FireWire for data transfer as of the fifth-generation iPod Classic."
+    },
+    {
+      "chunk_id": "f230a93b-af9a-4e3a-b491-24464b2a1cf9",
+      "chunk_title": "iPod Auto Integration",
+      "chunk_summary": "This chunk contains information about the history of early iPod integration in vehicles, specifically focusing on BMW's pioneering interface, Apple's subsequent plans to expand this technology to other car brands, and Scion's standard connectivity offerings.",
+      "context_title": "IPod",
+      "page_content": "The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz, Volvo, Nissan, Toyota, Alfa Romeo, Ferrari, Acura, Audi, Honda, Renault, Infiniti and Volkswagen. Scion offers standard iPod connectivity on all Scion cars. BMW released the first iPod automobile interface. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. Apple announced in 2005 that similar systems to the iPod automobile interface would be available for other vehicle brands."
+    },
+    {
+      "chunk_id": "79c29779-0208-41c9-b131-16fcf461a1d2",
+      "chunk_title": "iPod Nano Overview",
+      "chunk_summary": "This chunk contains information about the iPod Nano, a portable media player designed and marketed by Apple Inc., including its branding, characteristics, release history, technical specifications, and discontinuation.",
+      "context_title": "IPod Nano",
+      "page_content": "Apple Inc. discontinued the iPod Nano on July 27, 2017. The iPod Nano was marketed by Apple Inc. The first generation model of the iPod Nano was introduced on September 7, 2005. The first generation model of the iPod Nano used flash memory for storage. The iPod Nano went through several differing models, or generations, since its introduction. Apple Inc. cited lack of consumer interest in the iPod Nano resulting in poor sales as the reason for discontinuing the product. The iPod Nano is stylized and marketed as iPod nano. The iPod Nano was designed by Apple Inc. The iPod Nano is a portable media player. The first generation model of the iPod Nano was a replacement for the iPod Mini."
+    },
+    {
+      "chunk_id": "567a18a6-67de-4ffd-bfc8-535c4c71ff54",
+      "chunk_title": "iPod Auto Integration History",
+      "chunk_summary": "This chunk contains information about the history of iPod integration in automobiles, detailing BMW's pioneering interface, Apple's expansion to other vehicle brands, and Scion's standard connectivity.",
+      "context_title": "IPod",
+      "page_content": "The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. Apple announced in 2005 that similar systems to the iPod automobile interface would be available for other vehicle brands. Scion offers standard iPod connectivity on all Scion cars. BMW released the first iPod automobile interface. The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz, Volvo, Nissan, Toyota, Alfa Romeo, Ferrari, Acura, Audi, Honda, Renault, Infiniti and Volkswagen."
+    },
+    {
+      "chunk_id": "286b6ad1-817e-4522-a297-3faeabaf136f",
+      "chunk_title": "iPod Auto Integration History",
+      "chunk_summary": "This chunk contains information about the history of iPod integration in automobiles, detailing BMW's pioneering interface, Apple's expansion to other vehicle brands, and Scion's standard connectivity.",
+      "context_title": "IPod",
+      "page_content": "The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz. The vehicle brands for which Apple announced similar systems would be available include Honda. The vehicle brands for which Apple announced similar systems would be available include Volvo. The vehicle brands for which Apple announced similar systems would be available include Renault. The vehicle brands for which Apple announced similar systems would be available include Alfa Romeo. Scion offers standard iPod connectivity on all Scion cars. The vehicle brands for which Apple announced similar systems would be available include Acura. The vehicle brands for which Apple announced similar systems would be available include Audi. The vehicle brands for which Apple announced similar systems would be available include Infiniti. The vehicle brands for which Apple announced similar systems would be available include Toyota. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. The vehicle brands for which Apple announced similar systems would be available include Ferrari. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. The vehicle brands for which Apple announced similar systems would be available include Nissan. Apple announced in 2005 that similar systems to the iPod automobile interface would be available for other vehicle brands. BMW released the first iPod automobile interface. The vehicle brands for which Apple announced similar systems would be available include Volkswagen."
+    },
+    {
+      "chunk_id": "c102f709-eff8-41eb-8de9-df5701698e3f",
+      "chunk_title": "iPod Touch 5G Overview",
+      "chunk_summary": "This chunk contains information about the announcement, release timeline, marketing details, general classification, user interface, and software compatibility of the fifth generation iPod Touch.",
+      "context_title": "IPod Touch (5th generation)",
+      "page_content": "The fifth generation iPod Touch has a touchscreen-based user interface. The fifth generation iPod Touch was unveiled on September 12, 2012. The fifth generation iPod Touch is colloquially known as the iPod Touch 5G. The fifth generation iPod Touch was unveiled at Apple's media event. The fifth generation iPod Touch was designed by Apple Inc. The fifth generation iPod Touch is compatible with up to iOS 9.3.5. The fifth generation iPod Touch is colloquially known as the iPod Touch 5. The fifth generation iPod Touch is stylized and marketed as the iPod touch. The fifth generation iPod Touch succeeded the 4th generation iPod Touch. The fifth generation iPod Touch was released on October 11, 2012. The fifth generation iPod Touch was unveiled alongside the iPhone 5. The fifth generation iPod Touch was marketed by Apple Inc. The fifth generation iPod Touch is an all-purpose pocket computer."
+    },
+    {
+      "chunk_id": "4fdb59ac-1226-43ce-b1e3-21a8a4d5bd12",
+      "chunk_title": "Volume Limits",
+      "chunk_summary": "This chunk contains information about user-configurable safety features in electronic devices, specifically volume limits introduced to address hearing loss concerns.",
+      "context_title": "IPod",
+      "page_content": "Apple introduced the user-configurable volume limit in response to concerns about hearing loss. Users report that the maximum volume output level is limited to 100 dB in the sixth-generation iPod in EU markets. Apple introduced a user-configurable volume limit in the fifth-generation iPod."
+    },
+    {
+      "chunk_id": "99382154-33c6-42ac-aa7d-d71ac2bec3c4",
+      "chunk_title": "iPod Car Integration",
+      "chunk_summary": "This chunk contains information about the development and expansion of iPod integration in automobiles, starting with BMW's initial interface and extending to various other vehicle brands.",
+      "context_title": "IPod",
+      "page_content": "Apple announced in 2005 that similar systems to the BMW iPod interface would be available for other vehicle brands. The vehicle brands for which Apple announced similar systems would be available include Volkswagen. BMW released the first iPod automobile interface. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. The vehicle brands for which Apple announced similar systems would be available include Nissan. The vehicle brands for which Apple announced similar systems would be available include Acura. The vehicle brands for which Apple announced similar systems would be available include Infiniti. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. The vehicle brands for which Apple announced similar systems would be available include Renault. The vehicle brands for which Apple announced similar systems would be available include Audi. The vehicle brands for which Apple announced similar systems would be available include Alfa Romeo. Scion offers standard iPod connectivity on all Scion cars. The vehicle brands for which Apple announced similar systems would be available include Volvo. The vehicle brands for which Apple announced similar systems would be available include Honda. The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz. The vehicle brands for which Apple announced similar systems would be available include Toyota. The vehicle brands for which Apple announced similar systems would be available include Ferrari."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.7368421052631579,
+  "retrieval_count": 2,
+  "total_chunks": 19,
+  "total_distinct_titles": 6,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 iPod 哪一代开始兼容某种标准化计算机外设连接对象",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，答案由子节点推理链合成。推理依据：N1_1 answer='USB'（识别出标准化连接对象）+ N1_2 answer='third generation'（确定 iPod 开始兼容 USB 的代际）。推理链完整：Q 询问'iPod 哪一代开始兼容[标准化连接对象]'→ N1_1 识别该对象为 USB → N1_2 确定 iPod 第三代开始提供 USB 兼容性 → 聚合答案为 'third generation'。",
+          "critic_normative_advice": "推理链完整，子节点证据充分，建议 INHERIT 保留。依赖边 N1_1→N1_2 语义有效（N1_1 的 answer 'USB' 消解了 N1_2 question 中的指代）。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the object designed to standardize connection of computer peripherals?",
+          "answer": "USB",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the object designed to standardize connection of computer peripherals?",
+          "planner_rationale": "Q 中提到 'the object designed to standardize connection of computer peripherals'，这是一个指代性描述，需要先识别该对象是什么（很可能是 USB），才能进一步搜索 iPod 的兼容性历史",
+          "solver_judgment": "question 要求找出旨在标准化计算机外设连接的对象。search_query 直接搜索了该问题。chunks 返回了关于 USB 的信息，其中 chunk 6d9bf546-16a1-417c-8323-061cfcebabc1 明确记载 'USB was designed to standardize the connection of computer peripherals to personal computers'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 USB），单来源但直接、具体地陈述了答案。支撑 chunk 6d9bf546 原文明确记载 'USB was designed to standardize the connection of computer peripherals to personal computers'，与 question 的表述完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，答案 'USB' 被支撑 chunk 直接确认。建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "6d9bf546-16a1-417c-8323-061cfcebabc1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "6d9bf546-16a1-417c-8323-061cfcebabc1",
+              "chunk_title": "USB Purpose & Design",
+              "chunk_summary": "This chunk contains information about the purpose and design of USB as a standard for connecting, communicating with, and powering computer peripherals.",
+              "context_title": "USB",
+              "page_content": "USB was designed to allow computer peripherals to communicate with personal computers. USB was designed to standardize the connection of computer peripherals to personal computers. USB was designed to supply electric power to computer peripherals."
+            },
+            {
+              "chunk_id": "f981fe59-d445-4a7b-8aaa-d6e942eeb8ff",
+              "chunk_title": "USB Architecture & Topology",
+              "chunk_summary": "This chunk contains information about the asymmetrical, host-based design architecture and tiered-star topology of USB systems, including details on downstream ports, peripheral devices, hubs, host controllers, and connection limits.",
+              "context_title": "USB",
+              "page_content": "Up to 127 devices may be connected to a single host controller. The design architecture of USB consists of multiple peripheral devices connected in a tiered-star topology. The hub built into the host controller is the root hub. Each host controller may provide one or more USB ports. Hub devices are included in the count of up to 127 devices connected to a single host controller. The design architecture of USB is asymmetrical in its topology. Additional USB hubs may be included in the tiers of the USB design architecture. The design architecture of USB consists of a multitude of downstream USB ports. Additional USB hubs allow branching into a tree structure with up to five tier levels. USB devices are linked in series through hubs. The design architecture of USB consists of a host. One hub is built into the host controller. A USB host may implement multiple host controllers."
+            },
+            {
+              "chunk_id": "4198adc5-f51b-42fd-a044-96b81c3f5c47",
+              "chunk_title": "Computer Peripherals",
+              "chunk_summary": "This chunk contains information about various types of computer peripherals and their functions.",
+              "context_title": "USB",
+              "page_content": "Computer peripherals include keyboards, pointing devices, digital cameras, printers, portable media players, disk drives and network adapters."
+            },
+            {
+              "chunk_id": "ca2fafa8-12e6-4d8b-a696-177d316799c8",
+              "chunk_title": "USB Adoption & Replacement",
+              "chunk_summary": "This chunk contains information about the widespread adoption of USB connectivity across various electronic devices and its role in replacing older connection standards and power solutions.",
+              "context_title": "USB",
+              "page_content": "USB has effectively replaced parallel ports. USB has effectively replaced separate power chargers for portable devices. USB has become commonplace on video game consoles. USB has effectively replaced serial ports. USB has become commonplace on smartphones. USB has become commonplace on PDAs."
+            },
+            {
+              "chunk_id": "a0ceac2f-d690-4dc2-8e96-bb6db8ac53e0",
+              "chunk_title": "USB Connector Specifications",
+              "chunk_summary": "This chunk contains information about the technical specifications and physical design constraints for USB connectors, including tolerance standards to minimize vendor incompatibilities, size limits around the plug to address weaknesses in other standards, and potential port blocking issues caused by cable strain relief mechanisms.",
+              "context_title": "USB",
+              "page_content": "The cable strain relief mechanism is usually molding integral with the cable outer insulation. The USB specification defines limits to the size of a connecting device in the area around its plug. The USB standard specifies relatively loose tolerances for compliant USB connectors to minimize physical incompatibilities in connectors from different vendors. The USB specification defines limits to the size of a connecting device in the area around its plug to address a weakness present in some other connector standards. Compliant devices must fit within the size restrictions. A device may block adjacent ports due to the size of the cable strain relief mechanism at the connector. The limits to the size of a connecting device in the area around its plug were done to prevent a device from blocking adjacent ports due to the size of the cable strain relief mechanism at the connector. Compliant devices must support a compliant extension cable that fits within the size restrictions. The USB standard specifies relatively loose tolerances for compliant USB connectors."
+            },
+            {
+              "chunk_id": "a304dc72-a794-4f1b-a2cc-89cf01d259a5",
+              "chunk_title": "Dell Proprietary Hardware",
+              "chunk_summary": "This chunk contains information about Dell's use of proprietary hardware connectors and motherboard pin-outs, their impact on customer upgradeability, and the partial reversion to industry standards.",
+              "context_title": "Dell",
+              "page_content": "Customers wishing to upgrade their hardware would have to replace parts with scarce Dell-compatible parts instead of commonly available parts. In the 1990s, Dell used primarily ATX motherboards and PSU. Motherboard power connections reverted to the industry standard in 2003. In the 1990s, Dell switched to using boards and power supplies with mechanically identical but differently wired connectors. Dell continues to remain secretive about their motherboard pin-outs for peripherals."
+            },
+            {
+              "chunk_id": "d36e2243-48c7-457d-a7cf-9e3d95d1f075",
+              "chunk_title": "Network Standards & Protocols",
+              "chunk_summary": "This chunk contains information about standards and protocols for connecting network computers.",
+              "context_title": "Open Blueprint",
+              "page_content": "Open Blueprint provided a standard for connecting network computers."
+            },
+            {
+              "chunk_id": "bb4835c3-884e-4522-996d-79e4df0f9e60",
+              "chunk_title": "iPod Hardware Connectors",
+              "chunk_summary": "This chunk details the evolution of hardware connectors in iPod models, specifically the capabilities of the 30-pin dock connector and the function of the 3.5 mm minijack across various generations.",
+              "context_title": "IPod",
+              "page_content": "The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a headphone jack. The second-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third generation iPod began including a 30-pin dock connector. The 30-pin dock connector provided better compatibility with non-Apple machines. The 30-pin dock connector allowed for USB connectivity. The 30-pin dock connector allowed for FireWire connectivity. The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a data port for the dock. The fourth-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third-generation iPod Shuffle uses a single 3.5 mm minijack phone connector."
+            },
+            {
+              "chunk_id": "a922dd1e-ea30-4bec-b8e4-b1a0db72722b",
+              "chunk_title": "Computer Hardware & Peripherals",
+              "chunk_summary": "This chunk contains information about various types of computer peripherals and hardware components.",
+              "context_title": "Dell",
+              "page_content": "Peripherals include MMC readers, power on/off switches, and LEDs."
+            },
+            {
+              "chunk_id": "cad36be5-849c-424f-b803-c4c6f5c9995b",
+              "chunk_title": "Connector Standards Weaknesses",
+              "chunk_summary": "This chunk contains information about weaknesses present in various connector standards.",
+              "context_title": "USB",
+              "page_content": "A weakness is present in some other connector standards."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which generation did iPod start providing compatibility with USB?",
+          "answer": "third generation",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "iPod generation that first supported USB",
+          "planner_rationale": "Q 的核心询问——在识别出标准化连接对象后，需要确定 iPod 哪一代首次提供对该对象的兼容性。这是 Q 的直接答案",
+          "solver_judgment": "question 要求确认 iPod 开始提供 USB 兼容性的具体代际。search_query 搜索了 'iPod generation that first supported USB'。chunks 返回了关于 iPod 硬件连接器演进的信息，其中 chunk bb4835c3-884e-4522-996d-79e4df0f9e60 明确指出 'The third generation iPod began including a 30-pin dock connector... The 30-pin dock connector allowed for USB connectivity.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 IPod），单来源但直接、具体地陈述了答案。支撑 chunk bb4835c3 原文明确记载 'The third generation iPod began including a 30-pin dock connector... The 30-pin dock connector allowed for USB connectivity.'，直接回答了'iPod 哪一代开始提供 USB 兼容性'。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，答案 'third generation' 被支撑 chunk 直接确认。建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "bb4835c3-884e-4522-996d-79e4df0f9e60"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51c0db10-2bc8-4bf1-ab9c-49ccb80ed928",
+              "chunk_title": "Hardware Connectivity Standards",
+              "chunk_summary": "This chunk contains information about changes in hardware connectivity standards for consumer electronics.",
+              "context_title": "IPod",
+              "page_content": "Apple eventually began shipping iPods with USB cables instead of FireWire cables."
+            },
+            {
+              "chunk_id": "cfb2390d-9a49-43a0-b6f1-f05b6de6549a",
+              "chunk_title": "FireWire Connectivity Evolution",
+              "chunk_summary": "This chunk details the adoption, availability, and phased discontinuation of FireWire connectivity for data transfer and charging across various iPod generations in comparison to USB.",
+              "context_title": "IPod",
+              "page_content": "Most non-Apple machines did not have FireWire ports at the time of the third generation iPod. Apple discontinued using FireWire for data transfer in an attempt to reduce form factor. FireWire charging ability has been removed as of the second-generation iPod Touch. FireWire charging ability has been removed as of the fourth-generation iPod Nano. Apple still allowed the use of FireWire to charge the device after discontinuing FireWire for data transfer. Apple discontinued using FireWire for data transfer as of the first-generation iPod Nano. Apple discontinued using FireWire for data transfer in an attempt to reduce cost. FireWire cables were available separately when Apple began shipping iPods with USB cables. Apple discontinued using FireWire for data transfer as of the fifth-generation iPod Classic."
+            },
+            {
+              "chunk_id": "bb4835c3-884e-4522-996d-79e4df0f9e60",
+              "chunk_title": "iPod Hardware Connectors",
+              "chunk_summary": "This chunk details the evolution of hardware connectors in iPod models, specifically the capabilities of the 30-pin dock connector and the function of the 3.5 mm minijack across various generations.",
+              "context_title": "IPod",
+              "page_content": "The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a headphone jack. The second-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third generation iPod began including a 30-pin dock connector. The 30-pin dock connector provided better compatibility with non-Apple machines. The 30-pin dock connector allowed for USB connectivity. The 30-pin dock connector allowed for FireWire connectivity. The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a data port for the dock. The fourth-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third-generation iPod Shuffle uses a single 3.5 mm minijack phone connector."
+            },
+            {
+              "chunk_id": "f230a93b-af9a-4e3a-b491-24464b2a1cf9",
+              "chunk_title": "iPod Auto Integration",
+              "chunk_summary": "This chunk contains information about the history of early iPod integration in vehicles, specifically focusing on BMW's pioneering interface, Apple's subsequent plans to expand this technology to other car brands, and Scion's standard connectivity offerings.",
+              "context_title": "IPod",
+              "page_content": "The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz, Volvo, Nissan, Toyota, Alfa Romeo, Ferrari, Acura, Audi, Honda, Renault, Infiniti and Volkswagen. Scion offers standard iPod connectivity on all Scion cars. BMW released the first iPod automobile interface. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. Apple announced in 2005 that similar systems to the iPod automobile interface would be available for other vehicle brands."
+            },
+            {
+              "chunk_id": "79c29779-0208-41c9-b131-16fcf461a1d2",
+              "chunk_title": "iPod Nano Overview",
+              "chunk_summary": "This chunk contains information about the iPod Nano, a portable media player designed and marketed by Apple Inc., including its branding, characteristics, release history, technical specifications, and discontinuation.",
+              "context_title": "IPod Nano",
+              "page_content": "Apple Inc. discontinued the iPod Nano on July 27, 2017. The iPod Nano was marketed by Apple Inc. The first generation model of the iPod Nano was introduced on September 7, 2005. The first generation model of the iPod Nano used flash memory for storage. The iPod Nano went through several differing models, or generations, since its introduction. Apple Inc. cited lack of consumer interest in the iPod Nano resulting in poor sales as the reason for discontinuing the product. The iPod Nano is stylized and marketed as iPod nano. The iPod Nano was designed by Apple Inc. The iPod Nano is a portable media player. The first generation model of the iPod Nano was a replacement for the iPod Mini."
+            },
+            {
+              "chunk_id": "567a18a6-67de-4ffd-bfc8-535c4c71ff54",
+              "chunk_title": "iPod Auto Integration History",
+              "chunk_summary": "This chunk contains information about the history of iPod integration in automobiles, detailing BMW's pioneering interface, Apple's expansion to other vehicle brands, and Scion's standard connectivity.",
+              "context_title": "IPod",
+              "page_content": "The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. Apple announced in 2005 that similar systems to the iPod automobile interface would be available for other vehicle brands. Scion offers standard iPod connectivity on all Scion cars. BMW released the first iPod automobile interface. The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz, Volvo, Nissan, Toyota, Alfa Romeo, Ferrari, Acura, Audi, Honda, Renault, Infiniti and Volkswagen."
+            },
+            {
+              "chunk_id": "286b6ad1-817e-4522-a297-3faeabaf136f",
+              "chunk_title": "iPod Auto Integration History",
+              "chunk_summary": "This chunk contains information about the history of iPod integration in automobiles, detailing BMW's pioneering interface, Apple's expansion to other vehicle brands, and Scion's standard connectivity.",
+              "context_title": "IPod",
+              "page_content": "The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz. The vehicle brands for which Apple announced similar systems would be available include Honda. The vehicle brands for which Apple announced similar systems would be available include Volvo. The vehicle brands for which Apple announced similar systems would be available include Renault. The vehicle brands for which Apple announced similar systems would be available include Alfa Romeo. Scion offers standard iPod connectivity on all Scion cars. The vehicle brands for which Apple announced similar systems would be available include Acura. The vehicle brands for which Apple announced similar systems would be available include Audi. The vehicle brands for which Apple announced similar systems would be available include Infiniti. The vehicle brands for which Apple announced similar systems would be available include Toyota. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. The vehicle brands for which Apple announced similar systems would be available include Ferrari. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. The vehicle brands for which Apple announced similar systems would be available include Nissan. Apple announced in 2005 that similar systems to the iPod automobile interface would be available for other vehicle brands. BMW released the first iPod automobile interface. The vehicle brands for which Apple announced similar systems would be available include Volkswagen."
+            },
+            {
+              "chunk_id": "c102f709-eff8-41eb-8de9-df5701698e3f",
+              "chunk_title": "iPod Touch 5G Overview",
+              "chunk_summary": "This chunk contains information about the announcement, release timeline, marketing details, general classification, user interface, and software compatibility of the fifth generation iPod Touch.",
+              "context_title": "IPod Touch (5th generation)",
+              "page_content": "The fifth generation iPod Touch has a touchscreen-based user interface. The fifth generation iPod Touch was unveiled on September 12, 2012. The fifth generation iPod Touch is colloquially known as the iPod Touch 5G. The fifth generation iPod Touch was unveiled at Apple's media event. The fifth generation iPod Touch was designed by Apple Inc. The fifth generation iPod Touch is compatible with up to iOS 9.3.5. The fifth generation iPod Touch is colloquially known as the iPod Touch 5. The fifth generation iPod Touch is stylized and marketed as the iPod touch. The fifth generation iPod Touch succeeded the 4th generation iPod Touch. The fifth generation iPod Touch was released on October 11, 2012. The fifth generation iPod Touch was unveiled alongside the iPhone 5. The fifth generation iPod Touch was marketed by Apple Inc. The fifth generation iPod Touch is an all-purpose pocket computer."
+            },
+            {
+              "chunk_id": "4fdb59ac-1226-43ce-b1e3-21a8a4d5bd12",
+              "chunk_title": "Volume Limits",
+              "chunk_summary": "This chunk contains information about user-configurable safety features in electronic devices, specifically volume limits introduced to address hearing loss concerns.",
+              "context_title": "IPod",
+              "page_content": "Apple introduced the user-configurable volume limit in response to concerns about hearing loss. Users report that the maximum volume output level is limited to 100 dB in the sixth-generation iPod in EU markets. Apple introduced a user-configurable volume limit in the fifth-generation iPod."
+            },
+            {
+              "chunk_id": "99382154-33c6-42ac-aa7d-d71ac2bec3c4",
+              "chunk_title": "iPod Car Integration",
+              "chunk_summary": "This chunk contains information about the development and expansion of iPod integration in automobiles, starting with BMW's initial interface and extending to various other vehicle brands.",
+              "context_title": "IPod",
+              "page_content": "Apple announced in 2005 that similar systems to the BMW iPod interface would be available for other vehicle brands. The vehicle brands for which Apple announced similar systems would be available include Volkswagen. BMW released the first iPod automobile interface. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. The vehicle brands for which Apple announced similar systems would be available include Nissan. The vehicle brands for which Apple announced similar systems would be available include Acura. The vehicle brands for which Apple announced similar systems would be available include Infiniti. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. The vehicle brands for which Apple announced similar systems would be available include Renault. The vehicle brands for which Apple announced similar systems would be available include Audi. The vehicle brands for which Apple announced similar systems would be available include Alfa Romeo. Scion offers standard iPod connectivity on all Scion cars. The vehicle brands for which Apple announced similar systems would be available include Volvo. The vehicle brands for which Apple announced similar systems would be available include Honda. The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz. The vehicle brands for which Apple announced similar systems would be available include Toyota. The vehicle brands for which Apple announced similar systems would be available include Ferrari."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。推理链已完整：N1_1 识别标准化连接对象为 USB，N1_2 确定 iPod 第三代开始提供 USB 兼容性，聚合答案为 'third generation'",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，答案由子节点推理链合成。推理依据：N1_1 answer='USB'（识别出标准化连接对象）+ N1_2 answer='third generation'（确定 iPod 开始兼容 USB 的代际）。推理链完整：Q 询问'iPod 哪一代开始兼容[标准化连接对象]'→ N1_1 识别该对象为 USB → N1_2 确定 iPod 第三代开始提供 USB 兼容性 → 聚合答案为 'third generation'。",
+          "critic_normative_advice": "推理链完整，子节点证据充分，建议 INHERIT 保留。依赖边 N1_1→N1_2 语义有效（N1_1 的 answer 'USB' 消解了 N1_2 question 中的指代）。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the object designed to standardize connection of computer peripherals?",
+          "answer": "USB",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the object designed to standardize connection of computer peripherals?",
+          "planner_rationale": "Q 中指代性描述 'the object designed to standardize connection of computer peripherals' 的具体识别。KB 直接确认该对象为 USB（chunk 6d9bf546 原文匹配），证据充分，无需重搜",
+          "solver_judgment": "question 要求找出旨在标准化计算机外设连接的对象。search_query 直接搜索了该问题。chunks 返回了关于 USB 的信息，其中 chunk 6d9bf546-16a1-417c-8323-061cfcebabc1 明确记载 'USB was designed to standardize the connection of computer peripherals to personal computers'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 USB），单来源但直接、具体地陈述了答案。支撑 chunk 6d9bf546 原文明确记载 'USB was designed to standardize the connection of computer peripherals to personal computers'，与 question 的表述完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，答案 'USB' 被支撑 chunk 直接确认。建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "6d9bf546-16a1-417c-8323-061cfcebabc1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "6d9bf546-16a1-417c-8323-061cfcebabc1",
+              "chunk_title": "USB Purpose & Design",
+              "chunk_summary": "This chunk contains information about the purpose and design of USB as a standard for connecting, communicating with, and powering computer peripherals.",
+              "context_title": "USB",
+              "page_content": "USB was designed to allow computer peripherals to communicate with personal computers. USB was designed to standardize the connection of computer peripherals to personal computers. USB was designed to supply electric power to computer peripherals."
+            },
+            {
+              "chunk_id": "f981fe59-d445-4a7b-8aaa-d6e942eeb8ff",
+              "chunk_title": "USB Architecture & Topology",
+              "chunk_summary": "This chunk contains information about the asymmetrical, host-based design architecture and tiered-star topology of USB systems, including details on downstream ports, peripheral devices, hubs, host controllers, and connection limits.",
+              "context_title": "USB",
+              "page_content": "Up to 127 devices may be connected to a single host controller. The design architecture of USB consists of multiple peripheral devices connected in a tiered-star topology. The hub built into the host controller is the root hub. Each host controller may provide one or more USB ports. Hub devices are included in the count of up to 127 devices connected to a single host controller. The design architecture of USB is asymmetrical in its topology. Additional USB hubs may be included in the tiers of the USB design architecture. The design architecture of USB consists of a multitude of downstream USB ports. Additional USB hubs allow branching into a tree structure with up to five tier levels. USB devices are linked in series through hubs. The design architecture of USB consists of a host. One hub is built into the host controller. A USB host may implement multiple host controllers."
+            },
+            {
+              "chunk_id": "4198adc5-f51b-42fd-a044-96b81c3f5c47",
+              "chunk_title": "Computer Peripherals",
+              "chunk_summary": "This chunk contains information about various types of computer peripherals and their functions.",
+              "context_title": "USB",
+              "page_content": "Computer peripherals include keyboards, pointing devices, digital cameras, printers, portable media players, disk drives and network adapters."
+            },
+            {
+              "chunk_id": "ca2fafa8-12e6-4d8b-a696-177d316799c8",
+              "chunk_title": "USB Adoption & Replacement",
+              "chunk_summary": "This chunk contains information about the widespread adoption of USB connectivity across various electronic devices and its role in replacing older connection standards and power solutions.",
+              "context_title": "USB",
+              "page_content": "USB has effectively replaced parallel ports. USB has effectively replaced separate power chargers for portable devices. USB has become commonplace on video game consoles. USB has effectively replaced serial ports. USB has become commonplace on smartphones. USB has become commonplace on PDAs."
+            },
+            {
+              "chunk_id": "a0ceac2f-d690-4dc2-8e96-bb6db8ac53e0",
+              "chunk_title": "USB Connector Specifications",
+              "chunk_summary": "This chunk contains information about the technical specifications and physical design constraints for USB connectors, including tolerance standards to minimize vendor incompatibilities, size limits around the plug to address weaknesses in other standards, and potential port blocking issues caused by cable strain relief mechanisms.",
+              "context_title": "USB",
+              "page_content": "The cable strain relief mechanism is usually molding integral with the cable outer insulation. The USB specification defines limits to the size of a connecting device in the area around its plug. The USB standard specifies relatively loose tolerances for compliant USB connectors to minimize physical incompatibilities in connectors from different vendors. The USB specification defines limits to the size of a connecting device in the area around its plug to address a weakness present in some other connector standards. Compliant devices must fit within the size restrictions. A device may block adjacent ports due to the size of the cable strain relief mechanism at the connector. The limits to the size of a connecting device in the area around its plug were done to prevent a device from blocking adjacent ports due to the size of the cable strain relief mechanism at the connector. Compliant devices must support a compliant extension cable that fits within the size restrictions. The USB standard specifies relatively loose tolerances for compliant USB connectors."
+            },
+            {
+              "chunk_id": "a304dc72-a794-4f1b-a2cc-89cf01d259a5",
+              "chunk_title": "Dell Proprietary Hardware",
+              "chunk_summary": "This chunk contains information about Dell's use of proprietary hardware connectors and motherboard pin-outs, their impact on customer upgradeability, and the partial reversion to industry standards.",
+              "context_title": "Dell",
+              "page_content": "Customers wishing to upgrade their hardware would have to replace parts with scarce Dell-compatible parts instead of commonly available parts. In the 1990s, Dell used primarily ATX motherboards and PSU. Motherboard power connections reverted to the industry standard in 2003. In the 1990s, Dell switched to using boards and power supplies with mechanically identical but differently wired connectors. Dell continues to remain secretive about their motherboard pin-outs for peripherals."
+            },
+            {
+              "chunk_id": "d36e2243-48c7-457d-a7cf-9e3d95d1f075",
+              "chunk_title": "Network Standards & Protocols",
+              "chunk_summary": "This chunk contains information about standards and protocols for connecting network computers.",
+              "context_title": "Open Blueprint",
+              "page_content": "Open Blueprint provided a standard for connecting network computers."
+            },
+            {
+              "chunk_id": "bb4835c3-884e-4522-996d-79e4df0f9e60",
+              "chunk_title": "iPod Hardware Connectors",
+              "chunk_summary": "This chunk details the evolution of hardware connectors in iPod models, specifically the capabilities of the 30-pin dock connector and the function of the 3.5 mm minijack across various generations.",
+              "context_title": "IPod",
+              "page_content": "The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a headphone jack. The second-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third generation iPod began including a 30-pin dock connector. The 30-pin dock connector provided better compatibility with non-Apple machines. The 30-pin dock connector allowed for USB connectivity. The 30-pin dock connector allowed for FireWire connectivity. The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a data port for the dock. The fourth-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third-generation iPod Shuffle uses a single 3.5 mm minijack phone connector."
+            },
+            {
+              "chunk_id": "a922dd1e-ea30-4bec-b8e4-b1a0db72722b",
+              "chunk_title": "Computer Hardware & Peripherals",
+              "chunk_summary": "This chunk contains information about various types of computer peripherals and hardware components.",
+              "context_title": "Dell",
+              "page_content": "Peripherals include MMC readers, power on/off switches, and LEDs."
+            },
+            {
+              "chunk_id": "cad36be5-849c-424f-b803-c4c6f5c9995b",
+              "chunk_title": "Connector Standards Weaknesses",
+              "chunk_summary": "This chunk contains information about weaknesses present in various connector standards.",
+              "context_title": "USB",
+              "page_content": "A weakness is present in some other connector standards."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which generation did iPod start providing compatibility with USB?",
+          "answer": "third generation",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "iPod generation that first supported USB",
+          "planner_rationale": "Q 的核心询问——iPod 哪一代开始兼容 USB。KB 直接确认第三代 iPod 开始包含 30-pin dock connector 并支持 USB 连接（chunk bb4835c3），证据充分，无需重搜",
+          "solver_judgment": "question 要求确认 iPod 开始提供 USB 兼容性的具体代际。search_query 搜索了 'iPod generation that first supported USB'。chunks 返回了关于 iPod 硬件连接器演进的信息，其中 chunk bb4835c3-884e-4522-996d-79e4df0f9e60 明确指出 'The third generation iPod began including a 30-pin dock connector... The 30-pin dock connector allowed for USB connectivity.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 IPod），单来源但直接、具体地陈述了答案。支撑 chunk bb4835c3 原文明确记载 'The third generation iPod began including a 30-pin dock connector... The 30-pin dock connector allowed for USB connectivity.'，直接回答了'iPod 哪一代开始提供 USB 兼容性'。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "证据充分，答案 'third generation' 被支撑 chunk 直接确认。建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "bb4835c3-884e-4522-996d-79e4df0f9e60"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51c0db10-2bc8-4bf1-ab9c-49ccb80ed928",
+              "chunk_title": "Hardware Connectivity Standards",
+              "chunk_summary": "This chunk contains information about changes in hardware connectivity standards for consumer electronics.",
+              "context_title": "IPod",
+              "page_content": "Apple eventually began shipping iPods with USB cables instead of FireWire cables."
+            },
+            {
+              "chunk_id": "cfb2390d-9a49-43a0-b6f1-f05b6de6549a",
+              "chunk_title": "FireWire Connectivity Evolution",
+              "chunk_summary": "This chunk details the adoption, availability, and phased discontinuation of FireWire connectivity for data transfer and charging across various iPod generations in comparison to USB.",
+              "context_title": "IPod",
+              "page_content": "Most non-Apple machines did not have FireWire ports at the time of the third generation iPod. Apple discontinued using FireWire for data transfer in an attempt to reduce form factor. FireWire charging ability has been removed as of the second-generation iPod Touch. FireWire charging ability has been removed as of the fourth-generation iPod Nano. Apple still allowed the use of FireWire to charge the device after discontinuing FireWire for data transfer. Apple discontinued using FireWire for data transfer as of the first-generation iPod Nano. Apple discontinued using FireWire for data transfer in an attempt to reduce cost. FireWire cables were available separately when Apple began shipping iPods with USB cables. Apple discontinued using FireWire for data transfer as of the fifth-generation iPod Classic."
+            },
+            {
+              "chunk_id": "bb4835c3-884e-4522-996d-79e4df0f9e60",
+              "chunk_title": "iPod Hardware Connectors",
+              "chunk_summary": "This chunk details the evolution of hardware connectors in iPod models, specifically the capabilities of the 30-pin dock connector and the function of the 3.5 mm minijack across various generations.",
+              "context_title": "IPod",
+              "page_content": "The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a headphone jack. The second-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third generation iPod began including a 30-pin dock connector. The 30-pin dock connector provided better compatibility with non-Apple machines. The 30-pin dock connector allowed for USB connectivity. The 30-pin dock connector allowed for FireWire connectivity. The single 3.5 mm minijack phone connector on the iPod Shuffle acts as a data port for the dock. The fourth-generation iPod Shuffle uses a single 3.5 mm minijack phone connector. The third-generation iPod Shuffle uses a single 3.5 mm minijack phone connector."
+            },
+            {
+              "chunk_id": "f230a93b-af9a-4e3a-b491-24464b2a1cf9",
+              "chunk_title": "iPod Auto Integration",
+              "chunk_summary": "This chunk contains information about the history of early iPod integration in vehicles, specifically focusing on BMW's pioneering interface, Apple's subsequent plans to expand this technology to other car brands, and Scion's standard connectivity offerings.",
+              "context_title": "IPod",
+              "page_content": "The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz, Volvo, Nissan, Toyota, Alfa Romeo, Ferrari, Acura, Audi, Honda, Renault, Infiniti and Volkswagen. Scion offers standard iPod connectivity on all Scion cars. BMW released the first iPod automobile interface. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. Apple announced in 2005 that similar systems to the iPod automobile interface would be available for other vehicle brands."
+            },
+            {
+              "chunk_id": "79c29779-0208-41c9-b131-16fcf461a1d2",
+              "chunk_title": "iPod Nano Overview",
+              "chunk_summary": "This chunk contains information about the iPod Nano, a portable media player designed and marketed by Apple Inc., including its branding, characteristics, release history, technical specifications, and discontinuation.",
+              "context_title": "IPod Nano",
+              "page_content": "Apple Inc. discontinued the iPod Nano on July 27, 2017. The iPod Nano was marketed by Apple Inc. The first generation model of the iPod Nano was introduced on September 7, 2005. The first generation model of the iPod Nano used flash memory for storage. The iPod Nano went through several differing models, or generations, since its introduction. Apple Inc. cited lack of consumer interest in the iPod Nano resulting in poor sales as the reason for discontinuing the product. The iPod Nano is stylized and marketed as iPod nano. The iPod Nano was designed by Apple Inc. The iPod Nano is a portable media player. The first generation model of the iPod Nano was a replacement for the iPod Mini."
+            },
+            {
+              "chunk_id": "567a18a6-67de-4ffd-bfc8-535c4c71ff54",
+              "chunk_title": "iPod Auto Integration History",
+              "chunk_summary": "This chunk contains information about the history of iPod integration in automobiles, detailing BMW's pioneering interface, Apple's expansion to other vehicle brands, and Scion's standard connectivity.",
+              "context_title": "IPod",
+              "page_content": "The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. Apple announced in 2005 that similar systems to the iPod automobile interface would be available for other vehicle brands. Scion offers standard iPod connectivity on all Scion cars. BMW released the first iPod automobile interface. The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz, Volvo, Nissan, Toyota, Alfa Romeo, Ferrari, Acura, Audi, Honda, Renault, Infiniti and Volkswagen."
+            },
+            {
+              "chunk_id": "286b6ad1-817e-4522-a297-3faeabaf136f",
+              "chunk_title": "iPod Auto Integration History",
+              "chunk_summary": "This chunk contains information about the history of iPod integration in automobiles, detailing BMW's pioneering interface, Apple's expansion to other vehicle brands, and Scion's standard connectivity.",
+              "context_title": "IPod",
+              "page_content": "The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz. The vehicle brands for which Apple announced similar systems would be available include Honda. The vehicle brands for which Apple announced similar systems would be available include Volvo. The vehicle brands for which Apple announced similar systems would be available include Renault. The vehicle brands for which Apple announced similar systems would be available include Alfa Romeo. Scion offers standard iPod connectivity on all Scion cars. The vehicle brands for which Apple announced similar systems would be available include Acura. The vehicle brands for which Apple announced similar systems would be available include Audi. The vehicle brands for which Apple announced similar systems would be available include Infiniti. The vehicle brands for which Apple announced similar systems would be available include Toyota. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. The vehicle brands for which Apple announced similar systems would be available include Ferrari. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. The vehicle brands for which Apple announced similar systems would be available include Nissan. Apple announced in 2005 that similar systems to the iPod automobile interface would be available for other vehicle brands. BMW released the first iPod automobile interface. The vehicle brands for which Apple announced similar systems would be available include Volkswagen."
+            },
+            {
+              "chunk_id": "c102f709-eff8-41eb-8de9-df5701698e3f",
+              "chunk_title": "iPod Touch 5G Overview",
+              "chunk_summary": "This chunk contains information about the announcement, release timeline, marketing details, general classification, user interface, and software compatibility of the fifth generation iPod Touch.",
+              "context_title": "IPod Touch (5th generation)",
+              "page_content": "The fifth generation iPod Touch has a touchscreen-based user interface. The fifth generation iPod Touch was unveiled on September 12, 2012. The fifth generation iPod Touch is colloquially known as the iPod Touch 5G. The fifth generation iPod Touch was unveiled at Apple's media event. The fifth generation iPod Touch was designed by Apple Inc. The fifth generation iPod Touch is compatible with up to iOS 9.3.5. The fifth generation iPod Touch is colloquially known as the iPod Touch 5. The fifth generation iPod Touch is stylized and marketed as the iPod touch. The fifth generation iPod Touch succeeded the 4th generation iPod Touch. The fifth generation iPod Touch was released on October 11, 2012. The fifth generation iPod Touch was unveiled alongside the iPhone 5. The fifth generation iPod Touch was marketed by Apple Inc. The fifth generation iPod Touch is an all-purpose pocket computer."
+            },
+            {
+              "chunk_id": "4fdb59ac-1226-43ce-b1e3-21a8a4d5bd12",
+              "chunk_title": "Volume Limits",
+              "chunk_summary": "This chunk contains information about user-configurable safety features in electronic devices, specifically volume limits introduced to address hearing loss concerns.",
+              "context_title": "IPod",
+              "page_content": "Apple introduced the user-configurable volume limit in response to concerns about hearing loss. Users report that the maximum volume output level is limited to 100 dB in the sixth-generation iPod in EU markets. Apple introduced a user-configurable volume limit in the fifth-generation iPod."
+            },
+            {
+              "chunk_id": "99382154-33c6-42ac-aa7d-d71ac2bec3c4",
+              "chunk_title": "iPod Car Integration",
+              "chunk_summary": "This chunk contains information about the development and expansion of iPod integration in automobiles, starting with BMW's initial interface and extending to various other vehicle brands.",
+              "context_title": "IPod",
+              "page_content": "Apple announced in 2005 that similar systems to the BMW iPod interface would be available for other vehicle brands. The vehicle brands for which Apple announced similar systems would be available include Volkswagen. BMW released the first iPod automobile interface. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the radio head-unit buttons. The vehicle brands for which Apple announced similar systems would be available include Nissan. The vehicle brands for which Apple announced similar systems would be available include Acura. The vehicle brands for which Apple announced similar systems would be available include Infiniti. The first iPod automobile interface allowed drivers of newer BMW vehicles to control an iPod using the built-in steering wheel controls. The vehicle brands for which Apple announced similar systems would be available include Renault. The vehicle brands for which Apple announced similar systems would be available include Audi. The vehicle brands for which Apple announced similar systems would be available include Alfa Romeo. Scion offers standard iPod connectivity on all Scion cars. The vehicle brands for which Apple announced similar systems would be available include Volvo. The vehicle brands for which Apple announced similar systems would be available include Honda. The vehicle brands for which Apple announced similar systems would be available include Mercedes-Benz. The vehicle brands for which Apple announced similar systems would be available include Toyota. The vehicle brands for which Apple announced similar systems would be available include Ferrari."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the object designed to standardize connection of computer peripherals?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "6d9bf546-16a1-417c-8323-061cfcebabc1",
+        "f981fe59-d445-4a7b-8aaa-d6e942eeb8ff",
+        "4198adc5-f51b-42fd-a044-96b81c3f5c47",
+        "ca2fafa8-12e6-4d8b-a696-177d316799c8",
+        "a0ceac2f-d690-4dc2-8e96-bb6db8ac53e0",
+        "a304dc72-a794-4f1b-a2cc-89cf01d259a5",
+        "d36e2243-48c7-457d-a7cf-9e3d95d1f075",
+        "bb4835c3-884e-4522-996d-79e4df0f9e60",
+        "a922dd1e-ea30-4bec-b8e4-b1a0db72722b",
+        "cad36be5-849c-424f-b803-c4c6f5c9995b"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "iPod generation that first supported USB",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "51c0db10-2bc8-4bf1-ab9c-49ccb80ed928",
+        "cfb2390d-9a49-43a0-b6f1-f05b6de6549a",
+        "bb4835c3-884e-4522-996d-79e4df0f9e60",
+        "f230a93b-af9a-4e3a-b491-24464b2a1cf9",
+        "79c29779-0208-41c9-b131-16fcf461a1d2",
+        "567a18a6-67de-4ffd-bfc8-535c4c71ff54",
+        "286b6ad1-817e-4522-a297-3faeabaf136f",
+        "c102f709-eff8-41eb-8de9-df5701698e3f",
+        "4fdb59ac-1226-43ce-b1e3-21a8a4d5bd12",
+        "99382154-33c6-42ac-aa7d-d71ac2bec3c4"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the object designed to standardize connection of computer peripherals?（理由：Q 中使用了指代性描述 'the object designed to standardize connection of computer peripherals'，需先识别该对象的具体名称，才能进行后续搜索），F2: In which generation did iPod start providing compatibility with USB?（理由：Q 的核心询问——iPod 哪一代开始兼容该标准化连接对象，这是 Q 的最终答案）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的 question 中 'USB' 需要用 F1 的 answer 来确认和消解，确保搜索的是正确的连接标准）",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question='What is the object designed to standardize connection of computer peripherals?'，rationale='识别 Q 中指代性描述的具体对象'），$2（question='In which generation did iPod start providing compatibility with USB?'，rationale='确定 iPod 兼容该对象的代际'）。新增边: N0→$1（decomposition，$1 是 Q 的语义分解），N0→$2（decomposition，$2 是 Q 的语义分解），$1→$2（dependency，$2 的搜索需要 $1 的 answer 来确认连接标准的具体名称）",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①（所有非根节点已 SOLVED）通过；条件②（推理链语义匹配）通过——N1_1 answer='USB' 语义上消解了 N1_2 question 中的指代，N0→N1_1→N1_2 和 N0→N1_2 两条路径的所有 dependency 步骤均有效；条件③（全部节点 healthy）通过——N0、N1_1、N1_2 的 critic_health 均为 healthy；条件"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the object designed to standardize connection of computer peripherals?（理由：Q 中使用了指代性描述，需先识别该对象的具体名称），F2: In which generation did iPod start providing compatibility with USB?（理由：Q 的核心询问——确定 iPod 兼容该对象的代际）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的搜索需要 F1 的 answer 'USB' 来消解 Q 中的指代性描述）。当前 DAG 已完全覆盖 Q 的语义需求，两个子事实均已 SOLVED + healthy，推理链完整。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 INHERIT 保留，所有边保持不变。原因：Critic 确认 DAG 结构简洁有效，已逼近理想分解结构。N1_1（answer='USB'）和 N1_2（answer='third generation'）均已 SOLVED + healthy，证据直接且无歧义，推理链完整可合成 Q 的最终答案。无需新增、删除或换标任何节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件②和③已通过：推理链语义完整（N1_1 answer='USB' 消解 N1_2 question 中的指代，所有 dependency 步骤语义有效），全部节点 healthy。但条件④尚未完全满足——§5 明确指出'条件④要求连续 2 轮拓扑快照相同'，本轮是首次出现拓扑不变（上一轮有变化），需下一轮确认拓扑继续不变后条件④才算通过。当前阻碍条件：条件④待下一轮确认。"
+      }
+    }
+  ]
+}

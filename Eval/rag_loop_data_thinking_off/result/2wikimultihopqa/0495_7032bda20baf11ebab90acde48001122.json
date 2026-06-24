@@ -1,0 +1,288 @@
+{
+  "question_index": 495,
+  "question_id": "7032bda20baf11ebab90acde48001122",
+  "question": "Who is Louis Armand I, Prince Of Conti's father?",
+  "answer": "Armand de Bourbon, Prince of Conti",
+  "prediction": "Armand de Bourbon",
+  "error": null,
+  "latency_ms": 95928.48150001373,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T23:00:31.821814+00:00",
+  "chunks": [
+    {
+      "chunk_id": "a2749357-f621-4547-ba1d-7a585e1617d2",
+      "chunk_title": "Bourbon Nobility & Succession",
+      "chunk_summary": "This chunk contains information about the titles, succession, lineage, and namesakes of historical nobility, specifically focusing on members of the House of Bourbon.",
+      "context_title": "Louis Armand I, Prince of Conti",
+      "page_content": "Louis Armand de Bourbon succeeded his father, Armand de Bourbon, as Prince of Conti. Louis Armand de Bourbon was a Prince du Sang. King Louis XIV of France was the namesake of Louis Armand de Bourbon. Louis Armand de Bourbon was Prince of Conti from 1666 to his death. Louis Armand de Bourbon was a member of the reigning House of Bourbon."
+    },
+    {
+      "chunk_id": "10142b45-fa7c-4d52-818f-e20ac27cb165",
+      "chunk_title": "French Nobility & Officials",
+      "chunk_summary": "This chunk contains information about historical political figures and nobility in France, including their titles, roles, relationships, and personal characteristics during the reign of Louis XIV.",
+      "context_title": "Anne Marie Martinozzi",
+      "page_content": "Cardinal Mazarin was the chief minister of King Louis XIV of France. François Louis, Prince of Conti, was known as \"le Grand Conti\". François Louis, Prince of Conti, was a libertine. Armand de Bourbon was the Prince of Conti."
+    },
+    {
+      "chunk_id": "edb657df-b3e3-4da0-86aa-46d19fa3b33b",
+      "chunk_title": "Family & Lineage",
+      "chunk_summary": "This chunk contains information about familial relationships and lineage, specifically detailing the parents, grandparents, and extended family connections of individuals.",
+      "context_title": "Louis Armand I, Prince of Conti",
+      "page_content": "Laura Margherita Mazzarini was the elder sister of Cardinal Mazarin. Anne Marie Martinozzi was the mother of Louis Armand de Bourbon. Anne Marie Martinozzi was the daughter of Girolamo Martinozzi. Anne Marie Martinozzi was the daughter of Laura Margherita Mazzarini. Armand de Bourbon was the father of Louis Armand de Bourbon. Louis Armand de Bourbon was a son-in-law of King Louis XIV of France."
+    },
+    {
+      "chunk_id": "85a82901-2f9b-4fb5-87b5-411ecafa4692",
+      "chunk_title": "Prince Jean's Identity & Lineage",
+      "chunk_summary": "This chunk contains information about the full name and family relationships of Prince Jean of Orléans.",
+      "context_title": "Prince Jean, Duke of Guise",
+      "page_content": "Prince Jean of Orléans's full name was Jean Pierre Clément Marie. Prince Jean of Orléans was a great-grandson of Louis Philippe I. Prince Jean of Orléans was the youngest child of Prince Robert, Duke of Chartres. The mother of Prince Jean of Orléans was Françoise of Orléans. Prince Jean of Orléans was a grandson of Prince Ferdinand Philippe. Françoise of Orléans was the daughter of François, Prince of Joinville. Prince Jean of Orléans was the third son of Prince Robert, Duke of Chartres."
+    },
+    {
+      "chunk_id": "0cc25548-e66d-437e-8fd3-928d476b6b3e",
+      "chunk_title": "Lineage & Family",
+      "chunk_summary": "This chunk contains information about the lineage, parents, children, and marriage details of historical figures, specifically focusing on George I and his immediate family.",
+      "context_title": "George I, Landgrave of Hesse-Darmstadt",
+      "page_content": "Louis was the son of George I. George I and Eleonore of Württemberg had 1 child. George I was the son of Christine of Saxony. George I was the fourth son of Philip I the Magnanimous of Hesse. George I married Eleonore of Württemberg on 25 May 1589. George I married Magdalene of Lippe on 17 August 1572. George I and Magdalene of Lippe had 10 children."
+    },
+    {
+      "chunk_id": "6ee3af6e-6fad-43a5-af1e-ce03a966cf1e",
+      "chunk_title": "Noble Lineage & Family",
+      "chunk_summary": "This chunk contains information about the lineage and family relationships of historical figures, specifically within noble houses.",
+      "context_title": "James I, Count of La Marche",
+      "page_content": "Louis I was Duke of Bourbon. James I of Bourbon was the son of Louis I, Duke of Bourbon. James I of Bourbon was the son of Mary of Avesnes."
+    },
+    {
+      "chunk_id": "1f6c3a3d-a28d-481c-b76e-09ae1da0bf53",
+      "chunk_title": "Noble Titles & Roles",
+      "chunk_summary": "This chunk contains information about the noble titles held by Margaret I and the Counts of Flanders.",
+      "context_title": "Margaret I, Countess of Burgundy",
+      "page_content": "Margaret I was countess of Rethel by marriage to Louis I, Count of Flanders. Louis II was Count of Flanders. Louis I was Count of Flanders. Margaret I was countess of Flanders by marriage to Louis I, Count of Flanders. Margaret I was countess of Nevers by marriage to Louis I, Count of Flanders."
+    },
+    {
+      "chunk_id": "02332909-75bb-499e-aa63-df372bc5643c",
+      "chunk_title": "Peter I of Bourbon",
+      "chunk_summary": "This chunk contains information about the titles, succession, reign dates, and family lineage of historical nobility, specifically regarding Peter I of Bourbon.",
+      "context_title": "Peter I, Duke of Bourbon",
+      "page_content": "Peter I of Bourbon was Duke of Bourbon from 1342 to his death. Peter I of Bourbon was the second Duke of Bourbon. Peter I of Bourbon was the son of Louis I of Bourbon. Peter I of Bourbon succeeded Louis I of Bourbon as Grand Chamberlain of France."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.75,
+  "precision": 1.0,
+  "recall": 0.6,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.375,
+  "retrieval_count": 1,
+  "total_chunks": 8,
+  "total_distinct_titles": 7,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 2,
+  "dag_edges": 1,
+  "dag_snapshots": [
+    {
+      "q": "Who is Louis Armand I, Prince Of Conti's father?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is Louis Armand I, Prince Of Conti's father?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Louis Armand I, Prince Of Conti 的父亲是谁",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点 N1_1 的推理链完整性。N1_1 已提供明确答案且证据充分，因此 ROOT 节点的推理基础稳固。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 已解决核心问题，证据充分，可直接基于 N1_1 的答案生成最终回答。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the father of Louis Armand I, Prince of Conti?",
+          "answer": "Armand de Bourbon",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the father of Louis Armand I, Prince of Conti?",
+          "planner_rationale": "直接回答 Q 的核心问题。虽然与 Q 字面相同，但作为子节点，它将触发具体的 KB 搜索以获取父亲的身份信息。这是分解 Q 的第一步：确定目标人物的父系亲属。",
+          "solver_judgment": "question 要求找出 Louis Armand I, Prince of Conti 的父亲。search_query 直接搜索了该问题。chunks 返回了关于 Louis Armand de Bourbon（即 Louis Armand I）的家族信息。chunk a2749357-f621-4547-ba1d-7a585e1617d2 明确指出 \"Louis Armand de Bourbon succeeded his father, Armand de Bourbon, as Prince of Conti\"。chunk edb657df-b3e3-4da0-86aa-46d19fa3b33b 也确认 \"Armand de Bourbon was the father of Louis Armand de Bourbon\"。检索精准命中目标信息，答案明确。",
+          "critic_factual_notes": "2 个独立来源（文档 'Louis Armand I, Prince of Conti' 下的不同 chunk）一致支持答案 'Armand de Bourbon'。Chunk a2749357 明确指出 'succeeded his father, Armand de Bourbon'；Chunk edb657df 明确陈述 'Armand de Bourbon was the father of Louis Armand de Bourbon'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，无需进一步搜索或验证。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who is Louis Armand I, Prince Of Conti's father?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is Louis Armand I, Prince Of Conti's father?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已提供明确且证据充分的答案，推理链完整。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点 N1_1 的推理链完整性。N1_1 已提供明确答案 'Armand de Bourbon' 且证据充分（2个独立来源一致），因此 ROOT 节点的推理基础稳固，可合成最终答案。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 已解决核心问题，证据充分，可直接基于 N1_1 的答案生成最终回答。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the father of Louis Armand I, Prince of Conti?",
+          "answer": "Armand de Bourbon",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the father of Louis Armand I, Prince of Conti?",
+          "planner_rationale": "核心事实已确立。两个独立来源一致确认 Armand de Bourbon 为 Louis Armand I, Prince of Conti 的父亲，Critic 判定为 healthy，无需进一步搜索。",
+          "solver_judgment": "question 要求找出 Louis Armand I, Prince of Conti 的父亲。search_query 直接搜索了该问题。chunks 返回了关于 Louis Armand de Bourbon（即 Louis Armand I）的家族信息。chunk a2749357-f621-4547-ba1d-7a585e1617d2 明确指出 \"Louis Armand de Bourbon succeeded his father, Armand de Bourbon, as Prince of Conti\"。chunk edb657df-b3e3-4da0-86aa-46d19fa3b33b 也确认 \"Armand de Bourbon was the father of Louis Armand de Bourbon\"。检索精准命中目标信息，答案明确。",
+          "critic_factual_notes": "2 个独立来源（文档 'Louis Armand I, Prince of Conti' 下的不同 chunk a2749357 和 edb657df）一致支持答案 'Armand de Bourbon'。Chunk a2749357 明确指出 'succeeded his father, Armand de Bourbon'；Chunk edb657df 明确陈述 'Armand de Bourbon was the father of Louis Armand de Bourbon'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，无需进一步搜索或验证。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who is Louis Armand I, Prince Of Conti's father?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is Louis Armand I, Prince Of Conti's father?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已提供明确且证据充分的答案，推理链完整，可直接合成最终回答。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点 N1_1 的推理链完整性。N1_1 已提供明确答案 'Armand de Bourbon' 且证据充分（2个独立来源一致），因此 ROOT 节点的推理基础稳固，可合成最终答案。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 已解决核心问题，证据充分，可直接基于 N1_1 的答案生成最终回答。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the father of Louis Armand I, Prince of Conti?",
+          "answer": "Armand de Bourbon",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the father of Louis Armand I, Prince of Conti?",
+          "planner_rationale": "核心事实已确立。两个独立来源一致确认 Armand de Bourbon 为 Louis Armand I, Prince of Conti 的父亲，Critic 判定为 healthy，无需进一步搜索。",
+          "solver_judgment": "question 要求找出 Louis Armand I, Prince of Conti 的父亲。search_query 直接搜索了该问题。chunks 返回了关于 Louis Armand de Bourbon（即 Louis Armand I）的家族信息。chunk a2749357-f621-4547-ba1d-7a585e1617d2 明确指出 \"Louis Armand de Bourbon succeeded his father, Armand de Bourbon, as Prince of Conti\"。chunk edb657df-b3e3-4da0-86aa-46d19fa3b33b 也确认 \"Armand de Bourbon was the father of Louis Armand de Bourbon\"。检索精准命中目标信息，答案明确。",
+          "critic_factual_notes": "2 个独立来源（文档 'Louis Armand I, Prince of Conti' 下的不同 chunk a2749357 和 edb657df）一致支持答案 'Armand de Bourbon'。Chunk a2749357 明确指出 'succeeded his father, Armand de Bourbon'；Chunk edb657df 明确陈述 'Armand de Bourbon was the father of Louis Armand de Bourbon'。证据直接、具体且无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，无需进一步搜索或验证。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the father of Louis Armand I, Prince of Conti?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "a2749357-f621-4547-ba1d-7a585e1617d2",
+        "10142b45-fa7c-4d52-818f-e20ac27cb165",
+        "edb657df-b3e3-4da0-86aa-46d19fa3b33b",
+        "85a82901-2f9b-4fb5-87b5-411ecafa4692",
+        "0cc25548-e66d-437e-8fd3-928d476b6b3e",
+        "6ee3af6e-6fad-43a5-af1e-ce03a966cf1e",
+        "1f6c3a3d-a28d-481c-b76e-09ae1da0bf53",
+        "02332909-75bb-499e-aa63-df372bc5643c"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the father of Louis Armand I, Prince of Conti?（理由：这是 Q 的直接语义需求，需要通过搜索 KB 找到具体的人名）。关系: F1 是 Q 的分解产物（decomposition），因为 F1 的答案将直接构成 Q 的答案。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始 DAG 结构为：根节点 N0 分解出一个子节点 $1，该子节点直接针对 Q 的核心问题进行探测。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义有效（N1_1 直接回答 Q 的核心问题，证据确凿）；③ 所有节点（N0, N1_1）均为 healthy；④ 首轮无拓扑变化冲突。答案 'Armand de Bourbon' 由两个独立 chunk 交叉验证，置信度高。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the father of Louis Armand I, Prince of Conti?（理由：这是 Q 的直接语义需求）。关系: F1 是 Q 的分解产物（decomposition），F1 的答案直接构成 Q 的答案。当前 DAG 中 N1_1 已完美覆盖 F1，且状态为 solved + healthy，结构已收敛。",
+      "hypothesis_delta": "本轮无结构调整。原因：上一轮初始化的唯一子节点 N1_1 已成功求解并获得 Critic 的 healthy 评价，证据充分且无矛盾。Q 的语义需求已被完全覆盖，无需新增、删除或修改任何节点或边。保持现状以结束搜索过程。修正：显式声明保留 N0→N1_1 的 decomposition 边，以满足系统一致性检查要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N1_1 答案直接回答 Q）；③所有节点（N0, N1_1）均为 healthy；④拓扑连续两轮无变化。置信度高，可终止搜索并生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the father of Louis Armand I, Prince of Conti?（理由：这是 Q 的直接语义需求）。关系: F1 是 Q 的分解产物（decomposition），F1 的答案直接构成 Q 的答案。当前 DAG 中 N1_1 已完美覆盖 F1，且状态为 solved + healthy，结构已收敛。",
+      "hypothesis_delta": "本轮无结构调整。原因：上一轮初始化的唯一子节点 N1_1 已成功求解并获得 Critic 的 healthy 评价，证据充分且无矛盾。Q 的语义需求已被完全覆盖，无需新增、删除或修改任何节点或边。保持现状以结束搜索过程。显式声明保留 N0→N1_1 的 decomposition 边，以满足系统一致性检查要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 答案直接回答 Q）；③ 所有节点（N0, N1_1）均为 healthy；④ 拓扑连续两轮无变化（由控制循环确认，此处仅见本轮通过，但结合 Planner 声明及前轮历史隐含收敛）。答案置信度高：2 个独立来源一致确认 Armand de Bourbon 为父亲。"
+      }
+    }
+  ]
+}

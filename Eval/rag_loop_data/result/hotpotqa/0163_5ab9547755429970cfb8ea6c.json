@@ -1,0 +1,456 @@
+{
+  "question_index": 163,
+  "question_id": "5ab9547755429970cfb8ea6c",
+  "question": "St Dionis Backchurch was rebuilt after a major conflagration that consumed how many parish churches?",
+  "answer": "87",
+  "prediction": "87",
+  "error": null,
+  "latency_ms": 165513.0631999964,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T08:45:49.966285+00:00",
+  "chunks": [
+    {
+      "chunk_id": "95603ac6-49a8-44f3-a1ac-ad208545bf6a",
+      "chunk_title": "St Dionis Backchurch History",
+      "chunk_summary": "This chunk contains historical details about St Dionis Backchurch, including its location, medieval origins, reconstruction by Christopher Wren after the Great Fire of London, and eventual demolition.",
+      "context_title": "St Dionis Backchurch",
+      "page_content": "St Dionis Backchurch was rebuilt to the designs of Christopher Wren. St Dionis Backchurch was a parish church. St Dionis Backchurch was in the Langbourn ward. St Dionis Backchurch was rebuilt after the Great Fire of London. St Dionis Backchurch was of medieval origin. St Dionis Backchurch was demolished in 1878."
+    },
+    {
+      "chunk_id": "9df21c9d-16ec-4c68-8b42-84f78826daf3",
+      "chunk_title": "London Church History",
+      "chunk_summary": "This chunk contains information about the destruction and subsequent demolition of parish churches in London due to historical events and demographic changes.",
+      "context_title": "List of Christopher Wren churches in London",
+      "page_content": "Eighty-eight parish churches were burned during the Great Fire of London in 1666. Many of the churches rebuilt by the office of Christopher Wren were demolished as the population of the City of London declined in the 19th century."
+    },
+    {
+      "chunk_id": "39e18203-0068-4220-ac29-2ba4a221d78c",
+      "chunk_title": "Wren's Architectural Projects",
+      "chunk_summary": "This chunk contains information about the architectural projects undertaken by Christopher Wren's office, specifically the rebuilding of parish churches and St Paul's Cathedral, as well as their subsequent damage or destruction during the Blitz.",
+      "context_title": "List of Christopher Wren churches in London",
+      "page_content": "More of the churches rebuilt by the office of Christopher Wren were destroyed or damaged during the Blitz. The office of Christopher Wren rebuilt St Paul's Cathedral. The office of Christopher Wren rebuilt 51 parish churches."
+    },
+    {
+      "chunk_id": "7a081116-5133-4e90-9d88-e0aab4595d36",
+      "chunk_title": "Building Heritage & Functions",
+      "chunk_summary": "This chunk contains information about the classification, function, and heritage status of specific buildings, such as church halls.",
+      "context_title": "St Dionis Mission Hall",
+      "page_content": "St Dionis Mission Hall is a church hall. St Dionis Mission Hall is Grade II listed."
+    },
+    {
+      "chunk_id": "67d52605-a795-471d-b5e2-18aba9d46449",
+      "chunk_title": "Building Listing Status",
+      "chunk_summary": "This chunk contains information about the listing status and classification of buildings.",
+      "context_title": "St Dionis Vicarage",
+      "page_content": "St Dionis Vicarage is a Grade II listed vicarage."
+    },
+    {
+      "chunk_id": "438ba2d6-d1bf-4f60-913d-1ad4cabb1155",
+      "chunk_title": "Great Fire of London",
+      "chunk_summary": "This chunk contains information about the Great Fire of London, including its timeline, location, and impact on specific areas and structures.",
+      "context_title": "Great Fire of London",
+      "page_content": "The medieval City of London was inside the old Roman city wall. The Great Fire of London did not reach most of the suburban slums. The Great Fire of London consumed most of the buildings of the City authorities. The Great Fire of London threatened Charles II's Palace of Whitehall. The Great Fire of London threatened most of the suburban slums. The Great Fire of London consumed St Paul's Cathedral. The Great Fire of London occurred from Sunday, 2 September to Wednesday, 5 September 1666. The Great Fire of London did not reach Charles II's Palace of Whitehall. The Great Fire of London swept through the central parts of the English city of London. The Great Fire of London threatened the aristocratic district of Westminster. The Great Fire of London consumed 87 parish churches. It is estimated that the Great Fire of London destroyed the homes of 70,000 inhabitants. The Great Fire of London gutted the medieval City of London. The Great Fire of London consumed 13,200 houses. The Great Fire of London was a major conflagration. The Great Fire of London did not reach the aristocratic district of Westminster. The City of London had 80,000 inhabitants."
+    },
+    {
+      "chunk_id": "3725aeb3-d9da-4f2b-b187-20e1be95efae",
+      "chunk_title": "Construction Dates",
+      "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+      "context_title": "St Dionis Vicarage",
+      "page_content": "St Dionis Vicarage was built in 1898-99."
+    },
+    {
+      "chunk_id": "dd0891c3-4018-4679-b480-0d37f36f990c",
+      "chunk_title": "Architecture & Construction",
+      "chunk_summary": "This chunk contains information about the architectural design and construction of buildings.",
+      "context_title": "St Dionis Vicarage",
+      "page_content": "St Dionis Vicarage was built to a design by William White."
+    },
+    {
+      "chunk_id": "52860174-9adc-49f9-81ce-807704eba0fc",
+      "chunk_title": "Location & Address",
+      "chunk_summary": "This chunk contains information about the location and address of a specific building or facility.",
+      "context_title": "St Dionis Mission Hall",
+      "page_content": "St Dionis Mission Hall is located at 18a Parsons Green, London, SW6 4UH."
+    },
+    {
+      "chunk_id": "16f1fe91-703b-4da5-bd3c-57b7ea993181",
+      "chunk_title": "Construction History",
+      "chunk_summary": "This chunk contains information about the construction history and timeline of specific buildings or architectural structures.",
+      "context_title": "New Mosque (Istanbul)",
+      "page_content": "The Yeni Cami underwent partial reconstruction and completion between 1660 and 1665."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2,
+  "retrieval_count": 1,
+  "total_chunks": 10,
+  "total_distinct_titles": 6,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "St Dionis Backchurch was rebuilt after a major conflagration that consumed how many parish churches?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "St Dionis Backchurch was rebuilt after a major conflagration that consumed how many parish churches?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 St Dionis Backchurch 重建前那场大火烧毁了多少座教区教堂",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——自身不搜索，其证据来自子节点推理链的聚合。N1_1 提供两场独立来源确认的火灾身份（the Great Fire of London），N1_2 提供该火灾烧毁的教区教堂数量（87）。推理链完整：N1_1 answer 消解 N1_2 question 中的 'that conflagration'，N1_2 answer 直接回答 Q 的核心询问。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，ROOT 节点可由子节点答案聚合得出最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What major conflagration led to St Dionis Backchurch being rebuilt?",
+          "answer": "the Great Fire of London",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What major conflagration led to St Dionis Backchurch being rebuilt?",
+          "planner_rationale": "Q 中提到 'a major conflagration' 但未指明具体是哪场火灾。需要先识别这场大火（很可能是伦敦大火 Great Fire of London 1666），才能进一步查询它烧毁了多少教堂",
+          "solver_judgment": "question 要求确认导致 St Dionis Backchurch 重建的重大火灾（major conflagration）。search_query 使用了完整的问题进行检索。chunks 返回了明确信息：chunk 95603ac6 指出 'St Dionis Backchurch was rebuilt after the Great Fire of London'，chunk 438ba2d6 补充说明 'The Great Fire of London was a major conflagration'。检索精准命中目标信息，答案完整。",
+          "critic_factual_notes": "2 个独立来源（文档 St Dionis Backchurch 和文档 Great Fire of London），表述一致。Chunk 95603ac6 直接陈述 'St Dionis Backchurch was rebuilt after the Great Fire of London'；Chunk 438ba2d6 补充 'The Great Fire of London was a major conflagration'。交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，两个独立来源一致支撑答案，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "95603ac6-49a8-44f3-a1ac-ad208545bf6a",
+            "438ba2d6-d1bf-4f60-913d-1ad4cabb1155"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "95603ac6-49a8-44f3-a1ac-ad208545bf6a",
+              "chunk_title": "St Dionis Backchurch History",
+              "chunk_summary": "This chunk contains historical details about St Dionis Backchurch, including its location, medieval origins, reconstruction by Christopher Wren after the Great Fire of London, and eventual demolition.",
+              "context_title": "St Dionis Backchurch",
+              "page_content": "St Dionis Backchurch was rebuilt to the designs of Christopher Wren. St Dionis Backchurch was a parish church. St Dionis Backchurch was in the Langbourn ward. St Dionis Backchurch was rebuilt after the Great Fire of London. St Dionis Backchurch was of medieval origin. St Dionis Backchurch was demolished in 1878."
+            },
+            {
+              "chunk_id": "9df21c9d-16ec-4c68-8b42-84f78826daf3",
+              "chunk_title": "London Church History",
+              "chunk_summary": "This chunk contains information about the destruction and subsequent demolition of parish churches in London due to historical events and demographic changes.",
+              "context_title": "List of Christopher Wren churches in London",
+              "page_content": "Eighty-eight parish churches were burned during the Great Fire of London in 1666. Many of the churches rebuilt by the office of Christopher Wren were demolished as the population of the City of London declined in the 19th century."
+            },
+            {
+              "chunk_id": "39e18203-0068-4220-ac29-2ba4a221d78c",
+              "chunk_title": "Wren's Architectural Projects",
+              "chunk_summary": "This chunk contains information about the architectural projects undertaken by Christopher Wren's office, specifically the rebuilding of parish churches and St Paul's Cathedral, as well as their subsequent damage or destruction during the Blitz.",
+              "context_title": "List of Christopher Wren churches in London",
+              "page_content": "More of the churches rebuilt by the office of Christopher Wren were destroyed or damaged during the Blitz. The office of Christopher Wren rebuilt St Paul's Cathedral. The office of Christopher Wren rebuilt 51 parish churches."
+            },
+            {
+              "chunk_id": "7a081116-5133-4e90-9d88-e0aab4595d36",
+              "chunk_title": "Building Heritage & Functions",
+              "chunk_summary": "This chunk contains information about the classification, function, and heritage status of specific buildings, such as church halls.",
+              "context_title": "St Dionis Mission Hall",
+              "page_content": "St Dionis Mission Hall is a church hall. St Dionis Mission Hall is Grade II listed."
+            },
+            {
+              "chunk_id": "67d52605-a795-471d-b5e2-18aba9d46449",
+              "chunk_title": "Building Listing Status",
+              "chunk_summary": "This chunk contains information about the listing status and classification of buildings.",
+              "context_title": "St Dionis Vicarage",
+              "page_content": "St Dionis Vicarage is a Grade II listed vicarage."
+            },
+            {
+              "chunk_id": "438ba2d6-d1bf-4f60-913d-1ad4cabb1155",
+              "chunk_title": "Great Fire of London",
+              "chunk_summary": "This chunk contains information about the Great Fire of London, including its timeline, location, and impact on specific areas and structures.",
+              "context_title": "Great Fire of London",
+              "page_content": "The medieval City of London was inside the old Roman city wall. The Great Fire of London did not reach most of the suburban slums. The Great Fire of London consumed most of the buildings of the City authorities. The Great Fire of London threatened Charles II's Palace of Whitehall. The Great Fire of London threatened most of the suburban slums. The Great Fire of London consumed St Paul's Cathedral. The Great Fire of London occurred from Sunday, 2 September to Wednesday, 5 September 1666. The Great Fire of London did not reach Charles II's Palace of Whitehall. The Great Fire of London swept through the central parts of the English city of London. The Great Fire of London threatened the aristocratic district of Westminster. The Great Fire of London consumed 87 parish churches. It is estimated that the Great Fire of London destroyed the homes of 70,000 inhabitants. The Great Fire of London gutted the medieval City of London. The Great Fire of London consumed 13,200 houses. The Great Fire of London was a major conflagration. The Great Fire of London did not reach the aristocratic district of Westminster. The City of London had 80,000 inhabitants."
+            },
+            {
+              "chunk_id": "3725aeb3-d9da-4f2b-b187-20e1be95efae",
+              "chunk_title": "Construction Dates",
+              "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+              "context_title": "St Dionis Vicarage",
+              "page_content": "St Dionis Vicarage was built in 1898-99."
+            },
+            {
+              "chunk_id": "dd0891c3-4018-4679-b480-0d37f36f990c",
+              "chunk_title": "Architecture & Construction",
+              "chunk_summary": "This chunk contains information about the architectural design and construction of buildings.",
+              "context_title": "St Dionis Vicarage",
+              "page_content": "St Dionis Vicarage was built to a design by William White."
+            },
+            {
+              "chunk_id": "52860174-9adc-49f9-81ce-807704eba0fc",
+              "chunk_title": "Location & Address",
+              "chunk_summary": "This chunk contains information about the location and address of a specific building or facility.",
+              "context_title": "St Dionis Mission Hall",
+              "page_content": "St Dionis Mission Hall is located at 18a Parsons Green, London, SW6 4UH."
+            },
+            {
+              "chunk_id": "16f1fe91-703b-4da5-bd3c-57b7ea993181",
+              "chunk_title": "Construction History",
+              "chunk_summary": "This chunk contains information about the construction history and timeline of specific buildings or architectural structures.",
+              "context_title": "New Mosque (Istanbul)",
+              "page_content": "The Yeni Cami underwent partial reconstruction and completion between 1660 and 1665."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "How many parish churches were consumed by that conflagration?",
+          "answer": "87",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "Q 的核心询问——那场大火烧毁了多少座教区教堂。这是最终答案所在",
+          "solver_judgment": "从已知事实推理得出，未执行搜索",
+          "critic_factual_notes": "推理型节点，无独立来源直接检索——由已知事实推理得出。推理依据：依赖 N1_1 的 answer 'the Great Fire of London'，结合 N1_1 检索到的 chunk 438ba2d6（Great Fire of London 文档）中明确陈述 'The Great Fire of London consumed 87 parish churches'。推理逻辑自洽，答案直接来源于已检索 chunk 中的事实。",
+          "critic_normative_advice": "建议 INHERIT——答案 87 直接出现在 N1_1 的支撑 chunk 438ba2d6 中，推理链完整，无需额外搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "St Dionis Backchurch was rebuilt after a major conflagration that consumed how many parish churches?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "St Dionis Backchurch was rebuilt after a major conflagration that consumed how many parish churches?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 St Dionis Backchurch 重建前那场大火烧毁了多少座教区教堂。子节点推理链完整：N1_1 确认火灾身份（the Great Fire of London），N1_2 提供教堂数量（87），可直接聚合得出最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——自身不搜索，证据来自子节点推理链聚合。N1_1 提供两个独立来源（St Dionis Backchurch 文档和 Great Fire of London 文档）交叉验证的火灾身份（the Great Fire of London），N1_2 提供该火灾烧毁的教区教堂数量（87），直接来源于 N1_1 的支撑 chunk 438ba2d6。推理链完整：N1_1 answer 消解 N1_2 question 中的 'that conflagration'，N1_2 answer 直接回答 Q 的核心询问。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分，ROOT 节点可由子节点答案聚合得出最终答案（87）。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What major conflagration led to St Dionis Backchurch being rebuilt?",
+          "answer": "the Great Fire of London",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What major conflagration led to St Dionis Backchurch being rebuilt?",
+          "planner_rationale": "Q 中 'a major conflagration' 的分解——识别导致 St Dionis Backchurch 重建的具体火灾。两个独立来源（St Dionis Backchurch 文档和 Great Fire of London 文档）交叉验证确认答案为 the Great Fire of London，证据充分。",
+          "solver_judgment": "question 要求确认导致 St Dionis Backchurch 重建的重大火灾（major conflagration）。search_query 使用了完整的问题进行检索。chunks 返回了明确信息：chunk 95603ac6 指出 'St Dionis Backchurch was rebuilt after the Great Fire of London'，chunk 438ba2d6 补充说明 'The Great Fire of London was a major conflagration'。检索精准命中目标信息，答案完整。",
+          "critic_factual_notes": "2 个独立来源（文档 St Dionis Backchurch 和文档 Great Fire of London），表述一致。Chunk 95603ac6 直接陈述 'St Dionis Backchurch was rebuilt after the Great Fire of London'；Chunk 438ba2d6 补充 'The Great Fire of London was a major conflagration'。交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，两个独立来源一致支撑答案，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "95603ac6-49a8-44f3-a1ac-ad208545bf6a",
+            "438ba2d6-d1bf-4f60-913d-1ad4cabb1155"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "95603ac6-49a8-44f3-a1ac-ad208545bf6a",
+              "chunk_title": "St Dionis Backchurch History",
+              "chunk_summary": "This chunk contains historical details about St Dionis Backchurch, including its location, medieval origins, reconstruction by Christopher Wren after the Great Fire of London, and eventual demolition.",
+              "context_title": "St Dionis Backchurch",
+              "page_content": "St Dionis Backchurch was rebuilt to the designs of Christopher Wren. St Dionis Backchurch was a parish church. St Dionis Backchurch was in the Langbourn ward. St Dionis Backchurch was rebuilt after the Great Fire of London. St Dionis Backchurch was of medieval origin. St Dionis Backchurch was demolished in 1878."
+            },
+            {
+              "chunk_id": "9df21c9d-16ec-4c68-8b42-84f78826daf3",
+              "chunk_title": "London Church History",
+              "chunk_summary": "This chunk contains information about the destruction and subsequent demolition of parish churches in London due to historical events and demographic changes.",
+              "context_title": "List of Christopher Wren churches in London",
+              "page_content": "Eighty-eight parish churches were burned during the Great Fire of London in 1666. Many of the churches rebuilt by the office of Christopher Wren were demolished as the population of the City of London declined in the 19th century."
+            },
+            {
+              "chunk_id": "39e18203-0068-4220-ac29-2ba4a221d78c",
+              "chunk_title": "Wren's Architectural Projects",
+              "chunk_summary": "This chunk contains information about the architectural projects undertaken by Christopher Wren's office, specifically the rebuilding of parish churches and St Paul's Cathedral, as well as their subsequent damage or destruction during the Blitz.",
+              "context_title": "List of Christopher Wren churches in London",
+              "page_content": "More of the churches rebuilt by the office of Christopher Wren were destroyed or damaged during the Blitz. The office of Christopher Wren rebuilt St Paul's Cathedral. The office of Christopher Wren rebuilt 51 parish churches."
+            },
+            {
+              "chunk_id": "7a081116-5133-4e90-9d88-e0aab4595d36",
+              "chunk_title": "Building Heritage & Functions",
+              "chunk_summary": "This chunk contains information about the classification, function, and heritage status of specific buildings, such as church halls.",
+              "context_title": "St Dionis Mission Hall",
+              "page_content": "St Dionis Mission Hall is a church hall. St Dionis Mission Hall is Grade II listed."
+            },
+            {
+              "chunk_id": "67d52605-a795-471d-b5e2-18aba9d46449",
+              "chunk_title": "Building Listing Status",
+              "chunk_summary": "This chunk contains information about the listing status and classification of buildings.",
+              "context_title": "St Dionis Vicarage",
+              "page_content": "St Dionis Vicarage is a Grade II listed vicarage."
+            },
+            {
+              "chunk_id": "438ba2d6-d1bf-4f60-913d-1ad4cabb1155",
+              "chunk_title": "Great Fire of London",
+              "chunk_summary": "This chunk contains information about the Great Fire of London, including its timeline, location, and impact on specific areas and structures.",
+              "context_title": "Great Fire of London",
+              "page_content": "The medieval City of London was inside the old Roman city wall. The Great Fire of London did not reach most of the suburban slums. The Great Fire of London consumed most of the buildings of the City authorities. The Great Fire of London threatened Charles II's Palace of Whitehall. The Great Fire of London threatened most of the suburban slums. The Great Fire of London consumed St Paul's Cathedral. The Great Fire of London occurred from Sunday, 2 September to Wednesday, 5 September 1666. The Great Fire of London did not reach Charles II's Palace of Whitehall. The Great Fire of London swept through the central parts of the English city of London. The Great Fire of London threatened the aristocratic district of Westminster. The Great Fire of London consumed 87 parish churches. It is estimated that the Great Fire of London destroyed the homes of 70,000 inhabitants. The Great Fire of London gutted the medieval City of London. The Great Fire of London consumed 13,200 houses. The Great Fire of London was a major conflagration. The Great Fire of London did not reach the aristocratic district of Westminster. The City of London had 80,000 inhabitants."
+            },
+            {
+              "chunk_id": "3725aeb3-d9da-4f2b-b187-20e1be95efae",
+              "chunk_title": "Construction Dates",
+              "chunk_summary": "This chunk contains information about the construction dates of buildings.",
+              "context_title": "St Dionis Vicarage",
+              "page_content": "St Dionis Vicarage was built in 1898-99."
+            },
+            {
+              "chunk_id": "dd0891c3-4018-4679-b480-0d37f36f990c",
+              "chunk_title": "Architecture & Construction",
+              "chunk_summary": "This chunk contains information about the architectural design and construction of buildings.",
+              "context_title": "St Dionis Vicarage",
+              "page_content": "St Dionis Vicarage was built to a design by William White."
+            },
+            {
+              "chunk_id": "52860174-9adc-49f9-81ce-807704eba0fc",
+              "chunk_title": "Location & Address",
+              "chunk_summary": "This chunk contains information about the location and address of a specific building or facility.",
+              "context_title": "St Dionis Mission Hall",
+              "page_content": "St Dionis Mission Hall is located at 18a Parsons Green, London, SW6 4UH."
+            },
+            {
+              "chunk_id": "16f1fe91-703b-4da5-bd3c-57b7ea993181",
+              "chunk_title": "Construction History",
+              "chunk_summary": "This chunk contains information about the construction history and timeline of specific buildings or architectural structures.",
+              "context_title": "New Mosque (Istanbul)",
+              "page_content": "The Yeni Cami underwent partial reconstruction and completion between 1660 and 1665."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "How many parish churches were consumed by that conflagration?",
+          "answer": "87",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "Q 的核心询问——那场大火烧毁的教区教堂数量。答案 87 直接来源于 N1_1 检索到的支撑 chunk 438ba2d6（Great Fire of London 文档中明确陈述 'The Great Fire of London consumed 87 parish churches'），推理链完整。",
+          "solver_judgment": "从已知事实推理得出，未执行搜索",
+          "critic_factual_notes": "无独立来源——由已知事实推理得出。推理依据：依赖事实 N1_1 answer='the Great Fire of London' + 子事实（chunk 438ba2d6 中明确陈述 'The Great Fire of London consumed 87 parish churches'）。该 chunk 在 N1_1 的搜索中已作为支撑 chunk 检索到，答案 87 直接出现在 chunk 全文中，推理逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——推理链完整，答案直接来源于 N1_1 的支撑 chunk，无需额外搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What major conflagration led to St Dionis Backchurch being rebuilt?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "95603ac6-49a8-44f3-a1ac-ad208545bf6a",
+        "9df21c9d-16ec-4c68-8b42-84f78826daf3",
+        "39e18203-0068-4220-ac29-2ba4a221d78c",
+        "7a081116-5133-4e90-9d88-e0aab4595d36",
+        "67d52605-a795-471d-b5e2-18aba9d46449",
+        "438ba2d6-d1bf-4f60-913d-1ad4cabb1155",
+        "3725aeb3-d9da-4f2b-b187-20e1be95efae",
+        "dd0891c3-4018-4679-b480-0d37f36f990c",
+        "52860174-9adc-49f9-81ce-807704eba0fc",
+        "16f1fe91-703b-4da5-bd3c-57b7ea993181"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What major conflagration led to St Dionis Backchurch being rebuilt?（理由：Q 中 \"a major conflagration\" 是未指明的关键事件，需先识别具体是哪场火灾），F2: How many parish churches were consumed by that conflagration?（理由：Q 的核心询问——那场大火烧毁的教区教堂数量，即最终答案）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 \"that conflagration\" 必须用 F1 的 answer 消解后才能搜索）",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（识别导致 St Dionis Backchurch 重建的大火），$2（查询该大火烧毁的教区教堂数量）。新增边: N0→$1（decomposition，$1 是 Q 的子事实），N0→$2（decomposition，$2 是 Q 的子事实），$1→$2（dependency，$2 中 \"that conflagration\" 指代 $1 的 answer）",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配——N1_1 answer 'the Great Fire of London' 有效消解 N1_2 question 中的 'that conflagration'，所有 dependency 环节语义成立；③全部节点 healthy——N0/N1_1/N1_2 均有充分证据支撑；④首轮无拓扑变化。推理链完整，所有节点证据充分，可生成"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What major conflagration led to St Dionis Backchurch being rebuilt?（理由：Q 中 \"a major conflagration\" 是未指明的关键事件，需先识别具体是哪场火灾），F2: How many parish churches were consumed by that conflagration?（理由：Q 的核心询问——那场大火烧毁的教区教堂数量，即最终答案）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 \"that conflagration\" 必须用 F1 的 answer 消解后才能搜索）。当前 DAG 已完全覆盖 Q 的所有语义需求，两个子节点均已 SOLVED + healthy，推理链完整。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 INHERIT 保留，所有边保持不变。原因：上一轮（首轮）的分解假设被完全验证：N1_1 成功识别火灾为 the Great Fire of London（两个独立来源交叉验证），N1_2 通过推理得出答案 87（直接来源于 N1_1 的支撑 chunk）。Critic 确认结构无缺口、无冗余、依赖边有效。DAG 已收敛至理想状态，无需进一步搜索或结构调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义完整——N1_1 answer='the Great Fire of London' 消解 N1_2 question 中的 'that conflagration'，N1_2 answer=87 直接回答 Q 核心询问；③全部节点（N0, N1_1, N1_2）critic_health 均为 healthy；④"
+      }
+    }
+  ]
+}

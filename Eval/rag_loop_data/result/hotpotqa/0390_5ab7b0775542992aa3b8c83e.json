@@ -1,0 +1,612 @@
+{
+  "question_index": 390,
+  "question_id": "5ab7b0775542992aa3b8c83e",
+  "question": "SS Ionic was built by the industrial company based in what city?",
+  "answer": "Belfast, Northern Ireland",
+  "prediction": "Belfast",
+  "error": null,
+  "latency_ms": 269642.0663999961,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T17:15:24.812429+00:00",
+  "chunks": [
+    {
+      "chunk_id": "30daf6de-956d-4c6c-ad9b-31b48bed74dc",
+      "chunk_title": "SS Ionic Details",
+      "chunk_summary": "This chunk contains information about specific steam-powered ocean liners, including their construction details, operating companies, naming history, service routes, and sister ships.",
+      "context_title": "SS Ionic (1902)",
+      "page_content": "SS \"Corinthic\" was a sister ship of SS Ionic. SS Ionic was built in 1902. SS Ionic was built by Harland and Wolff. SS Ionic was the second White Star Liner to be named \"Ionic\". SS Ionic was built for the White Star Line. SS Ionic served on the United Kingdom – New Zealand route. SS Ionic was a steam-powered ocean liner."
+    },
+    {
+      "chunk_id": "9e2ec88d-69d3-4c33-b9e4-1d71598ff71f",
+      "chunk_title": "Shipbuilding & Heavy Industries",
+      "chunk_summary": "This chunk contains information about heavy industrial companies, specifically those specializing in shipbuilding and offshore construction, including their locations, historical significance, and notable projects.",
+      "context_title": "Harland and Wolff",
+      "page_content": "Harland & Wolff is famous for having built the majority of the ships intended for the White Star Line. Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland. Harland & Wolff Heavy Industries specialises in shipbuilding. Harland and Wolff's official history is titled \"Shipbuilders to the World\". HMS \"Belfast\" was built by Harland & Wolff. Harland & Wolff Heavy Industries specialises in offshore construction. Harland & Wolff Heavy Industries is a heavy industrial company."
+    },
+    {
+      "chunk_id": "e3c8239a-df5c-4d3a-ac31-1f03cbfeb565",
+      "chunk_title": "SS Rebecca Lukens & Namesake",
+      "chunk_summary": "This chunk contains information about the SS \"Rebecca Lukens,\" a World War II-era Liberty ship named after Rebecca Webb Pennock Lukens, an industrialist recognized as America's first female CEO.",
+      "context_title": "SS Rebecca Lukens",
+      "page_content": "Rebecca Webb Pennock Lukens owned the iron works which became Lukens Steel Company. SS \"Rebecca Lukens\" was built in the United States. Fortune Magazine dubbed Rebecca Webb Pennock Lukens \"America's first female CEO of an industrial company\". SS \"Rebecca Lukens\" was the country's first Liberty ship named after a woman industrialist. SS \"Rebecca Lukens\" was a Liberty ship. Rebecca Webb Pennock Lukens managed the iron works which became Lukens Steel Company. SS \"Rebecca Lukens\" was built during World War II."
+    },
+    {
+      "chunk_id": "e77afcaa-931a-4fff-a911-9caf4816d885",
+      "chunk_title": "Harland & Wolff Ships",
+      "chunk_summary": "This chunk contains information about ships built by Harland & Wolff, including the Olympic Class trio and other vessels from various shipping lines.",
+      "context_title": "Harland and Wolff",
+      "page_content": "RMS \"Britannic\" was built by Harland & Wolff. RMS \"Titanic\" was built by Harland & Wolff. \"Canberra\" belongs to P&O. \"Southern Cross\" was built by Harland & Wolff. \"Canberra\" was built by Harland & Wolff. \"Andes\" was built by Harland & Wolff. \"Southern Cross\" belongs to Shaw Savill. The Olympic Class trio includes RMS \"Titanic\". Union-Castle's ship was built by Harland & Wolff. RMS \"Olympic\" was built by Harland & Wolff. The Olympic Class trio includes RMS \"Britannic\". The Olympic Class trio includes RMS \"Olympic\". \"Andes\" belongs to the Royal Mail Line. Harland and Wolff's official history \"Shipbuilders to the World\" was published in 1986."
+    },
+    {
+      "chunk_id": "41342bd5-065c-4ca2-8350-d9ba53f2a0fe",
+      "chunk_title": "Project Teams & Contractors",
+      "chunk_summary": "This chunk contains information about the architects, designers, and contractors involved in various development projects.",
+      "context_title": "The Mark (Sydney)",
+      "page_content": "The development of The Mark was contracted to Watpac. Central Park Development was designed by Johnson Pilton Walker."
+    },
+    {
+      "chunk_id": "683fbc7f-74bc-4b35-a565-2b26a209f51f",
+      "chunk_title": "Majdanek Camp History",
+      "chunk_summary": "This chunk contains information about the history, location, construction, operation, purpose, and liberation of the Majdanek concentration and extermination camp.",
+      "context_title": "Majdanek concentration camp",
+      "page_content": "The camp Majdanek was captured nearly intact. The camp Majdanek was used to kill people on an industrial scale during Operation Reinhard. Anton Thernes was the Deputy Camp Commandant of the camp Majdanek. Majdanek became the first concentration camp discovered by Allied forces. Majdanek was initially purposed for forced labor rather than extermination. Majdanek was also known to the SS as Konzentrationslager Lublin. Majdanek was a German concentration and extermination camp. Majdanek was located on the outskirts of the city of Lublin. Majdanek was built by the SS. The camp Majdanek operated from October 1, 1941, until July 22, 1944. Majdanek remains the best preserved Nazi concentration camp of the Holocaust. Majdanek was built during the German occupation of Poland in World War II. Majdanek was also known as KL Lublin. Majdanek was operated by the SS. The rapid advance of the Soviet Red Army during Operation Bagration prevented the SS from destroying most of the infrastructure of the camp Majdanek. Anton Thernes failed in his task of removing incriminating evidence of war crimes from the camp Majdanek."
+    },
+    {
+      "chunk_id": "7c43c913-fb70-45b5-84c4-f82046e71de6",
+      "chunk_title": "Organizational Affiliations",
+      "chunk_summary": "This chunk contains information about the organizational affiliations and memberships of historical figures.",
+      "context_title": "Monowitz concentration camp",
+      "page_content": "Alfried Krupp was an SS member."
+    },
+    {
+      "chunk_id": "817f424e-e984-429b-8be3-48a419b77589",
+      "chunk_title": "Nazi Organization Abbreviations",
+      "chunk_summary": "This chunk contains information about the abbreviations of historical organizations, specifically German paramilitary groups and leadership titles from the Nazi era.",
+      "context_title": "Obergruppenführer",
+      "page_content": "The Sturmabteilung is abbreviated as SA. RFSS is the internal SS-abbreviation for Heinrich Himmler. The Schutzstaffel is abbreviated as SS."
+    },
+    {
+      "chunk_id": "0048b431-3bdb-401f-95ab-16fe7003b250",
+      "chunk_title": "Strømmens Værksted A/S Overview",
+      "chunk_summary": "This chunk contains information about the industrial company Strømmens Værksted A/S, including its founding date, location, specialization in rolling stock production, and current status as part of Bombardier Transportation.",
+      "context_title": "Strømmens Værksted",
+      "page_content": "Strømmens Værksted A/S was founded in 1873. Strømmens Værksted A/S was an industrial company. Strømmens Værksted A/S remains as a part of Bombardier Transportation. Strømmens Værksted A/S was based in Skedsmo, Norway. The plant of Strømmens Værksted A/S is located just off Hovedbanen. Strømmens Værksted A/S specialized in the production of rolling stock. The plant of Strømmens Værksted A/S is located west of Strømmen Station."
+    },
+    {
+      "chunk_id": "0f49217f-0e59-4fa6-beea-4236e919764a",
+      "chunk_title": "Monowitz Camp Overview",
+      "chunk_summary": "This chunk contains information about the historical establishment, classification, alternative names, geographical origins, and operational purpose of the Monowitz concentration camp within the Auschwitz system.",
+      "context_title": "Monowitz concentration camp",
+      "page_content": "Monowitz concentration camp was located in the annexed portion of Poland. Various other German industrial enterprises built factories with their own subcamps close to Monowitz. The SS established Monowitz concentration camp to provide slave labor for the Buna Werke industrial complex. The SS established Monowitz concentration camp at the behest of I.G. Farben executives. Monowitz was also called Monowitz-Buna. Monowitz was also called Auschwitz III. Monowitz was named after the village of Monowice. Monowitz was initially established as a subcamp of Nazi Germany's Auschwitz concentration camp. The Auschwitz concentration camp system had an additional 45 subcamps in the surrounding area. Monowitz was one of the three main camps in the Auschwitz concentration camp system. The SS established Monowitz concentration camp in October 1942. Monowitz concentration camp was built upon the village of Monowice."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.5,
+  "precision": 1.0,
+  "recall": 0.333333,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3,
+  "retrieval_count": 1,
+  "total_chunks": 10,
+  "total_distinct_titles": 8,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "SS Ionic was built by the industrial company based in what city?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "SS Ionic was built by the industrial company based in what city?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问建造 SS Ionic 的工业公司所在的城市",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其答案由子节点推理链聚合得出。推理链：N1_1 确定建造者为 Harland and Wolff（2个独立来源一致），N1_2 确定该公司所在城市为 Belfast（由 N1_1 答案推理，证据来自 N1_1 的支撑 chunk 9e2ec88d）。推理链完整，子节点答案一致支撑最终答案。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分。但结构层面存在冗余：N0→N1_2 的 decomposition 边与 N0→N1_1→N1_2 的 dependency 路径重复，建议 Planner 考虑移除 N0→N1_2 的直接分解边，仅保留通过 N1_1 的依赖路径。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which industrial company built SS Ionic?",
+          "answer": "Harland and Wolff",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which industrial company built SS Ionic?",
+          "planner_rationale": "Q 询问的是建造 SS Ionic 的公司所在城市，必须先确定是哪家公司，这是回答 Q 的第一个必要子事实",
+          "solver_judgment": "question 要求确认建造 SS Ionic 的工业公司。search_query 直接搜索了该问题。chunks 返回了 SS Ionic 的详细信息，其中 chunk 30daf6de-956d-4c6c-ad9b-31b48bed74dc 明确记载 'SS Ionic was built by Harland and Wolff.'，而 chunk 9e2ec88d-69d3-4c33-b9e4-1d71598ff71f 补充说明 'Harland & Wolff Heavy Industries is a heavy industrial company.'，完美匹配问题要求。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源（文档 SS Ionic (1902) 和文档 Harland and Wolff）。chunk 30daf6de 直接陈述 'SS Ionic was built by Harland and Wolff'，chunk 9e2ec88d 补充确认 'Harland & Wolff Heavy Industries is a heavy industrial company'。两个来源对核心事实表述一致，交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，两个独立来源一致支撑答案 'Harland and Wolff'。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "30daf6de-956d-4c6c-ad9b-31b48bed74dc",
+            "9e2ec88d-69d3-4c33-b9e4-1d71598ff71f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "30daf6de-956d-4c6c-ad9b-31b48bed74dc",
+              "chunk_title": "SS Ionic Details",
+              "chunk_summary": "This chunk contains information about specific steam-powered ocean liners, including their construction details, operating companies, naming history, service routes, and sister ships.",
+              "context_title": "SS Ionic (1902)",
+              "page_content": "SS \"Corinthic\" was a sister ship of SS Ionic. SS Ionic was built in 1902. SS Ionic was built by Harland and Wolff. SS Ionic was the second White Star Liner to be named \"Ionic\". SS Ionic was built for the White Star Line. SS Ionic served on the United Kingdom – New Zealand route. SS Ionic was a steam-powered ocean liner."
+            },
+            {
+              "chunk_id": "9e2ec88d-69d3-4c33-b9e4-1d71598ff71f",
+              "chunk_title": "Shipbuilding & Heavy Industries",
+              "chunk_summary": "This chunk contains information about heavy industrial companies, specifically those specializing in shipbuilding and offshore construction, including their locations, historical significance, and notable projects.",
+              "context_title": "Harland and Wolff",
+              "page_content": "Harland & Wolff is famous for having built the majority of the ships intended for the White Star Line. Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland. Harland & Wolff Heavy Industries specialises in shipbuilding. Harland and Wolff's official history is titled \"Shipbuilders to the World\". HMS \"Belfast\" was built by Harland & Wolff. Harland & Wolff Heavy Industries specialises in offshore construction. Harland & Wolff Heavy Industries is a heavy industrial company."
+            },
+            {
+              "chunk_id": "e3c8239a-df5c-4d3a-ac31-1f03cbfeb565",
+              "chunk_title": "SS Rebecca Lukens & Namesake",
+              "chunk_summary": "This chunk contains information about the SS \"Rebecca Lukens,\" a World War II-era Liberty ship named after Rebecca Webb Pennock Lukens, an industrialist recognized as America's first female CEO.",
+              "context_title": "SS Rebecca Lukens",
+              "page_content": "Rebecca Webb Pennock Lukens owned the iron works which became Lukens Steel Company. SS \"Rebecca Lukens\" was built in the United States. Fortune Magazine dubbed Rebecca Webb Pennock Lukens \"America's first female CEO of an industrial company\". SS \"Rebecca Lukens\" was the country's first Liberty ship named after a woman industrialist. SS \"Rebecca Lukens\" was a Liberty ship. Rebecca Webb Pennock Lukens managed the iron works which became Lukens Steel Company. SS \"Rebecca Lukens\" was built during World War II."
+            },
+            {
+              "chunk_id": "e77afcaa-931a-4fff-a911-9caf4816d885",
+              "chunk_title": "Harland & Wolff Ships",
+              "chunk_summary": "This chunk contains information about ships built by Harland & Wolff, including the Olympic Class trio and other vessels from various shipping lines.",
+              "context_title": "Harland and Wolff",
+              "page_content": "RMS \"Britannic\" was built by Harland & Wolff. RMS \"Titanic\" was built by Harland & Wolff. \"Canberra\" belongs to P&O. \"Southern Cross\" was built by Harland & Wolff. \"Canberra\" was built by Harland & Wolff. \"Andes\" was built by Harland & Wolff. \"Southern Cross\" belongs to Shaw Savill. The Olympic Class trio includes RMS \"Titanic\". Union-Castle's ship was built by Harland & Wolff. RMS \"Olympic\" was built by Harland & Wolff. The Olympic Class trio includes RMS \"Britannic\". The Olympic Class trio includes RMS \"Olympic\". \"Andes\" belongs to the Royal Mail Line. Harland and Wolff's official history \"Shipbuilders to the World\" was published in 1986."
+            },
+            {
+              "chunk_id": "41342bd5-065c-4ca2-8350-d9ba53f2a0fe",
+              "chunk_title": "Project Teams & Contractors",
+              "chunk_summary": "This chunk contains information about the architects, designers, and contractors involved in various development projects.",
+              "context_title": "The Mark (Sydney)",
+              "page_content": "The development of The Mark was contracted to Watpac. Central Park Development was designed by Johnson Pilton Walker."
+            },
+            {
+              "chunk_id": "683fbc7f-74bc-4b35-a565-2b26a209f51f",
+              "chunk_title": "Majdanek Camp History",
+              "chunk_summary": "This chunk contains information about the history, location, construction, operation, purpose, and liberation of the Majdanek concentration and extermination camp.",
+              "context_title": "Majdanek concentration camp",
+              "page_content": "The camp Majdanek was captured nearly intact. The camp Majdanek was used to kill people on an industrial scale during Operation Reinhard. Anton Thernes was the Deputy Camp Commandant of the camp Majdanek. Majdanek became the first concentration camp discovered by Allied forces. Majdanek was initially purposed for forced labor rather than extermination. Majdanek was also known to the SS as Konzentrationslager Lublin. Majdanek was a German concentration and extermination camp. Majdanek was located on the outskirts of the city of Lublin. Majdanek was built by the SS. The camp Majdanek operated from October 1, 1941, until July 22, 1944. Majdanek remains the best preserved Nazi concentration camp of the Holocaust. Majdanek was built during the German occupation of Poland in World War II. Majdanek was also known as KL Lublin. Majdanek was operated by the SS. The rapid advance of the Soviet Red Army during Operation Bagration prevented the SS from destroying most of the infrastructure of the camp Majdanek. Anton Thernes failed in his task of removing incriminating evidence of war crimes from the camp Majdanek."
+            },
+            {
+              "chunk_id": "7c43c913-fb70-45b5-84c4-f82046e71de6",
+              "chunk_title": "Organizational Affiliations",
+              "chunk_summary": "This chunk contains information about the organizational affiliations and memberships of historical figures.",
+              "context_title": "Monowitz concentration camp",
+              "page_content": "Alfried Krupp was an SS member."
+            },
+            {
+              "chunk_id": "817f424e-e984-429b-8be3-48a419b77589",
+              "chunk_title": "Nazi Organization Abbreviations",
+              "chunk_summary": "This chunk contains information about the abbreviations of historical organizations, specifically German paramilitary groups and leadership titles from the Nazi era.",
+              "context_title": "Obergruppenführer",
+              "page_content": "The Sturmabteilung is abbreviated as SA. RFSS is the internal SS-abbreviation for Heinrich Himmler. The Schutzstaffel is abbreviated as SS."
+            },
+            {
+              "chunk_id": "0048b431-3bdb-401f-95ab-16fe7003b250",
+              "chunk_title": "Strømmens Værksted A/S Overview",
+              "chunk_summary": "This chunk contains information about the industrial company Strømmens Værksted A/S, including its founding date, location, specialization in rolling stock production, and current status as part of Bombardier Transportation.",
+              "context_title": "Strømmens Værksted",
+              "page_content": "Strømmens Værksted A/S was founded in 1873. Strømmens Værksted A/S was an industrial company. Strømmens Værksted A/S remains as a part of Bombardier Transportation. Strømmens Værksted A/S was based in Skedsmo, Norway. The plant of Strømmens Værksted A/S is located just off Hovedbanen. Strømmens Værksted A/S specialized in the production of rolling stock. The plant of Strømmens Værksted A/S is located west of Strømmen Station."
+            },
+            {
+              "chunk_id": "0f49217f-0e59-4fa6-beea-4236e919764a",
+              "chunk_title": "Monowitz Camp Overview",
+              "chunk_summary": "This chunk contains information about the historical establishment, classification, alternative names, geographical origins, and operational purpose of the Monowitz concentration camp within the Auschwitz system.",
+              "context_title": "Monowitz concentration camp",
+              "page_content": "Monowitz concentration camp was located in the annexed portion of Poland. Various other German industrial enterprises built factories with their own subcamps close to Monowitz. The SS established Monowitz concentration camp to provide slave labor for the Buna Werke industrial complex. The SS established Monowitz concentration camp at the behest of I.G. Farben executives. Monowitz was also called Monowitz-Buna. Monowitz was also called Auschwitz III. Monowitz was named after the village of Monowice. Monowitz was initially established as a subcamp of Nazi Germany's Auschwitz concentration camp. The Auschwitz concentration camp system had an additional 45 subcamps in the surrounding area. Monowitz was one of the three main camps in the Auschwitz concentration camp system. The SS established Monowitz concentration camp in October 1942. Monowitz concentration camp was built upon the village of Monowice."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What city was that industrial company based in?",
+          "answer": "Belfast",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "Q 的核心询问——该公司所在的城市。这是 Q 的直接答案成分，但需要先知道是哪家公司才能搜索",
+          "solver_judgment": "从已知事实推理得出，未执行搜索",
+          "critic_factual_notes": "无独立来源——由已知事实推理得出。推理依据：N1_1 的 answer 'Harland and Wolff' + N1_1 的支撑 chunk 9e2ec88d 中明确记载 'Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland'。推理逻辑自洽：已知公司身份后，从已有检索结果中直接提取其所在城市，无需额外搜索。",
+          "critic_normative_advice": "建议 INHERIT——推理链有效，答案 'Belfast' 由 N1_1 的支撑证据直接支撑。但建议 Planner 在下一轮考虑将 N1_2 标记为从 N1_1 的 retrieved_chunks 中继承答案，而非纯推理节点，以明确证据来源。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "SS Ionic was built by the industrial company based in what city?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "SS Ionic was built by the industrial company based in what city?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问建造 SS Ionic 的工业公司所在的城市。子节点推理链完整：N1_1 确定建造者为 Harland and Wolff，N1_2 确定该公司所在城市为 Belfast。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其答案由子节点推理链聚合得出。推理链：N1_1 确定建造者为 Harland and Wolff（2个独立来源一致：文档 SS Ionic (1902) 的 chunk 30daf6de 和文档 Harland and Wolff 的 chunk 9e2ec88d），N1_2 确定该公司所在城市为 Belfast（由 N1_1 的支撑 chunk 9e2ec88d 直接陈述 'Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland'）。推理链完整，子节点答案一致支撑最终答案。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分。当前 DAG 结构已修正为清晰的链式 N0→N1_1→N1_2，无冗余边。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which industrial company built SS Ionic?",
+          "answer": "Harland and Wolff",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which industrial company built SS Ionic?",
+          "planner_rationale": "Q 询问的是建造 SS Ionic 的公司所在城市，必须先确定是哪家公司。两个独立来源一致确认答案为 Harland and Wolff。",
+          "solver_judgment": "question 要求确认建造 SS Ionic 的工业公司。search_query 直接搜索了该问题。chunks 返回了 SS Ionic 的详细信息，其中 chunk 30daf6de-956d-4c6c-ad9b-31b48bed74dc 明确记载 'SS Ionic was built by Harland and Wolff.'，而 chunk 9e2ec88d-69d3-4c33-b9e4-1d71598ff71f 补充说明 'Harland & Wolff Heavy Industries is a heavy industrial company.'，完美匹配问题要求。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源（文档 SS Ionic (1902) 和文档 Harland and Wolff）。chunk 30daf6de 直接陈述 'SS Ionic was built by Harland and Wolff'，chunk 9e2ec88d 补充确认 'Harland & Wolff Heavy Industries is a heavy industrial company'。两个来源对核心事实表述一致，交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，两个独立来源一致支撑答案 'Harland and Wolff'。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "30daf6de-956d-4c6c-ad9b-31b48bed74dc",
+            "9e2ec88d-69d3-4c33-b9e4-1d71598ff71f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "30daf6de-956d-4c6c-ad9b-31b48bed74dc",
+              "chunk_title": "SS Ionic Details",
+              "chunk_summary": "This chunk contains information about specific steam-powered ocean liners, including their construction details, operating companies, naming history, service routes, and sister ships.",
+              "context_title": "SS Ionic (1902)",
+              "page_content": "SS \"Corinthic\" was a sister ship of SS Ionic. SS Ionic was built in 1902. SS Ionic was built by Harland and Wolff. SS Ionic was the second White Star Liner to be named \"Ionic\". SS Ionic was built for the White Star Line. SS Ionic served on the United Kingdom – New Zealand route. SS Ionic was a steam-powered ocean liner."
+            },
+            {
+              "chunk_id": "9e2ec88d-69d3-4c33-b9e4-1d71598ff71f",
+              "chunk_title": "Shipbuilding & Heavy Industries",
+              "chunk_summary": "This chunk contains information about heavy industrial companies, specifically those specializing in shipbuilding and offshore construction, including their locations, historical significance, and notable projects.",
+              "context_title": "Harland and Wolff",
+              "page_content": "Harland & Wolff is famous for having built the majority of the ships intended for the White Star Line. Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland. Harland & Wolff Heavy Industries specialises in shipbuilding. Harland and Wolff's official history is titled \"Shipbuilders to the World\". HMS \"Belfast\" was built by Harland & Wolff. Harland & Wolff Heavy Industries specialises in offshore construction. Harland & Wolff Heavy Industries is a heavy industrial company."
+            },
+            {
+              "chunk_id": "e3c8239a-df5c-4d3a-ac31-1f03cbfeb565",
+              "chunk_title": "SS Rebecca Lukens & Namesake",
+              "chunk_summary": "This chunk contains information about the SS \"Rebecca Lukens,\" a World War II-era Liberty ship named after Rebecca Webb Pennock Lukens, an industrialist recognized as America's first female CEO.",
+              "context_title": "SS Rebecca Lukens",
+              "page_content": "Rebecca Webb Pennock Lukens owned the iron works which became Lukens Steel Company. SS \"Rebecca Lukens\" was built in the United States. Fortune Magazine dubbed Rebecca Webb Pennock Lukens \"America's first female CEO of an industrial company\". SS \"Rebecca Lukens\" was the country's first Liberty ship named after a woman industrialist. SS \"Rebecca Lukens\" was a Liberty ship. Rebecca Webb Pennock Lukens managed the iron works which became Lukens Steel Company. SS \"Rebecca Lukens\" was built during World War II."
+            },
+            {
+              "chunk_id": "e77afcaa-931a-4fff-a911-9caf4816d885",
+              "chunk_title": "Harland & Wolff Ships",
+              "chunk_summary": "This chunk contains information about ships built by Harland & Wolff, including the Olympic Class trio and other vessels from various shipping lines.",
+              "context_title": "Harland and Wolff",
+              "page_content": "RMS \"Britannic\" was built by Harland & Wolff. RMS \"Titanic\" was built by Harland & Wolff. \"Canberra\" belongs to P&O. \"Southern Cross\" was built by Harland & Wolff. \"Canberra\" was built by Harland & Wolff. \"Andes\" was built by Harland & Wolff. \"Southern Cross\" belongs to Shaw Savill. The Olympic Class trio includes RMS \"Titanic\". Union-Castle's ship was built by Harland & Wolff. RMS \"Olympic\" was built by Harland & Wolff. The Olympic Class trio includes RMS \"Britannic\". The Olympic Class trio includes RMS \"Olympic\". \"Andes\" belongs to the Royal Mail Line. Harland and Wolff's official history \"Shipbuilders to the World\" was published in 1986."
+            },
+            {
+              "chunk_id": "41342bd5-065c-4ca2-8350-d9ba53f2a0fe",
+              "chunk_title": "Project Teams & Contractors",
+              "chunk_summary": "This chunk contains information about the architects, designers, and contractors involved in various development projects.",
+              "context_title": "The Mark (Sydney)",
+              "page_content": "The development of The Mark was contracted to Watpac. Central Park Development was designed by Johnson Pilton Walker."
+            },
+            {
+              "chunk_id": "683fbc7f-74bc-4b35-a565-2b26a209f51f",
+              "chunk_title": "Majdanek Camp History",
+              "chunk_summary": "This chunk contains information about the history, location, construction, operation, purpose, and liberation of the Majdanek concentration and extermination camp.",
+              "context_title": "Majdanek concentration camp",
+              "page_content": "The camp Majdanek was captured nearly intact. The camp Majdanek was used to kill people on an industrial scale during Operation Reinhard. Anton Thernes was the Deputy Camp Commandant of the camp Majdanek. Majdanek became the first concentration camp discovered by Allied forces. Majdanek was initially purposed for forced labor rather than extermination. Majdanek was also known to the SS as Konzentrationslager Lublin. Majdanek was a German concentration and extermination camp. Majdanek was located on the outskirts of the city of Lublin. Majdanek was built by the SS. The camp Majdanek operated from October 1, 1941, until July 22, 1944. Majdanek remains the best preserved Nazi concentration camp of the Holocaust. Majdanek was built during the German occupation of Poland in World War II. Majdanek was also known as KL Lublin. Majdanek was operated by the SS. The rapid advance of the Soviet Red Army during Operation Bagration prevented the SS from destroying most of the infrastructure of the camp Majdanek. Anton Thernes failed in his task of removing incriminating evidence of war crimes from the camp Majdanek."
+            },
+            {
+              "chunk_id": "7c43c913-fb70-45b5-84c4-f82046e71de6",
+              "chunk_title": "Organizational Affiliations",
+              "chunk_summary": "This chunk contains information about the organizational affiliations and memberships of historical figures.",
+              "context_title": "Monowitz concentration camp",
+              "page_content": "Alfried Krupp was an SS member."
+            },
+            {
+              "chunk_id": "817f424e-e984-429b-8be3-48a419b77589",
+              "chunk_title": "Nazi Organization Abbreviations",
+              "chunk_summary": "This chunk contains information about the abbreviations of historical organizations, specifically German paramilitary groups and leadership titles from the Nazi era.",
+              "context_title": "Obergruppenführer",
+              "page_content": "The Sturmabteilung is abbreviated as SA. RFSS is the internal SS-abbreviation for Heinrich Himmler. The Schutzstaffel is abbreviated as SS."
+            },
+            {
+              "chunk_id": "0048b431-3bdb-401f-95ab-16fe7003b250",
+              "chunk_title": "Strømmens Værksted A/S Overview",
+              "chunk_summary": "This chunk contains information about the industrial company Strømmens Værksted A/S, including its founding date, location, specialization in rolling stock production, and current status as part of Bombardier Transportation.",
+              "context_title": "Strømmens Værksted",
+              "page_content": "Strømmens Værksted A/S was founded in 1873. Strømmens Værksted A/S was an industrial company. Strømmens Værksted A/S remains as a part of Bombardier Transportation. Strømmens Værksted A/S was based in Skedsmo, Norway. The plant of Strømmens Værksted A/S is located just off Hovedbanen. Strømmens Værksted A/S specialized in the production of rolling stock. The plant of Strømmens Værksted A/S is located west of Strømmen Station."
+            },
+            {
+              "chunk_id": "0f49217f-0e59-4fa6-beea-4236e919764a",
+              "chunk_title": "Monowitz Camp Overview",
+              "chunk_summary": "This chunk contains information about the historical establishment, classification, alternative names, geographical origins, and operational purpose of the Monowitz concentration camp within the Auschwitz system.",
+              "context_title": "Monowitz concentration camp",
+              "page_content": "Monowitz concentration camp was located in the annexed portion of Poland. Various other German industrial enterprises built factories with their own subcamps close to Monowitz. The SS established Monowitz concentration camp to provide slave labor for the Buna Werke industrial complex. The SS established Monowitz concentration camp at the behest of I.G. Farben executives. Monowitz was also called Monowitz-Buna. Monowitz was also called Auschwitz III. Monowitz was named after the village of Monowice. Monowitz was initially established as a subcamp of Nazi Germany's Auschwitz concentration camp. The Auschwitz concentration camp system had an additional 45 subcamps in the surrounding area. Monowitz was one of the three main camps in the Auschwitz concentration camp system. The SS established Monowitz concentration camp in October 1942. Monowitz concentration camp was built upon the village of Monowice."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What city was that industrial company based in?",
+          "answer": "Belfast",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "Q 的核心询问——该公司所在的城市。答案 Belfast 由 N1_1 的支撑 chunk 9e2ec88d 直接支撑（'Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland'），推理链有效。",
+          "solver_judgment": "从已知事实推理得出，未执行搜索",
+          "critic_factual_notes": "无独立来源——由已知事实推理得出。推理依据：N1_1 的支撑 chunk 9e2ec88d（文档 Harland and Wolff）直接陈述 'Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland'。单来源但直接、具体地陈述了答案，推理逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 9e2ec88d 直接支撑答案 'Belfast'。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "SS Ionic was built by the industrial company based in what city?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "SS Ionic was built by the industrial company based in what city?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点推理链完整且已验证：N1_1 确定建造者为 Harland and Wolff（2个独立来源交叉验证），N1_2 确定该公司所在城市为 Belfast（由 N1_1 支撑 chunk 9e2ec88d 直接陈述）。DAG 已收敛为最简链式结构 N0→N1_1→N1_2，无冗余无缺口。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其答案由子节点推理链聚合得出。推理链：N1_1 确定建造者为 Harland and Wolff（2个独立来源一致：文档 SS Ionic (1902) 的 chunk 30daf6de 和文档 Harland and Wolff 的 chunk 9e2ec88d），N1_2 确定该公司所在城市为 Belfast（由 N1_1 的支撑 chunk 9e2ec88d 直接陈述 'Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland'）。推理链完整，子节点答案一致支撑最终答案。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且证据充分。当前 DAG 结构已收敛为清晰的链式 N0→N1_1→N1_2，无冗余无缺口。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which industrial company built SS Ionic?",
+          "answer": "Harland and Wolff",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which industrial company built SS Ionic?",
+          "planner_rationale": "Q 的第一层分解——确定建造 SS Ionic 的工业公司。两个独立来源（SS Ionic 1902 文档和 Harland and Wolff 文档）一致确认答案为 Harland and Wolff，证据充分，推理链起点已确立。",
+          "solver_judgment": "question 要求确认建造 SS Ionic 的工业公司。search_query 直接搜索了该问题。chunks 返回了 SS Ionic 的详细信息，其中 chunk 30daf6de-956d-4c6c-ad9b-31b48bed74dc 明确记载 'SS Ionic was built by Harland and Wolff.'，而 chunk 9e2ec88d-69d3-4c33-b9e4-1d71598ff71f 补充说明 'Harland & Wolff Heavy Industries is a heavy industrial company.'，完美匹配问题要求。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源（文档 SS Ionic (1902) 和文档 Harland and Wolff）。chunk 30daf6de 直接陈述 'SS Ionic was built by Harland and Wolff'，chunk 9e2ec88d 补充确认 'Harland & Wolff Heavy Industries is a heavy industrial company'。两个来源对核心事实表述一致，交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，两个独立来源一致支撑答案 'Harland and Wolff'。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "30daf6de-956d-4c6c-ad9b-31b48bed74dc",
+            "9e2ec88d-69d3-4c33-b9e4-1d71598ff71f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "30daf6de-956d-4c6c-ad9b-31b48bed74dc",
+              "chunk_title": "SS Ionic Details",
+              "chunk_summary": "This chunk contains information about specific steam-powered ocean liners, including their construction details, operating companies, naming history, service routes, and sister ships.",
+              "context_title": "SS Ionic (1902)",
+              "page_content": "SS \"Corinthic\" was a sister ship of SS Ionic. SS Ionic was built in 1902. SS Ionic was built by Harland and Wolff. SS Ionic was the second White Star Liner to be named \"Ionic\". SS Ionic was built for the White Star Line. SS Ionic served on the United Kingdom – New Zealand route. SS Ionic was a steam-powered ocean liner."
+            },
+            {
+              "chunk_id": "9e2ec88d-69d3-4c33-b9e4-1d71598ff71f",
+              "chunk_title": "Shipbuilding & Heavy Industries",
+              "chunk_summary": "This chunk contains information about heavy industrial companies, specifically those specializing in shipbuilding and offshore construction, including their locations, historical significance, and notable projects.",
+              "context_title": "Harland and Wolff",
+              "page_content": "Harland & Wolff is famous for having built the majority of the ships intended for the White Star Line. Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland. Harland & Wolff Heavy Industries specialises in shipbuilding. Harland and Wolff's official history is titled \"Shipbuilders to the World\". HMS \"Belfast\" was built by Harland & Wolff. Harland & Wolff Heavy Industries specialises in offshore construction. Harland & Wolff Heavy Industries is a heavy industrial company."
+            },
+            {
+              "chunk_id": "e3c8239a-df5c-4d3a-ac31-1f03cbfeb565",
+              "chunk_title": "SS Rebecca Lukens & Namesake",
+              "chunk_summary": "This chunk contains information about the SS \"Rebecca Lukens,\" a World War II-era Liberty ship named after Rebecca Webb Pennock Lukens, an industrialist recognized as America's first female CEO.",
+              "context_title": "SS Rebecca Lukens",
+              "page_content": "Rebecca Webb Pennock Lukens owned the iron works which became Lukens Steel Company. SS \"Rebecca Lukens\" was built in the United States. Fortune Magazine dubbed Rebecca Webb Pennock Lukens \"America's first female CEO of an industrial company\". SS \"Rebecca Lukens\" was the country's first Liberty ship named after a woman industrialist. SS \"Rebecca Lukens\" was a Liberty ship. Rebecca Webb Pennock Lukens managed the iron works which became Lukens Steel Company. SS \"Rebecca Lukens\" was built during World War II."
+            },
+            {
+              "chunk_id": "e77afcaa-931a-4fff-a911-9caf4816d885",
+              "chunk_title": "Harland & Wolff Ships",
+              "chunk_summary": "This chunk contains information about ships built by Harland & Wolff, including the Olympic Class trio and other vessels from various shipping lines.",
+              "context_title": "Harland and Wolff",
+              "page_content": "RMS \"Britannic\" was built by Harland & Wolff. RMS \"Titanic\" was built by Harland & Wolff. \"Canberra\" belongs to P&O. \"Southern Cross\" was built by Harland & Wolff. \"Canberra\" was built by Harland & Wolff. \"Andes\" was built by Harland & Wolff. \"Southern Cross\" belongs to Shaw Savill. The Olympic Class trio includes RMS \"Titanic\". Union-Castle's ship was built by Harland & Wolff. RMS \"Olympic\" was built by Harland & Wolff. The Olympic Class trio includes RMS \"Britannic\". The Olympic Class trio includes RMS \"Olympic\". \"Andes\" belongs to the Royal Mail Line. Harland and Wolff's official history \"Shipbuilders to the World\" was published in 1986."
+            },
+            {
+              "chunk_id": "41342bd5-065c-4ca2-8350-d9ba53f2a0fe",
+              "chunk_title": "Project Teams & Contractors",
+              "chunk_summary": "This chunk contains information about the architects, designers, and contractors involved in various development projects.",
+              "context_title": "The Mark (Sydney)",
+              "page_content": "The development of The Mark was contracted to Watpac. Central Park Development was designed by Johnson Pilton Walker."
+            },
+            {
+              "chunk_id": "683fbc7f-74bc-4b35-a565-2b26a209f51f",
+              "chunk_title": "Majdanek Camp History",
+              "chunk_summary": "This chunk contains information about the history, location, construction, operation, purpose, and liberation of the Majdanek concentration and extermination camp.",
+              "context_title": "Majdanek concentration camp",
+              "page_content": "The camp Majdanek was captured nearly intact. The camp Majdanek was used to kill people on an industrial scale during Operation Reinhard. Anton Thernes was the Deputy Camp Commandant of the camp Majdanek. Majdanek became the first concentration camp discovered by Allied forces. Majdanek was initially purposed for forced labor rather than extermination. Majdanek was also known to the SS as Konzentrationslager Lublin. Majdanek was a German concentration and extermination camp. Majdanek was located on the outskirts of the city of Lublin. Majdanek was built by the SS. The camp Majdanek operated from October 1, 1941, until July 22, 1944. Majdanek remains the best preserved Nazi concentration camp of the Holocaust. Majdanek was built during the German occupation of Poland in World War II. Majdanek was also known as KL Lublin. Majdanek was operated by the SS. The rapid advance of the Soviet Red Army during Operation Bagration prevented the SS from destroying most of the infrastructure of the camp Majdanek. Anton Thernes failed in his task of removing incriminating evidence of war crimes from the camp Majdanek."
+            },
+            {
+              "chunk_id": "7c43c913-fb70-45b5-84c4-f82046e71de6",
+              "chunk_title": "Organizational Affiliations",
+              "chunk_summary": "This chunk contains information about the organizational affiliations and memberships of historical figures.",
+              "context_title": "Monowitz concentration camp",
+              "page_content": "Alfried Krupp was an SS member."
+            },
+            {
+              "chunk_id": "817f424e-e984-429b-8be3-48a419b77589",
+              "chunk_title": "Nazi Organization Abbreviations",
+              "chunk_summary": "This chunk contains information about the abbreviations of historical organizations, specifically German paramilitary groups and leadership titles from the Nazi era.",
+              "context_title": "Obergruppenführer",
+              "page_content": "The Sturmabteilung is abbreviated as SA. RFSS is the internal SS-abbreviation for Heinrich Himmler. The Schutzstaffel is abbreviated as SS."
+            },
+            {
+              "chunk_id": "0048b431-3bdb-401f-95ab-16fe7003b250",
+              "chunk_title": "Strømmens Værksted A/S Overview",
+              "chunk_summary": "This chunk contains information about the industrial company Strømmens Værksted A/S, including its founding date, location, specialization in rolling stock production, and current status as part of Bombardier Transportation.",
+              "context_title": "Strømmens Værksted",
+              "page_content": "Strømmens Værksted A/S was founded in 1873. Strømmens Værksted A/S was an industrial company. Strømmens Værksted A/S remains as a part of Bombardier Transportation. Strømmens Værksted A/S was based in Skedsmo, Norway. The plant of Strømmens Værksted A/S is located just off Hovedbanen. Strømmens Værksted A/S specialized in the production of rolling stock. The plant of Strømmens Værksted A/S is located west of Strømmen Station."
+            },
+            {
+              "chunk_id": "0f49217f-0e59-4fa6-beea-4236e919764a",
+              "chunk_title": "Monowitz Camp Overview",
+              "chunk_summary": "This chunk contains information about the historical establishment, classification, alternative names, geographical origins, and operational purpose of the Monowitz concentration camp within the Auschwitz system.",
+              "context_title": "Monowitz concentration camp",
+              "page_content": "Monowitz concentration camp was located in the annexed portion of Poland. Various other German industrial enterprises built factories with their own subcamps close to Monowitz. The SS established Monowitz concentration camp to provide slave labor for the Buna Werke industrial complex. The SS established Monowitz concentration camp at the behest of I.G. Farben executives. Monowitz was also called Monowitz-Buna. Monowitz was also called Auschwitz III. Monowitz was named after the village of Monowice. Monowitz was initially established as a subcamp of Nazi Germany's Auschwitz concentration camp. The Auschwitz concentration camp system had an additional 45 subcamps in the surrounding area. Monowitz was one of the three main camps in the Auschwitz concentration camp system. The SS established Monowitz concentration camp in October 1942. Monowitz concentration camp was built upon the village of Monowice."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What city was that industrial company based in?",
+          "answer": "Belfast",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "Q 的核心询问——该公司所在的城市。答案 Belfast 由 N1_1 的支撑 chunk 9e2ec88d 直接支撑（'Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland'），dependency 于 N1_1 的指代消解有效，推理链终点已确立。",
+          "solver_judgment": "从已知事实推理得出，未执行搜索",
+          "critic_factual_notes": "无独立来源——由已知事实推理得出。推理依据：N1_1 的支撑 chunk 9e2ec88d 直接陈述 'Harland & Wolff Heavy Industries is located in Belfast, Northern Ireland'。依赖边 N1_1→N1_2 语义有效：N1_1 答案 'Harland and Wolff' 消解了 N1_2 question 中 'that industrial company' 的指代。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案由 N1_1 的支撑 chunk 直接支撑，dependency 指代消解有效。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Which industrial company built SS Ionic?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "30daf6de-956d-4c6c-ad9b-31b48bed74dc",
+        "9e2ec88d-69d3-4c33-b9e4-1d71598ff71f",
+        "e3c8239a-df5c-4d3a-ac31-1f03cbfeb565",
+        "e77afcaa-931a-4fff-a911-9caf4816d885",
+        "41342bd5-065c-4ca2-8350-d9ba53f2a0fe",
+        "683fbc7f-74bc-4b35-a565-2b26a209f51f",
+        "7c43c913-fb70-45b5-84c4-f82046e71de6",
+        "817f424e-e984-429b-8be3-48a419b77589",
+        "0048b431-3bdb-401f-95ab-16fe7003b250",
+        "0f49217f-0e59-4fa6-beea-4236e919764a"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which industrial company built SS Ionic?（理由：Q 问的是建造 SS Ionic 的公司所在城市，必须先确定公司身份），F2: What city was that industrial company based in?（理由：Q 的核心询问——该公司所在的城市）。关系: F1 是 Q 的分解产物（decomposition——确定建造者是回答 Q 的必要步骤），F2 是 Q 的分解产物（decomposition——城市信息是 Q 的直接答案），F1 是 F2 的前置条件（dependency——F2 的 question 中 'that industrial company' 指代 F1 的 answer，不注入 F1 的 answer 就无法构造有意义的搜索查询）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），N1（question='Which industrial company built SS Ionic?'，rationale='确定建造 SS Ionic 的公司身份'），N2（question='What city was that industrial company based in?'，rationale='确定该公司所在城市'）。新增边: N0→N1（decomposition），N0→N2（decomposition），N1→N2（dependency）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①（所有非根节点 SOLVED）通过；条件④（首轮不适用）通过；条件②（推理链语义匹配）通过——路径 N0→N1_1→N1_2 中，N1_1 answer='Harland and Wolff' 语义消解 N1_2 question 中的 'that industrial company' 指代，依赖链有效；条件③（全部节点 healthy）通过——N1_1 有 2 个独立来源一"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which industrial company built SS Ionic?（理由：Q 问的是建造 SS Ionic 的公司所在城市，必须先确定公司身份），F2: What city was that industrial company based in?（理由：Q 的核心询问——该公司所在的城市）。关系: F1 是 Q 的分解产物（decomposition——确定建造者是回答 Q 的必要步骤），F2 依赖于 F1（dependency——F2 的 question 中 'that industrial company' 指代 F1 的 answer，必须先知道公司身份才能确定其所在城市）。DAG 应为清晰的链式结构 N0→N1_1→N1_2，无需 N0 到 N1_2 的直接分解边。",
+      "hypothesis_delta": "删除边: N0→N1_2（decomposition），原因：Critic 指出该边与 N0→N1_1→N1_2 路径重复，创建冗余拓扑。N1_2 已通过 N1_1→N1_2 的 dependency 边从 N0 可达，直接分解边不增加语义覆盖。保留 N0→N1_1（decomposition）和 N1_1→N1_2（dependency），使 DAG 成为更清晰的链式结构。所有节点（N0, N1_1, N1_2）均 INHERIT——三者均已 solved + healthy，证据充分，推理链完整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（删除边 N0→N1_2）。尽管条件①②③均已满足（所有非根节点 SOLVED、推理链语义匹配、全部节点 healthy），但系统要求拓扑稳定才能终止。Planner 本轮的结构修正是正确的（消除冗余边），下轮若拓扑不再变化且节点保持 healthy，即可终止。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which industrial company built SS Ionic?（理由：Q 问的是建造 SS Ionic 的公司所在城市，必须先确定公司身份），F2: What city was that industrial company based in?（理由：Q 的核心询问——该公司所在的城市）。关系: F1 是 Q 的分解产物（decomposition——确定建造者是回答 Q 的必要步骤），F2 依赖于 F1（dependency——F2 的 question 中 'that industrial company' 指代 F1 的 answer，必须先知道公司身份才能确定其所在城市）。DAG 应为清晰的链式结构 N0→N1_1→N1_2。",
+      "hypothesis_delta": "本轮无结构调整——所有节点（N0, N1_1, N1_2）均 INHERIT，所有边（N0→N1_1 decomposition, N1_1→N1_2 dependency）均保留。原因：Critic 确认 DAG 已逼近理想分解结构，Q 语义覆盖完整，dependency 边有效，无冗余无缺口。上一轮假设（链式结构 N0→N1_1→N1_2）已被完全验证，推理链完整：Harland and Wolff → Belfast。DAG 已收敛，无需进一步调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①（所有非根节点 SOLVED）由 §5 确认；条件②（推理链语义匹配）通过——路径 N0→N1_1→N1_2 中，N1_1 answer 'Harland and Wolff' 语义消解 N1_2 question 中 'that industrial company' 的指代，所有 dependency 环节有效；条件③（全部节点 healthy）通过——N0、N1_1、N1"
+      }
+    }
+  ]
+}

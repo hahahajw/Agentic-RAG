@@ -1,0 +1,677 @@
+{
+  "question_index": 254,
+  "question_id": "9f00dfe2089411ebbd75ac1f6bf848b6",
+  "question": "Who was born later, Paolo Marcellini or Dean Evans?",
+  "answer": "Dean Evans",
+  "prediction": "Dean Evans",
+  "error": null,
+  "latency_ms": 260344.48269999848,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T13:23:48.333262+00:00",
+  "chunks": [
+    {
+      "chunk_id": "5b5102eb-dee3-4c4e-b48d-44288be7e16c",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Paolo Marcellini",
+      "page_content": "Paolo Marcellini was born on June 25, 1947."
+    },
+    {
+      "chunk_id": "92cbe979-a264-4b05-890c-334f583151c1",
+      "chunk_title": "Birthplaces",
+      "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+      "context_title": "Paolo Marcellini",
+      "page_content": "Paolo Marcellini was born in Fabriano."
+    },
+    {
+      "chunk_id": "b5a1ebac-37e1-450a-8b42-2e36e9d44401",
+      "chunk_title": "Mathematician Profiles",
+      "chunk_summary": "This chunk contains information about the professional background, academic field, and nationality of mathematicians, specifically focusing on Paolo Marcellini.",
+      "context_title": "Paolo Marcellini",
+      "page_content": "Paolo Marcellini is an Italian mathematician. Paolo Marcellini deals with mathematical analysis. Paolo Marcellini is a full professor at the University of Florence. Paolo Marcellini is the Director of the Italian National Group GNAMPA."
+    },
+    {
+      "chunk_id": "6851ba7d-abd0-4e1f-96f0-f430e84c204b",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Marcello Semeraro",
+      "page_content": "Marcello Semeraro was born on 22 December 1947."
+    },
+    {
+      "chunk_id": "8f5e6816-e489-4272-a0e0-42c364851092",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Domenico Paolella",
+      "page_content": "Domenico Paolella died on 7 October 2002. Domenico Paolella was born on 18 October 1915."
+    },
+    {
+      "chunk_id": "0afd870b-bb00-42e5-b835-8f8e08207e6d",
+      "chunk_title": "Birthplaces",
+      "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+      "context_title": "Domenico Paolella",
+      "page_content": "Domenico Paolella was born in Foggia."
+    },
+    {
+      "chunk_id": "0b26ab1d-6776-4e00-98fe-8c4b20334a07",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Roberto Magris",
+      "page_content": "Roberto Magris was born on June 19, 1959."
+    },
+    {
+      "chunk_id": "265240ae-8d75-4570-a930-d038a8d9eb2e",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of notable individuals.",
+      "context_title": "Marcel Achard",
+      "page_content": "Marcel Achard was born on 5 July 1899."
+    },
+    {
+      "chunk_id": "4b0152e2-b447-44fa-8b36-cf8eae7c0e4c",
+      "chunk_title": "Professional Occupations",
+      "chunk_summary": "This chunk contains information about the professional occupations of individuals.",
+      "context_title": "Domenico Paolella",
+      "page_content": "Domenico Paolella was a journalist."
+    },
+    {
+      "chunk_id": "2a56df82-a0fd-46c6-b3a3-9d0d4ecb1c5a",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Aurelio De Laurentiis",
+      "page_content": "Aurelio De Laurentiis was born on 24 May 1949."
+    },
+    {
+      "chunk_id": "8fd55c12-5376-425d-bbfb-06a116af45c1",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Dean Evans (field hockey)",
+      "page_content": "Michael Dean Evans was born on 14 April 1967."
+    },
+    {
+      "chunk_id": "09180c55-3cfd-4909-b7d8-6be0453163ac",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Dean Evans",
+      "page_content": "Dean Evans was born on 7 March 1990."
+    },
+    {
+      "chunk_id": "13505d5f-5675-47ec-bb9a-b35504bd86d1",
+      "chunk_title": "Biographical Information",
+      "chunk_summary": "This chunk contains biographical information about individuals, including their birth and death dates, locations, and ages.",
+      "context_title": "H. Dean Evans",
+      "page_content": "H. Dean Evans was born at his parents' home on September 1, 1929. H. Dean Evans died peacefully in his home on October 2, 2004. H. Dean Evans was 75 years old when H. Dean Evans died."
+    },
+    {
+      "chunk_id": "a1a5a746-9c29-4098-ae3c-34bfc738bf97",
+      "chunk_title": "Field Hockey Careers",
+      "chunk_summary": "This chunk contains information about the field hockey career and Olympic achievements of Michael Dean Evans.",
+      "context_title": "Dean Evans (field hockey)",
+      "page_content": "Michael Dean Evans was a member of the Australian field hockey team that won the silver medal at the 1992 Summer Olympics. Dean Evans was a member of the Australian Men's field hockey team in 1986. Michael Dean Evans is a former field hockey player."
+    },
+    {
+      "chunk_id": "b54ee756-7e4f-40ab-ac32-903feaa3e761",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about birth dates and times of individuals.",
+      "context_title": "Nancy Jane Dean",
+      "page_content": "Nancy Jane Dean was born on April 8, 1837."
+    },
+    {
+      "chunk_id": "59e3d2fd-9cfd-4a54-9fb9-42669533d822",
+      "chunk_title": "Tenure Dates",
+      "chunk_summary": "This chunk contains information about the tenure dates of individuals serving as State Superintendent of Indiana.",
+      "context_title": "H. Dean Evans",
+      "page_content": "H. Dean Evans served as the State Superintendent of Indiana from June 6, 1985 to January 11, 1993."
+    },
+    {
+      "chunk_id": "87eaaeb4-1014-4d3c-b4b4-42c4d706d26a",
+      "chunk_title": "Athlete Profiles",
+      "chunk_summary": "This chunk contains information about the professional background and nationality of athletes, specifically focusing on their current team affiliations.",
+      "context_title": "Dean Evans",
+      "page_content": "Dean Evans is an Australian footballer. Dean Evans currently plays for Floreat Athena FC."
+    },
+    {
+      "chunk_id": "6e7fe467-8021-410f-ab2a-a57ca814ae87",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Edvīns Šnore",
+      "page_content": "Edvīns Šnore was born on 21 March 1974."
+    },
+    {
+      "chunk_id": "c53ac9e6-ea5b-4ff6-923f-482024fe7d45",
+      "chunk_title": "Alternative Names",
+      "chunk_summary": "This chunk contains information about alternative names or aliases for individuals.",
+      "context_title": "H. Dean Evans",
+      "page_content": "H. Dean Evans was also known as Harold Dean Evans."
+    },
+    {
+      "chunk_id": "a7989b8e-2f30-460e-b2cd-1c3e438018de",
+      "chunk_title": "Nationalities & Origins",
+      "chunk_summary": "This chunk contains information about the nationalities or countries of origin of various individuals.",
+      "context_title": "Dean Evans (field hockey)",
+      "page_content": "Michael Dean Evans is from Australia."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.25,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 11,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Who was born later, Paolo Marcellini or Dean Evans?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who was born later, Paolo Marcellini or Dean Evans?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较 Paolo Marcellini 和 Dean Evans 的出生日期以确定谁出生更晚",
+          "solver_judgment": "",
+          "critic_factual_notes": "无独立来源——由已知事实推理得出。推理依据: N1_1 answer (June 25, 1947) + N1_2 answer (7 March 1990) → 比较两个日期，1990 > 1947 → Dean Evans 出生更晚。子节点推理链完整且一致。",
+          "critic_normative_advice": "结构合理。两个 decomposition 子节点完整覆盖了 Q 的语义需求（获取两人出生日期并比较）。建议 INHERIT 当前结构，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Paolo Marcellini born?",
+          "answer": "June 25, 1947",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Paolo Marcellini born?",
+          "planner_rationale": "Q 要求比较两人出生日期，必须先获取 Paolo Marcellini 的出生日期作为比较基准之一",
+          "solver_judgment": "question 要求确认 Paolo Marcellini 的出生日期。search_query 搜索了 'When was Paolo Marcellini born?'。chunks 返回了关于 Paolo Marcellini 的信息，其中 chunk 5b5102eb-dee3-4c4e-b48d-44288be7e16c 明确记载 'Paolo Marcellini was born on June 25, 1947'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档: Paolo Marcellini）。支撑 chunk [5b5102eb] 全文为 'Paolo Marcellini was born on June 25, 1947.'，与声称答案 'June 25, 1947' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体地陈述了答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5b5102eb-dee3-4c4e-b48d-44288be7e16c"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5b5102eb-dee3-4c4e-b48d-44288be7e16c",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Paolo Marcellini",
+              "page_content": "Paolo Marcellini was born on June 25, 1947."
+            },
+            {
+              "chunk_id": "92cbe979-a264-4b05-890c-334f583151c1",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+              "context_title": "Paolo Marcellini",
+              "page_content": "Paolo Marcellini was born in Fabriano."
+            },
+            {
+              "chunk_id": "b5a1ebac-37e1-450a-8b42-2e36e9d44401",
+              "chunk_title": "Mathematician Profiles",
+              "chunk_summary": "This chunk contains information about the professional background, academic field, and nationality of mathematicians, specifically focusing on Paolo Marcellini.",
+              "context_title": "Paolo Marcellini",
+              "page_content": "Paolo Marcellini is an Italian mathematician. Paolo Marcellini deals with mathematical analysis. Paolo Marcellini is a full professor at the University of Florence. Paolo Marcellini is the Director of the Italian National Group GNAMPA."
+            },
+            {
+              "chunk_id": "6851ba7d-abd0-4e1f-96f0-f430e84c204b",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Marcello Semeraro",
+              "page_content": "Marcello Semeraro was born on 22 December 1947."
+            },
+            {
+              "chunk_id": "8f5e6816-e489-4272-a0e0-42c364851092",
+              "chunk_title": "Birth & Death Dates",
+              "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+              "context_title": "Domenico Paolella",
+              "page_content": "Domenico Paolella died on 7 October 2002. Domenico Paolella was born on 18 October 1915."
+            },
+            {
+              "chunk_id": "0afd870b-bb00-42e5-b835-8f8e08207e6d",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+              "context_title": "Domenico Paolella",
+              "page_content": "Domenico Paolella was born in Foggia."
+            },
+            {
+              "chunk_id": "0b26ab1d-6776-4e00-98fe-8c4b20334a07",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Roberto Magris",
+              "page_content": "Roberto Magris was born on June 19, 1959."
+            },
+            {
+              "chunk_id": "265240ae-8d75-4570-a930-d038a8d9eb2e",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of notable individuals.",
+              "context_title": "Marcel Achard",
+              "page_content": "Marcel Achard was born on 5 July 1899."
+            },
+            {
+              "chunk_id": "4b0152e2-b447-44fa-8b36-cf8eae7c0e4c",
+              "chunk_title": "Professional Occupations",
+              "chunk_summary": "This chunk contains information about the professional occupations of individuals.",
+              "context_title": "Domenico Paolella",
+              "page_content": "Domenico Paolella was a journalist."
+            },
+            {
+              "chunk_id": "2a56df82-a0fd-46c6-b3a3-9d0d4ecb1c5a",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Aurelio De Laurentiis",
+              "page_content": "Aurelio De Laurentiis was born on 24 May 1949."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Dean Evans born?",
+          "answer": "7 March 1990",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Dean Evans born?",
+          "planner_rationale": "Q 要求比较两人出生日期，必须先获取 Dean Evans 的出生日期作为比较基准之二",
+          "solver_judgment": "question 要求确认 Dean Evans 的出生日期。search_query 搜索了 'When was Dean Evans born?'。chunks 返回了多个名为 Dean Evans 或包含该名字的人物的信息：chunk 09180c55 明确记载 'Dean Evans was born on 7 March 1990'（来源文档为 Dean Evans，通常指足球运动员）；chunk 8fd55c12 记载 'Michael Dean Evans was born on 14 April 1967'（曲棍球运动员）；chunk 13505d5f 记载 'H. Dean Evans was born... on September 1, 1929'。鉴于 question 使用的是精确名称 'Dean Evans'，chunk 09180c55 提供了最直接匹配的答案。检索结果包含了目标信息，但存在同名/近似名实体干扰，需根据名称精确度进行筛选。",
+          "critic_factual_notes": "1 个来源（文档: Dean Evans）。支撑 chunk [09180c55] 全文为 'Dean Evans was born on 7 March 1990.'，与声称答案 '7 March 1990' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体地陈述了答案。Solver 正确识别了同名实体干扰（Michael Dean Evans 1967、H. Dean Evans 1929），并选择了名称精确匹配的实体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，实体消歧处理合理，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "09180c55-3cfd-4909-b7d8-6be0453163ac"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "8fd55c12-5376-425d-bbfb-06a116af45c1",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Dean Evans (field hockey)",
+              "page_content": "Michael Dean Evans was born on 14 April 1967."
+            },
+            {
+              "chunk_id": "09180c55-3cfd-4909-b7d8-6be0453163ac",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Dean Evans",
+              "page_content": "Dean Evans was born on 7 March 1990."
+            },
+            {
+              "chunk_id": "13505d5f-5675-47ec-bb9a-b35504bd86d1",
+              "chunk_title": "Biographical Information",
+              "chunk_summary": "This chunk contains biographical information about individuals, including their birth and death dates, locations, and ages.",
+              "context_title": "H. Dean Evans",
+              "page_content": "H. Dean Evans was born at his parents' home on September 1, 1929. H. Dean Evans died peacefully in his home on October 2, 2004. H. Dean Evans was 75 years old when H. Dean Evans died."
+            },
+            {
+              "chunk_id": "a1a5a746-9c29-4098-ae3c-34bfc738bf97",
+              "chunk_title": "Field Hockey Careers",
+              "chunk_summary": "This chunk contains information about the field hockey career and Olympic achievements of Michael Dean Evans.",
+              "context_title": "Dean Evans (field hockey)",
+              "page_content": "Michael Dean Evans was a member of the Australian field hockey team that won the silver medal at the 1992 Summer Olympics. Dean Evans was a member of the Australian Men's field hockey team in 1986. Michael Dean Evans is a former field hockey player."
+            },
+            {
+              "chunk_id": "b54ee756-7e4f-40ab-ac32-903feaa3e761",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about birth dates and times of individuals.",
+              "context_title": "Nancy Jane Dean",
+              "page_content": "Nancy Jane Dean was born on April 8, 1837."
+            },
+            {
+              "chunk_id": "59e3d2fd-9cfd-4a54-9fb9-42669533d822",
+              "chunk_title": "Tenure Dates",
+              "chunk_summary": "This chunk contains information about the tenure dates of individuals serving as State Superintendent of Indiana.",
+              "context_title": "H. Dean Evans",
+              "page_content": "H. Dean Evans served as the State Superintendent of Indiana from June 6, 1985 to January 11, 1993."
+            },
+            {
+              "chunk_id": "87eaaeb4-1014-4d3c-b4b4-42c4d706d26a",
+              "chunk_title": "Athlete Profiles",
+              "chunk_summary": "This chunk contains information about the professional background and nationality of athletes, specifically focusing on their current team affiliations.",
+              "context_title": "Dean Evans",
+              "page_content": "Dean Evans is an Australian footballer. Dean Evans currently plays for Floreat Athena FC."
+            },
+            {
+              "chunk_id": "6e7fe467-8021-410f-ab2a-a57ca814ae87",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Edvīns Šnore",
+              "page_content": "Edvīns Šnore was born on 21 March 1974."
+            },
+            {
+              "chunk_id": "c53ac9e6-ea5b-4ff6-923f-482024fe7d45",
+              "chunk_title": "Alternative Names",
+              "chunk_summary": "This chunk contains information about alternative names or aliases for individuals.",
+              "context_title": "H. Dean Evans",
+              "page_content": "H. Dean Evans was also known as Harold Dean Evans."
+            },
+            {
+              "chunk_id": "a7989b8e-2f30-460e-b2cd-1c3e438018de",
+              "chunk_title": "Nationalities & Origins",
+              "chunk_summary": "This chunk contains information about the nationalities or countries of origin of various individuals.",
+              "context_title": "Dean Evans (field hockey)",
+              "page_content": "Michael Dean Evans is from Australia."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who was born later, Paolo Marcellini or Dean Evans?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who was born later, Paolo Marcellini or Dean Evans?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。两个子节点 N1_1 和 N1_2 均已 SOLVED + healthy，分别提供 Paolo Marcellini (June 25, 1947) 和 Dean Evans (7 March 1990) 的出生日期。比较可知 1990 > 1947，Dean Evans 出生更晚。推理链完整，可直接生成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "无独立来源——由已知事实推理得出。推理依据: N1_1 answer (June 25, 1947) + N1_2 answer (7 March 1990) → 比较两个日期，1990 > 1947 → Dean Evans 出生更晚。子节点推理链完整且一致。",
+          "critic_normative_advice": "结构合理。两个 decomposition 子节点 N1_1 和 N1_2 完整覆盖了 Q 的语义需求（获取两人出生日期并比较）。建议 INHERIT 当前结构，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was Paolo Marcellini born?",
+          "answer": "June 25, 1947",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Paolo Marcellini born?",
+          "planner_rationale": "Q 要求比较两人出生日期，Paolo Marcellini 的出生日期是必要比较基准之一。已 SOLVED + healthy，证据直接具体。",
+          "solver_judgment": "question 要求确认 Paolo Marcellini 的出生日期。search_query 搜索了 'When was Paolo Marcellini born?'。chunks 返回了关于 Paolo Marcellini 的信息，其中 chunk 5b5102eb-dee3-4c4e-b48d-44288be7e16c 明确记载 'Paolo Marcellini was born on June 25, 1947'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档: Paolo Marcellini）。支撑 chunk [5b5102eb-dee3-4c4e-b48d-44288be7e16c] 全文为 'Paolo Marcellini was born on June 25, 1947.'，与声称答案 'June 25, 1947' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体地陈述了答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "5b5102eb-dee3-4c4e-b48d-44288be7e16c"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "5b5102eb-dee3-4c4e-b48d-44288be7e16c",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Paolo Marcellini",
+              "page_content": "Paolo Marcellini was born on June 25, 1947."
+            },
+            {
+              "chunk_id": "92cbe979-a264-4b05-890c-334f583151c1",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+              "context_title": "Paolo Marcellini",
+              "page_content": "Paolo Marcellini was born in Fabriano."
+            },
+            {
+              "chunk_id": "b5a1ebac-37e1-450a-8b42-2e36e9d44401",
+              "chunk_title": "Mathematician Profiles",
+              "chunk_summary": "This chunk contains information about the professional background, academic field, and nationality of mathematicians, specifically focusing on Paolo Marcellini.",
+              "context_title": "Paolo Marcellini",
+              "page_content": "Paolo Marcellini is an Italian mathematician. Paolo Marcellini deals with mathematical analysis. Paolo Marcellini is a full professor at the University of Florence. Paolo Marcellini is the Director of the Italian National Group GNAMPA."
+            },
+            {
+              "chunk_id": "6851ba7d-abd0-4e1f-96f0-f430e84c204b",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Marcello Semeraro",
+              "page_content": "Marcello Semeraro was born on 22 December 1947."
+            },
+            {
+              "chunk_id": "8f5e6816-e489-4272-a0e0-42c364851092",
+              "chunk_title": "Birth & Death Dates",
+              "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+              "context_title": "Domenico Paolella",
+              "page_content": "Domenico Paolella died on 7 October 2002. Domenico Paolella was born on 18 October 1915."
+            },
+            {
+              "chunk_id": "0afd870b-bb00-42e5-b835-8f8e08207e6d",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplaces of individuals.",
+              "context_title": "Domenico Paolella",
+              "page_content": "Domenico Paolella was born in Foggia."
+            },
+            {
+              "chunk_id": "0b26ab1d-6776-4e00-98fe-8c4b20334a07",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Roberto Magris",
+              "page_content": "Roberto Magris was born on June 19, 1959."
+            },
+            {
+              "chunk_id": "265240ae-8d75-4570-a930-d038a8d9eb2e",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of notable individuals.",
+              "context_title": "Marcel Achard",
+              "page_content": "Marcel Achard was born on 5 July 1899."
+            },
+            {
+              "chunk_id": "4b0152e2-b447-44fa-8b36-cf8eae7c0e4c",
+              "chunk_title": "Professional Occupations",
+              "chunk_summary": "This chunk contains information about the professional occupations of individuals.",
+              "context_title": "Domenico Paolella",
+              "page_content": "Domenico Paolella was a journalist."
+            },
+            {
+              "chunk_id": "2a56df82-a0fd-46c6-b3a3-9d0d4ecb1c5a",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Aurelio De Laurentiis",
+              "page_content": "Aurelio De Laurentiis was born on 24 May 1949."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Dean Evans born?",
+          "answer": "7 March 1990",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Dean Evans born?",
+          "planner_rationale": "Q 要求比较两人出生日期，Dean Evans 的出生日期是必要比较基准之二。已 SOLVED + healthy，证据直接具体，实体消歧处理合理。",
+          "solver_judgment": "question 要求确认 Dean Evans 的出生日期。search_query 搜索了 'When was Dean Evans born?'。chunks 返回了多个名为 Dean Evans 或包含该名字的人物的信息：chunk 09180c55 明确记载 'Dean Evans was born on 7 March 1990'（来源文档为 Dean Evans，通常指足球运动员）；chunk 8fd55c12 记载 'Michael Dean Evans was born on 14 April 1967'（曲棍球运动员）；chunk 13505d5f 记载 'H. Dean Evans was born... on September 1, 1929'。鉴于 question 使用的是精确名称 'Dean Evans'，chunk 09180c55 提供了最直接匹配的答案。检索结果包含了目标信息，但存在同名/近似名实体干扰，需根据名称精确度进行筛选。",
+          "critic_factual_notes": "1 个来源（文档: Dean Evans）。支撑 chunk [09180c55-3cfd-4909-b7d8-6be0453163ac] 全文为 'Dean Evans was born on 7 March 1990.'，与声称答案 '7 March 1990' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体地陈述了答案。Solver 正确识别了同名实体干扰（Michael Dean Evans 1967、H. Dean Evans 1929），并选择了名称精确匹配的实体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，实体消歧处理合理，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "09180c55-3cfd-4909-b7d8-6be0453163ac"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "8fd55c12-5376-425d-bbfb-06a116af45c1",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Dean Evans (field hockey)",
+              "page_content": "Michael Dean Evans was born on 14 April 1967."
+            },
+            {
+              "chunk_id": "09180c55-3cfd-4909-b7d8-6be0453163ac",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Dean Evans",
+              "page_content": "Dean Evans was born on 7 March 1990."
+            },
+            {
+              "chunk_id": "13505d5f-5675-47ec-bb9a-b35504bd86d1",
+              "chunk_title": "Biographical Information",
+              "chunk_summary": "This chunk contains biographical information about individuals, including their birth and death dates, locations, and ages.",
+              "context_title": "H. Dean Evans",
+              "page_content": "H. Dean Evans was born at his parents' home on September 1, 1929. H. Dean Evans died peacefully in his home on October 2, 2004. H. Dean Evans was 75 years old when H. Dean Evans died."
+            },
+            {
+              "chunk_id": "a1a5a746-9c29-4098-ae3c-34bfc738bf97",
+              "chunk_title": "Field Hockey Careers",
+              "chunk_summary": "This chunk contains information about the field hockey career and Olympic achievements of Michael Dean Evans.",
+              "context_title": "Dean Evans (field hockey)",
+              "page_content": "Michael Dean Evans was a member of the Australian field hockey team that won the silver medal at the 1992 Summer Olympics. Dean Evans was a member of the Australian Men's field hockey team in 1986. Michael Dean Evans is a former field hockey player."
+            },
+            {
+              "chunk_id": "b54ee756-7e4f-40ab-ac32-903feaa3e761",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about birth dates and times of individuals.",
+              "context_title": "Nancy Jane Dean",
+              "page_content": "Nancy Jane Dean was born on April 8, 1837."
+            },
+            {
+              "chunk_id": "59e3d2fd-9cfd-4a54-9fb9-42669533d822",
+              "chunk_title": "Tenure Dates",
+              "chunk_summary": "This chunk contains information about the tenure dates of individuals serving as State Superintendent of Indiana.",
+              "context_title": "H. Dean Evans",
+              "page_content": "H. Dean Evans served as the State Superintendent of Indiana from June 6, 1985 to January 11, 1993."
+            },
+            {
+              "chunk_id": "87eaaeb4-1014-4d3c-b4b4-42c4d706d26a",
+              "chunk_title": "Athlete Profiles",
+              "chunk_summary": "This chunk contains information about the professional background and nationality of athletes, specifically focusing on their current team affiliations.",
+              "context_title": "Dean Evans",
+              "page_content": "Dean Evans is an Australian footballer. Dean Evans currently plays for Floreat Athena FC."
+            },
+            {
+              "chunk_id": "6e7fe467-8021-410f-ab2a-a57ca814ae87",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Edvīns Šnore",
+              "page_content": "Edvīns Šnore was born on 21 March 1974."
+            },
+            {
+              "chunk_id": "c53ac9e6-ea5b-4ff6-923f-482024fe7d45",
+              "chunk_title": "Alternative Names",
+              "chunk_summary": "This chunk contains information about alternative names or aliases for individuals.",
+              "context_title": "H. Dean Evans",
+              "page_content": "H. Dean Evans was also known as Harold Dean Evans."
+            },
+            {
+              "chunk_id": "a7989b8e-2f30-460e-b2cd-1c3e438018de",
+              "chunk_title": "Nationalities & Origins",
+              "chunk_summary": "This chunk contains information about the nationalities or countries of origin of various individuals.",
+              "context_title": "Dean Evans (field hockey)",
+              "page_content": "Michael Dean Evans is from Australia."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was Paolo Marcellini born?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "5b5102eb-dee3-4c4e-b48d-44288be7e16c",
+        "92cbe979-a264-4b05-890c-334f583151c1",
+        "b5a1ebac-37e1-450a-8b42-2e36e9d44401",
+        "6851ba7d-abd0-4e1f-96f0-f430e84c204b",
+        "8f5e6816-e489-4272-a0e0-42c364851092",
+        "0afd870b-bb00-42e5-b835-8f8e08207e6d",
+        "0b26ab1d-6776-4e00-98fe-8c4b20334a07",
+        "265240ae-8d75-4570-a930-d038a8d9eb2e",
+        "4b0152e2-b447-44fa-8b36-cf8eae7c0e4c",
+        "2a56df82-a0fd-46c6-b3a3-9d0d4ecb1c5a"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was Dean Evans born?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "8fd55c12-5376-425d-bbfb-06a116af45c1",
+        "09180c55-3cfd-4909-b7d8-6be0453163ac",
+        "13505d5f-5675-47ec-bb9a-b35504bd86d1",
+        "a1a5a746-9c29-4098-ae3c-34bfc738bf97",
+        "b54ee756-7e4f-40ab-ac32-903feaa3e761",
+        "59e3d2fd-9cfd-4a54-9fb9-42669533d822",
+        "87eaaeb4-1014-4d3c-b4b4-42c4d706d26a",
+        "6e7fe467-8021-410f-ab2a-a57ca814ae87",
+        "c53ac9e6-ea5b-4ff6-923f-482024fe7d45",
+        "a7989b8e-2f30-460e-b2cd-1c3e438018de"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Paolo Marcellini born?（理由：Q 问的是两人谁出生更晚，必须先获取 Paolo Marcellini 的出生日期），F2: When was Dean Evans born?（理由：同理，需要 Dean Evans 的出生日期作为比较的另一方）。关系: F1 是 Q 的分解产物（decomposition——获取 Paolo 的出生日期是回答比较问题的必要组成部分），F2 是 Q 的分解产物（decomposition——获取 Dean 的出生日期是回答比较问题的必要组成部分）。F1 和 F2 之间无依赖关系——两者可独立搜索，最终通过比较两个日期得出 Q 的答案。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个比较型问题（'Who was born later, A or B?'），其核心语义需求是获取 A 和 B 各自的出生日期并进行时间比较。因此创建两个独立的子节点分别探测两人的出生日期，均作为根节点的 decomposition 子节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点答案聚合后可支撑 ROOT 的比较推理；③全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；④首轮无拓扑变化。推理链完整，所有节点证据充分，可生成最终答案：Dean Evans (1990) 比 Paolo Marcellini"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Paolo Marcellini born?（理由：比较型问题需先获取 Paolo Marcellini 的出生日期），F2: When was Dean Evans born?（理由：比较型问题需先获取 Dean Evans 的出生日期）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。F1 和 F2 均已 SOLVED + healthy，答案分别为 June 25, 1947 和 7 March 1990。根节点 N0 可通过比较这两个日期直接得出答案：Dean Evans 出生更晚。DAG 结构完整，无需调整。",
+      "hypothesis_delta": "新增: 无。删除: 无。换标: 无。边调整: 无。原因：上一轮（首轮）的结构假设完全被验证——N1_1 和 N1_2 均成功 SOLVED 且 Critic 判为 healthy，两个 decomposition 边语义正确。Critic 结构建议确认「整体结构简洁有效，无需调整」。本轮 INHERIT 全部节点和边，DAG 已收敛至可生成最终答案的状态。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：§5 明确指出'如这是首次出现拓扑不变（即上一轮有变化），本轮通过不意味着条件④已满足——还需下一轮确认'。当前为第 2 轮，是首次出现拓扑与上一轮一致，需第 3 轮再次确认拓扑不变后条件④才算满足。条件①②③均已通过：所有非根节点 SOLVED，推理链语义匹配（N0→N1_1 和 N0→N1_2 的 decomposition 边有效），全部节点 healthy。待条件④确认后即可"
+      }
+    }
+  ]
+}

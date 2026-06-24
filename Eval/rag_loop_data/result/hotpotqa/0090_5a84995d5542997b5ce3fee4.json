@@ -1,0 +1,680 @@
+{
+  "question_index": 90,
+  "question_id": "5a84995d5542997b5ce3fee4",
+  "question": "Cooperative Living Organization is located in a city that is the county seat of what county in Florida?",
+  "answer": "Alachua",
+  "prediction": "Alachua County",
+  "error": null,
+  "latency_ms": 217283.20639999947,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T06:01:20.510911+00:00",
+  "chunks": [
+    {
+      "chunk_id": "078f1ba8-39fc-4d8e-a635-cc65ff411aae",
+      "chunk_title": "Organization Locations",
+      "chunk_summary": "This chunk contains information about the locations of organizations.",
+      "context_title": "Cooperative Living Organization",
+      "page_content": "The Cooperative Living Organization is located in Gainesville, Florida."
+    },
+    {
+      "chunk_id": "b6e849c1-f217-4648-9d6e-b7ebcb7ebf95",
+      "chunk_title": "CLO Overview & Impact",
+      "chunk_summary": "This chunk contains information about the history, aliases, age, and social impact of the Cooperative Living Organization (CLO), including its role in supporting financially disadvantaged students and fostering independent living through pooled resources and self-governance.",
+      "context_title": "Cooperative Living Organization",
+      "page_content": "The Cooperative Living Organization provides experience in independent and socially responsible living by pooled resources. The Cooperative Living Organization is one of the oldest continuously operating independent student-governed cooperative living organizations in the United States. The Cooperative Living Organization has provided over 2000 financially disadvantaged students an opportunity for a University of Florida education. The Cooperative Living Organization was formerly known as the Collegiate Living Organization. The Cooperative Living Organization provides experience in independent and socially responsible living by self-governance. The Cooperative Living Organization provides experience in independent and socially responsible living. The Cooperative Living Organization is also known as CLO. The Cooperative Living Organization is 80 years old."
+    },
+    {
+      "chunk_id": "a3ea8b72-0bdf-465d-bb36-4aff760748bb",
+      "chunk_title": "Paulville Cooperative Community",
+      "chunk_summary": "This chunk contains information about the Paulville cooperative organization and its planned libertarian community development in Texas intended for Ron Paul supporters, including its location, ideological basis, current status, and external perspectives on its significance to the broader movement.",
+      "context_title": "Paulville",
+      "page_content": "The New York Times stated that the town of Paulville is little more than an idea and a title deed. Others have expressed the concept that the Ron Paul revolution has increasingly less to do with Ron Paul. Paulville, Texas, is an American cooperative organization. The Paulville community is being developed in the salt flats of north Hudspeth County. The Paulville community is intended to consist exclusively of Ron Paul supporters. Paulville, Texas, is a planned community under development by the Paulville cooperative organization. The Paulville community idea was named after Ron Paul. The Paulville cooperative is modeled on Ron Paul's often libertarian ideas. Paulville, Texas, is the site under development by the Paulville cooperative organization. The New York Times considers Paulville to be evidence that Ron Paul's campaign appears to be growing into something beyond a conventional protest campaign."
+    },
+    {
+      "chunk_id": "04bef44e-a45b-4df2-a45c-319da538a4be",
+      "chunk_title": "Company Locations",
+      "chunk_summary": "This chunk contains information about the location and headquarters of companies.",
+      "context_title": "Forever Living Products",
+      "page_content": "Forever Living Products International, Inc. (FLPI) is based in Scottsdale, Arizona."
+    },
+    {
+      "chunk_id": "cea2cef9-a22c-4402-b557-baef3bc5c23e",
+      "chunk_title": "Cumberland Homesteads History & Architecture",
+      "chunk_summary": "This chunk contains information about the history, architectural characteristics, and legacy of the Cumberland Homesteads, a New Deal-era subsistence homestead project.",
+      "context_title": "Cumberland Homesteads",
+      "page_content": "The Division of Subsistence Homesteads was a New Deal-era organization. The cooperative experiment at Cumberland Homesteads failed. The original houses and other buildings of the Cumberland Homesteads community are characterized by the native \"crab orchard\" sandstone used in their construction. The federal government withdrew from the Cumberland Homesteads project in the 1940s. Federal planners envisioned Cumberland Homesteads as a model of cooperative living for the region's distressed farmers, coal miners, and factory workers. The Cumberland Homesteads community was added to the National Register of Historic Places as a historic district. The Cumberland Homesteads community survived after the federal government withdrew. Several hundred of the original houses and other buildings of the Cumberland Homesteads community were added to the National Register of Historic Places in 1988."
+    },
+    {
+      "chunk_id": "0d0944de-55c0-4fd8-ace5-35f5e07ce542",
+      "chunk_title": "Geographic Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations and bases of organizations.",
+      "context_title": "And/oar",
+      "page_content": "and/OAR is based in Seattle, Washington, USA."
+    },
+    {
+      "chunk_id": "72d0b388-48ea-4d39-ba61-d76df212d5a9",
+      "chunk_title": "Institution Founding Dates",
+      "chunk_summary": "This chunk contains information about the founding dates and establishment history of financial institutions.",
+      "context_title": "Ron Ehrenreich",
+      "page_content": "The Syracuse Cooperative Federal Credit Union opened in 1982."
+    },
+    {
+      "chunk_id": "c785de50-f26a-4840-9fd6-0ca5e0a36f63",
+      "chunk_title": "Locations & Landmarks",
+      "chunk_summary": "This chunk contains information about the locations of venues and landmarks.",
+      "context_title": "Express Live!",
+      "page_content": "Express Live! is located in the Arena District of Columbus, Ohio."
+    },
+    {
+      "chunk_id": "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+      "chunk_title": "Corporate Headquarters Locations",
+      "chunk_summary": "This chunk contains information about the corporate headquarters locations of Parker Hannifin Corporation.",
+      "context_title": "Parker Hannifin",
+      "page_content": "The corporate headquarters of Parker Hannifin Corporation have a Cleveland mailing address. The corporate headquarters of Parker Hannifin Corporation are in Mayfield Heights, Ohio."
+    },
+    {
+      "chunk_id": "5f041e22-624e-410e-8e8c-69838d1dd482",
+      "chunk_title": "Organization Locations",
+      "chunk_summary": "This chunk contains information about the locations of organizations.",
+      "context_title": "Diana Lemieux",
+      "page_content": "The Lymphoma Research Foundation is located in downtown Manhattan."
+    },
+    {
+      "chunk_id": "c43ef525-136f-4fde-a0dd-2138eaad7e26",
+      "chunk_title": "Gainesville Overview",
+      "chunk_summary": "This chunk contains information about the geographic location, administrative status, and population statistics of Gainesville, Florida.",
+      "context_title": "Gainesville, Florida",
+      "page_content": "The population of Gainesville in the 2013 US Census estimates was 127,488. Gainesville is the largest city in Alachua County, Florida, United States. Gainesville is the principal city of the Gainesville, Florida Metropolitan Statistical Area (MSA). Gainesville is the largest city in the region of North Central Florida. The Gainesville-Lake City Combined Statistical Area had a 2013 population of 337,925. Gainesville is the county seat of Alachua County, Florida, United States. Gainesville is a component of the Gainesville-Lake City Combined Statistical Area. The population of Gainesville in the 2013 US Census estimates represented a 2.4% growth from 2010."
+    },
+    {
+      "chunk_id": "fbd4413b-8805-45d6-8d9d-d6b2f913b7ca",
+      "chunk_title": "County Seats & Incorporation Status",
+      "chunk_summary": "This chunk contains information about the status and characteristics of county seats, including their incorporation status and specific examples.",
+      "context_title": "List of counties in Florida",
+      "page_content": "East Naples is a county seat. Crawfordville is the county seat of Wakulla County. Crawfordville is not an incorporated municipality. East Naples is not an incorporated municipality."
+    },
+    {
+      "chunk_id": "6a762917-b9a7-4c6f-aa62-c5bbfc259780",
+      "chunk_title": "Florida Counties History & Structure",
+      "chunk_summary": "This chunk contains information about the history, formation, and administrative structure of Florida's counties.",
+      "context_title": "List of counties in Florida",
+      "page_content": "Escambia County and St. Johns County were divided by the Suwannee River. Florida's counties are subdivisions of the state government of Florida. Gilchrist County was formed from a segment of Alachua County in 1925. Florida became the 27th U.S. state in 1845. The last county in Florida was created in 1925. Gilchrist County is the last county created in Florida. All of the other counties in Florida were apportioned from Escambia County and St. Johns County. St. Johns County was to the east when Florida became a U.S. territory in 1821. There are 67 counties in the state of Florida. All but two of Florida's county seats are incorporated municipalities. Florida had two counties complementing the provincial divisions retained as a Spanish territory when Florida became a U.S. territory in 1821. Escambia County was to the west when Florida became a U.S. territory in 1821. In 1968, counties in Florida gained the power to develop their own charters. Florida became a territory of the U.S. in 1821."
+    },
+    {
+      "chunk_id": "b572add2-501f-4cb8-9744-e61090d905c4",
+      "chunk_title": "Demographic Data",
+      "chunk_summary": "This chunk contains demographic data, specifically population counts from census records for various locations.",
+      "context_title": "Dade County, Georgia",
+      "page_content": "As of the 2010 census, the population of Dade County is 16,633."
+    },
+    {
+      "chunk_id": "0e414440-f240-405e-bc56-3c15e3c80d82",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the location of airports, including specific details such as county, state, country, and distance from nearby cities.",
+      "context_title": "Palm Beach County Glades Airport",
+      "page_content": "Palm Beach County Glades Airport is located three nautical miles (6 km) southwest of the central business district of Pahokee, Florida. Palm Beach County Glades Airport is located in Palm Beach County, Florida, United States."
+    },
+    {
+      "chunk_id": "457b7cfe-0796-43f6-b7fd-7452d5713d6b",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location and boundaries of specific areas, including details on their relation to city limits and counties.",
+      "context_title": "List of counties in Florida",
+      "page_content": "East Naples is located outside Naples city limits. East Naples is in Collier County."
+    },
+    {
+      "chunk_id": "ec668768-93c1-420e-86f6-03791c549d96",
+      "chunk_title": "Town Locations",
+      "chunk_summary": "This chunk contains information about specific towns, their locations, and administrative classifications.",
+      "context_title": "Cloud Lake, Florida",
+      "page_content": "Cloud Lake is a town. The town of Cloud Lake is situated adjacent to Glen Ridge. Palm Beach County is in Florida. Cloud Lake is in Palm Beach County."
+    },
+    {
+      "chunk_id": "a72b483b-ef1f-4b03-a51b-6a2e9a9a4cda",
+      "chunk_title": "Florida City History & Status",
+      "chunk_summary": "This chunk contains information about the administrative status, location, and historical incorporation dates of cities in Florida.",
+      "context_title": "West Palm Beach, Florida",
+      "page_content": "Miami was incorporated as a city two years after West Palm Beach. West Palm Beach was incorporated as a city in November 1894. West Palm Beach is the county seat of Palm Beach County, Florida, United States. West Palm Beach is the oldest municipality in the Miami metropolitan area."
+    },
+    {
+      "chunk_id": "977684d4-5d1e-49c1-8b12-250993e2dc97",
+      "chunk_title": "Airport Ownership & Operation",
+      "chunk_summary": "This chunk contains information about the ownership, operation, and public use classification of specific airports.",
+      "context_title": "Palm Beach County Glades Airport",
+      "page_content": "Palm Beach County Glades Airport is a county owned airport. Palm Beach County Glades Airport is a public use airport. Palm Beach County Glades Airport is owned by Palm Beach County. Palm Beach County Glades Airport is operated by the Palm Beach County Airports Department."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.666667,
+  "precision": 0.5,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.15789473684210525,
+  "retrieval_count": 2,
+  "total_chunks": 19,
+  "total_distinct_titles": 15,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "Cooperative Living Organization is located in a city that is the county seat of what county in Florida?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Cooperative Living Organization is located in a city that is the county seat of what county in Florida?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需通过子事实聚合得出答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1 answer='Gainesville' + N1_2 answer='Alachua County'。推理链完整：CLO 位于 Gainesville → Gainesville 是 Alachua County 的县治 → 答案为 Alachua County。",
+          "critic_normative_advice": "推理链完整且一致，建议 INHERIT 保留当前结构。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What city is the Cooperative Living Organization located in?",
+          "answer": "Gainesville",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What city is the Cooperative Living Organization located in?",
+          "planner_rationale": "Q 询问 Cooperative Living Organization 所在城市是哪个县的县治，必须先确定该组织位于哪座城市",
+          "solver_judgment": "question 要求确认 Cooperative Living Organization 所在的城市。search_query 直接搜索了该问题。chunks 返回了 chunk 078f1ba8-39fc-4d8e-a635-cc65ff411aae，其中明确记载 'The Cooperative Living Organization is located in Gainesville, Florida.'，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Cooperative Living Organization），单来源但直接、具体地陈述了答案。支撑 chunk 078f1ba8-39fc-4d8e-a635-cc65ff411aae 全文为 'The Cooperative Living Organization is located in Gainesville, Florida.'，与声称答案 'Gainesville' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "078f1ba8-39fc-4d8e-a635-cc65ff411aae"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "078f1ba8-39fc-4d8e-a635-cc65ff411aae",
+              "chunk_title": "Organization Locations",
+              "chunk_summary": "This chunk contains information about the locations of organizations.",
+              "context_title": "Cooperative Living Organization",
+              "page_content": "The Cooperative Living Organization is located in Gainesville, Florida."
+            },
+            {
+              "chunk_id": "b6e849c1-f217-4648-9d6e-b7ebcb7ebf95",
+              "chunk_title": "CLO Overview & Impact",
+              "chunk_summary": "This chunk contains information about the history, aliases, age, and social impact of the Cooperative Living Organization (CLO), including its role in supporting financially disadvantaged students and fostering independent living through pooled resources and self-governance.",
+              "context_title": "Cooperative Living Organization",
+              "page_content": "The Cooperative Living Organization provides experience in independent and socially responsible living by pooled resources. The Cooperative Living Organization is one of the oldest continuously operating independent student-governed cooperative living organizations in the United States. The Cooperative Living Organization has provided over 2000 financially disadvantaged students an opportunity for a University of Florida education. The Cooperative Living Organization was formerly known as the Collegiate Living Organization. The Cooperative Living Organization provides experience in independent and socially responsible living by self-governance. The Cooperative Living Organization provides experience in independent and socially responsible living. The Cooperative Living Organization is also known as CLO. The Cooperative Living Organization is 80 years old."
+            },
+            {
+              "chunk_id": "a3ea8b72-0bdf-465d-bb36-4aff760748bb",
+              "chunk_title": "Paulville Cooperative Community",
+              "chunk_summary": "This chunk contains information about the Paulville cooperative organization and its planned libertarian community development in Texas intended for Ron Paul supporters, including its location, ideological basis, current status, and external perspectives on its significance to the broader movement.",
+              "context_title": "Paulville",
+              "page_content": "The New York Times stated that the town of Paulville is little more than an idea and a title deed. Others have expressed the concept that the Ron Paul revolution has increasingly less to do with Ron Paul. Paulville, Texas, is an American cooperative organization. The Paulville community is being developed in the salt flats of north Hudspeth County. The Paulville community is intended to consist exclusively of Ron Paul supporters. Paulville, Texas, is a planned community under development by the Paulville cooperative organization. The Paulville community idea was named after Ron Paul. The Paulville cooperative is modeled on Ron Paul's often libertarian ideas. Paulville, Texas, is the site under development by the Paulville cooperative organization. The New York Times considers Paulville to be evidence that Ron Paul's campaign appears to be growing into something beyond a conventional protest campaign."
+            },
+            {
+              "chunk_id": "04bef44e-a45b-4df2-a45c-319da538a4be",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the location and headquarters of companies.",
+              "context_title": "Forever Living Products",
+              "page_content": "Forever Living Products International, Inc. (FLPI) is based in Scottsdale, Arizona."
+            },
+            {
+              "chunk_id": "cea2cef9-a22c-4402-b557-baef3bc5c23e",
+              "chunk_title": "Cumberland Homesteads History & Architecture",
+              "chunk_summary": "This chunk contains information about the history, architectural characteristics, and legacy of the Cumberland Homesteads, a New Deal-era subsistence homestead project.",
+              "context_title": "Cumberland Homesteads",
+              "page_content": "The Division of Subsistence Homesteads was a New Deal-era organization. The cooperative experiment at Cumberland Homesteads failed. The original houses and other buildings of the Cumberland Homesteads community are characterized by the native \"crab orchard\" sandstone used in their construction. The federal government withdrew from the Cumberland Homesteads project in the 1940s. Federal planners envisioned Cumberland Homesteads as a model of cooperative living for the region's distressed farmers, coal miners, and factory workers. The Cumberland Homesteads community was added to the National Register of Historic Places as a historic district. The Cumberland Homesteads community survived after the federal government withdrew. Several hundred of the original houses and other buildings of the Cumberland Homesteads community were added to the National Register of Historic Places in 1988."
+            },
+            {
+              "chunk_id": "0d0944de-55c0-4fd8-ace5-35f5e07ce542",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations and bases of organizations.",
+              "context_title": "And/oar",
+              "page_content": "and/OAR is based in Seattle, Washington, USA."
+            },
+            {
+              "chunk_id": "72d0b388-48ea-4d39-ba61-d76df212d5a9",
+              "chunk_title": "Institution Founding Dates",
+              "chunk_summary": "This chunk contains information about the founding dates and establishment history of financial institutions.",
+              "context_title": "Ron Ehrenreich",
+              "page_content": "The Syracuse Cooperative Federal Credit Union opened in 1982."
+            },
+            {
+              "chunk_id": "c785de50-f26a-4840-9fd6-0ca5e0a36f63",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the locations of venues and landmarks.",
+              "context_title": "Express Live!",
+              "page_content": "Express Live! is located in the Arena District of Columbus, Ohio."
+            },
+            {
+              "chunk_id": "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+              "chunk_title": "Corporate Headquarters Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters locations of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "The corporate headquarters of Parker Hannifin Corporation have a Cleveland mailing address. The corporate headquarters of Parker Hannifin Corporation are in Mayfield Heights, Ohio."
+            },
+            {
+              "chunk_id": "5f041e22-624e-410e-8e8c-69838d1dd482",
+              "chunk_title": "Organization Locations",
+              "chunk_summary": "This chunk contains information about the locations of organizations.",
+              "context_title": "Diana Lemieux",
+              "page_content": "The Lymphoma Research Foundation is located in downtown Manhattan."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "That city is the county seat of what county in Florida?",
+          "answer": "Alachua County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Gainesville Florida county seat",
+          "planner_rationale": "Q 的核心询问——该城市作为县治，属于佛罗里达州的哪个县。此问题中的 'That city' 指代前一节点的 answer",
+          "solver_judgment": "question 要求确认 'That city' 在佛罗里达州是哪个县的县治。search_query 搜索了 'Gainesville Florida county seat'，明确了目标城市为 Gainesville。chunks 返回了 Gainesville 的概况信息，其中 chunk c43ef525-136f-4fde-a0dd-2138eaad7e26 明确记载 'Gainesville is the county seat of Alachua County, Florida, United States.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Gainesville, Florida），单来源但直接、具体地陈述了答案。支撑 chunk c43ef525-136f-4fde-a0dd-2138eaad7e26 全文包含 'Gainesville is the county seat of Alachua County, Florida, United States.'，与声称答案 'Alachua County' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "c43ef525-136f-4fde-a0dd-2138eaad7e26"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c43ef525-136f-4fde-a0dd-2138eaad7e26",
+              "chunk_title": "Gainesville Overview",
+              "chunk_summary": "This chunk contains information about the geographic location, administrative status, and population statistics of Gainesville, Florida.",
+              "context_title": "Gainesville, Florida",
+              "page_content": "The population of Gainesville in the 2013 US Census estimates was 127,488. Gainesville is the largest city in Alachua County, Florida, United States. Gainesville is the principal city of the Gainesville, Florida Metropolitan Statistical Area (MSA). Gainesville is the largest city in the region of North Central Florida. The Gainesville-Lake City Combined Statistical Area had a 2013 population of 337,925. Gainesville is the county seat of Alachua County, Florida, United States. Gainesville is a component of the Gainesville-Lake City Combined Statistical Area. The population of Gainesville in the 2013 US Census estimates represented a 2.4% growth from 2010."
+            },
+            {
+              "chunk_id": "078f1ba8-39fc-4d8e-a635-cc65ff411aae",
+              "chunk_title": "Organization Locations",
+              "chunk_summary": "This chunk contains information about the locations of organizations.",
+              "context_title": "Cooperative Living Organization",
+              "page_content": "The Cooperative Living Organization is located in Gainesville, Florida."
+            },
+            {
+              "chunk_id": "fbd4413b-8805-45d6-8d9d-d6b2f913b7ca",
+              "chunk_title": "County Seats & Incorporation Status",
+              "chunk_summary": "This chunk contains information about the status and characteristics of county seats, including their incorporation status and specific examples.",
+              "context_title": "List of counties in Florida",
+              "page_content": "East Naples is a county seat. Crawfordville is the county seat of Wakulla County. Crawfordville is not an incorporated municipality. East Naples is not an incorporated municipality."
+            },
+            {
+              "chunk_id": "6a762917-b9a7-4c6f-aa62-c5bbfc259780",
+              "chunk_title": "Florida Counties History & Structure",
+              "chunk_summary": "This chunk contains information about the history, formation, and administrative structure of Florida's counties.",
+              "context_title": "List of counties in Florida",
+              "page_content": "Escambia County and St. Johns County were divided by the Suwannee River. Florida's counties are subdivisions of the state government of Florida. Gilchrist County was formed from a segment of Alachua County in 1925. Florida became the 27th U.S. state in 1845. The last county in Florida was created in 1925. Gilchrist County is the last county created in Florida. All of the other counties in Florida were apportioned from Escambia County and St. Johns County. St. Johns County was to the east when Florida became a U.S. territory in 1821. There are 67 counties in the state of Florida. All but two of Florida's county seats are incorporated municipalities. Florida had two counties complementing the provincial divisions retained as a Spanish territory when Florida became a U.S. territory in 1821. Escambia County was to the west when Florida became a U.S. territory in 1821. In 1968, counties in Florida gained the power to develop their own charters. Florida became a territory of the U.S. in 1821."
+            },
+            {
+              "chunk_id": "b572add2-501f-4cb8-9744-e61090d905c4",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts from census records for various locations.",
+              "context_title": "Dade County, Georgia",
+              "page_content": "As of the 2010 census, the population of Dade County is 16,633."
+            },
+            {
+              "chunk_id": "0e414440-f240-405e-bc56-3c15e3c80d82",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the location of airports, including specific details such as county, state, country, and distance from nearby cities.",
+              "context_title": "Palm Beach County Glades Airport",
+              "page_content": "Palm Beach County Glades Airport is located three nautical miles (6 km) southwest of the central business district of Pahokee, Florida. Palm Beach County Glades Airport is located in Palm Beach County, Florida, United States."
+            },
+            {
+              "chunk_id": "457b7cfe-0796-43f6-b7fd-7452d5713d6b",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and boundaries of specific areas, including details on their relation to city limits and counties.",
+              "context_title": "List of counties in Florida",
+              "page_content": "East Naples is located outside Naples city limits. East Naples is in Collier County."
+            },
+            {
+              "chunk_id": "ec668768-93c1-420e-86f6-03791c549d96",
+              "chunk_title": "Town Locations",
+              "chunk_summary": "This chunk contains information about specific towns, their locations, and administrative classifications.",
+              "context_title": "Cloud Lake, Florida",
+              "page_content": "Cloud Lake is a town. The town of Cloud Lake is situated adjacent to Glen Ridge. Palm Beach County is in Florida. Cloud Lake is in Palm Beach County."
+            },
+            {
+              "chunk_id": "a72b483b-ef1f-4b03-a51b-6a2e9a9a4cda",
+              "chunk_title": "Florida City History & Status",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and historical incorporation dates of cities in Florida.",
+              "context_title": "West Palm Beach, Florida",
+              "page_content": "Miami was incorporated as a city two years after West Palm Beach. West Palm Beach was incorporated as a city in November 1894. West Palm Beach is the county seat of Palm Beach County, Florida, United States. West Palm Beach is the oldest municipality in the Miami metropolitan area."
+            },
+            {
+              "chunk_id": "977684d4-5d1e-49c1-8b12-250993e2dc97",
+              "chunk_title": "Airport Ownership & Operation",
+              "chunk_summary": "This chunk contains information about the ownership, operation, and public use classification of specific airports.",
+              "context_title": "Palm Beach County Glades Airport",
+              "page_content": "Palm Beach County Glades Airport is a county owned airport. Palm Beach County Glades Airport is a public use airport. Palm Beach County Glades Airport is owned by Palm Beach County. Palm Beach County Glades Airport is operated by the Palm Beach County Airports Department."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Cooperative Living Organization is located in a city that is the county seat of what county in Florida?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Cooperative Living Organization is located in a city that is the county seat of what county in Florida?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。推理链已完整：N1_1 answer='Gainesville' + N1_2 answer='Alachua County' → Q 的答案为 Alachua County。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。推理依据：N1_1 answer='Gainesville' + N1_2 answer='Alachua County'。推理链完整：CLO 位于 Gainesville → Gainesville 是 Alachua County 的县治 → 答案为 Alachua County。两个子节点均为 healthy，证据直接具体。",
+          "critic_normative_advice": "推理链完整且一致，建议 INHERIT 保留当前结构。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What city is the Cooperative Living Organization located in?",
+          "answer": "Gainesville",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What city is the Cooperative Living Organization located in?",
+          "planner_rationale": "Q 的第一跳分解——确定 Cooperative Living Organization 所在城市。已 SOLVED + healthy，证据直接且具体（chunk 078f1ba8 明确记载 'The Cooperative Living Organization is located in Gainesville, Florida.'），无需重搜。",
+          "solver_judgment": "question 要求确认 Cooperative Living Organization 所在的城市。search_query 直接搜索了该问题。chunks 返回了 chunk 078f1ba8-39fc-4d8e-a635-cc65ff411aae，其中明确记载 'The Cooperative Living Organization is located in Gainesville, Florida.'，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Cooperative Living Organization），单来源但直接、具体地陈述了答案。支撑 chunk 078f1ba8-39fc-4d8e-a635-cc65ff411aae 全文为 'The Cooperative Living Organization is located in Gainesville, Florida.'，与声称答案 'Gainesville' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "078f1ba8-39fc-4d8e-a635-cc65ff411aae"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "078f1ba8-39fc-4d8e-a635-cc65ff411aae",
+              "chunk_title": "Organization Locations",
+              "chunk_summary": "This chunk contains information about the locations of organizations.",
+              "context_title": "Cooperative Living Organization",
+              "page_content": "The Cooperative Living Organization is located in Gainesville, Florida."
+            },
+            {
+              "chunk_id": "b6e849c1-f217-4648-9d6e-b7ebcb7ebf95",
+              "chunk_title": "CLO Overview & Impact",
+              "chunk_summary": "This chunk contains information about the history, aliases, age, and social impact of the Cooperative Living Organization (CLO), including its role in supporting financially disadvantaged students and fostering independent living through pooled resources and self-governance.",
+              "context_title": "Cooperative Living Organization",
+              "page_content": "The Cooperative Living Organization provides experience in independent and socially responsible living by pooled resources. The Cooperative Living Organization is one of the oldest continuously operating independent student-governed cooperative living organizations in the United States. The Cooperative Living Organization has provided over 2000 financially disadvantaged students an opportunity for a University of Florida education. The Cooperative Living Organization was formerly known as the Collegiate Living Organization. The Cooperative Living Organization provides experience in independent and socially responsible living by self-governance. The Cooperative Living Organization provides experience in independent and socially responsible living. The Cooperative Living Organization is also known as CLO. The Cooperative Living Organization is 80 years old."
+            },
+            {
+              "chunk_id": "a3ea8b72-0bdf-465d-bb36-4aff760748bb",
+              "chunk_title": "Paulville Cooperative Community",
+              "chunk_summary": "This chunk contains information about the Paulville cooperative organization and its planned libertarian community development in Texas intended for Ron Paul supporters, including its location, ideological basis, current status, and external perspectives on its significance to the broader movement.",
+              "context_title": "Paulville",
+              "page_content": "The New York Times stated that the town of Paulville is little more than an idea and a title deed. Others have expressed the concept that the Ron Paul revolution has increasingly less to do with Ron Paul. Paulville, Texas, is an American cooperative organization. The Paulville community is being developed in the salt flats of north Hudspeth County. The Paulville community is intended to consist exclusively of Ron Paul supporters. Paulville, Texas, is a planned community under development by the Paulville cooperative organization. The Paulville community idea was named after Ron Paul. The Paulville cooperative is modeled on Ron Paul's often libertarian ideas. Paulville, Texas, is the site under development by the Paulville cooperative organization. The New York Times considers Paulville to be evidence that Ron Paul's campaign appears to be growing into something beyond a conventional protest campaign."
+            },
+            {
+              "chunk_id": "04bef44e-a45b-4df2-a45c-319da538a4be",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the location and headquarters of companies.",
+              "context_title": "Forever Living Products",
+              "page_content": "Forever Living Products International, Inc. (FLPI) is based in Scottsdale, Arizona."
+            },
+            {
+              "chunk_id": "cea2cef9-a22c-4402-b557-baef3bc5c23e",
+              "chunk_title": "Cumberland Homesteads History & Architecture",
+              "chunk_summary": "This chunk contains information about the history, architectural characteristics, and legacy of the Cumberland Homesteads, a New Deal-era subsistence homestead project.",
+              "context_title": "Cumberland Homesteads",
+              "page_content": "The Division of Subsistence Homesteads was a New Deal-era organization. The cooperative experiment at Cumberland Homesteads failed. The original houses and other buildings of the Cumberland Homesteads community are characterized by the native \"crab orchard\" sandstone used in their construction. The federal government withdrew from the Cumberland Homesteads project in the 1940s. Federal planners envisioned Cumberland Homesteads as a model of cooperative living for the region's distressed farmers, coal miners, and factory workers. The Cumberland Homesteads community was added to the National Register of Historic Places as a historic district. The Cumberland Homesteads community survived after the federal government withdrew. Several hundred of the original houses and other buildings of the Cumberland Homesteads community were added to the National Register of Historic Places in 1988."
+            },
+            {
+              "chunk_id": "0d0944de-55c0-4fd8-ace5-35f5e07ce542",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations and bases of organizations.",
+              "context_title": "And/oar",
+              "page_content": "and/OAR is based in Seattle, Washington, USA."
+            },
+            {
+              "chunk_id": "72d0b388-48ea-4d39-ba61-d76df212d5a9",
+              "chunk_title": "Institution Founding Dates",
+              "chunk_summary": "This chunk contains information about the founding dates and establishment history of financial institutions.",
+              "context_title": "Ron Ehrenreich",
+              "page_content": "The Syracuse Cooperative Federal Credit Union opened in 1982."
+            },
+            {
+              "chunk_id": "c785de50-f26a-4840-9fd6-0ca5e0a36f63",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the locations of venues and landmarks.",
+              "context_title": "Express Live!",
+              "page_content": "Express Live! is located in the Arena District of Columbus, Ohio."
+            },
+            {
+              "chunk_id": "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+              "chunk_title": "Corporate Headquarters Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters locations of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "The corporate headquarters of Parker Hannifin Corporation have a Cleveland mailing address. The corporate headquarters of Parker Hannifin Corporation are in Mayfield Heights, Ohio."
+            },
+            {
+              "chunk_id": "5f041e22-624e-410e-8e8c-69838d1dd482",
+              "chunk_title": "Organization Locations",
+              "chunk_summary": "This chunk contains information about the locations of organizations.",
+              "context_title": "Diana Lemieux",
+              "page_content": "The Lymphoma Research Foundation is located in downtown Manhattan."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "That city is the county seat of what county in Florida?",
+          "answer": "Alachua County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Gainesville Florida county seat",
+          "planner_rationale": "Q 的第二跳分解——确定 Gainesville 是佛罗里达州哪个县的县治。已 SOLVED + healthy，证据直接且具体（chunk c43ef525 明确记载 'Gainesville is the county seat of Alachua County, Florida, United States.'），无需重搜。",
+          "solver_judgment": "question 要求确认 'That city' 在佛罗里达州是哪个县的县治。search_query 搜索了 'Gainesville Florida county seat'，明确了目标城市为 Gainesville。chunks 返回了 Gainesville 的概况信息，其中 chunk c43ef525-136f-4fde-a0dd-2138eaad7e26 明确记载 'Gainesville is the county seat of Alachua County, Florida, United States.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Gainesville, Florida），单来源但直接、具体地陈述了答案。支撑 chunk c43ef525-136f-4fde-a0dd-2138eaad7e26 全文包含 'Gainesville is the county seat of Alachua County, Florida, United States.'，与声称答案 'Alachua County' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "c43ef525-136f-4fde-a0dd-2138eaad7e26"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "c43ef525-136f-4fde-a0dd-2138eaad7e26",
+              "chunk_title": "Gainesville Overview",
+              "chunk_summary": "This chunk contains information about the geographic location, administrative status, and population statistics of Gainesville, Florida.",
+              "context_title": "Gainesville, Florida",
+              "page_content": "The population of Gainesville in the 2013 US Census estimates was 127,488. Gainesville is the largest city in Alachua County, Florida, United States. Gainesville is the principal city of the Gainesville, Florida Metropolitan Statistical Area (MSA). Gainesville is the largest city in the region of North Central Florida. The Gainesville-Lake City Combined Statistical Area had a 2013 population of 337,925. Gainesville is the county seat of Alachua County, Florida, United States. Gainesville is a component of the Gainesville-Lake City Combined Statistical Area. The population of Gainesville in the 2013 US Census estimates represented a 2.4% growth from 2010."
+            },
+            {
+              "chunk_id": "078f1ba8-39fc-4d8e-a635-cc65ff411aae",
+              "chunk_title": "Organization Locations",
+              "chunk_summary": "This chunk contains information about the locations of organizations.",
+              "context_title": "Cooperative Living Organization",
+              "page_content": "The Cooperative Living Organization is located in Gainesville, Florida."
+            },
+            {
+              "chunk_id": "fbd4413b-8805-45d6-8d9d-d6b2f913b7ca",
+              "chunk_title": "County Seats & Incorporation Status",
+              "chunk_summary": "This chunk contains information about the status and characteristics of county seats, including their incorporation status and specific examples.",
+              "context_title": "List of counties in Florida",
+              "page_content": "East Naples is a county seat. Crawfordville is the county seat of Wakulla County. Crawfordville is not an incorporated municipality. East Naples is not an incorporated municipality."
+            },
+            {
+              "chunk_id": "6a762917-b9a7-4c6f-aa62-c5bbfc259780",
+              "chunk_title": "Florida Counties History & Structure",
+              "chunk_summary": "This chunk contains information about the history, formation, and administrative structure of Florida's counties.",
+              "context_title": "List of counties in Florida",
+              "page_content": "Escambia County and St. Johns County were divided by the Suwannee River. Florida's counties are subdivisions of the state government of Florida. Gilchrist County was formed from a segment of Alachua County in 1925. Florida became the 27th U.S. state in 1845. The last county in Florida was created in 1925. Gilchrist County is the last county created in Florida. All of the other counties in Florida were apportioned from Escambia County and St. Johns County. St. Johns County was to the east when Florida became a U.S. territory in 1821. There are 67 counties in the state of Florida. All but two of Florida's county seats are incorporated municipalities. Florida had two counties complementing the provincial divisions retained as a Spanish territory when Florida became a U.S. territory in 1821. Escambia County was to the west when Florida became a U.S. territory in 1821. In 1968, counties in Florida gained the power to develop their own charters. Florida became a territory of the U.S. in 1821."
+            },
+            {
+              "chunk_id": "b572add2-501f-4cb8-9744-e61090d905c4",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts from census records for various locations.",
+              "context_title": "Dade County, Georgia",
+              "page_content": "As of the 2010 census, the population of Dade County is 16,633."
+            },
+            {
+              "chunk_id": "0e414440-f240-405e-bc56-3c15e3c80d82",
+              "chunk_title": "Airport Locations",
+              "chunk_summary": "This chunk contains information about the location of airports, including specific details such as county, state, country, and distance from nearby cities.",
+              "context_title": "Palm Beach County Glades Airport",
+              "page_content": "Palm Beach County Glades Airport is located three nautical miles (6 km) southwest of the central business district of Pahokee, Florida. Palm Beach County Glades Airport is located in Palm Beach County, Florida, United States."
+            },
+            {
+              "chunk_id": "457b7cfe-0796-43f6-b7fd-7452d5713d6b",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and boundaries of specific areas, including details on their relation to city limits and counties.",
+              "context_title": "List of counties in Florida",
+              "page_content": "East Naples is located outside Naples city limits. East Naples is in Collier County."
+            },
+            {
+              "chunk_id": "ec668768-93c1-420e-86f6-03791c549d96",
+              "chunk_title": "Town Locations",
+              "chunk_summary": "This chunk contains information about specific towns, their locations, and administrative classifications.",
+              "context_title": "Cloud Lake, Florida",
+              "page_content": "Cloud Lake is a town. The town of Cloud Lake is situated adjacent to Glen Ridge. Palm Beach County is in Florida. Cloud Lake is in Palm Beach County."
+            },
+            {
+              "chunk_id": "a72b483b-ef1f-4b03-a51b-6a2e9a9a4cda",
+              "chunk_title": "Florida City History & Status",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and historical incorporation dates of cities in Florida.",
+              "context_title": "West Palm Beach, Florida",
+              "page_content": "Miami was incorporated as a city two years after West Palm Beach. West Palm Beach was incorporated as a city in November 1894. West Palm Beach is the county seat of Palm Beach County, Florida, United States. West Palm Beach is the oldest municipality in the Miami metropolitan area."
+            },
+            {
+              "chunk_id": "977684d4-5d1e-49c1-8b12-250993e2dc97",
+              "chunk_title": "Airport Ownership & Operation",
+              "chunk_summary": "This chunk contains information about the ownership, operation, and public use classification of specific airports.",
+              "context_title": "Palm Beach County Glades Airport",
+              "page_content": "Palm Beach County Glades Airport is a county owned airport. Palm Beach County Glades Airport is a public use airport. Palm Beach County Glades Airport is owned by Palm Beach County. Palm Beach County Glades Airport is operated by the Palm Beach County Airports Department."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What city is the Cooperative Living Organization located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "078f1ba8-39fc-4d8e-a635-cc65ff411aae",
+        "b6e849c1-f217-4648-9d6e-b7ebcb7ebf95",
+        "a3ea8b72-0bdf-465d-bb36-4aff760748bb",
+        "04bef44e-a45b-4df2-a45c-319da538a4be",
+        "cea2cef9-a22c-4402-b557-baef3bc5c23e",
+        "0d0944de-55c0-4fd8-ace5-35f5e07ce542",
+        "72d0b388-48ea-4d39-ba61-d76df212d5a9",
+        "c785de50-f26a-4840-9fd6-0ca5e0a36f63",
+        "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+        "5f041e22-624e-410e-8e8c-69838d1dd482"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Gainesville Florida county seat",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "c43ef525-136f-4fde-a0dd-2138eaad7e26",
+        "078f1ba8-39fc-4d8e-a635-cc65ff411aae",
+        "fbd4413b-8805-45d6-8d9d-d6b2f913b7ca",
+        "6a762917-b9a7-4c6f-aa62-c5bbfc259780",
+        "b572add2-501f-4cb8-9744-e61090d905c4",
+        "0e414440-f240-405e-bc56-3c15e3c80d82",
+        "457b7cfe-0796-43f6-b7fd-7452d5713d6b",
+        "ec668768-93c1-420e-86f6-03791c549d96",
+        "a72b483b-ef1f-4b03-a51b-6a2e9a9a4cda",
+        "977684d4-5d1e-49c1-8b12-250993e2dc97"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What city is the Cooperative Living Organization located in?（理由：Q 询问该组织所在城市是哪个县的县治，必须先确定城市身份），F2: That city is the county seat of what county in Florida?（理由：Q 的核心询问——该城市作为县治属于佛罗里达州哪个县）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'That city' 必须用 F1 的 answer 消解后才能搜索）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question='What city is the Cooperative Living Organization located in?'，rationale='确定组织所在城市'），$2（question='That city is the county seat of what county in Florida?'，rationale='确定该城市所属县'）。新增边: N0→$1（decomposition，$1 是 Q 的第一跳分解），N0→$2（decomposition，$2 是 Q 的第二跳分解），$1→$2（dependency，$2 的 'That city' 指代 $1 的 answer）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配——N1_1 answer='Gainesville' 消解 N1_2 中 'That city' 指代，依赖链完整；③全部节点（N0/N1_1/N1_2）均为 healthy；④首轮无拓扑变化。推理链完整（CLO→Gainesville→Alachua County），所有节点证据充分（单来源但直接具体），可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What city is the Cooperative Living Organization located in?（理由：Q 询问该组织所在城市是哪个县的县治，必须先确定城市身份），F2: That city is the county seat of what county in Florida?（理由：Q 的核心询问——该城市作为县治属于佛罗里达州哪个县）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'That city' 必须用 F1 的 answer 消解后才能搜索）。当前 DAG 已完全覆盖 Q 的语义需求，两跳推理链完整：CLO → Gainesville → Alachua County。",
+      "hypothesis_delta": "与上一轮相比，无结构变更。原因：上一轮假设的 F1/F2 分解结构已被完全验证——N1_1 和 N1_2 均为 SOLVED + healthy，Critic 确认证据充分且推理链完整。DAG 已收敛至理想结构，无需新增、删除或换标任何节点。本轮全部 INHERIT 保留。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N1_1 answer='Gainesville' 消解 N1_2 question 中的 'That city'，依赖链完整有效；条件③全部节点（N0/N1_1/N1_2）均为 healthy；条件④本轮拓扑与上一轮一致。推理链完整（CLO→Gainesville→Alachua County），所有节点证据充分，可生成最"
+      }
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "question_index": 96,
+  "question_id": "5a87106555429960ec39b71f",
+  "question": "Susanna Thompson appeared in the courtroom drama film Ghosts of Mississippi, directed by who?",
+  "answer": "Rob Reiner",
+  "prediction": "Rob Reiner",
+  "error": null,
+  "latency_ms": 171716.1159999996,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T06:15:59.377753+00:00",
+  "chunks": [
+    {
+      "chunk_id": "84e05e92-ab4c-4afd-b782-a66c6dbdbb56",
+      "chunk_title": "Ghosts of Mississippi Film",
+      "chunk_summary": "This chunk contains information about the 1996 biographical courtroom drama film \"Ghosts of Mississippi,\" including its director, starring actors, and plot based on the true story of Byron De La Beckwith's trial for the assassination of civil rights activist Medgar Evers.",
+      "context_title": "Ghosts of Mississippi",
+      "page_content": "Ghosts of Mississippi is a 1996 American biographical courtroom drama film. Byron De La Beckwith was a white supremacist. Ghosts of Mississippi stars James Woods. Byron De La Beckwith was accused of the 1963 assassination of Medgar Evers. Ghosts of Mississippi stars Whoopi Goldberg. Ghosts of Mississippi stars Alec Baldwin. Medgar Evers was a civil rights activist. Ghosts of Mississippi was directed by Rob Reiner. The plot of Ghosts of Mississippi is based on the true story of the 1994 trial of Byron De La Beckwith."
+    },
+    {
+      "chunk_id": "44393719-99d2-4935-a686-b9d0fcc1f6f3",
+      "chunk_title": "Films & Real Events",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, directors, and the real-life events they are based on.",
+      "context_title": "Ghosts (2006 film)",
+      "page_content": "Ghosts was directed by Nick Broomfield. Ghosts is based on the 2004 Morecambe Bay cockling disaster. Ghosts is a 2006 drama film."
+    },
+    {
+      "chunk_id": "91b5c6ec-d79e-4363-9803-826cf7b17bc6",
+      "chunk_title": "Susanna Thompson's Career",
+      "chunk_summary": "This chunk contains information about the identity, profession, and notable film and television roles of Susanna Thompson.",
+      "context_title": "Susanna Thompson",
+      "page_content": "Susanna Thompson is an American actress. Susanna Thompson is known for her role in the film \"Dragonfly\" (2002). From 2012 to 2014, Susanna Thompson starred as Moira Queen. Susanna Thompson is known for her role in the film \"Ghosts of Mississippi\" (1996). Susanna Thompson is known for her role in the film \"Random Hearts\" (1999). Susanna Thompson is known for her role in the film \"Little Giants\" (1994). Susanna Thompson was a regular cast member in the CW series \"Arrow\" from 2012 to 2014. Susanna Thompson is known for her role as Karen Sammler on the ABC drama series \"Once and Again\" (1999–2002)."
+    },
+    {
+      "chunk_id": "eb11efdd-9f71-4eb9-a6b5-5e2c8c5d1379",
+      "chunk_title": "Work Creators",
+      "chunk_summary": "This chunk contains information about the creators of various works, such as films or scripts.",
+      "context_title": "Timecode (film)",
+      "page_content": "Timecode was directed by Mike Figgis. Timecode was written by Mike Figgis."
+    },
+    {
+      "chunk_id": "8c35c79b-710b-454c-9f57-1d0b1402fd96",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of various films.",
+      "context_title": "Greg Rowe",
+      "page_content": "\"Freedom\" was directed by Scott Hicks."
+    },
+    {
+      "chunk_id": "413f921e-0f18-4fc7-bdec-5538f491c879",
+      "chunk_title": "Manson Documentary",
+      "chunk_summary": "This chunk contains information about the documentary film Manson, including its release year, directors, and subject matter.",
+      "context_title": "Manson (film)",
+      "page_content": "Manson was directed by Robert Hendrickson. Manson is about Charles Manson and his followers. Manson is a documentary film. Manson was directed by Laurence Merrick. Manson was made in 1973."
+    },
+    {
+      "chunk_id": "160fa100-ddd7-48a2-be6b-6bef75280b0f",
+      "chunk_title": "Margaret Mitchell Biopic",
+      "chunk_summary": "This chunk contains information about the 1994 biographical television film \"A Burning Passion: The Margaret Mitchell Story,\" including its director, subject matter, and details about the real-life author it portrays.",
+      "context_title": "A Burning Passion: The Margaret Mitchell Story",
+      "page_content": "The film A Burning Passion: The Margaret Mitchell Story is about Margaret Mitchell. A Burning Passion: The Margaret Mitchell Story was directed by Larry Peerce. Margaret Mitchell landed to fame when she wrote Gone with the Wind. A Burning Passion: The Margaret Mitchell Story is a 1994 biographical television film. Margaret Mitchell was a Pulitzer Prize-winning novel writer."
+    },
+    {
+      "chunk_id": "0e1933fa-1348-41da-9135-5380c22f43fe",
+      "chunk_title": "Notable Directors",
+      "chunk_summary": "This chunk contains information about notable movie directors.",
+      "context_title": "Reassuringly Expensive",
+      "page_content": "Jonathan Glazer was a notable movie director."
+    },
+    {
+      "chunk_id": "7cfd9a67-63ff-4f14-9e93-2f1d6dc78dab",
+      "chunk_title": "Feature Films & Directors",
+      "chunk_summary": "This chunk contains information about feature films, including their titles, directors, and release dates.",
+      "context_title": "Werner Herzog Eats His Shoe",
+      "page_content": "Even Dwarfs Started Small was released in 1970. Even Dwarfs Started Small is a feature film. Errol Morris completed the film Gates of Heaven. Even Dwarfs Started Small was directed by Werner Herzog."
+    },
+    {
+      "chunk_id": "e2397a2a-fcce-4bf4-8b9c-d5cf8ea9fb5c",
+      "chunk_title": "Film Directors & Nationalities",
+      "chunk_summary": "This chunk contains information about film directors and their nationalities.",
+      "context_title": "Robert Z. Leonard",
+      "page_content": "Robert Zigler Leonard was an American film director."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2,
+  "retrieval_count": 1,
+  "total_chunks": 10,
+  "total_distinct_titles": 10,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 2,
+  "dag_edges": 1,
+  "dag_snapshots": [
+    {
+      "q": "Susanna Thompson appeared in the courtroom drama film Ghosts of Mississippi, directed by who?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Susanna Thompson appeared in the courtroom drama film Ghosts of Mississippi, directed by who?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Susanna Thompson 出演的法庭剧情片《Ghosts of Mississippi》的导演是谁",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链合成。子节点 N1_1 提供答案 Rob Reiner，来源为文档 Ghosts of Mississippi 中的 chunk 84e05e92，直接陈述 'Ghosts of Mississippi was directed by Rob Reiner'。推理链完整：N1_1 的 answer 直接构成 Q 的 answer。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 证据充分，推理链完整，ROOT 可直接由 N1_1 的答案合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film Ghosts of Mississippi?",
+          "answer": "Rob Reiner",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film Ghosts of Mississippi?",
+          "planner_rationale": "Q 的核心询问——该片的导演身份。这是回答 Q 所需的唯一关键事实，Susanna Thompson 的出演信息仅用于识别影片",
+          "solver_judgment": "question 要求确认电影《Ghosts of Mississippi》的导演。search_query 搜索了 'Who directed the film Ghosts of Mississippi?'。chunks 返回了关于该电影的详细信息，其中 chunk 84e05e92-ab4c-4afd-b782-a66c6dbdbb56 明确记载 'Ghosts of Mississippi was directed by Rob Reiner'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Ghosts of Mississippi），单来源但直接、具体地陈述了答案。支撑 chunk 84e05e92-ab4c-4afd-b782-a66c6dbdbb56 全文逐字包含 'Ghosts of Mississippi was directed by Rob Reiner'，与声称答案 'Rob Reiner' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，搜索精准，chunk 直接回答问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "84e05e92-ab4c-4afd-b782-a66c6dbdbb56"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "84e05e92-ab4c-4afd-b782-a66c6dbdbb56",
+              "chunk_title": "Ghosts of Mississippi Film",
+              "chunk_summary": "This chunk contains information about the 1996 biographical courtroom drama film \"Ghosts of Mississippi,\" including its director, starring actors, and plot based on the true story of Byron De La Beckwith's trial for the assassination of civil rights activist Medgar Evers.",
+              "context_title": "Ghosts of Mississippi",
+              "page_content": "Ghosts of Mississippi is a 1996 American biographical courtroom drama film. Byron De La Beckwith was a white supremacist. Ghosts of Mississippi stars James Woods. Byron De La Beckwith was accused of the 1963 assassination of Medgar Evers. Ghosts of Mississippi stars Whoopi Goldberg. Ghosts of Mississippi stars Alec Baldwin. Medgar Evers was a civil rights activist. Ghosts of Mississippi was directed by Rob Reiner. The plot of Ghosts of Mississippi is based on the true story of the 1994 trial of Byron De La Beckwith."
+            },
+            {
+              "chunk_id": "44393719-99d2-4935-a686-b9d0fcc1f6f3",
+              "chunk_title": "Films & Real Events",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, directors, and the real-life events they are based on.",
+              "context_title": "Ghosts (2006 film)",
+              "page_content": "Ghosts was directed by Nick Broomfield. Ghosts is based on the 2004 Morecambe Bay cockling disaster. Ghosts is a 2006 drama film."
+            },
+            {
+              "chunk_id": "91b5c6ec-d79e-4363-9803-826cf7b17bc6",
+              "chunk_title": "Susanna Thompson's Career",
+              "chunk_summary": "This chunk contains information about the identity, profession, and notable film and television roles of Susanna Thompson.",
+              "context_title": "Susanna Thompson",
+              "page_content": "Susanna Thompson is an American actress. Susanna Thompson is known for her role in the film \"Dragonfly\" (2002). From 2012 to 2014, Susanna Thompson starred as Moira Queen. Susanna Thompson is known for her role in the film \"Ghosts of Mississippi\" (1996). Susanna Thompson is known for her role in the film \"Random Hearts\" (1999). Susanna Thompson is known for her role in the film \"Little Giants\" (1994). Susanna Thompson was a regular cast member in the CW series \"Arrow\" from 2012 to 2014. Susanna Thompson is known for her role as Karen Sammler on the ABC drama series \"Once and Again\" (1999–2002)."
+            },
+            {
+              "chunk_id": "eb11efdd-9f71-4eb9-a6b5-5e2c8c5d1379",
+              "chunk_title": "Work Creators",
+              "chunk_summary": "This chunk contains information about the creators of various works, such as films or scripts.",
+              "context_title": "Timecode (film)",
+              "page_content": "Timecode was directed by Mike Figgis. Timecode was written by Mike Figgis."
+            },
+            {
+              "chunk_id": "8c35c79b-710b-454c-9f57-1d0b1402fd96",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Greg Rowe",
+              "page_content": "\"Freedom\" was directed by Scott Hicks."
+            },
+            {
+              "chunk_id": "413f921e-0f18-4fc7-bdec-5538f491c879",
+              "chunk_title": "Manson Documentary",
+              "chunk_summary": "This chunk contains information about the documentary film Manson, including its release year, directors, and subject matter.",
+              "context_title": "Manson (film)",
+              "page_content": "Manson was directed by Robert Hendrickson. Manson is about Charles Manson and his followers. Manson is a documentary film. Manson was directed by Laurence Merrick. Manson was made in 1973."
+            },
+            {
+              "chunk_id": "160fa100-ddd7-48a2-be6b-6bef75280b0f",
+              "chunk_title": "Margaret Mitchell Biopic",
+              "chunk_summary": "This chunk contains information about the 1994 biographical television film \"A Burning Passion: The Margaret Mitchell Story,\" including its director, subject matter, and details about the real-life author it portrays.",
+              "context_title": "A Burning Passion: The Margaret Mitchell Story",
+              "page_content": "The film A Burning Passion: The Margaret Mitchell Story is about Margaret Mitchell. A Burning Passion: The Margaret Mitchell Story was directed by Larry Peerce. Margaret Mitchell landed to fame when she wrote Gone with the Wind. A Burning Passion: The Margaret Mitchell Story is a 1994 biographical television film. Margaret Mitchell was a Pulitzer Prize-winning novel writer."
+            },
+            {
+              "chunk_id": "0e1933fa-1348-41da-9135-5380c22f43fe",
+              "chunk_title": "Notable Directors",
+              "chunk_summary": "This chunk contains information about notable movie directors.",
+              "context_title": "Reassuringly Expensive",
+              "page_content": "Jonathan Glazer was a notable movie director."
+            },
+            {
+              "chunk_id": "7cfd9a67-63ff-4f14-9e93-2f1d6dc78dab",
+              "chunk_title": "Feature Films & Directors",
+              "chunk_summary": "This chunk contains information about feature films, including their titles, directors, and release dates.",
+              "context_title": "Werner Herzog Eats His Shoe",
+              "page_content": "Even Dwarfs Started Small was released in 1970. Even Dwarfs Started Small is a feature film. Errol Morris completed the film Gates of Heaven. Even Dwarfs Started Small was directed by Werner Herzog."
+            },
+            {
+              "chunk_id": "e2397a2a-fcce-4bf4-8b9c-d5cf8ea9fb5c",
+              "chunk_title": "Film Directors & Nationalities",
+              "chunk_summary": "This chunk contains information about film directors and their nationalities.",
+              "context_title": "Robert Z. Leonard",
+              "page_content": "Robert Zigler Leonard was an American film director."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Susanna Thompson appeared in the courtroom drama film Ghosts of Mississippi, directed by who?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Susanna Thompson appeared in the courtroom drama film Ghosts of Mississippi, directed by who?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已 SOLVED + healthy，答案 Rob Reiner 由 KB 直接支撑，推理链完整，ROOT 可由 N1_1 的答案合成最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链合成。子节点 N1_1 提供答案 Rob Reiner，来源为文档 Ghosts of Mississippi 中的 chunk 84e05e92，直接陈述 'Ghosts of Mississippi was directed by Rob Reiner'。推理链完整：N1_1 的 answer 直接构成 Q 的 answer。",
+          "critic_normative_advice": "建议 INHERIT——子节点 N1_1 证据充分，推理链完整，ROOT 可直接由 N1_1 的答案合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film Ghosts of Mississippi?",
+          "answer": "Rob Reiner",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film Ghosts of Mississippi?",
+          "planner_rationale": "该节点已 SOLVED + healthy，答案 Rob Reiner 由 chunk 84e05e92 直接陈述 'Ghosts of Mississippi was directed by Rob Reiner' 支撑，证据充分，无需进一步搜索",
+          "solver_judgment": "question 要求确认电影《Ghosts of Mississippi》的导演。search_query 搜索了 'Who directed the film Ghosts of Mississippi?'。chunks 返回了关于该电影的详细信息，其中 chunk 84e05e92-ab4c-4afd-b782-a66c6dbdbb56 明确记载 'Ghosts of Mississippi was directed by Rob Reiner'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Ghosts of Mississippi），单来源但直接、具体地陈述了答案。支撑 chunk 84e05e92-ab4c-4afd-b782-a66c6dbdbb56 全文逐字包含 'Ghosts of Mississippi was directed by Rob Reiner'，与声称答案 'Rob Reiner' 完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，搜索精准，chunk 直接回答问题，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "84e05e92-ab4c-4afd-b782-a66c6dbdbb56"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "84e05e92-ab4c-4afd-b782-a66c6dbdbb56",
+              "chunk_title": "Ghosts of Mississippi Film",
+              "chunk_summary": "This chunk contains information about the 1996 biographical courtroom drama film \"Ghosts of Mississippi,\" including its director, starring actors, and plot based on the true story of Byron De La Beckwith's trial for the assassination of civil rights activist Medgar Evers.",
+              "context_title": "Ghosts of Mississippi",
+              "page_content": "Ghosts of Mississippi is a 1996 American biographical courtroom drama film. Byron De La Beckwith was a white supremacist. Ghosts of Mississippi stars James Woods. Byron De La Beckwith was accused of the 1963 assassination of Medgar Evers. Ghosts of Mississippi stars Whoopi Goldberg. Ghosts of Mississippi stars Alec Baldwin. Medgar Evers was a civil rights activist. Ghosts of Mississippi was directed by Rob Reiner. The plot of Ghosts of Mississippi is based on the true story of the 1994 trial of Byron De La Beckwith."
+            },
+            {
+              "chunk_id": "44393719-99d2-4935-a686-b9d0fcc1f6f3",
+              "chunk_title": "Films & Real Events",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, directors, and the real-life events they are based on.",
+              "context_title": "Ghosts (2006 film)",
+              "page_content": "Ghosts was directed by Nick Broomfield. Ghosts is based on the 2004 Morecambe Bay cockling disaster. Ghosts is a 2006 drama film."
+            },
+            {
+              "chunk_id": "91b5c6ec-d79e-4363-9803-826cf7b17bc6",
+              "chunk_title": "Susanna Thompson's Career",
+              "chunk_summary": "This chunk contains information about the identity, profession, and notable film and television roles of Susanna Thompson.",
+              "context_title": "Susanna Thompson",
+              "page_content": "Susanna Thompson is an American actress. Susanna Thompson is known for her role in the film \"Dragonfly\" (2002). From 2012 to 2014, Susanna Thompson starred as Moira Queen. Susanna Thompson is known for her role in the film \"Ghosts of Mississippi\" (1996). Susanna Thompson is known for her role in the film \"Random Hearts\" (1999). Susanna Thompson is known for her role in the film \"Little Giants\" (1994). Susanna Thompson was a regular cast member in the CW series \"Arrow\" from 2012 to 2014. Susanna Thompson is known for her role as Karen Sammler on the ABC drama series \"Once and Again\" (1999–2002)."
+            },
+            {
+              "chunk_id": "eb11efdd-9f71-4eb9-a6b5-5e2c8c5d1379",
+              "chunk_title": "Work Creators",
+              "chunk_summary": "This chunk contains information about the creators of various works, such as films or scripts.",
+              "context_title": "Timecode (film)",
+              "page_content": "Timecode was directed by Mike Figgis. Timecode was written by Mike Figgis."
+            },
+            {
+              "chunk_id": "8c35c79b-710b-454c-9f57-1d0b1402fd96",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of various films.",
+              "context_title": "Greg Rowe",
+              "page_content": "\"Freedom\" was directed by Scott Hicks."
+            },
+            {
+              "chunk_id": "413f921e-0f18-4fc7-bdec-5538f491c879",
+              "chunk_title": "Manson Documentary",
+              "chunk_summary": "This chunk contains information about the documentary film Manson, including its release year, directors, and subject matter.",
+              "context_title": "Manson (film)",
+              "page_content": "Manson was directed by Robert Hendrickson. Manson is about Charles Manson and his followers. Manson is a documentary film. Manson was directed by Laurence Merrick. Manson was made in 1973."
+            },
+            {
+              "chunk_id": "160fa100-ddd7-48a2-be6b-6bef75280b0f",
+              "chunk_title": "Margaret Mitchell Biopic",
+              "chunk_summary": "This chunk contains information about the 1994 biographical television film \"A Burning Passion: The Margaret Mitchell Story,\" including its director, subject matter, and details about the real-life author it portrays.",
+              "context_title": "A Burning Passion: The Margaret Mitchell Story",
+              "page_content": "The film A Burning Passion: The Margaret Mitchell Story is about Margaret Mitchell. A Burning Passion: The Margaret Mitchell Story was directed by Larry Peerce. Margaret Mitchell landed to fame when she wrote Gone with the Wind. A Burning Passion: The Margaret Mitchell Story is a 1994 biographical television film. Margaret Mitchell was a Pulitzer Prize-winning novel writer."
+            },
+            {
+              "chunk_id": "0e1933fa-1348-41da-9135-5380c22f43fe",
+              "chunk_title": "Notable Directors",
+              "chunk_summary": "This chunk contains information about notable movie directors.",
+              "context_title": "Reassuringly Expensive",
+              "page_content": "Jonathan Glazer was a notable movie director."
+            },
+            {
+              "chunk_id": "7cfd9a67-63ff-4f14-9e93-2f1d6dc78dab",
+              "chunk_title": "Feature Films & Directors",
+              "chunk_summary": "This chunk contains information about feature films, including their titles, directors, and release dates.",
+              "context_title": "Werner Herzog Eats His Shoe",
+              "page_content": "Even Dwarfs Started Small was released in 1970. Even Dwarfs Started Small is a feature film. Errol Morris completed the film Gates of Heaven. Even Dwarfs Started Small was directed by Werner Herzog."
+            },
+            {
+              "chunk_id": "e2397a2a-fcce-4bf4-8b9c-d5cf8ea9fb5c",
+              "chunk_title": "Film Directors & Nationalities",
+              "chunk_summary": "This chunk contains information about film directors and their nationalities.",
+              "context_title": "Robert Z. Leonard",
+              "page_content": "Robert Zigler Leonard was an American film director."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who directed the film Ghosts of Mississippi?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "84e05e92-ab4c-4afd-b782-a66c6dbdbb56",
+        "44393719-99d2-4935-a686-b9d0fcc1f6f3",
+        "91b5c6ec-d79e-4363-9803-826cf7b17bc6",
+        "eb11efdd-9f71-4eb9-a6b5-5e2c8c5d1379",
+        "8c35c79b-710b-454c-9f57-1d0b1402fd96",
+        "413f921e-0f18-4fc7-bdec-5538f491c879",
+        "160fa100-ddd7-48a2-be6b-6bef75280b0f",
+        "0e1933fa-1348-41da-9135-5380c22f43fe",
+        "7cfd9a67-63ff-4f14-9e93-2f1d6dc78dab",
+        "e2397a2a-fcce-4bf4-8b9c-d5cf8ea9fb5c"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed the film Ghosts of Mississippi?（理由：Q 的核心询问就是该片的导演，Susanna Thompson 的出演信息只是辅助识别影片的背景信息，不影响核心问题的求解）。关系: F1 是 Q 的分解产物（decomposition）——F1 的 answer 直接构成 Q 的 answer。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question=\"Who directed the film Ghosts of Mississippi?\"），原因：Q 本质上是一个简单的事实查询——询问某部已知电影的导演。Susanna Thompson 的出演信息是识别性上下文，不构成独立的语义需求。新增边: N0→$1（decomposition），原因：$1 是 Q 的直接分解，其 answer 即为 Q 的答案。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N0→N1_1 的 decomposition 边有效，N1_1 的 answer 'Rob Reiner' 直接回答 Q；条件③全部节点 healthy（N0 和 N1_1 均为 healthy）；条件④首轮不适用。推理链完整，所有节点证据充分，可生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立的事实只有一个：F1: Who directed the film Ghosts of Mississippi?（理由：Q 的核心询问就是该片的导演，Susanna Thompson 的出演信息是辅助识别影片的背景，不构成独立语义需求）。关系：F1 是 Q 的分解产物（decomposition）——F1 的 answer 直接构成 Q 的 answer。当前 DAG 已完整覆盖此结构，N1_1 已 SOLVED 且 healthy，答案 Rob Reiner 证据充分。",
+      "hypothesis_delta": "与上一轮相比，无实质结构变更。N0（根节点）和 N1_1 均通过 INHERIT 保留。显式添加 LINK N0→N1_1（decomposition）以维持原有推理链。原因：上一轮的结构假设被完全验证——N1_1 成功求解，答案 Rob Reiner 由 KB 直接支撑，Critic 判定证据充分且推理链完整，Q 的所有语义需求已被覆盖，无需新增、删除或换标任何节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED（N1_1 solved）；条件②推理链语义匹配——N0→N1_1 的 decomposition 边语义有效，N1_1 的 answer 'Rob Reiner' 直接构成 Q 的 answer；条件③全部节点 healthy（N0 healthy，N1_1 healthy）；条件④拓扑连续两轮不变。推理链完整，所有节点证据充分，答案 Rob Re"
+      }
+    }
+  ]
+}

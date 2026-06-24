@@ -1,0 +1,677 @@
+{
+  "question_index": 232,
+  "question_id": "d43c730a086d11ebbd62ac1f6bf848b6",
+  "question": "Which film was released more recently, The Silver Trail or Raja Nandini?",
+  "answer": "Raja Nandini",
+  "prediction": "Raja Nandini",
+  "error": null,
+  "latency_ms": 230124.16920000396,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T12:37:48.111400+00:00",
+  "chunks": [
+    {
+      "chunk_id": "a5edd18f-45a4-41dc-99d7-249581f9f7d4",
+      "chunk_title": "Films & Release Years",
+      "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+      "context_title": "The Silver Trail",
+      "page_content": "The Silver Trail is a 1937 American film."
+    },
+    {
+      "chunk_id": "e7dc7ee0-8d05-48af-92a3-aa0563d51ca5",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "The Silver Trail",
+      "page_content": "The Silver Trail was directed by Bernard B. Ray."
+    },
+    {
+      "chunk_id": "cba3b61c-2ac8-4d24-abd0-ce334761c351",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of films, primarily Westerns.",
+      "context_title": "John Wayne",
+      "page_content": "\"The Quiet Man\" was released in 1952. \"The Big Trail\" was released in 1930. \"The Shootist\" was released in 1976. \"The Man Who Shot Liberty Valance\" was released in 1962. \"True Grit\" was released in 1969. \"Rio Bravo\" was released in 1959. \"The Searchers\" was released in 1956. \"The Longest Day\" was released in 1962. \"Stagecoach\" was released in 1939. \"Red River\" was released in 1948."
+    },
+    {
+      "chunk_id": "346674cc-0b56-46a1-9811-908966908856",
+      "chunk_title": "The Trail of the Lonesome Pine Film Adaptations",
+      "chunk_summary": "This chunk contains information about the 1923 silent film \"The Trail of the Lonesome Pine,\" including its director, source material, cast, significance as Mary Miles Minter's final role, its current status as a lost film, and mentions of other adaptations.",
+      "context_title": "The Trail of the Lonesome Pine (1923 film)",
+      "page_content": "An earlier 1914 silent version of The Trail of the Lonesome Pine exists. The Trail of the Lonesome Pine (1923 film) starred Mary Miles Minter. A 1936 all color and sound film version of The Trail of the Lonesome Pine exists. The Trail of the Lonesome Pine (1923 film) is based on a novel of the same name. The Trail of the Lonesome Pine (1923 film) is now considered lost. The role in The Trail of the Lonesome Pine (1923 film) was Mary Miles Minter's final film role. Three other adaptions of The Trail of the Lonesome Pine exist. The Trail of the Lonesome Pine (1923 film) is based on a play of the same name. The Trail of the Lonesome Pine is a 1923 American silent drama film. The Trail of the Lonesome Pine (1923 film) was directed by Charles Maigne. An earlier 1916 silent version of The Trail of the Lonesome Pine exists."
+    },
+    {
+      "chunk_id": "1f80ae92-bb41-4c02-a8c3-d1a7c3475f89",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the publication dates of songs.",
+      "context_title": "Percy Wenrich",
+      "page_content": "\"Sail Along, Silv'ry Moon\" was published in 1937."
+    },
+    {
+      "chunk_id": "78f58ef6-9e81-4234-9f91-8a28b45448d5",
+      "chunk_title": "The Trail of the Lonesome Pine Film Adaptations",
+      "chunk_summary": "This chunk contains information about the 1923 silent film \"The Trail of the Lonesome Pine,\" including its production details, cast, status as a lost film, and other adaptations of the story.",
+      "context_title": "The Trail of the Lonesome Pine (1923 film)",
+      "page_content": "One adaption of The Trail of the Lonesome Pine is a 1916 silent version. The Trail of the Lonesome Pine (1923 film) starred Mary Miles Minter. The Trail of the Lonesome Pine (1923 film) is now considered lost. The Trail of the Lonesome Pine is a 1923 American silent drama film. One adaption of The Trail of the Lonesome Pine is a 1936 all color and sound film. Three other adaptions of The Trail of the Lonesome Pine exist. The Trail of the Lonesome Pine (1923 film) was directed by Charles Maigne. One adaption of The Trail of the Lonesome Pine is a 1914 silent version. The Trail of the Lonesome Pine (1923 film) is based on a play of the same name. The Trail of the Lonesome Pine (1923 film) is based on a novel of the same name. The role in The Trail of the Lonesome Pine (1923 film) was Mary Miles Minter's final film role."
+    },
+    {
+      "chunk_id": "074730a9-16c3-41b3-8df7-08900a78f4d2",
+      "chunk_title": "Films & Media",
+      "chunk_summary": "This chunk contains information about the 1924 silent film \"The Trail of the Law,\" including its director and starring actors.",
+      "context_title": "The Trail of the Law",
+      "page_content": "The Trail of the Law starred Norma Shearer. The Trail of the Law starred Wilfred Lytell. The Trail of the Law was directed by Oscar Apfel. The Trail of the Law starred John P. Morse. The Trail of the Law is a 1924 American silent film."
+    },
+    {
+      "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+      "chunk_title": "Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+      "context_title": "California Winter",
+      "page_content": "California Winter was released in 2012."
+    },
+    {
+      "chunk_id": "94cc7858-14fc-428f-8a9d-15e928fd90d2",
+      "chunk_title": "The Trail of the Lonesome Pine Film Details",
+      "chunk_summary": "This chunk contains information about the 1936 film \"The Trail of the Lonesome Pine,\" including its genre, source material, director, cast, technical achievements, filming locations, previous adaptations, and linguistic features.",
+      "context_title": "The Trail of the Lonesome Pine (1936 film)",
+      "page_content": "There was a 1923 silent version of the novel The Trail of the Lonesome Pine. The picture The Trail of the Lonesome Pine was directed by Henry Hathaway. The film The Trail of the Lonesome Pine makes extensive use of Appalachian English in the dialogue. The Trail of the Lonesome Pine was the second full-length feature film to be shot in three-strip Technicolor. John Fox Jr. wrote the novel The Trail of the Lonesome Pine in 1908. The picture The Trail of the Lonesome Pine starred Fred MacMurray. Much of The Trail of the Lonesome Pine was shot at Big Bear Lake. There was a 1916 silent version of the novel The Trail of the Lonesome Pine. The Trail of the Lonesome Pine is a 1936 American romance film. The outdoor shooting of The Trail of the Lonesome Pine had the approval of the Technicolor Corporation. The picture The Trail of the Lonesome Pine starred Sylvia Sidney. The Trail of the Lonesome Pine is based on the novel of the same name. The Trail of the Lonesome Pine was the fourth feature film adaptation of John Fox Jr.'s 1908 novel. The Trail of the Lonesome Pine was the first film in color to be shot outdoors. The picture The Trail of the Lonesome Pine starred Henry Fonda. The novel The Trail of the Lonesome Pine makes extensive use of Appalachian English in the dialogue."
+    },
+    {
+      "chunk_id": "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+      "chunk_title": "Films & Release Dates",
+      "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+      "context_title": "California Winter",
+      "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+    },
+    {
+      "chunk_id": "f8fcd662-3807-44f8-b042-21a733208413",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their release year, language, genre, and English titles.",
+      "context_title": "Raja Nandini",
+      "page_content": "Raja Nandini is a 1958 Telugu folklore film. The English title of Raja Nandini is Princess."
+    },
+    {
+      "chunk_id": "e078b482-6a0a-4f43-b7d6-a84a187f397b",
+      "chunk_title": "Film Cast & Roles",
+      "chunk_summary": "This chunk contains information about the cast and lead roles in films, specifically focusing on actors like N. T. Rama Rao and Anjali Devi.",
+      "context_title": "Raja Nandini",
+      "page_content": "Anjali Devi starred in the lead role in Raja Nandini. N. T. Rama Rao starred in the lead role in Raja Nandini."
+    },
+    {
+      "chunk_id": "0de42640-207e-47ed-a6c1-ea20b237432e",
+      "chunk_title": "Film Production Details",
+      "chunk_summary": "This chunk contains information about the production details of films, including producers, titles, and production banners.",
+      "context_title": "Raja Nandini",
+      "page_content": "Raja Nandini was produced by Midde Jagannatha Rao. M. Ramakrishna Rao and Midde Jagannatha Rao produced Raja Nandini under the Jalaruha Productions banner. Raja Nandini was produced by M. Ramakrishna Rao."
+    },
+    {
+      "chunk_id": "2850de1f-4498-4bd1-8a8e-8f0a981794ce",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their title, language, genre, and release date.",
+      "context_title": "Junda Iman Gunda",
+      "page_content": "Junda Iman Gunda was released on 7 September 2007. Junda Iman Gunda is a 2007 Assamese language romantic comedy film."
+    },
+    {
+      "chunk_id": "23cd36aa-2f78-4e31-903a-8fc40a6325f1",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "Raja Nandini",
+      "page_content": "Raja Nandini was directed by Vedantam Raghavaiah."
+    },
+    {
+      "chunk_id": "b2da5763-b889-4ab9-9e84-605b2fe563db",
+      "chunk_title": "Music Composers",
+      "chunk_summary": "This chunk contains information about the music composers for various works.",
+      "context_title": "Raja Nandini",
+      "page_content": "The music for Raja Nandini was composed by T. V. Raju."
+    },
+    {
+      "chunk_id": "5f1b1355-2510-4e3c-a8e8-c141c624c4ee",
+      "chunk_title": "Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of various works.",
+      "context_title": "Pulijanmam",
+      "page_content": "Pulijanmam was released on 19 May 2006. Neythukaran was released in 2001."
+    },
+    {
+      "chunk_id": "d2075de7-1990-4c5e-8ea6-fa435ade258b",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their release year, language, genre, and theatrical release dates.",
+      "context_title": "Bhanwarey",
+      "page_content": "Bhanwarey was released theatrically in India on 24 March 2017. Bhanwarey is a 2017 Indian Hindi-language dark-comedy film."
+    },
+    {
+      "chunk_id": "15a5a338-ed87-4050-a752-589c71f8bae3",
+      "chunk_title": "Movie Releases & Versions",
+      "chunk_summary": "This chunk contains information about the release dates, versions, and region-specific endings of movies.",
+      "context_title": "Ekk Deewana Tha",
+      "page_content": "The two different versions of Ekk Deewana Tha have a number of endings. The different endings of Ekk Deewana Tha were designed to suit the taste of regional viewers. Ekk Deewana Tha was released in two different versions. Ekk Deewana Tha was released on 17 February 2012. Vinnaithaandi Varuvaayaa was released in 2010."
+    },
+    {
+      "chunk_id": "9ec8998c-3a54-46a0-aa88-e7bb16319aa5",
+      "chunk_title": "Raja Malaya Simha Film",
+      "chunk_summary": "This chunk contains information about the 1959 film Raja Malaya Simha, including its languages, director, and technical innovations as the first Telugu and Tamil film to use Eastmancolor sequences.",
+      "context_title": "Raja Malaya Simha",
+      "page_content": "Raja Malaya Simha is known to be the first Tamil film to contain sequences in Eastmancolor. Raja Malaya Simha is known to be the first Telugu film to contain sequences in Eastmancolor. Raja Malaya Simha was directed by B. S. Ranga. Raja Malaya Simha is a 1959 Telugu/Tamil language film."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.35,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 13,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which film was released more recently, The Silver Trail or Raja Nandini?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released more recently, The Silver Trail or Raja Nandini?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影的发行日期以确定哪部更新",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 提供 The Silver Trail 发行年份 1937，N1_2 提供 Raja Nandini 发行年份 1958。两个子节点均为 healthy，推理链完整：1958 > 1937，因此 Raja Nandini 发行更晚。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，可直接用于生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was The Silver Trail released?",
+          "answer": "1937",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was The Silver Trail released?",
+          "planner_rationale": "Q 要求比较两部电影的发行时间，必须先获取 The Silver Trail 的发行日期",
+          "solver_judgment": "question 要求确认电影 The Silver Trail 的发行时间。search_query 搜索了 'When was The Silver Trail released?'。chunks 返回了关于 The Silver Trail 的信息，其中 chunk a5edd18f-45a4-41dc-99d7-249581f9f7d4 明确记载 'The Silver Trail is a 1937 American film.'，直接提供了发行年份 1937。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 The Silver Trail），单来源但直接、具体地陈述了答案。支撑 chunk a5edd18f 全文为 'The Silver Trail is a 1937 American film.'，明确记载发行年份 1937。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a5edd18f-45a4-41dc-99d7-249581f9f7d4"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a5edd18f-45a4-41dc-99d7-249581f9f7d4",
+              "chunk_title": "Films & Release Years",
+              "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+              "context_title": "The Silver Trail",
+              "page_content": "The Silver Trail is a 1937 American film."
+            },
+            {
+              "chunk_id": "e7dc7ee0-8d05-48af-92a3-aa0563d51ca5",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "The Silver Trail",
+              "page_content": "The Silver Trail was directed by Bernard B. Ray."
+            },
+            {
+              "chunk_id": "cba3b61c-2ac8-4d24-abd0-ce334761c351",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films, primarily Westerns.",
+              "context_title": "John Wayne",
+              "page_content": "\"The Quiet Man\" was released in 1952. \"The Big Trail\" was released in 1930. \"The Shootist\" was released in 1976. \"The Man Who Shot Liberty Valance\" was released in 1962. \"True Grit\" was released in 1969. \"Rio Bravo\" was released in 1959. \"The Searchers\" was released in 1956. \"The Longest Day\" was released in 1962. \"Stagecoach\" was released in 1939. \"Red River\" was released in 1948."
+            },
+            {
+              "chunk_id": "346674cc-0b56-46a1-9811-908966908856",
+              "chunk_title": "The Trail of the Lonesome Pine Film Adaptations",
+              "chunk_summary": "This chunk contains information about the 1923 silent film \"The Trail of the Lonesome Pine,\" including its director, source material, cast, significance as Mary Miles Minter's final role, its current status as a lost film, and mentions of other adaptations.",
+              "context_title": "The Trail of the Lonesome Pine (1923 film)",
+              "page_content": "An earlier 1914 silent version of The Trail of the Lonesome Pine exists. The Trail of the Lonesome Pine (1923 film) starred Mary Miles Minter. A 1936 all color and sound film version of The Trail of the Lonesome Pine exists. The Trail of the Lonesome Pine (1923 film) is based on a novel of the same name. The Trail of the Lonesome Pine (1923 film) is now considered lost. The role in The Trail of the Lonesome Pine (1923 film) was Mary Miles Minter's final film role. Three other adaptions of The Trail of the Lonesome Pine exist. The Trail of the Lonesome Pine (1923 film) is based on a play of the same name. The Trail of the Lonesome Pine is a 1923 American silent drama film. The Trail of the Lonesome Pine (1923 film) was directed by Charles Maigne. An earlier 1916 silent version of The Trail of the Lonesome Pine exists."
+            },
+            {
+              "chunk_id": "1f80ae92-bb41-4c02-a8c3-d1a7c3475f89",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the publication dates of songs.",
+              "context_title": "Percy Wenrich",
+              "page_content": "\"Sail Along, Silv'ry Moon\" was published in 1937."
+            },
+            {
+              "chunk_id": "78f58ef6-9e81-4234-9f91-8a28b45448d5",
+              "chunk_title": "The Trail of the Lonesome Pine Film Adaptations",
+              "chunk_summary": "This chunk contains information about the 1923 silent film \"The Trail of the Lonesome Pine,\" including its production details, cast, status as a lost film, and other adaptations of the story.",
+              "context_title": "The Trail of the Lonesome Pine (1923 film)",
+              "page_content": "One adaption of The Trail of the Lonesome Pine is a 1916 silent version. The Trail of the Lonesome Pine (1923 film) starred Mary Miles Minter. The Trail of the Lonesome Pine (1923 film) is now considered lost. The Trail of the Lonesome Pine is a 1923 American silent drama film. One adaption of The Trail of the Lonesome Pine is a 1936 all color and sound film. Three other adaptions of The Trail of the Lonesome Pine exist. The Trail of the Lonesome Pine (1923 film) was directed by Charles Maigne. One adaption of The Trail of the Lonesome Pine is a 1914 silent version. The Trail of the Lonesome Pine (1923 film) is based on a play of the same name. The Trail of the Lonesome Pine (1923 film) is based on a novel of the same name. The role in The Trail of the Lonesome Pine (1923 film) was Mary Miles Minter's final film role."
+            },
+            {
+              "chunk_id": "074730a9-16c3-41b3-8df7-08900a78f4d2",
+              "chunk_title": "Films & Media",
+              "chunk_summary": "This chunk contains information about the 1924 silent film \"The Trail of the Law,\" including its director and starring actors.",
+              "context_title": "The Trail of the Law",
+              "page_content": "The Trail of the Law starred Norma Shearer. The Trail of the Law starred Wilfred Lytell. The Trail of the Law was directed by Oscar Apfel. The Trail of the Law starred John P. Morse. The Trail of the Law is a 1924 American silent film."
+            },
+            {
+              "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+              "context_title": "California Winter",
+              "page_content": "California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "94cc7858-14fc-428f-8a9d-15e928fd90d2",
+              "chunk_title": "The Trail of the Lonesome Pine Film Details",
+              "chunk_summary": "This chunk contains information about the 1936 film \"The Trail of the Lonesome Pine,\" including its genre, source material, director, cast, technical achievements, filming locations, previous adaptations, and linguistic features.",
+              "context_title": "The Trail of the Lonesome Pine (1936 film)",
+              "page_content": "There was a 1923 silent version of the novel The Trail of the Lonesome Pine. The picture The Trail of the Lonesome Pine was directed by Henry Hathaway. The film The Trail of the Lonesome Pine makes extensive use of Appalachian English in the dialogue. The Trail of the Lonesome Pine was the second full-length feature film to be shot in three-strip Technicolor. John Fox Jr. wrote the novel The Trail of the Lonesome Pine in 1908. The picture The Trail of the Lonesome Pine starred Fred MacMurray. Much of The Trail of the Lonesome Pine was shot at Big Bear Lake. There was a 1916 silent version of the novel The Trail of the Lonesome Pine. The Trail of the Lonesome Pine is a 1936 American romance film. The outdoor shooting of The Trail of the Lonesome Pine had the approval of the Technicolor Corporation. The picture The Trail of the Lonesome Pine starred Sylvia Sidney. The Trail of the Lonesome Pine is based on the novel of the same name. The Trail of the Lonesome Pine was the fourth feature film adaptation of John Fox Jr.'s 1908 novel. The Trail of the Lonesome Pine was the first film in color to be shot outdoors. The picture The Trail of the Lonesome Pine starred Henry Fonda. The novel The Trail of the Lonesome Pine makes extensive use of Appalachian English in the dialogue."
+            },
+            {
+              "chunk_id": "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Raja Nandini released?",
+          "answer": "1958",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Raja Nandini released?",
+          "planner_rationale": "Q 要求比较两部电影的发行时间，必须先获取 Raja Nandini 的发行日期",
+          "solver_judgment": "question 要求确认电影 Raja Nandini 的发行时间。search_query 搜索了 'When was Raja Nandini released?'。chunks 返回了关于 Raja Nandini 的详细信息，其中 chunk f8fcd662-3807-44f8-b042-21a733208413 明确指出 'Raja Nandini is a 1958 Telugu folklore film'，提供了发行年份 1958。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Raja Nandini），单来源但直接、具体地陈述了答案。支撑 chunk f8fcd662 全文为 'Raja Nandini is a 1958 Telugu folklore film.'，明确记载发行年份 1958。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f8fcd662-3807-44f8-b042-21a733208413"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f8fcd662-3807-44f8-b042-21a733208413",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about specific films, including their release year, language, genre, and English titles.",
+              "context_title": "Raja Nandini",
+              "page_content": "Raja Nandini is a 1958 Telugu folklore film. The English title of Raja Nandini is Princess."
+            },
+            {
+              "chunk_id": "e078b482-6a0a-4f43-b7d6-a84a187f397b",
+              "chunk_title": "Film Cast & Roles",
+              "chunk_summary": "This chunk contains information about the cast and lead roles in films, specifically focusing on actors like N. T. Rama Rao and Anjali Devi.",
+              "context_title": "Raja Nandini",
+              "page_content": "Anjali Devi starred in the lead role in Raja Nandini. N. T. Rama Rao starred in the lead role in Raja Nandini."
+            },
+            {
+              "chunk_id": "0de42640-207e-47ed-a6c1-ea20b237432e",
+              "chunk_title": "Film Production Details",
+              "chunk_summary": "This chunk contains information about the production details of films, including producers, titles, and production banners.",
+              "context_title": "Raja Nandini",
+              "page_content": "Raja Nandini was produced by Midde Jagannatha Rao. M. Ramakrishna Rao and Midde Jagannatha Rao produced Raja Nandini under the Jalaruha Productions banner. Raja Nandini was produced by M. Ramakrishna Rao."
+            },
+            {
+              "chunk_id": "2850de1f-4498-4bd1-8a8e-8f0a981794ce",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, language, genre, and release date.",
+              "context_title": "Junda Iman Gunda",
+              "page_content": "Junda Iman Gunda was released on 7 September 2007. Junda Iman Gunda is a 2007 Assamese language romantic comedy film."
+            },
+            {
+              "chunk_id": "23cd36aa-2f78-4e31-903a-8fc40a6325f1",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Raja Nandini",
+              "page_content": "Raja Nandini was directed by Vedantam Raghavaiah."
+            },
+            {
+              "chunk_id": "b2da5763-b889-4ab9-9e84-605b2fe563db",
+              "chunk_title": "Music Composers",
+              "chunk_summary": "This chunk contains information about the music composers for various works.",
+              "context_title": "Raja Nandini",
+              "page_content": "The music for Raja Nandini was composed by T. V. Raju."
+            },
+            {
+              "chunk_id": "5f1b1355-2510-4e3c-a8e8-c141c624c4ee",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various works.",
+              "context_title": "Pulijanmam",
+              "page_content": "Pulijanmam was released on 19 May 2006. Neythukaran was released in 2001."
+            },
+            {
+              "chunk_id": "d2075de7-1990-4c5e-8ea6-fa435ade258b",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their release year, language, genre, and theatrical release dates.",
+              "context_title": "Bhanwarey",
+              "page_content": "Bhanwarey was released theatrically in India on 24 March 2017. Bhanwarey is a 2017 Indian Hindi-language dark-comedy film."
+            },
+            {
+              "chunk_id": "15a5a338-ed87-4050-a752-589c71f8bae3",
+              "chunk_title": "Movie Releases & Versions",
+              "chunk_summary": "This chunk contains information about the release dates, versions, and region-specific endings of movies.",
+              "context_title": "Ekk Deewana Tha",
+              "page_content": "The two different versions of Ekk Deewana Tha have a number of endings. The different endings of Ekk Deewana Tha were designed to suit the taste of regional viewers. Ekk Deewana Tha was released in two different versions. Ekk Deewana Tha was released on 17 February 2012. Vinnaithaandi Varuvaayaa was released in 2010."
+            },
+            {
+              "chunk_id": "9ec8998c-3a54-46a0-aa88-e7bb16319aa5",
+              "chunk_title": "Raja Malaya Simha Film",
+              "chunk_summary": "This chunk contains information about the 1959 film Raja Malaya Simha, including its languages, director, and technical innovations as the first Telugu and Tamil film to use Eastmancolor sequences.",
+              "context_title": "Raja Malaya Simha",
+              "page_content": "Raja Malaya Simha is known to be the first Tamil film to contain sequences in Eastmancolor. Raja Malaya Simha is known to be the first Telugu film to contain sequences in Eastmancolor. Raja Malaya Simha was directed by B. S. Ranga. Raja Malaya Simha is a 1959 Telugu/Tamil language film."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which film was released more recently, The Silver Trail or Raja Nandini?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released more recently, The Silver Trail or Raja Nandini?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。两个子节点 N1_1 (1937) 和 N1_2 (1958) 均已 SOLVED + healthy，推理链完整：1958 > 1937，因此 Raja Nandini 发行更晚。可直接聚合子节点答案生成最终回答。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 提供 The Silver Trail 发行年份 1937（单来源直接陈述），N1_2 提供 Raja Nandini 发行年份 1958（单来源直接陈述）。两个子节点均为 healthy，推理链完整：1958 > 1937，因此 Raja Nandini 发行更晚。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整且一致，可直接用于生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was The Silver Trail released?",
+          "answer": "1937",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was The Silver Trail released?",
+          "planner_rationale": "Q 要求比较两部电影的发行时间，The Silver Trail 的发行日期是必要子事实。已确认 1937 年，证据充分（单来源直接陈述）。",
+          "solver_judgment": "question 要求确认电影 The Silver Trail 的发行时间。search_query 搜索了 'When was The Silver Trail released?'。chunks 返回了关于 The Silver Trail 的信息，其中 chunk a5edd18f-45a4-41dc-99d7-249581f9f7d4 明确记载 'The Silver Trail is a 1937 American film.'，直接提供了发行年份 1937。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 The Silver Trail），单来源但直接、具体地陈述了答案。支撑 chunk a5edd18f 全文为 'The Silver Trail is a 1937 American film.'，明确记载发行年份 1937。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a5edd18f-45a4-41dc-99d7-249581f9f7d4"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a5edd18f-45a4-41dc-99d7-249581f9f7d4",
+              "chunk_title": "Films & Release Years",
+              "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+              "context_title": "The Silver Trail",
+              "page_content": "The Silver Trail is a 1937 American film."
+            },
+            {
+              "chunk_id": "e7dc7ee0-8d05-48af-92a3-aa0563d51ca5",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "The Silver Trail",
+              "page_content": "The Silver Trail was directed by Bernard B. Ray."
+            },
+            {
+              "chunk_id": "cba3b61c-2ac8-4d24-abd0-ce334761c351",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films, primarily Westerns.",
+              "context_title": "John Wayne",
+              "page_content": "\"The Quiet Man\" was released in 1952. \"The Big Trail\" was released in 1930. \"The Shootist\" was released in 1976. \"The Man Who Shot Liberty Valance\" was released in 1962. \"True Grit\" was released in 1969. \"Rio Bravo\" was released in 1959. \"The Searchers\" was released in 1956. \"The Longest Day\" was released in 1962. \"Stagecoach\" was released in 1939. \"Red River\" was released in 1948."
+            },
+            {
+              "chunk_id": "346674cc-0b56-46a1-9811-908966908856",
+              "chunk_title": "The Trail of the Lonesome Pine Film Adaptations",
+              "chunk_summary": "This chunk contains information about the 1923 silent film \"The Trail of the Lonesome Pine,\" including its director, source material, cast, significance as Mary Miles Minter's final role, its current status as a lost film, and mentions of other adaptations.",
+              "context_title": "The Trail of the Lonesome Pine (1923 film)",
+              "page_content": "An earlier 1914 silent version of The Trail of the Lonesome Pine exists. The Trail of the Lonesome Pine (1923 film) starred Mary Miles Minter. A 1936 all color and sound film version of The Trail of the Lonesome Pine exists. The Trail of the Lonesome Pine (1923 film) is based on a novel of the same name. The Trail of the Lonesome Pine (1923 film) is now considered lost. The role in The Trail of the Lonesome Pine (1923 film) was Mary Miles Minter's final film role. Three other adaptions of The Trail of the Lonesome Pine exist. The Trail of the Lonesome Pine (1923 film) is based on a play of the same name. The Trail of the Lonesome Pine is a 1923 American silent drama film. The Trail of the Lonesome Pine (1923 film) was directed by Charles Maigne. An earlier 1916 silent version of The Trail of the Lonesome Pine exists."
+            },
+            {
+              "chunk_id": "1f80ae92-bb41-4c02-a8c3-d1a7c3475f89",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the publication dates of songs.",
+              "context_title": "Percy Wenrich",
+              "page_content": "\"Sail Along, Silv'ry Moon\" was published in 1937."
+            },
+            {
+              "chunk_id": "78f58ef6-9e81-4234-9f91-8a28b45448d5",
+              "chunk_title": "The Trail of the Lonesome Pine Film Adaptations",
+              "chunk_summary": "This chunk contains information about the 1923 silent film \"The Trail of the Lonesome Pine,\" including its production details, cast, status as a lost film, and other adaptations of the story.",
+              "context_title": "The Trail of the Lonesome Pine (1923 film)",
+              "page_content": "One adaption of The Trail of the Lonesome Pine is a 1916 silent version. The Trail of the Lonesome Pine (1923 film) starred Mary Miles Minter. The Trail of the Lonesome Pine (1923 film) is now considered lost. The Trail of the Lonesome Pine is a 1923 American silent drama film. One adaption of The Trail of the Lonesome Pine is a 1936 all color and sound film. Three other adaptions of The Trail of the Lonesome Pine exist. The Trail of the Lonesome Pine (1923 film) was directed by Charles Maigne. One adaption of The Trail of the Lonesome Pine is a 1914 silent version. The Trail of the Lonesome Pine (1923 film) is based on a play of the same name. The Trail of the Lonesome Pine (1923 film) is based on a novel of the same name. The role in The Trail of the Lonesome Pine (1923 film) was Mary Miles Minter's final film role."
+            },
+            {
+              "chunk_id": "074730a9-16c3-41b3-8df7-08900a78f4d2",
+              "chunk_title": "Films & Media",
+              "chunk_summary": "This chunk contains information about the 1924 silent film \"The Trail of the Law,\" including its director and starring actors.",
+              "context_title": "The Trail of the Law",
+              "page_content": "The Trail of the Law starred Norma Shearer. The Trail of the Law starred Wilfred Lytell. The Trail of the Law was directed by Oscar Apfel. The Trail of the Law starred John P. Morse. The Trail of the Law is a 1924 American silent film."
+            },
+            {
+              "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+              "context_title": "California Winter",
+              "page_content": "California Winter was released in 2012."
+            },
+            {
+              "chunk_id": "94cc7858-14fc-428f-8a9d-15e928fd90d2",
+              "chunk_title": "The Trail of the Lonesome Pine Film Details",
+              "chunk_summary": "This chunk contains information about the 1936 film \"The Trail of the Lonesome Pine,\" including its genre, source material, director, cast, technical achievements, filming locations, previous adaptations, and linguistic features.",
+              "context_title": "The Trail of the Lonesome Pine (1936 film)",
+              "page_content": "There was a 1923 silent version of the novel The Trail of the Lonesome Pine. The picture The Trail of the Lonesome Pine was directed by Henry Hathaway. The film The Trail of the Lonesome Pine makes extensive use of Appalachian English in the dialogue. The Trail of the Lonesome Pine was the second full-length feature film to be shot in three-strip Technicolor. John Fox Jr. wrote the novel The Trail of the Lonesome Pine in 1908. The picture The Trail of the Lonesome Pine starred Fred MacMurray. Much of The Trail of the Lonesome Pine was shot at Big Bear Lake. There was a 1916 silent version of the novel The Trail of the Lonesome Pine. The Trail of the Lonesome Pine is a 1936 American romance film. The outdoor shooting of The Trail of the Lonesome Pine had the approval of the Technicolor Corporation. The picture The Trail of the Lonesome Pine starred Sylvia Sidney. The Trail of the Lonesome Pine is based on the novel of the same name. The Trail of the Lonesome Pine was the fourth feature film adaptation of John Fox Jr.'s 1908 novel. The Trail of the Lonesome Pine was the first film in color to be shot outdoors. The picture The Trail of the Lonesome Pine starred Henry Fonda. The novel The Trail of the Lonesome Pine makes extensive use of Appalachian English in the dialogue."
+            },
+            {
+              "chunk_id": "2c0d2a99-ceae-4bba-a54e-93f0910eb936",
+              "chunk_title": "Films & Release Dates",
+              "chunk_summary": "This chunk contains information about films, including their titles, genres, and release dates.",
+              "context_title": "California Winter",
+              "page_content": "California Winter is an American drama film. California Winter was released in 2012."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was Raja Nandini released?",
+          "answer": "1958",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was Raja Nandini released?",
+          "planner_rationale": "Q 要求比较两部电影的发行时间，Raja Nandini 的发行日期是必要子事实。已确认 1958 年，证据充分（单来源直接陈述）。",
+          "solver_judgment": "question 要求确认电影 Raja Nandini 的发行时间。search_query 搜索了 'When was Raja Nandini released?'。chunks 返回了关于 Raja Nandini 的详细信息，其中 chunk f8fcd662-3807-44f8-b042-21a733208413 明确指出 'Raja Nandini is a 1958 Telugu folklore film'，提供了发行年份 1958。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Raja Nandini），单来源但直接、具体地陈述了答案。支撑 chunk f8fcd662 全文为 'Raja Nandini is a 1958 Telugu folklore film.'，明确记载发行年份 1958。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源直接陈述，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f8fcd662-3807-44f8-b042-21a733208413"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f8fcd662-3807-44f8-b042-21a733208413",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about specific films, including their release year, language, genre, and English titles.",
+              "context_title": "Raja Nandini",
+              "page_content": "Raja Nandini is a 1958 Telugu folklore film. The English title of Raja Nandini is Princess."
+            },
+            {
+              "chunk_id": "e078b482-6a0a-4f43-b7d6-a84a187f397b",
+              "chunk_title": "Film Cast & Roles",
+              "chunk_summary": "This chunk contains information about the cast and lead roles in films, specifically focusing on actors like N. T. Rama Rao and Anjali Devi.",
+              "context_title": "Raja Nandini",
+              "page_content": "Anjali Devi starred in the lead role in Raja Nandini. N. T. Rama Rao starred in the lead role in Raja Nandini."
+            },
+            {
+              "chunk_id": "0de42640-207e-47ed-a6c1-ea20b237432e",
+              "chunk_title": "Film Production Details",
+              "chunk_summary": "This chunk contains information about the production details of films, including producers, titles, and production banners.",
+              "context_title": "Raja Nandini",
+              "page_content": "Raja Nandini was produced by Midde Jagannatha Rao. M. Ramakrishna Rao and Midde Jagannatha Rao produced Raja Nandini under the Jalaruha Productions banner. Raja Nandini was produced by M. Ramakrishna Rao."
+            },
+            {
+              "chunk_id": "2850de1f-4498-4bd1-8a8e-8f0a981794ce",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, language, genre, and release date.",
+              "context_title": "Junda Iman Gunda",
+              "page_content": "Junda Iman Gunda was released on 7 September 2007. Junda Iman Gunda is a 2007 Assamese language romantic comedy film."
+            },
+            {
+              "chunk_id": "23cd36aa-2f78-4e31-903a-8fc40a6325f1",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Raja Nandini",
+              "page_content": "Raja Nandini was directed by Vedantam Raghavaiah."
+            },
+            {
+              "chunk_id": "b2da5763-b889-4ab9-9e84-605b2fe563db",
+              "chunk_title": "Music Composers",
+              "chunk_summary": "This chunk contains information about the music composers for various works.",
+              "context_title": "Raja Nandini",
+              "page_content": "The music for Raja Nandini was composed by T. V. Raju."
+            },
+            {
+              "chunk_id": "5f1b1355-2510-4e3c-a8e8-c141c624c4ee",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various works.",
+              "context_title": "Pulijanmam",
+              "page_content": "Pulijanmam was released on 19 May 2006. Neythukaran was released in 2001."
+            },
+            {
+              "chunk_id": "d2075de7-1990-4c5e-8ea6-fa435ade258b",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their release year, language, genre, and theatrical release dates.",
+              "context_title": "Bhanwarey",
+              "page_content": "Bhanwarey was released theatrically in India on 24 March 2017. Bhanwarey is a 2017 Indian Hindi-language dark-comedy film."
+            },
+            {
+              "chunk_id": "15a5a338-ed87-4050-a752-589c71f8bae3",
+              "chunk_title": "Movie Releases & Versions",
+              "chunk_summary": "This chunk contains information about the release dates, versions, and region-specific endings of movies.",
+              "context_title": "Ekk Deewana Tha",
+              "page_content": "The two different versions of Ekk Deewana Tha have a number of endings. The different endings of Ekk Deewana Tha were designed to suit the taste of regional viewers. Ekk Deewana Tha was released in two different versions. Ekk Deewana Tha was released on 17 February 2012. Vinnaithaandi Varuvaayaa was released in 2010."
+            },
+            {
+              "chunk_id": "9ec8998c-3a54-46a0-aa88-e7bb16319aa5",
+              "chunk_title": "Raja Malaya Simha Film",
+              "chunk_summary": "This chunk contains information about the 1959 film Raja Malaya Simha, including its languages, director, and technical innovations as the first Telugu and Tamil film to use Eastmancolor sequences.",
+              "context_title": "Raja Malaya Simha",
+              "page_content": "Raja Malaya Simha is known to be the first Tamil film to contain sequences in Eastmancolor. Raja Malaya Simha is known to be the first Telugu film to contain sequences in Eastmancolor. Raja Malaya Simha was directed by B. S. Ranga. Raja Malaya Simha is a 1959 Telugu/Tamil language film."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was The Silver Trail released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "a5edd18f-45a4-41dc-99d7-249581f9f7d4",
+        "e7dc7ee0-8d05-48af-92a3-aa0563d51ca5",
+        "cba3b61c-2ac8-4d24-abd0-ce334761c351",
+        "346674cc-0b56-46a1-9811-908966908856",
+        "1f80ae92-bb41-4c02-a8c3-d1a7c3475f89",
+        "78f58ef6-9e81-4234-9f91-8a28b45448d5",
+        "074730a9-16c3-41b3-8df7-08900a78f4d2",
+        "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+        "94cc7858-14fc-428f-8a9d-15e928fd90d2",
+        "2c0d2a99-ceae-4bba-a54e-93f0910eb936"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was Raja Nandini released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f8fcd662-3807-44f8-b042-21a733208413",
+        "e078b482-6a0a-4f43-b7d6-a84a187f397b",
+        "0de42640-207e-47ed-a6c1-ea20b237432e",
+        "2850de1f-4498-4bd1-8a8e-8f0a981794ce",
+        "23cd36aa-2f78-4e31-903a-8fc40a6325f1",
+        "b2da5763-b889-4ab9-9e84-605b2fe563db",
+        "5f1b1355-2510-4e3c-a8e8-c141c624c4ee",
+        "d2075de7-1990-4c5e-8ea6-fa435ade258b",
+        "15a5a338-ed87-4050-a752-589c71f8bae3",
+        "9ec8998c-3a54-46a0-aa88-e7bb16319aa5"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was The Silver Trail released?（理由：Q 问哪部电影发行更晚，必须先获取 The Silver Trail 的发行日期），F2: When was Raja Nandini released?（理由：Q 问哪部电影发行更晚，必须先获取 Raja Nandini 的发行日期）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。两个子节点相互独立，无依赖关系——获取任一电影的发行日期不需要另一部电影的信息。当 F1 和 F2 都 SOLVED 后，比较两个日期即可回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个直接的两实体比较问题（比较发行日期），因此分解为两个独立的子事实探针，分别查询每部电影的发行日期。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 两条 decomposition 路径均有效，上游 question 语义消解下游 question；③全部节点 healthy——N0（子节点推理链完整）、N1_1（单来源直接陈述 1937）、N1_2（单来源直接陈述 1958）均为 healthy；④首轮无拓扑变化。推理链完整，所有节点证据充"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was The Silver Trail released?（理由：Q 问哪部电影发行更晚，必须先获取 The Silver Trail 的发行日期），F2: When was Raja Nandini released?（理由：Q 问哪部电影发行更晚，必须先获取 Raja Nandini 的发行日期）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition）。两个子节点相互独立，无依赖关系。当 F1 和 F2 都 SOLVED 后，比较两个日期即可回答 Q。当前状态：F1=1937 (healthy), F2=1958 (healthy)，推理链完整，可直接得出 Raja Nandini 发行更晚的结论。",
+      "hypothesis_delta": "与上一轮假设完全一致——所有预测均被验证。N1_1 和 N1_2 均已 SOLVED + healthy，答案分别为 1937 和 1958。Critic 确认推理链完整（1958 > 1937 → Raja Nandini 更新），结构层面无需调整。本轮全部 INHERIT 并显式 LINK 保留原有 decomposition 边，无新增、删除或换标操作。DAG 已收敛至最简且完整的分解状态。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点答案（1937, 1958）聚合后可直接比较得出 Raja Nandini 发行更晚的结论；③全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④拓扑连续稳定（本轮与上一轮一致）。推理链完整，所有节"
+      }
+    }
+  ]
+}

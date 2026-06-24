@@ -1,0 +1,288 @@
+{
+  "question_index": 438,
+  "question_id": "5a7b542455429927d897bf92",
+  "question": "The Lewis and Clark Memorial Column is dedicated to Meriwether Lewis, best known for his role as the leader of which Lewis and Clark Expedition?",
+  "answer": "Corps of Discovery",
+  "prediction": "Corps of Discovery Expedition",
+  "error": null,
+  "latency_ms": 95762.45259999996,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T22:30:10.304678+00:00",
+  "chunks": [
+    {
+      "chunk_id": "3b89b05e-0206-40db-90cd-4162fb3d9545",
+      "chunk_title": "Lewis and Clark Expedition",
+      "chunk_summary": "This chunk contains information about historical explorers and their expeditions, including specific details about the individuals involved and the dates of their journeys.",
+      "context_title": "USS Lewis and Clark (SSBN-644)",
+      "page_content": "Meriwether Lewis and William Clark were explorers. Meriwether Lewis and William Clark carried out the Lewis and Clark Expedition. The Lewis and Clark Expedition took place from 1804 to 1806."
+    },
+    {
+      "chunk_id": "f7d536d8-93b9-4ab3-bf07-4b4b314f7b92",
+      "chunk_title": "Meriwether Lewis's Roles",
+      "chunk_summary": "This chunk contains information about the various professional identities and roles held by Meriwether Lewis, including his work as an explorer, soldier, public administrator, and leader of the Lewis and Clark Expedition.",
+      "context_title": "Meriwether Lewis",
+      "page_content": "Meriwether Lewis was a public administrator. Meriwether Lewis is best known for his role as the leader of the Lewis and Clark Expedition. Meriwether Lewis was a soldier. Meriwether Lewis was an American explorer. Meriwether Lewis led the Lewis and Clark Expedition with William Clark."
+    },
+    {
+      "chunk_id": "64c34a9f-c9b0-459c-859c-70490aab2de2",
+      "chunk_title": "Expedition Members",
+      "chunk_summary": "This chunk contains information about the members of historical expeditions.",
+      "context_title": "Undaunted Courage",
+      "page_content": "Meriwether Lewis was a member of the Lewis and Clark Expedition."
+    },
+    {
+      "chunk_id": "e5b63a2e-dc57-4ce4-9691-ab896fc52b96",
+      "chunk_title": "Lewis and Clark Pass",
+      "chunk_summary": "This chunk contains information about the geographical characteristics, location, historical significance, and visitor experience of Lewis and Clark Pass.",
+      "context_title": "Lewis and Clark Pass (Montana)",
+      "page_content": "Lewis and Clark Pass can be accessed by a 1.5 mi trail. On a clear day, one can see Square Butte from Lewis and Clark Pass. Lewis and Clark Pass lies at the head of the drainage of the west flowing Blackfoot River. Meriwether Lewis crossed Lewis and Clark Pass on July 7, 1806. Lewis and Clark Pass is one of the places along the expedition's route that visitors may still encounter a grizzly bear. Meriwether Lewis crossed Lewis and Clark Pass with a party of nine men. Lewis and Clark Pass has an elevation of 6424 ft. Lewis and Clark Pass is one of the least visited passes today. Native people living in what today is Montana crossed over the continental divide at Lewis and Clark Pass. Lewis and Clark Pass is a mountain pass. Lewis and Clark Pass is the only roadless pass on the entire Lewis and Clark National Historic Trail. Lewis and Clark Pass was one of the most used continental divide passes prior to the pioneer era. The furrows left by travois at Lewis and Clark Pass are fading. Visitors will encounter Lewis and Clark Pass much as Meriwether Lewis did in 1806. Lewis and Clark Pass is in Montana. Lewis and Clark Pass was named for the expedition's two leaders, Lewis and William Clark. Furrows left by countless dog and horse travois that crossed Lewis and Clark Pass are still visible. Lewis and Clark Pass is in Lewis and Clark County. Meriwether Lewis crossed Lewis and Clark Pass on the return leg of the Lewis and Clark Expedition. Lewis and Clark Pass lies at the head of the drainage of the east flowing Dearborn River. Meriwether Lewis saw Square Butte from Lewis and Clark Pass in 1806. Lewis and Clark Pass is in the Helena National Forest. Lewis and Clark Pass is on the continental divide. Meriwether Lewis crossed Lewis and Clark Pass with his dog Seaman. The Continental Divide Trail traverses north and south through Lewis and Clark Pass."
+    },
+    {
+      "chunk_id": "b910e353-c7e5-41f0-b093-bf3f7664d4d6",
+      "chunk_title": "Lewis & Clark Memorial Column",
+      "chunk_summary": "This chunk contains information about the Lewis and Clark Memorial Column, including its nature as an outdoor monument, its creator Otto Schumann, its dedication to Meriwether Lewis and William Clark for their expedition, and its location at Washington Park.",
+      "context_title": "Lewis and Clark Memorial Column",
+      "page_content": "The Lewis and Clark Memorial Column was created by artist Otto Schumann. The Lewis and Clark Memorial Column is dedicated to Meriwether Lewis. The Lewis and Clark Memorial Column is an outdoor monument. The Lewis and Clark Memorial Column is dedicated to Meriwether Lewis and William Clark for their expedition. The Lewis and Clark Memorial Column is dedicated to William Clark. The Lewis and Clark Memorial Column is located at Washington Park."
+    },
+    {
+      "chunk_id": "23a821e3-d34c-48e9-8fa0-6d24cef50318",
+      "chunk_title": "Expedition Names & Designations",
+      "chunk_summary": "This chunk contains information about the alternative names and designations of historical expeditions.",
+      "context_title": "Lewis and Clark Expedition",
+      "page_content": "The Lewis and Clark Expedition is also known as the Corps of Discovery Expedition."
+    },
+    {
+      "chunk_id": "7ac97f23-d57b-4630-9074-c624f8a67217",
+      "chunk_title": "Historic Sites & Features",
+      "chunk_summary": "This chunk contains information about historic archaeological sites, including their names, locations, notable historical visits by figures like Lewis and Clark, and physical features such as petroglyphs.",
+      "context_title": "Tavern Cave",
+      "page_content": "Tavern Cave is a historic archaeological site. Meriwether Lewis visited Tavern Cave on May 23, 1804. Tavern Cave is located near St. Albans, Franklin County, Missouri. The petroglyph in Tavern Cave depicts either a canoe or a historic flat boat. William Clark visited Tavern Cave on May 23, 1804. Tavern Cave includes a petroglyph. Meriwether Lewis and William Clark visited Tavern Cave at the beginning of the Lewis and Clark Expedition. Tavern Cave includes several 19th century era inscriptions."
+    },
+    {
+      "chunk_id": "b191550b-1909-42d2-8aea-530fab9fcdf1",
+      "chunk_title": "Expedition Identities",
+      "chunk_summary": "This chunk contains information about the alternative names and identities of historical expeditions.",
+      "context_title": "Meriwether Lewis",
+      "page_content": "The Lewis and Clark Expedition is also known as the Corps of Discovery."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.8,
+  "precision": 0.666667,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 0.5,
+  "retrieval_precision": 0.375,
+  "retrieval_count": 1,
+  "total_chunks": 8,
+  "total_distinct_titles": 7,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 2,
+  "dag_edges": 1,
+  "dag_snapshots": [
+    {
+      "q": "The Lewis and Clark Memorial Column is dedicated to Meriwether Lewis, best known for his role as the leader of which Lewis and Clark Expedition?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "The Lewis and Clark Memorial Column is dedicated to Meriwether Lewis, best known for his role as the leader of which Lewis and Clark Expedition?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Meriwether Lewis 领导的探险队名称",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点无独立搜索来源，其健康状态依赖于子节点推理链。子节点 N1_1 已提供充分证据确立探险队名称为 'Corps of Discovery Expedition'。推理链完整：Q 询问 Lewis 领导的探险队名称 -> N1_1 确认该名称。",
+          "critic_normative_advice": "建议生成最终答案——依赖的子节点证据充分，语义覆盖完整，可基于 N1_1 的答案合成 ROOT 的最终回答。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the official name of the expedition led by Meriwether Lewis and William Clark?",
+          "answer": "Corps of Discovery Expedition",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the official name of the expedition led by Meriwether Lewis and William Clark?",
+          "planner_rationale": "Q 的核心询问是 'which Lewis and Clark Expedition'。虽然问题中已经包含了 'Lewis and Clark Expedition' 这个短语，但这通常指代 1804-1806 年的那次特定探险。为了准确回答 'which'（哪一次/哪一个），我们需要确认这次探险的正式名称或特定标识，以排除其他可能的同名或相关探险（尽管历史上主要就这一次，但严谨性要求确认其唯一性或正式称谓）。更关键的是，这个问题直接指向 Q 的答案实体。",
+          "solver_judgment": "question 要求找出 Meriwether Lewis 和 William Clark 领导的探险队的官方名称。search_query 直接搜索了该问题。chunks 返回了多个提及 \"Lewis and Clark Expedition\" 的片段，其中 chunk 23a821e3-d34c-48e9-8fa0-6d24cef50318 明确指出 \"The Lewis and Clark Expedition is also known as the Corps of Discovery Expedition\"，chunk b191550b-1909-42d2-8aea-530fab9fcdf1 指出 \"The Lewis and Clark Expedition is also known as the Corps of Discovery\"。虽然 \"Lewis and Clark Expedition\" 是常用名，但 \"Corps of Discovery\" 是其正式/官方名称（Official Name）。检索结果提供了这一关键别名信息，能够准确回答问题。",
+          "critic_factual_notes": "2 个独立来源（文档 'Lewis and Clark Expedition' 和 'Meriwether Lewis'）一致指出 'The Lewis and Clark Expedition is also known as the Corps of Discovery (Expedition)'。证据直接、具体，充分支撑声称答案 'Corps of Discovery Expedition'。",
+          "critic_normative_advice": "建议 INHERIT——证据充分且一致，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "The Lewis and Clark Memorial Column is dedicated to Meriwether Lewis, best known for his role as the leader of which Lewis and Clark Expedition?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "The Lewis and Clark Memorial Column is dedicated to Meriwether Lewis, best known for his role as the leader of which Lewis and Clark Expedition?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Meriwether Lewis 领导的探险队名称",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点无独立搜索来源，其健康状态依赖于子节点推理链。子节点 N1_1 已提供充分证据（2个独立来源一致）确立探险队名称为 'Corps of Discovery Expedition'。推理链完整：Q 询问 Lewis 领导的探险队名称 -> N1_1 确认该名称。",
+          "critic_normative_advice": "建议生成最终答案——依赖的子节点证据充分，语义覆盖完整，可基于 N1_1 的答案合成 ROOT 的最终回答。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the official name of the expedition led by Meriwether Lewis and William Clark?",
+          "answer": "Corps of Discovery Expedition",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the official name of the expedition led by Meriwether Lewis and William Clark?",
+          "planner_rationale": "该节点已 SOLVED 且 Critic 判为 healthy。证据（2个独立来源）一致确认 'Lewis and Clark Expedition' 的官方名称/别称为 'Corps of Discovery Expedition'。这直接回答了 Q 中 'which Lewis and Clark Expedition' 的核心疑问。无需进一步搜索或结构调整。",
+          "solver_judgment": "question 要求找出 Meriwether Lewis 和 William Clark 领导的探险队的官方名称。search_query 直接搜索了该问题。chunks 返回了多个提及 \"Lewis and Clark Expedition\" 的片段，其中 chunk 23a821e3-d34c-48e9-8fa0-6d24cef50318 明确指出 \"The Lewis and Clark Expedition is also known as the Corps of Discovery Expedition\"，chunk b191550b-1909-42d2-8aea-530fab9fcdf1 指出 \"The Lewis and Clark Expedition is also known as the Corps of Discovery\"。虽然 \"Lewis and Clark Expedition\" 是常用名，但 \"Corps of Discovery\" 是其正式/官方名称（Official Name）。检索结果提供了这一关键别名信息，能够准确回答问题。",
+          "critic_factual_notes": "2 个独立来源（文档 'Lewis and Clark Expedition' 和 'Meriwether Lewis'）一致指出 'The Lewis and Clark Expedition is also known as the Corps of Discovery (Expedition)'。证据直接、具体，充分支撑声称答案 'Corps of Discovery Expedition'。",
+          "critic_normative_advice": "建议 INHERIT——证据充分且一致，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "The Lewis and Clark Memorial Column is dedicated to Meriwether Lewis, best known for his role as the leader of which Lewis and Clark Expedition?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "The Lewis and Clark Memorial Column is dedicated to Meriwether Lewis, best known for his role as the leader of which Lewis and Clark Expedition?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，等待子节点证据聚合以生成最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点无独立搜索来源，其健康状态依赖于子节点推理链。子节点 N1_1 已提供充分证据（2个独立来源一致）确立探险队名称为 'Corps of Discovery Expedition'。推理链完整：Q 询问 Lewis 领导的探险队名称 -> N1_1 确认该名称。",
+          "critic_normative_advice": "建议生成最终答案——依赖的子节点证据充分，语义覆盖完整，可基于 N1_1 的答案合成 ROOT 的最终回答。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the official name of the expedition led by Meriwether Lewis and William Clark?",
+          "answer": "Corps of Discovery Expedition",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the official name of the expedition led by Meriwether Lewis and William Clark?",
+          "planner_rationale": "该节点已 SOLVED 且 Critic 判为 healthy。证据充分确立了探险队名称为 'Corps of Discovery Expedition'，直接回答了 Q 的核心疑问。无需进一步搜索。",
+          "solver_judgment": "question 要求找出 Meriwether Lewis 和 William Clark 领导的探险队的官方名称。search_query 直接搜索了该问题。chunks 返回了多个提及 \"Lewis and Clark Expedition\" 的片段，其中 chunk 23a821e3-d34c-48e9-8fa0-6d24cef50318 明确指出 \"The Lewis and Clark Expedition is also known as the Corps of Discovery Expedition\"，chunk b191550b-1909-42d2-8aea-530fab9fcdf1 指出 \"The Lewis and Clark Expedition is also known as the Corps of Discovery\"。虽然 \"Lewis and Clark Expedition\" 是常用名，但 \"Corps of Discovery\" 是其正式/官方名称（Official Name）。检索结果提供了这一关键别名信息，能够准确回答问题。",
+          "critic_factual_notes": "2 个独立来源（文档 'Lewis and Clark Expedition' 和 'Meriwether Lewis'）一致指出 'The Lewis and Clark Expedition is also known as the Corps of Discovery (Expedition)'。证据直接、具体，充分支撑声称答案 'Corps of Discovery Expedition'。",
+          "critic_normative_advice": "建议 INHERIT——证据充分且一致，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the official name of the expedition led by Meriwether Lewis and William Clark?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "3b89b05e-0206-40db-90cd-4162fb3d9545",
+        "f7d536d8-93b9-4ab3-bf07-4b4b314f7b92",
+        "64c34a9f-c9b0-459c-859c-70490aab2de2",
+        "e5b63a2e-dc57-4ce4-9691-ab896fc52b96",
+        "b910e353-c7e5-41f0-b093-bf3f7664d4d6",
+        "23a821e3-d34c-48e9-8fa0-6d24cef50318",
+        "7ac97f23-d57b-4630-9074-c624f8a67217",
+        "b191550b-1909-42d2-8aea-530fab9fcdf1"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the official name of the expedition led by Meriwether Lewis and William Clark?（理由：Q 问的是 Meriwether Lewis 最著名的角色是领导了“哪一次”刘易斯和克拉克探险队。虽然常识告诉我们就是“刘易斯和克拉克探险队”，但为了严谨回答 'which'，我们需要确认该探险队的具体名称或标识，这通常是 'Corps of Discovery Expedition' 或直接称为 'Lewis and Clark Expedition'。此节点直接提供 Q 的答案）。关系: F1 是 Q 的直接分解产物（decomposition），因为 F1 的答案即为 Q 所求。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：直接将 Q 的核心疑问 'which Lewis and Clark Expedition' 转化为一个具体的事实探测问题，即确认该探险队的正式名称或标识。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 直接回答 Q 的核心疑问）；③ 所有节点（N1_1 和 N0）审查结果为 healthy；④ 首轮无拓扑变化阻碍。DAG 结构完整，证据充分，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the official name of the expedition led by Meriwether Lewis and William Clark?（理由：Q 问的是 Meriwether Lewis 最著名的角色是领导了“哪一次”刘易斯和克拉克探险队。虽然常识告诉我们就是“刘易斯和克拉克探险队”，但为了严谨回答 'which'，我们需要确认该探险队的具体名称或标识，这通常是 'Corps of Discovery Expedition' 或直接称为 'Lewis and Clark Expedition'。此节点直接提供 Q 的答案）。关系: F1 是 Q 的直接分解产物（decomposition），因为 F1 的答案即为 Q 所求。当前 DAG 结构已完整覆盖 Q 的语义需求，且 F1 已确认为 healthy/solved。",
+      "hypothesis_delta": "本轮无结构变更。原因：Critic 指出当前 DAG 结构简洁有效，N1_1 已提供充分证据确立答案 'Corps of Discovery Expedition'，无语义缺口或冗余。上一轮假设（只需确认名称即可回答 Q）已被验证。因此，保留所有现有节点和边，等待最终答案合成。修正：显式声明 LINK N0→N1_1 以符合系统对旧边保留的要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N1_1 直接回答 Q 的核心疑问）；③所有节点（含 ROOT）critic_health 均为 healthy；④拓扑连续稳定。置信度高，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the official name of the expedition led by Meriwether Lewis and William Clark?（理由：Q 询问 Meriwether Lewis 领导的“哪一次”探险队，F1 直接提供该名称 'Corps of Discovery Expedition'）。关系: F1 是 Q 的直接分解产物（decomposition），因为 F1 的答案即为 Q 所求。当前 DAG 结构已完整覆盖 Q 的语义需求，且 F1 已确认为 healthy/solved，达到收敛状态。",
+      "hypothesis_delta": "本轮无结构变更。原因：Critic 指出当前 DAG 结构简洁有效，N1_1 已提供充分证据确立答案 'Corps of Discovery Expedition'，无语义缺口或冗余。上一轮假设（只需确认名称即可回答 Q）已被验证。因此，保留所有现有节点和边，等待最终答案合成。修正：显式声明 LINK N0→N1_1 以满足系统对旧边保留的要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N1_1 答案直接回答 Q）；③所有节点（N0, N1_1）均为 healthy；④拓扑连续稳定。置信度高，可终止探索并生成最终答案。"
+      }
+    }
+  ]
+}

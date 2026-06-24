@@ -1,0 +1,422 @@
+{
+  "question_index": 273,
+  "question_id": "883fd545095a11ebbdaeac1f6bf848b6",
+  "question": "Which film was released more recently, Drugstore Cowboy or When The Sea Rises?",
+  "answer": "When The Sea Rises",
+  "prediction": "When The Sea Rises",
+  "error": null,
+  "latency_ms": 99069.200500031,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T19:44:06.938857+00:00",
+  "chunks": [
+    {
+      "chunk_id": "fc89d1e0-70fb-47f2-a70c-495df1fee364",
+      "chunk_title": "Film Reception",
+      "chunk_summary": "This chunk contains information about the critical reception of films, specifically focusing on ratings and reviews.",
+      "context_title": "Drugstore Cowboy",
+      "page_content": "Drugstore Cowboy currently holds a 100% rating at Rotten Tomatoes. Drugstore Cowboy was a critical success. Drugstore Cowboy has an average score of 8/10 at Rotten Tomatoes based on 27 reviews."
+    },
+    {
+      "chunk_id": "eb0f9ba0-602a-4e27-852d-b60a58df2149",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1989 film Drugstore Cowboy, including its director, writers, source material, and starring actors.",
+      "context_title": "Drugstore Cowboy",
+      "page_content": "Drugstore Cowboy was written by Gus Van Sant. At the time Drugstore Cowboy was made, the source novel by James Fogle was unpublished. Drugstore Cowboy is based on an autobiographical novel by James Fogle. Gus Van Sant is an American filmmaker. Drugstore Cowboy was written by Daniel Yost. Drugstore Cowboy was directed by Gus Van Sant. Drugstore Cowboy stars Kelly Lynch. Drugstore Cowboy stars William S. Burroughs. Drugstore Cowboy is a 1989 American crime drama film. Drugstore Cowboy was Gus Van Sant's second film as director. Drugstore Cowboy stars Matt Dillon. Drugstore Cowboy stars Heather Graham."
+    },
+    {
+      "chunk_id": "be9ed368-6d2a-4484-ba72-46b0b92d20af",
+      "chunk_title": "Rovin' Tumbleweeds Film Details",
+      "chunk_summary": "This chunk contains information about the 1939 Western film \"Rovin' Tumbleweeds,\" including its director, writers, starring actors, and plot summary.",
+      "context_title": "Rovin' Tumbleweeds",
+      "page_content": "Rovin' Tumbleweeds stars Gene Autry. Rovin' Tumbleweeds was directed by George Sherman. Rovin' Tumbleweeds is about a cowboy congressman. Rovin' Tumbleweeds is a 1939 American Western film. The cowboy congressman in Rovin' Tumbleweeds exposes a crooked politician. Rovin' Tumbleweeds stars Mary Carlisle. Rovin' Tumbleweeds stars Smiley Burnette. The crooked politician in Rovin' Tumbleweeds is delaying passage of a flood control bill. Rovin' Tumbleweeds was written by Stuart E. McGowan. Rovin' Tumbleweeds was written by Betty Burbridge. Rovin' Tumbleweeds was written by Dorrell McGowan."
+    },
+    {
+      "chunk_id": "4a59fa71-e781-4b96-9286-db4dc731945c",
+      "chunk_title": "Music Albums",
+      "chunk_summary": "This chunk contains information about music albums, including their titles, artists, release order, release dates, chart performance, and band member lineups.",
+      "context_title": "Little Ol' Cowgirl",
+      "page_content": "The previous album by the Dixie Chicks produced no chart singles. Little Ol' Cowgirl produced no chart singles. Robin Lynn Macy left the Dixie Chicks in late 1992. Little Ol' Cowgirl was the last album to feature Robin Lynn Macy. Little Ol' Cowgirl was released in 1992. Little Ol' Cowgirl is the second studio album by the American country band Dixie Chicks."
+    },
+    {
+      "chunk_id": "1d154acb-d07a-4f66-8bed-33246c290431",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, production studios, and writers.",
+      "context_title": "Buck and the Preacher",
+      "page_content": "Buck and the Preacher was released by Columbia Pictures. Buck and the Preacher is a 1972 American Western film. Buck and the Preacher was written by Ernest Kinoy."
+    },
+    {
+      "chunk_id": "cba3b61c-2ac8-4d24-abd0-ce334761c351",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of films, primarily Westerns.",
+      "context_title": "John Wayne",
+      "page_content": "\"The Quiet Man\" was released in 1952. \"The Big Trail\" was released in 1930. \"The Shootist\" was released in 1976. \"The Man Who Shot Liberty Valance\" was released in 1962. \"True Grit\" was released in 1969. \"Rio Bravo\" was released in 1959. \"The Searchers\" was released in 1956. \"The Longest Day\" was released in 1962. \"Stagecoach\" was released in 1939. \"Red River\" was released in 1948."
+    },
+    {
+      "chunk_id": "442d9588-d248-4bc0-a967-96ba7534926f",
+      "chunk_title": "Music Albums",
+      "chunk_summary": "This chunk contains information about music albums, including their titles, artists, release order, and release dates.",
+      "context_title": "Under the Gun (Poco album)",
+      "page_content": "Under the Gun was released in July 1980. Legend is Poco's breakout album. Under the Gun is the twelfth studio album by Poco. Under the Gun was the followup to Legend."
+    },
+    {
+      "chunk_id": "ed3f62e8-c030-48af-a262-b95ef805c5eb",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of films.",
+      "context_title": "Sam Peckinpah",
+      "page_content": "\"Pat Garrett and Billy the Kid\" was released in 1973. \"The Wild Bunch\" was released in 1969. \"The Getaway\" was released in 1972. \"Major Dundee\" was released in 1965. \"Straw Dogs\" was released in 1971."
+    },
+    {
+      "chunk_id": "bda86a55-f2b2-4340-9fd7-fd076c99fe45",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the film \"When the Sea Rises,\" including its release year, country of origin, genre, directors, and directorial debut details.",
+      "context_title": "When the Sea Rises",
+      "page_content": "When the Sea Rises was directed by Gilles Porte. When the Sea Rises is a 2004 film. When the Sea Rises is a French-Belgian film. When the Sea Rises is a romantic comedy film. When the Sea Rises was directed by Yolande Moreau. When the Sea Rises was Yolande Moreau's directorial debut."
+    },
+    {
+      "chunk_id": "f4a16bd7-1d6d-4ec1-a1fe-9ce7d8003cad",
+      "chunk_title": "Film Release & Production",
+      "chunk_summary": "This chunk contains information about the release dates and production studios of films.",
+      "context_title": "Millard Webb",
+      "page_content": "\"Glorifying the American Girl\" was released in 1929. \"Naughty But Nice\" was produced by First National Pictures. \"Glorifying the American Girl\" was released by Paramount. \"The Sea Beast\" was released in 1926."
+    },
+    {
+      "chunk_id": "309b7e4f-0624-4426-b707-e9fcf31c62f7",
+      "chunk_title": "Film Directors & Works",
+      "chunk_summary": "This chunk contains information about film directors, their nationalities, and the specific films they have directed or co-written, including details on collaboration duration.",
+      "context_title": "Where or When (film)",
+      "page_content": "Bahman Pour-Azar and Jun Kim wrote the film script for Where or When over seven years. Bahman Pour-Azar directed the film Where or When. Bahman Pour-Azar co-wrote the film script for Where or When with Jun Kim. Bahman Pour-Azar is an Iranian film director. Hiroshima Mon Amour was directed by Alain Resnais."
+    },
+    {
+      "chunk_id": "c7c85ec4-82c1-49f2-894a-34e25cdb7dd6",
+      "chunk_title": "Film Production Budgets",
+      "chunk_summary": "This chunk contains information about the production budgets of films.",
+      "context_title": "Where or When (film)",
+      "page_content": "The film Where or When was produced for less than US$ 50,000."
+    },
+    {
+      "chunk_id": "c5ecd4d1-cee9-41fd-a1b7-52cc76458370",
+      "chunk_title": "Film Inspirations",
+      "chunk_summary": "This chunk contains information about the inspirations and influences behind specific films, including references to other movies and musical works.",
+      "context_title": "Where or When (film)",
+      "page_content": "The film Where or When contains the classic show tune from the 1937 Rodgers and Hart musical Babes In Arms Where Or When. The film Where or When was inspired by the 1959 French classic Hiroshima Mon Amour."
+    },
+    {
+      "chunk_id": "51683f0b-17ce-491f-8864-bbdce0683a91",
+      "chunk_title": "Film Duration",
+      "chunk_summary": "This chunk contains information about the duration of feature films.",
+      "context_title": "Where or When (film)",
+      "page_content": "The feature film Where or When is 85 minutes long."
+    },
+    {
+      "chunk_id": "a91a6ed2-7f99-476f-9dcf-75988f8b4159",
+      "chunk_title": "Films & Release Years",
+      "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+      "context_title": "Where or When (film)",
+      "page_content": "Where or When is a 2003 film."
+    },
+    {
+      "chunk_id": "17100baa-d815-4eb3-9d7a-d78e5edd17bf",
+      "chunk_title": "Isle of Escape Film Details",
+      "chunk_summary": "This chunk contains information about the 1930 film Isle of Escape, including its production details, cast, setting, and relevant actor history.",
+      "context_title": "Isle of Escape",
+      "page_content": "Isle of Escape was released by Warner Bros. Monte Blue played man-stranded-on-island roles in the film White Shadows in the South Seas. Monte Blue continues in the tradition of playing man-stranded-on-island roles in the early talkie film Isle of Escape. The film Isle of Escape stars Myrna Loy. Isle of Escape was produced by Warner Bros. The film Isle of Escape stars Monte Blue. Monte Blue had been playing man-stranded-on-island roles towards the end of the silent era. Isle of Escape is a 1930 American Pre-Code film. The film Isle of Escape is set in the South Seas."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.1875,
+  "retrieval_count": 2,
+  "total_chunks": 16,
+  "total_distinct_titles": 11,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which film was released more recently, Drugstore Cowboy or When The Sea Rises?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released more recently, Drugstore Cowboy or When The Sea Rises?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影的上映日期以确定哪部更近",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态依赖于子节点推理链的完整性。当前子节点 N1_1 (1989) 和 N1_2 (2004) 均已求解且证据充分。逻辑上，比较两个已知年份即可得出最终结论（2004 > 1989，故 When The Sea Rises 更近）。推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点事实已完备，逻辑闭环已形成，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film Drugstore Cowboy released?",
+          "answer": "1989",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Drugstore Cowboy released?",
+          "planner_rationale": "Q 要求比较两部电影的上映时间，必须首先获取 Drugstore Cowboy 的具体上映日期作为比较基准之一",
+          "solver_judgment": "question 要求确认电影《Drugstore Cowboy》的上映年份。search_query 搜索了 'When was the film Drugstore Cowboy released?'。chunks 返回了关于该电影的详细信息，其中 chunk eb0f9ba0-602a-4e27-852d-b60a58df2149 明确记载 'Drugstore Cowboy is a 1989 American crime drama film'，直接提供了上映年份 1989。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Drugstore Cowboy），直接具体地陈述了答案 'Drugstore Cowboy is a 1989 American crime drama film'。单来源但证据确凿，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film When The Sea Rises released?",
+          "answer": "2004",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film When The Sea Rises released?",
+          "planner_rationale": "Q 要求比较两部电影的上映时间，必须首先获取 When The Sea Rises 的具体上映日期作为比较基准之二",
+          "solver_judgment": "question 要求确认电影《When The Sea Rises》的上映年份。search_query 搜索了 'When was the film When The Sea Rises released?'。chunks 返回了关于该电影的详细信息，其中 chunk bda86a55-f2b2-4340-9fd7-fd076c99fe45 明确记载 \"When the Sea Rises is a 2004 film\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 When the Sea Rises），直接具体地陈述了答案 'When the Sea Rises is a 2004 film'。单来源但证据确凿，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which film was released more recently, Drugstore Cowboy or When The Sea Rises?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released more recently, Drugstore Cowboy or When The Sea Rises?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 (1989) 和 N1_2 (2004) 均已 SOLVED 且 healthy，逻辑闭环已形成，可直接聚合得出最终答案（When The Sea Rises 更近）。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态依赖于子节点推理链的完整性。当前子节点 N1_1 (answer=1989) 和 N1_2 (answer=2004) 均已 SOLVED 且 healthy。逻辑上，比较两个已知年份（2004 > 1989）即可得出最终结论（When The Sea Rises 更近）。推理链完整且自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点事实已完备，逻辑闭环已形成，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film Drugstore Cowboy released?",
+          "answer": "1989",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Drugstore Cowboy released?",
+          "planner_rationale": "Q 要求比较两部电影的上映时间，必须首先获取 Drugstore Cowboy 的具体上映日期作为比较基准之一。该事实已确证（1989），证据充分。",
+          "solver_judgment": "question 要求确认电影《Drugstore Cowboy》的上映年份。search_query 搜索了 'When was the film Drugstore Cowboy released?'。chunks 返回了关于该电影的详细信息，其中 chunk eb0f9ba0-602a-4e27-852d-b60a58df2149 明确记载 'Drugstore Cowboy is a 1989 American crime drama film'，直接提供了上映年份 1989。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 Drugstore Cowboy），直接具体地陈述了答案 'Drugstore Cowboy is a 1989 American crime drama film'。单来源但证据确凿，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film When The Sea Rises released?",
+          "answer": "2004",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film When The Sea Rises released?",
+          "planner_rationale": "Q 要求比较两部电影的上映时间，必须首先获取 When The Sea Rises 的具体上映日期作为比较基准之二。该事实已确证（2004），证据充分。",
+          "solver_judgment": "question 要求确认电影《When The Sea Rises》的上映年份。search_query 搜索了 'When was the film When The Sea Rises released?'。chunks 返回了关于该电影的详细信息，其中 chunk bda86a55-f2b2-4340-9fd7-fd076c99fe45 明确记载 \"When the Sea Rises is a 2004 film\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 When the Sea Rises），直接具体地陈述了答案 'When the Sea Rises is a 2004 film'。单来源但证据确凿，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which film was released more recently, Drugstore Cowboy or When The Sea Rises?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released more recently, Drugstore Cowboy or When The Sea Rises?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 (1989) 和 N1_2 (2004) 均已 SOLVED 且 healthy，逻辑闭环已形成，可直接聚合得出最终答案（When The Sea Rises 更近）。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态依赖于子节点推理链的完整性。当前子节点 N1_1 (answer=1989) 和 N1_2 (answer=2004) 均已 SOLVED 且 healthy。逻辑上，比较两个已知年份（2004 > 1989）即可得出最终结论（When The Sea Rises 更近）。推理链完整且自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点事实已完备，逻辑闭环已形成，可直接生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film Drugstore Cowboy released?",
+          "answer": "1989",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Drugstore Cowboy released?",
+          "planner_rationale": "Q 要求比较两部电影的上映时间，必须首先获取 Drugstore Cowboy 的具体上映日期作为比较基准之一。该事实已确证（1989），证据充分。",
+          "solver_judgment": "question 要求确认电影《Drugstore Cowboy》的上映年份。search_query 搜索了 'When was the film Drugstore Cowboy released?'。chunks 返回了关于该电影的详细信息，其中 chunk eb0f9ba0-602a-4e27-852d-b60a58df2149 明确记载 'Drugstore Cowboy is a 1989 American crime drama film'，直接提供了上映年份 1989。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 Drugstore Cowboy），直接具体地陈述了答案 'Drugstore Cowboy is a 1989 American crime drama film'。单来源但证据确凿，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film When The Sea Rises released?",
+          "answer": "2004",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film When The Sea Rises released?",
+          "planner_rationale": "Q 要求比较两部电影的上映时间，必须首先获取 When The Sea Rises 的具体上映日期作为比较基准之二。该事实已确证（2004），证据充分。",
+          "solver_judgment": "question 要求确认电影《When The Sea Rises》的上映年份。search_query 搜索了 'When was the film When The Sea Rises released?'。chunks 返回了关于该电影的详细信息，其中 chunk bda86a55-f2b2-4340-9fd7-fd076c99fe45 明确记载 \"When the Sea Rises is a 2004 film\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 When the Sea Rises），直接具体地陈述了答案 'When the Sea Rises is a 2004 film'。单来源但证据确凿，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was the film Drugstore Cowboy released?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "fc89d1e0-70fb-47f2-a70c-495df1fee364",
+        "eb0f9ba0-602a-4e27-852d-b60a58df2149",
+        "be9ed368-6d2a-4484-ba72-46b0b92d20af",
+        "4a59fa71-e781-4b96-9286-db4dc731945c",
+        "1d154acb-d07a-4f66-8bed-33246c290431",
+        "cba3b61c-2ac8-4d24-abd0-ce334761c351",
+        "442d9588-d248-4bc0-a967-96ba7534926f",
+        "ed3f62e8-c030-48af-a262-b95ef805c5eb"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was the film When The Sea Rises released?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "bda86a55-f2b2-4340-9fd7-fd076c99fe45",
+        "f4a16bd7-1d6d-4ec1-a1fe-9ce7d8003cad",
+        "309b7e4f-0624-4426-b707-e9fcf31c62f7",
+        "c7c85ec4-82c1-49f2-894a-34e25cdb7dd6",
+        "c5ecd4d1-cee9-41fd-a1b7-52cc76458370",
+        "51683f0b-17ce-491f-8864-bbdce0683a91",
+        "a91a6ed2-7f99-476f-9dcf-75988f8b4159",
+        "17100baa-d815-4eb3-9d7a-d78e5edd17bf"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Drugstore Cowboy released?（理由：这是比较两部影片上映时间所需的第一个数据点），F2: When was When The Sea Rises released?（理由：这是比较两部影片上映时间所需的第二个数据点）。关系: F1 和 F2 都是 Q (N0) 的直接分解产物（decomposition），因为 Q 的核心逻辑是获取这两个日期并进行比较。一旦 F1 和 F2 被求解，即可直接回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略是将比较问题拆解为两个独立的事实检索任务：分别获取两部电影的上映年份。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N1_1/N1_2 的答案均为年份，可直接用于 N0 的比较逻辑）；③所有节点（含 ROOT）审查结果为 healthy；④首轮无拓扑震荡。DAG 结构合理，证据充分，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Drugstore Cowboy released?（理由：比较所需的数据点 1），F2: When was When The Sea Rises released?（理由：比较所需的数据点 2）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。当前 DAG 中 F1 (N1_1) 和 F2 (N1_2) 均已 SOLVED 且 healthy，结构完整，无需新增节点或边，只需保留现有结构以完成最终答案聚合。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 (N0, N1_1, N1_2) 均通过 INHERIT 保留，所有边 (N0→N1_1, N0→N1_2) 均通过 LINK 显式声明保留。原因：Critic 确认子节点事实已完备（N1_1=1989, N1_2=2004），逻辑闭环已形成，初始分解策略完全正确且已收敛，无需任何增删或重搜。上一轮遗漏了显式 LINK 原语，本轮补全以满足系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，子节点答案均为年份，可直接比较）；③ 全部节点（含 ROOT）health 为 healthy；④ 拓扑连续两轮无变化。置信度高，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Drugstore Cowboy released?（理由：比较所需的数据点 1，已确证为 1989），F2: When was When The Sea Rises released?（理由：比较所需的数据点 2，已确证为 2004）。关系: F1 和 F2 均为 Q 的分解产物（decomposition）。当前 DAG 中 F1 (N1_1) 和 F2 (N1_2) 均已 SOLVED 且 healthy，结构完整，无需新增节点或边，只需保留现有结构以完成最终答案聚合。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 (N0, N1_1, N1_2) 均通过 INHERIT 保留，所有边 (N0→N1_1, N0→N1_2) 均通过 LINK 显式声明保留。原因：Critic 确认子节点事实已完备（N1_1=1989, N1_2=2004），逻辑闭环已形成，初始分解策略完全正确且已收敛，无需任何增删或重搜。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2 逻辑有效，子节点答案可聚合比较）；③ 全部节点 healthy（N1_1/N1_2 证据充分，N0 依赖链完整）；④ 拓扑连续稳定（本轮无变化）。置信度高，可生成最终答案。"
+      }
+    }
+  ]
+}

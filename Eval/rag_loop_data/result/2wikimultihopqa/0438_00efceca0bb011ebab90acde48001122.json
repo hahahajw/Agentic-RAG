@@ -1,0 +1,456 @@
+{
+  "question_index": 438,
+  "question_id": "00efceca0bb011ebab90acde48001122",
+  "question": "Who is the father of George, Emperor Of Trebizond?",
+  "answer": "Manuel I of Trebizond",
+  "prediction": "Manuel I",
+  "error": null,
+  "latency_ms": 256266.7994000003,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T19:02:34.225497+00:00",
+  "chunks": [
+    {
+      "chunk_id": "831e2639-fa17-435e-ad44-da6daa1dfa12",
+      "chunk_title": "George Megas Komnenos",
+      "chunk_summary": "This chunk contains information about the reign, lineage, and succession of George Megas Komnenos, Emperor of Trebizond.",
+      "context_title": "George, Emperor of Trebizond",
+      "page_content": "George Megas Komnenos was the Emperor of Trebizond from 1266 to 1280. Andronikos was the half-brother of George Megas Komnenos. George Megas Komnenos ruled for 14 years. George Megas Komnenos succeeded his half-brother Andronikos. George Megas Komnenos was the elder son of Emperor Manuel I. George Megas Komnenos was the son of Irene Syrikaina. George Megas Komnenos succeeded Andronikos in 1266."
+    },
+    {
+      "chunk_id": "6c14e293-8e84-4034-aaed-a5b0668fb6fc",
+      "chunk_title": "Historical Rulers & Reigns",
+      "chunk_summary": "This chunk contains information about historical rulers and their reigns.",
+      "context_title": "Helena Kantakouzene, Empress of Trebizond",
+      "page_content": "David of Trebizond was the last Emperor of Trebizond."
+    },
+    {
+      "chunk_id": "8d02041f-1fab-40fd-a216-b2e656b6a08d",
+      "chunk_title": "Manuel II Megas Komnenos",
+      "chunk_summary": "This chunk contains information about the historical ruler Manuel II Megas Komnenos, including his titles, reign duration, lifespan, and familial relationships.",
+      "context_title": "Manuel II of Trebizond",
+      "page_content": "Manuel II Megas Komnenos succeeded Emperor Andronikos III. Manuel II Megas Komnenos was the son of Emperor Andronikos III. Manuel II Megas Komnenos succeeded Emperor Andronikos III at the age of eight. Manuel II Megas Komnenos held the office of Emperor of Trebizond for eight months in 1332. Manuel II Megas Komnenos was Emperor of Trebizond. Manuel II Megas Komnenos succeeded Emperor Andronikos III in January 1332. Manuel II Megas Komnenos was the only child known to hold the office of Emperor of Trebizond. Manuel II Megas Komnenos lived circa 1324 to 1333."
+    },
+    {
+      "chunk_id": "ce9ed621-75bf-4a3a-8c84-38a4364117cd",
+      "chunk_title": "Historical Rulers & Reigns",
+      "chunk_summary": "This chunk contains information about historical rulers and their reigns.",
+      "context_title": "Maria of Gothia",
+      "page_content": "David of Trebizond was the last Emperor of Trebizond."
+    },
+    {
+      "chunk_id": "295c4eff-68b6-4445-b76f-06025a60a751",
+      "chunk_title": "Trebizond Emperors",
+      "chunk_summary": "This chunk contains information about historical emperors and their respective realms, specifically focusing on the Empire of Trebizond.",
+      "context_title": "Irene Syrikaina",
+      "page_content": "Manuel I was an Emperor of Trebizond. Basil Megas Komnenos acceded to the throne of Trebizond."
+    },
+    {
+      "chunk_id": "00d995ff-082e-41bc-8277-86c1a9bfe5b3",
+      "chunk_title": "Royal Figures & Titles",
+      "chunk_summary": "This chunk contains information about historical figures, their royal titles, and familial relationships.",
+      "context_title": "Jiajak Jaqeli",
+      "page_content": "Alexios II was of Trebizond. Jiajak Jaqeli was the Empress consort of Alexios II of Trebizond."
+    },
+    {
+      "chunk_id": "52ece03a-bd0b-4c38-8843-47940c747629",
+      "chunk_title": "Historical Figures & Roles",
+      "chunk_summary": "This chunk contains information about historical figures and their titles or roles.",
+      "context_title": "Irene of Trebizond",
+      "page_content": "John later became Alexios III of Trebizond."
+    },
+    {
+      "chunk_id": "ad6e4d02-723c-4a95-acda-1e4f0c16ddea",
+      "chunk_title": "Trebizond Rulership & Lineage",
+      "chunk_summary": "This chunk contains information about the historical rulership and family relationships of Alexander Komnenos within the Empire of Trebizond.",
+      "context_title": "Alexander of Trebizond",
+      "page_content": "Alexander Komnenos was later a co-emperor with his brother John IV. Alexander Komnenos was first a co-emperor with his father Alexios IV of Trebizond. Alexios IV of Trebizond was the father of Alexander Komnenos. John IV was the brother of Alexander Komnenos. Alexander Komnenos was a co-emperor of the Empire of Trebizond."
+    },
+    {
+      "chunk_id": "e394659b-bdcf-4125-ae0d-f934b4e12028",
+      "chunk_title": "Historical Figure Names",
+      "chunk_summary": "This chunk contains information about the alternative names and titles of historical figures.",
+      "context_title": "George, Emperor of Trebizond",
+      "page_content": "George Megas Komnenos was also known as \"Geōrgios Megas Komnēnos\"."
+    },
+    {
+      "chunk_id": "6ce0dff1-c4e9-4b6c-a60c-4fec63d976b5",
+      "chunk_title": "Alternative Names",
+      "chunk_summary": "This chunk contains information about alternative names and naming conventions for historical figures, specifically focusing on variations of the name George Palaiologos.",
+      "context_title": "George Palaiologos",
+      "page_content": "George Palaiologos was also known as George Palaeologus. George Palaiologos was also known as Georgios Palaiologos."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.666667,
+  "precision": 1.0,
+  "recall": 0.5,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3,
+  "retrieval_count": 1,
+  "total_chunks": 10,
+  "total_distinct_titles": 9,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "Who is the father of George, Emperor Of Trebizond?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is the father of George, Emperor Of Trebizond?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 George, Emperor Of Trebizond 的父亲是谁",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据为子节点推理链的聚合。推理链：N1_1 确认 George, Emperor of Trebizond 即 George Megas Komnenos（1266-1280 年在位），N1_2 基于 N1_1 的检索结果得出其父亲为 Manuel I。推理链完整且逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，答案可直接合成。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who was George, Emperor of Trebizond? (identity, reign period, full name)",
+          "answer": "George Megas Komnenos (Geōrgios Megas Komnēnos), Emperor of Trebizond from 1266 to 1280, elder son of Emperor Manuel I and Irene Syrikaina",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who was George, Emperor of Trebizond? (identity, reign period, full name)",
+          "planner_rationale": "Q 询问的是特定人物 'George, Emperor Of Trebizond' 的父亲。Trebizond 帝国历史上可能有多个名为 George 的皇帝，需要先确认具体指哪一位（统治时期、全名等），才能准确查找其父亲",
+          "solver_judgment": "question 要求确认 George, Emperor of Trebizond 的身份、在位时期和全名。search_query 直接搜索了该问题。chunks 返回了 George Megas Komnenos 的详细信息：chunk 831e2639 记载其全名为 George Megas Komnenos，在位时期为 1266 至 1280 年，身份为特拉比松帝国皇帝、曼努埃尔一世与伊琳娜·西里凯纳的长子；chunk e394659b 补充了其希腊语全名 Geōrgios Megas Komnēnos。检索精准命中目标，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk，均来自同一文档（George, Emperor of Trebizond），为单来源。chunk 831e2639 直接陈述：'George Megas Komnenos was the Emperor of Trebizond from 1266 to 1280'、'George Megas Komnenos was the elder son of Emperor Manuel I'、'George Megas Komnenos was the son of Irene Syrikaina'。chunk e394659b 补充希腊语全名 'Geōrgios Megas Komnēnos'。答案与 chunk 内容逐字匹配，信息直接、具体。交叉验证：不充分（仅 1 个独立来源），但单来源直接陈述可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案直接来源于 chunk 全文，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "831e2639-fa17-435e-ad44-da6daa1dfa12",
+            "e394659b-bdcf-4125-ae0d-f934b4e12028"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "831e2639-fa17-435e-ad44-da6daa1dfa12",
+              "chunk_title": "George Megas Komnenos",
+              "chunk_summary": "This chunk contains information about the reign, lineage, and succession of George Megas Komnenos, Emperor of Trebizond.",
+              "context_title": "George, Emperor of Trebizond",
+              "page_content": "George Megas Komnenos was the Emperor of Trebizond from 1266 to 1280. Andronikos was the half-brother of George Megas Komnenos. George Megas Komnenos ruled for 14 years. George Megas Komnenos succeeded his half-brother Andronikos. George Megas Komnenos was the elder son of Emperor Manuel I. George Megas Komnenos was the son of Irene Syrikaina. George Megas Komnenos succeeded Andronikos in 1266."
+            },
+            {
+              "chunk_id": "6c14e293-8e84-4034-aaed-a5b0668fb6fc",
+              "chunk_title": "Historical Rulers & Reigns",
+              "chunk_summary": "This chunk contains information about historical rulers and their reigns.",
+              "context_title": "Helena Kantakouzene, Empress of Trebizond",
+              "page_content": "David of Trebizond was the last Emperor of Trebizond."
+            },
+            {
+              "chunk_id": "8d02041f-1fab-40fd-a216-b2e656b6a08d",
+              "chunk_title": "Manuel II Megas Komnenos",
+              "chunk_summary": "This chunk contains information about the historical ruler Manuel II Megas Komnenos, including his titles, reign duration, lifespan, and familial relationships.",
+              "context_title": "Manuel II of Trebizond",
+              "page_content": "Manuel II Megas Komnenos succeeded Emperor Andronikos III. Manuel II Megas Komnenos was the son of Emperor Andronikos III. Manuel II Megas Komnenos succeeded Emperor Andronikos III at the age of eight. Manuel II Megas Komnenos held the office of Emperor of Trebizond for eight months in 1332. Manuel II Megas Komnenos was Emperor of Trebizond. Manuel II Megas Komnenos succeeded Emperor Andronikos III in January 1332. Manuel II Megas Komnenos was the only child known to hold the office of Emperor of Trebizond. Manuel II Megas Komnenos lived circa 1324 to 1333."
+            },
+            {
+              "chunk_id": "ce9ed621-75bf-4a3a-8c84-38a4364117cd",
+              "chunk_title": "Historical Rulers & Reigns",
+              "chunk_summary": "This chunk contains information about historical rulers and their reigns.",
+              "context_title": "Maria of Gothia",
+              "page_content": "David of Trebizond was the last Emperor of Trebizond."
+            },
+            {
+              "chunk_id": "295c4eff-68b6-4445-b76f-06025a60a751",
+              "chunk_title": "Trebizond Emperors",
+              "chunk_summary": "This chunk contains information about historical emperors and their respective realms, specifically focusing on the Empire of Trebizond.",
+              "context_title": "Irene Syrikaina",
+              "page_content": "Manuel I was an Emperor of Trebizond. Basil Megas Komnenos acceded to the throne of Trebizond."
+            },
+            {
+              "chunk_id": "00d995ff-082e-41bc-8277-86c1a9bfe5b3",
+              "chunk_title": "Royal Figures & Titles",
+              "chunk_summary": "This chunk contains information about historical figures, their royal titles, and familial relationships.",
+              "context_title": "Jiajak Jaqeli",
+              "page_content": "Alexios II was of Trebizond. Jiajak Jaqeli was the Empress consort of Alexios II of Trebizond."
+            },
+            {
+              "chunk_id": "52ece03a-bd0b-4c38-8843-47940c747629",
+              "chunk_title": "Historical Figures & Roles",
+              "chunk_summary": "This chunk contains information about historical figures and their titles or roles.",
+              "context_title": "Irene of Trebizond",
+              "page_content": "John later became Alexios III of Trebizond."
+            },
+            {
+              "chunk_id": "ad6e4d02-723c-4a95-acda-1e4f0c16ddea",
+              "chunk_title": "Trebizond Rulership & Lineage",
+              "chunk_summary": "This chunk contains information about the historical rulership and family relationships of Alexander Komnenos within the Empire of Trebizond.",
+              "context_title": "Alexander of Trebizond",
+              "page_content": "Alexander Komnenos was later a co-emperor with his brother John IV. Alexander Komnenos was first a co-emperor with his father Alexios IV of Trebizond. Alexios IV of Trebizond was the father of Alexander Komnenos. John IV was the brother of Alexander Komnenos. Alexander Komnenos was a co-emperor of the Empire of Trebizond."
+            },
+            {
+              "chunk_id": "e394659b-bdcf-4125-ae0d-f934b4e12028",
+              "chunk_title": "Historical Figure Names",
+              "chunk_summary": "This chunk contains information about the alternative names and titles of historical figures.",
+              "context_title": "George, Emperor of Trebizond",
+              "page_content": "George Megas Komnenos was also known as \"Geōrgios Megas Komnēnos\"."
+            },
+            {
+              "chunk_id": "6ce0dff1-c4e9-4b6c-a60c-4fec63d976b5",
+              "chunk_title": "Alternative Names",
+              "chunk_summary": "This chunk contains information about alternative names and naming conventions for historical figures, specifically focusing on variations of the name George Palaiologos.",
+              "context_title": "George Palaiologos",
+              "page_content": "George Palaiologos was also known as George Palaeologus. George Palaiologos was also known as Georgios Palaiologos."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who was the father of George, Emperor of Trebizond?",
+          "answer": "Manuel I",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "Q 的核心询问——在确认 George, Emperor of Trebizond 的身份后，查找其父亲的具体姓名",
+          "solver_judgment": "从已知事实推理得出，未执行搜索",
+          "critic_factual_notes": "无独立来源——由已知事实推理得出。推理依据：N1_1 的支撑 chunk 831e2639 明确记载 'George Megas Komnenos was the elder son of Emperor Manuel I'，由此直接推出父亲为 Manuel I。推理逻辑自洽，无过度推断。",
+          "critic_normative_advice": "建议 INHERIT——推理依据充分，答案直接从 N1_1 的检索结果中提取，无需额外搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Who is the father of George, Emperor Of Trebizond?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is the father of George, Emperor Of Trebizond?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点推理链完整：N1_1 确认 George, Emperor of Trebizond 即 George Megas Komnenos（1266-1280 年在位），N1_2 基于 N1_1 的检索结果（chunk 831e2639 明确记载 'George Megas Komnenos was the elder son of Emperor Manuel I'）推理得出父亲为 Manuel I。答案可直接合成。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据为子节点推理链的聚合。推理链：N1_1 确认 George, Emperor of Trebizond 即 George Megas Komnenos（1266-1280 年在位），N1_2 基于 N1_1 的检索结果（chunk 831e2639 明确记载 'George Megas Komnenos was the elder son of Emperor Manuel I'）推理得出父亲为 Manuel I。推理链完整且逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，答案可直接合成。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who was George, Emperor of Trebizond? (identity, reign period, full name)",
+          "answer": "George Megas Komnenos (Geōrgios Megas Komnēnos), Emperor of Trebizond from 1266 to 1280, elder son of Emperor Manuel I and Irene Syrikaina",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who was George, Emperor of Trebizond? (identity, reign period, full name)",
+          "planner_rationale": "确认 George, Emperor of Trebizond 的具体身份（George Megas Komnenos，1266-1280 年在位），为查找其父亲提供精确的目标人物上下文。已 SOLVED + healthy，证据充分。",
+          "solver_judgment": "question 要求确认 George, Emperor of Trebizond 的身份、在位时期和全名。search_query 直接搜索了该问题。chunks 返回了 George Megas Komnenos 的详细信息：chunk 831e2639 记载其全名为 George Megas Komnenos，在位时期为 1266 至 1280 年，身份为特拉比松帝国皇帝、曼努埃尔一世与伊琳娜·西里凯纳的长子；chunk e394659b 补充了其希腊语全名 Geōrgios Megas Komnēnos。检索精准命中目标，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk，均来自同一文档（George, Emperor of Trebizond），为单来源。chunk 831e2639 直接陈述：'George Megas Komnenos was the Emperor of Trebizond from 1266 to 1280'、'George Megas Komnenos was the elder son of Emperor Manuel I'、'George Megas Komnenos was the son of Irene Syrikaina'。chunk e394659b 补充希腊语全名 'Geōrgios Megas Komnēnos'。答案与 chunk 内容逐字匹配，信息直接、具体。交叉验证：不充分（仅 1 个独立来源），但单来源直接陈述可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案直接来源于 chunk 全文，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "831e2639-fa17-435e-ad44-da6daa1dfa12",
+            "e394659b-bdcf-4125-ae0d-f934b4e12028"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "831e2639-fa17-435e-ad44-da6daa1dfa12",
+              "chunk_title": "George Megas Komnenos",
+              "chunk_summary": "This chunk contains information about the reign, lineage, and succession of George Megas Komnenos, Emperor of Trebizond.",
+              "context_title": "George, Emperor of Trebizond",
+              "page_content": "George Megas Komnenos was the Emperor of Trebizond from 1266 to 1280. Andronikos was the half-brother of George Megas Komnenos. George Megas Komnenos ruled for 14 years. George Megas Komnenos succeeded his half-brother Andronikos. George Megas Komnenos was the elder son of Emperor Manuel I. George Megas Komnenos was the son of Irene Syrikaina. George Megas Komnenos succeeded Andronikos in 1266."
+            },
+            {
+              "chunk_id": "6c14e293-8e84-4034-aaed-a5b0668fb6fc",
+              "chunk_title": "Historical Rulers & Reigns",
+              "chunk_summary": "This chunk contains information about historical rulers and their reigns.",
+              "context_title": "Helena Kantakouzene, Empress of Trebizond",
+              "page_content": "David of Trebizond was the last Emperor of Trebizond."
+            },
+            {
+              "chunk_id": "8d02041f-1fab-40fd-a216-b2e656b6a08d",
+              "chunk_title": "Manuel II Megas Komnenos",
+              "chunk_summary": "This chunk contains information about the historical ruler Manuel II Megas Komnenos, including his titles, reign duration, lifespan, and familial relationships.",
+              "context_title": "Manuel II of Trebizond",
+              "page_content": "Manuel II Megas Komnenos succeeded Emperor Andronikos III. Manuel II Megas Komnenos was the son of Emperor Andronikos III. Manuel II Megas Komnenos succeeded Emperor Andronikos III at the age of eight. Manuel II Megas Komnenos held the office of Emperor of Trebizond for eight months in 1332. Manuel II Megas Komnenos was Emperor of Trebizond. Manuel II Megas Komnenos succeeded Emperor Andronikos III in January 1332. Manuel II Megas Komnenos was the only child known to hold the office of Emperor of Trebizond. Manuel II Megas Komnenos lived circa 1324 to 1333."
+            },
+            {
+              "chunk_id": "ce9ed621-75bf-4a3a-8c84-38a4364117cd",
+              "chunk_title": "Historical Rulers & Reigns",
+              "chunk_summary": "This chunk contains information about historical rulers and their reigns.",
+              "context_title": "Maria of Gothia",
+              "page_content": "David of Trebizond was the last Emperor of Trebizond."
+            },
+            {
+              "chunk_id": "295c4eff-68b6-4445-b76f-06025a60a751",
+              "chunk_title": "Trebizond Emperors",
+              "chunk_summary": "This chunk contains information about historical emperors and their respective realms, specifically focusing on the Empire of Trebizond.",
+              "context_title": "Irene Syrikaina",
+              "page_content": "Manuel I was an Emperor of Trebizond. Basil Megas Komnenos acceded to the throne of Trebizond."
+            },
+            {
+              "chunk_id": "00d995ff-082e-41bc-8277-86c1a9bfe5b3",
+              "chunk_title": "Royal Figures & Titles",
+              "chunk_summary": "This chunk contains information about historical figures, their royal titles, and familial relationships.",
+              "context_title": "Jiajak Jaqeli",
+              "page_content": "Alexios II was of Trebizond. Jiajak Jaqeli was the Empress consort of Alexios II of Trebizond."
+            },
+            {
+              "chunk_id": "52ece03a-bd0b-4c38-8843-47940c747629",
+              "chunk_title": "Historical Figures & Roles",
+              "chunk_summary": "This chunk contains information about historical figures and their titles or roles.",
+              "context_title": "Irene of Trebizond",
+              "page_content": "John later became Alexios III of Trebizond."
+            },
+            {
+              "chunk_id": "ad6e4d02-723c-4a95-acda-1e4f0c16ddea",
+              "chunk_title": "Trebizond Rulership & Lineage",
+              "chunk_summary": "This chunk contains information about the historical rulership and family relationships of Alexander Komnenos within the Empire of Trebizond.",
+              "context_title": "Alexander of Trebizond",
+              "page_content": "Alexander Komnenos was later a co-emperor with his brother John IV. Alexander Komnenos was first a co-emperor with his father Alexios IV of Trebizond. Alexios IV of Trebizond was the father of Alexander Komnenos. John IV was the brother of Alexander Komnenos. Alexander Komnenos was a co-emperor of the Empire of Trebizond."
+            },
+            {
+              "chunk_id": "e394659b-bdcf-4125-ae0d-f934b4e12028",
+              "chunk_title": "Historical Figure Names",
+              "chunk_summary": "This chunk contains information about the alternative names and titles of historical figures.",
+              "context_title": "George, Emperor of Trebizond",
+              "page_content": "George Megas Komnenos was also known as \"Geōrgios Megas Komnēnos\"."
+            },
+            {
+              "chunk_id": "6ce0dff1-c4e9-4b6c-a60c-4fec63d976b5",
+              "chunk_title": "Alternative Names",
+              "chunk_summary": "This chunk contains information about alternative names and naming conventions for historical figures, specifically focusing on variations of the name George Palaiologos.",
+              "context_title": "George Palaiologos",
+              "page_content": "George Palaiologos was also known as George Palaeologus. George Palaiologos was also known as Georgios Palaiologos."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who was the father of George, Emperor of Trebizond?",
+          "answer": "Manuel I",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "Q 的核心询问——George, Emperor of Trebizond 的父亲是谁。已基于 N1_1 的检索结果推理得出答案 Manuel I，推理依据充分（chunk 831e2639 直接陈述父子关系），无需额外搜索。",
+          "solver_judgment": "从已知事实推理得出，未执行搜索",
+          "critic_factual_notes": "无独立来源——由已知事实推理得出。推理依据：N1_1 的 answer（'George Megas Komnenos...elder son of Emperor Manuel I'）及支撑 chunk 831e2639 原文（'George Megas Komnenos was the elder son of Emperor Manuel I'）。推理逻辑自洽，无过度推断。",
+          "critic_normative_advice": "建议 INHERIT——推理依据充分，答案可直接从 N1_1 的检索结果得出。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who was George, Emperor of Trebizond? (identity, reign period, full name)",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "831e2639-fa17-435e-ad44-da6daa1dfa12",
+        "6c14e293-8e84-4034-aaed-a5b0668fb6fc",
+        "8d02041f-1fab-40fd-a216-b2e656b6a08d",
+        "ce9ed621-75bf-4a3a-8c84-38a4364117cd",
+        "295c4eff-68b6-4445-b76f-06025a60a751",
+        "00d995ff-082e-41bc-8277-86c1a9bfe5b3",
+        "52ece03a-bd0b-4c38-8843-47940c747629",
+        "ad6e4d02-723c-4a95-acda-1e4f0c16ddea",
+        "e394659b-bdcf-4125-ae0d-f934b4e12028",
+        "6ce0dff1-c4e9-4b6c-a60c-4fec63d976b5"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who was George, Emperor of Trebizond?（理由：Q 询问特定人物的父亲，Trebizond 帝国历史上可能有多个名为 George 的皇帝，需先确认具体身份——统治时期、全名等），F2: Who was the father of George, Emperor of Trebizond?（理由：Q 的核心询问——该皇帝的父亲是谁）。关系: F1 是 F2 的前置条件（dependency——F2 的搜索需要 F1 提供的身份上下文来精确定位目标人物），F1 和 F2 都是 Q 的分解产物（decomposition）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question=\"Who was George, Emperor of Trebizond?\"，rationale=\"确认 George 的具体身份以消除歧义\"），$2（question=\"Who was the father of George, Emperor of Trebizond?\"，rationale=\"Q 的核心询问\"）。新增边: N0→$1（decomposition），N0→$2（decomposition），$1→$2（dependency——F2 的搜索需要 F1 提供的身份上下文）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——路径 N0→N1_1→N1_2 中，N1_1 answer 提供 George 的身份上下文，N1_2 基于此推理出父亲为 Manuel I，依赖链语义有效；路径 N0→N1_2 分解有效；条件③全部节点 healthy（N1_1 单来源但直接具体，N1_2 推理自洽，N0 推理链完整）；条件④首轮不适用。推理链完整，所有节"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who was George, Emperor of Trebizond?（理由：Q 询问特定人物的父亲，需先确认 George 的具体身份——全名 George Megas Komnenos、在位时期 1266-1280 年），F2: Who was the father of George, Emperor of Trebizond?（理由：Q 的核心询问）。关系: F1 是 F2 的前置条件（dependency——F2 的推理依赖 F1 检索结果中关于父子关系的记载），F1 和 F2 都是 Q 的分解产物（decomposition）。当前 DAG 已完全覆盖 Q 的语义需求，所有节点已 SOLVED + healthy，推理链完整，答案可合成。",
+      "hypothesis_delta": "本轮无结构调整——全部 INHERIT 节点并 LINK 保留所有边。原因：上一轮假设（F1 身份确认 + F2 父亲查找，F1→F2 dependency）被完全验证。N1_1 的检索结果（chunk 831e2639）直接包含父子关系信息（'George Megas Komnenos was the elder son of Emperor Manuel I'），N1_2 据此推理得出答案 Manuel I。Critic 确认推理链完整、逻辑自洽、无冗余或缺口。DAG 已收敛，无需进一步搜索或结构调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未完全满足——§5 明确指出'这是首次出现拓扑不变（即上一轮有变化），本轮通过不意味着条件④已满足——还需下一轮确认'。条件①②③均已满足：所有非根节点 SOLVED，推理链语义匹配（N1_1 answer 包含 'elder son of Emperor Manuel I' 直接消解 N1_2 question），全部节点 healthy。待下一轮拓扑再次不变后，四条件全满足即可终止。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "question_index": 240,
+  "question_id": "5ab207f65542993be8fa98b8",
+  "question": "Edmund Robert Harris is the principal benefactor of a museum located where ?",
+  "answer": "Preston",
+  "prediction": "Preston",
+  "error": null,
+  "latency_ms": 207841.96729999894,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T12:04:51.630503+00:00",
+  "chunks": [
+    {
+      "chunk_id": "854dbe82-e295-42a3-b105-c8e848a9f23d",
+      "chunk_title": "Harris Benefactor Roles",
+      "chunk_summary": "This chunk contains information about Edmund Robert Harris as the principal benefactor of various institutions, including educational, cultural, and charitable organizations like the Harris Museum, Art School, Technical School, and Orphanage.",
+      "context_title": "Edmund Robert Harris",
+      "page_content": "Edmund Robert Harris was the principal benefactor of the Harris Technical School. Edmund Robert Harris was the principal benefactor of the Harris Orphanage. Edmund Robert Harris was the principal benefactor of the Harris Museum. Edmund Robert Harris was the principal benefactor of the Harris Institute or Art School."
+    },
+    {
+      "chunk_id": "6f6463d8-57a5-4d0d-9650-f7c36025836b",
+      "chunk_title": "Professional Background & Origin",
+      "chunk_summary": "This chunk contains information about the professional background, nationality, and place of origin of individuals.",
+      "context_title": "Edmund Robert Harris",
+      "page_content": "Edmund Robert Harris was an English lawyer. Edmund Robert Harris was from Preston, Lancashire, UK."
+    },
+    {
+      "chunk_id": "6cbd3496-dd52-43fb-b960-522ce3acc22e",
+      "chunk_title": "Museum Building Classification",
+      "chunk_summary": "This chunk contains information about the classification and status of museum buildings.",
+      "context_title": "Harris Museum",
+      "page_content": "The Harris Museum, Art Gallery & Preston Free Public Library is a Grade I listed museum building."
+    },
+    {
+      "chunk_id": "1a8c1e63-c1c3-4809-b095-b78bdcf74082",
+      "chunk_title": "Locations & Facilities",
+      "chunk_summary": "This chunk contains information about the locations of cultural institutions and public facilities.",
+      "context_title": "Harris Museum",
+      "page_content": "The Harris Museum, Art Gallery & Preston Free Public Library is in Preston."
+    },
+    {
+      "chunk_id": "3ccd3815-bc8f-41de-b6f6-f3e2460f0ee7",
+      "chunk_title": "Keir Collection History",
+      "chunk_summary": "This chunk contains information about the history, significance, and institutional management of notable art collections, specifically focusing on the Keir Collection's formation by Edmund de Unger and its subsequent hosting arrangements with various museums.",
+      "context_title": "Edmund de Unger",
+      "page_content": "The Keir Collection is hosted by the Dallas Museum of Art as of May 2014. The Keir Collection is one of the greatest post-war collections of Islamic art. The loan of the Keir Collection to the Dallas Museum of Art is for 15 years. Edmund Robert Anthony de Unger built up the Keir Collection in London. Edmund Robert Anthony de Unger bequeathed the Keir Collection to the Pergamon Museum of Islamic Art in Berlin in 2008. The loan of the Keir Collection to the Dallas Museum of Art is renewable. The arrangement for the Pergamon Museum of Islamic Art to curate the Keir Collection came to an end in July 2012."
+    },
+    {
+      "chunk_id": "509eee89-b725-412d-b5f1-60d05c317dd0",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the death dates of individuals.",
+      "context_title": "Edmund Robert Harris",
+      "page_content": "Edmund Robert Harris died on 27 May 1877."
+    },
+    {
+      "chunk_id": "ac17dbdf-37a4-4484-9562-96974adc0a31",
+      "chunk_title": "Occupations & Interests",
+      "chunk_summary": "This chunk contains information about the professional occupations and personal interests of individuals.",
+      "context_title": "Edmund de Unger",
+      "page_content": "Edmund Robert Anthony de Unger was a property developer. Edmund Robert Anthony de Unger was an art collector."
+    },
+    {
+      "chunk_id": "4a5c717c-30b6-4111-9871-68ca9cba9c26",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Edmund Robert Harris",
+      "page_content": "Edmund Robert Harris was born circa 1804."
+    },
+    {
+      "chunk_id": "0c6afd53-5936-444c-a52f-6a9ebd08be44",
+      "chunk_title": "Funding Sources",
+      "chunk_summary": "This chunk contains information about the funding sources for public memorials and art installations, specifically detailing government programs and departments involved.",
+      "context_title": "Frederick Douglass Memorial",
+      "page_content": "The Frederick Douglass Memorial was funded by the Percent for Art program. The Frederick Douglass Memorial was funded by the Department of Cultural Affairs."
+    },
+    {
+      "chunk_id": "26217c99-eada-43af-bef1-e446a9810164",
+      "chunk_title": "School Benefactors",
+      "chunk_summary": "This chunk contains information about the principal benefactors of the school.",
+      "context_title": "Rotman School of Management",
+      "page_content": "Joseph L. Rotman was the principal benefactor of the school."
+    },
+    {
+      "chunk_id": "2837b60b-2cdc-4852-8ff5-5d6d58624cda",
+      "chunk_title": "Museums & Dedications",
+      "chunk_summary": "This chunk contains information about specific museums, their locations, and the individuals or subjects they are dedicated to.",
+      "context_title": "Museum of Ivo Andrić",
+      "page_content": "The Museum of Ivo Andrić is dedicated to Ivo Andrić. The Museum of Ivo Andrić is a museum in Belgrade, Serbia."
+    },
+    {
+      "chunk_id": "52860174-9adc-49f9-81ce-807704eba0fc",
+      "chunk_title": "Location & Address",
+      "chunk_summary": "This chunk contains information about the location and address of a specific building or facility.",
+      "context_title": "St Dionis Mission Hall",
+      "page_content": "St Dionis Mission Hall is located at 18a Parsons Green, London, SW6 4UH."
+    },
+    {
+      "chunk_id": "5bb691a6-624f-4c7c-b080-a91210f6999f",
+      "chunk_title": "Art Gallery Locations",
+      "chunk_summary": "This chunk contains information about the locations of art gallery collections.",
+      "context_title": "Cornelis Sebille Roos",
+      "page_content": "The Nationale Konst-Gallery collection was located in Huis ten Bosch."
+    },
+    {
+      "chunk_id": "4279b7e3-edc4-4c60-a4e7-a3329bdd3187",
+      "chunk_title": "Museum Locations",
+      "chunk_summary": "This chunk contains information about the locations of museums and cultural institutions.",
+      "context_title": "Rei Kawakubo",
+      "page_content": "The Metropolitan Museum of Art is located in New York City."
+    },
+    {
+      "chunk_id": "cc5d7fe6-8abb-438a-95d2-6fae2fe2bc55",
+      "chunk_title": "Museum Locations",
+      "chunk_summary": "This chunk contains information about the locations of museums.",
+      "context_title": "Hans Aschenborn",
+      "page_content": "The Pretoria Art Museum is located in South Africa."
+    },
+    {
+      "chunk_id": "6163e8a8-ce1e-4c60-95d2-7ead496549c6",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of specific places.",
+      "context_title": "Wesley Englehorn",
+      "page_content": "Stapeley Hall is located in the Germantown section of Philadelphia, Pennsylvania."
+    },
+    {
+      "chunk_id": "a9e121bc-997c-412c-bfd3-3a8ea6a37758",
+      "chunk_title": "Building Locations",
+      "chunk_summary": "This chunk contains information about the specific street addresses, corner locations, and neighborhood areas of the Transportation Building.",
+      "context_title": "Transportation Building",
+      "page_content": "The Transportation Building is located in New York City. The Transportation Building is located at 225 Broadway. The Transportation Building is located in the Civic Center neighborhood. The Transportation Building sits across Barclay Street from the Woolworth Building. The Transportation Building carries the address 2-4 Barclay Street. The Transportation Building is located on the corner of Barclay Street. The Transportation Building is located in Lower Manhattan."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.35294117647058826,
+  "retrieval_count": 2,
+  "total_chunks": 17,
+  "total_distinct_titles": 12,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "Edmund Robert Harris is the principal benefactor of a museum located where ?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Edmund Robert Harris is the principal benefactor of a museum located where ?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Edmund Robert Harris 作为主要捐赠人的博物馆位于何处",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据来自子节点推理链的聚合。子节点 N1_1 提供事实 'Harris Museum'（单来源直接陈述），N1_2 提供事实 'Preston'（单来源直接陈述）。推理链 N1_1→N1_2 语义完整，依赖消解有效。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，依赖边 N1_1→N1_2 语义有效，答案聚合后可直接回答 Q。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which museum is Edmund Robert Harris the principal benefactor of?",
+          "answer": "Harris Museum",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which museum is Edmund Robert Harris the principal benefactor of?",
+          "planner_rationale": "Q 的核心是定位一个博物馆，但需要先通过 'Edmund Robert Harris 是其主要捐赠人' 这一条件识别出具体是哪座博物馆。这是回答 Q 的第一步——确定目标实体。",
+          "solver_judgment": "question 要求确认 Edmund Robert Harris 是哪家博物馆的主要捐赠人（principal benefactor）。search_query 直接使用了原问题。chunks 返回了相关信息，其中 chunk 854dbe82-e295-42a3-b105-c8e848a9f23d 明确记载 'Edmund Robert Harris was the principal benefactor of the Harris Museum.'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Edmund Robert Harris）。支撑 chunk 854dbe82-e295-42a3-b105-c8e848a9f23d 全文逐字包含 'Edmund Robert Harris was the principal benefactor of the Harris Museum.'，直接且具体地回答了问题。交叉验证：不充分（仅 1 个来源），但来源直接陈述答案，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "854dbe82-e295-42a3-b105-c8e848a9f23d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "854dbe82-e295-42a3-b105-c8e848a9f23d",
+              "chunk_title": "Harris Benefactor Roles",
+              "chunk_summary": "This chunk contains information about Edmund Robert Harris as the principal benefactor of various institutions, including educational, cultural, and charitable organizations like the Harris Museum, Art School, Technical School, and Orphanage.",
+              "context_title": "Edmund Robert Harris",
+              "page_content": "Edmund Robert Harris was the principal benefactor of the Harris Technical School. Edmund Robert Harris was the principal benefactor of the Harris Orphanage. Edmund Robert Harris was the principal benefactor of the Harris Museum. Edmund Robert Harris was the principal benefactor of the Harris Institute or Art School."
+            },
+            {
+              "chunk_id": "6f6463d8-57a5-4d0d-9650-f7c36025836b",
+              "chunk_title": "Professional Background & Origin",
+              "chunk_summary": "This chunk contains information about the professional background, nationality, and place of origin of individuals.",
+              "context_title": "Edmund Robert Harris",
+              "page_content": "Edmund Robert Harris was an English lawyer. Edmund Robert Harris was from Preston, Lancashire, UK."
+            },
+            {
+              "chunk_id": "6cbd3496-dd52-43fb-b960-522ce3acc22e",
+              "chunk_title": "Museum Building Classification",
+              "chunk_summary": "This chunk contains information about the classification and status of museum buildings.",
+              "context_title": "Harris Museum",
+              "page_content": "The Harris Museum, Art Gallery & Preston Free Public Library is a Grade I listed museum building."
+            },
+            {
+              "chunk_id": "1a8c1e63-c1c3-4809-b095-b78bdcf74082",
+              "chunk_title": "Locations & Facilities",
+              "chunk_summary": "This chunk contains information about the locations of cultural institutions and public facilities.",
+              "context_title": "Harris Museum",
+              "page_content": "The Harris Museum, Art Gallery & Preston Free Public Library is in Preston."
+            },
+            {
+              "chunk_id": "3ccd3815-bc8f-41de-b6f6-f3e2460f0ee7",
+              "chunk_title": "Keir Collection History",
+              "chunk_summary": "This chunk contains information about the history, significance, and institutional management of notable art collections, specifically focusing on the Keir Collection's formation by Edmund de Unger and its subsequent hosting arrangements with various museums.",
+              "context_title": "Edmund de Unger",
+              "page_content": "The Keir Collection is hosted by the Dallas Museum of Art as of May 2014. The Keir Collection is one of the greatest post-war collections of Islamic art. The loan of the Keir Collection to the Dallas Museum of Art is for 15 years. Edmund Robert Anthony de Unger built up the Keir Collection in London. Edmund Robert Anthony de Unger bequeathed the Keir Collection to the Pergamon Museum of Islamic Art in Berlin in 2008. The loan of the Keir Collection to the Dallas Museum of Art is renewable. The arrangement for the Pergamon Museum of Islamic Art to curate the Keir Collection came to an end in July 2012."
+            },
+            {
+              "chunk_id": "509eee89-b725-412d-b5f1-60d05c317dd0",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the death dates of individuals.",
+              "context_title": "Edmund Robert Harris",
+              "page_content": "Edmund Robert Harris died on 27 May 1877."
+            },
+            {
+              "chunk_id": "ac17dbdf-37a4-4484-9562-96974adc0a31",
+              "chunk_title": "Occupations & Interests",
+              "chunk_summary": "This chunk contains information about the professional occupations and personal interests of individuals.",
+              "context_title": "Edmund de Unger",
+              "page_content": "Edmund Robert Anthony de Unger was a property developer. Edmund Robert Anthony de Unger was an art collector."
+            },
+            {
+              "chunk_id": "4a5c717c-30b6-4111-9871-68ca9cba9c26",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Edmund Robert Harris",
+              "page_content": "Edmund Robert Harris was born circa 1804."
+            },
+            {
+              "chunk_id": "0c6afd53-5936-444c-a52f-6a9ebd08be44",
+              "chunk_title": "Funding Sources",
+              "chunk_summary": "This chunk contains information about the funding sources for public memorials and art installations, specifically detailing government programs and departments involved.",
+              "context_title": "Frederick Douglass Memorial",
+              "page_content": "The Frederick Douglass Memorial was funded by the Percent for Art program. The Frederick Douglass Memorial was funded by the Department of Cultural Affairs."
+            },
+            {
+              "chunk_id": "26217c99-eada-43af-bef1-e446a9810164",
+              "chunk_title": "School Benefactors",
+              "chunk_summary": "This chunk contains information about the principal benefactors of the school.",
+              "context_title": "Rotman School of Management",
+              "page_content": "Joseph L. Rotman was the principal benefactor of the school."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where is that museum located?",
+          "answer": "Preston",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Harris Museum location",
+          "planner_rationale": "Q 的最终询问是博物馆的地理位置。在识别出具体博物馆后，需要搜索其所在地。question 中的 'that museum' 指代上一个节点的 answer，构成硬依赖。",
+          "solver_judgment": "question 要求确认 'that museum' 的地理位置。search_query 搜索了 'Harris Museum location'，准确锁定了目标实体。chunks 返回了 Harris Museum 的相关信息，其中 chunk 1a8c1e63-c1c3-4809-b095-b78bdcf74082 明确记载 'The Harris Museum, Art Gallery & Preston Free Public Library is in Preston.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Harris Museum）。支撑 chunk 1a8c1e63-c1c3-4809-b095-b78bdcf74082 全文逐字包含 'The Harris Museum, Art Gallery & Preston Free Public Library is in Preston.'，直接且具体地回答了问题。交叉验证：不充分（仅 1 个来源），但来源直接陈述答案，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1a8c1e63-c1c3-4809-b095-b78bdcf74082"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "1a8c1e63-c1c3-4809-b095-b78bdcf74082",
+              "chunk_title": "Locations & Facilities",
+              "chunk_summary": "This chunk contains information about the locations of cultural institutions and public facilities.",
+              "context_title": "Harris Museum",
+              "page_content": "The Harris Museum, Art Gallery & Preston Free Public Library is in Preston."
+            },
+            {
+              "chunk_id": "6cbd3496-dd52-43fb-b960-522ce3acc22e",
+              "chunk_title": "Museum Building Classification",
+              "chunk_summary": "This chunk contains information about the classification and status of museum buildings.",
+              "context_title": "Harris Museum",
+              "page_content": "The Harris Museum, Art Gallery & Preston Free Public Library is a Grade I listed museum building."
+            },
+            {
+              "chunk_id": "854dbe82-e295-42a3-b105-c8e848a9f23d",
+              "chunk_title": "Harris Benefactor Roles",
+              "chunk_summary": "This chunk contains information about Edmund Robert Harris as the principal benefactor of various institutions, including educational, cultural, and charitable organizations like the Harris Museum, Art School, Technical School, and Orphanage.",
+              "context_title": "Edmund Robert Harris",
+              "page_content": "Edmund Robert Harris was the principal benefactor of the Harris Technical School. Edmund Robert Harris was the principal benefactor of the Harris Orphanage. Edmund Robert Harris was the principal benefactor of the Harris Museum. Edmund Robert Harris was the principal benefactor of the Harris Institute or Art School."
+            },
+            {
+              "chunk_id": "2837b60b-2cdc-4852-8ff5-5d6d58624cda",
+              "chunk_title": "Museums & Dedications",
+              "chunk_summary": "This chunk contains information about specific museums, their locations, and the individuals or subjects they are dedicated to.",
+              "context_title": "Museum of Ivo Andrić",
+              "page_content": "The Museum of Ivo Andrić is dedicated to Ivo Andrić. The Museum of Ivo Andrić is a museum in Belgrade, Serbia."
+            },
+            {
+              "chunk_id": "52860174-9adc-49f9-81ce-807704eba0fc",
+              "chunk_title": "Location & Address",
+              "chunk_summary": "This chunk contains information about the location and address of a specific building or facility.",
+              "context_title": "St Dionis Mission Hall",
+              "page_content": "St Dionis Mission Hall is located at 18a Parsons Green, London, SW6 4UH."
+            },
+            {
+              "chunk_id": "5bb691a6-624f-4c7c-b080-a91210f6999f",
+              "chunk_title": "Art Gallery Locations",
+              "chunk_summary": "This chunk contains information about the locations of art gallery collections.",
+              "context_title": "Cornelis Sebille Roos",
+              "page_content": "The Nationale Konst-Gallery collection was located in Huis ten Bosch."
+            },
+            {
+              "chunk_id": "4279b7e3-edc4-4c60-a4e7-a3329bdd3187",
+              "chunk_title": "Museum Locations",
+              "chunk_summary": "This chunk contains information about the locations of museums and cultural institutions.",
+              "context_title": "Rei Kawakubo",
+              "page_content": "The Metropolitan Museum of Art is located in New York City."
+            },
+            {
+              "chunk_id": "cc5d7fe6-8abb-438a-95d2-6fae2fe2bc55",
+              "chunk_title": "Museum Locations",
+              "chunk_summary": "This chunk contains information about the locations of museums.",
+              "context_title": "Hans Aschenborn",
+              "page_content": "The Pretoria Art Museum is located in South Africa."
+            },
+            {
+              "chunk_id": "6163e8a8-ce1e-4c60-95d2-7ead496549c6",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of specific places.",
+              "context_title": "Wesley Englehorn",
+              "page_content": "Stapeley Hall is located in the Germantown section of Philadelphia, Pennsylvania."
+            },
+            {
+              "chunk_id": "a9e121bc-997c-412c-bfd3-3a8ea6a37758",
+              "chunk_title": "Building Locations",
+              "chunk_summary": "This chunk contains information about the specific street addresses, corner locations, and neighborhood areas of the Transportation Building.",
+              "context_title": "Transportation Building",
+              "page_content": "The Transportation Building is located in New York City. The Transportation Building is located at 225 Broadway. The Transportation Building is located in the Civic Center neighborhood. The Transportation Building sits across Barclay Street from the Woolworth Building. The Transportation Building carries the address 2-4 Barclay Street. The Transportation Building is located on the corner of Barclay Street. The Transportation Building is located in Lower Manhattan."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Edmund Robert Harris is the principal benefactor of a museum located where ?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Edmund Robert Harris is the principal benefactor of a museum located where ?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Edmund Robert Harris 作为主要捐赠人的博物馆位于何处。子节点推理链完整，答案可聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据来自子节点推理链的聚合。子节点 N1_1 提供事实 'Harris Museum'（单来源直接陈述，文档 Edmund Robert Harris），N1_2 提供事实 'Preston'（单来源直接陈述，文档 Harris Museum）。推理链 N1_1→N1_2 语义完整，依赖消解有效。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，依赖边 N1_1→N1_2 语义有效，答案聚合后可直接回答 Q。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which museum is Edmund Robert Harris the principal benefactor of?",
+          "answer": "Harris Museum",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which museum is Edmund Robert Harris the principal benefactor of?",
+          "planner_rationale": "Q 的第一步——通过 'Edmund Robert Harris 是主要捐赠人' 这一条件识别目标博物馆。已 solved + healthy，证据直接具体，无需重搜。",
+          "solver_judgment": "question 要求确认 Edmund Robert Harris 是哪家博物馆的主要捐赠人（principal benefactor）。search_query 直接使用了原问题。chunks 返回了相关信息，其中 chunk 854dbe82-e295-42a3-b105-c8e848a9f23d 明确记载 'Edmund Robert Harris was the principal benefactor of the Harris Museum.'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Edmund Robert Harris）。支撑 chunk 854dbe82-e295-42a3-b105-c8e848a9f23d 全文逐字包含 'Edmund Robert Harris was the principal benefactor of the Harris Museum.'，直接且具体地回答了问题。交叉验证：不充分（仅 1 个来源），但来源直接陈述答案，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "854dbe82-e295-42a3-b105-c8e848a9f23d"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "854dbe82-e295-42a3-b105-c8e848a9f23d",
+              "chunk_title": "Harris Benefactor Roles",
+              "chunk_summary": "This chunk contains information about Edmund Robert Harris as the principal benefactor of various institutions, including educational, cultural, and charitable organizations like the Harris Museum, Art School, Technical School, and Orphanage.",
+              "context_title": "Edmund Robert Harris",
+              "page_content": "Edmund Robert Harris was the principal benefactor of the Harris Technical School. Edmund Robert Harris was the principal benefactor of the Harris Orphanage. Edmund Robert Harris was the principal benefactor of the Harris Museum. Edmund Robert Harris was the principal benefactor of the Harris Institute or Art School."
+            },
+            {
+              "chunk_id": "6f6463d8-57a5-4d0d-9650-f7c36025836b",
+              "chunk_title": "Professional Background & Origin",
+              "chunk_summary": "This chunk contains information about the professional background, nationality, and place of origin of individuals.",
+              "context_title": "Edmund Robert Harris",
+              "page_content": "Edmund Robert Harris was an English lawyer. Edmund Robert Harris was from Preston, Lancashire, UK."
+            },
+            {
+              "chunk_id": "6cbd3496-dd52-43fb-b960-522ce3acc22e",
+              "chunk_title": "Museum Building Classification",
+              "chunk_summary": "This chunk contains information about the classification and status of museum buildings.",
+              "context_title": "Harris Museum",
+              "page_content": "The Harris Museum, Art Gallery & Preston Free Public Library is a Grade I listed museum building."
+            },
+            {
+              "chunk_id": "1a8c1e63-c1c3-4809-b095-b78bdcf74082",
+              "chunk_title": "Locations & Facilities",
+              "chunk_summary": "This chunk contains information about the locations of cultural institutions and public facilities.",
+              "context_title": "Harris Museum",
+              "page_content": "The Harris Museum, Art Gallery & Preston Free Public Library is in Preston."
+            },
+            {
+              "chunk_id": "3ccd3815-bc8f-41de-b6f6-f3e2460f0ee7",
+              "chunk_title": "Keir Collection History",
+              "chunk_summary": "This chunk contains information about the history, significance, and institutional management of notable art collections, specifically focusing on the Keir Collection's formation by Edmund de Unger and its subsequent hosting arrangements with various museums.",
+              "context_title": "Edmund de Unger",
+              "page_content": "The Keir Collection is hosted by the Dallas Museum of Art as of May 2014. The Keir Collection is one of the greatest post-war collections of Islamic art. The loan of the Keir Collection to the Dallas Museum of Art is for 15 years. Edmund Robert Anthony de Unger built up the Keir Collection in London. Edmund Robert Anthony de Unger bequeathed the Keir Collection to the Pergamon Museum of Islamic Art in Berlin in 2008. The loan of the Keir Collection to the Dallas Museum of Art is renewable. The arrangement for the Pergamon Museum of Islamic Art to curate the Keir Collection came to an end in July 2012."
+            },
+            {
+              "chunk_id": "509eee89-b725-412d-b5f1-60d05c317dd0",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the death dates of individuals.",
+              "context_title": "Edmund Robert Harris",
+              "page_content": "Edmund Robert Harris died on 27 May 1877."
+            },
+            {
+              "chunk_id": "ac17dbdf-37a4-4484-9562-96974adc0a31",
+              "chunk_title": "Occupations & Interests",
+              "chunk_summary": "This chunk contains information about the professional occupations and personal interests of individuals.",
+              "context_title": "Edmund de Unger",
+              "page_content": "Edmund Robert Anthony de Unger was a property developer. Edmund Robert Anthony de Unger was an art collector."
+            },
+            {
+              "chunk_id": "4a5c717c-30b6-4111-9871-68ca9cba9c26",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Edmund Robert Harris",
+              "page_content": "Edmund Robert Harris was born circa 1804."
+            },
+            {
+              "chunk_id": "0c6afd53-5936-444c-a52f-6a9ebd08be44",
+              "chunk_title": "Funding Sources",
+              "chunk_summary": "This chunk contains information about the funding sources for public memorials and art installations, specifically detailing government programs and departments involved.",
+              "context_title": "Frederick Douglass Memorial",
+              "page_content": "The Frederick Douglass Memorial was funded by the Percent for Art program. The Frederick Douglass Memorial was funded by the Department of Cultural Affairs."
+            },
+            {
+              "chunk_id": "26217c99-eada-43af-bef1-e446a9810164",
+              "chunk_title": "School Benefactors",
+              "chunk_summary": "This chunk contains information about the principal benefactors of the school.",
+              "context_title": "Rotman School of Management",
+              "page_content": "Joseph L. Rotman was the principal benefactor of the school."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where is that museum located?",
+          "answer": "Preston",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Harris Museum location",
+          "planner_rationale": "Q 的最终目标——定位博物馆的地理位置。已 solved + healthy，证据直接具体，dependency 指代消解有效，无需重搜。",
+          "solver_judgment": "question 要求确认 'that museum' 的地理位置。search_query 搜索了 'Harris Museum location'，准确锁定了目标实体。chunks 返回了 Harris Museum 的相关信息，其中 chunk 1a8c1e63-c1c3-4809-b095-b78bdcf74082 明确记载 'The Harris Museum, Art Gallery & Preston Free Public Library is in Preston.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Harris Museum）。支撑 chunk 1a8c1e63-c1c3-4809-b095-b78bdcf74082 全文逐字包含 'The Harris Museum, Art Gallery & Preston Free Public Library is in Preston.'，直接且具体地回答了问题。交叉验证：不充分（仅 1 个来源），但来源直接陈述答案，可接受。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "1a8c1e63-c1c3-4809-b095-b78bdcf74082"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "1a8c1e63-c1c3-4809-b095-b78bdcf74082",
+              "chunk_title": "Locations & Facilities",
+              "chunk_summary": "This chunk contains information about the locations of cultural institutions and public facilities.",
+              "context_title": "Harris Museum",
+              "page_content": "The Harris Museum, Art Gallery & Preston Free Public Library is in Preston."
+            },
+            {
+              "chunk_id": "6cbd3496-dd52-43fb-b960-522ce3acc22e",
+              "chunk_title": "Museum Building Classification",
+              "chunk_summary": "This chunk contains information about the classification and status of museum buildings.",
+              "context_title": "Harris Museum",
+              "page_content": "The Harris Museum, Art Gallery & Preston Free Public Library is a Grade I listed museum building."
+            },
+            {
+              "chunk_id": "854dbe82-e295-42a3-b105-c8e848a9f23d",
+              "chunk_title": "Harris Benefactor Roles",
+              "chunk_summary": "This chunk contains information about Edmund Robert Harris as the principal benefactor of various institutions, including educational, cultural, and charitable organizations like the Harris Museum, Art School, Technical School, and Orphanage.",
+              "context_title": "Edmund Robert Harris",
+              "page_content": "Edmund Robert Harris was the principal benefactor of the Harris Technical School. Edmund Robert Harris was the principal benefactor of the Harris Orphanage. Edmund Robert Harris was the principal benefactor of the Harris Museum. Edmund Robert Harris was the principal benefactor of the Harris Institute or Art School."
+            },
+            {
+              "chunk_id": "2837b60b-2cdc-4852-8ff5-5d6d58624cda",
+              "chunk_title": "Museums & Dedications",
+              "chunk_summary": "This chunk contains information about specific museums, their locations, and the individuals or subjects they are dedicated to.",
+              "context_title": "Museum of Ivo Andrić",
+              "page_content": "The Museum of Ivo Andrić is dedicated to Ivo Andrić. The Museum of Ivo Andrić is a museum in Belgrade, Serbia."
+            },
+            {
+              "chunk_id": "52860174-9adc-49f9-81ce-807704eba0fc",
+              "chunk_title": "Location & Address",
+              "chunk_summary": "This chunk contains information about the location and address of a specific building or facility.",
+              "context_title": "St Dionis Mission Hall",
+              "page_content": "St Dionis Mission Hall is located at 18a Parsons Green, London, SW6 4UH."
+            },
+            {
+              "chunk_id": "5bb691a6-624f-4c7c-b080-a91210f6999f",
+              "chunk_title": "Art Gallery Locations",
+              "chunk_summary": "This chunk contains information about the locations of art gallery collections.",
+              "context_title": "Cornelis Sebille Roos",
+              "page_content": "The Nationale Konst-Gallery collection was located in Huis ten Bosch."
+            },
+            {
+              "chunk_id": "4279b7e3-edc4-4c60-a4e7-a3329bdd3187",
+              "chunk_title": "Museum Locations",
+              "chunk_summary": "This chunk contains information about the locations of museums and cultural institutions.",
+              "context_title": "Rei Kawakubo",
+              "page_content": "The Metropolitan Museum of Art is located in New York City."
+            },
+            {
+              "chunk_id": "cc5d7fe6-8abb-438a-95d2-6fae2fe2bc55",
+              "chunk_title": "Museum Locations",
+              "chunk_summary": "This chunk contains information about the locations of museums.",
+              "context_title": "Hans Aschenborn",
+              "page_content": "The Pretoria Art Museum is located in South Africa."
+            },
+            {
+              "chunk_id": "6163e8a8-ce1e-4c60-95d2-7ead496549c6",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of specific places.",
+              "context_title": "Wesley Englehorn",
+              "page_content": "Stapeley Hall is located in the Germantown section of Philadelphia, Pennsylvania."
+            },
+            {
+              "chunk_id": "a9e121bc-997c-412c-bfd3-3a8ea6a37758",
+              "chunk_title": "Building Locations",
+              "chunk_summary": "This chunk contains information about the specific street addresses, corner locations, and neighborhood areas of the Transportation Building.",
+              "context_title": "Transportation Building",
+              "page_content": "The Transportation Building is located in New York City. The Transportation Building is located at 225 Broadway. The Transportation Building is located in the Civic Center neighborhood. The Transportation Building sits across Barclay Street from the Woolworth Building. The Transportation Building carries the address 2-4 Barclay Street. The Transportation Building is located on the corner of Barclay Street. The Transportation Building is located in Lower Manhattan."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Which museum is Edmund Robert Harris the principal benefactor of?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "854dbe82-e295-42a3-b105-c8e848a9f23d",
+        "6f6463d8-57a5-4d0d-9650-f7c36025836b",
+        "6cbd3496-dd52-43fb-b960-522ce3acc22e",
+        "1a8c1e63-c1c3-4809-b095-b78bdcf74082",
+        "3ccd3815-bc8f-41de-b6f6-f3e2460f0ee7",
+        "509eee89-b725-412d-b5f1-60d05c317dd0",
+        "ac17dbdf-37a4-4484-9562-96974adc0a31",
+        "4a5c717c-30b6-4111-9871-68ca9cba9c26",
+        "0c6afd53-5936-444c-a52f-6a9ebd08be44",
+        "26217c99-eada-43af-bef1-e446a9810164"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Harris Museum location",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "1a8c1e63-c1c3-4809-b095-b78bdcf74082",
+        "6cbd3496-dd52-43fb-b960-522ce3acc22e",
+        "854dbe82-e295-42a3-b105-c8e848a9f23d",
+        "2837b60b-2cdc-4852-8ff5-5d6d58624cda",
+        "52860174-9adc-49f9-81ce-807704eba0fc",
+        "5bb691a6-624f-4c7c-b080-a91210f6999f",
+        "4279b7e3-edc4-4c60-a4e7-a3329bdd3187",
+        "cc5d7fe6-8abb-438a-95d2-6fae2fe2bc55",
+        "6163e8a8-ce1e-4c60-95d2-7ead496549c6",
+        "a9e121bc-997c-412c-bfd3-3a8ea6a37758"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which museum is Edmund Robert Harris the principal benefactor of?（理由：Q 通过 'Edmund Robert Harris 是主要捐赠人' 这一条件来限定目标博物馆，必须先识别出具体是哪座博物馆），F2: Where is that museum located?（理由：Q 的最终询问是博物馆的地理位置）。关系: F1 是 Q 的分解产物（decomposition——识别目标实体是回答 Q 的第一步），F2 是 Q 的分解产物（decomposition——定位是 Q 的最终目标），F1 是 F2 的前置条件（dependency——F2 的 question 中 'that museum' 必须用 F1 的 answer 消解后才能搜索）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个两跳问题（two-hop question），第一跳通过人物-机构关系识别目标博物馆，第二跳查询该博物馆的地理位置。创建两个子节点分别对应这两跳，并用 dependency 边表达第二跳对第一跳答案的指代消解需求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点（N1_1, N1_2）均已 SOLVED；② 推理链语义匹配——N1_1 answer='Harris Museum' 有效消解 N1_2 question 中的 'that museum' 指代，分解链答案聚合后可支撑 ROOT 推理；③ 全部节点 healthy——N1_1 和 N1_2 均为单来源直接陈述，N0 推理链完整；④ 首轮无拓扑变化。推理链完整，所有"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which museum is Edmund Robert Harris the principal benefactor of?（理由：Q 通过人物-机构关系限定目标博物馆，必须先识别具体是哪座博物馆），F2: Where is that museum located?（理由：Q 的最终询问是博物馆的地理位置）。关系: F1 是 Q 的分解产物（decomposition——识别目标实体是回答 Q 的第一步），F2 是 Q 的分解产物（decomposition——定位是 Q 的最终目标），F1 是 F2 的前置条件（dependency——F2 的 question 中 'that museum' 必须用 F1 的 answer 消解后才能搜索）。当前 DAG 已完全覆盖此结构，所有节点 solved + healthy，推理链完整。",
+      "hypothesis_delta": "无变更——所有节点 INHERIT，所有边 LINK 保留。原因：上一轮假设（F1 识别博物馆 + F2 定位博物馆，F1→F2 dependency）已被完全验证。N1_1 answer='Harris Museum'（单来源直接陈述），N1_2 answer='Preston'（单来源直接陈述），Critic 确认两者均 healthy，依赖边有效，推理链完整可聚合回答 Q。DAG 结构已收敛至理想状态，无需调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N1_1 answer='Harris Museum' 有效消解 N1_2 question 中的 'that museum' 指代，依赖链完整；条件③全部节点（N0/N1_1/N1_2）均为 healthy；条件④本轮拓扑与上一轮一致。推理链 N0→N1_1→N1_2 完整，答案聚合为 'Harris Museum is "
+      }
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "question_index": 229,
+  "question_id": "1762c76b08f211ebbdaaac1f6bf848b6",
+  "question": "Which film was released earlier, Junda Iman Gunda or Overheard 3?",
+  "answer": "Junda Iman Gunda",
+  "prediction": "Junda Iman Gunda",
+  "error": null,
+  "latency_ms": 250254.43230000383,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T12:18:56.416113+00:00",
+  "chunks": [
+    {
+      "chunk_id": "2850de1f-4498-4bd1-8a8e-8f0a981794ce",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their title, language, genre, and release date.",
+      "context_title": "Junda Iman Gunda",
+      "page_content": "Junda Iman Gunda was released on 7 September 2007. Junda Iman Gunda is a 2007 Assamese language romantic comedy film."
+    },
+    {
+      "chunk_id": "74f61243-028a-47a0-9926-3d8ebe1964a4",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of films.",
+      "context_title": "Sushoma Sarkar",
+      "page_content": "The film Gunda was released in 1978. The film Alangkar was released in 1979."
+    },
+    {
+      "chunk_id": "4a170aee-91af-42f9-8ea0-04ddbee17ae5",
+      "chunk_title": "The Thousand Faces of Dunjia Film Details",
+      "chunk_summary": "This chunk contains information about the 2017 Chinese fantasy-wuxia film \"The Thousand Faces of Dunjia,\" including its director, screenwriter, producer, cast, release date, and its status as a remake.",
+      "context_title": "The Thousand Faces of Dunjia",
+      "page_content": "The film The Thousand Faces of Dunjia stars Da Peng. The Thousand Faces of Dunjia is a 2017 Chinese fantasy-wuxia film. The Thousand Faces of Dunjia was directed by Yuen Woo-ping. The Thousand Faces of Dunjia was produced by Tsui Hark. The film The Thousand Faces of Dunjia stars Aarif Lee. The film The Thousand Faces of Dunjia stars Wu Bai. The Thousand Faces of Dunjia is a remake of the 1982 film \"The Miracle Fighters\". The Thousand Faces of Dunjia was scripted by Tsui Hark. The film The Thousand Faces of Dunjia was released in China on December 15, 2017. The film The Thousand Faces of Dunjia stars Ni Ni. The film The Thousand Faces of Dunjia stars Zhou Dongyu."
+    },
+    {
+      "chunk_id": "d93874e5-8d9f-43d6-b819-284ec38a5634",
+      "chunk_title": "Actors & Lead Roles",
+      "chunk_summary": "This chunk contains information about actors and their lead roles in films.",
+      "context_title": "Junda Iman Gunda",
+      "page_content": "Bikram Rajkhowa starred in the lead role in Junda Iman Gunda. Angoorlata starred in the lead role in Junda Iman Gunda."
+    },
+    {
+      "chunk_id": "06e8df7d-a596-41f8-ad43-438e31fcaa0c",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "Junda Iman Gunda",
+      "page_content": "Junda Iman Gunda was directed by Chandra Mudoi."
+    },
+    {
+      "chunk_id": "99281bfb-8ab9-4e06-8858-03f74e968665",
+      "chunk_title": "Song Reception",
+      "chunk_summary": "This chunk contains information about the reception and appreciation of songs from specific musical works, including details about particular artists and tracks.",
+      "context_title": "Junda Iman Gunda",
+      "page_content": "The songs from Junda Iman Gunda received good appreciation. One of the appreciated songs from Junda Iman Gunda was by Debojit Saha."
+    },
+    {
+      "chunk_id": "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+      "chunk_title": "Movie Release Dates",
+      "chunk_summary": "This chunk contains information about movie release dates and times.",
+      "context_title": "Abhishek Saxena",
+      "page_content": "Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+    },
+    {
+      "chunk_id": "eeb93441-8e67-4b0c-82a2-c85e92cb4652",
+      "chunk_title": "Sushoma Sarkar's Career",
+      "chunk_summary": "This chunk contains information about the professional background and filmography of Bangladeshi actress Sushoma Sarkar, including specific roles and release dates.",
+      "context_title": "Sushoma Sarkar",
+      "page_content": "Sushoma Sarkar appeared in the film Gunda. Sushoma Sarkar is a Bangladeshi television actress. The film Sujon Sokhi was released in 1975. Sushoma Sarkar is a Bangladeshi film actress. Sushoma Sarkar appeared in the film Alangkar. Sushoma Sarkar appeared in the film Sujon Sokhi."
+    },
+    {
+      "chunk_id": "637916d5-c156-4b6f-8251-d570dea0b7e6",
+      "chunk_title": "Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+      "context_title": "Kiss Me Not on the Eyes",
+      "page_content": "Dunia was released in 2005."
+    },
+    {
+      "chunk_id": "55df8b27-fc20-49f4-a971-973f663431e4",
+      "chunk_title": "Movie Release Dates",
+      "chunk_summary": "This chunk contains information about movie release dates and times.",
+      "context_title": "Abhishek Saxena",
+      "page_content": "The film Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+    },
+    {
+      "chunk_id": "10071ddf-0e38-493e-af72-833884bef16f",
+      "chunk_title": "Overheard 3 Film Details",
+      "chunk_summary": "This chunk contains information about the film Overheard 3, including its production details, cast, storyline, and release dates.",
+      "context_title": "Overheard 3",
+      "page_content": "Overheard 3 stars Louis Koo. Overheard 3 stars Daniel Wu. Overheard 3 is written by Alan Mak and Felix Chong. Overheard 3 is a 2014 Hong Kong-Chinese crime-thriller film. Overheard 3 stars Sean Lau. Overheard 3 was released in China on 29 May 2014. Daniel Wu plays a different role in Overheard 3 than in Overheard 2. Overheard 3 stars Zhou Xun. Overheard 3 has a different storyline from Overheard 2. Sean Lau plays a different role in Overheard 3 than in Overheard 2. Overheard 3 is directed by Alan Mak and Felix Chong. Overheard 3 was released in Hong Kong on 5 June 2014. Overheard 3 is a sequel to the 2011 film Overheard 2. The key elements of the previous two films are kept in Overheard 3. Overheard 3 stars Michelle Ye. The storyline of Overheard 3 involves abolishing the Small House Policy. Louis Koo plays a different role in Overheard 3 than in Overheard 2."
+    },
+    {
+      "chunk_id": "2b6e7a81-66f3-40f2-bdbd-8cf87bcdd022",
+      "chunk_title": "My Friend Ganesha 3 Film Details",
+      "chunk_summary": "This chunk contains information about the animated movie \"My Friend Ganesha 3\", including its production details, release date, and its status as a sequel.",
+      "context_title": "My Friend Ganesha 3",
+      "page_content": "My Friend Ganesha 3 is an animated movie. My Friend Ganesha 3 was produced under the banner of BaBa Arts Limited. My Friend Ganesha 3 was released on 26 March 2010. My Friend Ganesha 3 is a sequel to the 2009 film My Friend Ganesha 2."
+    },
+    {
+      "chunk_id": "6e3b3aa1-f28b-42d7-9073-3758b6e05a88",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of films.",
+      "context_title": "Claire Denis",
+      "page_content": "\"35 Shots of Rum\" was released in 2008. \"White Material\" was released in 2009. \"Beau Travail\" was released in 1999. \"Trouble Every Day\" was released in 2001."
+    },
+    {
+      "chunk_id": "8751bd23-e241-4cb7-8a0c-1eaa6df0dc68",
+      "chunk_title": "Jackass 3D Film Details",
+      "chunk_summary": "This chunk contains information about the film Jackass 3D, including its production details, release history, financial performance, and position within the broader Jackass franchise.",
+      "context_title": "Jackass 3D",
+      "page_content": "Jackass 3D was directed by Jeff Tremaine. Jeff Tremaine produced Jackass 3D with Johnny Knoxville and Spike Jonze. The DVD version of Jackass 3D was released on March 8, 2011. The Blu-ray version of Jackass 3D was released on March 8, 2011. Paramount Pictures released Jackass 3D to American theaters on October 15, 2010. In December 2019, Paramount announced a fourth Jackass film. Jackass 3D earned $171.7 million. Jackass 3D had a budget of $20 million. Jackass 3D is a 2010 American 3D adult comedy film. Jackass 3D was released in three different versions on home media. The Jackass franchise started in 2000. A sequel titled Jackass 3.5 was released on June 13, 2011. The release of Jackass 3D marked the 10th anniversary of the Jackass franchise. The fourth Jackass film was scheduled for release in March 2021. Jackass 3D is the third film in the Jackass film series."
+    },
+    {
+      "chunk_id": "d5e674fa-65e5-4bcb-8c9f-a81847d6b9ba",
+      "chunk_title": "Media Release Dates & Formats",
+      "chunk_summary": "This chunk contains information about media release dates and formats.",
+      "context_title": "Konjiki no Gash Bell!! Movie 2: Attack of the Mecha-Vulcan",
+      "page_content": "Discotek Media released both movies on Blu-ray and DVD for the first time in North America on March 27, 2018."
+    },
+    {
+      "chunk_id": "cac4a6a6-957f-4ecd-b7bf-52a3fafd4192",
+      "chunk_title": "Best of the Best 3 Film Details",
+      "chunk_summary": "This chunk contains information about the 1995 martial arts action film \"Best of the Best 3: No Turning Back,\" including its director, cast, character details, plot summary, and place in the film series.",
+      "context_title": "Best of the Best 3: No Turning Back",
+      "page_content": "Best of the Best 3: No Turning Back was directed by Phillip Rhee. Christopher McDonald co-stars in Best of the Best 3: No Turning Back. R. Lee Ermey co-stars in Best of the Best 3: No Turning Back. In Best of the Best 3: No Turning Back, Tommy Lee returns to his small hometown. R. Lee Ermey's role in Best of the Best 3: No Turning Back is uncredited. In Best of the Best 3: No Turning Back, the leader of the neo-Nazi gang is played by Mark Rolston. Gina Gershon co-stars in Best of the Best 3: No Turning Back. In Best of the Best 3: No Turning Back, Tommy Lee's small hometown is under siege by a neo-Nazi gang. Phillip Rhee is the star of Best of the Best 3: No Turning Back. Dee Wallace co-stars in Best of the Best 3: No Turning Back. Best of the Best 3: No Turning Back is a 1995 martial arts action film. Best of the Best 3: No Turning Back is the second sequel in the \"Best of the Best\" film series. In Best of the Best 3: No Turning Back, Phillip Rhee plays the character Tommy Lee."
+    },
+    {
+      "chunk_id": "b1b0249f-e200-4fd3-b96a-cc6a7c5237a3",
+      "chunk_title": "Film & Video Production",
+      "chunk_summary": "This chunk contains information about the production details of films and videos, including directors, filming formats, and specific dates of production or announcement.",
+      "context_title": "Jeff Tremaine",
+      "page_content": "\"Angry Skies\" is a 30 for 30 film. In July 2015, Jeffrey James Tremaine directed \"Angry Skies\". In September 2016, Jeffrey James Tremaine directed a new safety video for American Airlines. One year after January 2014, Focus Features announced that they had picked up the film \"The Dirt\". \"Jackass 3D\" was filmed in 3D starting in January 2010."
+    },
+    {
+      "chunk_id": "36dafc36-2815-4e61-a9c8-950aaad66094",
+      "chunk_title": "Art of the Devil Film Series",
+      "chunk_summary": "This chunk contains information about the Thai horror film \"Art of the Devil\" and its sequels, including release years, alternative titles, directors, and franchise details.",
+      "context_title": "Art of the Devil",
+      "page_content": "Art of the Devil 2 was released in 2005. Art of the Devil 3 features a different story than Art of the Devil. Art of the Devil 3 was released in 2008. Art of the Devil is also known as Khon len khong. Art of the Devil is a 2004 Thai horror film. Art of the Devil was directed by Tanit Jitnukul. Art of the Devil 2 features new characters compared to Art of the Devil. One sequel to Art of the Devil is titled Art of the Devil 3. One sequel to Art of the Devil is titled Art of the Devil 2. Art of the Devil has two titular sequels. Art of the Devil 3 features new characters compared to Art of the Devil. Art of the Devil 2 features a different story than Art of the Devil."
+    },
+    {
+      "chunk_id": "fccb271b-ec16-4769-ba63-e01a7f46882a",
+      "chunk_title": "Film Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of various films and works.",
+      "context_title": "Jay Roach",
+      "page_content": "\"Game Change\" was released in 2012. \"All the Way\" was released in 2016. The biographical drama \"Trumbo\" was released on November 6, 2015. \"The Campaign\" was released in 2012. \"Recount\" was released in 2008."
+    },
+    {
+      "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+      "chunk_title": "Release Dates",
+      "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+      "context_title": "California Winter",
+      "page_content": "California Winter was released in 2012."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.25,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 15,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which film was released earlier, Junda Iman Gunda or Overheard 3?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released earlier, Junda Iman Gunda or Overheard 3?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需通过比较两部电影的发行日期来回答哪部更早",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 提供 Junda Iman Gunda 发行日期（2007年9月7日），子节点 N1_2 提供 Overheard 3 发行日期（2014年5月29日中国/6月5日香港）。两个日期可直接比较：2007 < 2014，推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，两个日期事实均已确立，可直接合成最终答案：Junda Iman Gunda 发行更早。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film Junda Iman Gunda released?",
+          "answer": "7 September 2007",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Junda Iman Gunda released?",
+          "planner_rationale": "Q 询问两部电影哪部发行更早，必须先获取 Junda Iman Gunda 的发行日期作为比较基准之一",
+          "solver_judgment": "question 要求确认电影 Junda Iman Gunda 的上映日期。search_query 搜索了 'When was the film Junda Iman Gunda released?'。chunks 返回了包含该电影详细信息的片段，其中 chunk 2850de1f-4498-4bd1-8a8e-8f0a981794ce 明确记载 'Junda Iman Gunda was released on 7 September 2007'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Junda Iman Gunda）。支撑 chunk [2850de1f] 全文直接陈述 'Junda Iman Gunda was released on 7 September 2007'，与声称答案逐字匹配。单来源但直接、具体。交叉验证：不充分（仅 1 个来源），但证据质量高。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体地陈述了答案，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "2850de1f-4498-4bd1-8a8e-8f0a981794ce"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "2850de1f-4498-4bd1-8a8e-8f0a981794ce",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, language, genre, and release date.",
+              "context_title": "Junda Iman Gunda",
+              "page_content": "Junda Iman Gunda was released on 7 September 2007. Junda Iman Gunda is a 2007 Assamese language romantic comedy film."
+            },
+            {
+              "chunk_id": "74f61243-028a-47a0-9926-3d8ebe1964a4",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films.",
+              "context_title": "Sushoma Sarkar",
+              "page_content": "The film Gunda was released in 1978. The film Alangkar was released in 1979."
+            },
+            {
+              "chunk_id": "4a170aee-91af-42f9-8ea0-04ddbee17ae5",
+              "chunk_title": "The Thousand Faces of Dunjia Film Details",
+              "chunk_summary": "This chunk contains information about the 2017 Chinese fantasy-wuxia film \"The Thousand Faces of Dunjia,\" including its director, screenwriter, producer, cast, release date, and its status as a remake.",
+              "context_title": "The Thousand Faces of Dunjia",
+              "page_content": "The film The Thousand Faces of Dunjia stars Da Peng. The Thousand Faces of Dunjia is a 2017 Chinese fantasy-wuxia film. The Thousand Faces of Dunjia was directed by Yuen Woo-ping. The Thousand Faces of Dunjia was produced by Tsui Hark. The film The Thousand Faces of Dunjia stars Aarif Lee. The film The Thousand Faces of Dunjia stars Wu Bai. The Thousand Faces of Dunjia is a remake of the 1982 film \"The Miracle Fighters\". The Thousand Faces of Dunjia was scripted by Tsui Hark. The film The Thousand Faces of Dunjia was released in China on December 15, 2017. The film The Thousand Faces of Dunjia stars Ni Ni. The film The Thousand Faces of Dunjia stars Zhou Dongyu."
+            },
+            {
+              "chunk_id": "d93874e5-8d9f-43d6-b819-284ec38a5634",
+              "chunk_title": "Actors & Lead Roles",
+              "chunk_summary": "This chunk contains information about actors and their lead roles in films.",
+              "context_title": "Junda Iman Gunda",
+              "page_content": "Bikram Rajkhowa starred in the lead role in Junda Iman Gunda. Angoorlata starred in the lead role in Junda Iman Gunda."
+            },
+            {
+              "chunk_id": "06e8df7d-a596-41f8-ad43-438e31fcaa0c",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Junda Iman Gunda",
+              "page_content": "Junda Iman Gunda was directed by Chandra Mudoi."
+            },
+            {
+              "chunk_id": "99281bfb-8ab9-4e06-8858-03f74e968665",
+              "chunk_title": "Song Reception",
+              "chunk_summary": "This chunk contains information about the reception and appreciation of songs from specific musical works, including details about particular artists and tracks.",
+              "context_title": "Junda Iman Gunda",
+              "page_content": "The songs from Junda Iman Gunda received good appreciation. One of the appreciated songs from Junda Iman Gunda was by Debojit Saha."
+            },
+            {
+              "chunk_id": "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            },
+            {
+              "chunk_id": "eeb93441-8e67-4b0c-82a2-c85e92cb4652",
+              "chunk_title": "Sushoma Sarkar's Career",
+              "chunk_summary": "This chunk contains information about the professional background and filmography of Bangladeshi actress Sushoma Sarkar, including specific roles and release dates.",
+              "context_title": "Sushoma Sarkar",
+              "page_content": "Sushoma Sarkar appeared in the film Gunda. Sushoma Sarkar is a Bangladeshi television actress. The film Sujon Sokhi was released in 1975. Sushoma Sarkar is a Bangladeshi film actress. Sushoma Sarkar appeared in the film Alangkar. Sushoma Sarkar appeared in the film Sujon Sokhi."
+            },
+            {
+              "chunk_id": "637916d5-c156-4b6f-8251-d570dea0b7e6",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+              "context_title": "Kiss Me Not on the Eyes",
+              "page_content": "Dunia was released in 2005."
+            },
+            {
+              "chunk_id": "55df8b27-fc20-49f4-a971-973f663431e4",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "The film Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film Overheard 3 released?",
+          "answer": "29 May 2014 (China), 5 June 2014 (Hong Kong)",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Overheard 3 released?",
+          "planner_rationale": "Q 询问两部电影哪部发行更早，必须获取 Overheard 3 的发行日期作为另一个比较基准",
+          "solver_judgment": "question 要求确认电影 Overheard 3 的上映日期。search_query 直接搜索了该问题。chunks 返回了 chunk 10071ddf-0e38-493e-af72-833884bef16f，其中明确记载 'Overheard 3 was released in China on 29 May 2014' 和 'Overheard 3 was released in Hong Kong on 5 June 2014'。检索精准命中目标实体，信息完整，直接回答了问题。",
+          "critic_factual_notes": "1 个来源（文档 Overheard 3）。支撑 chunk [10071ddf] 全文直接陈述 'Overheard 3 was released in China on 29 May 2014' 和 'Overheard 3 was released in Hong Kong on 5 June 2014'，与声称答案逐字匹配。单来源但直接、具体。交叉验证：不充分（仅 1 个来源），但证据质量高。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体地陈述了答案，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "10071ddf-0e38-493e-af72-833884bef16f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "10071ddf-0e38-493e-af72-833884bef16f",
+              "chunk_title": "Overheard 3 Film Details",
+              "chunk_summary": "This chunk contains information about the film Overheard 3, including its production details, cast, storyline, and release dates.",
+              "context_title": "Overheard 3",
+              "page_content": "Overheard 3 stars Louis Koo. Overheard 3 stars Daniel Wu. Overheard 3 is written by Alan Mak and Felix Chong. Overheard 3 is a 2014 Hong Kong-Chinese crime-thriller film. Overheard 3 stars Sean Lau. Overheard 3 was released in China on 29 May 2014. Daniel Wu plays a different role in Overheard 3 than in Overheard 2. Overheard 3 stars Zhou Xun. Overheard 3 has a different storyline from Overheard 2. Sean Lau plays a different role in Overheard 3 than in Overheard 2. Overheard 3 is directed by Alan Mak and Felix Chong. Overheard 3 was released in Hong Kong on 5 June 2014. Overheard 3 is a sequel to the 2011 film Overheard 2. The key elements of the previous two films are kept in Overheard 3. Overheard 3 stars Michelle Ye. The storyline of Overheard 3 involves abolishing the Small House Policy. Louis Koo plays a different role in Overheard 3 than in Overheard 2."
+            },
+            {
+              "chunk_id": "2b6e7a81-66f3-40f2-bdbd-8cf87bcdd022",
+              "chunk_title": "My Friend Ganesha 3 Film Details",
+              "chunk_summary": "This chunk contains information about the animated movie \"My Friend Ganesha 3\", including its production details, release date, and its status as a sequel.",
+              "context_title": "My Friend Ganesha 3",
+              "page_content": "My Friend Ganesha 3 is an animated movie. My Friend Ganesha 3 was produced under the banner of BaBa Arts Limited. My Friend Ganesha 3 was released on 26 March 2010. My Friend Ganesha 3 is a sequel to the 2009 film My Friend Ganesha 2."
+            },
+            {
+              "chunk_id": "6e3b3aa1-f28b-42d7-9073-3758b6e05a88",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films.",
+              "context_title": "Claire Denis",
+              "page_content": "\"35 Shots of Rum\" was released in 2008. \"White Material\" was released in 2009. \"Beau Travail\" was released in 1999. \"Trouble Every Day\" was released in 2001."
+            },
+            {
+              "chunk_id": "8751bd23-e241-4cb7-8a0c-1eaa6df0dc68",
+              "chunk_title": "Jackass 3D Film Details",
+              "chunk_summary": "This chunk contains information about the film Jackass 3D, including its production details, release history, financial performance, and position within the broader Jackass franchise.",
+              "context_title": "Jackass 3D",
+              "page_content": "Jackass 3D was directed by Jeff Tremaine. Jeff Tremaine produced Jackass 3D with Johnny Knoxville and Spike Jonze. The DVD version of Jackass 3D was released on March 8, 2011. The Blu-ray version of Jackass 3D was released on March 8, 2011. Paramount Pictures released Jackass 3D to American theaters on October 15, 2010. In December 2019, Paramount announced a fourth Jackass film. Jackass 3D earned $171.7 million. Jackass 3D had a budget of $20 million. Jackass 3D is a 2010 American 3D adult comedy film. Jackass 3D was released in three different versions on home media. The Jackass franchise started in 2000. A sequel titled Jackass 3.5 was released on June 13, 2011. The release of Jackass 3D marked the 10th anniversary of the Jackass franchise. The fourth Jackass film was scheduled for release in March 2021. Jackass 3D is the third film in the Jackass film series."
+            },
+            {
+              "chunk_id": "d5e674fa-65e5-4bcb-8c9f-a81847d6b9ba",
+              "chunk_title": "Media Release Dates & Formats",
+              "chunk_summary": "This chunk contains information about media release dates and formats.",
+              "context_title": "Konjiki no Gash Bell!! Movie 2: Attack of the Mecha-Vulcan",
+              "page_content": "Discotek Media released both movies on Blu-ray and DVD for the first time in North America on March 27, 2018."
+            },
+            {
+              "chunk_id": "cac4a6a6-957f-4ecd-b7bf-52a3fafd4192",
+              "chunk_title": "Best of the Best 3 Film Details",
+              "chunk_summary": "This chunk contains information about the 1995 martial arts action film \"Best of the Best 3: No Turning Back,\" including its director, cast, character details, plot summary, and place in the film series.",
+              "context_title": "Best of the Best 3: No Turning Back",
+              "page_content": "Best of the Best 3: No Turning Back was directed by Phillip Rhee. Christopher McDonald co-stars in Best of the Best 3: No Turning Back. R. Lee Ermey co-stars in Best of the Best 3: No Turning Back. In Best of the Best 3: No Turning Back, Tommy Lee returns to his small hometown. R. Lee Ermey's role in Best of the Best 3: No Turning Back is uncredited. In Best of the Best 3: No Turning Back, the leader of the neo-Nazi gang is played by Mark Rolston. Gina Gershon co-stars in Best of the Best 3: No Turning Back. In Best of the Best 3: No Turning Back, Tommy Lee's small hometown is under siege by a neo-Nazi gang. Phillip Rhee is the star of Best of the Best 3: No Turning Back. Dee Wallace co-stars in Best of the Best 3: No Turning Back. Best of the Best 3: No Turning Back is a 1995 martial arts action film. Best of the Best 3: No Turning Back is the second sequel in the \"Best of the Best\" film series. In Best of the Best 3: No Turning Back, Phillip Rhee plays the character Tommy Lee."
+            },
+            {
+              "chunk_id": "b1b0249f-e200-4fd3-b96a-cc6a7c5237a3",
+              "chunk_title": "Film & Video Production",
+              "chunk_summary": "This chunk contains information about the production details of films and videos, including directors, filming formats, and specific dates of production or announcement.",
+              "context_title": "Jeff Tremaine",
+              "page_content": "\"Angry Skies\" is a 30 for 30 film. In July 2015, Jeffrey James Tremaine directed \"Angry Skies\". In September 2016, Jeffrey James Tremaine directed a new safety video for American Airlines. One year after January 2014, Focus Features announced that they had picked up the film \"The Dirt\". \"Jackass 3D\" was filmed in 3D starting in January 2010."
+            },
+            {
+              "chunk_id": "36dafc36-2815-4e61-a9c8-950aaad66094",
+              "chunk_title": "Art of the Devil Film Series",
+              "chunk_summary": "This chunk contains information about the Thai horror film \"Art of the Devil\" and its sequels, including release years, alternative titles, directors, and franchise details.",
+              "context_title": "Art of the Devil",
+              "page_content": "Art of the Devil 2 was released in 2005. Art of the Devil 3 features a different story than Art of the Devil. Art of the Devil 3 was released in 2008. Art of the Devil is also known as Khon len khong. Art of the Devil is a 2004 Thai horror film. Art of the Devil was directed by Tanit Jitnukul. Art of the Devil 2 features new characters compared to Art of the Devil. One sequel to Art of the Devil is titled Art of the Devil 3. One sequel to Art of the Devil is titled Art of the Devil 2. Art of the Devil has two titular sequels. Art of the Devil 3 features new characters compared to Art of the Devil. Art of the Devil 2 features a different story than Art of the Devil."
+            },
+            {
+              "chunk_id": "fccb271b-ec16-4769-ba63-e01a7f46882a",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various films and works.",
+              "context_title": "Jay Roach",
+              "page_content": "\"Game Change\" was released in 2012. \"All the Way\" was released in 2016. The biographical drama \"Trumbo\" was released on November 6, 2015. \"The Campaign\" was released in 2012. \"Recount\" was released in 2008."
+            },
+            {
+              "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+              "context_title": "California Winter",
+              "page_content": "California Winter was released in 2012."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which film was released earlier, Junda Iman Gunda or Overheard 3?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film was released earlier, Junda Iman Gunda or Overheard 3?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。两个子节点 N1_1 和 N1_2 均已 SOLVED + healthy，分别提供 Junda Iman Gunda 发行日期（2007年9月7日）和 Overheard 3 发行日期（2014年5月29日中国/6月5日香港）。比较两个日期：2007 < 2014，推理链完整，可直接合成答案：Junda Iman Gunda 发行更早。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 提供 Junda Iman Gunda 发行日期（2007年9月7日），子节点 N1_2 提供 Overheard 3 发行日期（2014年5月29日中国/6月5日香港）。两个日期可直接比较：2007 < 2014，推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，两个日期事实均已确立，可直接合成最终答案：Junda Iman Gunda 发行更早。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the film Junda Iman Gunda released?",
+          "answer": "7 September 2007",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Junda Iman Gunda released?",
+          "planner_rationale": "Q 询问两部电影哪部发行更早，需获取 Junda Iman Gunda 的发行日期作为比较基准之一。该节点已 SOLVED + healthy，证据直接具体（chunk 2850de1f 明确记载 'Junda Iman Gunda was released on 7 September 2007'），无需进一步搜索。",
+          "solver_judgment": "question 要求确认电影 Junda Iman Gunda 的上映日期。search_query 搜索了 'When was the film Junda Iman Gunda released?'。chunks 返回了包含该电影详细信息的片段，其中 chunk 2850de1f-4498-4bd1-8a8e-8f0a981794ce 明确记载 'Junda Iman Gunda was released on 7 September 2007'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Junda Iman Gunda）。支撑 chunk [2850de1f] 全文直接陈述 'Junda Iman Gunda was released on 7 September 2007'，与声称答案逐字匹配。单来源但直接、具体。交叉验证：不充分（仅 1 个来源），但证据质量高。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体地陈述了答案，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "2850de1f-4498-4bd1-8a8e-8f0a981794ce"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "2850de1f-4498-4bd1-8a8e-8f0a981794ce",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, language, genre, and release date.",
+              "context_title": "Junda Iman Gunda",
+              "page_content": "Junda Iman Gunda was released on 7 September 2007. Junda Iman Gunda is a 2007 Assamese language romantic comedy film."
+            },
+            {
+              "chunk_id": "74f61243-028a-47a0-9926-3d8ebe1964a4",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films.",
+              "context_title": "Sushoma Sarkar",
+              "page_content": "The film Gunda was released in 1978. The film Alangkar was released in 1979."
+            },
+            {
+              "chunk_id": "4a170aee-91af-42f9-8ea0-04ddbee17ae5",
+              "chunk_title": "The Thousand Faces of Dunjia Film Details",
+              "chunk_summary": "This chunk contains information about the 2017 Chinese fantasy-wuxia film \"The Thousand Faces of Dunjia,\" including its director, screenwriter, producer, cast, release date, and its status as a remake.",
+              "context_title": "The Thousand Faces of Dunjia",
+              "page_content": "The film The Thousand Faces of Dunjia stars Da Peng. The Thousand Faces of Dunjia is a 2017 Chinese fantasy-wuxia film. The Thousand Faces of Dunjia was directed by Yuen Woo-ping. The Thousand Faces of Dunjia was produced by Tsui Hark. The film The Thousand Faces of Dunjia stars Aarif Lee. The film The Thousand Faces of Dunjia stars Wu Bai. The Thousand Faces of Dunjia is a remake of the 1982 film \"The Miracle Fighters\". The Thousand Faces of Dunjia was scripted by Tsui Hark. The film The Thousand Faces of Dunjia was released in China on December 15, 2017. The film The Thousand Faces of Dunjia stars Ni Ni. The film The Thousand Faces of Dunjia stars Zhou Dongyu."
+            },
+            {
+              "chunk_id": "d93874e5-8d9f-43d6-b819-284ec38a5634",
+              "chunk_title": "Actors & Lead Roles",
+              "chunk_summary": "This chunk contains information about actors and their lead roles in films.",
+              "context_title": "Junda Iman Gunda",
+              "page_content": "Bikram Rajkhowa starred in the lead role in Junda Iman Gunda. Angoorlata starred in the lead role in Junda Iman Gunda."
+            },
+            {
+              "chunk_id": "06e8df7d-a596-41f8-ad43-438e31fcaa0c",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Junda Iman Gunda",
+              "page_content": "Junda Iman Gunda was directed by Chandra Mudoi."
+            },
+            {
+              "chunk_id": "99281bfb-8ab9-4e06-8858-03f74e968665",
+              "chunk_title": "Song Reception",
+              "chunk_summary": "This chunk contains information about the reception and appreciation of songs from specific musical works, including details about particular artists and tracks.",
+              "context_title": "Junda Iman Gunda",
+              "page_content": "The songs from Junda Iman Gunda received good appreciation. One of the appreciated songs from Junda Iman Gunda was by Debojit Saha."
+            },
+            {
+              "chunk_id": "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            },
+            {
+              "chunk_id": "eeb93441-8e67-4b0c-82a2-c85e92cb4652",
+              "chunk_title": "Sushoma Sarkar's Career",
+              "chunk_summary": "This chunk contains information about the professional background and filmography of Bangladeshi actress Sushoma Sarkar, including specific roles and release dates.",
+              "context_title": "Sushoma Sarkar",
+              "page_content": "Sushoma Sarkar appeared in the film Gunda. Sushoma Sarkar is a Bangladeshi television actress. The film Sujon Sokhi was released in 1975. Sushoma Sarkar is a Bangladeshi film actress. Sushoma Sarkar appeared in the film Alangkar. Sushoma Sarkar appeared in the film Sujon Sokhi."
+            },
+            {
+              "chunk_id": "637916d5-c156-4b6f-8251-d570dea0b7e6",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+              "context_title": "Kiss Me Not on the Eyes",
+              "page_content": "Dunia was released in 2005."
+            },
+            {
+              "chunk_id": "55df8b27-fc20-49f4-a971-973f663431e4",
+              "chunk_title": "Movie Release Dates",
+              "chunk_summary": "This chunk contains information about movie release dates and times.",
+              "context_title": "Abhishek Saxena",
+              "page_content": "The film Patiala Dreamz was screened in cinemas in 2014. The movie Phullu was released in theaters on 16 June 2017."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the film Overheard 3 released?",
+          "answer": "29 May 2014 (China), 5 June 2014 (Hong Kong)",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the film Overheard 3 released?",
+          "planner_rationale": "Q 询问两部电影哪部发行更早，需获取 Overheard 3 的发行日期作为另一个比较基准。该节点已 SOLVED + healthy，证据直接具体（chunk 10071ddf 明确记载中国和香港发行日期），无需进一步搜索。",
+          "solver_judgment": "question 要求确认电影 Overheard 3 的上映日期。search_query 直接搜索了该问题。chunks 返回了 chunk 10071ddf-0e38-493e-af72-833884bef16f，其中明确记载 'Overheard 3 was released in China on 29 May 2014' 和 'Overheard 3 was released in Hong Kong on 5 June 2014'。检索精准命中目标实体，信息完整，直接回答了问题。",
+          "critic_factual_notes": "1 个来源（文档 Overheard 3）。支撑 chunk [10071ddf] 全文直接陈述 'Overheard 3 was released in China on 29 May 2014' 和 'Overheard 3 was released in Hong Kong on 5 June 2014'，与声称答案逐字匹配。单来源但直接、具体。交叉验证：不充分（仅 1 个来源），但证据质量高。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体地陈述了答案，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "10071ddf-0e38-493e-af72-833884bef16f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "10071ddf-0e38-493e-af72-833884bef16f",
+              "chunk_title": "Overheard 3 Film Details",
+              "chunk_summary": "This chunk contains information about the film Overheard 3, including its production details, cast, storyline, and release dates.",
+              "context_title": "Overheard 3",
+              "page_content": "Overheard 3 stars Louis Koo. Overheard 3 stars Daniel Wu. Overheard 3 is written by Alan Mak and Felix Chong. Overheard 3 is a 2014 Hong Kong-Chinese crime-thriller film. Overheard 3 stars Sean Lau. Overheard 3 was released in China on 29 May 2014. Daniel Wu plays a different role in Overheard 3 than in Overheard 2. Overheard 3 stars Zhou Xun. Overheard 3 has a different storyline from Overheard 2. Sean Lau plays a different role in Overheard 3 than in Overheard 2. Overheard 3 is directed by Alan Mak and Felix Chong. Overheard 3 was released in Hong Kong on 5 June 2014. Overheard 3 is a sequel to the 2011 film Overheard 2. The key elements of the previous two films are kept in Overheard 3. Overheard 3 stars Michelle Ye. The storyline of Overheard 3 involves abolishing the Small House Policy. Louis Koo plays a different role in Overheard 3 than in Overheard 2."
+            },
+            {
+              "chunk_id": "2b6e7a81-66f3-40f2-bdbd-8cf87bcdd022",
+              "chunk_title": "My Friend Ganesha 3 Film Details",
+              "chunk_summary": "This chunk contains information about the animated movie \"My Friend Ganesha 3\", including its production details, release date, and its status as a sequel.",
+              "context_title": "My Friend Ganesha 3",
+              "page_content": "My Friend Ganesha 3 is an animated movie. My Friend Ganesha 3 was produced under the banner of BaBa Arts Limited. My Friend Ganesha 3 was released on 26 March 2010. My Friend Ganesha 3 is a sequel to the 2009 film My Friend Ganesha 2."
+            },
+            {
+              "chunk_id": "6e3b3aa1-f28b-42d7-9073-3758b6e05a88",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of films.",
+              "context_title": "Claire Denis",
+              "page_content": "\"35 Shots of Rum\" was released in 2008. \"White Material\" was released in 2009. \"Beau Travail\" was released in 1999. \"Trouble Every Day\" was released in 2001."
+            },
+            {
+              "chunk_id": "8751bd23-e241-4cb7-8a0c-1eaa6df0dc68",
+              "chunk_title": "Jackass 3D Film Details",
+              "chunk_summary": "This chunk contains information about the film Jackass 3D, including its production details, release history, financial performance, and position within the broader Jackass franchise.",
+              "context_title": "Jackass 3D",
+              "page_content": "Jackass 3D was directed by Jeff Tremaine. Jeff Tremaine produced Jackass 3D with Johnny Knoxville and Spike Jonze. The DVD version of Jackass 3D was released on March 8, 2011. The Blu-ray version of Jackass 3D was released on March 8, 2011. Paramount Pictures released Jackass 3D to American theaters on October 15, 2010. In December 2019, Paramount announced a fourth Jackass film. Jackass 3D earned $171.7 million. Jackass 3D had a budget of $20 million. Jackass 3D is a 2010 American 3D adult comedy film. Jackass 3D was released in three different versions on home media. The Jackass franchise started in 2000. A sequel titled Jackass 3.5 was released on June 13, 2011. The release of Jackass 3D marked the 10th anniversary of the Jackass franchise. The fourth Jackass film was scheduled for release in March 2021. Jackass 3D is the third film in the Jackass film series."
+            },
+            {
+              "chunk_id": "d5e674fa-65e5-4bcb-8c9f-a81847d6b9ba",
+              "chunk_title": "Media Release Dates & Formats",
+              "chunk_summary": "This chunk contains information about media release dates and formats.",
+              "context_title": "Konjiki no Gash Bell!! Movie 2: Attack of the Mecha-Vulcan",
+              "page_content": "Discotek Media released both movies on Blu-ray and DVD for the first time in North America on March 27, 2018."
+            },
+            {
+              "chunk_id": "cac4a6a6-957f-4ecd-b7bf-52a3fafd4192",
+              "chunk_title": "Best of the Best 3 Film Details",
+              "chunk_summary": "This chunk contains information about the 1995 martial arts action film \"Best of the Best 3: No Turning Back,\" including its director, cast, character details, plot summary, and place in the film series.",
+              "context_title": "Best of the Best 3: No Turning Back",
+              "page_content": "Best of the Best 3: No Turning Back was directed by Phillip Rhee. Christopher McDonald co-stars in Best of the Best 3: No Turning Back. R. Lee Ermey co-stars in Best of the Best 3: No Turning Back. In Best of the Best 3: No Turning Back, Tommy Lee returns to his small hometown. R. Lee Ermey's role in Best of the Best 3: No Turning Back is uncredited. In Best of the Best 3: No Turning Back, the leader of the neo-Nazi gang is played by Mark Rolston. Gina Gershon co-stars in Best of the Best 3: No Turning Back. In Best of the Best 3: No Turning Back, Tommy Lee's small hometown is under siege by a neo-Nazi gang. Phillip Rhee is the star of Best of the Best 3: No Turning Back. Dee Wallace co-stars in Best of the Best 3: No Turning Back. Best of the Best 3: No Turning Back is a 1995 martial arts action film. Best of the Best 3: No Turning Back is the second sequel in the \"Best of the Best\" film series. In Best of the Best 3: No Turning Back, Phillip Rhee plays the character Tommy Lee."
+            },
+            {
+              "chunk_id": "b1b0249f-e200-4fd3-b96a-cc6a7c5237a3",
+              "chunk_title": "Film & Video Production",
+              "chunk_summary": "This chunk contains information about the production details of films and videos, including directors, filming formats, and specific dates of production or announcement.",
+              "context_title": "Jeff Tremaine",
+              "page_content": "\"Angry Skies\" is a 30 for 30 film. In July 2015, Jeffrey James Tremaine directed \"Angry Skies\". In September 2016, Jeffrey James Tremaine directed a new safety video for American Airlines. One year after January 2014, Focus Features announced that they had picked up the film \"The Dirt\". \"Jackass 3D\" was filmed in 3D starting in January 2010."
+            },
+            {
+              "chunk_id": "36dafc36-2815-4e61-a9c8-950aaad66094",
+              "chunk_title": "Art of the Devil Film Series",
+              "chunk_summary": "This chunk contains information about the Thai horror film \"Art of the Devil\" and its sequels, including release years, alternative titles, directors, and franchise details.",
+              "context_title": "Art of the Devil",
+              "page_content": "Art of the Devil 2 was released in 2005. Art of the Devil 3 features a different story than Art of the Devil. Art of the Devil 3 was released in 2008. Art of the Devil is also known as Khon len khong. Art of the Devil is a 2004 Thai horror film. Art of the Devil was directed by Tanit Jitnukul. Art of the Devil 2 features new characters compared to Art of the Devil. One sequel to Art of the Devil is titled Art of the Devil 3. One sequel to Art of the Devil is titled Art of the Devil 2. Art of the Devil has two titular sequels. Art of the Devil 3 features new characters compared to Art of the Devil. Art of the Devil 2 features a different story than Art of the Devil."
+            },
+            {
+              "chunk_id": "fccb271b-ec16-4769-ba63-e01a7f46882a",
+              "chunk_title": "Film Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various films and works.",
+              "context_title": "Jay Roach",
+              "page_content": "\"Game Change\" was released in 2012. \"All the Way\" was released in 2016. The biographical drama \"Trumbo\" was released on November 6, 2015. \"The Campaign\" was released in 2012. \"Recount\" was released in 2008."
+            },
+            {
+              "chunk_id": "8bbe420c-0e2e-4672-b34d-e669446de5c7",
+              "chunk_title": "Release Dates",
+              "chunk_summary": "This chunk contains information about the release dates of various media or products.",
+              "context_title": "California Winter",
+              "page_content": "California Winter was released in 2012."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was the film Junda Iman Gunda released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "2850de1f-4498-4bd1-8a8e-8f0a981794ce",
+        "74f61243-028a-47a0-9926-3d8ebe1964a4",
+        "4a170aee-91af-42f9-8ea0-04ddbee17ae5",
+        "d93874e5-8d9f-43d6-b819-284ec38a5634",
+        "06e8df7d-a596-41f8-ad43-438e31fcaa0c",
+        "99281bfb-8ab9-4e06-8858-03f74e968665",
+        "9aabb391-cd89-4c2f-84f5-7e931a19b50f",
+        "eeb93441-8e67-4b0c-82a2-c85e92cb4652",
+        "637916d5-c156-4b6f-8251-d570dea0b7e6",
+        "55df8b27-fc20-49f4-a971-973f663431e4"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was the film Overheard 3 released?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "10071ddf-0e38-493e-af72-833884bef16f",
+        "2b6e7a81-66f3-40f2-bdbd-8cf87bcdd022",
+        "6e3b3aa1-f28b-42d7-9073-3758b6e05a88",
+        "8751bd23-e241-4cb7-8a0c-1eaa6df0dc68",
+        "d5e674fa-65e5-4bcb-8c9f-a81847d6b9ba",
+        "cac4a6a6-957f-4ecd-b7bf-52a3fafd4192",
+        "b1b0249f-e200-4fd3-b96a-cc6a7c5237a3",
+        "36dafc36-2815-4e61-a9c8-950aaad66094",
+        "fccb271b-ec16-4769-ba63-e01a7f46882a",
+        "8bbe420c-0e2e-4672-b34d-e669446de5c7"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Junda Iman Gunda released?（理由：Q 问两部电影哪部发行更早，需先获取第一部电影的发行日期），F2: When was Overheard 3 released?（理由：需获取第二部电影的发行日期以进行比较）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者各自独立，无相互依赖；当 F1 和 F2 都 SOLVED 后，比较两个日期即可直接回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个比较型问题（'which was released earlier'），核心语义需求是获取两个实体的同一属性（发行日期）并进行时间先后比较。因此创建两个平行的 decomposition 子节点分别探测两部电影的发行日期，无 dependency 边（两个子问题相互独立）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义有效——N0 分解为 N1_1 和 N1_2 两个独立子问题，各自获取一部电影的发行日期，聚合后可直接比较得出答案；③全部节点 healthy（N1_1 和 N1_2 均为单来源但直接具体，N0 推理链完整）；④首轮无拓扑变化。DAG 结构合理，证据充分，可生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was Junda Iman Gunda released?（理由：Q 是比较型问题，需先获取第一部电影的发行日期），F2: When was Overheard 3 released?（理由：需获取第二部电影的发行日期以进行比较）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者各自独立，无相互依赖；当 F1 和 F2 都 SOLVED 后，比较两个日期即可直接回答 Q。当前 DAG 已完全覆盖 Q 的所有语义需求，两个子节点均已确立，推理链完整。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均通过 INHERIT 保留，所有边均通过 LINK 保留。原因：上一轮假设（比较型问题分解为两个平行子问题获取各自发行日期）已被完全验证。N1_1 和 N1_2 均 SOLVED + healthy，Critic 确认证据质量高且无需进一步搜索。DAG 结构简洁正确，已逼近理想分解结构，无需增删节点或边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未完全满足：系统标注'本轮通过'但明确指出这是首次出现拓扑不变，需下一轮确认连续两轮拓扑相同。条件①②③均已满足（所有非根节点 SOLVED、推理链语义有效、全部节点 healthy），但条件④的连续稳定性要求尚未达成。建议下一轮保持 INHERIT，若拓扑再次不变则满足终止条件。"
+      }
+    }
+  ]
+}

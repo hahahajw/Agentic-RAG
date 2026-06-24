@@ -1,0 +1,908 @@
+{
+  "question_index": 251,
+  "question_id": "fe1ac99c0bdd11eba7f7acde48001122",
+  "question": "Where did the director of film What Rats Won'T Do die?",
+  "answer": "Somerset",
+  "prediction": "Stoke St Gregory, Somerset",
+  "error": null,
+  "latency_ms": 328644.3670000008,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T13:11:39.998249+00:00",
+  "chunks": [
+    {
+      "chunk_id": "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and starring actors.",
+      "context_title": "What Rats Won't Do",
+      "page_content": "What Rats Won't Do is a 1998 British comedy film. What Rats Won't Do stars James Frain. What Rats Won't Do stars Natascha McElhone. What Rats Won't Do was directed by Alastair Reid."
+    },
+    {
+      "chunk_id": "f0c15d9f-5c0b-44e8-be51-3ff29ab7d6a7",
+      "chunk_title": "Deadly Eyes Film Details",
+      "chunk_summary": "This chunk contains information about the 1982 Canadian horror film \"Deadly Eyes,\" including its alternative titles, director, literary source material, and plot details.",
+      "context_title": "Deadly Eyes",
+      "page_content": "Deadly Eyes is also known as Rats. Deadly Eyes is very loosely based on the horror novel \"The Rats\". Robert Clouse directed Deadly Eyes. Deadly Eyes is also known as The Rats. Deadly Eyes is a 1982 Canadian horror film. James Herbert wrote the horror novel \"The Rats\". The giant black rats in Deadly Eyes ingested contaminated grain. Deadly Eyes is also known as Night Eyes. The giant black rats in Deadly Eyes began eating the residents of Toronto. The story of Deadly Eyes revolves around giant black rats."
+    },
+    {
+      "chunk_id": "23e92a3f-dbbf-4a40-8a19-65bdf2f81672",
+      "chunk_title": "Bollywood Films",
+      "chunk_summary": "This chunk contains information about Bollywood films, including their release years, genres, and directors.",
+      "context_title": "Rangila Ratan",
+      "page_content": "Rangila Ratan was directed by S. Ramanathan. Rangila Ratan is a 1976 Bollywood action film."
+    },
+    {
+      "chunk_id": "aa2cf07b-df0c-4117-a190-dfb4cc560a08",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "The Very Friendly Neighbors",
+      "page_content": "The Very Friendly Neighbors was directed by Albert Zugsmith."
+    },
+    {
+      "chunk_id": "aa917ef1-787e-42e3-9634-b993e1e9fbbf",
+      "chunk_title": "Film Directors & Works",
+      "chunk_summary": "This chunk contains information about film directors and their specific works or professional roles.",
+      "context_title": "Arthur Crabtree",
+      "page_content": "Arthur Crabtree was a film director. Arthur Crabtree directed several of the Gainsborough Melodramas."
+    },
+    {
+      "chunk_id": "9f5b305e-be2d-4555-9602-7d7b5d4f9a82",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1973 exploitation film \"Please Don't Eat My Mother,\" including its director, genre, and status as a parody.",
+      "context_title": "Please Don't Eat My Mother",
+      "page_content": "Please Don't Eat My Mother is an adult-themed parody. Please Don't Eat My Mother is a parody of Roger Corman's The Little Shop of Horrors. Please Don't Eat My Mother is a 1973 exploitation film. Carl J. Monson is a director. Please Don't Eat My Mother was directed by Carl J. Monson."
+    },
+    {
+      "chunk_id": "97c5febe-d5ea-4aff-974f-7fc602ae1f79",
+      "chunk_title": "Zombie Horror Films",
+      "chunk_summary": "This chunk contains information about zombie horror films, including their titles, release years, directors, and producers.",
+      "context_title": "The Quick and the Undead",
+      "page_content": "The Quick and the Undead was produced by Gerald Nott. The Quick and the Undead is a 2006 zombie horror film. The Quick and the Undead was directed by Gerald Nott."
+    },
+    {
+      "chunk_id": "4c41869a-ef28-4fdb-aac3-5eb000e4b8ab",
+      "chunk_title": "Film Producers",
+      "chunk_summary": "This chunk contains information about notable figures in the film industry, specifically focusing on producers and their contributions.",
+      "context_title": "Roger Corman's Operation Rogue",
+      "page_content": "Roger Corman is a legendary B-movie producer."
+    },
+    {
+      "chunk_id": "cbf67e5b-efde-41b5-a327-62fa06296f88",
+      "chunk_title": "Film Directors & Roles",
+      "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+      "context_title": "Le Masque de la Méduse",
+      "page_content": "Jean Rollin was a director."
+    },
+    {
+      "chunk_id": "71bf035c-bccc-48b4-bc0a-047586e4cbb2",
+      "chunk_title": "Film Production Credits",
+      "chunk_summary": "This chunk contains information about the directors, writers, and cast of specific films.",
+      "context_title": "Romulus and the Sabines",
+      "page_content": "Edoardo Anton wrote Il ratto delle sabine. Il ratto delle sabine stars Jean Marais. Il ratto delle sabine was directed by Richard Pottier. Il ratto delle sabine was written by Edoardo Anton. Il ratto delle sabine stars Roger Moore. Roger Moore starred in Il ratto delle sabine. Jean Marais starred in Il ratto delle sabine. Richard Pottier directed Il ratto delle sabine."
+    },
+    {
+      "chunk_id": "a5838c52-b1b8-4bb4-944b-4dde29988253",
+      "chunk_title": "Birth & Death Locations",
+      "chunk_summary": "This chunk contains information about the birth and death locations of individuals.",
+      "context_title": "Alastair Reid (director)",
+      "page_content": "Alastair Reid died in Stoke St Gregory, Somerset. Alastair Reid was born in Edinburgh."
+    },
+    {
+      "chunk_id": "94f06aa3-0cec-4597-819b-6865d69965c0",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date of death for individuals.",
+      "context_title": "Alastair Reid (director)",
+      "page_content": "Alastair Reid died on 17 August 2011."
+    },
+    {
+      "chunk_id": "dbc259c1-0359-4f55-8087-1d1b0050734d",
+      "chunk_title": "Alastair Reid's TV Career",
+      "chunk_summary": "This chunk contains information about the professional background and television directing credits of Alastair Reid, including specific series and episodes he directed.",
+      "context_title": "Alastair Reid (director)",
+      "page_content": "Alastair Reid's credits include the TV series \"Selling Hitler\". One of Alastair Reid's later works was directing the 1997 TV adaptation of \"Nostromo\". Alastair Reid's credits include the TV series \"Shout at the Devil\". Alastair Reid was a British television director. Alastair Reid directed episodes of \"Emergency-Ward 10\" in 1964. Alastair Reid's credits include the TV series \"Traffik\". Alastair Reid worked regularly in television for over thirty years. Alastair Reid directed episodes of \"Emergency-Ward 10\" for ATV. Alastair Reid's credits include the TV series \"Tales of the City\"."
+    },
+    {
+      "chunk_id": "8f49016d-8a32-4d11-87bd-718b92fac53f",
+      "chunk_title": "Education Background",
+      "chunk_summary": "This chunk contains information about the educational background and institutions attended by individuals, specifically focusing on Alastair Reid's studies in art and directing.",
+      "context_title": "Alastair Reid (director)",
+      "page_content": "Alastair Reid studied directing at the Bristol Old Vic Theatre School. Alastair Reid studied at Edinburgh College of Art."
+    },
+    {
+      "chunk_id": "dd25cb96-51b7-4149-bf66-512adae2487f",
+      "chunk_title": "Death Circumstances",
+      "chunk_summary": "This chunk contains information about the location and circumstances of a person's death.",
+      "context_title": "Tarsem King, Baron King of West Bromwich",
+      "page_content": "Tarsem King died at Euston station in London."
+    },
+    {
+      "chunk_id": "943cc08f-e4fd-4888-b317-17253f2d7e29",
+      "chunk_title": "Death Locations",
+      "chunk_summary": "This chunk contains information about the death locations of individuals.",
+      "context_title": "Robert Gordon (actor)",
+      "page_content": "Robert Gordon died in Victorville, California."
+    },
+    {
+      "chunk_id": "b4bc694b-5c3d-4b7e-be73-8c5aa71bea41",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Alastair Reid (director)",
+      "page_content": "Alastair Reid was born on 21 July 1939."
+    },
+    {
+      "chunk_id": "ad19facb-972c-4583-af53-2e6f003e1045",
+      "chunk_title": "French Commune Details",
+      "chunk_summary": "This chunk contains information about the location, administrative details, and historical significance of communes in France.",
+      "context_title": "Beaulieu-sur-Loire",
+      "page_content": "Beaulieu-sur-Loire is a commune in the Loiret department. Beaulieu-sur-Loire is the place of death of Jacques MacDonald. The Loiret department is in north-central France."
+    },
+    {
+      "chunk_id": "6844d276-8246-484e-9fe2-6150dbd36b5e",
+      "chunk_title": "Death Locations",
+      "chunk_summary": "This chunk contains information about the death locations of individuals.",
+      "context_title": "Henry Edwards (actor)",
+      "page_content": "Henry Edwards died in Chobham, Surrey."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.4,
+  "precision": 0.25,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3157894736842105,
+  "retrieval_count": 2,
+  "total_chunks": 19,
+  "total_distinct_titles": 15,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Where did the director of film What Rats Won'T Do die?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where did the director of film What Rats Won'T Do die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问电影《What Rats Won't Do》导演的死亡地点",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据为子节点推理链的聚合。子节点 N1_1（单来源，直接陈述 'What Rats Won't Do was directed by Alastair Reid'）和 N1_2（单来源，直接陈述 'Alastair Reid died in Stoke St Gregory, Somerset'）各自证据充分。但推理链存在结构问题：路径 N0→N1_2 中，N0 answer 为空，无法消解 N1_2 question 中的 'that person' 指代，该分解步骤语义不完整。",
+          "critic_normative_advice": "建议修正 DAG 结构——删除 N0→N1_2 的直接 decomposition 边。N1_2 的 question 含 'that person' 指代，必须经由 N1_1 的 answer 消解后才能成立。当前 N0→N1_2 边在语义上不成立（空 answer 无法消解 'that person'），导致推理链路径 1.2 断裂。保留 N0→N1_1 和 N1_1→N1_2 即可构成完整推理链。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film \"What Rats Won't Do\"?",
+          "answer": "Alastair Reid",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film \"What Rats Won't Do\"?",
+          "planner_rationale": "Q 询问的是某位导演的死亡地点，但首先需要确定这位导演是谁。这是回答 Q 的前置事实——必须先识别出导演身份，才能进一步搜索其死亡地点。",
+          "solver_judgment": "question 要求确认电影 \"What Rats Won't Do\" 的导演。search_query 直接搜索了该问题。chunks 返回了 chunk_0af63b19-cedf-4e3b-9d2b-562ae9d31b6c，其中明确记载 \"What Rats Won't Do was directed by Alastair Reid\"，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 What Rats Won't Do），单来源但直接、具体地陈述了答案。支撑 chunk [0af63b19] 全文包含 'What Rats Won't Do was directed by Alastair Reid'，与声称答案 'Alastair Reid' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and starring actors.",
+              "context_title": "What Rats Won't Do",
+              "page_content": "What Rats Won't Do is a 1998 British comedy film. What Rats Won't Do stars James Frain. What Rats Won't Do stars Natascha McElhone. What Rats Won't Do was directed by Alastair Reid."
+            },
+            {
+              "chunk_id": "f0c15d9f-5c0b-44e8-be51-3ff29ab7d6a7",
+              "chunk_title": "Deadly Eyes Film Details",
+              "chunk_summary": "This chunk contains information about the 1982 Canadian horror film \"Deadly Eyes,\" including its alternative titles, director, literary source material, and plot details.",
+              "context_title": "Deadly Eyes",
+              "page_content": "Deadly Eyes is also known as Rats. Deadly Eyes is very loosely based on the horror novel \"The Rats\". Robert Clouse directed Deadly Eyes. Deadly Eyes is also known as The Rats. Deadly Eyes is a 1982 Canadian horror film. James Herbert wrote the horror novel \"The Rats\". The giant black rats in Deadly Eyes ingested contaminated grain. Deadly Eyes is also known as Night Eyes. The giant black rats in Deadly Eyes began eating the residents of Toronto. The story of Deadly Eyes revolves around giant black rats."
+            },
+            {
+              "chunk_id": "23e92a3f-dbbf-4a40-8a19-65bdf2f81672",
+              "chunk_title": "Bollywood Films",
+              "chunk_summary": "This chunk contains information about Bollywood films, including their release years, genres, and directors.",
+              "context_title": "Rangila Ratan",
+              "page_content": "Rangila Ratan was directed by S. Ramanathan. Rangila Ratan is a 1976 Bollywood action film."
+            },
+            {
+              "chunk_id": "aa2cf07b-df0c-4117-a190-dfb4cc560a08",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "The Very Friendly Neighbors",
+              "page_content": "The Very Friendly Neighbors was directed by Albert Zugsmith."
+            },
+            {
+              "chunk_id": "aa917ef1-787e-42e3-9634-b993e1e9fbbf",
+              "chunk_title": "Film Directors & Works",
+              "chunk_summary": "This chunk contains information about film directors and their specific works or professional roles.",
+              "context_title": "Arthur Crabtree",
+              "page_content": "Arthur Crabtree was a film director. Arthur Crabtree directed several of the Gainsborough Melodramas."
+            },
+            {
+              "chunk_id": "9f5b305e-be2d-4555-9602-7d7b5d4f9a82",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1973 exploitation film \"Please Don't Eat My Mother,\" including its director, genre, and status as a parody.",
+              "context_title": "Please Don't Eat My Mother",
+              "page_content": "Please Don't Eat My Mother is an adult-themed parody. Please Don't Eat My Mother is a parody of Roger Corman's The Little Shop of Horrors. Please Don't Eat My Mother is a 1973 exploitation film. Carl J. Monson is a director. Please Don't Eat My Mother was directed by Carl J. Monson."
+            },
+            {
+              "chunk_id": "97c5febe-d5ea-4aff-974f-7fc602ae1f79",
+              "chunk_title": "Zombie Horror Films",
+              "chunk_summary": "This chunk contains information about zombie horror films, including their titles, release years, directors, and producers.",
+              "context_title": "The Quick and the Undead",
+              "page_content": "The Quick and the Undead was produced by Gerald Nott. The Quick and the Undead is a 2006 zombie horror film. The Quick and the Undead was directed by Gerald Nott."
+            },
+            {
+              "chunk_id": "4c41869a-ef28-4fdb-aac3-5eb000e4b8ab",
+              "chunk_title": "Film Producers",
+              "chunk_summary": "This chunk contains information about notable figures in the film industry, specifically focusing on producers and their contributions.",
+              "context_title": "Roger Corman's Operation Rogue",
+              "page_content": "Roger Corman is a legendary B-movie producer."
+            },
+            {
+              "chunk_id": "cbf67e5b-efde-41b5-a327-62fa06296f88",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Le Masque de la Méduse",
+              "page_content": "Jean Rollin was a director."
+            },
+            {
+              "chunk_id": "71bf035c-bccc-48b4-bc0a-047586e4cbb2",
+              "chunk_title": "Film Production Credits",
+              "chunk_summary": "This chunk contains information about the directors, writers, and cast of specific films.",
+              "context_title": "Romulus and the Sabines",
+              "page_content": "Edoardo Anton wrote Il ratto delle sabine. Il ratto delle sabine stars Jean Marais. Il ratto delle sabine was directed by Richard Pottier. Il ratto delle sabine was written by Edoardo Anton. Il ratto delle sabine stars Roger Moore. Roger Moore starred in Il ratto delle sabine. Jean Marais starred in Il ratto delle sabine. Richard Pottier directed Il ratto delle sabine."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where did that person die?",
+          "answer": "Stoke St Gregory, Somerset",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where did Alastair Reid die?",
+          "planner_rationale": "Q 的核心询问——导演的死亡地点。此节点的 question 中 'that person' 指代前一个节点（导演身份）的 answer，必须先确立导演是谁才能搜索其死亡地点。",
+          "solver_judgment": "question 要求确认 Alastair Reid 的去世地点。search_query 搜索了 'Where did Alastair Reid die?'。chunks 返回了 Alastair Reid 的生平信息，其中 chunk a5838c52-b1b8-4bb4-944b-4dde29988253 明确记载 'Alastair Reid died in Stoke St Gregory, Somerset.'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Alastair Reid (director)），单来源但直接、具体地陈述了答案。支撑 chunk [a5838c52] 全文包含 'Alastair Reid died in Stoke St Gregory, Somerset.'，与声称答案 'Stoke St Gregory, Somerset' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a5838c52-b1b8-4bb4-944b-4dde29988253"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a5838c52-b1b8-4bb4-944b-4dde29988253",
+              "chunk_title": "Birth & Death Locations",
+              "chunk_summary": "This chunk contains information about the birth and death locations of individuals.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid died in Stoke St Gregory, Somerset. Alastair Reid was born in Edinburgh."
+            },
+            {
+              "chunk_id": "94f06aa3-0cec-4597-819b-6865d69965c0",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date of death for individuals.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid died on 17 August 2011."
+            },
+            {
+              "chunk_id": "dbc259c1-0359-4f55-8087-1d1b0050734d",
+              "chunk_title": "Alastair Reid's TV Career",
+              "chunk_summary": "This chunk contains information about the professional background and television directing credits of Alastair Reid, including specific series and episodes he directed.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid's credits include the TV series \"Selling Hitler\". One of Alastair Reid's later works was directing the 1997 TV adaptation of \"Nostromo\". Alastair Reid's credits include the TV series \"Shout at the Devil\". Alastair Reid was a British television director. Alastair Reid directed episodes of \"Emergency-Ward 10\" in 1964. Alastair Reid's credits include the TV series \"Traffik\". Alastair Reid worked regularly in television for over thirty years. Alastair Reid directed episodes of \"Emergency-Ward 10\" for ATV. Alastair Reid's credits include the TV series \"Tales of the City\"."
+            },
+            {
+              "chunk_id": "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and starring actors.",
+              "context_title": "What Rats Won't Do",
+              "page_content": "What Rats Won't Do is a 1998 British comedy film. What Rats Won't Do stars James Frain. What Rats Won't Do stars Natascha McElhone. What Rats Won't Do was directed by Alastair Reid."
+            },
+            {
+              "chunk_id": "8f49016d-8a32-4d11-87bd-718b92fac53f",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about the educational background and institutions attended by individuals, specifically focusing on Alastair Reid's studies in art and directing.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid studied directing at the Bristol Old Vic Theatre School. Alastair Reid studied at Edinburgh College of Art."
+            },
+            {
+              "chunk_id": "dd25cb96-51b7-4149-bf66-512adae2487f",
+              "chunk_title": "Death Circumstances",
+              "chunk_summary": "This chunk contains information about the location and circumstances of a person's death.",
+              "context_title": "Tarsem King, Baron King of West Bromwich",
+              "page_content": "Tarsem King died at Euston station in London."
+            },
+            {
+              "chunk_id": "943cc08f-e4fd-4888-b317-17253f2d7e29",
+              "chunk_title": "Death Locations",
+              "chunk_summary": "This chunk contains information about the death locations of individuals.",
+              "context_title": "Robert Gordon (actor)",
+              "page_content": "Robert Gordon died in Victorville, California."
+            },
+            {
+              "chunk_id": "b4bc694b-5c3d-4b7e-be73-8c5aa71bea41",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid was born on 21 July 1939."
+            },
+            {
+              "chunk_id": "ad19facb-972c-4583-af53-2e6f003e1045",
+              "chunk_title": "French Commune Details",
+              "chunk_summary": "This chunk contains information about the location, administrative details, and historical significance of communes in France.",
+              "context_title": "Beaulieu-sur-Loire",
+              "page_content": "Beaulieu-sur-Loire is a commune in the Loiret department. Beaulieu-sur-Loire is the place of death of Jacques MacDonald. The Loiret department is in north-central France."
+            },
+            {
+              "chunk_id": "6844d276-8246-484e-9fe2-6150dbd36b5e",
+              "chunk_title": "Death Locations",
+              "chunk_summary": "This chunk contains information about the death locations of individuals.",
+              "context_title": "Henry Edwards (actor)",
+              "page_content": "Henry Edwards died in Chobham, Surrey."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Where did the director of film What Rats Won'T Do die?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where did the director of film What Rats Won'T Do die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问电影《What Rats Won't Do》导演的死亡地点",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据为子节点推理链的聚合。子节点 N1_1（单来源，文档 What Rats Won't Do，直接陈述 'What Rats Won't Do was directed by Alastair Reid'）和 N1_2（单来源，文档 Alastair Reid (director)，直接陈述 'Alastair Reid died in Stoke St Gregory, Somerset'）各自证据充分。推理链 N0→N1_1→N1_2 语义完整：N1_1 answer 'Alastair Reid' 消解了 N1_2 question 中 'that person' 的指代。交叉验证：不充分（各子节点均为单来源），但来源直接、具体、无歧义，推理链逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——推理链结构已修正（N0→N1_2 边已删除），当前 N0→N1_1→N1_2 路径语义完整。子节点证据充分，ROOT 可基于此合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film \"What Rats Won't Do\"?",
+          "answer": "Alastair Reid",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film \"What Rats Won't Do\"?",
+          "planner_rationale": "Q 询问的是某位导演的死亡地点，但首先需要确定这位导演是谁。这是回答 Q 的前置事实——必须先识别出导演身份，才能进一步搜索其死亡地点。",
+          "solver_judgment": "question 要求确认电影 \"What Rats Won't Do\" 的导演。search_query 直接搜索了该问题。chunks 返回了 chunk_0af63b19-cedf-4e3b-9d2b-562ae9d31b6c，其中明确记载 \"What Rats Won't Do was directed by Alastair Reid\"，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 What Rats Won't Do），单来源但直接、具体地陈述了答案。支撑 chunk [0af63b19] 全文包含 'What Rats Won't Do was directed by Alastair Reid'，与声称答案 'Alastair Reid' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and starring actors.",
+              "context_title": "What Rats Won't Do",
+              "page_content": "What Rats Won't Do is a 1998 British comedy film. What Rats Won't Do stars James Frain. What Rats Won't Do stars Natascha McElhone. What Rats Won't Do was directed by Alastair Reid."
+            },
+            {
+              "chunk_id": "f0c15d9f-5c0b-44e8-be51-3ff29ab7d6a7",
+              "chunk_title": "Deadly Eyes Film Details",
+              "chunk_summary": "This chunk contains information about the 1982 Canadian horror film \"Deadly Eyes,\" including its alternative titles, director, literary source material, and plot details.",
+              "context_title": "Deadly Eyes",
+              "page_content": "Deadly Eyes is also known as Rats. Deadly Eyes is very loosely based on the horror novel \"The Rats\". Robert Clouse directed Deadly Eyes. Deadly Eyes is also known as The Rats. Deadly Eyes is a 1982 Canadian horror film. James Herbert wrote the horror novel \"The Rats\". The giant black rats in Deadly Eyes ingested contaminated grain. Deadly Eyes is also known as Night Eyes. The giant black rats in Deadly Eyes began eating the residents of Toronto. The story of Deadly Eyes revolves around giant black rats."
+            },
+            {
+              "chunk_id": "23e92a3f-dbbf-4a40-8a19-65bdf2f81672",
+              "chunk_title": "Bollywood Films",
+              "chunk_summary": "This chunk contains information about Bollywood films, including their release years, genres, and directors.",
+              "context_title": "Rangila Ratan",
+              "page_content": "Rangila Ratan was directed by S. Ramanathan. Rangila Ratan is a 1976 Bollywood action film."
+            },
+            {
+              "chunk_id": "aa2cf07b-df0c-4117-a190-dfb4cc560a08",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "The Very Friendly Neighbors",
+              "page_content": "The Very Friendly Neighbors was directed by Albert Zugsmith."
+            },
+            {
+              "chunk_id": "aa917ef1-787e-42e3-9634-b993e1e9fbbf",
+              "chunk_title": "Film Directors & Works",
+              "chunk_summary": "This chunk contains information about film directors and their specific works or professional roles.",
+              "context_title": "Arthur Crabtree",
+              "page_content": "Arthur Crabtree was a film director. Arthur Crabtree directed several of the Gainsborough Melodramas."
+            },
+            {
+              "chunk_id": "9f5b305e-be2d-4555-9602-7d7b5d4f9a82",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1973 exploitation film \"Please Don't Eat My Mother,\" including its director, genre, and status as a parody.",
+              "context_title": "Please Don't Eat My Mother",
+              "page_content": "Please Don't Eat My Mother is an adult-themed parody. Please Don't Eat My Mother is a parody of Roger Corman's The Little Shop of Horrors. Please Don't Eat My Mother is a 1973 exploitation film. Carl J. Monson is a director. Please Don't Eat My Mother was directed by Carl J. Monson."
+            },
+            {
+              "chunk_id": "97c5febe-d5ea-4aff-974f-7fc602ae1f79",
+              "chunk_title": "Zombie Horror Films",
+              "chunk_summary": "This chunk contains information about zombie horror films, including their titles, release years, directors, and producers.",
+              "context_title": "The Quick and the Undead",
+              "page_content": "The Quick and the Undead was produced by Gerald Nott. The Quick and the Undead is a 2006 zombie horror film. The Quick and the Undead was directed by Gerald Nott."
+            },
+            {
+              "chunk_id": "4c41869a-ef28-4fdb-aac3-5eb000e4b8ab",
+              "chunk_title": "Film Producers",
+              "chunk_summary": "This chunk contains information about notable figures in the film industry, specifically focusing on producers and their contributions.",
+              "context_title": "Roger Corman's Operation Rogue",
+              "page_content": "Roger Corman is a legendary B-movie producer."
+            },
+            {
+              "chunk_id": "cbf67e5b-efde-41b5-a327-62fa06296f88",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Le Masque de la Méduse",
+              "page_content": "Jean Rollin was a director."
+            },
+            {
+              "chunk_id": "71bf035c-bccc-48b4-bc0a-047586e4cbb2",
+              "chunk_title": "Film Production Credits",
+              "chunk_summary": "This chunk contains information about the directors, writers, and cast of specific films.",
+              "context_title": "Romulus and the Sabines",
+              "page_content": "Edoardo Anton wrote Il ratto delle sabine. Il ratto delle sabine stars Jean Marais. Il ratto delle sabine was directed by Richard Pottier. Il ratto delle sabine was written by Edoardo Anton. Il ratto delle sabine stars Roger Moore. Roger Moore starred in Il ratto delle sabine. Jean Marais starred in Il ratto delle sabine. Richard Pottier directed Il ratto delle sabine."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where did that person die?",
+          "answer": "Stoke St Gregory, Somerset",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where did Alastair Reid die?",
+          "planner_rationale": "Q 的核心询问——导演的死亡地点。此节点的 question 中 'that person' 指代 N1_1 的 answer（导演姓名），必须经由 N1_1→N1_2 的 dependency 边注入消解后才能搜索。",
+          "solver_judgment": "question 要求确认 Alastair Reid 的去世地点。search_query 搜索了 'Where did Alastair Reid die?'。chunks 返回了 Alastair Reid 的生平信息，其中 chunk a5838c52-b1b8-4bb4-944b-4dde29988253 明确记载 'Alastair Reid died in Stoke St Gregory, Somerset.'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Alastair Reid (director)），单来源但直接、具体地陈述了答案。支撑 chunk [a5838c52] 全文包含 'Alastair Reid died in Stoke St Gregory, Somerset.'，与声称答案 'Stoke St Gregory, Somerset' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a5838c52-b1b8-4bb4-944b-4dde29988253"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a5838c52-b1b8-4bb4-944b-4dde29988253",
+              "chunk_title": "Birth & Death Locations",
+              "chunk_summary": "This chunk contains information about the birth and death locations of individuals.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid died in Stoke St Gregory, Somerset. Alastair Reid was born in Edinburgh."
+            },
+            {
+              "chunk_id": "94f06aa3-0cec-4597-819b-6865d69965c0",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date of death for individuals.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid died on 17 August 2011."
+            },
+            {
+              "chunk_id": "dbc259c1-0359-4f55-8087-1d1b0050734d",
+              "chunk_title": "Alastair Reid's TV Career",
+              "chunk_summary": "This chunk contains information about the professional background and television directing credits of Alastair Reid, including specific series and episodes he directed.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid's credits include the TV series \"Selling Hitler\". One of Alastair Reid's later works was directing the 1997 TV adaptation of \"Nostromo\". Alastair Reid's credits include the TV series \"Shout at the Devil\". Alastair Reid was a British television director. Alastair Reid directed episodes of \"Emergency-Ward 10\" in 1964. Alastair Reid's credits include the TV series \"Traffik\". Alastair Reid worked regularly in television for over thirty years. Alastair Reid directed episodes of \"Emergency-Ward 10\" for ATV. Alastair Reid's credits include the TV series \"Tales of the City\"."
+            },
+            {
+              "chunk_id": "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and starring actors.",
+              "context_title": "What Rats Won't Do",
+              "page_content": "What Rats Won't Do is a 1998 British comedy film. What Rats Won't Do stars James Frain. What Rats Won't Do stars Natascha McElhone. What Rats Won't Do was directed by Alastair Reid."
+            },
+            {
+              "chunk_id": "8f49016d-8a32-4d11-87bd-718b92fac53f",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about the educational background and institutions attended by individuals, specifically focusing on Alastair Reid's studies in art and directing.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid studied directing at the Bristol Old Vic Theatre School. Alastair Reid studied at Edinburgh College of Art."
+            },
+            {
+              "chunk_id": "dd25cb96-51b7-4149-bf66-512adae2487f",
+              "chunk_title": "Death Circumstances",
+              "chunk_summary": "This chunk contains information about the location and circumstances of a person's death.",
+              "context_title": "Tarsem King, Baron King of West Bromwich",
+              "page_content": "Tarsem King died at Euston station in London."
+            },
+            {
+              "chunk_id": "943cc08f-e4fd-4888-b317-17253f2d7e29",
+              "chunk_title": "Death Locations",
+              "chunk_summary": "This chunk contains information about the death locations of individuals.",
+              "context_title": "Robert Gordon (actor)",
+              "page_content": "Robert Gordon died in Victorville, California."
+            },
+            {
+              "chunk_id": "b4bc694b-5c3d-4b7e-be73-8c5aa71bea41",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid was born on 21 July 1939."
+            },
+            {
+              "chunk_id": "ad19facb-972c-4583-af53-2e6f003e1045",
+              "chunk_title": "French Commune Details",
+              "chunk_summary": "This chunk contains information about the location, administrative details, and historical significance of communes in France.",
+              "context_title": "Beaulieu-sur-Loire",
+              "page_content": "Beaulieu-sur-Loire is a commune in the Loiret department. Beaulieu-sur-Loire is the place of death of Jacques MacDonald. The Loiret department is in north-central France."
+            },
+            {
+              "chunk_id": "6844d276-8246-484e-9fe2-6150dbd36b5e",
+              "chunk_title": "Death Locations",
+              "chunk_summary": "This chunk contains information about the death locations of individuals.",
+              "context_title": "Henry Edwards (actor)",
+              "page_content": "Henry Edwards died in Chobham, Surrey."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Where did the director of film What Rats Won'T Do die?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where did the director of film What Rats Won'T Do die?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问电影《What Rats Won't Do》导演的死亡地点。子节点推理链 N0→N1_1→N1_2 语义完整，可基于子节点答案合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据为子节点推理链的聚合。子节点 N1_1（单来源，文档 What Rats Won't Do，直接陈述 'What Rats Won't Do was directed by Alastair Reid'）和 N1_2（单来源，文档 Alastair Reid (director)，直接陈述 'Alastair Reid died in Stoke St Gregory, Somerset'）各自证据充分。推理链 N0→N1_1→N1_2 语义完整：N1_1 answer 'Alastair Reid' 消解了 N1_2 question 中 'that person' 的指代。交叉验证：不充分（各子节点均为单来源），但来源直接、具体、无歧义，推理链逻辑自洽。",
+          "critic_normative_advice": "建议 INHERIT——推理链结构已修正（N0→N1_2 边已删除），当前 N0→N1_1→N1_2 路径语义完整。子节点证据充分，ROOT 可基于此合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film \"What Rats Won't Do\"?",
+          "answer": "Alastair Reid",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film \"What Rats Won't Do\"?",
+          "planner_rationale": "Q 询问的是某位导演的死亡地点，但首先需要确定这位导演是谁。这是回答 Q 的前置事实——必须先识别出导演身份，才能进一步搜索其死亡地点。已 SOLVED + healthy，证据充分（单来源直接陈述 'What Rats Won't Do was directed by Alastair Reid'）。",
+          "solver_judgment": "question 要求确认电影 \"What Rats Won't Do\" 的导演。search_query 直接搜索了该问题。chunks 返回了 chunk_0af63b19-cedf-4e3b-9d2b-562ae9d31b6c，其中明确记载 \"What Rats Won't Do was directed by Alastair Reid\"，直接且完整地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 What Rats Won't Do），单来源但直接、具体地陈述了答案。支撑 chunk [0af63b19] 全文包含 'What Rats Won't Do was directed by Alastair Reid'，与声称答案 'Alastair Reid' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and starring actors.",
+              "context_title": "What Rats Won't Do",
+              "page_content": "What Rats Won't Do is a 1998 British comedy film. What Rats Won't Do stars James Frain. What Rats Won't Do stars Natascha McElhone. What Rats Won't Do was directed by Alastair Reid."
+            },
+            {
+              "chunk_id": "f0c15d9f-5c0b-44e8-be51-3ff29ab7d6a7",
+              "chunk_title": "Deadly Eyes Film Details",
+              "chunk_summary": "This chunk contains information about the 1982 Canadian horror film \"Deadly Eyes,\" including its alternative titles, director, literary source material, and plot details.",
+              "context_title": "Deadly Eyes",
+              "page_content": "Deadly Eyes is also known as Rats. Deadly Eyes is very loosely based on the horror novel \"The Rats\". Robert Clouse directed Deadly Eyes. Deadly Eyes is also known as The Rats. Deadly Eyes is a 1982 Canadian horror film. James Herbert wrote the horror novel \"The Rats\". The giant black rats in Deadly Eyes ingested contaminated grain. Deadly Eyes is also known as Night Eyes. The giant black rats in Deadly Eyes began eating the residents of Toronto. The story of Deadly Eyes revolves around giant black rats."
+            },
+            {
+              "chunk_id": "23e92a3f-dbbf-4a40-8a19-65bdf2f81672",
+              "chunk_title": "Bollywood Films",
+              "chunk_summary": "This chunk contains information about Bollywood films, including their release years, genres, and directors.",
+              "context_title": "Rangila Ratan",
+              "page_content": "Rangila Ratan was directed by S. Ramanathan. Rangila Ratan is a 1976 Bollywood action film."
+            },
+            {
+              "chunk_id": "aa2cf07b-df0c-4117-a190-dfb4cc560a08",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "The Very Friendly Neighbors",
+              "page_content": "The Very Friendly Neighbors was directed by Albert Zugsmith."
+            },
+            {
+              "chunk_id": "aa917ef1-787e-42e3-9634-b993e1e9fbbf",
+              "chunk_title": "Film Directors & Works",
+              "chunk_summary": "This chunk contains information about film directors and their specific works or professional roles.",
+              "context_title": "Arthur Crabtree",
+              "page_content": "Arthur Crabtree was a film director. Arthur Crabtree directed several of the Gainsborough Melodramas."
+            },
+            {
+              "chunk_id": "9f5b305e-be2d-4555-9602-7d7b5d4f9a82",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1973 exploitation film \"Please Don't Eat My Mother,\" including its director, genre, and status as a parody.",
+              "context_title": "Please Don't Eat My Mother",
+              "page_content": "Please Don't Eat My Mother is an adult-themed parody. Please Don't Eat My Mother is a parody of Roger Corman's The Little Shop of Horrors. Please Don't Eat My Mother is a 1973 exploitation film. Carl J. Monson is a director. Please Don't Eat My Mother was directed by Carl J. Monson."
+            },
+            {
+              "chunk_id": "97c5febe-d5ea-4aff-974f-7fc602ae1f79",
+              "chunk_title": "Zombie Horror Films",
+              "chunk_summary": "This chunk contains information about zombie horror films, including their titles, release years, directors, and producers.",
+              "context_title": "The Quick and the Undead",
+              "page_content": "The Quick and the Undead was produced by Gerald Nott. The Quick and the Undead is a 2006 zombie horror film. The Quick and the Undead was directed by Gerald Nott."
+            },
+            {
+              "chunk_id": "4c41869a-ef28-4fdb-aac3-5eb000e4b8ab",
+              "chunk_title": "Film Producers",
+              "chunk_summary": "This chunk contains information about notable figures in the film industry, specifically focusing on producers and their contributions.",
+              "context_title": "Roger Corman's Operation Rogue",
+              "page_content": "Roger Corman is a legendary B-movie producer."
+            },
+            {
+              "chunk_id": "cbf67e5b-efde-41b5-a327-62fa06296f88",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Le Masque de la Méduse",
+              "page_content": "Jean Rollin was a director."
+            },
+            {
+              "chunk_id": "71bf035c-bccc-48b4-bc0a-047586e4cbb2",
+              "chunk_title": "Film Production Credits",
+              "chunk_summary": "This chunk contains information about the directors, writers, and cast of specific films.",
+              "context_title": "Romulus and the Sabines",
+              "page_content": "Edoardo Anton wrote Il ratto delle sabine. Il ratto delle sabine stars Jean Marais. Il ratto delle sabine was directed by Richard Pottier. Il ratto delle sabine was written by Edoardo Anton. Il ratto delle sabine stars Roger Moore. Roger Moore starred in Il ratto delle sabine. Jean Marais starred in Il ratto delle sabine. Richard Pottier directed Il ratto delle sabine."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where did that person die?",
+          "answer": "Stoke St Gregory, Somerset",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where did Alastair Reid die?",
+          "planner_rationale": "Q 的核心询问——导演的死亡地点。此节点的 question 中 'that person' 指代 N1_1 的 answer（导演姓名），必须经由 N1_1→N1_2 的 dependency 边注入消解后才能搜索。已 SOLVED + healthy，证据充分（单来源直接陈述 'Alastair Reid died in Stoke St Gregory, Somerset'）。",
+          "solver_judgment": "question 要求确认 Alastair Reid 的去世地点。search_query 搜索了 'Where did Alastair Reid die?'。chunks 返回了 Alastair Reid 的生平信息，其中 chunk a5838c52-b1b8-4bb4-944b-4dde29988253 明确记载 'Alastair Reid died in Stoke St Gregory, Somerset.'，直接回答了 question。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Alastair Reid (director)），单来源但直接、具体地陈述了答案。支撑 chunk [a5838c52] 全文包含 'Alastair Reid died in Stoke St Gregory, Somerset.'，与声称答案 'Stoke St Gregory, Somerset' 逐字匹配。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a5838c52-b1b8-4bb4-944b-4dde29988253"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a5838c52-b1b8-4bb4-944b-4dde29988253",
+              "chunk_title": "Birth & Death Locations",
+              "chunk_summary": "This chunk contains information about the birth and death locations of individuals.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid died in Stoke St Gregory, Somerset. Alastair Reid was born in Edinburgh."
+            },
+            {
+              "chunk_id": "94f06aa3-0cec-4597-819b-6865d69965c0",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the date of death for individuals.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid died on 17 August 2011."
+            },
+            {
+              "chunk_id": "dbc259c1-0359-4f55-8087-1d1b0050734d",
+              "chunk_title": "Alastair Reid's TV Career",
+              "chunk_summary": "This chunk contains information about the professional background and television directing credits of Alastair Reid, including specific series and episodes he directed.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid's credits include the TV series \"Selling Hitler\". One of Alastair Reid's later works was directing the 1997 TV adaptation of \"Nostromo\". Alastair Reid's credits include the TV series \"Shout at the Devil\". Alastair Reid was a British television director. Alastair Reid directed episodes of \"Emergency-Ward 10\" in 1964. Alastair Reid's credits include the TV series \"Traffik\". Alastair Reid worked regularly in television for over thirty years. Alastair Reid directed episodes of \"Emergency-Ward 10\" for ATV. Alastair Reid's credits include the TV series \"Tales of the City\"."
+            },
+            {
+              "chunk_id": "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, directors, and starring actors.",
+              "context_title": "What Rats Won't Do",
+              "page_content": "What Rats Won't Do is a 1998 British comedy film. What Rats Won't Do stars James Frain. What Rats Won't Do stars Natascha McElhone. What Rats Won't Do was directed by Alastair Reid."
+            },
+            {
+              "chunk_id": "8f49016d-8a32-4d11-87bd-718b92fac53f",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about the educational background and institutions attended by individuals, specifically focusing on Alastair Reid's studies in art and directing.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid studied directing at the Bristol Old Vic Theatre School. Alastair Reid studied at Edinburgh College of Art."
+            },
+            {
+              "chunk_id": "dd25cb96-51b7-4149-bf66-512adae2487f",
+              "chunk_title": "Death Circumstances",
+              "chunk_summary": "This chunk contains information about the location and circumstances of a person's death.",
+              "context_title": "Tarsem King, Baron King of West Bromwich",
+              "page_content": "Tarsem King died at Euston station in London."
+            },
+            {
+              "chunk_id": "943cc08f-e4fd-4888-b317-17253f2d7e29",
+              "chunk_title": "Death Locations",
+              "chunk_summary": "This chunk contains information about the death locations of individuals.",
+              "context_title": "Robert Gordon (actor)",
+              "page_content": "Robert Gordon died in Victorville, California."
+            },
+            {
+              "chunk_id": "b4bc694b-5c3d-4b7e-be73-8c5aa71bea41",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Alastair Reid (director)",
+              "page_content": "Alastair Reid was born on 21 July 1939."
+            },
+            {
+              "chunk_id": "ad19facb-972c-4583-af53-2e6f003e1045",
+              "chunk_title": "French Commune Details",
+              "chunk_summary": "This chunk contains information about the location, administrative details, and historical significance of communes in France.",
+              "context_title": "Beaulieu-sur-Loire",
+              "page_content": "Beaulieu-sur-Loire is a commune in the Loiret department. Beaulieu-sur-Loire is the place of death of Jacques MacDonald. The Loiret department is in north-central France."
+            },
+            {
+              "chunk_id": "6844d276-8246-484e-9fe2-6150dbd36b5e",
+              "chunk_title": "Death Locations",
+              "chunk_summary": "This chunk contains information about the death locations of individuals.",
+              "context_title": "Henry Edwards (actor)",
+              "page_content": "Henry Edwards died in Chobham, Surrey."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who directed the film \"What Rats Won't Do\"?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c",
+        "f0c15d9f-5c0b-44e8-be51-3ff29ab7d6a7",
+        "23e92a3f-dbbf-4a40-8a19-65bdf2f81672",
+        "aa2cf07b-df0c-4117-a190-dfb4cc560a08",
+        "aa917ef1-787e-42e3-9634-b993e1e9fbbf",
+        "9f5b305e-be2d-4555-9602-7d7b5d4f9a82",
+        "97c5febe-d5ea-4aff-974f-7fc602ae1f79",
+        "4c41869a-ef28-4fdb-aac3-5eb000e4b8ab",
+        "cbf67e5b-efde-41b5-a327-62fa06296f88",
+        "71bf035c-bccc-48b4-bc0a-047586e4cbb2"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Where did Alastair Reid die?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "a5838c52-b1b8-4bb4-944b-4dde29988253",
+        "94f06aa3-0cec-4597-819b-6865d69965c0",
+        "dbc259c1-0359-4f55-8087-1d1b0050734d",
+        "0af63b19-cedf-4e3b-9d2b-562ae9d31b6c",
+        "8f49016d-8a32-4d11-87bd-718b92fac53f",
+        "dd25cb96-51b7-4149-bf66-512adae2487f",
+        "943cc08f-e4fd-4888-b317-17253f2d7e29",
+        "b4bc694b-5c3d-4b7e-be73-8c5aa71bea41",
+        "ad19facb-972c-4583-af53-2e6f003e1045",
+        "6844d276-8246-484e-9fe2-6150dbd36b5e"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed the film \"What Rats Won't Do\"?（理由：Q 询问的是某位导演的死亡地点，但导演身份未知，必须先识别出具体是谁），F2: Where did that person die?（理由：Q 的核心询问——该导演的死亡地点）。关系: F1 是 Q 的分解产物（decomposition——识别导演是回答 Q 的必要子事实），F2 是 Q 的分解产物（decomposition——死亡地点是 Q 的直接答案），F1 是 F2 的前置条件（dependency——F2 的 question 中 'that person' 指代 F1 的 answer，不注入导演姓名就无法构造有意义的搜索查询）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是一个典型的'先识别实体、再查询属性'的两步问题。第一步识别电影导演（$1），第二步查询该导演的死亡地点（$2）。$1→$2 设为 dependency 边，因为 $2 的 question 含指代词 'that person'，必须用 $1 的 answer（导演姓名）消解后才能搜索。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": false,
+        "reason": "条件②未通过：路径 1.2（N0→N1_2）中，N0 answer 为空，无法消解 N1_2 question 中的 'that person' 指代，该 dependency 步骤语义断裂。条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification，因其推理链包含无效的 N0→N1_2 路径。阻碍条件：DAG 结构存在冗余且语义无效的边 N0→N"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed the film \"What Rats Won't Do\"?（理由：Q 询问的是某位导演的死亡地点，但导演身份未知，必须先识别出具体是谁），F2: Where did that person die?（理由：Q 的核心询问——该导演的死亡地点）。关系: F1 是 Q 的分解产物（decomposition——识别导演是回答 Q 的必要子事实），F1 是 F2 的前置条件（dependency——F2 的 question 中 'that person' 指代 F1 的 answer，不注入导演姓名就无法构造有意义的搜索查询）。修正后的推理链为 N0→N1_1→N1_2，语义完整。",
+      "hypothesis_delta": "删除边: N0→N1_2（decomposition），原因：Critic 指出该边语义无效——N0 answer 为空，无法消解 N1_2 question 中的 'that person' 指代。N1_2 已通过 N1_1→N1_2 的 dependency 边可达，N0→N1_2 不仅冗余且导致推理链路径断裂。保留 N0→N1_1（decomposition）和 N1_1→N1_2（dependency）即可构成完整推理链。N1_1 和 N1_2 均 INHERIT——两者均已 SOLVED + healthy，证据充分（各有一个直接陈述答案的支撑 chunk），无需重搜。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（删除边 N0→N1_2）。虽然条件①（所有非根节点 SOLVED）、条件②（推理链 N0→N1_1→N1_2 语义完整，N1_1 answer 消解 N1_2 指代）、条件③（全部节点 healthy）均已满足，但条件④要求拓扑稳定，本轮有边删除操作，需等待下一轮确认拓扑不再变化后方可终止。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed the film \"What Rats Won't Do\"?（理由：Q 询问的是某位导演的死亡地点，但导演身份未知，必须先识别出具体是谁），F2: Where did that person die?（理由：Q 的核心询问——该导演的死亡地点）。关系: F1 是 Q 的分解产物（decomposition——识别导演是回答 Q 的必要子事实），F1 是 F2 的前置条件（dependency——F2 的 question 中 'that person' 指代 F1 的 answer，不注入导演姓名就无法构造有意义的搜索查询）。当前 DAG 结构 N0→N1_1→N1_2 已完整覆盖 Q 的语义需求，推理链语义完整，无需结构调整。",
+      "hypothesis_delta": "本轮无结构变更——所有节点均 INHERIT，所有边均通过 LINK 显式保留。原因：Critic 确认 N1_1 和 N1_2 均已 SOLVED + healthy，证据充分（各有一个直接陈述答案的支撑 chunk，逐字匹配），推理链 N0→N1_1→N1_2 语义完整。上一轮删除 N0→N1_2 边的修正已被验证为正确，当前拓扑稳定。Critic 指出\"下轮若拓扑无变化（条件④通过），即可终止\"，故本轮保持结构不变，等待收敛条件满足。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件②和③已通过：推理链 N0→N1_1→N1_2 语义完整（N1_1 answer 'Alastair Reid' 消解 N1_2 'that person' 指代），所有节点（含 ROOT）均为 healthy。但条件④尚未完全满足——§5 明确指出'这是首次出现拓扑不变（即上一轮有变化），本轮通过不意味着条件④已满足——还需下一轮确认'。条件④要求连续 2 轮拓扑快照相同，当前仅完成第 1 "
+      }
+    }
+  ]
+}

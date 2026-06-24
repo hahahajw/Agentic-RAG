@@ -1,0 +1,422 @@
+{
+  "question_index": 442,
+  "question_id": "2a78f9e9084b11ebbd56ac1f6bf848b6",
+  "question": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+  "answer": "yes",
+  "prediction": "yes",
+  "error": null,
+  "latency_ms": 102930.03940000199,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T22:14:32.872301+00:00",
+  "chunks": [
+    {
+      "chunk_id": "3e7a9f73-bdfb-4676-8c1b-da613a55d66d",
+      "chunk_title": "Water Aerodrome Locations",
+      "chunk_summary": "This chunk contains information about the location of water aerodromes.",
+      "context_title": "Pender Harbour Water Aerodrome",
+      "page_content": "Pender Harbour Water Aerodrome is located adjacent to Pender Harbour."
+    },
+    {
+      "chunk_id": "ff709abf-8751-417d-a7a4-2d5f2be44800",
+      "chunk_title": "Water Aerodrome Locations",
+      "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+      "context_title": "Tofino Harbour Water Aerodrome",
+      "page_content": "Tofino Harbour Water Aerodrome is located in Tofino Harbour."
+    },
+    {
+      "chunk_id": "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of places.",
+      "context_title": "Pender Harbour Water Aerodrome",
+      "page_content": "Pender Harbour is in British Columbia, Canada."
+    },
+    {
+      "chunk_id": "9abfc5ab-af0f-41d4-a06c-646132950295",
+      "chunk_title": "Water Aerodrome Locations",
+      "chunk_summary": "This chunk contains information about the locations of water aerodromes.",
+      "context_title": "Coal Harbour Water Aerodrome",
+      "page_content": "Coal Harbour Water Aerodrome is located at the village of Coal Harbour."
+    },
+    {
+      "chunk_id": "d1b9bfbe-fe66-4bc6-8c15-a5f8cd05853a",
+      "chunk_title": "Airports & Locations",
+      "chunk_summary": "This chunk contains information about specific airports, including their classifications and locations.",
+      "context_title": "Bamfield Water Aerodrome",
+      "page_content": "Bamfield Water Aerodrome is located adjacent to Bamfield, British Columbia, Canada. Bamfield Water Aerodrome is an airport."
+    },
+    {
+      "chunk_id": "69dca379-3396-4a56-a5c3-bced48058ce0",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of villages.",
+      "context_title": "Coal Harbour Water Aerodrome",
+      "page_content": "The village of Coal Harbour is in British Columbia."
+    },
+    {
+      "chunk_id": "7c777d74-fd97-4e55-a7f3-bc6ac2f3925e",
+      "chunk_title": "Geographical Location",
+      "chunk_summary": "This chunk contains information about the geographical location of Tofino Harbour relative to Tofino, British Columbia.",
+      "context_title": "Tofino Harbour Water Aerodrome",
+      "page_content": "Tofino Harbour is adjacent to Tofino, British Columbia, Canada."
+    },
+    {
+      "chunk_id": "fda53df0-6a4f-479d-8074-7823f4ddac10",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of places.",
+      "context_title": "Finnbjörn Þorvaldsson",
+      "page_content": "Hnífsdalur is located in the Westfjords."
+    },
+    {
+      "chunk_id": "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+      "chunk_title": "Airport Locations",
+      "chunk_summary": "This chunk contains information about the location of airports.",
+      "context_title": "Kangiqsujuaq (Wakeham Bay) Airport",
+      "page_content": "Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada."
+    },
+    {
+      "chunk_id": "7b2dc20c-58a6-409c-88be-510bee6492a8",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of places.",
+      "context_title": "Kangiqsujuaq (Wakeham Bay) Airport",
+      "page_content": "Kangiqsujuaq is located in Quebec, Canada."
+    },
+    {
+      "chunk_id": "92329046-8141-46e9-a629-628fe83410b9",
+      "chunk_title": "Put-in-Bay Airport Operations",
+      "chunk_summary": "This chunk contains information about Put-in-Bay Airport's location, approach challenges due to geographical landmarks and regulations, and expected weather conditions.",
+      "context_title": "Put-in-Bay Airport",
+      "page_content": "Perry's Victory and International Peace Memorial is almost exactly in line with Runway 21 at Put-in-Bay Airport. Put-in-Bay Airport is located in the center of the southern half of South Bass Island. Put-in-Bay Airport is located in Put-in-Bay. Pilots must remain at least 1000 feet from Perry's monument. Perry's monument is located 1.5 miles northeast of Put-in-Bay Airport. The approach to Runway 21 at Put-in-Bay Airport is complicated by Perry's Victory and International Peace Memorial. Light turbulence may be expected on approach to Put-in-Bay Airport when winds exceed 10 knots."
+    },
+    {
+      "chunk_id": "5ab3cb2d-2b84-4156-9e3d-f8ed5688ce80",
+      "chunk_title": "Airports",
+      "chunk_summary": "This chunk contains information about airports, including their names, classifications, and locations.",
+      "context_title": "South West Bay Airport",
+      "page_content": "South West Bay Airport is an airport. South West Bay Airport is in Southwest Bay, Vanuatu."
+    },
+    {
+      "chunk_id": "119e69e9-3e58-4998-aa20-e9c69acd43cf",
+      "chunk_title": "Airports",
+      "chunk_summary": "This chunk contains information about airports, including their names, classifications, and geographical locations.",
+      "context_title": "Streaky Bay Airport",
+      "page_content": "Streaky Bay Airport is an airport. Streaky Bay Airport is located southeast of Streaky Bay."
+    },
+    {
+      "chunk_id": "2449a331-bf0d-47c0-9623-354f277fa354",
+      "chunk_title": "Airport Classification & Hours",
+      "chunk_summary": "This chunk contains information about the classification and operational hours of Put-in-Bay Airport.",
+      "context_title": "Put-in-Bay Airport",
+      "page_content": "Put-in-Bay Airport is a public airport. Put-in-Bay Airport is open from dawn to dusk. There are no departures from Put-in-Bay Airport after dusk. Put-in-Bay Airport is open year-round for arrivals and departures."
+    },
+    {
+      "chunk_id": "8776b852-3b93-44cf-a237-8512397c236b",
+      "chunk_title": "Airport Ownership & Use",
+      "chunk_summary": "This chunk contains information about the ownership and public use status of airports.",
+      "context_title": "Scammon Bay Airport",
+      "page_content": "Scammon Bay Airport is a state-owned public-use airport."
+    },
+    {
+      "chunk_id": "5aa90aa7-93f3-4f3e-86e5-3832d20e643c",
+      "chunk_title": "Fuel Services",
+      "chunk_summary": "This chunk contains information about the availability of fuel services at various airports.",
+      "context_title": "Put-in-Bay Airport",
+      "page_content": "Fuel may be purchased at Erie-Ottawa Regional Airport. There is no fuel service at Put-in-Bay Airport."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.25,
+  "retrieval_count": 2,
+  "total_chunks": 16,
+  "total_distinct_titles": 10,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立两个机场是否位于同一国家",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 和 N1_2 均已 solved 且答案均为 'Canada'。推理链完整：两个独立实体均被确认位于加拿大，因此它们位于同一国家。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，逻辑闭环已完成，可直接生成最终答案 'Yes'。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which country is Pender Harbour Water Aerodrome located?",
+          "answer": "Canada",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Pender Harbour Water Aerodrome located?",
+          "planner_rationale": "Q 询问两个地点是否在同一国家，必须首先确定 Pender Harbour Water Aerodrome 所在的国家",
+          "solver_judgment": "question 要求确定 Pender Harbour Water Aerodrome 所在的国家。search_query 直接搜索了该水上飞机基地所在的国家。chunks 中，chunk 3e7a9f73-bdfb-4676-8c1b-da613a55d66d 指出 \"Pender Harbour Water Aerodrome is located adjacent to Pender Harbour\"，建立了水上飞机基地与 Pender Harbour 的位置关系；chunk 3ad858d9-41f8-46a4-ab5e-85b0770cdad9 指出 \"Pender Harbour is in British Columbia, Canada\"，明确了 Pender Harbour 位于加拿大。通过这两个 chunk 的逻辑串联，可以得出 Pender Harbour Water Aerodrome 位于加拿大。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk 来自同一文档 'Pender Harbour Water Aerodrome'（非独立来源），但逻辑链条清晰且具体：Chunk 1 将水上飞机基地定位到 Pender Harbour，Chunk 2 将 Pender Harbour 定位到 British Columbia, Canada。虽然来源单一，但陈述直接、具体且无矛盾，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据虽为单来源但逻辑严密，答案 'Canada' 可靠。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which country is Kangiqsujuaq (Wakeham Bay) Airport located?",
+          "answer": "Canada",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Kangiqsujuaq (Wakeham Bay) Airport located?",
+          "planner_rationale": "Q 询问两个地点是否在同一国家，必须首先确定 Kangiqsujuaq (Wakeham Bay) Airport 所在的国家",
+          "solver_judgment": "question 要求确认 Kangiqsujuaq (Wakeham Bay) Airport 所在的国家。search_query 直接搜索了该机场所在的国家。chunks 返回了相关信息，其中 chunk 7c8cfd51-bf38-444f-aaf8-bfb7abd319b8 明确记载 \"Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada.\"，直接指出了该机场位于加拿大。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk 来自文档 'Kangiqsujuaq (Wakeham Bay) Airport'。Chunk 全文直接陈述 'Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada.'。单来源直接具体陈述，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接明确，答案 'Canada' 可靠。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 solved 且答案均为 'Canada'，逻辑闭环已完成，可直接生成最终答案 'Yes'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 和 N1_2 均已 solved 且答案均为 'Canada'。推理链完整：两个独立实体均被确认位于加拿大，因此它们位于同一国家。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，逻辑闭环已完成，可直接生成最终答案 'Yes'。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which country is Pender Harbour Water Aerodrome located?",
+          "answer": "Canada",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Pender Harbour Water Aerodrome located?",
+          "planner_rationale": "已确立 Pender Harbour Water Aerodrome 位于 Canada。证据链清晰（Pender Harbour -> British Columbia, Canada），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确定 Pender Harbour Water Aerodrome 所在的国家。search_query 直接搜索了该水上飞机基地所在的国家。chunks 中，chunk 3e7a9f73-bdfb-4676-8c1b-da613a55d66d 指出 \"Pender Harbour Water Aerodrome is located adjacent to Pender Harbour\"，建立了水上飞机基地与 Pender Harbour 的位置关系；chunk 3ad858d9-41f8-46a4-ab5e-85b0770cdad9 指出 \"Pender Harbour is in British Columbia, Canada\"，明确了 Pender Harbour 位于加拿大。通过这两个 chunk 的逻辑串联，可以得出 Pender Harbour Water Aerodrome 位于加拿大。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk 来自同一文档 'Pender Harbour Water Aerodrome'（非独立来源），但逻辑链条清晰且具体：Chunk 1 将水上飞机基地定位到 Pender Harbour，Chunk 2 将 Pender Harbour 定位到 British Columbia, Canada。虽然来源单一，但陈述直接、具体且无矛盾，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据虽为单来源但逻辑严密，答案 'Canada' 可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which country is Kangiqsujuaq (Wakeham Bay) Airport located?",
+          "answer": "Canada",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Kangiqsujuaq (Wakeham Bay) Airport located?",
+          "planner_rationale": "已确立 Kangiqsujuaq (Wakeham Bay) Airport 位于 Canada。证据直接明确（Quebec, Canada），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认 Kangiqsujuaq (Wakeham Bay) Airport 所在的国家。search_query 直接搜索了该机场所在的国家。chunks 返回了相关信息，其中 chunk 7c8cfd51-bf38-444f-aaf8-bfb7abd319b8 明确记载 \"Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada.\"，直接指出了该机场位于加拿大。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk 来自文档 'Kangiqsujuaq (Wakeham Bay) Airport'。Chunk 全文直接陈述 'Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada.'。单来源直接具体陈述，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接明确，答案 'Canada' 可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both Pender Harbour Water Aerodrome and Kangiqsujuaq (Wakeham Bay) Airport located in the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 solved 且答案均为 'Canada'，逻辑闭环已完成，可直接生成最终答案 'Yes'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 和 N1_2 均已 solved 且答案均为 'Canada'。推理链完整：两个独立实体均被确认位于加拿大，因此它们位于同一国家。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，逻辑闭环已完成，可直接生成最终答案 'Yes'。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which country is Pender Harbour Water Aerodrome located?",
+          "answer": "Canada",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Pender Harbour Water Aerodrome located?",
+          "planner_rationale": "已确立 Pender Harbour Water Aerodrome 位于 Canada。证据链清晰（Pender Harbour -> British Columbia, Canada），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确定 Pender Harbour Water Aerodrome 所在的国家。search_query 直接搜索了该水上飞机基地所在的国家。chunks 中，chunk 3e7a9f73-bdfb-4676-8c1b-da613a55d66d 指出 \"Pender Harbour Water Aerodrome is located adjacent to Pender Harbour\"，建立了水上飞机基地与 Pender Harbour 的位置关系；chunk 3ad858d9-41f8-46a4-ab5e-85b0770cdad9 指出 \"Pender Harbour is in British Columbia, Canada\"，明确了 Pender Harbour 位于加拿大。通过这两个 chunk 的逻辑串联，可以得出 Pender Harbour Water Aerodrome 位于加拿大。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑 chunk 来自同一文档 'Pender Harbour Water Aerodrome'（非独立来源），但逻辑链条清晰且具体：Chunk 1 (3e7a9f73) 将水上飞机基地定位到 Pender Harbour，Chunk 2 (3ad858d9) 将 Pender Harbour 定位到 British Columbia, Canada。虽然来源单一，但陈述直接、具体且无矛盾，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据虽为单来源但逻辑严密，答案 'Canada' 可靠。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "In which country is Kangiqsujuaq (Wakeham Bay) Airport located?",
+          "answer": "Canada",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which country is Kangiqsujuaq (Wakeham Bay) Airport located?",
+          "planner_rationale": "已确立 Kangiqsujuaq (Wakeham Bay) Airport 位于 Canada。证据直接明确（Quebec, Canada），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认 Kangiqsujuaq (Wakeham Bay) Airport 所在的国家。search_query 直接搜索了该机场所在的国家。chunks 返回了相关信息，其中 chunk 7c8cfd51-bf38-444f-aaf8-bfb7abd319b8 明确记载 \"Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada.\"，直接指出了该机场位于加拿大。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk 来自文档 'Kangiqsujuaq (Wakeham Bay) Airport'。Chunk 全文 (7c8cfd51) 直接陈述 'Kangiqsujuaq (Wakeham Bay) Airport is located southeast of Kangiqsujuaq, Quebec, Canada.'。单来源直接具体陈述，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接明确，答案 'Canada' 可靠。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "In which country is Pender Harbour Water Aerodrome located?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "3e7a9f73-bdfb-4676-8c1b-da613a55d66d",
+        "ff709abf-8751-417d-a7a4-2d5f2be44800",
+        "3ad858d9-41f8-46a4-ab5e-85b0770cdad9",
+        "9abfc5ab-af0f-41d4-a06c-646132950295",
+        "d1b9bfbe-fe66-4bc6-8c15-a5f8cd05853a",
+        "69dca379-3396-4a56-a5c3-bced48058ce0",
+        "7c777d74-fd97-4e55-a7f3-bc6ac2f3925e",
+        "fda53df0-6a4f-479d-8074-7823f4ddac10"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "In which country is Kangiqsujuaq (Wakeham Bay) Airport located?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "7c8cfd51-bf38-444f-aaf8-bfb7abd319b8",
+        "7b2dc20c-58a6-409c-88be-510bee6492a8",
+        "92329046-8141-46e9-a629-628fe83410b9",
+        "5ab3cb2d-2b84-4156-9e3d-f8ed5688ce80",
+        "119e69e9-3e58-4998-aa20-e9c69acd43cf",
+        "2449a331-bf0d-47c0-9623-354f277fa354",
+        "8776b852-3b93-44cf-a237-8512397c236b",
+        "5aa90aa7-93f3-4f3e-86e5-3832d20e643c"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Pender Harbour Water Aerodrome 位于哪个国家？（理由：比较两个地点是否同属一国，需先知道第一个地点的归属），F2: Kangiqsujuaq (Wakeham Bay) Airport 位于哪个国家？（理由：比较两个地点是否同属一国，需先知道第二个地点的归属）。关系: F1 和 F2 都是 Q (N0) 的直接分解产物（decomposition）。一旦 F1 和 F2 都得到解答，就可以通过比较两者的答案来判断它们是否位于同一国家，从而回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将“是否在同一国家”的比较问题分解为两个独立的“位于哪个国家”的事实查询。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 和 N1_2 的答案均消解了 N0 的比较需求）；③ 所有节点（含 ROOT）审查结果为 healthy；④ 首轮无拓扑变化阻碍。DAG 结构完整，证据充分，可终止并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Pender Harbour Water Aerodrome 位于哪个国家？（已确立：Canada），F2: Kangiqsujuaq (Wakeham Bay) Airport 位于哪个国家？（已确立：Canada）。关系: F1 和 F2 都是 Q (N0) 的直接分解产物（decomposition）。由于 F1 和 F2 的答案相同（均为 Canada），Q 的答案为 Yes。当前 DAG 结构已完整覆盖 Q 的语义需求，所有子节点均已 solved 且 healthy，无需新增节点或调整边。",
+      "hypothesis_delta": "本轮无结构调整。所有节点（N0, N1_1, N1_2）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2）均通过 LINK 显式声明保留。原因：Critic 确认 N1_1 和 N1_2 均已 solved 且 health=healthy，证据充分且一致，逻辑闭环已完成。上一轮的目标状态（确立两个机场的国家归属）已完全实现，无需新增、删除或换标任何节点或边。修正说明：上一轮输出遗漏了对现有边的显式 LINK 声明，本轮已补全。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，答案聚合支持 ROOT 推理）；③ 所有节点（含 ROOT）health 均为 healthy；④ 拓扑连续两轮无变化。置信度高，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Pender Harbour Water Aerodrome 位于哪个国家？（已确立：Canada），F2: Kangiqsujuaq (Wakeham Bay) Airport 位于哪个国家？（已确立：Canada）。关系: F1 和 F2 都是 Q (N0) 的直接分解产物（decomposition）。由于 F1 和 F2 的答案相同（均为 Canada），Q 的答案为 Yes。当前 DAG 结构已完整覆盖 Q 的语义需求，所有子节点均已 solved 且 healthy，无需新增节点或调整边。",
+      "hypothesis_delta": "本轮无结构调整。所有节点（N0, N1_1, N1_2）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2）均通过 LINK 显式声明保留。原因：Critic 确认 N1_1 和 N1_2 均已 solved 且 health=healthy，证据充分且一致，逻辑闭环已完成。上一轮的目标状态（确立两个机场的国家归属）已完全实现，无需新增、删除或换标任何节点或边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，两者答案一致支持 N0）；③ 所有节点（含 ROOT）健康状态为 healthy；④ 拓扑连续两轮无变化。置信度高，可生成最终答案。"
+      }
+    }
+  ]
+}

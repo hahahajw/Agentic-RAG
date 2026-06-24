@@ -151,6 +151,20 @@ class EmbeddingState:
         """强制写入磁盘，无视 save_interval"""
         self.save(propositions)
 
+    def load_stream(self):
+        """流式加载状态文件，逐个产出命题记录（适用于超大文件，O(1) 内存）
+
+        使用 ijson 流式解析 JSON 数组，每次仅在内存中保留一条记录。
+        适用于嵌入文件过大（>1 GB）无法一次性 json.load() 的场景。
+        """
+        import ijson
+
+        if not self.filepath.exists():
+            return
+
+        with open(self.filepath, "r", encoding="utf-8") as f:
+            yield from ijson.items(f, "item")
+
 
 # ── 数据展平 ─────────────────────────────────────────────────
 
@@ -401,6 +415,64 @@ class DataInserter:
             "skipped_pending": len(pending),
         }
 
+    def insert_from_stream(self, record_iterator) -> Dict[str, int]:
+        """从记录迭代器流式插入 Milvus（适用于超大嵌入文件恢复场景）
+
+        逐条读取记录，筛选 embedding_state=="success" 的条目，
+        攒批 upsert。内存占用仅为一个 batch 的大小（约 20 MB）。
+
+        Returns:
+            {"upserted": N, "skipped_failed": N, "skipped_pending": N}
+        """
+        client = _get_client()
+
+        milvus_fields = [
+            "id", "chunk_id", "question_id", "context_index", "context_title",
+            "chunk_title", "chunk_summary", "proposition_text", "embedding",
+        ]
+
+        batch = []
+        upserted = 0
+        skipped_failed = 0
+        skipped_pending = 0
+        scanned = 0
+
+        for p in record_iterator:
+            scanned += 1
+            state = p.get("embedding_state")
+            if state != "success":
+                if state == "failed":
+                    skipped_failed += 1
+                else:
+                    skipped_pending += 1
+                continue
+
+            entity = {field: p.get(field) for field in milvus_fields[:-1]}
+            entity["embedding"] = p.get(EmbeddingState.EMBEDDING_FIELD)
+            batch.append(entity)
+
+            if len(batch) >= self.batch_size:
+                res = client.upsert(collection_name=self.collection_name, data=batch)
+                upserted += res.get("upsert_count", len(batch))
+                if (upserted // self.batch_size) % 10 == 0:
+                    logger.info("Upserted %d (scanned %d total)", upserted, scanned)
+                batch = []
+
+        if batch:
+            res = client.upsert(collection_name=self.collection_name, data=batch)
+            upserted += res.get("upsert_count", len(batch))
+
+        client.flush(collection_name=self.collection_name)
+
+        logger.info("流式插入完成: upserted %d, 跳过 failed %d, 跳过 pending %d (scanned %d)",
+                     upserted, skipped_failed, skipped_pending, scanned)
+
+        return {
+            "upserted": upserted,
+            "skipped_failed": skipped_failed,
+            "skipped_pending": skipped_pending,
+        }
+
 
 # ── 单数据集构建 ──────────────────────────────────────────────
 
@@ -519,6 +591,78 @@ def build_index(
             results.append(result)
         except Exception as e:
             logger.exception("Failed to build index for %s", ds)
+            results.append({"dataset": ds, "error": str(e)})
+
+    total_time = time.time() - overall_start
+    return {
+        "datasets": results,
+        "total_time_s": round(total_time, 1),
+    }
+
+
+# ── 流式恢复（从已有嵌入文件重插入 Milvus，无需重新计算嵌入）──────────
+
+
+def recover_from_embeddings(dataset_type: str) -> dict:
+    """从已有嵌入文件流式恢复到 Milvus
+
+    适用于向量数据库丢失但嵌入 JSON 文件完好的场景。
+    使用 ijson 流式读取，O(1) 内存占用，全程不调用嵌入 API。
+
+    流程：重建 collection → 流式读取嵌入文件 → 批量 upsert
+    """
+    ds = dataset_type.lower()
+    state_mgr = EmbeddingState(ds)
+
+    if not state_mgr.exists():
+        return {"dataset": ds, "error": f"嵌入文件不存在: {state_mgr.filepath}"}
+
+    logger.info("开始从 %s 流式恢复 %s", state_mgr.filepath, ds)
+    start = time.time()
+
+    # 重建 collection（含 HNSW + BM25 索引）
+    create_collection(dataset_type=ds, drop_old=True)
+
+    # 流式插入
+    inserter = DataInserter(ds)
+    insert_stats = inserter.insert_from_stream(state_mgr.load_stream())
+
+    elapsed = time.time() - start
+
+    result = {
+        "dataset": ds,
+        "collection": get_collection_name(ds),
+        "upserted": insert_stats["upserted"],
+        "skipped_failed": insert_stats["skipped_failed"],
+        "skipped_pending": insert_stats["skipped_pending"],
+        "time_s": round(elapsed, 1),
+    }
+
+    logger.info("%s 恢复完成: upserted %d (%.1fs)", ds, insert_stats["upserted"], elapsed)
+    return result
+
+
+def recover_index(dataset_types: Optional[List[str]] = None) -> dict:
+    """从已有嵌入文件流式恢复索引（多数据集）
+
+    Args:
+        dataset_types: 要恢复的数据集列表，None 表示全部。
+
+    Returns:
+        统计信息 dict，与 build_index() 格式一致。
+    """
+    if dataset_types is None:
+        dataset_types = get_all_dataset_types()
+
+    overall_start = time.time()
+    results = []
+
+    for ds in dataset_types:
+        try:
+            result = recover_from_embeddings(ds)
+            results.append(result)
+        except Exception as e:
+            logger.exception("Failed to recover index for %s", ds)
             results.append({"dataset": ds, "error": str(e)})
 
     total_time = time.time() - overall_start

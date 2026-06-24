@@ -1,0 +1,666 @@
+{
+  "question_index": 391,
+  "question_id": "5abd68b45542993062266c77",
+  "question": "What did the main character in Unbroken do in the Olympics?",
+  "answer": "Olympic distance runner",
+  "prediction": "distance runner",
+  "error": null,
+  "latency_ms": 239672.1608000007,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T17:14:54.846700+00:00",
+  "chunks": [
+    {
+      "chunk_id": "d312bfe3-dee9-443f-b081-d1c212c5b734",
+      "chunk_title": "Film Production Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and production details such as directors, producers, writers, and source material.",
+      "context_title": "Unbroken (film)",
+      "page_content": "Unbroken was written by the Coen brothers. Unbroken was produced by Angelina Jolie. Unbroken was directed by Angelina Jolie. Unbroken is a 2014 American war film. Unbroken was written by William Nicholson. Unbroken was written by Richard LaGravenese. Unbroken is based on a 2010 non-fiction book. The 2010 non-fiction book Unbroken is based on was written by Laura Hillenbrand. The film Unbroken revolves around the life of Louis \"Louie\" Zamperini."
+    },
+    {
+      "chunk_id": "b00a2ca8-f7ca-4222-b1e3-70bf55b9d0bb",
+      "chunk_title": "Louie Zamperini Biography",
+      "chunk_summary": "This chunk contains biographical details and survival achievements of notable individuals, such as Louis \"Louie\" Zamperini's status as a USA Olympian, army officer, and his 47-day raft survival following a WWII bomber crash.",
+      "context_title": "Unbroken (film)",
+      "page_content": "Louis \"Louie\" Zamperini was an army officer. Louis \"Louie\" Zamperini was sent to a series of prisoner of war camps after surviving in the raft. Louis \"Louie\" Zamperini's bomber crash landed in the ocean during World War II. Louis \"Louie\" Zamperini was a USA Olympian. Louis \"Louie\" Zamperini survived in a raft for 47 days."
+    },
+    {
+      "chunk_id": "c3fc4649-a422-4a7e-8a48-1684c9682f58",
+      "chunk_title": "WWII POW Survivors",
+      "chunk_summary": "This chunk contains information about notable individuals who survived prisoner of war camps during World War II.",
+      "context_title": "Louis Zamperini",
+      "page_content": "Louis Silvie \"Louie\" Zamperini was a US prisoner of war survivor in World War II."
+    },
+    {
+      "chunk_id": "04f6bb72-68aa-4579-9079-271416b59bcd",
+      "chunk_title": "Main Characters",
+      "chunk_summary": "This chunk contains information about the main characters in literary works.",
+      "context_title": "Stratton (film)",
+      "page_content": "John Stratton is the lead character of the novel series."
+    },
+    {
+      "chunk_id": "3aac847b-f221-4fb9-9ce6-6a0dab2f05b2",
+      "chunk_title": "Characters & Military Life",
+      "chunk_summary": "This chunk contains information about the main characters of stories, their real-life inspirations, and narrative perspectives focusing on military life.",
+      "context_title": "Gunston Street",
+      "page_content": "Phil is based on Phillip Zaviski. The strips of Gunston Street are that of Basil Zaviski's experiences. The main character of Gunston Street is Phil. The storyline of the main character Phil tends to focus on the daily struggles of an average Army National Guardsman with deployments, family, and combat. The storyline of the main character Phil tends to focus on the life and times of an average Army National Guardsman."
+    },
+    {
+      "chunk_id": "2606e245-d60b-446c-adc3-4ed11f76f3ef",
+      "chunk_title": "Physical Injuries & Life-Threats",
+      "chunk_summary": "This chunk contains information about significant physical injuries or life-threatening events depicted in films.",
+      "context_title": "Treehouse of Horror XXII",
+      "page_content": "In the film \"127 Hours\", the subject Aron Ralston loses an arm."
+    },
+    {
+      "chunk_id": "851cf2be-eed3-4e57-b93d-6d4489f9d5a9",
+      "chunk_title": "Personal Background & Identity",
+      "chunk_summary": "This chunk contains information about the personal background and identity of individuals, such as Anne-Marie being a young orphan girl.",
+      "context_title": "All Dogs Go to Heaven",
+      "page_content": "Anne-Marie is a young orphan girl."
+    },
+    {
+      "chunk_id": "befef2bb-d3bf-4e32-aa0b-cea8263033f4",
+      "chunk_title": "Personal Background",
+      "chunk_summary": "This chunk contains information about the identity, professions, and background of Aron Lee Ralston.",
+      "context_title": "Aron Ralston",
+      "page_content": "Aron Lee Ralston is a mechanical engineer. Aron Lee Ralston is an American outdoorsman. Aron Lee Ralston is a motivational speaker."
+    },
+    {
+      "chunk_id": "ea1b9e14-b004-4653-a047-a531131719d6",
+      "chunk_title": "Pretty Shield's Roles",
+      "chunk_summary": "This chunk contains information about Pretty Shield's roles as a Crow author and medicine woman, and should be expanded to include details about other indigenous authors or cultural figures.",
+      "context_title": "The Other Magpie",
+      "page_content": "Pretty Shield was a medicine woman. Pretty Shield was a Crow author."
+    },
+    {
+      "chunk_id": "63ba1ae8-0cb0-429f-88e6-ba58ba7fe8ad",
+      "chunk_title": "Waldo Wedel Biography",
+      "chunk_summary": "This chunk contains biographical information about Waldo Rudolph Wedel, including his profession as an archaeologist, his significance in Great Plains prehistory, and details about his family background and marriage.",
+      "context_title": "Waldo Rudolph Wedel",
+      "page_content": "Mildred Mott was a fellow archaeologist. Waldo Rudolph Wedel was an American archaeologist. Waldo Rudolph Wedel was a central figure in the study of the prehistory of the Great Plains. Waldo Rudolph Wedel was born to a family of Mennonites. Waldo Rudolph Wedel married Mildred Mott in 1939."
+    },
+    {
+      "chunk_id": "df98f8c5-2d16-4c8b-bea8-e3b04c43f9e1",
+      "chunk_title": "Biography & Career",
+      "chunk_summary": "This chunk contains information about the biographical details and athletic career of Louis \"Louie\" Zamperini.",
+      "context_title": "Louis Zamperini",
+      "page_content": "Louis Silvie \"Louie\" Zamperini was an Olympic distance runner."
+    },
+    {
+      "chunk_id": "be52d49e-f05a-4112-bf35-5a8d276c9b75",
+      "chunk_title": "Religious Roles & Affiliations",
+      "chunk_summary": "This chunk contains information about the religious roles and affiliations of individuals.",
+      "context_title": "Louis Zamperini",
+      "page_content": "Louis Silvie \"Louie\" Zamperini was a Christian evangelist."
+    },
+    {
+      "chunk_id": "b9c40a0a-128a-48ba-b53f-afb308954197",
+      "chunk_title": "Birth and Death Dates",
+      "chunk_summary": "This chunk contains biographical information about Louis Zamperini, including his birth and death dates.",
+      "context_title": "Louis Zamperini",
+      "page_content": "Louis Silvie \"Louie\" Zamperini was born on January 26, 1917. Louis Silvie \"Louie\" Zamperini died on July 2, 2014."
+    },
+    {
+      "chunk_id": "d16d988a-8867-4960-9dfc-bc9795ee6a4b",
+      "chunk_title": "Olympic Medal Achievements",
+      "chunk_summary": "This chunk contains information about the U.S. team's medal achievements in Olympic Games.",
+      "context_title": "Alexander Artemev",
+      "page_content": "The U.S. team won the bronze medal at the 2008 Olympic Games."
+    },
+    {
+      "chunk_id": "cf88930d-f853-41f2-a52d-f610ddf47908",
+      "chunk_title": "Olympic Sports History",
+      "chunk_summary": "This chunk contains information about the history of sports in the Olympic Games, including their status as demonstration or official events.",
+      "context_title": "Kuo Lee Chien-fu",
+      "page_content": "Baseball was a demonstration sport in the 1988 Olympics."
+    },
+    {
+      "chunk_id": "87875bb8-be2e-402a-8710-90510139b8af",
+      "chunk_title": "Athlete Profiles",
+      "chunk_summary": "This chunk contains information about the professional background and Olympic achievements of athletes, specifically focusing on their nationality, participation, and medal results.",
+      "context_title": "Jamill Kelly",
+      "page_content": "Larry Jamill Kelly represented the United States at the 2004 Summer Olympic Games. Larry Jamill Kelly is an American freestyle wrestler. Larry Jamill Kelly earned a silver medal at the 2004 Summer Olympic Games."
+    },
+    {
+      "chunk_id": "2c3fdf0d-ed53-48a8-a43a-e9c542747dce",
+      "chunk_title": "Tommie C. Smith's Athletic Career",
+      "chunk_summary": "This chunk contains information about the professional athletic careers of Tommie C. Smith, including his roles in track & field and American football as well as his Olympic participation.",
+      "context_title": "Tommie Smith",
+      "page_content": "Tommie C. Smith performed a Black Power salute with John Carlos atop the medal podium. The 200-meter sprint finals time of 19.83 seconds by Tommie C. Smith was the first time the 20-second barrier was broken legally. Tommie C. Smith completed the 200-meter sprint finals in 19.83 seconds. Tommie C. Smith was aged 24 at the 1968 Summer Olympics. Tommie C. Smith is a former wide receiver in the American Football League. Tommie C. Smith won a gold medal at the 1968 Summer Olympics. Tommie C. Smith competed at the 1968 Summer Olympics. Tommie C. Smith won the 200-meter sprint finals at the 1968 Summer Olympics. Tommie C. Smith is a former track & field athlete."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.8,
+  "precision": 1.0,
+  "recall": 0.666667,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.35294117647058826,
+  "retrieval_count": 2,
+  "total_chunks": 17,
+  "total_distinct_titles": 13,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "What did the main character in Unbroken do in the Olympics?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What did the main character in Unbroken do in the Olympics?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问《Unbroken》主角在奥运会中的行为",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——证据来自子节点推理链聚合。N1_1 确认主角为 Louis \"Louie\" Zamperini（1个来源，直接具体），N1_2 确认其为 Olympic distance runner（1个来源，直接具体）。推理链完整：识别主角→确认奥运项目，逻辑自洽。",
+          "critic_normative_advice": "结构合理，建议 INHERIT 保留。分解正确覆盖了 Q 的两个必要子事实，依赖边 N1_1→N1_2 语义有效。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the main character in Unbroken?",
+          "answer": "Louis \"Louie\" Zamperini",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the main character in Unbroken?",
+          "planner_rationale": "Q 询问的是《Unbroken》主角的奥运经历，必须先确定主角身份才能进一步搜索其奥运事迹。这是 Q 的第一个语义缺口——'main character' 指代谁",
+          "solver_judgment": "question 要求确认电影《Unbroken》的主角。search_query 搜索了 'Who is the main character in Unbroken?'。chunks 返回了关于电影制作细节的 chunk d312bfe3-dee9-443f-b081-d1c212c5b734，其中明确记载 'The film Unbroken revolves around the life of Louis \"Louie\" Zamperini'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档：Unbroken (film)）。支撑 chunk d312bfe3 全文直接陈述 'The film Unbroken revolves around the life of Louis \"Louie\" Zamperini'，明确回答了主角身份问题。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 内容直接支撑声称答案。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d312bfe3-dee9-443f-b081-d1c212c5b734"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d312bfe3-dee9-443f-b081-d1c212c5b734",
+              "chunk_title": "Film Production Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and production details such as directors, producers, writers, and source material.",
+              "context_title": "Unbroken (film)",
+              "page_content": "Unbroken was written by the Coen brothers. Unbroken was produced by Angelina Jolie. Unbroken was directed by Angelina Jolie. Unbroken is a 2014 American war film. Unbroken was written by William Nicholson. Unbroken was written by Richard LaGravenese. Unbroken is based on a 2010 non-fiction book. The 2010 non-fiction book Unbroken is based on was written by Laura Hillenbrand. The film Unbroken revolves around the life of Louis \"Louie\" Zamperini."
+            },
+            {
+              "chunk_id": "b00a2ca8-f7ca-4222-b1e3-70bf55b9d0bb",
+              "chunk_title": "Louie Zamperini Biography",
+              "chunk_summary": "This chunk contains biographical details and survival achievements of notable individuals, such as Louis \"Louie\" Zamperini's status as a USA Olympian, army officer, and his 47-day raft survival following a WWII bomber crash.",
+              "context_title": "Unbroken (film)",
+              "page_content": "Louis \"Louie\" Zamperini was an army officer. Louis \"Louie\" Zamperini was sent to a series of prisoner of war camps after surviving in the raft. Louis \"Louie\" Zamperini's bomber crash landed in the ocean during World War II. Louis \"Louie\" Zamperini was a USA Olympian. Louis \"Louie\" Zamperini survived in a raft for 47 days."
+            },
+            {
+              "chunk_id": "c3fc4649-a422-4a7e-8a48-1684c9682f58",
+              "chunk_title": "WWII POW Survivors",
+              "chunk_summary": "This chunk contains information about notable individuals who survived prisoner of war camps during World War II.",
+              "context_title": "Louis Zamperini",
+              "page_content": "Louis Silvie \"Louie\" Zamperini was a US prisoner of war survivor in World War II."
+            },
+            {
+              "chunk_id": "04f6bb72-68aa-4579-9079-271416b59bcd",
+              "chunk_title": "Main Characters",
+              "chunk_summary": "This chunk contains information about the main characters in literary works.",
+              "context_title": "Stratton (film)",
+              "page_content": "John Stratton is the lead character of the novel series."
+            },
+            {
+              "chunk_id": "3aac847b-f221-4fb9-9ce6-6a0dab2f05b2",
+              "chunk_title": "Characters & Military Life",
+              "chunk_summary": "This chunk contains information about the main characters of stories, their real-life inspirations, and narrative perspectives focusing on military life.",
+              "context_title": "Gunston Street",
+              "page_content": "Phil is based on Phillip Zaviski. The strips of Gunston Street are that of Basil Zaviski's experiences. The main character of Gunston Street is Phil. The storyline of the main character Phil tends to focus on the daily struggles of an average Army National Guardsman with deployments, family, and combat. The storyline of the main character Phil tends to focus on the life and times of an average Army National Guardsman."
+            },
+            {
+              "chunk_id": "2606e245-d60b-446c-adc3-4ed11f76f3ef",
+              "chunk_title": "Physical Injuries & Life-Threats",
+              "chunk_summary": "This chunk contains information about significant physical injuries or life-threatening events depicted in films.",
+              "context_title": "Treehouse of Horror XXII",
+              "page_content": "In the film \"127 Hours\", the subject Aron Ralston loses an arm."
+            },
+            {
+              "chunk_id": "851cf2be-eed3-4e57-b93d-6d4489f9d5a9",
+              "chunk_title": "Personal Background & Identity",
+              "chunk_summary": "This chunk contains information about the personal background and identity of individuals, such as Anne-Marie being a young orphan girl.",
+              "context_title": "All Dogs Go to Heaven",
+              "page_content": "Anne-Marie is a young orphan girl."
+            },
+            {
+              "chunk_id": "befef2bb-d3bf-4e32-aa0b-cea8263033f4",
+              "chunk_title": "Personal Background",
+              "chunk_summary": "This chunk contains information about the identity, professions, and background of Aron Lee Ralston.",
+              "context_title": "Aron Ralston",
+              "page_content": "Aron Lee Ralston is a mechanical engineer. Aron Lee Ralston is an American outdoorsman. Aron Lee Ralston is a motivational speaker."
+            },
+            {
+              "chunk_id": "ea1b9e14-b004-4653-a047-a531131719d6",
+              "chunk_title": "Pretty Shield's Roles",
+              "chunk_summary": "This chunk contains information about Pretty Shield's roles as a Crow author and medicine woman, and should be expanded to include details about other indigenous authors or cultural figures.",
+              "context_title": "The Other Magpie",
+              "page_content": "Pretty Shield was a medicine woman. Pretty Shield was a Crow author."
+            },
+            {
+              "chunk_id": "63ba1ae8-0cb0-429f-88e6-ba58ba7fe8ad",
+              "chunk_title": "Waldo Wedel Biography",
+              "chunk_summary": "This chunk contains biographical information about Waldo Rudolph Wedel, including his profession as an archaeologist, his significance in Great Plains prehistory, and details about his family background and marriage.",
+              "context_title": "Waldo Rudolph Wedel",
+              "page_content": "Mildred Mott was a fellow archaeologist. Waldo Rudolph Wedel was an American archaeologist. Waldo Rudolph Wedel was a central figure in the study of the prehistory of the Great Plains. Waldo Rudolph Wedel was born to a family of Mennonites. Waldo Rudolph Wedel married Mildred Mott in 1939."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What did that person do in the Olympics?",
+          "answer": "distance runner",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Louis Zamperini Olympics",
+          "planner_rationale": "Q 的核心询问——主角在奥运会中做了什么。此问题的 question 中包含指代词 'that person'，需要用前一个节点的 answer（主角姓名）消解后才能进行有效搜索",
+          "solver_judgment": "question 要求回答该人在奥运会中从事的项目。search_query 搜索了 'Louis Zamperini Olympics'。chunks 返回了 Louis Zamperini 的生平信息，其中 chunk df98f8c5-2d16-4c8b-bea8-e3b04c43f9e1 明确指出他是 'Olympic distance runner'（奥运会长跑运动员），chunk b00a2ca8-f7ca-4222-b1e3-70bf55b9d0bb 提到他是 'USA Olympian'。检索结果直接提供了他在奥运会中的身份/项目，信息完整。",
+          "critic_factual_notes": "1 个来源（文档：Louis Zamperini）。支撑 chunk df98f8c5 全文直接陈述 'Louis Silvie \"Louie\" Zamperini was an Olympic distance runner'，明确回答了奥运项目问题。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 内容直接支撑声称答案。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "df98f8c5-2d16-4c8b-bea8-e3b04c43f9e1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "df98f8c5-2d16-4c8b-bea8-e3b04c43f9e1",
+              "chunk_title": "Biography & Career",
+              "chunk_summary": "This chunk contains information about the biographical details and athletic career of Louis \"Louie\" Zamperini.",
+              "context_title": "Louis Zamperini",
+              "page_content": "Louis Silvie \"Louie\" Zamperini was an Olympic distance runner."
+            },
+            {
+              "chunk_id": "b00a2ca8-f7ca-4222-b1e3-70bf55b9d0bb",
+              "chunk_title": "Louie Zamperini Biography",
+              "chunk_summary": "This chunk contains biographical details and survival achievements of notable individuals, such as Louis \"Louie\" Zamperini's status as a USA Olympian, army officer, and his 47-day raft survival following a WWII bomber crash.",
+              "context_title": "Unbroken (film)",
+              "page_content": "Louis \"Louie\" Zamperini was an army officer. Louis \"Louie\" Zamperini was sent to a series of prisoner of war camps after surviving in the raft. Louis \"Louie\" Zamperini's bomber crash landed in the ocean during World War II. Louis \"Louie\" Zamperini was a USA Olympian. Louis \"Louie\" Zamperini survived in a raft for 47 days."
+            },
+            {
+              "chunk_id": "be52d49e-f05a-4112-bf35-5a8d276c9b75",
+              "chunk_title": "Religious Roles & Affiliations",
+              "chunk_summary": "This chunk contains information about the religious roles and affiliations of individuals.",
+              "context_title": "Louis Zamperini",
+              "page_content": "Louis Silvie \"Louie\" Zamperini was a Christian evangelist."
+            },
+            {
+              "chunk_id": "b9c40a0a-128a-48ba-b53f-afb308954197",
+              "chunk_title": "Birth and Death Dates",
+              "chunk_summary": "This chunk contains biographical information about Louis Zamperini, including his birth and death dates.",
+              "context_title": "Louis Zamperini",
+              "page_content": "Louis Silvie \"Louie\" Zamperini was born on January 26, 1917. Louis Silvie \"Louie\" Zamperini died on July 2, 2014."
+            },
+            {
+              "chunk_id": "c3fc4649-a422-4a7e-8a48-1684c9682f58",
+              "chunk_title": "WWII POW Survivors",
+              "chunk_summary": "This chunk contains information about notable individuals who survived prisoner of war camps during World War II.",
+              "context_title": "Louis Zamperini",
+              "page_content": "Louis Silvie \"Louie\" Zamperini was a US prisoner of war survivor in World War II."
+            },
+            {
+              "chunk_id": "d312bfe3-dee9-443f-b081-d1c212c5b734",
+              "chunk_title": "Film Production Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and production details such as directors, producers, writers, and source material.",
+              "context_title": "Unbroken (film)",
+              "page_content": "Unbroken was written by the Coen brothers. Unbroken was produced by Angelina Jolie. Unbroken was directed by Angelina Jolie. Unbroken is a 2014 American war film. Unbroken was written by William Nicholson. Unbroken was written by Richard LaGravenese. Unbroken is based on a 2010 non-fiction book. The 2010 non-fiction book Unbroken is based on was written by Laura Hillenbrand. The film Unbroken revolves around the life of Louis \"Louie\" Zamperini."
+            },
+            {
+              "chunk_id": "d16d988a-8867-4960-9dfc-bc9795ee6a4b",
+              "chunk_title": "Olympic Medal Achievements",
+              "chunk_summary": "This chunk contains information about the U.S. team's medal achievements in Olympic Games.",
+              "context_title": "Alexander Artemev",
+              "page_content": "The U.S. team won the bronze medal at the 2008 Olympic Games."
+            },
+            {
+              "chunk_id": "cf88930d-f853-41f2-a52d-f610ddf47908",
+              "chunk_title": "Olympic Sports History",
+              "chunk_summary": "This chunk contains information about the history of sports in the Olympic Games, including their status as demonstration or official events.",
+              "context_title": "Kuo Lee Chien-fu",
+              "page_content": "Baseball was a demonstration sport in the 1988 Olympics."
+            },
+            {
+              "chunk_id": "87875bb8-be2e-402a-8710-90510139b8af",
+              "chunk_title": "Athlete Profiles",
+              "chunk_summary": "This chunk contains information about the professional background and Olympic achievements of athletes, specifically focusing on their nationality, participation, and medal results.",
+              "context_title": "Jamill Kelly",
+              "page_content": "Larry Jamill Kelly represented the United States at the 2004 Summer Olympic Games. Larry Jamill Kelly is an American freestyle wrestler. Larry Jamill Kelly earned a silver medal at the 2004 Summer Olympic Games."
+            },
+            {
+              "chunk_id": "2c3fdf0d-ed53-48a8-a43a-e9c542747dce",
+              "chunk_title": "Tommie C. Smith's Athletic Career",
+              "chunk_summary": "This chunk contains information about the professional athletic careers of Tommie C. Smith, including his roles in track & field and American football as well as his Olympic participation.",
+              "context_title": "Tommie Smith",
+              "page_content": "Tommie C. Smith performed a Black Power salute with John Carlos atop the medal podium. The 200-meter sprint finals time of 19.83 seconds by Tommie C. Smith was the first time the 20-second barrier was broken legally. Tommie C. Smith completed the 200-meter sprint finals in 19.83 seconds. Tommie C. Smith was aged 24 at the 1968 Summer Olympics. Tommie C. Smith is a former wide receiver in the American Football League. Tommie C. Smith won a gold medal at the 1968 Summer Olympics. Tommie C. Smith competed at the 1968 Summer Olympics. Tommie C. Smith won the 200-meter sprint finals at the 1968 Summer Olympics. Tommie C. Smith is a former track & field athlete."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What did the main character in Unbroken do in the Olympics?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What did the main character in Unbroken do in the Olympics?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问《Unbroken》主角在奥运会中的行为。子节点 N1_1 和 N1_2 均已 SOLVED + healthy，推理链完整可聚合答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——证据来自子节点推理链聚合。N1_1 确认主角为 Louis \"Louie\" Zamperini（1个来源 d312bfe3，直接具体陈述 'The film Unbroken revolves around the life of Louis \"Louie\" Zamperini'），N1_2 确认其为 Olympic distance runner（1个来源 df98f8c5，直接具体陈述 'Louis Silvie \"Louie\" Zamperini was an Olympic distance runner'）。推理链完整：识别主角→确认奥运项目，逻辑自洽。交叉验证：不充分（各子节点均为单来源），但来源直接、具体、无矛盾。",
+          "critic_normative_advice": "建议 INHERIT 保留。分解结构正确覆盖了 Q 的两个必要子事实（主角身份 + 奥运项目），依赖边 N1_1→N1_2 语义有效（N1_1 的 answer 'Louis \"Louie\" Zamperini' 消解了 N1_2 question 中的 'that person'）。推理链可聚合为完整答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the main character in Unbroken?",
+          "answer": "Louis \"Louie\" Zamperini",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the main character in Unbroken?",
+          "planner_rationale": "Q 的第一个语义缺口——识别《Unbroken》主角身份。已 SOLVED + healthy，answer 'Louis \"Louie\" Zamperini' 由支撑 chunk 直接确认，无需调整",
+          "solver_judgment": "question 要求确认电影《Unbroken》的主角。search_query 搜索了 'Who is the main character in Unbroken?'。chunks 返回了关于电影制作细节的 chunk d312bfe3-dee9-443f-b081-d1c212c5b734，其中明确记载 'The film Unbroken revolves around the life of Louis \"Louie\" Zamperini'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档：Unbroken (film)，chunk d312bfe3-dee9-443f-b081-d1c212c5b734）。支撑 chunk 全文直接陈述 'The film Unbroken revolves around the life of Louis \"Louie\" Zamperini'，明确回答了主角身份问题。单来源但直接、具体。交叉验证：不充分（仅 1 个来源），但内容无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 内容直接支撑声称答案 'Louis \"Louie\" Zamperini'，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d312bfe3-dee9-443f-b081-d1c212c5b734"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d312bfe3-dee9-443f-b081-d1c212c5b734",
+              "chunk_title": "Film Production Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and production details such as directors, producers, writers, and source material.",
+              "context_title": "Unbroken (film)",
+              "page_content": "Unbroken was written by the Coen brothers. Unbroken was produced by Angelina Jolie. Unbroken was directed by Angelina Jolie. Unbroken is a 2014 American war film. Unbroken was written by William Nicholson. Unbroken was written by Richard LaGravenese. Unbroken is based on a 2010 non-fiction book. The 2010 non-fiction book Unbroken is based on was written by Laura Hillenbrand. The film Unbroken revolves around the life of Louis \"Louie\" Zamperini."
+            },
+            {
+              "chunk_id": "b00a2ca8-f7ca-4222-b1e3-70bf55b9d0bb",
+              "chunk_title": "Louie Zamperini Biography",
+              "chunk_summary": "This chunk contains biographical details and survival achievements of notable individuals, such as Louis \"Louie\" Zamperini's status as a USA Olympian, army officer, and his 47-day raft survival following a WWII bomber crash.",
+              "context_title": "Unbroken (film)",
+              "page_content": "Louis \"Louie\" Zamperini was an army officer. Louis \"Louie\" Zamperini was sent to a series of prisoner of war camps after surviving in the raft. Louis \"Louie\" Zamperini's bomber crash landed in the ocean during World War II. Louis \"Louie\" Zamperini was a USA Olympian. Louis \"Louie\" Zamperini survived in a raft for 47 days."
+            },
+            {
+              "chunk_id": "c3fc4649-a422-4a7e-8a48-1684c9682f58",
+              "chunk_title": "WWII POW Survivors",
+              "chunk_summary": "This chunk contains information about notable individuals who survived prisoner of war camps during World War II.",
+              "context_title": "Louis Zamperini",
+              "page_content": "Louis Silvie \"Louie\" Zamperini was a US prisoner of war survivor in World War II."
+            },
+            {
+              "chunk_id": "04f6bb72-68aa-4579-9079-271416b59bcd",
+              "chunk_title": "Main Characters",
+              "chunk_summary": "This chunk contains information about the main characters in literary works.",
+              "context_title": "Stratton (film)",
+              "page_content": "John Stratton is the lead character of the novel series."
+            },
+            {
+              "chunk_id": "3aac847b-f221-4fb9-9ce6-6a0dab2f05b2",
+              "chunk_title": "Characters & Military Life",
+              "chunk_summary": "This chunk contains information about the main characters of stories, their real-life inspirations, and narrative perspectives focusing on military life.",
+              "context_title": "Gunston Street",
+              "page_content": "Phil is based on Phillip Zaviski. The strips of Gunston Street are that of Basil Zaviski's experiences. The main character of Gunston Street is Phil. The storyline of the main character Phil tends to focus on the daily struggles of an average Army National Guardsman with deployments, family, and combat. The storyline of the main character Phil tends to focus on the life and times of an average Army National Guardsman."
+            },
+            {
+              "chunk_id": "2606e245-d60b-446c-adc3-4ed11f76f3ef",
+              "chunk_title": "Physical Injuries & Life-Threats",
+              "chunk_summary": "This chunk contains information about significant physical injuries or life-threatening events depicted in films.",
+              "context_title": "Treehouse of Horror XXII",
+              "page_content": "In the film \"127 Hours\", the subject Aron Ralston loses an arm."
+            },
+            {
+              "chunk_id": "851cf2be-eed3-4e57-b93d-6d4489f9d5a9",
+              "chunk_title": "Personal Background & Identity",
+              "chunk_summary": "This chunk contains information about the personal background and identity of individuals, such as Anne-Marie being a young orphan girl.",
+              "context_title": "All Dogs Go to Heaven",
+              "page_content": "Anne-Marie is a young orphan girl."
+            },
+            {
+              "chunk_id": "befef2bb-d3bf-4e32-aa0b-cea8263033f4",
+              "chunk_title": "Personal Background",
+              "chunk_summary": "This chunk contains information about the identity, professions, and background of Aron Lee Ralston.",
+              "context_title": "Aron Ralston",
+              "page_content": "Aron Lee Ralston is a mechanical engineer. Aron Lee Ralston is an American outdoorsman. Aron Lee Ralston is a motivational speaker."
+            },
+            {
+              "chunk_id": "ea1b9e14-b004-4653-a047-a531131719d6",
+              "chunk_title": "Pretty Shield's Roles",
+              "chunk_summary": "This chunk contains information about Pretty Shield's roles as a Crow author and medicine woman, and should be expanded to include details about other indigenous authors or cultural figures.",
+              "context_title": "The Other Magpie",
+              "page_content": "Pretty Shield was a medicine woman. Pretty Shield was a Crow author."
+            },
+            {
+              "chunk_id": "63ba1ae8-0cb0-429f-88e6-ba58ba7fe8ad",
+              "chunk_title": "Waldo Wedel Biography",
+              "chunk_summary": "This chunk contains biographical information about Waldo Rudolph Wedel, including his profession as an archaeologist, his significance in Great Plains prehistory, and details about his family background and marriage.",
+              "context_title": "Waldo Rudolph Wedel",
+              "page_content": "Mildred Mott was a fellow archaeologist. Waldo Rudolph Wedel was an American archaeologist. Waldo Rudolph Wedel was a central figure in the study of the prehistory of the Great Plains. Waldo Rudolph Wedel was born to a family of Mennonites. Waldo Rudolph Wedel married Mildred Mott in 1939."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What did that person do in the Olympics?",
+          "answer": "distance runner",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Louis Zamperini Olympics",
+          "planner_rationale": "Q 的核心询问——主角在奥运会中做了什么。已 SOLVED + healthy，answer 'distance runner' 由支撑 chunk 直接确认，依赖边 N1_1→N1_2 有效消解了指代",
+          "solver_judgment": "question 要求回答该人在奥运会中从事的项目。search_query 搜索了 'Louis Zamperini Olympics'。chunks 返回了 Louis Zamperini 的生平信息，其中 chunk df98f8c5-2d16-4c8b-bea8-e3b04c43f9e1 明确指出他是 'Olympic distance runner'（奥运会长跑运动员），chunk b00a2ca8-f7ca-4222-b1e3-70bf55b9d0bb 提到他是 'USA Olympian'。检索结果直接提供了他在奥运会中的身份/项目，信息完整。",
+          "critic_factual_notes": "1 个来源（文档：Louis Zamperini，chunk df98f8c5-2d16-4c8b-bea8-e3b04c43f9e1）。支撑 chunk 全文直接陈述 'Louis Silvie \"Louie\" Zamperini was an Olympic distance runner'，明确回答了奥运项目问题。单来源但直接、具体。非支撑 chunk b00a2ca8 提到 'USA Olympian' 但未指定项目，与支撑 chunk 不矛盾。交叉验证：不充分（仅 1 个来源直接回答），但内容无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，chunk 内容直接支撑声称答案 'distance runner'，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "df98f8c5-2d16-4c8b-bea8-e3b04c43f9e1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "df98f8c5-2d16-4c8b-bea8-e3b04c43f9e1",
+              "chunk_title": "Biography & Career",
+              "chunk_summary": "This chunk contains information about the biographical details and athletic career of Louis \"Louie\" Zamperini.",
+              "context_title": "Louis Zamperini",
+              "page_content": "Louis Silvie \"Louie\" Zamperini was an Olympic distance runner."
+            },
+            {
+              "chunk_id": "b00a2ca8-f7ca-4222-b1e3-70bf55b9d0bb",
+              "chunk_title": "Louie Zamperini Biography",
+              "chunk_summary": "This chunk contains biographical details and survival achievements of notable individuals, such as Louis \"Louie\" Zamperini's status as a USA Olympian, army officer, and his 47-day raft survival following a WWII bomber crash.",
+              "context_title": "Unbroken (film)",
+              "page_content": "Louis \"Louie\" Zamperini was an army officer. Louis \"Louie\" Zamperini was sent to a series of prisoner of war camps after surviving in the raft. Louis \"Louie\" Zamperini's bomber crash landed in the ocean during World War II. Louis \"Louie\" Zamperini was a USA Olympian. Louis \"Louie\" Zamperini survived in a raft for 47 days."
+            },
+            {
+              "chunk_id": "be52d49e-f05a-4112-bf35-5a8d276c9b75",
+              "chunk_title": "Religious Roles & Affiliations",
+              "chunk_summary": "This chunk contains information about the religious roles and affiliations of individuals.",
+              "context_title": "Louis Zamperini",
+              "page_content": "Louis Silvie \"Louie\" Zamperini was a Christian evangelist."
+            },
+            {
+              "chunk_id": "b9c40a0a-128a-48ba-b53f-afb308954197",
+              "chunk_title": "Birth and Death Dates",
+              "chunk_summary": "This chunk contains biographical information about Louis Zamperini, including his birth and death dates.",
+              "context_title": "Louis Zamperini",
+              "page_content": "Louis Silvie \"Louie\" Zamperini was born on January 26, 1917. Louis Silvie \"Louie\" Zamperini died on July 2, 2014."
+            },
+            {
+              "chunk_id": "c3fc4649-a422-4a7e-8a48-1684c9682f58",
+              "chunk_title": "WWII POW Survivors",
+              "chunk_summary": "This chunk contains information about notable individuals who survived prisoner of war camps during World War II.",
+              "context_title": "Louis Zamperini",
+              "page_content": "Louis Silvie \"Louie\" Zamperini was a US prisoner of war survivor in World War II."
+            },
+            {
+              "chunk_id": "d312bfe3-dee9-443f-b081-d1c212c5b734",
+              "chunk_title": "Film Production Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, and production details such as directors, producers, writers, and source material.",
+              "context_title": "Unbroken (film)",
+              "page_content": "Unbroken was written by the Coen brothers. Unbroken was produced by Angelina Jolie. Unbroken was directed by Angelina Jolie. Unbroken is a 2014 American war film. Unbroken was written by William Nicholson. Unbroken was written by Richard LaGravenese. Unbroken is based on a 2010 non-fiction book. The 2010 non-fiction book Unbroken is based on was written by Laura Hillenbrand. The film Unbroken revolves around the life of Louis \"Louie\" Zamperini."
+            },
+            {
+              "chunk_id": "d16d988a-8867-4960-9dfc-bc9795ee6a4b",
+              "chunk_title": "Olympic Medal Achievements",
+              "chunk_summary": "This chunk contains information about the U.S. team's medal achievements in Olympic Games.",
+              "context_title": "Alexander Artemev",
+              "page_content": "The U.S. team won the bronze medal at the 2008 Olympic Games."
+            },
+            {
+              "chunk_id": "cf88930d-f853-41f2-a52d-f610ddf47908",
+              "chunk_title": "Olympic Sports History",
+              "chunk_summary": "This chunk contains information about the history of sports in the Olympic Games, including their status as demonstration or official events.",
+              "context_title": "Kuo Lee Chien-fu",
+              "page_content": "Baseball was a demonstration sport in the 1988 Olympics."
+            },
+            {
+              "chunk_id": "87875bb8-be2e-402a-8710-90510139b8af",
+              "chunk_title": "Athlete Profiles",
+              "chunk_summary": "This chunk contains information about the professional background and Olympic achievements of athletes, specifically focusing on their nationality, participation, and medal results.",
+              "context_title": "Jamill Kelly",
+              "page_content": "Larry Jamill Kelly represented the United States at the 2004 Summer Olympic Games. Larry Jamill Kelly is an American freestyle wrestler. Larry Jamill Kelly earned a silver medal at the 2004 Summer Olympic Games."
+            },
+            {
+              "chunk_id": "2c3fdf0d-ed53-48a8-a43a-e9c542747dce",
+              "chunk_title": "Tommie C. Smith's Athletic Career",
+              "chunk_summary": "This chunk contains information about the professional athletic careers of Tommie C. Smith, including his roles in track & field and American football as well as his Olympic participation.",
+              "context_title": "Tommie Smith",
+              "page_content": "Tommie C. Smith performed a Black Power salute with John Carlos atop the medal podium. The 200-meter sprint finals time of 19.83 seconds by Tommie C. Smith was the first time the 20-second barrier was broken legally. Tommie C. Smith completed the 200-meter sprint finals in 19.83 seconds. Tommie C. Smith was aged 24 at the 1968 Summer Olympics. Tommie C. Smith is a former wide receiver in the American Football League. Tommie C. Smith won a gold medal at the 1968 Summer Olympics. Tommie C. Smith competed at the 1968 Summer Olympics. Tommie C. Smith won the 200-meter sprint finals at the 1968 Summer Olympics. Tommie C. Smith is a former track & field athlete."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the main character in Unbroken?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "d312bfe3-dee9-443f-b081-d1c212c5b734",
+        "b00a2ca8-f7ca-4222-b1e3-70bf55b9d0bb",
+        "c3fc4649-a422-4a7e-8a48-1684c9682f58",
+        "04f6bb72-68aa-4579-9079-271416b59bcd",
+        "3aac847b-f221-4fb9-9ce6-6a0dab2f05b2",
+        "2606e245-d60b-446c-adc3-4ed11f76f3ef",
+        "851cf2be-eed3-4e57-b93d-6d4489f9d5a9",
+        "befef2bb-d3bf-4e32-aa0b-cea8263033f4",
+        "ea1b9e14-b004-4653-a047-a531131719d6",
+        "63ba1ae8-0cb0-429f-88e6-ba58ba7fe8ad"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Louis Zamperini Olympics",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "df98f8c5-2d16-4c8b-bea8-e3b04c43f9e1",
+        "b00a2ca8-f7ca-4222-b1e3-70bf55b9d0bb",
+        "be52d49e-f05a-4112-bf35-5a8d276c9b75",
+        "b9c40a0a-128a-48ba-b53f-afb308954197",
+        "c3fc4649-a422-4a7e-8a48-1684c9682f58",
+        "d312bfe3-dee9-443f-b081-d1c212c5b734",
+        "d16d988a-8867-4960-9dfc-bc9795ee6a4b",
+        "cf88930d-f853-41f2-a52d-f610ddf47908",
+        "87875bb8-be2e-402a-8710-90510139b8af",
+        "2c3fdf0d-ed53-48a8-a43a-e9c542747dce"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the main character in Unbroken?（理由：Q 问的是《Unbroken》主角的奥运经历，必须先识别主角身份——这是所有后续搜索的前提），F2: What did that person do in the Olympics?（理由：Q 的核心询问——该主角在奥运会中具体做了什么）。关系: F1 是 Q 的分解产物（decomposition——识别主角是回答 Q 的必要子事实），F2 是 Q 的分解产物（decomposition——奥运事迹是 Q 直接询问的内容），F1 是 F2 的前置条件（dependency——F2 的 question 中 \"that person\" 必须用 F1 的 answer（主角姓名）消解后才能构造有意义的搜索查询）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question=\"Who is the main character in Unbroken?\"，rationale=\"识别《Unbroken》主角身份是回答 Q 的前提\"），$2（question=\"What did that person do in the Olympics?\"，rationale=\"Q 的核心询问，需依赖 $1 消解指代\"）。新增边: N0→$1（decomposition，$1 是 Q 的分解子事实），N0→$2（decomposition，$2 是 Q 的分解子事实），$1→$2（dependency，$2 的 question 含 \"that person\" 指代，需 $1 的 answer 消解）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义完整——N1_1 answer 'Louis Zamperini' 有效消解 N1_2 中 'that person' 指代；③全部节点（N0/N1_1/N1_2）均为 healthy，证据充分；④首轮无拓扑变化。推理链完整，所有节点证据直接具体，可生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the main character in Unbroken?（理由：Q 问的是《Unbroken》主角的奥运经历，必须先识别主角身份），F2: What did that person do in the Olympics?（理由：Q 的核心询问——该主角在奥运会中具体做了什么）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F1 是 F2 的前置条件（dependency——F2 的 question 中 \"that person\" 必须用 F1 的 answer 消解）。当前 DAG 已完整覆盖此结构，N1_1 和 N1_2 均已 SOLVED + healthy，推理链可聚合为 Q 的答案：Louis Zamperini was a distance runner in the Olympics。",
+      "hypothesis_delta": "本轮无结构调整——全部 INHERIT。原因：上一轮假设（F1 主角身份 + F2 奥运事迹，F1→F2 dependency）被完全验证。N1_1（answer: Louis \"Louie\" Zamperini）和 N1_2（answer: distance runner）均 SOLVED + healthy，Critic 确认无缺口无冗余。DAG 已收敛至理想结构，无需增删改。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义匹配——路径 N0→N1_1→N1_2 中，N1_1 answer 'Louis \"Louie\" Zamperini' 有效消解 N1_2 question 中的 'that person'，分解链答案聚合后可支撑 ROOT 推理；③全部节点（N0, N1_1, N1_2）critic_health 均为 heal"
+      }
+    }
+  ]
+}

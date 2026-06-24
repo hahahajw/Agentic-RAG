@@ -1,0 +1,535 @@
+{
+  "question_index": 83,
+  "question_id": "5a86ab7755429960ec39b6bf",
+  "question": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+  "answer": "an adventure novel",
+  "prediction": "adventure novel",
+  "error": null,
+  "latency_ms": 146091.0900000017,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T16:56:57.802760+00:00",
+  "chunks": [
+    {
+      "chunk_id": "54e7cc94-147b-44a4-a0c5-c37b62477a83",
+      "chunk_title": "Good Times Burgers & Frozen Custard",
+      "chunk_summary": "This chunk contains information about the fast-food chain Good Times Burgers & Frozen Custard, including its location, specialties, ownership details, and number of operating locations.",
+      "context_title": "Good Times Burgers &amp; Frozen Custard",
+      "page_content": "36 Good Times Burgers & Frozen Custard locations are in Colorado. Good Times Restaurants Inc. owns and operates 38 Good Times Burgers & Frozen Custard locations. Good Times Restaurants Inc. owns Good Times Burgers & Frozen Custard locations. Good Times Restaurants Inc. operates Good Times Burgers & Frozen Custard locations. Good Times Burgers & Frozen Custard is a fast-food restaurant. Good Times Burgers & Frozen Custard is based in Golden, Colorado. Good Times Burgers & Frozen Custard specializes in premium burgers. Two Good Times Burgers & Frozen Custard locations are in Wyoming. Good Times Burgers & Frozen Custard specializes in frozen custard."
+    },
+    {
+      "chunk_id": "d3f96b98-1651-4d7f-a72e-7c1df1c13c3c",
+      "chunk_title": "Seafood Fast Food Offerings",
+      "chunk_summary": "This chunk contains information about seafood-focused fast-food restaurant chains, including details on the types of raw, smoked, prepared seafood products and specific items like fish sandwiches and salads they sell.",
+      "context_title": "Nordsee",
+      "page_content": "Nordsee sells smoked seafood. Fischbrötchen are fish sandwiches. Nordsee is a German fast-food restaurant chain. Nordsee sells canned seafood. The company Nordsee formerly supplied its own seafood. Nordsee sells a wide variety of meals prepared from seafood. Nordsee sells salads. Nordsee sells Fischbrötchen. Nordsee specialises in seafood. Nordsee sells raw seafood. Nordsee sells a wide variety of products prepared from seafood."
+    },
+    {
+      "chunk_id": "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+      "chunk_title": "Long John Silver's Overview",
+      "chunk_summary": "This chunk contains information about the American fast-food restaurant chain Long John Silver's, including its seafood specialization, brand name origin, and corporate ownership history.",
+      "context_title": "Long John Silver's",
+      "page_content": "The brand name Long John Silver's is derived from the novel \"Treasure Island\". Long John Silver's LLC was divested to a group of franchisees. Long John Silver's LLC was formerly a division of Yum! Brands, Inc. Long John Silver's LLC is an American fast-food restaurant chain. Long John Silver's LLC was divested to a group of franchisees in September 2011. Long John Silver's LLC specializes in seafood."
+    },
+    {
+      "chunk_id": "b37ca8c3-9df0-4553-95e5-8642d1413d5f",
+      "chunk_title": "Oyster Bars",
+      "chunk_summary": "This chunk contains information about oyster bars, including their definitions as restaurants or buffet sections, international terminology, and a list of notable establishments.",
+      "context_title": "List of oyster bars",
+      "page_content": "In France, the oyster bar is known as \"bar à huîtres\". An oyster bar is a section of a restaurant which serves oysters buffet-style. This is a list of notable oyster bars. An oyster bar is a restaurant specializing in serving oysters."
+    },
+    {
+      "chunk_id": "92552fde-0b8e-4584-a6d7-94ad18904a27",
+      "chunk_title": "Oyster Bars",
+      "chunk_summary": "This chunk contains information about the definitions, alternative names, service styles, and international terminology for establishments specializing in oysters.",
+      "context_title": "Oyster bar",
+      "page_content": "In France, the oyster bar is known as \"bar à huîtres\". An oyster bar is also known as a raw bar. An oyster bar is also known as an oyster house. An oyster bar is also known as an oyster saloon. An oyster bar is a section of a restaurant which serves oysters buffet-style. An oyster bar is a restaurant specializing in serving oysters."
+    },
+    {
+      "chunk_id": "e412c928-3816-4325-ab83-df35daee32e9",
+      "chunk_title": "The Crab Cooker Overview",
+      "chunk_summary": "This chunk contains information about The Crab Cooker, a historic seafood restaurant in Newport Beach, California, including its location, building history, establishment date, status as a local landmark, and critical acclaim.",
+      "context_title": "The Crab Cooker",
+      "page_content": "The Crab Cooker is a popular Southern California restaurant. The old branch building of the Bank of America housing The Crab Cooker is located at 22nd & Newport Blvd. The Crab Cooker is considered a local landmark. The Crab Cooker specializes in seafood. In 1969, Venture Magazine rated The Crab Cooker as one of the top two restaurants in the world. The Crab Cooker is located on the Balboa Peninsula in Newport Beach, California. The Crab Cooker was established in 1951. The Crab Cooker is housed in an old branch building of the Bank of America. The logo of the Bank of America prior to its merger with NationsBank can still be seen embedded in the corner of the building housing The Crab Cooker."
+    },
+    {
+      "chunk_id": "d544a95d-93d1-49c1-a297-258afe73768f",
+      "chunk_title": "Awards & Recognition",
+      "chunk_summary": "This chunk contains information about awards and recognition received by restaurants, specifically focusing on survey results and rankings.",
+      "context_title": "Moe's Southwest Grill",
+      "page_content": "In the 2016 Harris Poll EquiTrend survey, Moe's Southwest Grill passed former top restaurant Chipotle Mexican Grill. According to the 2016 Harris Poll EquiTrend survey, Moe's Southwest Grill is the \"Fast Casual Mexican Restaurant of the Year\"."
+    },
+    {
+      "chunk_id": "436c88f2-ac1f-4cb0-a52b-aab6e6d1dc9f",
+      "chunk_title": "Cortlandt Town Center Overview",
+      "chunk_summary": "This chunk contains information about the location, physical characteristics, and key tenants of the Cortlandt Town Center.",
+      "context_title": "Cortlandt Town Center",
+      "page_content": "The Cortlandt Town Center contains several restaurants. Modell's is an anchor store at the Cortlandt Town Center. Five Guys is a restaurant located in the Cortlandt Town Center. Wal-Mart is an anchor store at the Cortlandt Town Center. Old Navy is an anchor store at the Cortlandt Town Center. Michaels is an anchor store at the Cortlandt Town Center. PetSmart is an anchor store at the Cortlandt Town Center. Acme Markets is an anchor store at the Cortlandt Town Center. The Cortlandt Town Center is located in the Mohegan Lake ZIP code area. The Cortlandt Town Center is located in the town of Cortlandt, New York. The Cortlandt Town Center contains a GameStop. Applebee's is a restaurant located in the Cortlandt Town Center. Bed Bath & Beyond is an anchor store at the Cortlandt Town Center. The Cortlandt Town Center contains a 12-screen United Artists Theater. Best Buy is an anchor store at the Cortlandt Town Center. Subway is a restaurant located in the Cortlandt Town Center. McDonald's is a restaurant located in the Cortlandt Town Center. Barnes & Noble is an anchor store at the Cortlandt Town Center. The Cortlandt Town Center contains the Mohegan Lake post office. DSW is an anchor store at the Cortlandt Town Center. The Cortlandt Town Center is currently a predominantly outdoor shopping center. The Cortlandt Town Center contains a Five Below. The Cortlandt Town Center contains a Famous Footwear. Blimpie is located inside Wal-Mart at the Cortlandt Town Center. Office Max is an anchor store at the Cortlandt Town Center. Moe's Southwest Grill is a restaurant located in the Cortlandt Town Center. Blimpie is a restaurant located in the Cortlandt Town Center. Marshall's is an anchor store at the Cortlandt Town Center. The Cortlandt Town Center eventually grew to approximately 772,000 square feet. Panera Bread is a restaurant located in the Cortlandt Town Center. The Home Depot is an anchor store at the Cortlandt Town Center. The Cortlandt Town Center contains a DressBarn."
+    },
+    {
+      "chunk_id": "e55b0bd9-1aa9-4fdd-a1d7-e206b0b43401",
+      "chunk_title": "Establishments & Businesses",
+      "chunk_summary": "This chunk contains information about the types of establishments or businesses mentioned.",
+      "context_title": "Joe's Pub",
+      "page_content": "Joe's Pub is a restaurant."
+    },
+    {
+      "chunk_id": "3f71d646-52ff-4215-a81d-15f533015f3d",
+      "chunk_title": "Dutch Name Barend",
+      "chunk_summary": "This chunk contains information about the usage, spelling variations, and origin of the Dutch name Barend.",
+      "context_title": "Barend",
+      "page_content": "Barend is a Dutch male given name. Barent is a somewhat dated spelling of Barend. As of 2014, there are over 4,000 men in the Netherlands with Barend as their first name. As of 2014, there are nearly 3,000 men in the Netherlands with Barend as their middle name. The name Barend was likely derived from Bernard. Barend is an occasional Dutch middle name."
+    },
+    {
+      "chunk_id": "6fd3a115-29d6-47e2-b1c8-bea33f3ff110",
+      "chunk_title": "St. Lars Cuisine",
+      "chunk_summary": "This chunk contains information about the unique ingredients, exotic meat sources, and specific cooking methods used by the restaurant St. Lars.",
+      "context_title": "St. Lars restaurant",
+      "page_content": "The restaurant St. Lars is known for using meat from horses. The cuisine at St. Lars has an emphasis on Norwegian produce. Everything apart from the horse tartar at St. Lars has been cooked on a custom made grill. The cuisine at St. Lars has an emphasis on unusual cooking techniques. The restaurant St. Lars is known for using meat from bear. The cuisine at St. Lars is based on serving raw or grilled food. The restaurant St. Lars is known for using meat from pigs from Bygdø Royal Farm's petting zoo."
+    },
+    {
+      "chunk_id": "a9e02588-939c-46f2-9e8a-92f75628185c",
+      "chunk_title": "Fictional Name Origins",
+      "chunk_summary": "This chunk contains information about the origins of names for fictional locations or entities, specifically those derived from other works of fiction like films.",
+      "context_title": "Korova (record label)",
+      "page_content": "Korova is named after the fictitious Korova Milk Bar. The fictitious Korova Milk Bar was featured in the film \"A Clockwork Orange\"."
+    },
+    {
+      "chunk_id": "5e4e5d56-175c-4769-b9c4-689f32010ef1",
+      "chunk_title": "Literary Works & Characters",
+      "chunk_summary": "This chunk contains information about the authorship and main characters of literary works.",
+      "context_title": "Long John Silver's",
+      "page_content": "The pirate \"Long John\" Silver is one of the main characters in the novel \"Treasure Island\". \"Treasure Island\" was written by Robert Louis Stevenson."
+    },
+    {
+      "chunk_id": "8068d59c-6df3-4c4b-924f-0289b6db1d86",
+      "chunk_title": "Are You Being Served? Overview",
+      "chunk_summary": "This chunk contains information about the British sitcom \"Are You Being Served?\", including its creators, writers, directors, contributors, production details, setting, original styling, and plot premise.",
+      "context_title": "Are You Being Served?",
+      "page_content": "David Croft wrote the British sitcom \"Are You Being Served?\". Jeremy Lloyd wrote the British sitcom \"Are You Being Served?\". David Croft created the British sitcom \"Are You Being Served?\". Jeremy Lloyd created the British sitcom \"Are You Being Served?\". John Chapman made contributions to the British sitcom \"Are You Being Served?\". The retail ladies' and gentlemen's clothing departments are located in the flagship department store of a fictional chain called Grace Brothers. \"Are You Being Served?\" was originally styled as \"Are You Being Served?\" in quotation marks. Michael Knowles made contributions to the British sitcom \"Are You Being Served?\". The British sitcom \"Are You Being Served?\" is set in London. Grace Brothers is a fictional chain. David Croft directed some episodes of the British sitcom \"Are You Being Served?\". \"Are You Being Served?\" is a British sitcom. The British sitcom \"Are You Being Served?\" was produced for the BBC. The show \"Are You Being Served?\" follows the misadventures and mishaps of the staff of the retail ladies' and gentlemen's clothing departments."
+    },
+    {
+      "chunk_id": "d5f8f3ac-1960-4fe4-92f9-bfa1d2132a97",
+      "chunk_title": "Zips Slang Term",
+      "chunk_summary": "This chunk contains information about the slang term \"Zips,\" including its alternative names, derogatory usage by Italian and Sicilian American mobsters towards newer immigrants, and various theories regarding its etymological origins.",
+      "context_title": "Zips",
+      "page_content": "Another theory suggests the term Zips is a contraction of the Sicilian slang term for \"hicks\" or \"primitives.\" The older Sicilian mafiosi of pre-Prohibition known as \"Mustache Petes\" were also referred to as zips. Zips is also known as Geeps. Zips is also known as Siggies. Zips is a slang term. The name Zips is said to have originated from mobsters' inability to understand the faster-speaking Sicilian dialects. The faster-speaking Sicilian dialects appeared to \"zip\" by. Italian American and Sicilian American mobsters use the term Zips in reference to newer immigrant Sicilian mafiosi. Italian American and Sicilian American mobsters use the term Zips in reference to newer immigrant Italian mafiosi. One theory suggests the term Zips includes pejorative uses such as Sicilians' preference for silent, homemade zip guns. Zips is often used as a derogatory slur by Sicilian American mobsters. Zips is often used as a derogatory slur by Italian American mobsters."
+    },
+    {
+      "chunk_id": "684e2e6a-b382-4a19-9afc-d3386a3da918",
+      "chunk_title": "Literary Works",
+      "chunk_summary": "This chunk contains information about the genre, plot themes, and classification of specific literary works.",
+      "context_title": "Treasure Island",
+      "page_content": "Treasure Island narrates a tale of buccaneers and buried gold. Treasure Island is an adventure novel."
+    },
+    {
+      "chunk_id": "107c58bd-15d2-4322-8ed2-b52ddf173231",
+      "chunk_title": "Hotel & Casino Aliases",
+      "chunk_summary": "This chunk contains information about the alternative names, aliases, and general classification of specific hotels and casinos.",
+      "context_title": "Treasure Island Hotel and Casino",
+      "page_content": "Treasure Island Hotel & Casino is a hotel. Treasure Island Hotel & Casino is also known as \"TI\". Treasure Island Hotel & Casino is a casino."
+    },
+    {
+      "chunk_id": "c724e43c-126c-4e28-a41e-e8c03b644975",
+      "chunk_title": "Hotel & Casino Rooms",
+      "chunk_summary": "This chunk contains information about the number of rooms and suites at specific hotels and casinos.",
+      "context_title": "Treasure Island Hotel and Casino",
+      "page_content": "Treasure Island Hotel & Casino has 2,664 rooms. Treasure Island Hotel & Casino has 220 suites."
+    },
+    {
+      "chunk_id": "7e4ce5e4-8831-482b-8543-0a83dcbcf788",
+      "chunk_title": "Hotel & Casino Locations",
+      "chunk_summary": "This chunk contains information about the locations and transportation connections of specific hotels and casinos.",
+      "context_title": "Treasure Island Hotel and Casino",
+      "page_content": "Treasure Island Hotel & Casino is located on the Las Vegas Strip. Treasure Island Hotel & Casino is connected by a pedestrian bridge to the Fashion Show Mall shopping center. Treasure Island Hotel & Casino is located in Paradise, Nevada, USA. Treasure Island Hotel & Casino is connected by tram to The Mirage."
+    },
+    {
+      "chunk_id": "dd3e2f87-c3a7-4404-a2b3-a23d13669604",
+      "chunk_title": "Hotel & Casino Locations",
+      "chunk_summary": "This chunk contains information about the locations of hotels and casinos.",
+      "context_title": "Mystère (Cirque du Soleil)",
+      "page_content": "The Treasure Island Hotel and Casino is in Las Vegas, Nevada, United States."
+    },
+    {
+      "chunk_id": "d0a2f89c-a2e0-4e86-ba24-7f30ef5d7b8b",
+      "chunk_title": "Mystère Show Details",
+      "chunk_summary": "This chunk contains information about the Cirque du Soleil show Mystère, including its location, status among other Las Vegas resident shows, premiere date, audience reception, and performance style.",
+      "context_title": "Mystère (Cirque du Soleil)",
+      "page_content": "Mystère quickly won over audiences with its unique style of circus entertainment. The other resident Cirque du Soleil shows in Las Vegas are \"O\", \"Zumanity\", \"Kà\", \"Love\", and an unnamed show. Mystère was first performed on December 25, 1993. Mystère features a mixture of circus skills, dance, elaborate sets, opera, worldbeat music, and street theatre-style comedy. Mystère is in permanent residence at the Treasure Island Hotel and Casino. Mystère is a Cirque du Soleil show. Many Cirque du Soleil productions feature a mixture of circus skills, dance, elaborate sets, opera, worldbeat music, and street theatre-style comedy. Mystère is one of six resident Cirque du Soleil shows in Las Vegas."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 0.3333333333333333,
+  "retrieval_precision": 0.14285714285714285,
+  "retrieval_count": 3,
+  "total_chunks": 21,
+  "total_distinct_titles": 17,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 4,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要聚合子节点的推理结果来回答最终问题",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。当前子节点 N1_1, N1_2, N1_3 均提供了明确答案，且依赖关系在语义上成立（见下文分析）。虽然 N1_1 返回了多个候选实体，但后续链路成功锁定了其中一个有效路径（Long John Silver's -> Treasure Island -> adventure novel），足以支撑 ROOT 的最终答案生成。",
+          "critic_normative_advice": "建议 INHERIT。子节点推理链完整，证据充分，可生成最终答案 'adventure novel'。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the name of the fast-food restaurant specializing in seafood?",
+          "answer": "Nordsee, Long John Silver's",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the name of the fast-food restaurant specializing in seafood?",
+          "planner_rationale": "Q 的核心实体是‘一家专营海鲜的快餐店’。要找到它名字来源的小说，首先必须确定这家餐厅的名字。这是分解 Q 的第一步。",
+          "solver_judgment": "question 要求提供专门经营海鲜的快餐店名称。search_query 搜索了 'What is the name of the fast-food restaurant specializing in seafood?'。chunks 返回了多个相关实体：\n1. chunk d3f96b98-1651-4d7f-a72e-7c1df1c13c3c 明确指出 \"Nordsee is a German fast-food restaurant chain\" 且 \"Nordsee specialises in seafood\"。\n2. chunk d7fc0843-6248-48ae-a9c8-23e7fec9f38f 明确指出 \"Long John Silver's LLC is an American fast-food restaurant chain\" 且 \"Long John Silver's LLC specializes in seafood\"。\n3. chunk e412c928-3816-4325-ab83-df35daee32e9 提到 The Crab Cooker 专门经营海鲜，但未明确将其归类为 \"fast-food\"（通常描述为 restaurant），因此未纳入主要答案，但检索整体非常精准，直接命中了符合 \"fast-food\" 和 \"seafood\" 两个条件的目标实体。",
+          "critic_factual_notes": "2 个独立来源（Nordsee, Long John Silver's）一致确认了它们是专营海鲜的快餐店。Solver 正确识别了这两个主要实体。虽然答案包含两个选项，但这反映了现实世界中存在多家符合描述的餐厅，为后续步骤提供了必要的候选集。",
+          "critic_normative_advice": "建议 INHERIT。证据充分。注意：由于存在多个候选餐厅，后续节点需验证哪一家餐厅的名字确实来源于小说，或者是否所有候选都满足条件。当前 DAG 通过 N1_2 成功处理了这一分支。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "From which novel does the fast-food restaurant [Restaurant Name] derive its name?",
+          "answer": "Treasure Island",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "novel Long John Silver's restaurant name derived from",
+          "planner_rationale": "一旦知道了餐厅的名字（来自 $1），就需要找出这个名字来源于哪部小说。这是连接餐厅和小说的关键步骤。注意：此问题的 question 中包含指代词 '[Restaurant Name]'，实际搜索时需要用 $1 的答案替换。",
+          "solver_judgment": "question 要求找出快餐连锁店 Long John Silver's 的名字源自哪部小说。search_query 搜索了 'novel Long John Silver's restaurant name derived from'。chunks 返回了关于 Long John Silver's 的信息，其中 chunk d7fc0843-6248-48ae-a9c8-23e7fec9f38f 明确记载 \"The brand name Long John Silver's is derived from the novel 'Treasure Island'\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个直接来源（Long John Silver's chunk d7fc0843...）明确陈述 'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'。该来源直接、具体地回答了问题。虽然 N1_1 也提到了 Nordsee，但 N1_2 的搜索查询针对 'Long John Silver's' 进行了消歧，并找到了确凿证据。对于 Nordsee，未找到其名字来源于小说的证据（隐含在搜索结果的不匹配中，且 Solver 聚焦于有明确证据的 Long John Silver's 是合理的策略，因为 Q 暗示存在这样一个特定的小说来源）。",
+          "critic_normative_advice": "建议 INHERIT。单来源直接陈述，证据充分。成功将实体从 '餐厅' 链接到 '小说'。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the genre of the novel [Novel Title]?",
+          "answer": "adventure novel",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Treasure Island genre",
+          "planner_rationale": "一旦知道了小说的名字（来自 $2），最后一步是确定这部小说的体裁（genre），从而直接回答 Q。注意：此问题的 question 中包含指代词 '[Novel Title]'，实际搜索时需要用 $2 的答案替换。",
+          "solver_judgment": "question 要求确认小说《Treasure Island》的体裁（genre）。search_query 搜索了 'Treasure Island genre'。chunks 返回了关于小说《Treasure Island》和同名酒店/赌场的混合信息。其中 chunk_684e2e6a-b382-4a19-9afc-d3386a3da918 明确记载 \"Treasure Island is an adventure novel\"，直接回答了问题。其他 chunks 主要涉及酒店设施、位置或角色作者信息，与体裁无关。检索精准，命中了关键信息。",
+          "critic_factual_notes": "1 个直接来源（Treasure Island chunk 684e2e6a...）明确陈述 'Treasure Island is an adventure novel'。该来源直接、具体地回答了关于小说体裁的问题。",
+          "critic_normative_advice": "建议 INHERIT。单来源直接陈述，证据充分。完成了从 '小说' 到 '体裁' 的最后一步推理。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，等待子节点推理链聚合最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。当前子节点 N1_1, N1_2, N1_3 均提供了明确答案，且依赖关系在语义上成立。虽然 N1_1 返回了多个候选实体（Nordsee, Long John Silver's），但后续链路成功锁定了其中一个有效路径（Long John Silver's -> Treasure Island -> adventure novel），足以支撑 ROOT 的最终答案生成。",
+          "critic_normative_advice": "建议 INHERIT。子节点推理链完整，证据充分，可生成最终答案 'adventure novel'。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the name of the fast-food restaurant specializing in seafood?",
+          "answer": "Nordsee, Long John Silver's",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the name of the fast-food restaurant specializing in seafood?",
+          "planner_rationale": "已确立：识别出两家专营海鲜的快餐店（Nordsee, Long John Silver's），为后续溯源提供候选集",
+          "solver_judgment": "question 要求提供专门经营海鲜的快餐店名称。search_query 搜索了 'What is the name of the fast-food restaurant specializing in seafood?'。chunks 返回了多个相关实体：\n1. chunk d3f96b98-1651-4d7f-a72e-7c1df1c13c3c 明确指出 \"Nordsee is a German fast-food restaurant chain\" 且 \"Nordsee specialises in seafood\"。\n2. chunk d7fc0843-6248-48ae-a9c8-23e7fec9f38f 明确指出 \"Long John Silver's LLC is an American fast-food restaurant chain\" 且 \"Long John Silver's LLC specializes in seafood\"。\n3. chunk e412c928-3816-4325-ab83-df35daee32e9 提到 The Crab Cooker 专门经营海鲜，但未明确将其归类为 \"fast-food\"（通常描述为 restaurant），因此未纳入主要答案，但检索整体非常精准，直接命中了符合 \"fast-food\" 和 \"seafood\" 两个条件的目标实体。",
+          "critic_factual_notes": "2 个独立来源（文档 Nordsee, 文档 Long John Silver's）一致确认了它们是专营海鲜的快餐店。Chunk d3f96b98... 明确陈述 'Nordsee specialises in seafood' 且是 'fast-food restaurant chain'。Chunk d7fc0843... 明确陈述 'Long John Silver's LLC specializes in seafood' 且是 'fast-food restaurant chain'。Solver 正确识别了这两个主要实体。",
+          "critic_normative_advice": "建议 INHERIT。证据充分。注意：由于存在多个候选餐厅，后续节点需验证哪一家餐厅的名字确实来源于小说。当前 DAG 通过 N1_2 成功处理了这一分支。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "From which novel does the fast-food restaurant [Restaurant Name] derive its name?",
+          "answer": "Treasure Island",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "novel Long John Silver's restaurant name derived from",
+          "planner_rationale": "已确立：Long John Silver's 的名字来源于小说《Treasure Island》，成功从餐厅链接到小说",
+          "solver_judgment": "question 要求找出快餐连锁店 Long John Silver's 的名字源自哪部小说。search_query 搜索了 'novel Long John Silver's restaurant name derived from'。chunks 返回了关于 Long John Silver's 的信息，其中 chunk d7fc0843-6248-48ae-a9c8-23e7fec9f38f 明确记载 \"The brand name Long John Silver's is derived from the novel 'Treasure Island'\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个直接来源（文档 Long John Silver's, chunk d7fc0843...）明确陈述 'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'。该来源直接、具体地回答了问题。虽然 N1_1 也提到了 Nordsee，但 N1_2 的搜索查询针对 'Long John Silver's' 进行了消歧，并找到了确凿证据。对于 Nordsee，未找到其名字来源于小说的证据，且 Solver 聚焦于有明确证据的 Long John Silver's 是合理的策略。",
+          "critic_normative_advice": "建议 INHERIT。单来源直接陈述，证据充分。成功将实体从 '餐厅' 链接到 '小说'。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the genre of the novel [Novel Title]?",
+          "answer": "adventure novel",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Treasure Island genre",
+          "planner_rationale": "已确立：《Treasure Island》的体裁是 adventure novel，直接回答了 Q 的核心询问",
+          "solver_judgment": "question 要求确认小说《Treasure Island》的体裁（genre）。search_query 搜索了 'Treasure Island genre'。chunks 返回了关于小说《Treasure Island》和同名酒店/赌场的混合信息。其中 chunk_684e2e6a-b382-4a19-9afc-d3386a3da918 明确记载 \"Treasure Island is an adventure novel\"，直接回答了问题。其他 chunks 主要涉及酒店设施、位置或角色作者信息，与体裁无关。检索精准，命中了关键信息。",
+          "critic_factual_notes": "1 个直接来源（文档 Treasure Island, chunk 684e2e6a...）明确陈述 'Treasure Island is an adventure novel'。该来源直接、具体地回答了关于小说体裁的问题。其他检索结果多为无关的酒店信息，但支撑 chunk 准确命中目标。",
+          "critic_normative_advice": "建议 INHERIT。单来源直接陈述，证据充分。完成了从 '小说' 到 '体裁' 的最后一步推理。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What genre is the novel from which the fast-food restaurant specializing in seafood derives its name?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，等待子节点推理链聚合最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。当前子节点 N1_1, N1_2, N1_3 均提供了明确答案，且依赖关系在语义上成立。虽然 N1_1 返回了多个候选实体（Nordsee, Long John Silver's），但后续链路成功锁定了其中一个有效路径（Long John Silver's -> Treasure Island -> adventure novel），足以支撑 ROOT 的最终答案生成。",
+          "critic_normative_advice": "建议 INHERIT。子节点推理链完整，证据充分，可生成最终答案 'adventure novel'。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the name of the fast-food restaurant specializing in seafood?",
+          "answer": "Nordsee, Long John Silver's",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the name of the fast-food restaurant specializing in seafood?",
+          "planner_rationale": "已确立：识别出两家专营海鲜的快餐店（Nordsee, Long John Silver's），为后续溯源提供候选集",
+          "solver_judgment": "question 要求提供专门经营海鲜的快餐店名称。search_query 搜索了 'What is the name of the fast-food restaurant specializing in seafood?'。chunks 返回了多个相关实体：\n1. chunk d3f96b98-1651-4d7f-a72e-7c1df1c13c3c 明确指出 \"Nordsee is a German fast-food restaurant chain\" 且 \"Nordsee specialises in seafood\"。\n2. chunk d7fc0843-6248-48ae-a9c8-23e7fec9f38f 明确指出 \"Long John Silver's LLC is an American fast-food restaurant chain\" 且 \"Long John Silver's LLC specializes in seafood\"。\n3. chunk e412c928-3816-4325-ab83-df35daee32e9 提到 The Crab Cooker 专门经营海鲜，但未明确将其归类为 \"fast-food\"（通常描述为 restaurant），因此未纳入主要答案，但检索整体非常精准，直接命中了符合 \"fast-food\" 和 \"seafood\" 两个条件的目标实体。",
+          "critic_factual_notes": "2 个独立来源（文档 Nordsee, 文档 Long John Silver's）一致确认了它们是专营海鲜的快餐店。Chunk d3f96b98... 明确陈述 'Nordsee specialises in seafood' 且是 'fast-food restaurant chain'。Chunk d7fc0843... 明确陈述 'Long John Silver's LLC specializes in seafood' 且是 'fast-food restaurant chain'。Solver 正确识别了这两个主要实体。",
+          "critic_normative_advice": "建议 INHERIT。证据充分。注意：由于存在多个候选餐厅，后续节点需验证哪一家餐厅的名字确实来源于小说。当前 DAG 通过 N1_2 成功处理了这一分支。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "From which novel does the fast-food restaurant [Restaurant Name] derive its name?",
+          "answer": "Treasure Island",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "novel Long John Silver's restaurant name derived from",
+          "planner_rationale": "已确立：Long John Silver's 的名字来源于小说《Treasure Island》，成功从餐厅链接到小说",
+          "solver_judgment": "question 要求找出快餐连锁店 Long John Silver's 的名字源自哪部小说。search_query 搜索了 'novel Long John Silver's restaurant name derived from'。chunks 返回了关于 Long John Silver's 的信息，其中 chunk d7fc0843-6248-48ae-a9c8-23e7fec9f38f 明确记载 \"The brand name Long John Silver's is derived from the novel 'Treasure Island'\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个直接来源（文档 Long John Silver's, chunk d7fc0843...）明确陈述 'The brand name Long John Silver's is derived from the novel \"Treasure Island\"'。该来源直接、具体地回答了问题。虽然 N1_1 也提到了 Nordsee，但 N1_2 的搜索查询针对 'Long John Silver's' 进行了消歧，并找到了确凿证据。对于 Nordsee，未找到其名字来源于小说的证据，且 Solver 聚焦于有明确证据的 Long John Silver's 是合理的策略。",
+          "critic_normative_advice": "建议 INHERIT。单来源直接陈述，证据充分。成功将实体从 '餐厅' 链接到 '小说'。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What is the genre of the novel [Novel Title]?",
+          "answer": "adventure novel",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Treasure Island genre",
+          "planner_rationale": "已确立：《Treasure Island》的体裁是 adventure novel，直接回答了 Q 的核心询问",
+          "solver_judgment": "question 要求确认小说《Treasure Island》的体裁（genre）。search_query 搜索了 'Treasure Island genre'。chunks 返回了关于小说《Treasure Island》和同名酒店/赌场的混合信息。其中 chunk_684e2e6a-b382-4a19-9afc-d3386a3da918 明确记载 \"Treasure Island is an adventure novel\"，直接回答了问题。其他 chunks 主要涉及酒店设施、位置或角色作者信息，与体裁无关。检索精准，命中了关键信息。",
+          "critic_factual_notes": "1 个直接来源（文档 Treasure Island, chunk 684e2e6a...）明确陈述 'Treasure Island is an adventure novel'。该来源直接、具体地回答了关于小说体裁的问题。其他检索结果多为无关的酒店信息，但支撑 chunk 准确命中目标。",
+          "critic_normative_advice": "建议 INHERIT。单来源直接陈述，证据充分。完成了从 '小说' 到 '体裁' 的最后一步推理。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the name of the fast-food restaurant specializing in seafood?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "54e7cc94-147b-44a4-a0c5-c37b62477a83",
+        "d3f96b98-1651-4d7f-a72e-7c1df1c13c3c",
+        "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+        "b37ca8c3-9df0-4553-95e5-8642d1413d5f",
+        "92552fde-0b8e-4584-a6d7-94ad18904a27",
+        "e412c928-3816-4325-ab83-df35daee32e9",
+        "d544a95d-93d1-49c1-a297-258afe73768f",
+        "436c88f2-ac1f-4cb0-a52b-aab6e6d1dc9f"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "novel Long John Silver's restaurant name derived from",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+        "e55b0bd9-1aa9-4fdd-a1d7-e206b0b43401",
+        "3f71d646-52ff-4215-a81d-15f533015f3d",
+        "6fd3a115-29d6-47e2-b1c8-bea33f3ff110",
+        "a9e02588-939c-46f2-9e8a-92f75628185c",
+        "5e4e5d56-175c-4769-b9c4-689f32010ef1",
+        "8068d59c-6df3-4c4b-924f-0289b6db1d86",
+        "d5f8f3ac-1960-4fe4-92f9-bfa1d2132a97"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Treasure Island genre",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "684e2e6a-b382-4a19-9afc-d3386a3da918",
+        "107c58bd-15d2-4322-8ed2-b52ddf173231",
+        "c724e43c-126c-4e28-a41e-e8c03b644975",
+        "7e4ce5e4-8831-482b-8543-0a83dcbcf788",
+        "5e4e5d56-175c-4769-b9c4-689f32010ef1",
+        "d7fc0843-6248-48ae-a9c8-23e7fec9f38f",
+        "dd3e2f87-c3a7-4404-a2b3-a23d13669604",
+        "d0a2f89c-a2e0-4e86-ba24-7f30ef5d7b8b"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 3,
+      "hypothesis_target": "Q 需要确立以下事实: \nF1: 那家专营海鲜的快餐店叫什么名字？（理由：Q 询问的是该餐厅名字来源的小说的体裁，因此首先必须识别出这家餐厅。）\nF2: 这家餐厅的名字来源于哪部小说？（理由：确定了餐厅名字后，需要追溯其命名来源，即具体的小说标题。）\nF3: 这部小说是什么体裁？（理由：这是 Q 的最终询问目标，需要基于 F2 找到的小说标题来查询其体裁。）\n\n关系: \nF1 是 Q 的直接分解产物（decomposition）。\nF2 依赖于 F1（dependency）——因为 F2 的搜索查询需要注入 F1 的答案（餐厅名字）才能准确执行。\nF3 依赖于 F2（dependency）——因为 F3 的搜索查询需要注入 F2 的答案（小说标题）才能准确执行。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。\n初始分解策略：采用链式依赖结构。\n1. 新增 N0 (ROOT, INHERIT)。\n2. 新增 $1 (INITIALIZE): 识别餐厅名称。\n3. 新增 $2 (INITIALIZE): 识别小说名称（依赖 $1）。\n4. 新增 $3 (INITIALIZE): 识别小说体裁（依赖 $2）。\n5. 建立边 N0→$1 (decomposition), $1→$2 (dependency), $2→$3 (dependency)。\n理由：Q 是一个多层嵌套的问题（A 的 B 的 C），逻辑上必须先解出最内层的实体（餐厅），再逐层向外推导（小说 -> 体裁）。使用 dependency 边确保搜索时能利用前一步的答案进行消歧和精确查询。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 提供餐厅名 -> N1_2 解析出小说名 -> N1_3 解析出体裁，每步依赖均有效消解指代）；③ 所有节点（含 ROOT）审查结果为 healthy；④ 首轮无历史对比，视为满足。置信度高，证据链完整且来源可靠。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 那家专营海鲜的快餐店叫什么名字？（理由：Q 询问的是该餐厅名字来源的小说的体裁，因此首先必须识别出这家餐厅。）F2: 这家餐厅的名字来源于哪部小说？（理由：确定了餐厅名字后，需要追溯其命名来源，即具体的小说标题。）F3: 这部小说是什么体裁？（理由：这是 Q 的最终询问目标，需要基于 F2 找到的小说标题来查询其体裁。）关系: F1 是 Q 的直接分解产物（decomposition）。F2 依赖于 F1（dependency）——因为 F2 的搜索查询需要注入 F1 的答案（餐厅名字）才能准确执行。F3 依赖于 F2（dependency）——因为 F3 的搜索查询需要注入 F2 的答案（小说标题）才能准确执行。当前 DAG 结构完整覆盖了这一逻辑链，且所有子节点均已 SOLVED + healthy。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均通过 INHERIT 保留，所有边均通过 LINK 显式声明保留。原因：Critic 确认 DAG 结构合理，依赖边语义有效，证据链完整且收敛。N1_1 虽返回多个候选，但 N1_2 和 N1_3 成功锁定并验证了 Long John Silver's -> Treasure Island -> adventure novel 这一有效路径，无需额外分支或修正。上一轮遗漏了显式声明保留边的 LINK 原语，本轮已补全。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1→N1_2→N1_3 依赖有效，指代消解成功）；③ 全部节点 healthy（证据充分，来源一致或直接）；④ 拓扑连续稳定。置信度高，可生成最终答案 'adventure novel'。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 那家专营海鲜的快餐店叫什么名字？（理由：Q 询问的是该餐厅名字来源的小说的体裁，因此首先必须识别出这家餐厅。）F2: 这家餐厅的名字来源于哪部小说？（理由：确定了餐厅名字后，需要追溯其命名来源，即具体的小说标题。）F3: 这部小说是什么体裁？（理由：这是 Q 的最终询问目标，需要基于 F2 找到的小说标题来查询其体裁。）关系: F1 是 Q 的直接分解产物（decomposition）。F2 依赖于 F1（dependency）——因为 F2 的搜索查询需要注入 F1 的答案（餐厅名字）才能准确执行。F3 依赖于 F2（dependency）——因为 F3 的搜索查询需要注入 F2 的答案（小说标题）才能准确执行。当前 DAG 结构完整覆盖了这一逻辑链，且所有子节点均已 SOLVED + healthy。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均通过 INHERIT 保留，所有边均通过 LINK 显式声明保留。原因：Critic 确认 DAG 结构合理，依赖边语义有效，证据链完整且收敛。N1_1 虽返回多个候选，但 N1_2 和 N1_3 成功锁定并验证了 Long John Silver's -> Treasure Island -> adventure novel 这一有效路径，无需额外分支或修正。上一轮遗漏了显式声明保留边的 LINK 原语，本轮已补全。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1→N1_2→N1_3 依赖有效，指代消解成功）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续两轮无变化。置信度高，可生成最终答案 'adventure novel'。"
+      }
+    }
+  ]
+}

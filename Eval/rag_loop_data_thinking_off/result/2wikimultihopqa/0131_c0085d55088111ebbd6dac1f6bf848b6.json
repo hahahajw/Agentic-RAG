@@ -1,0 +1,929 @@
+{
+  "question_index": 131,
+  "question_id": "c0085d55088111ebbd6dac1f6bf848b6",
+  "question": "Which film has the director born earlier, High Society Blues or Counterblast?",
+  "answer": "Counterblast",
+  "prediction": "Counterblast",
+  "error": null,
+  "latency_ms": 242008.32520000404,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T17:49:16.938920+00:00",
+  "chunks": [
+    {
+      "chunk_id": "2c041694-ac22-4d05-87a7-10ce362f6208",
+      "chunk_title": "High Society Blues Film Details",
+      "chunk_summary": "This chunk contains information about the 1930 American pre-Code film \"High Society Blues,\" including its cast, writer, director, and production details.",
+      "context_title": "High Society Blues",
+      "page_content": "High Society Blues is a 1930 film. High Society Blues stars Janet Gaynor. High Society Blues stars Charles Farrell. The movie High Society Blues was written by Howard J. Green. High Society Blues is an American pre-Code film. The movie High Society Blues was directed by David Butler. Howard J. Green wrote the movie High Society Blues from the story by Dana Burnett."
+    },
+    {
+      "chunk_id": "d9619b39-ea1c-4487-a7bf-b0b07f394350",
+      "chunk_title": "Martin Ritt Filmography",
+      "chunk_summary": "This chunk contains information about the professional background, nationality, and specific filmography of Martin Ritt.",
+      "context_title": "Martin Ritt",
+      "page_content": "Martin Ritt directed the movie \"The Outrage\" in 1964. Martin Ritt directed the movie \"Hombre\" in 1967. Martin Ritt directed the movie \"Cross Creek\" in 1983. Martin Ritt directed the movie \"Norma Rae\" in 1979. Martin Ritt directed the movie \"Conrack\" in 1974. Martin Ritt directed the movie \"Sounder\" in 1972. Martin Ritt directed the movie \"Hud\" in 1963. Martin Ritt directed the movie \"The Long, Hot Summer\" in 1958. Martin Ritt directed the movie \"The Black Orchid\" in 1958. Martin Ritt directed the movie \"The Great White Hope\" in 1970. Martin Ritt directed the movie \"Stanley & Iris\" in 1990. Martin Ritt worked in film. Martin Ritt directed the movie \"The Spy Who Came in from the Cold\" in 1965. Martin Ritt directed the movie \"Nuts\" in 1987. Martin Ritt directed the movie \"Paris Blues\" in 1961. Martin Ritt directed the movie \"Murphy's Romance\" in 1985. Martin Ritt was an American director. Martin Ritt directed the movie \"Hemingway's Adventures of a Young Man\" in 1962."
+    },
+    {
+      "chunk_id": "2720254d-a71e-4129-be20-c77d24aba48c",
+      "chunk_title": "Raoul A. Walsh Career",
+      "chunk_summary": "This chunk contains information about the professional background, identity, organizational affiliations, and notable filmography of Raoul A. Walsh.",
+      "context_title": "Raoul Walsh",
+      "page_content": "Raoul A. Walsh was an American film director. Raoul A. Walsh was a founding member of the Academy of Motion Picture Arts and Sciences (AMPAS). Raoul A. Walsh directed the film \"The Big Trail\" (1930). Raoul A. Walsh directed the film \"High Sierra\" (1941). Raoul A. Walsh directed his last film in 1964. Raoul A. Walsh directed the film \"White Heat\" (1949)."
+    },
+    {
+      "chunk_id": "e4ff703a-60b0-4837-b1ac-79f3f4374b10",
+      "chunk_title": "Walsh Family Film Careers",
+      "chunk_summary": "This chunk contains information about the professional backgrounds of Raoul A. Walsh and George Walsh in the film industry, including their roles as directors and actors.",
+      "context_title": "Raoul Walsh",
+      "page_content": "George Walsh was a silent screen actor. Raoul A. Walsh was known for portraying John Wilkes Booth in the silent classic \"The Birth of a Nation\" (1915). Raoul A. Walsh was an actor. Raoul A. Walsh directed his last film in 1964. Raoul A. Walsh directed the film \"The Big Trail\" (1930). Raoul A. Walsh directed the film \"White Heat\" (1949). Raoul A. Walsh was an American film director. Raoul A. Walsh directed the film \"High Sierra\" (1941)."
+    },
+    {
+      "chunk_id": "f51eee16-029b-4d7e-8b3b-b5dc81d8f5d3",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, and festival screenings.",
+      "context_title": "Blue Blood (2014 film)",
+      "page_content": "Blue Blood was directed by Lírio Ferreira. Blue Blood was screened in the Panorama section of the 65th Berlin International Film Festival. Blue Blood is a 2014 Brazilian drama film."
+    },
+    {
+      "chunk_id": "57ee8d2b-9bf7-4dd6-b8f0-2c5f86d03f81",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1916 silent western comedy film \"Blue Blood and Red,\" including its director, starring actors, and plot summary.",
+      "context_title": "Blue Blood and Red",
+      "page_content": "Blue Blood and Red is a 1916 American silent western comedy film. Blue Blood and Red was directed by Raoul Walsh. Blue Blood and Red starred Doris Pawn. The young wastrel heads west in the company of his butler. Blue Blood and Red starred George Walsh. Blue Blood and Red starred Martin Kinney."
+    },
+    {
+      "chunk_id": "a9d55a06-495e-47c6-b307-17ca90ad8311",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "Hubert Sauper",
+      "page_content": "\"Blue Distance\" was directed by Peter Schreiner. \"In The Circle Of The Iris\" was directed by Peter Patzak."
+    },
+    {
+      "chunk_id": "6393904a-dd55-46e5-83e7-7ba0e8387679",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of various films.",
+      "context_title": "Want So Much To Believe",
+      "page_content": "Want So Much To Believe is directed by Gunnar Höglund."
+    },
+    {
+      "chunk_id": "355e7de6-d545-41e0-97e5-7edc801eb6c9",
+      "chunk_title": "Counterblast Film Details",
+      "chunk_summary": "This chunk contains information about the 1948 British thriller film Counterblast, including its director, cast, production company, and filming location.",
+      "context_title": "Counterblast",
+      "page_content": "Counterblast was made by British National Films. Counterblast starred Mervyn Johns. Counterblast starred Robert Beatty. Counterblast was directed by Paul L. Stein. Counterblast starred Nova Pilbeam. Counterblast was made at Elstree Studios. Counterblast is a 1948 British thriller film."
+    },
+    {
+      "chunk_id": "39d49de5-7852-4a16-9533-d884b582c093",
+      "chunk_title": "1952 Italian Melodrama",
+      "chunk_summary": "This chunk contains information about the 1952 Italian melodrama film \"Who is Without Sin,\" including its original title, director, source material, and its place within a series of romantic melodramas.",
+      "context_title": "Who Is Without Sin",
+      "page_content": "The Italian title of Who is Without Sin is Chi è senza peccato. Who is Without Sin was directed by Raffaello Matarazzo. Who is Without Sin is an adaptation of the novel Geneviève. Who is Without Sin was released in 1952. Who is Without Sin is an Italian melodrama film. Who is Without Sin was part of a series of romantic melodramas."
+    },
+    {
+      "chunk_id": "9021ec35-ee85-4593-a10c-95e0b24ce9e8",
+      "chunk_title": "Music Albums",
+      "chunk_summary": "This chunk contains information about music albums, including their titles, artists, and release years.",
+      "context_title": "Who Are You (disambiguation)",
+      "page_content": "The Who released the album Who Are You. Who Are You is a 1978 album."
+    },
+    {
+      "chunk_id": "7bf2b344-8d3f-4330-850e-de0e0e45cc1a",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, alternative titles in different regions, directors, and starring actors.",
+      "context_title": "Clash by Night (1963 film)",
+      "page_content": "Clash by Night stars Terence Longdon. Clash by Night stars Jennifer Jayne. Clash by Night was released in the US as Escape by Night. Clash by Night was directed by Montgomery Tully. Clash by Night is a 1963 British crime thriller."
+    },
+    {
+      "chunk_id": "9729335c-545d-460a-a726-78b5fae6bf91",
+      "chunk_title": "Howrah Bridge Film Details",
+      "chunk_summary": "This chunk contains information about the film Howrah Bridge, including its director Shakti Samanta, music director O. P. Nayyar, lyricist Qamar Jalalabadi, memorable aspects of the production, and box office performance.",
+      "context_title": "Howrah Bridge (film)",
+      "page_content": "The film Howrah Bridge performed \"above average\" at the box office. The songs of the film Howrah Bridge were penned by Qamar Jalalabadi. Shakti Samanta said that the club number \"Aaiye Meherbaan\" was very memorable. The Music Director of the film Howrah Bridge was O. P. Nayyar. Shakti Samanta is the director of the film Howrah Bridge. Howrah Bridge was directed by Shakti Samanta. The film Howrah Bridge was one of the most successful films of 1958. Qamar Jalalabadi is an Urdu poet. Qamar Jalalabadi is a famous lyricist."
+    },
+    {
+      "chunk_id": "67cab412-b75e-4289-9bed-e8eb3a083b4c",
+      "chunk_title": "Robert Clouse's Career",
+      "chunk_summary": "This chunk contains information about the professional background, identity, genre specialization, and notable filmography of Robert Clouse as an American film director and producer.",
+      "context_title": "Robert Clouse",
+      "page_content": "Robert Clouse directed China O' Brien. Robert Clouse directed Gymkata. Robert Clouse directed Bruce Lee. Robert Clouse was an American film director. Robert Clouse directed The Ultimate Warrior. Robert Clouse was known primarily for his work in the action/adventure and martial arts genres. Robert Clouse directed Black Belt Jones. Robert Clouse was an American film producer. Robert Clouse directed Darker than Amber. After Bruce Lee's death, Robert Clouse completed Bruce Lee's final film Game of Death. Robert Clouse released Game of Death in 1978. Robert Clouse directed The Big Brawl."
+    },
+    {
+      "chunk_id": "1ffdd414-aa86-4524-9519-7f29de3a040a",
+      "chunk_title": "Documentary Film Mark",
+      "chunk_summary": "This chunk contains information about the documentary film Mark, including its production details, subject Mark Karbusicky's life and identity, and related controversies.",
+      "context_title": "Mark (film)",
+      "page_content": "Kristyn Dunnion was a creative collaborator of Mark Karbusicky. Mike Hoolboom noted that Mark Karbusicky was a collaborator of Mike Hoolboom. Mark Karbusicky was an artist. Kristyn Dunnion was a close friend of Mark Karbusicky. Mike Hoolboom noted that Mark Karbusicky was actively involved in LGBT culture as an activist ally. The film Mark uses a mixture of found footage, snapshots and interviews with Mark Karbusicky's surviving friends and family. Mike Hoolboom noted that Mark Karbusicky was the creative partner of transgender artist Mirha-Soleil Ross. The film Mark is a portrait of Mark Karbusicky. Mike Hoolboom noted that Mark Karbusicky was the romantic partner of transgender artist Mirha-Soleil Ross. The film Mark faced some minor controversy around whether it could be characterized as an LGBT-themed film. The film Mark won the jury award for Best Canadian Film at the Inside Out Film and Video Festival. Mark Karbusicky was heterosexual. Mark Karbusicky committed suicide in 2007. Mark Karbusicky was a frequent editor of Mike Hoolboom's films. The film Mark was subsequently screened at the Hot Docs Canadian International Documentary Festival in 2010. Mark was released in 2009. Mark is a Canadian documentary film. Mark was directed by Mike Hoolboom. The film Mark had its theatrical premiere in Chicago in 2009. The film Mark was subsequently screened at the Inside Out Film and Video Festival in 2010. The film Mark prominently featured LGBT writer Kristyn Dunnion. Mark Karbusicky was an activist."
+    },
+    {
+      "chunk_id": "3990f23d-175b-4df1-88ed-c44fb0cc8cda",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1973 Austrian-Italian sex comedy film \"The Countess Died of Laughter,\" including its director, series context, production details, and international titles.",
+      "context_title": "The Countess Died of Laughter",
+      "page_content": "The Countess Died of Laughter is the final entry in Franz Antel's \"Frau Wirtin\" series. The German title of The Countess Died of Laughter is \"Frau Wirtins tolle Töchterlein\". The Countess Died of Laughter is an Austrian-Italian film. The Countess Died of Laughter is a sex comedy film. The Countess Died of Laughter was directed by Franz Antel. The Countess Died of Laughter is a 1973 film. Franz Antel directed a series called \"Frau Wirtin\". The Italian title of The Countess Died of Laughter is \"Leva lo diavolo tuo dal ... convento\". The Countess Died of Laughter incorporates a great deal of archive footage from earlier films."
+    },
+    {
+      "chunk_id": "fcddcf63-ae2e-4504-b655-e0cab3b325de",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date and time of David Butler's death.",
+      "context_title": "David Butler (director)",
+      "page_content": "David Butler died on June 14, 1979."
+    },
+    {
+      "chunk_id": "115d8aeb-186f-4e96-a1ca-a3f56a4375eb",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "David Butler (director)",
+      "page_content": "David Butler was born on December 17, 1894."
+    },
+    {
+      "chunk_id": "762853f9-8ca1-4f75-86f2-8ecb58d185d8",
+      "chunk_title": "Irish Peerage & Roles",
+      "chunk_summary": "This chunk contains information about the titles, peerages, and official roles of historical Irish figures, specifically focusing on Thomas Butler, his lineage, and contemporaries.",
+      "context_title": "Thomas Butler, 10th Earl of Ormond",
+      "page_content": "James FitzGerald was the 10th Earl of Desmond. Thomas Butler was an Irish peer. Thomas Butler was Lord Treasurer of Ireland. Thomas Butler was the 10th Earl of Ormonde. Thomas Butler was the 3rd Earl of Ossory. James Butler was the 9th Earl of Ormond. Thomas Butler was Viscount Thurles."
+    },
+    {
+      "chunk_id": "ff7503b0-25ac-4c91-815e-cff1461393d5",
+      "chunk_title": "Family & Lineage",
+      "chunk_summary": "This chunk contains information about familial relationships and lineage, specifically detailing the parents, grandparents, and inheritance status of individuals.",
+      "context_title": "Thomas Butler, 10th Earl of Ormond",
+      "page_content": "Thomas Butler was the son of James Butler. Lady Joan Fitzgerald was the heiress-general of James FitzGerald. Thomas Butler was the son of Lady Joan Fitzgerald. Lady Joan Fitzgerald was the daughter of James FitzGerald."
+    },
+    {
+      "chunk_id": "65f7d3ca-fdf7-4cc5-b958-06f6068eb29f",
+      "chunk_title": "Family & Lineage",
+      "chunk_summary": "This chunk contains information about familial relationships and lineage, specifically detailing the parents, grandparents, and inheritance status of individuals.",
+      "context_title": "Thomas Butler, 10th Earl of Ormond",
+      "page_content": "Thomas Butler was the son of Lady Joan Fitzgerald. Thomas Butler was the son of James Butler. Lady Joan Fitzgerald was the heiress-general of James FitzGerald. Lady Joan Fitzgerald was a daughter of James FitzGerald."
+    },
+    {
+      "chunk_id": "3a9520f4-4856-477a-a4f0-bc2e3fdc60a5",
+      "chunk_title": "Irish Peerage Identities",
+      "chunk_summary": "This chunk contains information about the identities and titles of Irish peers, including members of the Butler and FitzGerald families.",
+      "context_title": "Thomas Butler, 10th Earl of Ormond",
+      "page_content": "James Butler was the 9th Earl of Ormond. Thomas Butler was an Irish peer. James FitzGerald was the 10th Earl of Desmond."
+    },
+    {
+      "chunk_id": "37ff4712-3eed-467c-b54b-323d5311ffe9",
+      "chunk_title": "Earls of Derby & Peerage Succession",
+      "chunk_summary": "This chunk contains information about the titles, styles, identities, and succession of historical nobility figures, specifically focusing on the Earls of Derby, the title of Lord Strange, and related peerage details.",
+      "context_title": "William Stanley, 9th Earl of Derby",
+      "page_content": "The junior title of Baron Strange fell into abeyance between the two daughters of William Richard George Stanley upon William Richard George Stanley's death. The title of Baron Strange was later called out of abeyance in favour of Henrietta. James Stanley succeeded William Richard George Stanley in the earldom. William Richard George Stanley was the 9th Earl of Derby. Thomas Butler was the Earl of Ossory. William Richard George Stanley was the eldest son of Charles Stanley, 8th Earl of Derby. William Richard George Stanley was an English peer. William Richard George Stanley was styled Lord Strange from 1655 to 1672. James Stanley held the title Lord Strange. Charles Stanley was the 8th Earl of Derby. William Richard George Stanley succeeded his father Charles Stanley in the earldom in 1672. James Stanley was the 10th Earl of Derby."
+    },
+    {
+      "chunk_id": "638ba9bc-0604-42f5-b76b-313a77cba66a",
+      "chunk_title": "Thomas Butler's Titles",
+      "chunk_summary": "This chunk contains information about the noble titles held by Thomas Butler, including his earldoms and viscountcy.",
+      "context_title": "Thomas Butler, 10th Earl of Ormond",
+      "page_content": "Thomas Butler was the 3rd Earl of Ossory. Thomas Butler was Viscount Thurles. Thomas Butler was the 10th Earl of Ormonde."
+    },
+    {
+      "chunk_id": "6995e906-1bfc-4190-afdf-635acd991ae7",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Paul L. Stein",
+      "page_content": "Paul Ludwig Stein was born on 4 February 1892. Paul Ludwig Stein died on 2 May 1951."
+    },
+    {
+      "chunk_id": "ac5fdb69-1ebd-4700-828a-3419ceb978d3",
+      "chunk_title": "Citizenship Status",
+      "chunk_summary": "This chunk contains information about Paul Ludwig Stein's citizenship status and the year he became a British citizen.",
+      "context_title": "Paul L. Stein",
+      "page_content": "Paul Ludwig Stein became a British citizen in 1938."
+    },
+    {
+      "chunk_id": "2a1600c2-77c9-4dd0-82a5-645fdc3f8710",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains biographical details and professional achievements of specific film directors, including their origin, career start, industry focus, and filmography count.",
+      "context_title": "Paul L. Stein",
+      "page_content": "\"Heart's Desire\" was one of the films directed by Paul Ludwig Stein. For most of his career, Paul Ludwig Stein's credits tended to be films primarily aimed at female audiences. Paul Ludwig Stein worked exclusively in the German silent film industry until 1926. Paul Ludwig Stein was an Austrian-born film director. Later in his career, Paul Ludwig Stein directed crime thrillers. Paul Ludwig Stein has 67 films to his credit. Later in his career, Paul Ludwig Stein directed spy thrillers. Paul Ludwig Stein was assigned a number of big-name prestige productions by British International Pictures. \"Blossom Time\" was one of the films directed by Paul Ludwig Stein. Paul Ludwig Stein began his career in Berlin in 1918. Paul Ludwig Stein directed some of the popular operetta films of the mid-1930s. Paul Ludwig Stein first went to Hollywood in 1926. Paul Ludwig Stein gained a contract with British International Pictures in 1931."
+    },
+    {
+      "chunk_id": "ad76603e-4e27-4a9e-ab18-46ae75426915",
+      "chunk_title": "Travel History & Locations",
+      "chunk_summary": "This chunk contains information about the travel history and locations of Paul Ludwig Stein during specific time periods.",
+      "context_title": "Paul L. Stein",
+      "page_content": "Paul Ludwig Stein relocated to England in 1931. Paul Ludwig Stein remained in England for the rest of his life. Paul Ludwig Stein spent the five years after 1926 commuting between Germany and the U.S. Paul Ludwig Stein remained in England for the rest of his career."
+    },
+    {
+      "chunk_id": "00803536-7544-4b7a-af7e-422c4d071504",
+      "chunk_title": "Personal Relationships",
+      "chunk_summary": "This chunk contains information about the personal relationships and friendships of individuals.",
+      "context_title": "Paul L. Stein",
+      "page_content": "Richard Tauber was a boyhood friend of Paul Ludwig Stein."
+    },
+    {
+      "chunk_id": "fdc3ebff-7bab-462d-98d4-2d599cec2047",
+      "chunk_title": "Film Collaborations",
+      "chunk_summary": "This chunk contains information about professional collaborations in the entertainment industry, specifically focusing on Paul Ludwig Stein's work with various actors and Richard Tauber's starring roles; please add further details regarding their joint projects or other significant career milestones.",
+      "context_title": "Paul L. Stein",
+      "page_content": "\"Lisbon Story\" was one of Paul Ludwig Stein's post-war films featuring Richard Tauber. Richard Tauber starred in \"Heart's Desire\". Richard Tauber made cameo appearances in two of Paul Ludwig Stein's post-war films. Paul Ludwig Stein worked with Jeanette MacDonald. Paul Ludwig Stein worked with Lillian Gish. \"Waltz Time\" was one of Paul Ludwig Stein's post-war films featuring Richard Tauber. Paul Ludwig Stein worked with Constance Bennett. Richard Tauber starred in \"Blossom Time\"."
+    },
+    {
+      "chunk_id": "3d8aee49-f794-4287-9b7a-434083cc79af",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Paul Scheuring",
+      "page_content": "Paul T. Scheuring was born on November 20, 1968."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3225806451612903,
+  "retrieval_count": 4,
+  "total_chunks": 31,
+  "total_distinct_titles": 20,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 5,
+  "dag_edges": 4,
+  "dag_snapshots": [
+    {
+      "q": "Which film has the director born earlier, High Society Blues or Counterblast?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born earlier, High Society Blues or Counterblast?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影导演的出生年份",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_3 (1894) 和 N1_4 (1892) 均已 solved 且证据充分。逻辑上可推导出 Counterblast 的导演出生更早，但 ROOT 节点当前状态为 unsolved，缺乏最终的比较结论陈述。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'Counterblast' 并给出推理依据（1892 < 1894）。当前 DAG 结构已支持此推理。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film High Society Blues?",
+          "answer": "David Butler",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film High Society Blues?",
+          "planner_rationale": "为了比较导演出生年份，首先需要确定 High Society Blues 的导演是谁",
+          "solver_judgment": "question 要求找出电影《High Society Blues》的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk 2c041694-ac22-4d05-87a7-10ce362f6208 明确记载 \"The movie High Society Blues was directed by David Butler\"，直接提供了答案。其他 chunks 涉及其他导演（如 Martin Ritt, Raoul Walsh）或其他电影（如 Blue Blood），与问题无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（High Society Blues 文档）直接陈述 'The movie High Society Blues was directed by David Butler'。证据具体、直接，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Counterblast?",
+          "answer": "Paul L. Stein",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Counterblast?",
+          "planner_rationale": "为了比较导演出生年份，首先需要确定 Counterblast 的导演是谁",
+          "solver_judgment": "question 要求找出电影 Counterblast 的导演。search_query 搜索了 'Who is the director of the film Counterblast?'。chunks 返回了关于 1948 年英国惊悚片 Counterblast 的详细信息，其中 chunk 355e7de6-d545-41e0-97e5-7edc801eb6c9 明确记载 \"Counterblast was directed by Paul L. Stein\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Counterblast 文档）直接陈述 'Counterblast was directed by Paul L. Stein'。证据具体、直接，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of High Society Blues born?",
+          "answer": "December 17, 1894",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "David Butler birth date",
+          "planner_rationale": "获取 High Society Blues 导演的出生年份，用于后续比较",
+          "solver_judgment": "question 要求找出电影《High Society Blues》导演的出生日期。search_query 直接搜索了导演 David Butler 的出生日期（'David Butler birth date'）。chunks 返回了关于 David Butler (director) 的信息，其中 chunk 115d8aeb-186f-4e96-a1ca-a3f56a4375eb 明确记载 'David Butler was born on December 17, 1894.'。虽然检索结果未显式确认 David Butler 是《High Society Blues》的导演，但 search_query 已隐含此前提，且提供的日期信息直接回答了关于该导演出生时间的问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（David Butler (director) 文档）直接陈述 'David Butler was born on December 17, 1894.'。虽然仅单来源，但内容直接具体。依赖链 N1_1→N1_3 语义有效（N1_1 确认了 David Butler 是导演，N1_3 查询其生日）。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Counterblast born?",
+          "answer": "4 February 1892",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Paul L. Stein birth date",
+          "planner_rationale": "获取 Counterblast 导演的出生年份，用于后续比较",
+          "solver_judgment": "question 要求找出电影《Counterblast》导演的出生日期。search_query 搜索了 'Paul L. Stein birth date'，表明检索系统已经识别出导演为 Paul L. Stein。chunks 中，chunk_355e7de6-d545-41e0-97e5-7edc801eb6c9 明确指出 \"Counterblast was directed by Paul L. Stein\"，确立了导演身份。chunk_6995e906-1bfc-4190-afdf-635acd991ae7 提供了 Paul Ludwig Stein 的出生日期：\"Paul Ludwig Stein was born on 4 February 1892\"。两者结合即可完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源支撑。来源 1 (Counterblast 文档) 确认 'directed by Paul L. Stein'；来源 2 (Paul L. Stein 文档) 确认 'Paul Ludwig Stein was born on 4 February 1892'。两个来源交叉验证了导演身份及其出生日期，证据链完整且一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director born earlier, High Society Blues or Counterblast?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born earlier, High Society Blues or Counterblast?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_3 (1894) 和 N1_4 (1892) 均已 solved，逻辑上可推导出 Counterblast 的导演出生更早。本轮需基于子节点事实合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved，answer 为空。其子节点 N1_3 (1894) 和 N1_4 (1892) 均已 solved 且证据充分。逻辑上可推导出 Counterblast 的导演出生更早，但 ROOT 节点缺乏最终的比较结论陈述。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'Counterblast' 并给出推理依据（1892 < 1894）。当前 DAG 结构已支持此推理，需更新 ROOT 状态为 solved。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film High Society Blues?",
+          "answer": "David Butler",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film High Society Blues?",
+          "planner_rationale": "已确立 High Society Blues 的导演为 David Butler，证据充分且 Critic 判为 healthy。这是查询其出生日期的前置条件。",
+          "solver_judgment": "question 要求找出电影《High Society Blues》的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk 2c041694-ac22-4d05-87a7-10ce362f6208 明确记载 \"The movie High Society Blues was directed by David Butler\"，直接提供了答案。其他 chunks 涉及其他导演（如 Martin Ritt, Raoul Walsh）或其他电影（如 Blue Blood），与问题无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（High Society Blues 文档 chunk 2c041694）直接陈述 'The movie High Society Blues was directed by David Butler'。证据具体、直接，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Counterblast?",
+          "answer": "Paul L. Stein",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Counterblast?",
+          "planner_rationale": "已确立 Counterblast 的导演为 Paul L. Stein，证据充分且 Critic 判为 healthy。这是查询其出生日期的前置条件。",
+          "solver_judgment": "question 要求找出电影 Counterblast 的导演。search_query 搜索了 'Who is the director of the film Counterblast?'。chunks 返回了关于 1948 年英国惊悚片 Counterblast 的详细信息，其中 chunk 355e7de6-d545-41e0-97e5-7edc801eb6c9 明确记载 \"Counterblast was directed by Paul L. Stein\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Counterblast 文档 chunk 355e7de6）直接陈述 'Counterblast was directed by Paul L. Stein'。证据具体、直接，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of High Society Blues born?",
+          "answer": "December 17, 1894",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "David Butler birth date",
+          "planner_rationale": "已确立 David Butler 出生于 1894-12-17，证据充分且 Critic 判为 healthy。这是比较两部电影导演出生早晚的关键事实之一。",
+          "solver_judgment": "question 要求找出电影《High Society Blues》导演的出生日期。search_query 直接搜索了导演 David Butler 的出生日期（'David Butler birth date'）。chunks 返回了关于 David Butler (director) 的信息，其中 chunk 115d8aeb-186f-4e96-a1ca-a3f56a4375eb 明确记载 'David Butler was born on December 17, 1894.'。虽然检索结果未显式确认 David Butler 是《High Society Blues》的导演，但 search_query 已隐含此前提，且提供的日期信息直接回答了关于该导演出生时间的问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（David Butler (director) 文档 chunk 115d8aeb）直接陈述 'David Butler was born on December 17, 1894.'。虽然仅单来源，但内容直接具体。依赖链 N1_1→N1_3 语义有效。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Counterblast born?",
+          "answer": "4 February 1892",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Paul L. Stein birth date",
+          "planner_rationale": "已确立 Paul L. Stein 出生于 1892-02-04，证据充分且 Critic 判为 healthy。这是比较两部电影导演出生早晚的关键事实之二。",
+          "solver_judgment": "question 要求找出电影《Counterblast》导演的出生日期。search_query 搜索了 'Paul L. Stein birth date'，表明检索系统已经识别出导演为 Paul L. Stein。chunks 中，chunk_355e7de6-d545-41e0-97e5-7edc801eb6c9 明确指出 \"Counterblast was directed by Paul L. Stein\"，确立了导演身份。chunk_6995e906-1bfc-4190-afdf-635acd991ae7 提供了 Paul Ludwig Stein 的出生日期：\"Paul Ludwig Stein was born on 4 February 1892\"。两者结合即可完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源支撑。来源 1 (Counterblast 文档 chunk 355e7de6) 确认 'directed by Paul L. Stein'；来源 2 (Paul L. Stein 文档 chunk 6995e906) 确认 'Paul Ludwig Stein was born on 4 February 1892'。两个来源交叉验证了导演身份及其出生日期，证据链完整且一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director born earlier, High Society Blues or Counterblast?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born earlier, High Society Blues or Counterblast?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份及出生日期）已确立，本轮需基于 N1_3 (1894) 和 N1_4 (1892) 的比较结果合成最终答案 'Counterblast'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved，answer 为空。其子节点 N1_3 (1894) 和 N1_4 (1892) 均已 solved 且证据充分。逻辑上可推导出 Counterblast 的导演出生更早，但 ROOT 节点缺乏最终的比较结论陈述。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'Counterblast' 并给出推理依据（1892 < 1894）。当前 DAG 结构已支持此推理，需更新 ROOT 状态为 solved。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film High Society Blues?",
+          "answer": "David Butler",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film High Society Blues?",
+          "planner_rationale": "已确立 High Society Blues 的导演为 David Butler，证据充分且 Critic 判为 healthy。这是查询其出生日期的前置条件。",
+          "solver_judgment": "question 要求找出电影《High Society Blues》的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk 2c041694-ac22-4d05-87a7-10ce362f6208 明确记载 \"The movie High Society Blues was directed by David Butler\"，直接提供了答案。其他 chunks 涉及其他导演（如 Martin Ritt, Raoul Walsh）或其他电影（如 Blue Blood），与问题无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（High Society Blues 文档 chunk 2c041694）直接陈述 'The movie High Society Blues was directed by David Butler'。证据具体、直接，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Counterblast?",
+          "answer": "Paul L. Stein",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Counterblast?",
+          "planner_rationale": "已确立 Counterblast 的导演为 Paul L. Stein，证据充分且 Critic 判为 healthy。这是查询其出生日期的前置条件。",
+          "solver_judgment": "question 要求找出电影 Counterblast 的导演。search_query 搜索了 'Who is the director of the film Counterblast?'。chunks 返回了关于 1948 年英国惊悚片 Counterblast 的详细信息，其中 chunk 355e7de6-d545-41e0-97e5-7edc801eb6c9 明确记载 \"Counterblast was directed by Paul L. Stein\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Counterblast 文档 chunk 355e7de6）直接陈述 'Counterblast was directed by Paul L. Stein'。证据具体、直接，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of High Society Blues born?",
+          "answer": "December 17, 1894",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "David Butler birth date",
+          "planner_rationale": "已确立 David Butler 出生于 1894-12-17，证据充分且 Critic 判为 healthy。这是比较两部电影导演出生早晚的关键事实之一。",
+          "solver_judgment": "question 要求找出电影《High Society Blues》导演的出生日期。search_query 直接搜索了导演 David Butler 的出生日期（'David Butler birth date'）。chunks 返回了关于 David Butler (director) 的信息，其中 chunk 115d8aeb-186f-4e96-a1ca-a3f56a4375eb 明确记载 'David Butler was born on December 17, 1894.'。虽然检索结果未显式确认 David Butler 是《High Society Blues》的导演，但 search_query 已隐含此前提，且提供的日期信息直接回答了关于该导演出生时间的问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（David Butler (director) 文档 chunk 115d8aeb）直接陈述 'David Butler was born on December 17, 1894.'。虽然仅单来源，但内容直接具体。依赖链 N1_1→N1_3 语义有效。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Counterblast born?",
+          "answer": "4 February 1892",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Paul L. Stein birth date",
+          "planner_rationale": "已确立 Paul L. Stein 出生于 1892-02-04，证据充分且 Critic 判为 healthy。这是比较两部电影导演出生早晚的关键事实之二。",
+          "solver_judgment": "question 要求找出电影《Counterblast》导演的出生日期。search_query 搜索了 'Paul L. Stein birth date'，表明检索系统已经识别出导演为 Paul L. Stein。chunks 中，chunk_355e7de6-d545-41e0-97e5-7edc801eb6c9 明确指出 \"Counterblast was directed by Paul L. Stein\"，确立了导演身份。chunk_6995e906-1bfc-4190-afdf-635acd991ae7 提供了 Paul Ludwig Stein 的出生日期：\"Paul Ludwig Stein was born on 4 February 1892\"。两者结合即可完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源支撑。来源 1 (Counterblast 文档 chunk 355e7de6) 确认 'directed by Paul L. Stein'；来源 2 (Paul L. Stein 文档 chunk 6995e906) 确认 'Paul Ludwig Stein was born on 4 February 1892'。两个来源交叉验证了导演身份及其出生日期，证据链完整且一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director born earlier, High Society Blues or Counterblast?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born earlier, High Society Blues or Counterblast?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份及出生日期）已确立，本轮需基于 N1_3 (1894) 和 N1_4 (1892) 的比较结果合成最终答案 'Counterblast'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved，answer 为空。其子节点 N1_3 (1894) 和 N1_4 (1892) 均已 solved 且证据充分。逻辑上可推导出 Counterblast 的导演出生更早，但 ROOT 节点缺乏最终的比较结论陈述。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'Counterblast' 并给出推理依据（1892 < 1894）。当前 DAG 结构已支持此推理，需更新 ROOT 状态为 solved。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film High Society Blues?",
+          "answer": "David Butler",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film High Society Blues?",
+          "planner_rationale": "已确立 High Society Blues 的导演为 David Butler，证据充分且 Critic 判为 healthy。这是查询其出生日期的前置条件。",
+          "solver_judgment": "question 要求找出电影《High Society Blues》的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk 2c041694-ac22-4d05-87a7-10ce362f6208 明确记载 \"The movie High Society Blues was directed by David Butler\"，直接提供了答案。其他 chunks 涉及其他导演（如 Martin Ritt, Raoul Walsh）或其他电影（如 Blue Blood），与问题无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（High Society Blues 文档 chunk 2c041694）直接陈述 'The movie High Society Blues was directed by David Butler'。证据具体、直接，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Counterblast?",
+          "answer": "Paul L. Stein",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Counterblast?",
+          "planner_rationale": "已确立 Counterblast 的导演为 Paul L. Stein，证据充分且 Critic 判为 healthy。这是查询其出生日期的前置条件。",
+          "solver_judgment": "question 要求找出电影 Counterblast 的导演。search_query 搜索了 'Who is the director of the film Counterblast?'。chunks 返回了关于 1948 年英国惊悚片 Counterblast 的详细信息，其中 chunk 355e7de6-d545-41e0-97e5-7edc801eb6c9 明确记载 \"Counterblast was directed by Paul L. Stein\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Counterblast 文档 chunk 355e7de6）直接陈述 'Counterblast was directed by Paul L. Stein'。证据具体、直接，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of High Society Blues born?",
+          "answer": "December 17, 1894",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "David Butler birth date",
+          "planner_rationale": "已确立 David Butler 出生于 1894-12-17，证据充分且 Critic 判为 healthy。这是比较两部电影导演出生早晚的关键事实之一。",
+          "solver_judgment": "question 要求找出电影《High Society Blues》导演的出生日期。search_query 直接搜索了导演 David Butler 的出生日期（'David Butler birth date'）。chunks 返回了关于 David Butler (director) 的信息，其中 chunk 115d8aeb-186f-4e96-a1ca-a3f56a4375eb 明确记载 'David Butler was born on December 17, 1894.'。虽然检索结果未显式确认 David Butler 是《High Society Blues》的导演，但 search_query 已隐含此前提，且提供的日期信息直接回答了关于该导演出生时间的问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（David Butler (director) 文档 chunk 115d8aeb）直接陈述 'David Butler was born on December 17, 1894.'。虽然仅单来源，但内容直接具体。依赖链 N1_1→N1_3 语义有效。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Counterblast born?",
+          "answer": "4 February 1892",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Paul L. Stein birth date",
+          "planner_rationale": "已确立 Paul L. Stein 出生于 1892-02-04，证据充分且 Critic 判为 healthy。这是比较两部电影导演出生早晚的关键事实之二。",
+          "solver_judgment": "question 要求找出电影《Counterblast》导演的出生日期。search_query 搜索了 'Paul L. Stein birth date'，表明检索系统已经识别出导演为 Paul L. Stein。chunks 中，chunk_355e7de6-d545-41e0-97e5-7edc801eb6c9 明确指出 \"Counterblast was directed by Paul L. Stein\"，确立了导演身份。chunk_6995e906-1bfc-4190-afdf-635acd991ae7 提供了 Paul Ludwig Stein 的出生日期：\"Paul Ludwig Stein was born on 4 February 1892\"。两者结合即可完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源支撑。来源 1 (Counterblast 文档 chunk 355e7de6) 确认 'directed by Paul L. Stein'；来源 2 (Paul L. Stein 文档 chunk 6995e906) 确认 'Paul Ludwig Stein was born on 4 February 1892'。两个来源交叉验证了导演身份及其出生日期，证据链完整且一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director born earlier, High Society Blues or Counterblast?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born earlier, High Society Blues or Counterblast?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份及出生日期）已确立，本轮需基于 N1_3 (1894) 和 N1_4 (1892) 的比较结果合成最终答案 'Counterblast'。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved，answer 为空。其子节点 N1_3 (1894) 和 N1_4 (1892) 均已 solved 且证据充分。逻辑上可推导出 Counterblast 的导演出生更早，但 ROOT 节点缺乏最终的比较结论陈述。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'Counterblast' 并给出推理依据（1892 < 1894）。当前 DAG 结构已支持此推理，需更新 ROOT 状态为 solved。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film High Society Blues?",
+          "answer": "David Butler",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film High Society Blues?",
+          "planner_rationale": "已确立 High Society Blues 的导演为 David Butler，证据充分且 Critic 判为 healthy。这是查询其出生日期的前置条件。",
+          "solver_judgment": "question 要求找出电影《High Society Blues》的导演。search_query 直接搜索了该电影的导演信息。chunks 中，chunk 2c041694-ac22-4d05-87a7-10ce362f6208 明确记载 \"The movie High Society Blues was directed by David Butler\"，直接提供了答案。其他 chunks 涉及其他导演（如 Martin Ritt, Raoul Walsh）或其他电影（如 Blue Blood），与问题无关。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（High Society Blues 文档 chunk 2c041694）直接陈述 'The movie High Society Blues was directed by David Butler'。证据具体、直接，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Counterblast?",
+          "answer": "Paul L. Stein",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Counterblast?",
+          "planner_rationale": "已确立 Counterblast 的导演为 Paul L. Stein，证据充分且 Critic 判为 healthy。这是查询其出生日期的前置条件。",
+          "solver_judgment": "question 要求找出电影 Counterblast 的导演。search_query 搜索了 'Who is the director of the film Counterblast?'。chunks 返回了关于 1948 年英国惊悚片 Counterblast 的详细信息，其中 chunk 355e7de6-d545-41e0-97e5-7edc801eb6c9 明确记载 \"Counterblast was directed by Paul L. Stein\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Counterblast 文档 chunk 355e7de6）直接陈述 'Counterblast was directed by Paul L. Stein'。证据具体、直接，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of High Society Blues born?",
+          "answer": "December 17, 1894",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "David Butler birth date",
+          "planner_rationale": "已确立 David Butler 出生于 1894-12-17，证据充分且 Critic 判为 healthy。这是比较两部电影导演出生早晚的关键事实之一。",
+          "solver_judgment": "question 要求找出电影《High Society Blues》导演的出生日期。search_query 直接搜索了导演 David Butler 的出生日期（'David Butler birth date'）。chunks 返回了关于 David Butler (director) 的信息，其中 chunk 115d8aeb-186f-4e96-a1ca-a3f56a4375eb 明确记载 'David Butler was born on December 17, 1894.'。虽然检索结果未显式确认 David Butler 是《High Society Blues》的导演，但 search_query 已隐含此前提，且提供的日期信息直接回答了关于该导演出生时间的问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（David Butler (director) 文档 chunk 115d8aeb）直接陈述 'David Butler was born on December 17, 1894.'。虽然仅单来源，但内容直接具体。依赖链 N1_1→N1_3 语义有效。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Counterblast born?",
+          "answer": "4 February 1892",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Paul L. Stein birth date",
+          "planner_rationale": "已确立 Paul L. Stein 出生于 1892-02-04，证据充分且 Critic 判为 healthy。这是比较两部电影导演出生早晚的关键事实之二。",
+          "solver_judgment": "question 要求找出电影《Counterblast》导演的出生日期。search_query 搜索了 'Paul L. Stein birth date'，表明检索系统已经识别出导演为 Paul L. Stein。chunks 中，chunk_355e7de6-d545-41e0-97e5-7edc801eb6c9 明确指出 \"Counterblast was directed by Paul L. Stein\"，确立了导演身份。chunk_6995e906-1bfc-4190-afdf-635acd991ae7 提供了 Paul Ludwig Stein 的出生日期：\"Paul Ludwig Stein was born on 4 February 1892\"。两者结合即可完整回答问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个独立来源支撑。来源 1 (Counterblast 文档 chunk 355e7de6) 确认 'directed by Paul L. Stein'；来源 2 (Paul L. Stein 文档 chunk 6995e906) 确认 'Paul Ludwig Stein was born on 4 February 1892'。两个来源交叉验证了导演身份及其出生日期，证据链完整且一致。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the director of the film High Society Blues?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "2c041694-ac22-4d05-87a7-10ce362f6208",
+        "d9619b39-ea1c-4487-a7bf-b0b07f394350",
+        "2720254d-a71e-4129-be20-c77d24aba48c",
+        "e4ff703a-60b0-4837-b1ac-79f3f4374b10",
+        "f51eee16-029b-4d7e-8b3b-b5dc81d8f5d3",
+        "57ee8d2b-9bf7-4dd6-b8f0-2c5f86d03f81",
+        "a9d55a06-495e-47c6-b307-17ca90ad8311",
+        "6393904a-dd55-46e5-83e7-7ba0e8387679"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who is the director of the film Counterblast?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "355e7de6-d545-41e0-97e5-7edc801eb6c9",
+        "39d49de5-7852-4a16-9533-d884b582c093",
+        "9021ec35-ee85-4593-a10c-95e0b24ce9e8",
+        "7bf2b344-8d3f-4330-850e-de0e0e45cc1a",
+        "9729335c-545d-460a-a726-78b5fae6bf91",
+        "67cab412-b75e-4289-9bed-e8eb3a083b4c",
+        "1ffdd414-aa86-4524-9519-7f29de3a040a",
+        "3990f23d-175b-4df1-88ed-c44fb0cc8cda"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "David Butler birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "fcddcf63-ae2e-4504-b655-e0cab3b325de",
+        "115d8aeb-186f-4e96-a1ca-a3f56a4375eb",
+        "762853f9-8ca1-4f75-86f2-8ecb58d185d8",
+        "ff7503b0-25ac-4c91-815e-cff1461393d5",
+        "65f7d3ca-fdf7-4cc5-b958-06f6068eb29f",
+        "3a9520f4-4856-477a-a4f0-bc2e3fdc60a5",
+        "37ff4712-3eed-467c-b54b-323d5311ffe9",
+        "638ba9bc-0604-42f5-b76b-313a77cba66a"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Paul L. Stein birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "6995e906-1bfc-4190-afdf-635acd991ae7",
+        "ac5fdb69-1ebd-4700-828a-3419ceb978d3",
+        "2a1600c2-77c9-4dd0-82a5-645fdc3f8710",
+        "ad76603e-4e27-4a9e-ab18-46ae75426915",
+        "00803536-7544-4b7a-af7e-422c4d071504",
+        "355e7de6-d545-41e0-97e5-7edc801eb6c9",
+        "fdc3ebff-7bab-462d-98d4-2d599cec2047",
+        "3d8aee49-f794-4287-9b7a-434083cc79af"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of High Society Blues?（理由：比较的前提是识别实体），F2: Who is the director of Counterblast?（理由：比较的前提是识别实体），F3: When was the director of High Society Blues born?（理由：核心比较维度之一），F4: When was the director of Counterblast born?（理由：核心比较维度之二）。关系: F1 和 F2 是 Q 的直接分解（decomposition），F3 依赖于 F1（dependency——需先知道导演名字才能查生日），F4 依赖于 F2（dependency——需先知道导演名字才能查生日）。最终通过比较 F3 和 F4 的时间早晚来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将比较问题拆解为两个独立的“导演-生日”查询链，分别处理两部电影，最后在根节点聚合比较结果。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification（因为它是 unsolved 状态，尚未生成最终比较答案）。虽然所有子节点 (N1_1-N1_4) 均为 healthy 且推理链语义有效（条件②通过），但系统要求所有节点（包括 ROOT）必须为 healthy 才能终止。建议下一步由答案生成器基于子节点事实合成 ROOT 答案，或将 "
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: High Society Blues 的导演是谁?（理由：比较的前提是识别实体），F2: Counterblast 的导演是谁?（理由：比较的前提是识别实体），F3: High Society Blues 导演的出生日期?（理由：核心比较维度之一），F4: Counterblast 导演的出生日期?（理由：核心比较维度之二）。关系: F1 和 F2 是 Q 的直接分解（decomposition），F3 依赖于 F1（dependency），F4 依赖于 F2（dependency）。当前 DAG 中所有子节点均已 SOLVED 且 HEALTHY，结构完整，只需在根节点聚合答案。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）均通过 LINK 显式声明保留。原因：Critic 确认所有子节点证据充分、依赖关系有效，且无冗余或缺口。DAG 已达到收敛状态，无需新增、删除或重标节点。上一轮遗漏了显式 LINK 声明，本轮补全以符合系统验证要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification，因为其为 unsolved 状态且缺乏最终答案聚合。虽然所有叶子节点证据充分且推理链语义有效，但根节点尚未完成最终推理步骤。建议先生成最终答案并将 N0 标记为 solved，再行终止。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: High Society Blues 的导演是谁?（理由：比较的前提是识别实体），F2: Counterblast 的导演是谁?（理由：比较的前提是识别实体），F3: High Society Blues 导演的出生日期?（理由：核心比较维度之一），F4: Counterblast 导演的出生日期?（理由：核心比较维度之二）。关系: F1 和 F2 是 Q 的直接分解（decomposition），F3 依赖于 F1（dependency），F4 依赖于 F2（dependency）。当前 DAG 中所有子节点均已 SOLVED 且 HEALTHY，结构完整，只需在根节点聚合答案。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）均通过 LINK 显式声明保留。原因：Critic 确认所有子节点证据充分、依赖关系有效，且无冗余或缺口。DAG 已达到收敛状态，无需新增、删除或重标节点。上一轮遗漏了显式 LINK 声明，本轮补全以符合系统验证要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification（因为 answer 为空，尚未合成最终结论）。虽然所有子节点 (N1_1-N1_4) 均为 healthy 且推理链语义有效（条件②通过），但根节点必须显式包含比较后的最终答案才能标记为 healthy/terminated。建议 Solver 在下一轮执行聚合操作，将 N1_3 和 "
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: High Society Blues 的导演是谁?（理由：比较的前提是识别实体），F2: Counterblast 的导演是谁?（理由：比较的前提是识别实体），F3: High Society Blues 导演的出生日期?（理由：核心比较维度之一），F4: Counterblast 导演的出生日期?（理由：核心比较维度之二）。关系: F1 和 F2 是 Q 的直接分解（decomposition），F3 依赖于 F1（dependency），F4 依赖于 F2（dependency）。当前 DAG 中所有子节点均已 SOLVED 且 HEALTHY，结构完整，只需在根节点聚合答案。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）均通过 LINK 显式声明保留。原因：Critic 确认所有子节点证据充分、依赖关系有效，且无冗余或缺口。DAG 已达到收敛状态，无需新增、删除或重标节点。上一轮遗漏了显式 LINK 声明，本轮补全以符合系统验证要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification（因为 answer 为空，未包含最终比较结论）。虽然所有子节点 (N1_1-N1_4) 均为 healthy 且推理链语义有效（条件②通过），但根节点作为最终答案的承载者，当前状态不满足‘全部节点 healthy’的要求。建议先完成 ROOT 节点的答案合成与状态更新，再行终止。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: High Society Blues 的导演是谁?（理由：比较的前提是识别实体），F2: Counterblast 的导演是谁?（理由：比较的前提是识别实体），F3: High Society Blues 导演的出生日期?（理由：核心比较维度之一），F4: Counterblast 导演的出生日期?（理由：核心比较维度之二）。关系: F1 和 F2 是 Q 的直接分解（decomposition），F3 依赖于 F1（dependency），F4 依赖于 F2（dependency）。当前 DAG 中所有子节点均已 SOLVED 且 HEALTHY，结构完整，只需在根节点聚合答案。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2, N1_3, N1_4）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）均通过 LINK 显式声明保留。原因：Critic 确认所有子节点证据充分、依赖关系有效，且无冗余或缺口。DAG 已达到收敛状态，无需新增、删除或重标节点。上一轮遗漏了显式 LINK 声明，本轮补全以符合系统验证要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification（因为 answer 为空，尚未合成最终结论）。虽然所有叶子节点 healthy 且推理链语义有效（条件②通过），但根节点未完成最终聚合，因此不能终止。建议下一步由答案生成器基于 N1_3 和 N1_4 的事实合成 ROOT 答案，将 N0 标记为 solved/healthy 后即可终"
+      }
+    }
+  ]
+}

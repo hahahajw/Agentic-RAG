@@ -1,0 +1,21 @@
+{
+  "eval_mode": "rag_loop",
+  "dataset_type": "2wikimultihopqa",
+  "total": 500,
+  "answered": 499,
+  "unanswered": 1,
+  "aggregate": {
+    "em": 0.681363,
+    "f1": 0.7622,
+    "precision": 0.751813,
+    "recall": 0.795324,
+    "context_recall": 0.998998,
+    "hit": 1.0,
+    "mrr": 0.976687,
+    "retrieval_precision": 0.330231,
+    "retrieval_count": 3.134269,
+    "total_chunks": 23.731463,
+    "total_distinct_titles": 15.244489,
+    "search_depth": 2.751503
+  }
+}

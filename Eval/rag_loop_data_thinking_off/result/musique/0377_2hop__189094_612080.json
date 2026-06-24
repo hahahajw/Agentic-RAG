@@ -1,0 +1,380 @@
+{
+  "question_index": 377,
+  "question_id": "2hop__189094_612080",
+  "question": "What league does the team that occupies the Rabat Ajax Football Ground belong to?",
+  "answer": "Maltese Premier League",
+  "prediction": "Maltese Premier League",
+  "error": null,
+  "latency_ms": 90239.68060000334,
+  "dataset_type": "musique",
+  "timestamp": "2026-05-14T21:41:40.087842+00:00",
+  "chunks": [
+    {
+      "chunk_id": "d7cbe043-e345-406c-90d3-9d300fe477bf",
+      "chunk_title": "Football Teams & Grounds",
+      "chunk_summary": "This chunk contains information about football teams, their training grounds, and associated locations.",
+      "context_title": "Rabat Ajax Football Ground",
+      "page_content": "The Rabat Ajax Football Ground is the training ground of Maltese football team Rabat Ajax F.C. The Rabat Ajax Football Ground is located in the town of Mtarfa. Rabat Ajax F.C. is a Maltese football team."
+    },
+    {
+      "chunk_id": "2e074d4f-a678-4697-ae10-32eda8a2f685",
+      "chunk_title": "Football Careers",
+      "chunk_summary": "This chunk contains information about the professional football careers of specific players, including their teams and positions.",
+      "context_title": "Silvio Vella",
+      "page_content": "Silvio Vella played as a defender. Silvio Vella was a professional footballer. Silvio Vella played for Hibernians. Silvio Vella played for Rabat Ajax."
+    },
+    {
+      "chunk_id": "625da6b0-6302-4e71-96c3-e39ff05d610a",
+      "chunk_title": "Football Club & Player History",
+      "chunk_summary": "This chunk contains information about football club league participation and player transfers, including specific details on debut performances.",
+      "context_title": "Arlind Rustemi",
+      "page_content": "Arlind Rustemi moved to Maltese side Rabat Ajax in October 2011. KF Vlora played in the Albanian First Division as of the 2010–11 season. Arlind Rustemi scored on his debut for Rabat Ajax."
+    },
+    {
+      "chunk_id": "e56f4c6e-eb70-4582-a2da-9cbeeef8371b",
+      "chunk_title": "Sports Head Coaches",
+      "chunk_summary": "This chunk contains information about current head coaches of sports teams.",
+      "context_title": "Silvio Vella",
+      "page_content": "Silvio Vella is currently the head coach of Rabat Ajax."
+    },
+    {
+      "chunk_id": "962e4d94-ad1a-4b3d-b5c7-88143a2cb282",
+      "chunk_title": "Malcolm Licari's Football Career",
+      "chunk_summary": "This chunk contains information about the professional football career of Malcolm Licari, including his status as a retired player, his primary and occasional positions, leadership roles, and the Maltese Premier League teams he played for.",
+      "context_title": "Malcolm Licari",
+      "page_content": "Malcolm Licari played for Floriana in the Maltese Premier League. Malcolm Licari played for Marsaxlokk in the Maltese Premier League. Malcolm Licari played for Balzan in the Maltese Premier League. Malcolm Licari played for Rabat Ajax in the Maltese Premier League. Malcolm Licari moved to Floriana at the end of 2011. Malcolm Licari is a retired professional footballer. Malcolm Licari played for Pietà Hotspurs in the Maltese Premier League. Malcolm Licari occasionally plays as a defender. Malcolm Licari plays as a striker. Malcolm Licari used to be captain of Marsaxlokk."
+    },
+    {
+      "chunk_id": "64708ddb-1a75-46e5-a5a7-c66564e770bf",
+      "chunk_title": "Football Grounds & Teams",
+      "chunk_summary": "This chunk contains information about specific football grounds, their associated teams, and related details like capacity.",
+      "context_title": "Mosset Park",
+      "page_content": "Mosset Park has a capacity of 2,700. Mosset Park is a football ground. Mosset Park is the home ground of Forres Mechanics F.C.. Mosset Park has 502 seated seats. Forres Mechanics F.C. is a Highland Football League side."
+    },
+    {
+      "chunk_id": "e1463f20-4dc3-41a5-86b2-f8316c62b8f7",
+      "chunk_title": "Mohammed V Airport",
+      "chunk_summary": "This chunk contains information about major airports, specifically Mohammed V International Airport in Casablanca, including its status as Morocco's busiest airport and its domestic flight connections to various Moroccan cities.",
+      "context_title": "Casablanca",
+      "page_content": "Regular domestic flights from Mohammed V International Airport serve Tangier. Regular domestic flights from Mohammed V International Airport serve Al Hoceima. Regular domestic flights from Mohammed V International Airport serve Oujda. Regular domestic flights from Mohammed V International Airport serve Laayoune. Regular domestic flights from Mohammed V International Airport serve other cities. Casablanca's main airport is Mohammed V International Airport. Regular domestic flights from Mohammed V International Airport serve Marrakech. Regular domestic flights from Mohammed V International Airport serve Agadir. Regular domestic flights from Mohammed V International Airport serve Rabat. Mohammed V International Airport is Morocco's busiest airport."
+    },
+    {
+      "chunk_id": "cd2957c4-45f7-4e32-a929-5b23043a0dbf",
+      "chunk_title": "Footballer Profiles",
+      "chunk_summary": "This chunk contains information about the professional background, nationality, and specific roles of footballers.",
+      "context_title": "Thabiso Nkoana",
+      "page_content": "Thabiso Nkoana plays for Ajax Cape Town. Thabiso Nkoana plays as a striker. Thabiso Nkoana is a South African footballer."
+    },
+    {
+      "chunk_id": "c586fcaa-f6ac-4bf3-8126-afcd346382af",
+      "chunk_title": "Jos Football Teams",
+      "chunk_summary": "This chunk contains information about football teams based in Jos.",
+      "context_title": "Rwang Pam Stadium",
+      "page_content": "Mighty Jets is a Jos team. Plateau United is a Jos team. JUTH F.C. is a Jos team."
+    },
+    {
+      "chunk_id": "b3fef2ed-d970-4ef7-a013-19369e57f6f6",
+      "chunk_title": "Jos Football Teams & Stadiums",
+      "chunk_summary": "This chunk contains information about football teams based in Jos and their associated home stadiums.",
+      "context_title": "Rwang Pam Stadium",
+      "page_content": "Rwang Pam Stadium is the home stadium of Mighty Jets. Plateau United is a Jos team. Mighty Jets is a Jos team. Rwang Pam Stadium is the home stadium of Plateau United. JUTH F.C. is a Jos team."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2,
+  "retrieval_count": 2,
+  "total_chunks": 10,
+  "total_distinct_titles": 8,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "What league does the team that occupies the Rabat Ajax Football Ground belong to?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What league does the team that occupies the Rabat Ajax Football Ground belong to?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立占据 Rabat Ajax Football Ground 的球队及其所属联赛",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。子节点 N1_1 和 N1_2 均已 solved，且依赖关系语义有效（见下文）。N1_1 确定球队为 Rabat Ajax F.C.，N1_2 确定该球队所属联赛为 Maltese Premier League。推理链完整：Q -> 识别球队 -> 查询联赛。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，依赖链语义匹配，可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which team occupies the Rabat Ajax Football Ground?",
+          "answer": "Rabat Ajax F.C.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which team occupies the Rabat Ajax Football Ground?",
+          "planner_rationale": "Q 的核心是询问某支特定球队的联赛归属，而该球队由'occupies the Rabat Ajax Football Ground'这一条件定义。因此，首先需要确定哪支球队占据该场地。这是回答 Q 的第一个必要子事实。",
+          "solver_judgment": "question 要求找出占据 Rabat Ajax Football Ground 的球队。search_query 直接搜索了该问题。chunks 中的 d7cbe043-e345-406c-90d3-9d300fe477bf 明确指出 \"The Rabat Ajax Football Ground is the training ground of Maltese football team Rabat Ajax F.C.\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (d7cbe043...)。Chunk 全文直接陈述: 'The Rabat Ajax Football Ground is the training ground of Maltese football team Rabat Ajax F.C.'。答案 'Rabat Ajax F.C.' 与 chunk 内容完全匹配。单来源但直接具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What league does that team belong to?",
+          "answer": "Maltese Premier League",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Rabat Ajax F.C. league",
+          "planner_rationale": "在确定了占据 Rabat Ajax Football Ground 的球队后，需要查询该球队所属的联赛。这是 Q 的直接询问目标，依赖于前一个子事实的答案来消解'that team'的指代。",
+          "solver_judgment": "question 要求确定“that team”（根据 search_query 可知为 Rabat Ajax F.C.）所属的联赛。search_query 搜索了 'Rabat Ajax F.C. league'。chunks 返回了关于 Rabat Ajax F.C. 的多条信息。其中 chunk 962e4d94-ad1a-4b3d-b5c7-88143a2cb282 明确记载 \"Malcolm Licari played for Rabat Ajax in the Maltese Premier League\"，直接指出了该球队所在的联赛为马耳他超级联赛（Maltese Premier League）。其他 chunk 仅提到球队名称或教练信息，未提及联赛名称。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (962e4d94...)。Chunk 全文陈述: 'Malcolm Licari played for Rabat Ajax in the Maltese Premier League.'。这直接建立了 Rabat Ajax F.C. 与 Maltese Premier League 的成员关系。虽然是通过球员经历间接体现，但在足球语境下，球员在联赛中为某队效力即证明该队属于该联赛。单来源，直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What league does the team that occupies the Rabat Ajax Football Ground belong to?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What league does the team that occupies the Rabat Ajax Football Ground belong to?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 solved 且 healthy，推理链完整，可合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。子节点 N1_1 和 N1_2 均已 solved，且依赖关系语义有效。N1_1 确定球队为 Rabat Ajax F.C.，N1_2 确定该球队所属联赛为 Maltese Premier League。推理链完整：Q -> 识别球队 -> 查询联赛。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，依赖链语义匹配，可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which team occupies the Rabat Ajax Football Ground?",
+          "answer": "Rabat Ajax F.C.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which team occupies the Rabat Ajax Football Ground?",
+          "planner_rationale": "已确立占据 Rabat Ajax Football Ground 的球队为 Rabat Ajax F.C.，证据充分（chunk d7cbe043...），无需重搜。",
+          "solver_judgment": "question 要求找出占据 Rabat Ajax Football Ground 的球队。search_query 直接搜索了该问题。chunks 中的 d7cbe043-e345-406c-90d3-9d300fe477bf 明确指出 \"The Rabat Ajax Football Ground is the training ground of Maltese football team Rabat Ajax F.C.\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (d7cbe043...)。Chunk 全文直接陈述: 'The Rabat Ajax Football Ground is the training ground of Maltese football team Rabat Ajax F.C.'。答案 'Rabat Ajax F.C.' 与 chunk 内容完全匹配。单来源但直接具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What league does that team belong to?",
+          "answer": "Maltese Premier League",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Rabat Ajax F.C. league",
+          "planner_rationale": "已确立 Rabat Ajax F.C. 所属联赛为 Maltese Premier League，证据充分（chunk 962e4d94...），无需重搜。",
+          "solver_judgment": "question 要求确定“that team”（根据 search_query 可知为 Rabat Ajax F.C.）所属的联赛。search_query 搜索了 'Rabat Ajax F.C. league'。chunks 返回了关于 Rabat Ajax F.C. 的多条信息。其中 chunk 962e4d94-ad1a-4b3d-b5c7-88143a2cb282 明确记载 \"Malcolm Licari played for Rabat Ajax in the Maltese Premier League\"，直接指出了该球队所在的联赛为马耳他超级联赛（Maltese Premier League）。其他 chunk 仅提到球队名称或教练信息，未提及联赛名称。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (962e4d94...)。Chunk 全文陈述: 'Malcolm Licari played for Rabat Ajax in the Maltese Premier League.'。这直接建立了 Rabat Ajax F.C. 与 Maltese Premier League 的成员关系。虽然是通过球员经历间接体现，但在足球语境下，球员在联赛中为某队效力即证明该队属于该联赛。单来源，直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What league does the team that occupies the Rabat Ajax Football Ground belong to?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What league does the team that occupies the Rabat Ajax Football Ground belong to?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 solved 且 healthy，推理链完整，可合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。子节点 N1_1 和 N1_2 均已 solved，且依赖关系语义有效。N1_1 确定球队为 Rabat Ajax F.C.，N1_2 确定该球队所属联赛为 Maltese Premier League。推理链完整：Q -> 识别球队 -> 查询联赛。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，依赖链语义匹配，可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which team occupies the Rabat Ajax Football Ground?",
+          "answer": "Rabat Ajax F.C.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which team occupies the Rabat Ajax Football Ground?",
+          "planner_rationale": "已确立占据 Rabat Ajax Football Ground 的球队为 Rabat Ajax F.C.，证据充分（chunk d7cbe043...），无需重搜。",
+          "solver_judgment": "question 要求找出占据 Rabat Ajax Football Ground 的球队。search_query 直接搜索了该问题。chunks 中的 d7cbe043-e345-406c-90d3-9d300fe477bf 明确指出 \"The Rabat Ajax Football Ground is the training ground of Maltese football team Rabat Ajax F.C.\"，直接提供了答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (d7cbe043...)。Chunk 全文直接陈述: 'The Rabat Ajax Football Ground is the training ground of Maltese football team Rabat Ajax F.C.'。答案 'Rabat Ajax F.C.' 与 chunk 内容完全匹配。单来源但直接具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What league does that team belong to?",
+          "answer": "Maltese Premier League",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Rabat Ajax F.C. league",
+          "planner_rationale": "已确立 Rabat Ajax F.C. 所属联赛为 Maltese Premier League，证据充分（chunk 962e4d94...），无需重搜。",
+          "solver_judgment": "question 要求确定“that team”（根据 search_query 可知为 Rabat Ajax F.C.）所属的联赛。search_query 搜索了 'Rabat Ajax F.C. league'。chunks 返回了关于 Rabat Ajax F.C. 的多条信息。其中 chunk 962e4d94-ad1a-4b3d-b5c7-88143a2cb282 明确记载 \"Malcolm Licari played for Rabat Ajax in the Maltese Premier League\"，直接指出了该球队所在的联赛为马耳他超级联赛（Maltese Premier League）。其他 chunk 仅提到球队名称或教练信息，未提及联赛名称。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (962e4d94...)。Chunk 全文陈述: 'Malcolm Licari played for Rabat Ajax in the Maltese Premier League.'。这直接建立了 Rabat Ajax F.C. 与 Maltese Premier League 的成员关系。虽然是通过球员经历间接体现，但在足球语境下，球员在联赛中为某队效力即证明该队属于该联赛。单来源，直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Which team occupies the Rabat Ajax Football Ground?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "d7cbe043-e345-406c-90d3-9d300fe477bf",
+        "2e074d4f-a678-4697-ae10-32eda8a2f685",
+        "625da6b0-6302-4e71-96c3-e39ff05d610a",
+        "e56f4c6e-eb70-4582-a2da-9cbeeef8371b",
+        "962e4d94-ad1a-4b3d-b5c7-88143a2cb282",
+        "64708ddb-1a75-46e5-a5a7-c66564e770bf",
+        "e1463f20-4dc3-41a5-86b2-f8316c62b8f7",
+        "cd2957c4-45f7-4e32-a929-5b23043a0dbf"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Rabat Ajax F.C. league",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "d7cbe043-e345-406c-90d3-9d300fe477bf",
+        "962e4d94-ad1a-4b3d-b5c7-88143a2cb282",
+        "2e074d4f-a678-4697-ae10-32eda8a2f685",
+        "625da6b0-6302-4e71-96c3-e39ff05d610a",
+        "e1463f20-4dc3-41a5-86b2-f8316c62b8f7",
+        "c586fcaa-f6ac-4bf3-8126-afcd346382af",
+        "e56f4c6e-eb70-4582-a2da-9cbeeef8371b",
+        "b3fef2ed-d970-4ef7-a013-19369e57f6f6"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which team occupies the Rabat Ajax Football Ground?（理由：Q 询问的是占据该场地的球队的联赛，需先识别球队身份），F2: What league does that team belong to?（理由：Q 的核心询问——该球队所属的联赛）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 中的 'that team' 指代 F1 的答案，必须先用 F1 的答案消解指代才能搜索 F2）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将 Q 分解为两个步骤：1. 识别占据 Rabat Ajax Football Ground 的球队；2. 查询该球队的联赛。这两个步骤之间存在硬依赖关系，因为第二步的查询对象依赖于第一步的结果。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N1_1 答案消解 N1_2 指代）；③所有节点（含 ROOT）审查结果为 healthy；④首轮无拓扑变化阻碍。DAG 结构合理，证据充分，可生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which team occupies the Rabat Ajax Football Ground?（理由：Q 询问的是占据该场地的球队的联赛，需先识别球队身份），F2: What league does that team belong to?（理由：Q 的核心询问——该球队所属的联赛）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 中的 'that team' 指代 F1 的答案，必须先用 F1 的答案消解指代才能搜索 F2）。当前 DAG 中 N1_1 对应 F1，N1_2 对应 F2，且两者均已 solved + healthy，结构完整。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均通过 INHERIT 保留，边关系保持不变。原因：Critic 确认 N1_1 和 N1_2 的证据充分且依赖链语义有效，DAG 已收敛至正确状态，无需新增、删除或换标操作。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 答案消解 N1_2 指代）；③ 所有节点（含 ROOT）均为 healthy；④ 拓扑连续两轮无变化。DAG 结构完整，证据充分，可生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which team occupies the Rabat Ajax Football Ground?（理由：Q 询问的是占据该场地的球队的联赛，需先识别球队身份），F2: What league does that team belong to?（理由：Q 的核心询问——该球队所属的联赛）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 中的 'that team' 指代 F1 的答案，必须先用 F1 的答案消解指代才能搜索 F2）。当前 DAG 中 N1_1 对应 F1，N1_2 对应 F2，且两者均已 solved + healthy，结构完整。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均通过 INHERIT 保留，边关系保持不变。原因：Critic 确认 N1_1 和 N1_2 的证据充分且依赖链语义有效，DAG 已收敛至正确状态，无需新增、删除或换标操作。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 答案消解 N1_2 指代）；③ 所有节点（含 ROOT）均为 healthy；④ 拓扑连续两轮无变化。DAG 结构合理，证据充分，可生成最终答案。"
+      }
+    }
+  ]
+}

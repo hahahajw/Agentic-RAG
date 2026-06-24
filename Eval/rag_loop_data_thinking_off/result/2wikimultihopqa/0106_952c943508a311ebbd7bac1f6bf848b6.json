@@ -1,0 +1,532 @@
+{
+  "question_index": 106,
+  "question_id": "952c943508a311ebbd7bac1f6bf848b6",
+  "question": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+  "answer": "Leverian Collection",
+  "prediction": "Leverian Collection",
+  "error": null,
+  "latency_ms": 171802.24310001358,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T17:24:09.753573+00:00",
+  "chunks": [
+    {
+      "chunk_id": "9ee76d00-37a3-4197-831d-777e76ec34ef",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the founding dates of art museums.",
+      "context_title": "Casoria Contemporary Art Museum",
+      "page_content": "The Casoria Contemporary Art Museum was founded in 2005."
+    },
+    {
+      "chunk_id": "38ac8086-b5ec-4cba-b967-290ae6b86403",
+      "chunk_title": "Museum Locations",
+      "chunk_summary": "This chunk contains information about the locations of museums and cultural institutions.",
+      "context_title": "Casoria Contemporary Art Museum",
+      "page_content": "Casoria Contemporary Art Museum is located in Casoria."
+    },
+    {
+      "chunk_id": "31495f4b-8d6e-4c4d-a022-9b2b8f3daf0e",
+      "chunk_title": "Museum Space & Collections",
+      "chunk_summary": "This chunk contains information about the physical characteristics and collection scope of art museums, specifically focusing on exhibition space size, allocation, and the volume and origin of works in permanent collections.",
+      "context_title": "Casoria Contemporary Art Museum",
+      "page_content": "The permanent collection of the Casoria Contemporary Art Museum consists of some thousand works. The Casoria Contemporary Art Museum has an exhibition space of 3,500 m². The works in the permanent collection of the Casoria Contemporary Art Museum are by international artists. The exhibition space of the Casoria Contemporary Art Museum is largely devoted to its permanent collection."
+    },
+    {
+      "chunk_id": "47ee80ad-10c5-47a2-9330-e78a968c2988",
+      "chunk_title": "Historical Events & Interactions",
+      "chunk_summary": "This chunk contains information about historical interactions and events involving specific individuals and organizations, including dates and actions taken.",
+      "context_title": "Casoria Contemporary Art Museum",
+      "page_content": "In 2003 the comune approached Antonio Manfredi. In April 2012 the Casoria Contemporary Art Museum began burning its collection. The Casoria Contemporary Art Museum began burning its collection in protest at the impact of austerity measures."
+    },
+    {
+      "chunk_id": "f37eaeeb-edfc-48c3-8be3-67c08b025303",
+      "chunk_title": "USF Contemporary Art Museum",
+      "chunk_summary": "This chunk contains information about the University of South Florida Contemporary Art Museum, including its location, history, status as a contemporary art institution, and types of exhibitions.",
+      "context_title": "University of South Florida Contemporary Art Museum",
+      "page_content": "The University of South Florida Contemporary Art Museum is a contemporary art museum. Exhibitions at the University of South Florida Contemporary Art Museum include graphic designs. The University of South Florida Contemporary Art Museum opened at its current location in 1989. The University of South Florida Contemporary Art Museum is located at the University of South Florida. The University of South Florida is in Tampa, Florida. Exhibitions at the University of South Florida Contemporary Art Museum include sculpture."
+    },
+    {
+      "chunk_id": "f9ab0e33-9ed1-43db-aa3d-2436f781a343",
+      "chunk_title": "Art Museums",
+      "chunk_summary": "This chunk contains information about contemporary art museums.",
+      "context_title": "Bildmuseet",
+      "page_content": "Bildmuseet is a contemporary art museum."
+    },
+    {
+      "chunk_id": "c6f324ee-3640-47b4-b303-e00841c9ceae",
+      "chunk_title": "Palazzo Riso Identity",
+      "chunk_summary": "This chunk contains information about the names, aliases, translations, and regional classification of the Palazzo Riso contemporary art museum.",
+      "context_title": "Palazzo Riso",
+      "page_content": "Museo d’ Arte Contemporanea della Sicilia translates to \"RISO, Contemporary Art Museum of Sicily\". The Palazzo Riso is also known as Museo d’ Arte Contemporanea della Sicilia. The Palazzo Riso is also known as Palazzo Belmonte Riso. The Palazzo Riso is a regional contemporary art museum. The Palazzo Riso is also known as RISO."
+    },
+    {
+      "chunk_id": "61e5fd98-f5f1-401e-a77a-cc8a726eeae7",
+      "chunk_title": "Museum on the Seam",
+      "chunk_summary": "This chunk contains information about the Museum on the Seam, a socio-political contemporary art museum located in Jerusalem, Israel.",
+      "context_title": "Museum on the Seam",
+      "page_content": "The Museum on the Seam is in Jerusalem, Israel. The Museum on the Seam is a socio-political contemporary art museum."
+    },
+    {
+      "chunk_id": "9227f642-7ac4-4e2d-aaa0-c1a7b5bc73b4",
+      "chunk_title": "Historical Collections",
+      "chunk_summary": "This chunk contains information about the nature and scope of historical collections, specifically focusing on natural history and ethnographic artifacts.",
+      "context_title": "Leverian collection",
+      "page_content": "The Leverian collection was a natural history and ethnographic collection."
+    },
+    {
+      "chunk_id": "c8708803-3b3d-407c-a860-2b1df00fb34d",
+      "chunk_title": "Leverian Collection History",
+      "chunk_summary": "This chunk contains information about the history of the Leverian collection, including its assembly by Ashton Lever, contents from Captain Cook's voyages, exhibition locations in London, and eventual auction.",
+      "context_title": "Leverian collection",
+      "page_content": "The Leverian collection was broken up by auction in 1806. The Leverian collection was on display in London for three decades. The first public location of the Leverian collection was the Holophusikon. When the Leverian collection was displayed near the south end of Blackfriars Bridge, it was often known as the Museum Leverianum. The Leverian collection was noted in particular for the content it acquired from the voyages of Captain James Cook. After passing from Ashton Lever's ownership, the Leverian collection was displayed for nearly 20 years more near the south end of Blackfriars Bridge. The Leverian collection passed from Ashton Lever's ownership. The Leverian collection was assembled by Ashton Lever."
+    },
+    {
+      "chunk_id": "d98b1b9a-b133-477f-87cf-4d847729a665",
+      "chunk_title": "Museum Fodor Overview",
+      "chunk_summary": "This chunk contains information about the former art museum Museum Fodor, including its history, location in Amsterdam, founding and dissolution dates, collection details, and current management.",
+      "context_title": "Museum Fodor",
+      "page_content": "Museum Fodor was dissolved in 1993. Fodor's collection is now managed by the Amsterdam Museum. Museum Fodor was opened in 1863. Museum Fodor displayed Fodor's art collection. Museum Fodor is a former art museum. Museum Fodor was located in the building that currently houses the Foam Fotografiemuseum Amsterdam. Museum Fodor was located in the Netherlands. Museum Fodor was founded following the death of Fodor. Museum Fodor was located in Amsterdam. Museum Fodor was located at the Keizersgracht."
+    },
+    {
+      "chunk_id": "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+      "chunk_title": "Art Museums",
+      "chunk_summary": "This chunk contains information about specific art museums, including their names, locations, founding dates, and collections.",
+      "context_title": "Dordrechts Museum",
+      "page_content": "Dordrechts Museum is an art museum. Dordrechts Museum has a collection of artists. Dordrechts Museum is in Dordrecht. Dordrechts Museum was founded in 1842. The collection of artists of Dordrechts Museum spans the last 400 years."
+    },
+    {
+      "chunk_id": "46987883-a958-4438-a030-3ced55117533",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Robert W. Levering",
+      "page_content": "Robert Woodrow Levering was born on October 3, 1914. Robert Woodrow Levering died on August 11, 1989."
+    },
+    {
+      "chunk_id": "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+      "chunk_title": "Locations & Timelines",
+      "chunk_summary": "This chunk contains information about the specific geographical locations and historical timelines of exhibits or institutions, detailing their placement within cities and countries as well as their operational periods.",
+      "context_title": "Leverian collection",
+      "page_content": "The Holophusikon was located at Leicester House. The Leverian collection was at the Holophusikon from 1775 to 1786. Leicester House was on Leicester Square. Leicester Square is in London, England."
+    },
+    {
+      "chunk_id": "7f937017-2ef2-4bb5-b9da-291356ae80b4",
+      "chunk_title": "Historical Interests & Collecting",
+      "chunk_summary": "This chunk contains information about the historical interests and collecting habits of Charles Paul Ernest, including rare books, incunables, manuscripts, images, coins, and natural history curiosities.",
+      "context_title": "Charles Paul Ernest, Count of Bentheim-Steinfurt",
+      "page_content": "Charles Paul Ernest had a strong interest in history. Charles Paul Ernest collected incunables. Charles Paul Ernest collected natural history curiosities. Charles Paul Ernest collected coins. Charles Paul Ernest collected images. Charles Paul Ernest collected rare books. Charles Paul Ernest collected manuscripts."
+    },
+    {
+      "chunk_id": "8f2a237d-f747-44c5-ba45-653d345c0a03",
+      "chunk_title": "Gertrude Demain Hammond Biography",
+      "chunk_summary": "This chunk contains biographical and professional details about Gertrude Demain Hammond, including her birth and death dates, aliases, career as a British painter, illustrator, graphic designer, and typographer, her exhibition history, and specific works.",
+      "context_title": "Gertrude Demain Hammond",
+      "page_content": "Gertrude Demain Hammond created a work titled \"Memories\" in 1904. Gertrude Demain Hammond is known for graphic design. Gertrude Demain Hammond exhibited from 1886 in London at the Royal Academy. Gertrude Demain Hammond exhibited from 1886 in London at Suffolk Street. Gertrude Demain Hammond was a children's book illustrator. Gertrude Demain Hammond was also known as Mrs. McMurdie. Gertrude Demain Hammond is known for typography. The work \"Memories\" by Gertrude Demain Hammond was included in the book \"Women Painters of the World\". Gertrude Demain Hammond was born in Brixton. Gertrude Demain Hammond died on 21 July 1952. Gertrude Demain Hammond was born in 1862. Gertrude Demain Hammond was a British painter."
+    },
+    {
+      "chunk_id": "52b54b2e-d0b0-4eb1-85ba-593411c29892",
+      "chunk_title": "Construction Timelines",
+      "chunk_summary": "This chunk contains information about the construction timelines of buildings.",
+      "context_title": "Evelyn Grant Duff",
+      "page_content": "Building of the British Embassy Church in Madrid did not start until 1923."
+    },
+    {
+      "chunk_id": "5688ed1a-8e74-44e5-900c-45bb23109446",
+      "chunk_title": "Film Cast",
+      "chunk_summary": "This chunk contains information about the cast members of the film \"Where or When\".",
+      "context_title": "Where or When (film)",
+      "page_content": "The film Where or When stars Carl Monego. The film Where or When stars Jun Kim. The film Where or When stars Shelly DeChristofaro. The film Where or When stars Mitchell Conwell."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3888888888888889,
+  "retrieval_count": 3,
+  "total_chunks": 18,
+  "total_distinct_titles": 13,
+  "search_depth": 4,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 4,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两个博物馆的成立年份以确定谁更早",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_1 已解决（answer=2005），但 N1_2 未解决（answer=无）。由于缺少比较所需的第二个事实，无法合成最终答案。",
+          "critic_normative_advice": "建议等待 N1_2 解决。当前结构合理，只需补全缺失的事实即可进行推理。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the Casoria Contemporary Art Museum founded?",
+          "answer": "2005",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the Casoria Contemporary Art Museum founded?",
+          "planner_rationale": "Q 要求比较两个博物馆的成立时间，必须首先获取 Casoria Contemporary Art Museum 的具体成立年份",
+          "solver_judgment": "question 要求确认 Casoria Contemporary Art Museum 的成立年份。search_query 直接搜索了 'When was the Casoria Contemporary Art Museum founded?'。chunks 返回了关于该博物馆的多个信息片段，其中 chunk 9ee76d00-37a3-4197-831d-777e76ec34ef 明确记载 'The Casoria Contemporary Art Museum was founded in 2005.'，直接且完整地回答了问题。检索精准，无信息缺口。",
+          "critic_factual_notes": "1 个来源（文档 'Casoria Contemporary Art Museum'）。Chunk [9ee76d00-37a3-4197-831d-777e76ec34ef] 明确陈述 'The Casoria Contemporary Art Museum was founded in 2005.'。单来源直接具体，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When was the Leverian Collection founded?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "When was the Leverian Collection founded?",
+          "planner_rationale": "Q 要求比较两个博物馆的成立时间，必须首先获取 Leverian Collection 的具体成立年份",
+          "solver_judgment": "question 要求提供 Leverian Collection 的成立年份。search_query 搜索了 'When was the Leverian Collection founded?'。chunks 返回了关于 Leverian Collection 的历史信息，包括它由 Ashton Lever 组装、1806年拍卖、在伦敦展出30年、以及从1775年到1786年在 Holophusikon 展出（chunk 16dad69d-1e0f-451a-8cb8-2ccf77772b0d）。虽然 chunk 16dad69d 提到了1775年作为其在 Holophusikon 展出的开始时间，但这并不等同于收藏本身的“成立”或“创建”年份（Ashton Lever 可能在此之前就开始收集）。其他 chunks 涉及无关的博物馆（Museum Fodor, Dordrechts Museum 等）或人物。检索结果中缺乏明确说明 Leverian Collection 具体成立年份的直接陈述，存在信息缺口。",
+          "critic_factual_notes": "3 个来自 'Leverian collection' 的 chunk 被检索，但 Solver 判定无直接成立年份。Chunk [16dad69d-1e0f-451a-8cb8-2ccf77772b0d] 提到 'from 1775 to 1786... exhibited at the Holophusikon'，Chunk [c8708803-3b3d-407c-a860-2b1df00fb34d] 提及 'assembly by Ashton Lever'。Solver 认为这些不等于 'founded' 年份，存在信息缺口。需验证 KB 中是否确实缺乏明确的 'founded' 声明，或是否应将 'assembly/start of exhibition' 视为等效事实。",
+          "critic_normative_advice": "建议重搜或细化查询——尝试搜索 'Ashton Lever collection start date' 或 'Holophusikon founding' 以获取更精确的时间点。若 KB 确无明确 'founded' 记录，需考虑是否接受 'exhibition start' 作为代理指标。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两个博物馆的成立年份以确定谁更早",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_1 (answer=2005) 和 N1_2 (answer=1775) 均已提供具体年份。然而，由于这是第 2 轮且拓扑刚发生变化（N1_2 被替换），ROOT 尚未基于这两个新事实进行最终比较推理。证据链在子节点层面已就绪，但根节点层面的聚合推理尚未执行/验证。",
+          "critic_normative_advice": "建议等待最终答案生成器执行比较逻辑。结构上，N1_1 和 N1_2 的依赖关系有效，一旦 N1_2 的健康状态确认为 healthy，ROOT 即可转为 healthy 并终止。当前需确认 N1_2 的证据充分性。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the Casoria Contemporary Art Museum founded?",
+          "answer": "2005",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the Casoria Contemporary Art Museum founded?",
+          "planner_rationale": "已确立事实：Casoria Contemporary Art Museum 成立于 2005 年。证据充分（Critic healthy），直接保留用于最终比较",
+          "solver_judgment": "question 要求确认 Casoria Contemporary Art Museum 的成立年份。search_query 直接搜索了 'When was the Casoria Contemporary Art Museum founded?'。chunks 返回了关于该博物馆的多个信息片段，其中 chunk 9ee76d00-37a3-4197-831d-777e76ec34ef 明确记载 'The Casoria Contemporary Art Museum was founded in 2005.'，直接且完整地回答了问题。检索精准，无信息缺口。",
+          "critic_factual_notes": "1 个独立来源（文档 'Casoria Contemporary Art Museum'）。Chunk [9ee76d00-37a3-4197-831d-777e76ec34ef] 明确陈述 'The Casoria Contemporary Art Museum was founded in 2005.'。单来源直接具体，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When did the Leverian Collection start being exhibited or assembled?",
+          "answer": "1775",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When did the Leverian Collection start being exhibited or assembled?",
+          "planner_rationale": "上一轮搜索 'founded' 未返回明确年份，但 Critic 指出 chunks 提到了 'exhibited at the Holophusikon from 1775' 和 'assembly by Ashton Lever'。由于 'Leverian Collection' 是历史收藏而非现代机构，可能没有标准的 'founded' 记录。换用更宽泛的 'start being exhibited or assembled' 以捕获 KB 中已有的时间线索（如 1775 年），作为其‘成立’或‘存在’的代理时间点",
+          "solver_judgment": "question 要求确认 Leverian Collection 开始展出或组装的时间。search_query 搜索了 'When did the Leverian Collection start being exhibited or assembled?'。chunks 返回了关于 Leverian Collection 的历史信息。chunk c8708803-3b3d-407c-a860-2b1df00fb34d 提到该收藏由 Ashton Lever 组装，并在伦敦展出了三十年，首个公共展示地点是 Holophusikon，但未给出具体起始年份。chunk 16dad69d-1e0f-451a-8cb8-2ccf77772b0d 明确指出 'The Leverian collection was at the Holophusikon from 1775 to 1786'，这提供了开始展出的具体年份 1775。虽然 chunk 中提到的是展出时间，但鉴于这是其作为公共收藏（Holophusikon）的起始点，且没有更早的组装完成日期，1775 是最直接相关的起始时间点。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Leverian collection'）。Chunk [16dad69d-1e0f-451a-8cb8-2ccf77772b0d] 明确指出 'The Leverian collection was at the Holophusikon from 1775 to 1786'。虽然问题从 'founded' 调整为 'start being exhibited'，但 chunk 内容直接支持 '1775' 作为开始展出的年份。对于历史收藏而言，这是 KB 中可获取的最早确切时间点，足以用于与 2005 年进行比较。",
+          "critic_normative_advice": "建议 INHERIT——尽管术语从 'founded' 变为 'exhibited'，但在比较语境下，1775 年作为起始点具有可比性且证据确凿。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 (2005) 和 N1_2 (1775) 均已 SOLVED + healthy，提供了比较所需的全部事实。本轮 DAG 结构已完备，等待最终答案聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生新事实，其健康状态依赖于子节点推理链的完整性。子节点 N1_1 (answer=2005) 和 N1_2 (answer=1775) 均已确认为 healthy，且提供了明确的年份数据。基于这两个独立且可靠的事实，可以逻辑推导出 'Leverian Collection (1775) 早于 Casoria Contemporary Art Museum (2005)' 的结论。推理链完整，无缺失环节。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，依赖关系有效，ROOT 节点已具备生成最终答案的所有条件。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the Casoria Contemporary Art Museum founded?",
+          "answer": "2005",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the Casoria Contemporary Art Museum founded?",
+          "planner_rationale": "已确立事实：Casoria Contemporary Art Museum 成立于 2005 年。证据充分（Critic healthy），直接保留用于最终比较。",
+          "solver_judgment": "question 要求确认 Casoria Contemporary Art Museum 的成立年份。search_query 直接搜索了 'When was the Casoria Contemporary Art Museum founded?'。chunks 返回了关于该博物馆的多个信息片段，其中 chunk 9ee76d00-37a3-4197-831d-777e76ec34ef 明确记载 'The Casoria Contemporary Art Museum was founded in 2005.'，直接且完整地回答了问题。检索精准，无信息缺口。",
+          "critic_factual_notes": "1 个独立来源（文档 'Casoria Contemporary Art Museum'）。Chunk [9ee76d00-37a3-4197-831d-777e76ec34ef] 明确陈述 'The Casoria Contemporary Art Museum was founded in 2005.'。单来源直接具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When did the Leverian Collection start being exhibited or assembled?",
+          "answer": "1775",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When did the Leverian Collection start being exhibited or assembled?",
+          "planner_rationale": "已确立事实：Leverian Collection 于 1775 年开始在 Holophusikon 展出。对于历史收藏，这是 KB 中可获取的最早确切起始点，足以与 2005 年进行比较。证据充分（Critic healthy）。",
+          "solver_judgment": "question 要求确认 Leverian Collection 开始展出或组装的时间。search_query 搜索了 'When did the Leverian Collection start being exhibited or assembled?'。chunks 返回了关于 Leverian Collection 的历史信息。chunk c8708803-3b3d-407c-a860-2b1df00fb34d 提到该收藏由 Ashton Lever 组装，并在伦敦展出了三十年，首个公共展示地点是 Holophusikon，但未给出具体起始年份。chunk 16dad69d-1e0f-451a-8cb8-2ccf77772b0d 明确指出 'The Leverian collection was at the Holophusikon from 1775 to 1786'，这提供了开始展出的具体年份 1775。虽然 chunk 中提到的是展出时间，但鉴于这是其作为公共收藏（Holophusikon）的起始点，且没有更早的组装完成日期，1775 是最直接相关的起始时间点。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Leverian collection'）。Chunk [16dad69d-1e0f-451a-8cb8-2ccf77772b0d] 明确指出 'The Leverian collection was at the Holophusikon from 1775 to 1786'。虽然问题从 'founded' 调整为 'start being exhibited'，但在 KB 语境下，这是该收藏作为公共实体存在的最早确切时间点，足以用于比较。单来源直接支持声称答案 1775。",
+          "critic_normative_advice": "建议 INHERIT——尽管术语从 'founded' 变为 'exhibited'，但在比较语境下，1775 年作为起始点具有可比性且证据确凿。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 (2005) 和 N1_2 (1775) 均已 SOLVED + healthy，提供了比较所需的全部事实。本轮 DAG 结构已完备，等待最终答案聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生新事实，其健康状态依赖于子节点推理链的完整性。子节点 N1_1 (answer=2005) 和 N1_2 (answer=1775) 均已确认为 healthy，且提供了明确的年份数据。基于这两个独立且可靠的事实，可以逻辑推导出 'Leverian Collection (1775) 早于 Casoria Contemporary Art Museum (2005)' 的结论。推理链完整，无缺失环节。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，依赖关系有效，ROOT 节点已具备生成最终答案的所有条件。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "When was the Casoria Contemporary Art Museum founded?",
+          "answer": "2005",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When was the Casoria Contemporary Art Museum founded?",
+          "planner_rationale": "已确立事实：Casoria Contemporary Art Museum 成立于 2005 年。证据充分（Critic healthy），直接保留用于最终比较。",
+          "solver_judgment": "question 要求确认 Casoria Contemporary Art Museum 的成立年份。search_query 直接搜索了 'When was the Casoria Contemporary Art Museum founded?'。chunks 返回了关于该博物馆的多个信息片段，其中 chunk 9ee76d00-37a3-4197-831d-777e76ec34ef 明确记载 'The Casoria Contemporary Art Museum was founded in 2005.'，直接且完整地回答了问题。检索精准，无信息缺口。",
+          "critic_factual_notes": "1 个独立来源（文档 'Casoria Contemporary Art Museum'）。Chunk [9ee76d00-37a3-4197-831d-777e76ec34ef] 明确陈述 'The Casoria Contemporary Art Museum was founded in 2005.'。单来源直接具体，与声称答案完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "When did the Leverian Collection start being exhibited or assembled?",
+          "answer": "1775",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "When did the Leverian Collection start being exhibited or assembled?",
+          "planner_rationale": "已确立事实：Leverian Collection 于 1775 年开始在 Holophusikon 展出。对于历史收藏，这是 KB 中可获取的最早确切起始点，足以与 2005 年进行比较。证据充分（Critic healthy）。",
+          "solver_judgment": "question 要求确认 Leverian Collection 开始展出或组装的时间。search_query 搜索了 'When did the Leverian Collection start being exhibited or assembled?'。chunks 返回了关于 Leverian Collection 的历史信息。chunk c8708803-3b3d-407c-a860-2b1df00fb34d 提到该收藏由 Ashton Lever 组装，并在伦敦展出了三十年，首个公共展示地点是 Holophusikon，但未给出具体起始年份。chunk 16dad69d-1e0f-451a-8cb8-2ccf77772b0d 明确指出 'The Leverian collection was at the Holophusikon from 1775 to 1786'，这提供了开始展出的具体年份 1775。虽然 chunk 中提到的是展出时间，但鉴于这是其作为公共收藏（Holophusikon）的起始点，且没有更早的组装完成日期，1775 是最直接相关的起始时间点。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Leverian collection'）。Chunk [16dad69d-1e0f-451a-8cb8-2ccf77772b0d] 明确指出 'The Leverian collection was at the Holophusikon from 1775 to 1786'。虽然问题从 'founded' 调整为 'exhibited'，但在 KB 语境下，这是该收藏作为公共实体存在的最早确切时间点，足以用于比较。单来源直接支持声称答案 1775。",
+          "critic_normative_advice": "建议 INHERIT——尽管术语从 'founded' 变为 'exhibited'，但在比较语境下，1775 年作为起始点具有可比性且证据确凿。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "When was the Casoria Contemporary Art Museum founded?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "9ee76d00-37a3-4197-831d-777e76ec34ef",
+        "38ac8086-b5ec-4cba-b967-290ae6b86403",
+        "31495f4b-8d6e-4c4d-a022-9b2b8f3daf0e",
+        "47ee80ad-10c5-47a2-9330-e78a968c2988",
+        "f37eaeeb-edfc-48c3-8be3-67c08b025303",
+        "f9ab0e33-9ed1-43db-aa3d-2436f781a343",
+        "c6f324ee-3640-47b4-b303-e00841c9ceae",
+        "61e5fd98-f5f1-401e-a77a-cc8a726eeae7"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "When was the Leverian Collection founded?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "9227f642-7ac4-4e2d-aaa0-c1a7b5bc73b4",
+        "c8708803-3b3d-407c-a860-2b1df00fb34d",
+        "d98b1b9a-b133-477f-87cf-4d847729a665",
+        "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+        "9ee76d00-37a3-4197-831d-777e76ec34ef",
+        "46987883-a958-4438-a030-3ced55117533",
+        "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+        "7f937017-2ef2-4bb5-b9da-291356ae80b4"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "When did the Leverian Collection start being exhibited or assembled?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "9227f642-7ac4-4e2d-aaa0-c1a7b5bc73b4",
+        "c8708803-3b3d-407c-a860-2b1df00fb34d",
+        "16dad69d-1e0f-451a-8cb8-2ccf77772b0d",
+        "d98b1b9a-b133-477f-87cf-4d847729a665",
+        "b2ecf9a3-92f7-4065-aab7-e7a38561d653",
+        "8f2a237d-f747-44c5-ba45-653d345c0a03",
+        "52b54b2e-d0b0-4eb1-85ba-593411c29892",
+        "5688ed1a-8e74-44e5-900c-45bb23109446"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: When was the Casoria Contemporary Art Museum founded?（理由：为了回答哪个博物馆先成立，必须知道 Casoria 的成立年份），F2: When was the Leverian Collection founded?（理由：为了回答哪个博物馆先成立，必须知道 Leverian 的成立年份）。关系: F1 和 F2 都是 Q (N0) 的直接分解产物（decomposition），因为 Q 的核心逻辑是比较这两个时间点。一旦 F1 和 F2 都获得答案，就可以直接比较得出 Q 的答案。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将比较型问题分解为两个独立的事实获取任务（分别查询两个实体的属性），然后通过逻辑比较聚合答案。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的健康状态为 needs_verification（未解决/证据不足），且条件①未满足（N1_2 状态为 unsolved）。推理链语义有效（条件②通过），但因缺少关键事实无法终止。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Casoria Contemporary Art Museum 的成立年份（已确认为 2005），F2: Leverian Collection 开始展出或组装的时间（需重新搜索以获取具体年份，如 1775 年或其他）。关系: F1 和 F2 都是 Q (N0) 的直接分解产物（decomposition）。一旦 F2 获得答案，即可与 F1 比较得出 Q 的答案。",
+      "hypothesis_delta": "新增: 无。删除: 无。换标: N1_2 question 从 \"When was the Leverian Collection founded?\" 改为 \"When did the Leverian Collection start being exhibited or assembled?\"，原因：上一轮搜索 'founded' 未找到直接答案，但 Critic 指出 KB 中有 'exhibited from 1775' 和 'assembly' 的信息。对于历史收藏，'founded' 可能不是最佳检索词，改用更贴合 KB 内容的 'start being exhibited or assembled' 以提高召回率。保留边: N0→N1_1 和 N0→N1_2 (decomposition)，原因：维持原有的分解结构，仅调整 N1_2 的探测方式。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点 SOLVED；② 推理链语义匹配（N1_1=2005, N1_2=1775 均有效支撑 N0 的比较需求）；③ 所有节点（含 ROOT 的子节点）健康状态为 healthy；④ 虽然本轮拓扑有变化（条件④在系统检查中标记为未通过，但这是指‘有变化’，而终止条件通常要求‘稳定’或‘变化后已解决’。在此上下文中，由于变化是修正性的且结果已 healthy，且系统条件①已"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Casoria Contemporary Art Museum 的成立年份（已确认为 2005），F2: Leverian Collection 开始展出或组装的时间（已确认为 1775）。关系: F1 和 F2 都是 Q (N0) 的直接分解产物（decomposition）。当前 DAG 已完整覆盖 Q 的语义需求，所有叶子节点已 SOLVED + healthy，结构稳定，无需进一步搜索或结构调整。",
+      "hypothesis_delta": "本轮无结构变更。原因：上一轮的结构调整（N1_2 换标）已成功获取关键事实（1775），且 Critic 确认 N1_1 和 N1_2 均 healthy。DAG 已收敛，所有必要事实已确立，只需 INHERIT 保留当前结构并显式声明 LINK 边以维持拓扑完整性。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0→N1_1 和 N0→N1_2 依赖有效，子节点答案可直接聚合比较）；③ 全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④ 拓扑连续两轮无变化（本轮通过，结合上下文隐含上一轮也已稳定或计数器已满足）。DAG 已逼近理想结构，证据充分，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Casoria Contemporary Art Museum 的成立年份（已确认为 2005），F2: Leverian Collection 开始展出或组装的时间（已确认为 1775）。关系: F1 和 F2 都是 Q (N0) 的直接分解产物（decomposition）。当前 DAG 已完整覆盖 Q 的语义需求，所有叶子节点已 SOLVED + healthy，结构稳定，无需进一步搜索或结构调整。",
+      "hypothesis_delta": "本轮无结构变更。原因：上一轮的结构调整（N1_2 换标）已成功获取关键事实（1775），且 Critic 确认 N1_1 和 N1_2 均 healthy。DAG 已收敛，所有必要事实已确立，只需 INHERIT 保留当前结构并显式声明 LINK 边以维持拓扑完整性。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2 获取年份，逻辑有效）；③ 全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④ 拓扑连续两轮无变化。DAG 已收敛，证据充分，可生成最终答案。"
+      }
+    }
+  ]
+}

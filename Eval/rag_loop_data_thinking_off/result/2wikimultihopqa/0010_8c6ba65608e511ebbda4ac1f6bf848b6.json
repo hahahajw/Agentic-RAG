@@ -1,0 +1,676 @@
+{
+  "question_index": 10,
+  "question_id": "8c6ba65608e511ebbda4ac1f6bf848b6",
+  "question": "Which film has the director born later, Brutti Di Notte or Bir Türk'E Gönül Verdim?",
+  "answer": "Bir Türk'E Gönül Verdim",
+  "prediction": "Bir Türk'E Gönül Verdim",
+  "error": null,
+  "latency_ms": 146966.76380001009,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T15:59:30.001055+00:00",
+  "chunks": [
+    {
+      "chunk_id": "a72f2606-967d-48cd-8b58-a433760fae1e",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, writers, directors, starring actors, and any works they parody.",
+      "context_title": "Brutti di notte",
+      "page_content": "Brutti di notte stars the comedy duo Franco Franchi and Ciccio Ingrassia. Brutti di notte is a parody of Luis Buñuel's film Belle de Jour. Brutti di notte was written by Giovanni Grimaldi. Luis Buñuel directed the film Belle de Jour. Franco Franchi and Ciccio Ingrassia are a comedy duo. Brutti di notte was directed by Giovanni Grimaldi. Brutti di notte is a 1968 Italian comedy film."
+    },
+    {
+      "chunk_id": "4a008c61-0dd7-40cc-ae79-f614f3fe0138",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their genre, country of origin, directors, and release dates.",
+      "context_title": "Follie di notte",
+      "page_content": "Follie di notte was directed by Joe D'Amato. Follie di notte is an Italian erotic-documentary film. Follie di notte was released in 1978."
+    },
+    {
+      "chunk_id": "72786124-52d2-41ed-b19b-2aecc30e06e8",
+      "chunk_title": "Films",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+      "context_title": "La donna di notte",
+      "page_content": "La donna di notte was directed by Mino Loy. La donna di notte is a 1962 Italian film."
+    },
+    {
+      "chunk_id": "4001f7a8-5d61-42fd-bdaf-914e9baef5b8",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "Luigi De Laurentiis",
+      "page_content": "\"Donne con le gonne\" was directed by Francesco Nuti. \"Vacanze di Natale\" was directed by Carlo Vanzina."
+    },
+    {
+      "chunk_id": "37e268c1-769c-4eed-8c42-dafcdeb29986",
+      "chunk_title": "Italian Phrase Meanings",
+      "chunk_summary": "This chunk contains information about the literal meanings of Italian phrases or terms.",
+      "context_title": "Brutti di notte",
+      "page_content": "Brutti di notte literally means \"Ugly by night\"."
+    },
+    {
+      "chunk_id": "69f7d8d9-ee01-420d-a61c-a63e2fd2941d",
+      "chunk_title": "Giacomo Battiato's Career",
+      "chunk_summary": "This chunk contains information about the career of Italian director Giacomo Battiato, including his films, documentaries, opera productions, commercials, and teaching.",
+      "context_title": "Giacomo Battiato",
+      "page_content": "Giacomo Battiato has directed special programmes and documentaries. Giacomo Battiato staged Mozart's \"Così fan tutte\" in Naples, Italy. Giacomo Battiato directed a film on Italian Design for the Museum of Modern Art, New York. Giacomo Battiato taught courses in film direction at the National School of Cinema in Rome. Giacomo Battiato has staged several operas. Giacomo Battiato is an Italian film director. Giacomo Battiato directed a portrait of Pierre Boulez. Giacomo Battiato directed \"Karol, un uomo diventato Papa\" in 2005. Giacomo Battiato directed \"Expressionismus\". Giacomo Battiato staged Verdi's \"Simon Boccanegra\" in Stuttgart, Germany. Giacomo Battiato directed two non-fiction films about Pope John Paul II. Giacomo Battiato has taught courses in film direction. Giacomo Battiato directed \"Karol, un papa rimasto uomo\" in 2006. Giacomo Battiato has directed award-winning commercials."
+    },
+    {
+      "chunk_id": "2ca3580f-5f3b-475b-8379-15b0ddfd1ab4",
+      "chunk_title": "Giovanni \"Tinto\" Brass Filmography",
+      "chunk_summary": "This chunk contains information about the professional background, identity, and filmography of Italian filmmaker Giovanni \"Tinto\" Brass.",
+      "context_title": "Tinto Brass",
+      "page_content": "Giovanni \"Tinto\" Brass directed the film \"Frivolous Lola\". In the 1960s and 1970s, Giovanni \"Tinto\" Brass directed many critically acclaimed avant-garde films of various genres. \"Così fan tutte\" was released under the English title \"All Ladies Do It\". Giovanni \"Tinto\" Brass directed the film \"Caligula\". Giovanni \"Tinto\" Brass is an Italian filmmaker. Giovanni \"Tinto\" Brass directed the film \"Così fan tutte\". Giovanni \"Tinto\" Brass directed the film \"Paprika\". Giovanni \"Tinto\" Brass directed the film \"Trasgredire\". Giovanni \"Tinto\" Brass directed the film \"Monella\". Today, Giovanni \"Tinto\" Brass is mainly known for his later work in the erotic genre."
+    },
+    {
+      "chunk_id": "45d44d44-13ff-46e0-a877-fc9028f5067e",
+      "chunk_title": "Film Directors & Nationalities",
+      "chunk_summary": "This chunk contains information about film directors and their nationalities.",
+      "context_title": "Antonio Capuano (director)",
+      "page_content": "Antonio Capuano is an Italian film director."
+    },
+    {
+      "chunk_id": "8713e1a7-5abc-4195-a6af-2037959c0527",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their title, release year, country of origin, genre, and director.",
+      "context_title": "Bir Türk'e Gönül Verdim",
+      "page_content": "Halit Refiğ directed Bir Türk'e Gönül Verdim. Bir Türk'e Gönül Verdim was directed by Halit Refiğ. Bir Türk'e Gönül Verdim is a 1969 Turkish adventure film."
+    },
+    {
+      "chunk_id": "010a5a89-540a-435a-aa5e-569676ee817a",
+      "chunk_title": "Actors & Films",
+      "chunk_summary": "This chunk contains information about actors and the films they have starred in.",
+      "context_title": "Bir Türk'e Gönül Verdim",
+      "page_content": "Eva Bender starred in Bir Türk'e Gönül Verdim. Ahmet Mekin starred in Bir Türk'e Gönül Verdim. Bilal İnci starred in Bir Türk'e Gönül Verdim."
+    },
+    {
+      "chunk_id": "1a7b3ce8-d413-4f24-aeb1-c242b51e1c9e",
+      "chunk_title": "Films",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, and directors.",
+      "context_title": "Corazón de turco",
+      "page_content": "Corazón de turco was directed by Lucas Demare. Corazón de turco is a 1940 Argentine film."
+    },
+    {
+      "chunk_id": "f6f74cb3-b80e-41ba-83f7-df401deb23b4",
+      "chunk_title": "Director Profile",
+      "chunk_summary": "This chunk contains information about the professional background and identity of Roger E. Young as an American TV and film director.",
+      "context_title": "Roger Young (director)",
+      "page_content": "Roger E. Young is an American TV and film director."
+    },
+    {
+      "chunk_id": "dbbbf158-2d6b-45d5-accb-0161228ebf1e",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their title, release year, country of origin, genre, writers, directors, and related media franchises.",
+      "context_title": "Deli Yürek: Bumerang Cehennemi",
+      "page_content": "Deli Yürek: Bumerang Cehennemi was directed by Osman Sınav. Deli Yürek: Bumerang Cehennemi was written by Osman Sınav. Deli Yürek: Bumerang Cehennemi is spun off from the TV series Deli Yürek. Deli Yürek: Bumerang Cehennemi is a 2001 Turkish action film."
+    },
+    {
+      "chunk_id": "e0c6acb5-72c0-473e-974a-1f48378921b7",
+      "chunk_title": "Film Directors & Nationalities",
+      "chunk_summary": "This chunk contains information about film directors and their nationalities.",
+      "context_title": "Metin Erksan",
+      "page_content": "Metin Erksan was a Turkish film director."
+    },
+    {
+      "chunk_id": "ec713c13-728c-4576-8158-e6e48587fe95",
+      "chunk_title": "Director Profiles",
+      "chunk_summary": "This chunk contains information about the professional background, identity, and work location of film and television directors.",
+      "context_title": "Joyce E. Bernal",
+      "page_content": "Joyce E. Bernal started as a film editor for Viva Films in 1994. Joyce E. Bernal is a Filipina film and television director. Joyce E. Bernal started as a film editor for Viva Films. Joyce E. Bernal works in the Philippines."
+    },
+    {
+      "chunk_id": "a5525b4d-769e-4386-9811-38fe440ed4ac",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about film directors, including their names, nationalities, and the number of films they directed.",
+      "context_title": "Phil Rosen",
+      "page_content": "Philip E. Rosen was an American film director. Philip E. Rosen directed 142 films between 1915 and 1949."
+    },
+    {
+      "chunk_id": "3192fa5a-7d5d-4557-9ba0-15d71398ff19",
+      "chunk_title": "Giovanni Grimaldi Profile",
+      "chunk_summary": "This chunk contains information about the professional background, nationality, and alternative credits of Giovanni Grimaldi.",
+      "context_title": "Giovanni Grimaldi",
+      "page_content": "Giovanni Grimaldi was an Italian journalist. Giovanni Grimaldi was an Italian screenwriter. Giovanni Grimaldi was sometimes credited as Gianni Grimaldi. Giovanni Grimaldi was an Italian film director."
+    },
+    {
+      "chunk_id": "d8a2f7ea-a18e-4318-ad30-e5fdb9324830",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the date of death for specific individuals.",
+      "context_title": "Giovanni Grimaldi",
+      "page_content": "Giovanni Grimaldi died on February 25, 2001."
+    },
+    {
+      "chunk_id": "39b54359-b8f0-4711-b88b-db1d69e2d6d0",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Giovanni Grimaldi",
+      "page_content": "Giovanni Grimaldi was born on November 14, 1917."
+    },
+    {
+      "chunk_id": "6e3dd021-6bc9-44e9-8b9a-4fc91a484fe8",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth and death dates of historical figures.",
+      "context_title": "Angelo Grimaldi",
+      "page_content": "Angelo Grimaldi lived from 1630 to 1682."
+    },
+    {
+      "chunk_id": "119cc815-70a0-447b-9f5e-225225e63b39",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the death dates of historical figures.",
+      "context_title": "Giovanni dei Tagliacozzi",
+      "page_content": "Giovanni dei Tagliacozzi died in 1540."
+    },
+    {
+      "chunk_id": "c4a4c400-61cf-4337-9013-5698fee89742",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the death dates of historical figures.",
+      "context_title": "Giovanni dei Porcari",
+      "page_content": "Giovanni dei Porcari died in 1486."
+    },
+    {
+      "chunk_id": "99c55d12-1ae5-4875-9062-e9ab5bbf1e9e",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Pietro Germi",
+      "page_content": "Pietro Germi died on 5 December 1974. Pietro Germi was born on 14 September 1914."
+    },
+    {
+      "chunk_id": "5452b1e4-8015-4b51-9f2f-a5a5d2ff3d56",
+      "chunk_title": "Halit Refiğ's Career & Legacy",
+      "chunk_summary": "This chunk contains information about the professional roles, diverse filmography, and pioneering contributions of Halit Refiğ to the Turkish film and television industry.",
+      "context_title": "Halit Refiğ",
+      "page_content": "Halit Refiğ is considered to be the initiator of the production of TV serials in Turkey. Halit Refiğ is considered to be the pioneer of the National Cinema movement. Halit Refiğ was a writer. Halit Refiğ was a Turkish film director. Halit Refiğ was a screenwriter. The films made by Halit Refiğ included feature films. The films made by Halit Refiğ included documentaries. Halit Refiğ was a film producer. The films made by Halit Refiğ included TV serials. Halit Refiğ made around sixty films."
+    },
+    {
+      "chunk_id": "51ca7f1d-81fa-4c43-bdac-1757f47657b0",
+      "chunk_title": "Halit Refiğ's Career",
+      "chunk_summary": "This chunk contains information about the professional roles, filmography, and historical significance of Halit Refiğ in the Turkish film industry.",
+      "context_title": "Halit Refiğ",
+      "page_content": "Halit Refiğ was a film producer. Halit Refiğ made around sixty films. Halit Refiğ was a writer. Halit Refiğ is considered to be the pioneer of the National Cinema movement. The films made by Halit Refiğ included TV serials. Halit Refiğ was a screenwriter. Halit Refiğ was a Turkish film director. The films made by Halit Refiğ included documentaries. Halit Refiğ is considered to be the initiator of the production of TV serials in Turkey. The films made by Halit Refiğ included feature films."
+    },
+    {
+      "chunk_id": "eeddd78a-66c1-440a-b8ea-d15e0d8dd9c8",
+      "chunk_title": "Halit Refiğ's Lifespan",
+      "chunk_summary": "This chunk contains information about the birth and death dates of Halit Refiğ.",
+      "context_title": "Halit Refiğ",
+      "page_content": "Halit Refiğ was born on 5 March 1934. Halit Refiğ died on 11 October 2009."
+    },
+    {
+      "chunk_id": "224bd252-ddbe-4e8e-8926-683197c74c8f",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Halit Refiğ",
+      "page_content": "Halit Refiğ died on 11 October 2009. Halit Refiğ was born on 5 March 1934."
+    },
+    {
+      "chunk_id": "ac6f6aa9-3709-4794-9628-e9db369cca1c",
+      "chunk_title": "Halit Refiğ's Lifespan",
+      "chunk_summary": "This chunk contains information about the birth and death dates of Halit Refiğ.",
+      "context_title": "Halit Refiğ",
+      "page_content": "Halit Refiğ was born on 5 March 1934. Halit Refiğ died on 11 October 2009."
+    },
+    {
+      "chunk_id": "421c345a-1774-4dec-85dc-ace8210b8c53",
+      "chunk_title": "Halit Refiğ's Career",
+      "chunk_summary": "This chunk contains information about the professional roles, identity, and filmography of Halit Refiğ in the Turkish film industry.",
+      "context_title": "Halit Refiğ",
+      "page_content": "The films made by Halit Refiğ included TV serials. Halit Refiğ was a film producer. Halit Refiğ was a screenwriter. The films made by Halit Refiğ included documentaries. Halit Refiğ is considered to be the pioneer of the National Cinema movement. Halit Refiğ was a writer. Halit Refiğ made around sixty films. Halit Refiğ was a Turkish film director. The films made by Halit Refiğ included feature films. Halit Refiğ is considered to be the initiator of the production of TV serials in Turkey."
+    },
+    {
+      "chunk_id": "de5d7154-5563-45e8-9ff6-4a5451fedc5a",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, genres, directors, and festival entries.",
+      "context_title": "Stranger in the City (film)",
+      "page_content": "Stranger in the City is a 1962 Turkish drama film. Halit Refiğ is a director. Stranger in the City was entered into the 3rd Moscow International Film Festival. Stranger in the City was directed by Halit Refiğ."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.43333333333333335,
+  "retrieval_count": 4,
+  "total_chunks": 30,
+  "total_distinct_titles": 21,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 5,
+  "dag_edges": 4,
+  "dag_snapshots": [
+    {
+      "q": "Which film has the director born later, Brutti Di Notte or Bir Türk'E Gönül Verdim?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born later, Brutti Di Notte or Bir Türk'E Gönül Verdim?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影导演的出生年份",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_3 (1917) 和 N1_4 (1934) 均已 solved 且证据充分。推理链完整，但 ROOT 状态仍为 unsolved，需等待答案生成器聚合比较结果。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据链完整且健康，ROOT 节点只需执行最后的比较逻辑（1934 > 1917，故 Bir Türk'E Gönül Verdim 的导演出生更晚）。结构上已就绪。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Brutti Di Notte?",
+          "answer": "Giovanni Grimaldi",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Brutti Di Notte?",
+          "planner_rationale": "为了比较导演出生年份，首先需要确定电影《Brutti Di Notte》的导演是谁",
+          "solver_judgment": "question 要求找出电影《Brutti Di Notte》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于不同电影（如《Follie di notte》、《La donna di notte》）及其导演的片段，其中 chunk a72f2606-967d-48cd-8b58-a433760fae1e 明确记载 \"Brutti di notte was directed by Giovanni Grimaldi\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (Brutti di notte)。Chunk a72f2606... 明确陈述 'Brutti di notte was directed by Giovanni Grimaldi'。单来源直接具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Bir Türk'E Gönül Verdim?",
+          "answer": "Halit Refiğ",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Bir Türk'E Gönül Verdim?",
+          "planner_rationale": "为了比较导演出生年份，首先需要确定电影《Bir Türk'E Gönül Verdim》的导演是谁",
+          "solver_judgment": "question 要求确认电影《Bir Türk'E Gönül Verdim》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了包含目标信息的片段，其中 chunk_8713e1a7-5abc-4195-a6af-2037959c0527 明确记载 \"Halit Refiğ directed Bir Türk'e Gönül Verdim\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (Bir Türk'e Gönül Verdim)。Chunk 8713e1a7... 明确陈述 'Halit Refiğ directed Bir Türk'e Gönül Verdim'。单来源直接具体，足以确立事实。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Brutti Di Notte born?",
+          "answer": "November 14, 1917",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Giovanni Grimaldi birth date",
+          "planner_rationale": "获取第一位导演的出生年份，以便进行比较",
+          "solver_judgment": "question 要求找出电影《Brutti Di Notte》导演的出生日期。search_query 搜索了 'Giovanni Grimaldi birth date'，这表明检索系统已经识别出或假设 Giovanni Grimaldi 是该片导演。\n\nchunks 返回的信息完整且精准：\n1. chunk a72f2606-967d-48cd-8b58-a433760fae1e 明确指出 \"Brutti di notte was directed by Giovanni Grimaldi\"，确立了导演身份。\n2. chunk 39b54359-b8f0-4711-b88b-db1d69e2d6d0 明确记载 \"Giovanni Grimaldi was born on November 14, 1917\"，提供了具体的出生日期。\n\n检索结果直接命中了问题所需的两个关键信息点（导演是谁、他的生日），无需额外推理或缺失信息。",
+          "critic_factual_notes": "2 个支撑来源。Chunk 39b54359... (Giovanni Grimaldi) 明确记载 'born on November 14, 1917'。Chunk a72f2606... (Brutti di notte) 确认导演身份以建立链接。核心事实在独立来源中得到直接陈述。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Bir Türk'E Gönül Verdim born?",
+          "answer": "5 March 1934",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Halit Refiğ birth date",
+          "planner_rationale": "获取第二位导演的出生年份，以便进行比较",
+          "solver_judgment": "question 要求确认电影《Bir Türk'e Gönül Verdim》导演的出生日期。search_query 搜索了 'Halit Refiğ birth date'，隐含假设 Halit Refiğ 是该片导演。chunks 返回的信息证实了这一假设：chunk_8713e1a7-5abc-4195-a6af-2037959c0527 明确指出 \"Halit Refiğ directed Bir Türk'e Gönül Verdim\"。同时，多个 chunks（如 chunk_eeddd78a-66c1-440a-b8ea-d15e0d8dd9c8, chunk_224bd252-ddbe-4e8e-8926-683197c74c8f, chunk_ac6f6aa9-3709-4794-9628-e9db369cca1c）均记载 \"Halit Refiğ was born on 5 March 1934\"。检索精准命中了导演身份及其出生日期，信息完整且相互印证。",
+          "critic_factual_notes": "4 个支撑来源。Chunks eeddd78a..., 224bd252..., ac6f6aa9... (均来自 Halit Refiğ 文档) 一致记载 'born on 5 March 1934'。Chunk 8713e1a7... 确认导演身份。多来源交叉验证通过，证据极强。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 4,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director born later, Brutti Di Notte or Bir Türk'E Gönül Verdim?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born later, Brutti Di Notte or Bir Türk'E Gönül Verdim?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_3 (1917) 和 N1_4 (1934) 均已 solved 且证据充分，结构已就绪，等待答案聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生新事实，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，两条分支（Brutti Di Notte 和 Bir Türk'E Gönül Verdim）的子节点 N1_3 (1917) 和 N1_4 (1934) 均已 solved 且证据充分（healthy）。比较逻辑清晰：1934 > 1917，故 Bir Türk'E Gönül Verdim 的导演出生更晚。推理链完整，无缺失环节。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据确凿，依赖关系语义有效，ROOT 节点已具备生成最终答案的所有条件。结构上已就绪，无需进一步搜索或调整。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Brutti Di Notte?",
+          "answer": "Giovanni Grimaldi",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Brutti Di Notte?",
+          "planner_rationale": "事实已确立：Brutti Di Notte 的导演是 Giovanni Grimaldi。Critic 判为 healthy，证据充分。",
+          "solver_judgment": "question 要求找出电影《Brutti Di Notte》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于不同电影（如《Follie di notte》、《La donna di notte》）及其导演的片段，其中 chunk a72f2606-967d-48cd-8b58-a433760fae1e 明确记载 \"Brutti di notte was directed by Giovanni Grimaldi\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (Brutti di notte)。Chunk a72f2606-967d-48cd-8b58-a433760fae1e 明确陈述 'Brutti di notte was directed by Giovanni Grimaldi'。单来源直接具体，足以确立事实。无矛盾信息。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Bir Türk'E Gönül Verdim?",
+          "answer": "Halit Refiğ",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Bir Türk'E Gönül Verdim?",
+          "planner_rationale": "事实已确立：Bir Türk'E Gönül Verdim 的导演是 Halit Refiğ。Critic 判为 healthy，证据充分。",
+          "solver_judgment": "question 要求确认电影《Bir Türk'E Gönül Verdim》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了包含目标信息的片段，其中 chunk_8713e1a7-5abc-4195-a6af-2037959c0527 明确记载 \"Halit Refiğ directed Bir Türk'e Gönül Verdim\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (Bir Türk'e Gönül Verdim)。Chunk 8713e1a7-5abc-4195-a6af-2037959c0527 明确陈述 'Halit Refiğ directed Bir Türk'e Gönül Verdim'。单来源直接具体，足以确立事实。无矛盾信息。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Brutti Di Notte born?",
+          "answer": "November 14, 1917",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Giovanni Grimaldi birth date",
+          "planner_rationale": "事实已确立：Giovanni Grimaldi 出生于 1917-11-14。Critic 判为 healthy，多来源交叉验证。",
+          "solver_judgment": "question 要求找出电影《Brutti Di Notte》导演的出生日期。search_query 搜索了 'Giovanni Grimaldi birth date'，这表明检索系统已经识别出或假设 Giovanni Grimaldi 是该片导演。\n\nchunks 返回的信息完整且精准：\n1. chunk a72f2606-967d-48cd-8b58-a433760fae1e 明确指出 \"Brutti di notte was directed by Giovanni Grimaldi\"，确立了导演身份。\n2. chunk 39b54359-b8f0-4711-b88b-db1d69e2d6d0 明确记载 \"Giovanni Grimaldi was born on November 14, 1917\"，提供了具体的出生日期。\n\n检索结果直接命中了问题所需的两个关键信息点（导演是谁、他的生日），无需额外推理或缺失信息。",
+          "critic_factual_notes": "2 个支撑来源。Chunk 39b54359-b8f0-4711-b88b-db1d69e2d6d0 (Giovanni Grimaldi) 明确记载 'born on November 14, 1917'。Chunk a72f2606-967d-48cd-8b58-a433760fae1e (Brutti di notte) 确认导演身份以建立链接。核心事实在独立来源中得到直接陈述。交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Bir Türk'E Gönül Verdim born?",
+          "answer": "5 March 1934",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Halit Refiğ birth date",
+          "planner_rationale": "事实已确立：Halit Refiğ 出生于 1934-03-05。Critic 判为 healthy，多来源交叉验证。",
+          "solver_judgment": "question 要求确认电影《Bir Türk'e Gönül Verdim》导演的出生日期。search_query 搜索了 'Halit Refiğ birth date'，隐含假设 Halit Refiğ 是该片导演。chunks 返回的信息证实了这一假设：chunk_8713e1a7-5abc-4195-a6af-2037959c0527 明确指出 \"Halit Refiğ directed Bir Türk'e Gönül Verdim\"。同时，多个 chunks（如 chunk_eeddd78a-66c1-440a-b8ea-d15e0d8dd9c8, chunk_224bd252-ddbe-4e8e-8926-683197c74c8f, chunk_ac6f6aa9-3709-4794-9628-e9db369cca1c）均记载 \"Halit Refiğ was born on 5 March 1934\"。检索精准命中了导演身份及其出生日期，信息完整且相互印证。",
+          "critic_factual_notes": "4 个支撑来源。Chunks eeddd78a-66c1-440a-b8ea-d15e0d8dd9c8, 224bd252-ddbe-4e8e-8926-683197c74c8f, ac6f6aa9-3709-4794-9628-e9db369cca1c (均来自 Halit Refiğ 文档) 一致记载 'born on 5 March 1934'。Chunk 8713e1a7-5abc-4195-a6af-2037959c0527 确认导演身份。多来源交叉验证通过，证据极强。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 4,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director born later, Brutti Di Notte or Bir Türk'E Gönül Verdim?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director born later, Brutti Di Notte or Bir Türk'E Gönül Verdim?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_3 (1917) 和 N1_4 (1934) 均已 solved 且证据充分，结构已就绪，等待答案聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生新事实，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，两条分支（Brutti Di Notte 和 Bir Türk'E Gönül Verdim）的子节点 N1_3 (1917) 和 N1_4 (1934) 均已 solved 且证据充分（healthy）。比较逻辑清晰：1934 > 1917，故 Bir Türk'E Gönül Verdim 的导演出生更晚。推理链完整，无缺失环节。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据确凿，依赖关系语义有效，ROOT 节点已具备生成最终答案的所有条件。结构上已就绪，无需进一步搜索或调整。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film Brutti Di Notte?",
+          "answer": "Giovanni Grimaldi",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Brutti Di Notte?",
+          "planner_rationale": "事实已确立：Brutti Di Notte 的导演是 Giovanni Grimaldi。Critic 判为 healthy，证据充分。",
+          "solver_judgment": "question 要求找出电影《Brutti Di Notte》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个关于不同电影（如《Follie di notte》、《La donna di notte》）及其导演的片段，其中 chunk a72f2606-967d-48cd-8b58-a433760fae1e 明确记载 \"Brutti di notte was directed by Giovanni Grimaldi\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (Brutti di notte)。Chunk a72f2606-967d-48cd-8b58-a433760fae1e 明确陈述 'Brutti di notte was directed by Giovanni Grimaldi'。单来源直接具体，足以确立事实。无矛盾信息。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film Bir Türk'E Gönül Verdim?",
+          "answer": "Halit Refiğ",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film Bir Türk'E Gönül Verdim?",
+          "planner_rationale": "事实已确立：Bir Türk'E Gönül Verdim 的导演是 Halit Refiğ。Critic 判为 healthy，证据充分。",
+          "solver_judgment": "question 要求确认电影《Bir Türk'E Gönül Verdim》的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了包含目标信息的片段，其中 chunk_8713e1a7-5abc-4195-a6af-2037959c0527 明确记载 \"Halit Refiğ directed Bir Türk'e Gönül Verdim\"，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源 (Bir Türk'e Gönül Verdim)。Chunk 8713e1a7-5abc-4195-a6af-2037959c0527 明确陈述 'Halit Refiğ directed Bir Türk'e Gönül Verdim'。单来源直接具体，足以确立事实。无矛盾信息。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of Brutti Di Notte born?",
+          "answer": "November 14, 1917",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Giovanni Grimaldi birth date",
+          "planner_rationale": "事实已确立：Giovanni Grimaldi 出生于 1917-11-14。Critic 判为 healthy，多来源交叉验证。",
+          "solver_judgment": "question 要求找出电影《Brutti Di Notte》导演的出生日期。search_query 搜索了 'Giovanni Grimaldi birth date'，这表明检索系统已经识别出或假设 Giovanni Grimaldi 是该片导演。\n\nchunks 返回的信息完整且精准：\n1. chunk a72f2606-967d-48cd-8b58-a433760fae1e 明确指出 \"Brutti di notte was directed by Giovanni Grimaldi\"，确立了导演身份。\n2. chunk 39b54359-b8f0-4711-b88b-db1d69e2d6d0 明确记载 \"Giovanni Grimaldi was born on November 14, 1917\"，提供了具体的出生日期。\n\n检索结果直接命中了问题所需的两个关键信息点（导演是谁、他的生日），无需额外推理或缺失信息。",
+          "critic_factual_notes": "2 个支撑来源。Chunk 39b54359-b8f0-4711-b88b-db1d69e2d6d0 (Giovanni Grimaldi) 明确记载 'born on November 14, 1917'。Chunk a72f2606-967d-48cd-8b58-a433760fae1e (Brutti di notte) 确认导演身份以建立链接。核心事实在独立来源中得到直接陈述。交叉验证通过。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of Bir Türk'E Gönül Verdim born?",
+          "answer": "5 March 1934",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Halit Refiğ birth date",
+          "planner_rationale": "事实已确立：Halit Refiğ 出生于 1934-03-05。Critic 判为 healthy，多来源交叉验证。",
+          "solver_judgment": "question 要求确认电影《Bir Türk'e Gönül Verdim》导演的出生日期。search_query 搜索了 'Halit Refiğ birth date'，隐含假设 Halit Refiğ 是该片导演。chunks 返回的信息证实了这一假设：chunk_8713e1a7-5abc-4195-a6af-2037959c0527 明确指出 \"Halit Refiğ directed Bir Türk'e Gönül Verdim\"。同时，多个 chunks（如 chunk_eeddd78a-66c1-440a-b8ea-d15e0d8dd9c8, chunk_224bd252-ddbe-4e8e-8926-683197c74c8f, chunk_ac6f6aa9-3709-4794-9628-e9db369cca1c）均记载 \"Halit Refiğ was born on 5 March 1934\"。检索精准命中了导演身份及其出生日期，信息完整且相互印证。",
+          "critic_factual_notes": "4 个支撑来源。Chunks eeddd78a-66c1-440a-b8ea-d15e0d8dd9c8, 224bd252-ddbe-4e8e-8926-683197c74c8f, ac6f6aa9-3709-4794-9628-e9db369cca1c (均来自 Halit Refiğ 文档) 一致记载 'born on 5 March 1934'。Chunk 8713e1a7-5abc-4195-a6af-2037959c0527 确认导演身份。多来源交叉验证通过，证据极强。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 4,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the director of the film Brutti Di Notte?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "a72f2606-967d-48cd-8b58-a433760fae1e",
+        "4a008c61-0dd7-40cc-ae79-f614f3fe0138",
+        "72786124-52d2-41ed-b19b-2aecc30e06e8",
+        "4001f7a8-5d61-42fd-bdaf-914e9baef5b8",
+        "37e268c1-769c-4eed-8c42-dafcdeb29986",
+        "69f7d8d9-ee01-420d-a61c-a63e2fd2941d",
+        "2ca3580f-5f3b-475b-8379-15b0ddfd1ab4",
+        "45d44d44-13ff-46e0-a877-fc9028f5067e"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who is the director of the film Bir Türk'E Gönül Verdim?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8713e1a7-5abc-4195-a6af-2037959c0527",
+        "010a5a89-540a-435a-aa5e-569676ee817a",
+        "1a7b3ce8-d413-4f24-aeb1-c242b51e1c9e",
+        "f6f74cb3-b80e-41ba-83f7-df401deb23b4",
+        "dbbbf158-2d6b-45d5-accb-0161228ebf1e",
+        "e0c6acb5-72c0-473e-974a-1f48378921b7",
+        "ec713c13-728c-4576-8158-e6e48587fe95",
+        "a5525b4d-769e-4386-9811-38fe440ed4ac"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Giovanni Grimaldi birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "3192fa5a-7d5d-4557-9ba0-15d71398ff19",
+        "d8a2f7ea-a18e-4318-ad30-e5fdb9324830",
+        "39b54359-b8f0-4711-b88b-db1d69e2d6d0",
+        "6e3dd021-6bc9-44e9-8b9a-4fc91a484fe8",
+        "119cc815-70a0-447b-9f5e-225225e63b39",
+        "c4a4c400-61cf-4337-9013-5698fee89742",
+        "a72f2606-967d-48cd-8b58-a433760fae1e",
+        "99c55d12-1ae5-4875-9062-e9ab5bbf1e9e"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Halit Refiğ birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "5452b1e4-8015-4b51-9f2f-a5a5d2ff3d56",
+        "51ca7f1d-81fa-4c43-bdac-1757f47657b0",
+        "eeddd78a-66c1-440a-b8ea-d15e0d8dd9c8",
+        "224bd252-ddbe-4e8e-8926-683197c74c8f",
+        "ac6f6aa9-3709-4794-9628-e9db369cca1c",
+        "8713e1a7-5abc-4195-a6af-2037959c0527",
+        "421c345a-1774-4dec-85dc-ace8210b8c53",
+        "de5d7154-5563-45e8-9ff6-4a5451fedc5a"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of Brutti Di Notte?（理由：比较的前提是识别实体），F2: Who is the director of Bir Türk'E Gönül Verdim?（理由：同上），F3: When was the director of Brutti Di Notte born?（理由：获取比较所需的数值/时间属性），F4: When was the director of Bir Türk'E Gönül Verdim born?（理由：同上）。关系: F1 和 F2 是 Q 的直接分解产物（decomposition）；F3 依赖于 F1（dependency——\"the director\" 指代 F1 的答案）；F4 依赖于 F2（dependency——\"the director\" 指代 F2 的答案）。最终通过比较 F3 和 F4 的时间早晚来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将比较问题拆解为两个独立的“导演-出生年份”查询链，每条链先查导演姓名，再查该导演的出生日期。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件①未满足：虽然所有子节点 (N1_1-N1_4) 均为 SOLVED 且 healthy，但 ROOT 节点 N0 的状态仍为 'unsolved'。系统要求所有节点（包括 ROOT）达到终态才能终止。尽管推理链完整且证据充分，需等待答案生成器将比较结果写入 N0 并标记为 SOLVED。一旦 N0 状态更新为 solved，即可终止。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of Brutti Di Notte?（理由：比较的前提是识别实体），F2: Who is the director of Bir Türk'E Gönül Verdim?（理由：同上），F3: When was the director of Brutti Di Notte born?（理由：获取比较所需的数值/时间属性），F4: When was the director of Bir Türk'E Gönül Verdim born?（理由：同上）。关系: F1 和 F2 是 Q 的直接分解产物（decomposition）；F3 依赖于 F1（dependency——\"the director\" 指代 F1 的答案）；F4 依赖于 F2（dependency——\"the director\" 指代 F2 的答案）。最终通过比较 F3 和 F4 的时间早晚来回答 Q。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均 INHERIT，所有边均保留。原因：Critic 确认 DAG 结构完美覆盖 Q 语义，所有子节点均为 healthy/solved，证据链完整且无冗余。初始分解假设被完全验证，无需修正。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1/N1_2 的答案有效消解了 N1_3/N1_4 的指代）；③ 所有节点（包括 ROOT）均为 healthy；④ 拓扑结构稳定无变化。DAG 已具备生成最终答案的全部条件，置信度高。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of Brutti Di Notte?（理由：比较的前提是识别实体），F2: Who is the director of Bir Türk'E Gönül Verdim?（理由：同上），F3: When was the director of Brutti Di Notte born?（理由：获取比较所需的数值/时间属性），F4: When was the director of Bir Türk'E Gönül Verdim born?（理由：同上）。关系: F1 和 F2 是 Q 的直接分解产物（decomposition）；F3 依赖于 F1（dependency——\"the director\" 指代 F1 的答案）；F4 依赖于 F2（dependency——\"the director\" 指代 F2 的答案）。最终通过比较 F3 和 F4 的时间早晚来回答 Q。",
+      "hypothesis_delta": "本轮无结构调整——所有节点均 INHERIT，所有边均保留。原因：Critic 确认 DAG 结构完美覆盖 Q 语义，所有子节点均为 healthy/solved，证据链完整且无冗余。初始分解假设被完全验证，无需修正。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1/N1_2 的答案正确消解了 N1_3/N1_4 的指代）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续稳定。DAG 已具备生成最终答案的所有条件。"
+      }
+    }
+  ]
+}

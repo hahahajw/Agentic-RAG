@@ -1,0 +1,680 @@
+{
+  "question_index": 206,
+  "question_id": "5a81108855429926c1cdace2",
+  "question": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+  "answer": "world's 16th largest city",
+  "prediction": "16th",
+  "error": null,
+  "latency_ms": 215337.17369999795,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T10:29:27.012150+00:00",
+  "chunks": [
+    {
+      "chunk_id": "b151f6fd-970a-44d5-919f-a9d5a620d509",
+      "chunk_title": "Company Locations",
+      "chunk_summary": "This chunk contains information about the location and headquarters of pharmaceutical companies.",
+      "context_title": "Daewoong Pharmaceutical Co., Ltd",
+      "page_content": "Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea."
+    },
+    {
+      "chunk_id": "5632b856-1f62-44c9-bc6f-2e287b3c4427",
+      "chunk_title": "Pharmaceutical & Healthcare Companies",
+      "chunk_summary": "This chunk contains information about the identity, industry classification, and primary business activities of Daewoong Pharmaceutical Co., Ltd. and its parent group.",
+      "context_title": "Daewoong Pharmaceutical Co., Ltd",
+      "page_content": "Daewoong Pharmaceutical Co., Ltd. primarily engages in the manufacture of pharmaceutical products in South Korea. Daewoong Co., Ltd. is a global health care group. Daewoong Pharmaceutical Co., Ltd. is a bioengineering company."
+    },
+    {
+      "chunk_id": "a7a76409-20a6-4ef3-976b-f8fd22c58410",
+      "chunk_title": "Corporate Structure",
+      "chunk_summary": "This chunk contains information about corporate subsidiary relationships and organizational structures.",
+      "context_title": "Daewoong Pharmaceutical Co., Ltd",
+      "page_content": "Daewoong Pharmaceutical Co., Ltd. operates as a subsidiary of Daewoong Co., Ltd."
+    },
+    {
+      "chunk_id": "5307a910-f586-4354-b53b-94b7bcbd8a58",
+      "chunk_title": "Pharmaceutical Products",
+      "chunk_summary": "This chunk contains information about the types of pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd.",
+      "context_title": "Daewoong Pharmaceutical Co., Ltd",
+      "page_content": "The pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd. include over-the-counter healthcare products. The pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd. include prescription healthcare products."
+    },
+    {
+      "chunk_id": "abb513dc-cb90-41c3-ad10-1d96939cfaa6",
+      "chunk_title": "Pharmaceutical Development & Origin",
+      "chunk_summary": "This chunk contains information about the development and origin of pharmaceutical products.",
+      "context_title": "Nepidermin",
+      "page_content": "Nepidermin was developed by Daewoong Pharmaceutical."
+    },
+    {
+      "chunk_id": "9bcbe600-00e9-4f00-87ca-b95165b8e971",
+      "chunk_title": "Pharmaceutical Companies",
+      "chunk_summary": "This chunk contains information about pharmaceutical companies, including their names, countries of origin, headquarters locations, and native language designations.",
+      "context_title": "Taisho Pharmaceutical Co.",
+      "page_content": "Taisho Pharmaceutical Co., Ltd. is a Japanese pharmaceutical company. The romanized Japanese name of Taisho Pharmaceutical Co., Ltd. is Taisho Seiyaku Kabushiki-gaisha. The Japanese name of Taisho Pharmaceutical Co., Ltd. is 大正製薬株式会社. Taisho Pharmaceutical Co., Ltd. is based in Tokyo."
+    },
+    {
+      "chunk_id": "c09cb04b-4f7d-4430-9861-5083ce595464",
+      "chunk_title": "Company Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations and headquarters of pharmaceutical companies.",
+      "context_title": "Tianyin Pharmaceutical",
+      "page_content": "Tianyin Pharmaceutical is now based in Cheng Du, China."
+    },
+    {
+      "chunk_id": "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+      "chunk_title": "Seoul & Capital Area",
+      "chunk_summary": "This chunk contains information about Seoul's status as a major metropolis, its global ranking, and the demographics and composition of the broader Seoul Capital Area.",
+      "context_title": "Seoul",
+      "page_content": "The Seoul Capital Area has 678,102 international residents. The Seoul Capital Area includes the surrounding Gyeonggi province. Seoul forms the heart of the Seoul Capital Area. The Seoul Capital Area houses about half of the country's population. Seoul is the world's 16th largest city. The Seoul Capital Area includes the surrounding Incheon metropolis. Seoul is the largest metropolis of the Republic of Korea."
+    },
+    {
+      "chunk_id": "e276ed01-19a1-4555-a9c1-6efda4ef81af",
+      "chunk_title": "Corporate Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations of corporate headquarters.",
+      "context_title": "SemGroup",
+      "page_content": "SemGroup's headquarters are in Tulsa, Oklahoma."
+    },
+    {
+      "chunk_id": "d416bea8-cb41-42c1-817e-762d66935f51",
+      "chunk_title": "Green Cross Corp. History",
+      "chunk_summary": "This chunk contains information about the Japanese pharmaceutical company Green Cross Corporation, including its alternative names, merger history, and subsequent renaming.",
+      "context_title": "Green Cross (Japan)",
+      "page_content": "Green Cross Corporation is also known as Kabushiki Gaisha Midori Jūji. Green Cross Corporation was renamed to Welfide Corporation on April 1, 2000. Green Cross Corporation merged into Yoshitomi Pharmaceutical Co., Ltd. on April 1, 1998. Welfide Corp. and Mitsubishi-Tokyo Pharmaceutical Inc. were merged to form Mitsubishi Pharma Corporation on October 1, 2001. Green Cross Corporation is also known as 株式会社ミドリ十字. Green Cross Corporation was one of the premier pharmaceutical companies in Japan."
+    },
+    {
+      "chunk_id": "1db94f9f-1239-45db-8ec4-23546fba95d3",
+      "chunk_title": "City Administrative Status",
+      "chunk_summary": "This chunk contains information about the official administrative status, designations, and capital roles of cities.",
+      "context_title": "Seoul",
+      "page_content": "Seoul is officially the Seoul Special Metropolitan City. Seoul is the capital of the Republic of Korea."
+    },
+    {
+      "chunk_id": "8920d3a9-5387-48de-a8e6-045c37a78530",
+      "chunk_title": "City Population Rankings",
+      "chunk_summary": "This chunk contains information about the population size and global ranking of major cities, specifically focusing on Shanghai.",
+      "context_title": "Shanghai",
+      "page_content": "Shanghai is the most populous city proper in the world as of 2014. Shanghai had a population of more than 24 million as of 2014."
+    },
+    {
+      "chunk_id": "ab331a31-42dc-4458-84b7-0d025189702a",
+      "chunk_title": "Chinese Taipei at 2006 Asian Games",
+      "chunk_summary": "This chunk contains information about Chinese Taipei's participation in the 2006 Asian Games, including delegation size, comparative rankings with other nations, and medal performance.",
+      "context_title": "Chinese Taipei at the 2006 Asian Games",
+      "page_content": "Chinese Taipei finished seventh in overall medals at the 2006 Asian Games. The Chinese Taipei team sent 399 athletes to the 2006 Asian Games. China had a larger delegation than Chinese Taipei at the 2006 Asian Games. South Korea had a larger delegation than Chinese Taipei at the 2006 Asian Games. The Chinese Taipei delegation was the fourth largest delegation at the 2006 Asian Games. Chinese Taipei's performance at the 2006 Asian Games was a slight drop from its performance at the 2002 Asian Games. Chinese Taipei competed in the 2006 Asian Games. Japan had a larger delegation than Chinese Taipei at the 2006 Asian Games. Chinese Taipei finished tenth in gold medals at the 2006 Asian Games."
+    },
+    {
+      "chunk_id": "0e9783c8-e03e-468a-a9c3-cc55d78499bc",
+      "chunk_title": "Celebrity Rankings & Influence",
+      "chunk_summary": "This chunk contains information about Exo's rankings as the most influential celebrity by Forbes Korea Power Celebrity in 2014 and 2015, as well as media recognition of their global status.",
+      "context_title": "Exo (band)",
+      "page_content": "Exo was ranked the most influential celebrity by Forbes Korea Power Celebrity in 2015. Exo was ranked the most influential celebrity by Forbes Korea Power Celebrity in 2014. Media outlets have named Exo \"the biggest boyband in the world\"."
+    },
+    {
+      "chunk_id": "cf501afb-1a95-4e32-86aa-494eca476c8f",
+      "chunk_title": "Transport Hubs",
+      "chunk_summary": "This chunk contains information about cities that serve as transport hubs, including details about their ports and logistics infrastructure.",
+      "context_title": "Shanghai",
+      "page_content": "Shanghai is a transport hub. Shanghai has the world's busiest container port."
+    },
+    {
+      "chunk_id": "7bd27917-c7c5-4a1b-892b-791e8a6918c3",
+      "chunk_title": "Population Size",
+      "chunk_summary": "This chunk contains information about the population size of a country.",
+      "context_title": "Seoul",
+      "page_content": "The country's population is 51.44 million people."
+    },
+    {
+      "chunk_id": "5c49e665-0611-4b9d-838d-512645a3a8b6",
+      "chunk_title": "Global Financial Centers",
+      "chunk_summary": "This chunk contains information about global financial centers and their characteristics.",
+      "context_title": "Shanghai",
+      "page_content": "Shanghai is a global financial centre."
+    },
+    {
+      "chunk_id": "86b93f72-e1a3-4ce6-b943-a33c02847e0b",
+      "chunk_title": "Country Names",
+      "chunk_summary": "This chunk contains information about the official and common names of countries.",
+      "context_title": "Seoul",
+      "page_content": "The Republic of Korea is commonly known as South Korea."
+    },
+    {
+      "chunk_id": "cd194e9e-c145-4ead-9e73-70e1466e7cf2",
+      "chunk_title": "Sports Rankings",
+      "chunk_summary": "This chunk contains information about the sports ranking and status of various countries or regions.",
+      "context_title": "Chinese Taipei at the 2006 Asian Games",
+      "page_content": "Chinese Taipei is a second-rank Asian sports power."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.4,
+  "precision": 1.0,
+  "recall": 0.25,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.42105263157894735,
+  "retrieval_count": 2,
+  "total_chunks": 19,
+  "total_distinct_titles": 10,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Daewoong Pharmaceutical 总部所在城市及其全球人口排名",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，其证据来自子节点推理链的聚合。子节点 N1_1（answer=Seoul）和 N1_2（answer=16th）均健康，推理链完整：N1_1 确定 Daewoong Pharmaceutical 总部在 Seoul，N1_2 确定 Seoul 的全球人口排名为 16th。",
+          "critic_normative_advice": "推理链完整，子节点证据充分，建议 INHERIT 保留。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What city is Daewoong Pharmaceutical Co., Ltd based in?",
+          "answer": "Seoul",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What city is Daewoong Pharmaceutical Co., Ltd based in?",
+          "planner_rationale": "Q 询问的是某城市的全球人口排名，但该城市由 'the city that Daewoong Pharmaceutical Co., Ltd is based in' 指代。必须先确定该公司总部所在的城市，才能进一步查询其人口排名。这是 Q 的第一个必要子事实。",
+          "solver_judgment": "question 要求确认 Daewoong Pharmaceutical Co., Ltd 所在的城市。search_query 直接搜索了该问题。chunks 返回了 b151f6fd-970a-44d5-919f-a9d5a620d509，其中明确记载 'Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Daewoong Pharmaceutical Co., Ltd），单来源但直接、具体地陈述了答案。支撑 chunk b151f6fd 全文为 'Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea.'，与声称答案 'Seoul' 完全匹配。交叉验证状态：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，单来源直接具体，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "b151f6fd-970a-44d5-919f-a9d5a620d509"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "b151f6fd-970a-44d5-919f-a9d5a620d509",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the location and headquarters of pharmaceutical companies.",
+              "context_title": "Daewoong Pharmaceutical Co., Ltd",
+              "page_content": "Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea."
+            },
+            {
+              "chunk_id": "5632b856-1f62-44c9-bc6f-2e287b3c4427",
+              "chunk_title": "Pharmaceutical & Healthcare Companies",
+              "chunk_summary": "This chunk contains information about the identity, industry classification, and primary business activities of Daewoong Pharmaceutical Co., Ltd. and its parent group.",
+              "context_title": "Daewoong Pharmaceutical Co., Ltd",
+              "page_content": "Daewoong Pharmaceutical Co., Ltd. primarily engages in the manufacture of pharmaceutical products in South Korea. Daewoong Co., Ltd. is a global health care group. Daewoong Pharmaceutical Co., Ltd. is a bioengineering company."
+            },
+            {
+              "chunk_id": "a7a76409-20a6-4ef3-976b-f8fd22c58410",
+              "chunk_title": "Corporate Structure",
+              "chunk_summary": "This chunk contains information about corporate subsidiary relationships and organizational structures.",
+              "context_title": "Daewoong Pharmaceutical Co., Ltd",
+              "page_content": "Daewoong Pharmaceutical Co., Ltd. operates as a subsidiary of Daewoong Co., Ltd."
+            },
+            {
+              "chunk_id": "5307a910-f586-4354-b53b-94b7bcbd8a58",
+              "chunk_title": "Pharmaceutical Products",
+              "chunk_summary": "This chunk contains information about the types of pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd.",
+              "context_title": "Daewoong Pharmaceutical Co., Ltd",
+              "page_content": "The pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd. include over-the-counter healthcare products. The pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd. include prescription healthcare products."
+            },
+            {
+              "chunk_id": "abb513dc-cb90-41c3-ad10-1d96939cfaa6",
+              "chunk_title": "Pharmaceutical Development & Origin",
+              "chunk_summary": "This chunk contains information about the development and origin of pharmaceutical products.",
+              "context_title": "Nepidermin",
+              "page_content": "Nepidermin was developed by Daewoong Pharmaceutical."
+            },
+            {
+              "chunk_id": "9bcbe600-00e9-4f00-87ca-b95165b8e971",
+              "chunk_title": "Pharmaceutical Companies",
+              "chunk_summary": "This chunk contains information about pharmaceutical companies, including their names, countries of origin, headquarters locations, and native language designations.",
+              "context_title": "Taisho Pharmaceutical Co.",
+              "page_content": "Taisho Pharmaceutical Co., Ltd. is a Japanese pharmaceutical company. The romanized Japanese name of Taisho Pharmaceutical Co., Ltd. is Taisho Seiyaku Kabushiki-gaisha. The Japanese name of Taisho Pharmaceutical Co., Ltd. is 大正製薬株式会社. Taisho Pharmaceutical Co., Ltd. is based in Tokyo."
+            },
+            {
+              "chunk_id": "c09cb04b-4f7d-4430-9861-5083ce595464",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations and headquarters of pharmaceutical companies.",
+              "context_title": "Tianyin Pharmaceutical",
+              "page_content": "Tianyin Pharmaceutical is now based in Cheng Du, China."
+            },
+            {
+              "chunk_id": "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+              "chunk_title": "Seoul & Capital Area",
+              "chunk_summary": "This chunk contains information about Seoul's status as a major metropolis, its global ranking, and the demographics and composition of the broader Seoul Capital Area.",
+              "context_title": "Seoul",
+              "page_content": "The Seoul Capital Area has 678,102 international residents. The Seoul Capital Area includes the surrounding Gyeonggi province. Seoul forms the heart of the Seoul Capital Area. The Seoul Capital Area houses about half of the country's population. Seoul is the world's 16th largest city. The Seoul Capital Area includes the surrounding Incheon metropolis. Seoul is the largest metropolis of the Republic of Korea."
+            },
+            {
+              "chunk_id": "e276ed01-19a1-4555-a9c1-6efda4ef81af",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of corporate headquarters.",
+              "context_title": "SemGroup",
+              "page_content": "SemGroup's headquarters are in Tulsa, Oklahoma."
+            },
+            {
+              "chunk_id": "d416bea8-cb41-42c1-817e-762d66935f51",
+              "chunk_title": "Green Cross Corp. History",
+              "chunk_summary": "This chunk contains information about the Japanese pharmaceutical company Green Cross Corporation, including its alternative names, merger history, and subsequent renaming.",
+              "context_title": "Green Cross (Japan)",
+              "page_content": "Green Cross Corporation is also known as Kabushiki Gaisha Midori Jūji. Green Cross Corporation was renamed to Welfide Corporation on April 1, 2000. Green Cross Corporation merged into Yoshitomi Pharmaceutical Co., Ltd. on April 1, 1998. Welfide Corp. and Mitsubishi-Tokyo Pharmaceutical Inc. were merged to form Mitsubishi Pharma Corporation on October 1, 2001. Green Cross Corporation is also known as 株式会社ミドリ十字. Green Cross Corporation was one of the premier pharmaceutical companies in Japan."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the global rank by population of that city?",
+          "answer": "16th",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Seoul global rank by population",
+          "planner_rationale": "Q 的核心询问——该城市的全球人口排名。此问题中的 'that city' 指代前一个节点的 answer（Daewoong Pharmaceutical 总部所在城市），必须先消解指代才能搜索。这是 Q 的第二个必要子事实，也是最终答案的直接来源。",
+          "solver_judgment": "question 要求确认'that city'（根据 search_query 可知为 Seoul）的全球人口排名。search_query 搜索了'Seoul global rank by population'。chunks 返回了关于 Seoul 的信息，其中 chunk 76dbcf08-53b4-408e-b5c7-3f2989a90fb4 明确记载 'Seoul is the world's 16th largest city'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Seoul），单来源但直接、具体地陈述了答案。支撑 chunk 76dbcf08 全文包含 'Seoul is the world's 16th largest city.'，与声称答案 '16th' 完全匹配。交叉验证状态：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，单来源直接具体，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "76dbcf08-53b4-408e-b5c7-3f2989a90fb4"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+              "chunk_title": "Seoul & Capital Area",
+              "chunk_summary": "This chunk contains information about Seoul's status as a major metropolis, its global ranking, and the demographics and composition of the broader Seoul Capital Area.",
+              "context_title": "Seoul",
+              "page_content": "The Seoul Capital Area has 678,102 international residents. The Seoul Capital Area includes the surrounding Gyeonggi province. Seoul forms the heart of the Seoul Capital Area. The Seoul Capital Area houses about half of the country's population. Seoul is the world's 16th largest city. The Seoul Capital Area includes the surrounding Incheon metropolis. Seoul is the largest metropolis of the Republic of Korea."
+            },
+            {
+              "chunk_id": "1db94f9f-1239-45db-8ec4-23546fba95d3",
+              "chunk_title": "City Administrative Status",
+              "chunk_summary": "This chunk contains information about the official administrative status, designations, and capital roles of cities.",
+              "context_title": "Seoul",
+              "page_content": "Seoul is officially the Seoul Special Metropolitan City. Seoul is the capital of the Republic of Korea."
+            },
+            {
+              "chunk_id": "8920d3a9-5387-48de-a8e6-045c37a78530",
+              "chunk_title": "City Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and global ranking of major cities, specifically focusing on Shanghai.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is the most populous city proper in the world as of 2014. Shanghai had a population of more than 24 million as of 2014."
+            },
+            {
+              "chunk_id": "ab331a31-42dc-4458-84b7-0d025189702a",
+              "chunk_title": "Chinese Taipei at 2006 Asian Games",
+              "chunk_summary": "This chunk contains information about Chinese Taipei's participation in the 2006 Asian Games, including delegation size, comparative rankings with other nations, and medal performance.",
+              "context_title": "Chinese Taipei at the 2006 Asian Games",
+              "page_content": "Chinese Taipei finished seventh in overall medals at the 2006 Asian Games. The Chinese Taipei team sent 399 athletes to the 2006 Asian Games. China had a larger delegation than Chinese Taipei at the 2006 Asian Games. South Korea had a larger delegation than Chinese Taipei at the 2006 Asian Games. The Chinese Taipei delegation was the fourth largest delegation at the 2006 Asian Games. Chinese Taipei's performance at the 2006 Asian Games was a slight drop from its performance at the 2002 Asian Games. Chinese Taipei competed in the 2006 Asian Games. Japan had a larger delegation than Chinese Taipei at the 2006 Asian Games. Chinese Taipei finished tenth in gold medals at the 2006 Asian Games."
+            },
+            {
+              "chunk_id": "0e9783c8-e03e-468a-a9c3-cc55d78499bc",
+              "chunk_title": "Celebrity Rankings & Influence",
+              "chunk_summary": "This chunk contains information about Exo's rankings as the most influential celebrity by Forbes Korea Power Celebrity in 2014 and 2015, as well as media recognition of their global status.",
+              "context_title": "Exo (band)",
+              "page_content": "Exo was ranked the most influential celebrity by Forbes Korea Power Celebrity in 2015. Exo was ranked the most influential celebrity by Forbes Korea Power Celebrity in 2014. Media outlets have named Exo \"the biggest boyband in the world\"."
+            },
+            {
+              "chunk_id": "cf501afb-1a95-4e32-86aa-494eca476c8f",
+              "chunk_title": "Transport Hubs",
+              "chunk_summary": "This chunk contains information about cities that serve as transport hubs, including details about their ports and logistics infrastructure.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is a transport hub. Shanghai has the world's busiest container port."
+            },
+            {
+              "chunk_id": "7bd27917-c7c5-4a1b-892b-791e8a6918c3",
+              "chunk_title": "Population Size",
+              "chunk_summary": "This chunk contains information about the population size of a country.",
+              "context_title": "Seoul",
+              "page_content": "The country's population is 51.44 million people."
+            },
+            {
+              "chunk_id": "5c49e665-0611-4b9d-838d-512645a3a8b6",
+              "chunk_title": "Global Financial Centers",
+              "chunk_summary": "This chunk contains information about global financial centers and their characteristics.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is a global financial centre."
+            },
+            {
+              "chunk_id": "86b93f72-e1a3-4ce6-b943-a33c02847e0b",
+              "chunk_title": "Country Names",
+              "chunk_summary": "This chunk contains information about the official and common names of countries.",
+              "context_title": "Seoul",
+              "page_content": "The Republic of Korea is commonly known as South Korea."
+            },
+            {
+              "chunk_id": "cd194e9e-c145-4ead-9e73-70e1466e7cf2",
+              "chunk_title": "Sports Rankings",
+              "chunk_summary": "This chunk contains information about the sports ranking and status of various countries or regions.",
+              "context_title": "Chinese Taipei at the 2006 Asian Games",
+              "page_content": "Chinese Taipei is a second-rank Asian sports power."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1（answer=Seoul）和 N1_2（answer=16th）均已 SOLVED + healthy，推理链完整，可直接聚合得出最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，证据来自子节点推理链的聚合。子节点 N1_1（answer=Seoul）和 N1_2（answer=16th）均已 SOLVED + healthy。推理链完整：N1_1 确定 Daewoong Pharmaceutical 总部在 Seoul，N1_2 确定 Seoul 的全球人口排名为 16th。两个子节点证据均为单来源但直接具体，推理链逻辑自洽。",
+          "critic_normative_advice": "推理链完整，子节点证据充分，建议 INHERIT 保留。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What city is Daewoong Pharmaceutical Co., Ltd based in?",
+          "answer": "Seoul",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What city is Daewoong Pharmaceutical Co., Ltd based in?",
+          "planner_rationale": "Q 的第一个必要子事实——确定 Daewoong Pharmaceutical Co., Ltd 总部所在城市。已 SOLVED + healthy，支撑 chunk b151f6fd 直接陈述 'Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea.'，证据充分。",
+          "solver_judgment": "question 要求确认 Daewoong Pharmaceutical Co., Ltd 所在的城市。search_query 直接搜索了该问题。chunks 返回了 b151f6fd-970a-44d5-919f-a9d5a620d509，其中明确记载 'Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Daewoong Pharmaceutical Co., Ltd），单来源但直接、具体地陈述了答案。支撑 chunk b151f6fd 全文为 'Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea.'，与声称答案 'Seoul' 完全匹配。交叉验证状态：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，单来源直接具体，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "b151f6fd-970a-44d5-919f-a9d5a620d509"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "b151f6fd-970a-44d5-919f-a9d5a620d509",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the location and headquarters of pharmaceutical companies.",
+              "context_title": "Daewoong Pharmaceutical Co., Ltd",
+              "page_content": "Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea."
+            },
+            {
+              "chunk_id": "5632b856-1f62-44c9-bc6f-2e287b3c4427",
+              "chunk_title": "Pharmaceutical & Healthcare Companies",
+              "chunk_summary": "This chunk contains information about the identity, industry classification, and primary business activities of Daewoong Pharmaceutical Co., Ltd. and its parent group.",
+              "context_title": "Daewoong Pharmaceutical Co., Ltd",
+              "page_content": "Daewoong Pharmaceutical Co., Ltd. primarily engages in the manufacture of pharmaceutical products in South Korea. Daewoong Co., Ltd. is a global health care group. Daewoong Pharmaceutical Co., Ltd. is a bioengineering company."
+            },
+            {
+              "chunk_id": "a7a76409-20a6-4ef3-976b-f8fd22c58410",
+              "chunk_title": "Corporate Structure",
+              "chunk_summary": "This chunk contains information about corporate subsidiary relationships and organizational structures.",
+              "context_title": "Daewoong Pharmaceutical Co., Ltd",
+              "page_content": "Daewoong Pharmaceutical Co., Ltd. operates as a subsidiary of Daewoong Co., Ltd."
+            },
+            {
+              "chunk_id": "5307a910-f586-4354-b53b-94b7bcbd8a58",
+              "chunk_title": "Pharmaceutical Products",
+              "chunk_summary": "This chunk contains information about the types of pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd.",
+              "context_title": "Daewoong Pharmaceutical Co., Ltd",
+              "page_content": "The pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd. include over-the-counter healthcare products. The pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd. include prescription healthcare products."
+            },
+            {
+              "chunk_id": "abb513dc-cb90-41c3-ad10-1d96939cfaa6",
+              "chunk_title": "Pharmaceutical Development & Origin",
+              "chunk_summary": "This chunk contains information about the development and origin of pharmaceutical products.",
+              "context_title": "Nepidermin",
+              "page_content": "Nepidermin was developed by Daewoong Pharmaceutical."
+            },
+            {
+              "chunk_id": "9bcbe600-00e9-4f00-87ca-b95165b8e971",
+              "chunk_title": "Pharmaceutical Companies",
+              "chunk_summary": "This chunk contains information about pharmaceutical companies, including their names, countries of origin, headquarters locations, and native language designations.",
+              "context_title": "Taisho Pharmaceutical Co.",
+              "page_content": "Taisho Pharmaceutical Co., Ltd. is a Japanese pharmaceutical company. The romanized Japanese name of Taisho Pharmaceutical Co., Ltd. is Taisho Seiyaku Kabushiki-gaisha. The Japanese name of Taisho Pharmaceutical Co., Ltd. is 大正製薬株式会社. Taisho Pharmaceutical Co., Ltd. is based in Tokyo."
+            },
+            {
+              "chunk_id": "c09cb04b-4f7d-4430-9861-5083ce595464",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations and headquarters of pharmaceutical companies.",
+              "context_title": "Tianyin Pharmaceutical",
+              "page_content": "Tianyin Pharmaceutical is now based in Cheng Du, China."
+            },
+            {
+              "chunk_id": "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+              "chunk_title": "Seoul & Capital Area",
+              "chunk_summary": "This chunk contains information about Seoul's status as a major metropolis, its global ranking, and the demographics and composition of the broader Seoul Capital Area.",
+              "context_title": "Seoul",
+              "page_content": "The Seoul Capital Area has 678,102 international residents. The Seoul Capital Area includes the surrounding Gyeonggi province. Seoul forms the heart of the Seoul Capital Area. The Seoul Capital Area houses about half of the country's population. Seoul is the world's 16th largest city. The Seoul Capital Area includes the surrounding Incheon metropolis. Seoul is the largest metropolis of the Republic of Korea."
+            },
+            {
+              "chunk_id": "e276ed01-19a1-4555-a9c1-6efda4ef81af",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of corporate headquarters.",
+              "context_title": "SemGroup",
+              "page_content": "SemGroup's headquarters are in Tulsa, Oklahoma."
+            },
+            {
+              "chunk_id": "d416bea8-cb41-42c1-817e-762d66935f51",
+              "chunk_title": "Green Cross Corp. History",
+              "chunk_summary": "This chunk contains information about the Japanese pharmaceutical company Green Cross Corporation, including its alternative names, merger history, and subsequent renaming.",
+              "context_title": "Green Cross (Japan)",
+              "page_content": "Green Cross Corporation is also known as Kabushiki Gaisha Midori Jūji. Green Cross Corporation was renamed to Welfide Corporation on April 1, 2000. Green Cross Corporation merged into Yoshitomi Pharmaceutical Co., Ltd. on April 1, 1998. Welfide Corp. and Mitsubishi-Tokyo Pharmaceutical Inc. were merged to form Mitsubishi Pharma Corporation on October 1, 2001. Green Cross Corporation is also known as 株式会社ミドリ十字. Green Cross Corporation was one of the premier pharmaceutical companies in Japan."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the global rank by population of that city?",
+          "answer": "16th",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Seoul global rank by population",
+          "planner_rationale": "Q 的核心询问——该城市的全球人口排名。已 SOLVED + healthy，支撑 chunk 76dbcf08 直接陈述 'Seoul is the world's 16th largest city.'，证据充分。依赖 N1_1 消解 'that city' 指代，依赖链有效。",
+          "solver_judgment": "question 要求确认'that city'（根据 search_query 可知为 Seoul）的全球人口排名。search_query 搜索了'Seoul global rank by population'。chunks 返回了关于 Seoul 的信息，其中 chunk 76dbcf08-53b4-408e-b5c7-3f2989a90fb4 明确记载 'Seoul is the world's 16th largest city'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Seoul），单来源但直接、具体地陈述了答案。支撑 chunk 76dbcf08 全文包含 'Seoul is the world's 16th largest city.'，与声称答案 '16th' 完全匹配。交叉验证状态：不充分（仅 1 个来源），但来源直接且具体。",
+          "critic_normative_advice": "证据充分，单来源直接具体，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "76dbcf08-53b4-408e-b5c7-3f2989a90fb4"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+              "chunk_title": "Seoul & Capital Area",
+              "chunk_summary": "This chunk contains information about Seoul's status as a major metropolis, its global ranking, and the demographics and composition of the broader Seoul Capital Area.",
+              "context_title": "Seoul",
+              "page_content": "The Seoul Capital Area has 678,102 international residents. The Seoul Capital Area includes the surrounding Gyeonggi province. Seoul forms the heart of the Seoul Capital Area. The Seoul Capital Area houses about half of the country's population. Seoul is the world's 16th largest city. The Seoul Capital Area includes the surrounding Incheon metropolis. Seoul is the largest metropolis of the Republic of Korea."
+            },
+            {
+              "chunk_id": "1db94f9f-1239-45db-8ec4-23546fba95d3",
+              "chunk_title": "City Administrative Status",
+              "chunk_summary": "This chunk contains information about the official administrative status, designations, and capital roles of cities.",
+              "context_title": "Seoul",
+              "page_content": "Seoul is officially the Seoul Special Metropolitan City. Seoul is the capital of the Republic of Korea."
+            },
+            {
+              "chunk_id": "8920d3a9-5387-48de-a8e6-045c37a78530",
+              "chunk_title": "City Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and global ranking of major cities, specifically focusing on Shanghai.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is the most populous city proper in the world as of 2014. Shanghai had a population of more than 24 million as of 2014."
+            },
+            {
+              "chunk_id": "ab331a31-42dc-4458-84b7-0d025189702a",
+              "chunk_title": "Chinese Taipei at 2006 Asian Games",
+              "chunk_summary": "This chunk contains information about Chinese Taipei's participation in the 2006 Asian Games, including delegation size, comparative rankings with other nations, and medal performance.",
+              "context_title": "Chinese Taipei at the 2006 Asian Games",
+              "page_content": "Chinese Taipei finished seventh in overall medals at the 2006 Asian Games. The Chinese Taipei team sent 399 athletes to the 2006 Asian Games. China had a larger delegation than Chinese Taipei at the 2006 Asian Games. South Korea had a larger delegation than Chinese Taipei at the 2006 Asian Games. The Chinese Taipei delegation was the fourth largest delegation at the 2006 Asian Games. Chinese Taipei's performance at the 2006 Asian Games was a slight drop from its performance at the 2002 Asian Games. Chinese Taipei competed in the 2006 Asian Games. Japan had a larger delegation than Chinese Taipei at the 2006 Asian Games. Chinese Taipei finished tenth in gold medals at the 2006 Asian Games."
+            },
+            {
+              "chunk_id": "0e9783c8-e03e-468a-a9c3-cc55d78499bc",
+              "chunk_title": "Celebrity Rankings & Influence",
+              "chunk_summary": "This chunk contains information about Exo's rankings as the most influential celebrity by Forbes Korea Power Celebrity in 2014 and 2015, as well as media recognition of their global status.",
+              "context_title": "Exo (band)",
+              "page_content": "Exo was ranked the most influential celebrity by Forbes Korea Power Celebrity in 2015. Exo was ranked the most influential celebrity by Forbes Korea Power Celebrity in 2014. Media outlets have named Exo \"the biggest boyband in the world\"."
+            },
+            {
+              "chunk_id": "cf501afb-1a95-4e32-86aa-494eca476c8f",
+              "chunk_title": "Transport Hubs",
+              "chunk_summary": "This chunk contains information about cities that serve as transport hubs, including details about their ports and logistics infrastructure.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is a transport hub. Shanghai has the world's busiest container port."
+            },
+            {
+              "chunk_id": "7bd27917-c7c5-4a1b-892b-791e8a6918c3",
+              "chunk_title": "Population Size",
+              "chunk_summary": "This chunk contains information about the population size of a country.",
+              "context_title": "Seoul",
+              "page_content": "The country's population is 51.44 million people."
+            },
+            {
+              "chunk_id": "5c49e665-0611-4b9d-838d-512645a3a8b6",
+              "chunk_title": "Global Financial Centers",
+              "chunk_summary": "This chunk contains information about global financial centers and their characteristics.",
+              "context_title": "Shanghai",
+              "page_content": "Shanghai is a global financial centre."
+            },
+            {
+              "chunk_id": "86b93f72-e1a3-4ce6-b943-a33c02847e0b",
+              "chunk_title": "Country Names",
+              "chunk_summary": "This chunk contains information about the official and common names of countries.",
+              "context_title": "Seoul",
+              "page_content": "The Republic of Korea is commonly known as South Korea."
+            },
+            {
+              "chunk_id": "cd194e9e-c145-4ead-9e73-70e1466e7cf2",
+              "chunk_title": "Sports Rankings",
+              "chunk_summary": "This chunk contains information about the sports ranking and status of various countries or regions.",
+              "context_title": "Chinese Taipei at the 2006 Asian Games",
+              "page_content": "Chinese Taipei is a second-rank Asian sports power."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What city is Daewoong Pharmaceutical Co., Ltd based in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "b151f6fd-970a-44d5-919f-a9d5a620d509",
+        "5632b856-1f62-44c9-bc6f-2e287b3c4427",
+        "a7a76409-20a6-4ef3-976b-f8fd22c58410",
+        "5307a910-f586-4354-b53b-94b7bcbd8a58",
+        "abb513dc-cb90-41c3-ad10-1d96939cfaa6",
+        "9bcbe600-00e9-4f00-87ca-b95165b8e971",
+        "c09cb04b-4f7d-4430-9861-5083ce595464",
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "e276ed01-19a1-4555-a9c1-6efda4ef81af",
+        "d416bea8-cb41-42c1-817e-762d66935f51"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Seoul global rank by population",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "1db94f9f-1239-45db-8ec4-23546fba95d3",
+        "8920d3a9-5387-48de-a8e6-045c37a78530",
+        "ab331a31-42dc-4458-84b7-0d025189702a",
+        "0e9783c8-e03e-468a-a9c3-cc55d78499bc",
+        "cf501afb-1a95-4e32-86aa-494eca476c8f",
+        "7bd27917-c7c5-4a1b-892b-791e8a6918c3",
+        "5c49e665-0611-4b9d-838d-512645a3a8b6",
+        "86b93f72-e1a3-4ce6-b943-a33c02847e0b",
+        "cd194e9e-c145-4ead-9e73-70e1466e7cf2"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What city is Daewoong Pharmaceutical Co., Ltd based in?（理由：Q 中 'the city that Daewoong Pharmaceutical Co., Ltd is based in' 是一个指代性描述，必须先确定具体城市名称才能继续查询），F2: What is the global rank by population of that city?（理由：Q 的核心询问——该城市的全球人口排名，是最终答案的直接来源）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'that city' 必须用 F1 的 answer 消解后才能构造有意义的搜索查询）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question='What city is Daewoong Pharmaceutical Co., Ltd based in?'，rationale='确定公司总部所在城市是查询人口排名的前置条件'），$2（question='What is the global rank by population of that city?'，rationale='Q 的核心询问，依赖 $1 消解指代'）。新增边: N0→$1（decomposition，$1 是 Q 的分解产物），N0→$2（decomposition，$2 是 Q 的分解产物），$1→$2（dependency，$2 中 'that city' 指代 $1 的 answer）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点（N1_1, N1_2）均已 SOLVED；② 推理链语义匹配——N1_1 answer='Seoul' 有效消解 N1_2 question 中的 'that city' 指代，依赖链完整；③ 全部节点（N0, N1_1, N1_2）critic_health 均为 healthy；④ 首轮无拓扑变化。推理链完整，所有节点证据充分，可生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What city is Daewoong Pharmaceutical Co., Ltd based in?（理由：Q 中 'the city that Daewoong Pharmaceutical Co., Ltd is based in' 是指代性描述，必须先确定具体城市名称），F2: What is the global rank by population of that city?（理由：Q 的核心询问——该城市的全球人口排名）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖 F1（dependency——F2 的 question 中 'that city' 必须用 F1 的 answer 消解）。当前 DAG 已完整覆盖这两个事实，且均已 SOLVED + healthy，推理链闭合。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 INHERIT 保留，所有边保持不变。原因：上一轮假设（F1 确定公司总部城市 + F2 确定该城市人口排名，F2 依赖 F1）被完全验证。N1_1（answer=Seoul）和 N1_2（answer=16th）均 SOLVED + healthy，Critic 确认证据充分、依赖链有效、无冗余无缺口。DAG 已收敛至理想结构，无需变更。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①所有非根节点已 SOLVED；条件②推理链语义匹配——N1_1 answer='Seoul' 消解 N1_2 question 中 'that city' 指代，依赖链有效；条件③全部节点（N0/N1_1/N1_2）critic_health 均为 healthy；条件④拓扑连续两轮不变。推理链完整，所有节点证据充分（单来源但直接具体），可生成最终答案。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2178 @@
+{
+  "question_index": 285,
+  "question_id": "4hop1__131820_59747_211319_557671",
+  "question": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+  "answer": "Presque Isle County",
+  "prediction": "CANNOT_ANSWER",
+  "error": null,
+  "latency_ms": 939981.6637000004,
+  "dataset_type": "musique",
+  "timestamp": "2026-05-18T10:35:43.125155+00:00",
+  "chunks": [
+    {
+      "chunk_id": "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+      "chunk_title": "Radio Station Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations.",
+      "context_title": "WEKL",
+      "page_content": "WEKL is located in the United States. The transmitter of WEKL is located in Augusta. The transmitter of WEKL is located near Fort Gordon. The studios of WEKL are located at the Augusta Corporate Center. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+    },
+    {
+      "chunk_id": "cb62f869-b27f-440c-9145-05ff861cffed",
+      "chunk_title": "Location & Licensing",
+      "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations; add similar location-based facts for other stations here.",
+      "context_title": "WEKL",
+      "page_content": "The transmitter of WEKL is located near Fort Gordon. The transmitter of WEKL is located in Augusta. The studios of WEKL are located at the Augusta Corporate Center. WEKL is located in the United States. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+    },
+    {
+      "chunk_id": "118a5e3f-445c-4c69-b87f-0dea51fc4840",
+      "chunk_title": "Radio Stations",
+      "chunk_summary": "This chunk contains information about radio stations, including their call signs, frequencies, ownership, broadcast formats, and the communities they are licensed to serve.",
+      "context_title": "WKWL",
+      "page_content": "WKWL (1230 AM) airs to the central Florida Panhandle and central southern Alabama. WKWL (1230 AM) is a radio station. WKWL (1230 AM) is owned by Florala Broadcasting Co., Inc. WKWL (1230 AM) is licensed to serve the community of Florala, Alabama. WKWL (1230 AM) airs a Classic Pop format."
+    },
+    {
+      "chunk_id": "0c7a7a32-fc3a-451b-b338-cc766d308e47",
+      "chunk_title": "Radio Station Identities",
+      "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, and their broadcast formats.",
+      "context_title": "WEKL",
+      "page_content": "WEKL is known on-air as \"102.3 K-Love\". WEKL is a Contemporary Christian radio station."
+    },
+    {
+      "chunk_id": "103cda1c-2021-4654-bdf3-83a60355832b",
+      "chunk_title": "Radio Station Details",
+      "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, broadcast formats, frequencies, and technical specifications like effective radiated power.",
+      "context_title": "WEKL",
+      "page_content": "WEKL broadcasts on 102.3 MHz. WEKL is a Contemporary Christian radio station. WEKL is known on-air as \"102.3 K-Love\". WEKL has an ERP of 1.5 kW."
+    },
+    {
+      "chunk_id": "3f561f29-1281-408a-a27e-8fd6f8f9923a",
+      "chunk_title": "Licensing & Regulation",
+      "chunk_summary": "This chunk contains information about the licensing and regulatory status of radio stations.",
+      "context_title": "WEKL",
+      "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+    },
+    {
+      "chunk_id": "290e2c18-0294-4fdf-9c17-bd0aec06040a",
+      "chunk_title": "Licensing & Regulation",
+      "chunk_summary": "This chunk contains information about the licensing and regulatory status of entities by government agencies.",
+      "context_title": "WEKL",
+      "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+    },
+    {
+      "chunk_id": "bd9bdbf2-f3b9-41ae-808c-606693254415",
+      "chunk_title": "Broadcast Specs",
+      "chunk_summary": "This chunk contains information about radio station broadcast frequencies and technical specifications like effective radiated power.",
+      "context_title": "WEKL",
+      "page_content": "WEKL has an ERP of 1.5 kW. WEKL broadcasts on 102.3 MHz."
+    },
+    {
+      "chunk_id": "915f5ebf-1be2-456e-bcdc-8be0941c4b0f",
+      "chunk_title": "Radio Stations",
+      "chunk_summary": "This chunk contains information about radio stations, including their names, frequencies, licensing locations, service areas, ownership, and network affiliations.",
+      "context_title": "WEVS",
+      "page_content": "WEVS operates on 88.3 FM. WEVS serves the southern part of the Manchester market. WEVS is owned by New Hampshire Public Radio. WEVS is an affiliate of the New Hampshire Public Radio network. WEVS is licensed to Nashua, New Hampshire. WEVS is a radio station."
+    },
+    {
+      "chunk_id": "06575656-90df-44d0-8519-4a7274d7dd40",
+      "chunk_title": "Radio Station Details",
+      "chunk_summary": "This chunk contains information about specific licensed radio stations, including their call signs, broadcast frequencies, studio locations, ownership details, the communities they serve, and their network affiliations.",
+      "context_title": "WZEI",
+      "page_content": "WZEI is licensed to serve the community of Meredith, New Hampshire. WZEI has studios located in Bow, New Hampshire. The WEEI Sports Radio Network is based in WEEI-FM in Boston. WZEI has coverage particularly of the Lakes Region area. WZEI has coverage of central New Hampshire. The station WZEI is owned by Dirk Nadon. WZEI is an American licensed radio station. Dirk Nadon owns the station WZEI through licensee Lakes Media, LLC. WZEI broadcasts on 101.5 FM. WZEI is an affiliate of the WEEI Sports Radio Network. Lakes Media, LLC is the licensee for the station WZEI."
+    },
+    {
+      "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+      "chunk_title": "Georgia Municipal Rankings",
+      "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+      "context_title": "List of municipalities in Georgia (U.S. state)",
+      "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+    },
+    {
+      "chunk_id": "fe8a9a18-664b-459d-831d-5b3fd754d940",
+      "chunk_title": "Georgia Municipal Rankings",
+      "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+      "context_title": "List of municipalities in Georgia (U.S. state)",
+      "page_content": "Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Augusta spans 302.47 sq mi (783.4 km). Atlanta has 420,003 residents. Atlanta is the largest municipality by population in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta is the largest municipality by land area in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Edge Hill is the smallest municipality by population in Georgia. Edge Hill has 24 residents."
+    },
+    {
+      "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+      "chunk_title": "Georgia Municipal Rankings",
+      "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+      "context_title": "List of municipalities in Georgia (U.S. state)",
+      "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+    },
+    {
+      "chunk_id": "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+      "chunk_title": "City Status & Ranking",
+      "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of cities or towns.",
+      "context_title": "Savannah, Georgia",
+      "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+    },
+    {
+      "chunk_id": "e047941d-253f-4655-9917-2b1f53153bd7",
+      "chunk_title": "Savannah City Status",
+      "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of Savannah, Georgia.",
+      "context_title": "Savannah, Georgia",
+      "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+    },
+    {
+      "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+      "chunk_title": "Georgia's Historical Capitals",
+      "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+      "context_title": "History of Georgia (U.S. state)",
+      "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+    },
+    {
+      "chunk_id": "c89223e0-6bac-4c30-9173-84a25141c83c",
+      "chunk_title": "Jacksonville Population Rankings",
+      "chunk_summary": "This chunk contains information about the population size and rankings of major cities, specifically focusing on Jacksonville, Florida.",
+      "context_title": "Jacksonville, Florida",
+      "page_content": "Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States. Jacksonville is the most populous city proper in the Southeast. Jacksonville is the most populous city proper in Florida. Jacksonville is the largest city by population in the U.S. state of Florida."
+    },
+    {
+      "chunk_id": "97a663dd-faa7-4f65-a950-40fb119b0cab",
+      "chunk_title": "City Population & Rankings",
+      "chunk_summary": "This chunk contains information about the population size and ranking of Jacksonville, Florida, within state, regional, and national contexts; please add similar demographic data for other major cities.",
+      "context_title": "Jacksonville, Florida",
+      "page_content": "Jacksonville is the most populous city proper in the Southeast. Jacksonville is the largest city by population in the U.S. state of Florida. The Jacksonville metropolitan area had a population of 1,345,596 in 2010. Jacksonville is the most populous city proper in Florida. Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States."
+    },
+    {
+      "chunk_id": "2b03fedd-1434-4933-96c0-5a64312a3785",
+      "chunk_title": "Largest Cities by Population",
+      "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+      "context_title": "United States",
+      "page_content": "The largest city by population in the United States of America is New York City."
+    },
+    {
+      "chunk_id": "002dc8df-5a71-498a-823b-5b2e29f56272",
+      "chunk_title": "Largest Cities by Population",
+      "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+      "context_title": "United States",
+      "page_content": "The largest city by population in the United States of America is New York City."
+    },
+    {
+      "chunk_id": "0817c216-cade-4f58-a5ca-3d2652280a64",
+      "chunk_title": "City Location & Classification",
+      "chunk_summary": "This chunk contains information about the geographic location and classification of cities, specifically focusing on Riverdale, Georgia.",
+      "context_title": "Riverdale, Georgia",
+      "page_content": "Riverdale is a city in Clayton County, Georgia, United States. Riverdale is part of the Atlanta metropolitan area. Riverdale is a suburb just south of Hartsfield–Jackson Atlanta International Airport."
+    },
+    {
+      "chunk_id": "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+      "chunk_title": "Corporate Locations",
+      "chunk_summary": "This chunk contains information about the corporate headquarters and specific geographic locations of companies, including details on mailing addresses and county jurisdictions.",
+      "context_title": "The Home Depot",
+      "page_content": "The Home Depot, Inc. is headquartered at the Atlanta Store Support Center. The Atlanta Store Support Center has an Atlanta mailing address. The Atlanta Store Support Center is located in unincorporated Cobb County, Georgia."
+    },
+    {
+      "chunk_id": "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+      "chunk_title": "City Administration & Classification",
+      "chunk_summary": "This chunk contains information about the administrative structure and classification of cities.",
+      "context_title": "List of municipalities in Georgia (U.S. state)",
+      "page_content": "Augusta is a consolidated city-county."
+    },
+    {
+      "chunk_id": "e07bf224-d833-472f-832e-50e053a7c5b2",
+      "chunk_title": "City Administration",
+      "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+      "context_title": "List of municipalities in Georgia (U.S. state)",
+      "page_content": "Augusta is a consolidated city-county."
+    },
+    {
+      "chunk_id": "ff155593-cee7-4b44-8c8f-2f74505db024",
+      "chunk_title": "City Administration",
+      "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+      "context_title": "List of municipalities in Georgia (U.S. state)",
+      "page_content": "Augusta is a consolidated city-county."
+    },
+    {
+      "chunk_id": "5276f83d-21ec-488e-bcce-616e140580aa",
+      "chunk_title": "Blackberry Smoke Band Profile",
+      "chunk_summary": "This chunk contains information about the American rock band Blackberry Smoke, including their origin, lineup members, and individual roles.",
+      "context_title": "Blackberry Smoke",
+      "page_content": "Preston Holcomb performs percussion for Blackberry Smoke. Brit Turner performs drums for Blackberry Smoke. Richard Turner performs bass and vocals for Blackberry Smoke. Charlie Starr performs lead vocals and guitar for Blackberry Smoke. Benji Shanks performs guitar for Blackberry Smoke. Blackberry Smoke is an American rock band. Brandon Still performs keyboards for Blackberry Smoke. The lineup of Blackberry Smoke consists of Charlie Starr, Richard Turner, Brit Turner, Paul Jackson, Brandon Still, Benji Shanks, and Preston Holcomb. Paul Jackson performs guitar and vocals for Blackberry Smoke. Blackberry Smoke is from Atlanta, Georgia, United States."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 0.5,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.5,
+  "retrieval_count": 7,
+  "total_chunks": 26,
+  "total_distinct_titles": 12,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 5,
+  "dag_edges": 7,
+  "dag_snapshots": [
+    {
+      "q": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立四个子事实的推理链才能回答",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。当前推理链 N1_1→N1_2→N1_3→N1_4 在 N1_3 处断裂（N1_3 answer 为空），N1_4 被阻塞。推理链不完整，无法支撑 ROOT 答案合成。",
+          "critic_normative_advice": "建议修复 N1_3 的搜索策略——当前搜索 'In which county is Atlanta located?' 返回了 10 个 chunk 但无一明确记载 Atlanta 所在县。建议换搜索方向：尝试 'Atlanta Georgia county seat' 或 'Fulton County Georgia Atlanta' 等变体查询。若 KB 确实无覆盖，需评估是否可接受近似答案或放弃此方向。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which state does WEKL operate?",
+          "answer": "Georgia",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which state does WEKL operate?",
+          "planner_rationale": "Q 的起点——需要先确定 WEKL 电台所在的州，才能继续查找该州最大城市",
+          "solver_judgment": "question 要求确认 WEKL 运营的州。search_query 搜索了 'In which state does WEKL operate?'。chunks 返回了 WEKL 的地理位置和许可信息，其中 chunk 7f1e2c8c 和 cb62f869 明确记载 'WEKL is licensed to Augusta, Georgia.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个来源，均来自同一文档 WEKL（非独立）。两个 chunk（7f1e2c8c, cb62f869）均明确记载 'WEKL is licensed to Augusta, Georgia.'，表述完全一致。交叉验证：不充分（仅 1 个独立来源），但答案直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+            "cb62f869-b27f-440c-9145-05ff861cffed"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+              "chunk_title": "Radio Station Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is located in the United States. The transmitter of WEKL is located in Augusta. The transmitter of WEKL is located near Fort Gordon. The studios of WEKL are located at the Augusta Corporate Center. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+            },
+            {
+              "chunk_id": "cb62f869-b27f-440c-9145-05ff861cffed",
+              "chunk_title": "Location & Licensing",
+              "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations; add similar location-based facts for other stations here.",
+              "context_title": "WEKL",
+              "page_content": "The transmitter of WEKL is located near Fort Gordon. The transmitter of WEKL is located in Augusta. The studios of WEKL are located at the Augusta Corporate Center. WEKL is located in the United States. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+            },
+            {
+              "chunk_id": "118a5e3f-445c-4c69-b87f-0dea51fc4840",
+              "chunk_title": "Radio Stations",
+              "chunk_summary": "This chunk contains information about radio stations, including their call signs, frequencies, ownership, broadcast formats, and the communities they are licensed to serve.",
+              "context_title": "WKWL",
+              "page_content": "WKWL (1230 AM) airs to the central Florida Panhandle and central southern Alabama. WKWL (1230 AM) is a radio station. WKWL (1230 AM) is owned by Florala Broadcasting Co., Inc. WKWL (1230 AM) is licensed to serve the community of Florala, Alabama. WKWL (1230 AM) airs a Classic Pop format."
+            },
+            {
+              "chunk_id": "0c7a7a32-fc3a-451b-b338-cc766d308e47",
+              "chunk_title": "Radio Station Identities",
+              "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, and their broadcast formats.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is known on-air as \"102.3 K-Love\". WEKL is a Contemporary Christian radio station."
+            },
+            {
+              "chunk_id": "103cda1c-2021-4654-bdf3-83a60355832b",
+              "chunk_title": "Radio Station Details",
+              "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, broadcast formats, frequencies, and technical specifications like effective radiated power.",
+              "context_title": "WEKL",
+              "page_content": "WEKL broadcasts on 102.3 MHz. WEKL is a Contemporary Christian radio station. WEKL is known on-air as \"102.3 K-Love\". WEKL has an ERP of 1.5 kW."
+            },
+            {
+              "chunk_id": "3f561f29-1281-408a-a27e-8fd6f8f9923a",
+              "chunk_title": "Licensing & Regulation",
+              "chunk_summary": "This chunk contains information about the licensing and regulatory status of radio stations.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+            },
+            {
+              "chunk_id": "290e2c18-0294-4fdf-9c17-bd0aec06040a",
+              "chunk_title": "Licensing & Regulation",
+              "chunk_summary": "This chunk contains information about the licensing and regulatory status of entities by government agencies.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+            },
+            {
+              "chunk_id": "bd9bdbf2-f3b9-41ae-808c-606693254415",
+              "chunk_title": "Broadcast Specs",
+              "chunk_summary": "This chunk contains information about radio station broadcast frequencies and technical specifications like effective radiated power.",
+              "context_title": "WEKL",
+              "page_content": "WEKL has an ERP of 1.5 kW. WEKL broadcasts on 102.3 MHz."
+            },
+            {
+              "chunk_id": "915f5ebf-1be2-456e-bcdc-8be0941c4b0f",
+              "chunk_title": "Radio Stations",
+              "chunk_summary": "This chunk contains information about radio stations, including their names, frequencies, licensing locations, service areas, ownership, and network affiliations.",
+              "context_title": "WEVS",
+              "page_content": "WEVS operates on 88.3 FM. WEVS serves the southern part of the Manchester market. WEVS is owned by New Hampshire Public Radio. WEVS is an affiliate of the New Hampshire Public Radio network. WEVS is licensed to Nashua, New Hampshire. WEVS is a radio station."
+            },
+            {
+              "chunk_id": "06575656-90df-44d0-8519-4a7274d7dd40",
+              "chunk_title": "Radio Station Details",
+              "chunk_summary": "This chunk contains information about specific licensed radio stations, including their call signs, broadcast frequencies, studio locations, ownership details, the communities they serve, and their network affiliations.",
+              "context_title": "WZEI",
+              "page_content": "WZEI is licensed to serve the community of Meredith, New Hampshire. WZEI has studios located in Bow, New Hampshire. The WEEI Sports Radio Network is based in WEEI-FM in Boston. WZEI has coverage particularly of the Lakes Region area. WZEI has coverage of central New Hampshire. The station WZEI is owned by Dirk Nadon. WZEI is an American licensed radio station. Dirk Nadon owns the station WZEI through licensee Lakes Media, LLC. WZEI broadcasts on 101.5 FM. WZEI is an affiliate of the WEEI Sports Radio Network. Lakes Media, LLC is the licensee for the station WZEI."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the most populous city in that state?",
+          "answer": "Atlanta",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "most populous city in Georgia state",
+          "planner_rationale": "Q 的第二跳——知道州名后，需找出该州人口最多的城市",
+          "solver_judgment": "question 要求找出 'that state'（根据 search_query 可知为 Georgia）人口最多的城市。search_query 搜索了 'most populous city in Georgia state'。chunks 返回了关于 Georgia 市政排名的信息，其中 chunk a4b91832、fe8a9a18 和 94e2f884 均明确记载 'Atlanta is the largest municipality by population in Georgia'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "3 个来源，均来自同一文档 List of municipalities in Georgia (U.S. state)（非独立）。三个 chunk（a4b91832, fe8a9a18, 94e2f884）均明确记载 'Atlanta is the largest municipality by population in Georgia.'，表述完全一致。交叉验证：不充分（仅 1 个独立来源），但答案直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a4b91832-9be4-49a7-9d1b-e53003069e03",
+            "fe8a9a18-664b-459d-831d-5b3fd754d940",
+            "94e2f884-5089-42a5-8eb7-a8388c9089c1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "fe8a9a18-664b-459d-831d-5b3fd754d940",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Augusta spans 302.47 sq mi (783.4 km). Atlanta has 420,003 residents. Atlanta is the largest municipality by population in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta is the largest municipality by land area in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Edge Hill is the smallest municipality by population in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+            },
+            {
+              "chunk_id": "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+              "chunk_title": "City Status & Ranking",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of cities or towns.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "e047941d-253f-4655-9917-2b1f53153bd7",
+              "chunk_title": "Savannah City Status",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of Savannah, Georgia.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+              "chunk_title": "Georgia's Historical Capitals",
+              "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+              "context_title": "History of Georgia (U.S. state)",
+              "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+            },
+            {
+              "chunk_id": "c89223e0-6bac-4c30-9173-84a25141c83c",
+              "chunk_title": "Jacksonville Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and rankings of major cities, specifically focusing on Jacksonville, Florida.",
+              "context_title": "Jacksonville, Florida",
+              "page_content": "Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States. Jacksonville is the most populous city proper in the Southeast. Jacksonville is the most populous city proper in Florida. Jacksonville is the largest city by population in the U.S. state of Florida."
+            },
+            {
+              "chunk_id": "97a663dd-faa7-4f65-a950-40fb119b0cab",
+              "chunk_title": "City Population & Rankings",
+              "chunk_summary": "This chunk contains information about the population size and ranking of Jacksonville, Florida, within state, regional, and national contexts; please add similar demographic data for other major cities.",
+              "context_title": "Jacksonville, Florida",
+              "page_content": "Jacksonville is the most populous city proper in the Southeast. Jacksonville is the largest city by population in the U.S. state of Florida. The Jacksonville metropolitan area had a population of 1,345,596 in 2010. Jacksonville is the most populous city proper in Florida. Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States."
+            },
+            {
+              "chunk_id": "2b03fedd-1434-4933-96c0-5a64312a3785",
+              "chunk_title": "Largest Cities by Population",
+              "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+              "context_title": "United States",
+              "page_content": "The largest city by population in the United States of America is New York City."
+            },
+            {
+              "chunk_id": "002dc8df-5a71-498a-823b-5b2e29f56272",
+              "chunk_title": "Largest Cities by Population",
+              "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+              "context_title": "United States",
+              "page_content": "The largest city by population in the United States of America is New York City."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "In which county is that city located?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "In which county is Atlanta located?",
+          "planner_rationale": "Q 的第三跳——确定最大城市后，需找出该城市所在的县",
+          "solver_judgment": "question 要求确认 Atlanta 所在的县（county）。search_query 搜索了 'In which county is Atlanta located?'。chunks 返回了 Riverdale（位于 Clayton County）、The Home Depot 亚特兰大支持中心（位于 Cobb County）、Augusta（consolidated city-county）和 Savannah（位于 Chatham County）的县级信息，以及 Atlanta 是佐治亚州首府和人口最多城市的描述。然而，没有任何 chunk 明确指出 Atlanta 这座城市本身位于哪个县。检索结果未能提供目标实体的县级归属信息，存在明显缺口，无法提取答案。",
+          "critic_factual_notes": "10 个检索结果，来自 5 个独立文档（List of municipalities in Georgia 5个, Savannah Georgia 2个, Riverdale Georgia 1个, The Home Depot 1个, History of Georgia 1个）。无任何 chunk 明确记载 Atlanta 所在县。chunk 提及 Riverdale 位于 Clayton County、Home Depot 位于 Cobb County、Augusta 为 consolidated city-county、Savannah 位于 Chatham County，但均未涉及 Atlanta 的县级归属。Solver 判断准确——检索结果存在明显缺口。",
+          "critic_normative_advice": "建议重搜——当前查询 'In which county is Atlanta located?' 未命中目标信息。尝试更精确查询如 'Atlanta Georgia county'、'Fulton County Atlanta'、'DeKalb County Atlanta' 或 'what county is Atlanta GA in'。若多轮搜索仍无结果，考虑 KB 可能确实无此覆盖，需评估替代策略。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "0817c216-cade-4f58-a5ca-3d2652280a64",
+              "chunk_title": "City Location & Classification",
+              "chunk_summary": "This chunk contains information about the geographic location and classification of cities, specifically focusing on Riverdale, Georgia.",
+              "context_title": "Riverdale, Georgia",
+              "page_content": "Riverdale is a city in Clayton County, Georgia, United States. Riverdale is part of the Atlanta metropolitan area. Riverdale is a suburb just south of Hartsfield–Jackson Atlanta International Airport."
+            },
+            {
+              "chunk_id": "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters and specific geographic locations of companies, including details on mailing addresses and county jurisdictions.",
+              "context_title": "The Home Depot",
+              "page_content": "The Home Depot, Inc. is headquartered at the Atlanta Store Support Center. The Atlanta Store Support Center has an Atlanta mailing address. The Atlanta Store Support Center is located in unincorporated Cobb County, Georgia."
+            },
+            {
+              "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+              "chunk_title": "City Administration & Classification",
+              "chunk_summary": "This chunk contains information about the administrative structure and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+            },
+            {
+              "chunk_id": "e07bf224-d833-472f-832e-50e053a7c5b2",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+              "chunk_title": "Georgia's Historical Capitals",
+              "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+              "context_title": "History of Georgia (U.S. state)",
+              "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+            },
+            {
+              "chunk_id": "ff155593-cee7-4b44-8c8f-2f74505db024",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+              "chunk_title": "City Status & Ranking",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of cities or towns.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "e047941d-253f-4655-9917-2b1f53153bd7",
+              "chunk_title": "Savannah City Status",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of Savannah, Georgia.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            }
+          ]
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "Which county shares a border with that county?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "Q 的最终目标——找出与上述县接壤的县，这是 Q 直接询问的答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_3 answer 为空，未执行搜索。阻塞原因：dependency 链 N1_2→N1_3→N1_4 中 N1_3 未产出答案，导致 N1_4 无法构造有效搜索查询。",
+          "critic_normative_advice": "等待 N1_3 解决后自动解锁。若 N1_3 最终无法求解，需评估是否可跳过此节点或采用替代推理路径。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_4",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_3",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立四个子事实的推理链才能回答",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。当前推理链 N1_1→N1_2→N1_3→N1_4 在 N1_3 处断裂（N1_3 answer 为空），N1_4 被阻塞。推理链不完整，无法支撑 ROOT 答案合成。",
+          "critic_normative_advice": "建议修复 N1_3 的搜索策略——当前搜索 'What county is Atlanta, Georgia located in?' 返回 10 个 chunk 但无一明确记载 Atlanta 所在县。建议换搜索方向：尝试 'Fulton County Georgia Atlanta' 或 'DeKalb County Atlanta' 等以县名为主体的反向查询。若 KB 确实无覆盖，需评估是否可接受近似答案或放弃此方向。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which state does WEKL operate?",
+          "answer": "Georgia",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which state does WEKL operate?",
+          "planner_rationale": "Q 的起点——WEKL 电台所在州已确认为 Georgia，证据充分（2 个 chunk 明确记载 'WEKL is licensed to Augusta, Georgia'），Critic 建议 INHERIT",
+          "solver_judgment": "question 要求确认 WEKL 运营的州。search_query 搜索了 'In which state does WEKL operate?'。chunks 返回了 WEKL 的地理位置和许可信息，其中 chunk 7f1e2c8c 和 cb62f869 明确记载 'WEKL is licensed to Augusta, Georgia.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源，均来自同一文档 WEKL（非独立）。两个 chunk（7f1e2c8c, cb62f869）均明确记载 'WEKL is licensed to Augusta, Georgia.'，表述完全一致。交叉验证：不充分（仅 1 个独立来源），但答案直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+            "cb62f869-b27f-440c-9145-05ff861cffed"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+              "chunk_title": "Radio Station Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is located in the United States. The transmitter of WEKL is located in Augusta. The transmitter of WEKL is located near Fort Gordon. The studios of WEKL are located at the Augusta Corporate Center. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+            },
+            {
+              "chunk_id": "cb62f869-b27f-440c-9145-05ff861cffed",
+              "chunk_title": "Location & Licensing",
+              "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations; add similar location-based facts for other stations here.",
+              "context_title": "WEKL",
+              "page_content": "The transmitter of WEKL is located near Fort Gordon. The transmitter of WEKL is located in Augusta. The studios of WEKL are located at the Augusta Corporate Center. WEKL is located in the United States. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+            },
+            {
+              "chunk_id": "118a5e3f-445c-4c69-b87f-0dea51fc4840",
+              "chunk_title": "Radio Stations",
+              "chunk_summary": "This chunk contains information about radio stations, including their call signs, frequencies, ownership, broadcast formats, and the communities they are licensed to serve.",
+              "context_title": "WKWL",
+              "page_content": "WKWL (1230 AM) airs to the central Florida Panhandle and central southern Alabama. WKWL (1230 AM) is a radio station. WKWL (1230 AM) is owned by Florala Broadcasting Co., Inc. WKWL (1230 AM) is licensed to serve the community of Florala, Alabama. WKWL (1230 AM) airs a Classic Pop format."
+            },
+            {
+              "chunk_id": "0c7a7a32-fc3a-451b-b338-cc766d308e47",
+              "chunk_title": "Radio Station Identities",
+              "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, and their broadcast formats.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is known on-air as \"102.3 K-Love\". WEKL is a Contemporary Christian radio station."
+            },
+            {
+              "chunk_id": "103cda1c-2021-4654-bdf3-83a60355832b",
+              "chunk_title": "Radio Station Details",
+              "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, broadcast formats, frequencies, and technical specifications like effective radiated power.",
+              "context_title": "WEKL",
+              "page_content": "WEKL broadcasts on 102.3 MHz. WEKL is a Contemporary Christian radio station. WEKL is known on-air as \"102.3 K-Love\". WEKL has an ERP of 1.5 kW."
+            },
+            {
+              "chunk_id": "3f561f29-1281-408a-a27e-8fd6f8f9923a",
+              "chunk_title": "Licensing & Regulation",
+              "chunk_summary": "This chunk contains information about the licensing and regulatory status of radio stations.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+            },
+            {
+              "chunk_id": "290e2c18-0294-4fdf-9c17-bd0aec06040a",
+              "chunk_title": "Licensing & Regulation",
+              "chunk_summary": "This chunk contains information about the licensing and regulatory status of entities by government agencies.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+            },
+            {
+              "chunk_id": "bd9bdbf2-f3b9-41ae-808c-606693254415",
+              "chunk_title": "Broadcast Specs",
+              "chunk_summary": "This chunk contains information about radio station broadcast frequencies and technical specifications like effective radiated power.",
+              "context_title": "WEKL",
+              "page_content": "WEKL has an ERP of 1.5 kW. WEKL broadcasts on 102.3 MHz."
+            },
+            {
+              "chunk_id": "915f5ebf-1be2-456e-bcdc-8be0941c4b0f",
+              "chunk_title": "Radio Stations",
+              "chunk_summary": "This chunk contains information about radio stations, including their names, frequencies, licensing locations, service areas, ownership, and network affiliations.",
+              "context_title": "WEVS",
+              "page_content": "WEVS operates on 88.3 FM. WEVS serves the southern part of the Manchester market. WEVS is owned by New Hampshire Public Radio. WEVS is an affiliate of the New Hampshire Public Radio network. WEVS is licensed to Nashua, New Hampshire. WEVS is a radio station."
+            },
+            {
+              "chunk_id": "06575656-90df-44d0-8519-4a7274d7dd40",
+              "chunk_title": "Radio Station Details",
+              "chunk_summary": "This chunk contains information about specific licensed radio stations, including their call signs, broadcast frequencies, studio locations, ownership details, the communities they serve, and their network affiliations.",
+              "context_title": "WZEI",
+              "page_content": "WZEI is licensed to serve the community of Meredith, New Hampshire. WZEI has studios located in Bow, New Hampshire. The WEEI Sports Radio Network is based in WEEI-FM in Boston. WZEI has coverage particularly of the Lakes Region area. WZEI has coverage of central New Hampshire. The station WZEI is owned by Dirk Nadon. WZEI is an American licensed radio station. Dirk Nadon owns the station WZEI through licensee Lakes Media, LLC. WZEI broadcasts on 101.5 FM. WZEI is an affiliate of the WEEI Sports Radio Network. Lakes Media, LLC is the licensee for the station WZEI."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the most populous city in that state?",
+          "answer": "Atlanta",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "most populous city in Georgia state",
+          "planner_rationale": "Q 的第二跳——Georgia 州人口最多城市已确认为 Atlanta，证据充分（3 个 chunk 明确记载 'Atlanta is the largest municipality by population in Georgia'），Critic 建议 INHERIT",
+          "solver_judgment": "question 要求找出 'that state'（根据 search_query 可知为 Georgia）人口最多的城市。search_query 搜索了 'most populous city in Georgia state'。chunks 返回了关于 Georgia 市政排名的信息，其中 chunk a4b91832、fe8a9a18 和 94e2f884 均明确记载 'Atlanta is the largest municipality by population in Georgia'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "3 个支撑来源，均来自同一文档 List of municipalities in Georgia (U.S. state)（非独立）。三个 chunk（a4b91832, fe8a9a18, 94e2f884）均明确记载 'Atlanta is the largest municipality by population in Georgia.'，表述完全一致。交叉验证：不充分（仅 1 个独立来源），但答案直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a4b91832-9be4-49a7-9d1b-e53003069e03",
+            "fe8a9a18-664b-459d-831d-5b3fd754d940",
+            "94e2f884-5089-42a5-8eb7-a8388c9089c1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "fe8a9a18-664b-459d-831d-5b3fd754d940",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Augusta spans 302.47 sq mi (783.4 km). Atlanta has 420,003 residents. Atlanta is the largest municipality by population in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta is the largest municipality by land area in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Edge Hill is the smallest municipality by population in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+            },
+            {
+              "chunk_id": "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+              "chunk_title": "City Status & Ranking",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of cities or towns.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "e047941d-253f-4655-9917-2b1f53153bd7",
+              "chunk_title": "Savannah City Status",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of Savannah, Georgia.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+              "chunk_title": "Georgia's Historical Capitals",
+              "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+              "context_title": "History of Georgia (U.S. state)",
+              "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+            },
+            {
+              "chunk_id": "c89223e0-6bac-4c30-9173-84a25141c83c",
+              "chunk_title": "Jacksonville Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and rankings of major cities, specifically focusing on Jacksonville, Florida.",
+              "context_title": "Jacksonville, Florida",
+              "page_content": "Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States. Jacksonville is the most populous city proper in the Southeast. Jacksonville is the most populous city proper in Florida. Jacksonville is the largest city by population in the U.S. state of Florida."
+            },
+            {
+              "chunk_id": "97a663dd-faa7-4f65-a950-40fb119b0cab",
+              "chunk_title": "City Population & Rankings",
+              "chunk_summary": "This chunk contains information about the population size and ranking of Jacksonville, Florida, within state, regional, and national contexts; please add similar demographic data for other major cities.",
+              "context_title": "Jacksonville, Florida",
+              "page_content": "Jacksonville is the most populous city proper in the Southeast. Jacksonville is the largest city by population in the U.S. state of Florida. The Jacksonville metropolitan area had a population of 1,345,596 in 2010. Jacksonville is the most populous city proper in Florida. Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States."
+            },
+            {
+              "chunk_id": "2b03fedd-1434-4933-96c0-5a64312a3785",
+              "chunk_title": "Largest Cities by Population",
+              "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+              "context_title": "United States",
+              "page_content": "The largest city by population in the United States of America is New York City."
+            },
+            {
+              "chunk_id": "002dc8df-5a71-498a-823b-5b2e29f56272",
+              "chunk_title": "Largest Cities by Population",
+              "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+              "context_title": "United States",
+              "page_content": "The largest city by population in the United States of America is New York City."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What county or counties is Atlanta, Georgia located in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What county is Atlanta, Georgia located in?",
+          "planner_rationale": "上一轮搜索 'In which county is Atlanta located?' 返回 10 个 chunk 但无一明确记载 Atlanta 所在县。Critic 建议换搜索方向：尝试包含 'Fulton County'、'DeKalb County' 等关键词的变体查询。此外，Atlanta 可能跨多个县（Fulton + DeKalb），新 question 用 'county or counties' 覆盖这种可能性，提高搜索命中率",
+          "solver_judgment": "question 要求确认亚特兰大（Atlanta, Georgia）所在的县（county）。search_query 搜索了 'What county is Atlanta, Georgia located in?'。然而，chunks 返回的信息主要涉及佐治亚州其他城市（如 Riverdale 位于 Clayton County，Savannah 是 Chatham County 的县治，Augusta 是合并市县）以及亚特兰大作为州首府和人口最多城市的地位。没有任何 chunk 提及亚特兰大市本身位于哪个县（实际上主要位于 Fulton County，部分位于 DeKalb County）。检索未能命中目标信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，来源分布 5 个独立文档，但无一明确记载 Atlanta 所在县。chunk 摘要显示内容涉及 Riverdale (Clayton County)、Savannah (Chatham County seat)、Augusta (consolidated city-county) 等其他城市，以及 Atlanta 作为州首府和人口最多城市的地位，但均未提及 Atlanta 本身位于哪个县。KB 对此事实可能无覆盖。",
+          "critic_normative_advice": "建议换搜索方向——当前以 Atlanta 为主体的查询反复无改善。尝试反向查询：'Fulton County Georgia' 或 'DeKalb County Georgia' 并检查返回 chunk 是否提及 Atlanta。也可尝试 'Atlanta Georgia county seat Fulton' 等更精确变体。若多轮搜索仍无结果，建议标注 KB 缺口并评估是否可基于外部知识补充或放弃。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "0817c216-cade-4f58-a5ca-3d2652280a64",
+              "chunk_title": "City Location & Classification",
+              "chunk_summary": "This chunk contains information about the geographic location and classification of cities, specifically focusing on Riverdale, Georgia.",
+              "context_title": "Riverdale, Georgia",
+              "page_content": "Riverdale is a city in Clayton County, Georgia, United States. Riverdale is part of the Atlanta metropolitan area. Riverdale is a suburb just south of Hartsfield–Jackson Atlanta International Airport."
+            },
+            {
+              "chunk_id": "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters and specific geographic locations of companies, including details on mailing addresses and county jurisdictions.",
+              "context_title": "The Home Depot",
+              "page_content": "The Home Depot, Inc. is headquartered at the Atlanta Store Support Center. The Atlanta Store Support Center has an Atlanta mailing address. The Atlanta Store Support Center is located in unincorporated Cobb County, Georgia."
+            },
+            {
+              "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+              "chunk_title": "Georgia's Historical Capitals",
+              "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+              "context_title": "History of Georgia (U.S. state)",
+              "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+            },
+            {
+              "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+              "chunk_title": "City Administration & Classification",
+              "chunk_summary": "This chunk contains information about the administrative structure and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+              "chunk_title": "City Status & Ranking",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of cities or towns.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "e07bf224-d833-472f-832e-50e053a7c5b2",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+            },
+            {
+              "chunk_id": "ff155593-cee7-4b44-8c8f-2f74505db024",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "e047941d-253f-4655-9917-2b1f53153bd7",
+              "chunk_title": "Savannah City Status",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of Savannah, Georgia.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            }
+          ]
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "Which county shares a border with that county?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "Q 的最终目标——找出与 N1_3 答案（Atlanta 所在县）接壤的县。当前被 N1_3 阻塞，待 N1_3 解决后自动解锁",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_3 answer 为空，未执行搜索。",
+          "critic_normative_advice": "等待 N1_3 解决后自动解锁。若 N1_3 最终无法求解，建议放弃此节点或尝试独立搜索 'counties bordering Fulton County Georgia' / 'counties bordering DeKalb County Georgia'。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_4",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_3",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立四个子事实的推理链才能回答。当前 N1_1 和 N1_2 已解决，N1_3 是阻塞点，N1_4 待 N1_3 解决后解锁",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。当前推理链 N1_1→N1_2→N1_3→N1_4 在 N1_3 处断裂（N1_3 answer 为空），N1_4 被阻塞。N1_1 和 N1_2 已解决且证据充分，但 N1_3 搜索返回 10 个 chunk 无一提及 Fulton County 包含任何城市，N1_4 因依赖未满足未执行搜索。推理链不完整，无法支撑 ROOT 答案合成。",
+          "critic_normative_advice": "建议修复 N1_3 的搜索策略——当前反向搜索 'cities located in Fulton County, Georgia' 返回 10 个 chunk 但无一提及 Fulton County。建议尝试更精确的查询如 'Atlanta Georgia county' 或 'Fulton County contains Atlanta'。若 KB 确实无覆盖 Atlanta 所在县的信息，需评估是否可接受外部知识补充或标记此方向为不可行。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which state does WEKL operate?",
+          "answer": "Georgia",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which state does WEKL operate?",
+          "planner_rationale": "Q 的起点——WEKL 电台所在州已确认为 Georgia，证据充分（2 个 chunk 明确记载 'WEKL is licensed to Augusta, Georgia'），Critic 建议 INHERIT",
+          "solver_judgment": "question 要求确认 WEKL 运营的州。search_query 搜索了 'In which state does WEKL operate?'。chunks 返回了 WEKL 的地理位置和许可信息，其中 chunk 7f1e2c8c 和 cb62f869 明确记载 'WEKL is licensed to Augusta, Georgia.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源，均来自同一文档 WEKL（非独立）。两个 chunk（7f1e2c8c, cb62f869）均明确记载 'WEKL is licensed to Augusta, Georgia.'，表述完全一致。交叉验证：不充分（仅 1 个独立来源），但答案直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+            "cb62f869-b27f-440c-9145-05ff861cffed"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+              "chunk_title": "Radio Station Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is located in the United States. The transmitter of WEKL is located in Augusta. The transmitter of WEKL is located near Fort Gordon. The studios of WEKL are located at the Augusta Corporate Center. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+            },
+            {
+              "chunk_id": "cb62f869-b27f-440c-9145-05ff861cffed",
+              "chunk_title": "Location & Licensing",
+              "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations; add similar location-based facts for other stations here.",
+              "context_title": "WEKL",
+              "page_content": "The transmitter of WEKL is located near Fort Gordon. The transmitter of WEKL is located in Augusta. The studios of WEKL are located at the Augusta Corporate Center. WEKL is located in the United States. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+            },
+            {
+              "chunk_id": "118a5e3f-445c-4c69-b87f-0dea51fc4840",
+              "chunk_title": "Radio Stations",
+              "chunk_summary": "This chunk contains information about radio stations, including their call signs, frequencies, ownership, broadcast formats, and the communities they are licensed to serve.",
+              "context_title": "WKWL",
+              "page_content": "WKWL (1230 AM) airs to the central Florida Panhandle and central southern Alabama. WKWL (1230 AM) is a radio station. WKWL (1230 AM) is owned by Florala Broadcasting Co., Inc. WKWL (1230 AM) is licensed to serve the community of Florala, Alabama. WKWL (1230 AM) airs a Classic Pop format."
+            },
+            {
+              "chunk_id": "0c7a7a32-fc3a-451b-b338-cc766d308e47",
+              "chunk_title": "Radio Station Identities",
+              "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, and their broadcast formats.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is known on-air as \"102.3 K-Love\". WEKL is a Contemporary Christian radio station."
+            },
+            {
+              "chunk_id": "103cda1c-2021-4654-bdf3-83a60355832b",
+              "chunk_title": "Radio Station Details",
+              "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, broadcast formats, frequencies, and technical specifications like effective radiated power.",
+              "context_title": "WEKL",
+              "page_content": "WEKL broadcasts on 102.3 MHz. WEKL is a Contemporary Christian radio station. WEKL is known on-air as \"102.3 K-Love\". WEKL has an ERP of 1.5 kW."
+            },
+            {
+              "chunk_id": "3f561f29-1281-408a-a27e-8fd6f8f9923a",
+              "chunk_title": "Licensing & Regulation",
+              "chunk_summary": "This chunk contains information about the licensing and regulatory status of radio stations.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+            },
+            {
+              "chunk_id": "290e2c18-0294-4fdf-9c17-bd0aec06040a",
+              "chunk_title": "Licensing & Regulation",
+              "chunk_summary": "This chunk contains information about the licensing and regulatory status of entities by government agencies.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+            },
+            {
+              "chunk_id": "bd9bdbf2-f3b9-41ae-808c-606693254415",
+              "chunk_title": "Broadcast Specs",
+              "chunk_summary": "This chunk contains information about radio station broadcast frequencies and technical specifications like effective radiated power.",
+              "context_title": "WEKL",
+              "page_content": "WEKL has an ERP of 1.5 kW. WEKL broadcasts on 102.3 MHz."
+            },
+            {
+              "chunk_id": "915f5ebf-1be2-456e-bcdc-8be0941c4b0f",
+              "chunk_title": "Radio Stations",
+              "chunk_summary": "This chunk contains information about radio stations, including their names, frequencies, licensing locations, service areas, ownership, and network affiliations.",
+              "context_title": "WEVS",
+              "page_content": "WEVS operates on 88.3 FM. WEVS serves the southern part of the Manchester market. WEVS is owned by New Hampshire Public Radio. WEVS is an affiliate of the New Hampshire Public Radio network. WEVS is licensed to Nashua, New Hampshire. WEVS is a radio station."
+            },
+            {
+              "chunk_id": "06575656-90df-44d0-8519-4a7274d7dd40",
+              "chunk_title": "Radio Station Details",
+              "chunk_summary": "This chunk contains information about specific licensed radio stations, including their call signs, broadcast frequencies, studio locations, ownership details, the communities they serve, and their network affiliations.",
+              "context_title": "WZEI",
+              "page_content": "WZEI is licensed to serve the community of Meredith, New Hampshire. WZEI has studios located in Bow, New Hampshire. The WEEI Sports Radio Network is based in WEEI-FM in Boston. WZEI has coverage particularly of the Lakes Region area. WZEI has coverage of central New Hampshire. The station WZEI is owned by Dirk Nadon. WZEI is an American licensed radio station. Dirk Nadon owns the station WZEI through licensee Lakes Media, LLC. WZEI broadcasts on 101.5 FM. WZEI is an affiliate of the WEEI Sports Radio Network. Lakes Media, LLC is the licensee for the station WZEI."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the most populous city in that state?",
+          "answer": "Atlanta",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "most populous city in Georgia state",
+          "planner_rationale": "Q 的第二跳——Georgia 州人口最多城市已确认为 Atlanta，证据充分（3 个 chunk 明确记载 'Atlanta is the largest municipality by population in Georgia'），Critic 建议 INHERIT",
+          "solver_judgment": "question 要求找出 'that state'（根据 search_query 可知为 Georgia）人口最多的城市。search_query 搜索了 'most populous city in Georgia state'。chunks 返回了关于 Georgia 市政排名的信息，其中 chunk a4b91832、fe8a9a18 和 94e2f884 均明确记载 'Atlanta is the largest municipality by population in Georgia'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "3 个支撑来源，均来自同一文档 List of municipalities in Georgia (U.S. state)（非独立）。三个 chunk（a4b91832, fe8a9a18, 94e2f884）均明确记载 'Atlanta is the largest municipality by population in Georgia.'，表述完全一致。交叉验证：不充分（仅 1 个独立来源），但答案直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a4b91832-9be4-49a7-9d1b-e53003069e03",
+            "fe8a9a18-664b-459d-831d-5b3fd754d940",
+            "94e2f884-5089-42a5-8eb7-a8388c9089c1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "fe8a9a18-664b-459d-831d-5b3fd754d940",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Augusta spans 302.47 sq mi (783.4 km). Atlanta has 420,003 residents. Atlanta is the largest municipality by population in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta is the largest municipality by land area in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Edge Hill is the smallest municipality by population in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+            },
+            {
+              "chunk_id": "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+              "chunk_title": "City Status & Ranking",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of cities or towns.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "e047941d-253f-4655-9917-2b1f53153bd7",
+              "chunk_title": "Savannah City Status",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of Savannah, Georgia.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+              "chunk_title": "Georgia's Historical Capitals",
+              "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+              "context_title": "History of Georgia (U.S. state)",
+              "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+            },
+            {
+              "chunk_id": "c89223e0-6bac-4c30-9173-84a25141c83c",
+              "chunk_title": "Jacksonville Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and rankings of major cities, specifically focusing on Jacksonville, Florida.",
+              "context_title": "Jacksonville, Florida",
+              "page_content": "Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States. Jacksonville is the most populous city proper in the Southeast. Jacksonville is the most populous city proper in Florida. Jacksonville is the largest city by population in the U.S. state of Florida."
+            },
+            {
+              "chunk_id": "97a663dd-faa7-4f65-a950-40fb119b0cab",
+              "chunk_title": "City Population & Rankings",
+              "chunk_summary": "This chunk contains information about the population size and ranking of Jacksonville, Florida, within state, regional, and national contexts; please add similar demographic data for other major cities.",
+              "context_title": "Jacksonville, Florida",
+              "page_content": "Jacksonville is the most populous city proper in the Southeast. Jacksonville is the largest city by population in the U.S. state of Florida. The Jacksonville metropolitan area had a population of 1,345,596 in 2010. Jacksonville is the most populous city proper in Florida. Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States."
+            },
+            {
+              "chunk_id": "2b03fedd-1434-4933-96c0-5a64312a3785",
+              "chunk_title": "Largest Cities by Population",
+              "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+              "context_title": "United States",
+              "page_content": "The largest city by population in the United States of America is New York City."
+            },
+            {
+              "chunk_id": "002dc8df-5a71-498a-823b-5b2e29f56272",
+              "chunk_title": "Largest Cities by Population",
+              "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+              "context_title": "United States",
+              "page_content": "The largest city by population in the United States of America is New York City."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What cities are located in Fulton County, Georgia?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "cities located in Fulton County, Georgia",
+          "planner_rationale": "前两轮以 Atlanta 为主体的正向搜索（'What county is Atlanta in?'）均失败——10 个 chunk 无一提及 Atlanta 所在县。Critic 建议换反向搜索策略：以县名为主体查询，看 KB 是否记载 Fulton County 包含哪些城市（期望命中 Atlanta）。这是根本性的搜索方向转换，而非措辞微调，因此需要 INHERIT_AND_RELABEL 清空旧搜索数据从零开始",
+          "solver_judgment": "question 要求列出位于佐治亚州富尔顿县（Fulton County）的城市。search_query 搜索了 'cities located in Fulton County, Georgia'。但 chunks 返回的信息主要涉及佐治亚州其他县的城市（如 Clayton County 的 Riverdale、Chatham County 的 Savannah、Cobb County 的 Home Depot 总部）或全州范围内的城市排名与历史首都（如 Atlanta、Augusta、Edge Hill 等），并未提及任何城市位于 Fulton County。检索结果未能命中目标信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，来源分布为 List of municipalities in Georgia (6)、Riverdale Georgia (1)、The Home Depot (1)、History of Georgia (1)、Savannah Georgia (1)。逐一审阅摘要：无任何 chunk 提及 'Fulton County' 或记载 Fulton County 包含哪些城市。chunk 内容涉及城市行政分类、市政排名、Riverdale 位置、Home Depot 总部（Cobb County）、历史首都、Savannah 状态——均与 'Fulton County 包含的城市' 无关。搜索完全未命中目标信息。",
+          "critic_normative_advice": "建议放弃此搜索方向——当前查询 'cities located in Fulton County, Georgia' 已返回 10 个无关结果，KB 似乎不记载 '某县包含某城市' 类型的信息。建议换搜索方向：尝试以 Atlanta 为主体直接查询 'Atlanta Georgia which county' 或 'Atlanta county location'。若仍无结果，考虑 KB 可能确实无覆盖此事实，需评估是否引入外部知识或标记为不可解。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+              "chunk_title": "City Administration & Classification",
+              "chunk_summary": "This chunk contains information about the administrative structure and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "e07bf224-d833-472f-832e-50e053a7c5b2",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "ff155593-cee7-4b44-8c8f-2f74505db024",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "fe8a9a18-664b-459d-831d-5b3fd754d940",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Augusta spans 302.47 sq mi (783.4 km). Atlanta has 420,003 residents. Atlanta is the largest municipality by population in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta is the largest municipality by land area in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Edge Hill is the smallest municipality by population in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+            },
+            {
+              "chunk_id": "0817c216-cade-4f58-a5ca-3d2652280a64",
+              "chunk_title": "City Location & Classification",
+              "chunk_summary": "This chunk contains information about the geographic location and classification of cities, specifically focusing on Riverdale, Georgia.",
+              "context_title": "Riverdale, Georgia",
+              "page_content": "Riverdale is a city in Clayton County, Georgia, United States. Riverdale is part of the Atlanta metropolitan area. Riverdale is a suburb just south of Hartsfield–Jackson Atlanta International Airport."
+            },
+            {
+              "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters and specific geographic locations of companies, including details on mailing addresses and county jurisdictions.",
+              "context_title": "The Home Depot",
+              "page_content": "The Home Depot, Inc. is headquartered at the Atlanta Store Support Center. The Atlanta Store Support Center has an Atlanta mailing address. The Atlanta Store Support Center is located in unincorporated Cobb County, Georgia."
+            },
+            {
+              "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+              "chunk_title": "Georgia's Historical Capitals",
+              "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+              "context_title": "History of Georgia (U.S. state)",
+              "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+            },
+            {
+              "chunk_id": "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+              "chunk_title": "City Status & Ranking",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of cities or towns.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            }
+          ]
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "Which county shares a border with that county?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "Q 的最终目标——找出与 N1_3 答案（Atlanta 所在县）接壤的县。当前被 N1_3 阻塞，待 N1_3 解决后自动解锁。保留此节点以维持完整推理链结构",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_3 answer 为空，未执行搜索。阻塞原因：N1_3(status=unsolved, answer=(空))。",
+          "critic_normative_advice": "待 N1_3 解决后自动解锁。当前无行动建议。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_4",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_3",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。当前 N1_1 和 N1_2 已解决（Georgia, Atlanta），N1_3 需修复搜索策略，N1_4 待 N1_3 解决后解锁",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。当前推理链 N1_1→N1_2→N1_3→N1_4 在 N1_3 处断裂：N1_1（Georgia）和 N1_2（Atlanta）已解决且证据充分，但 N1_3 搜索返回 10 个 chunk（6 个独立来源）无一提及 Atlanta 所在县，N1_4 因依赖未满足被阻塞。推理链不完整，无法支撑 ROOT 答案合成。",
+          "critic_normative_advice": "建议修复 N1_3 的搜索策略——当前正向搜索 'What county is Atlanta, Georgia located in?' 返回 10 个 chunk 但无一包含目标信息。建议尝试更精确的查询如 'Atlanta Georgia county seat' 或 'Fulton County Atlanta'（若 KB 有 Fulton County 条目，可反向验证）。若 KB 确实无覆盖 Atlanta 所在县的信息，需评估是否标记 Q 为不可解或接受外部知识补充。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which state does WEKL operate?",
+          "answer": "Georgia",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which state does WEKL operate?",
+          "planner_rationale": "Q 的起点——WEKL 所在州已确认为 Georgia，证据充分（2 个 chunk 明确记载 'WEKL is licensed to Augusta, Georgia'），Critic 建议 INHERIT",
+          "solver_judgment": "question 要求确认 WEKL 运营的州。search_query 搜索了 'In which state does WEKL operate?'。chunks 返回了 WEKL 的地理位置和许可信息，其中 chunk 7f1e2c8c 和 cb62f869 明确记载 'WEKL is licensed to Augusta, Georgia.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源，均来自同一文档 WEKL（非独立）。两个 chunk（7f1e2c8c, cb62f869）均明确记载 'WEKL is licensed to Augusta, Georgia.'，表述完全一致。交叉验证：不充分（仅 1 个独立来源），但答案直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+            "cb62f869-b27f-440c-9145-05ff861cffed"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+              "chunk_title": "Radio Station Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is located in the United States. The transmitter of WEKL is located in Augusta. The transmitter of WEKL is located near Fort Gordon. The studios of WEKL are located at the Augusta Corporate Center. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+            },
+            {
+              "chunk_id": "cb62f869-b27f-440c-9145-05ff861cffed",
+              "chunk_title": "Location & Licensing",
+              "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations; add similar location-based facts for other stations here.",
+              "context_title": "WEKL",
+              "page_content": "The transmitter of WEKL is located near Fort Gordon. The transmitter of WEKL is located in Augusta. The studios of WEKL are located at the Augusta Corporate Center. WEKL is located in the United States. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+            },
+            {
+              "chunk_id": "118a5e3f-445c-4c69-b87f-0dea51fc4840",
+              "chunk_title": "Radio Stations",
+              "chunk_summary": "This chunk contains information about radio stations, including their call signs, frequencies, ownership, broadcast formats, and the communities they are licensed to serve.",
+              "context_title": "WKWL",
+              "page_content": "WKWL (1230 AM) airs to the central Florida Panhandle and central southern Alabama. WKWL (1230 AM) is a radio station. WKWL (1230 AM) is owned by Florala Broadcasting Co., Inc. WKWL (1230 AM) is licensed to serve the community of Florala, Alabama. WKWL (1230 AM) airs a Classic Pop format."
+            },
+            {
+              "chunk_id": "0c7a7a32-fc3a-451b-b338-cc766d308e47",
+              "chunk_title": "Radio Station Identities",
+              "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, and their broadcast formats.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is known on-air as \"102.3 K-Love\". WEKL is a Contemporary Christian radio station."
+            },
+            {
+              "chunk_id": "103cda1c-2021-4654-bdf3-83a60355832b",
+              "chunk_title": "Radio Station Details",
+              "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, broadcast formats, frequencies, and technical specifications like effective radiated power.",
+              "context_title": "WEKL",
+              "page_content": "WEKL broadcasts on 102.3 MHz. WEKL is a Contemporary Christian radio station. WEKL is known on-air as \"102.3 K-Love\". WEKL has an ERP of 1.5 kW."
+            },
+            {
+              "chunk_id": "3f561f29-1281-408a-a27e-8fd6f8f9923a",
+              "chunk_title": "Licensing & Regulation",
+              "chunk_summary": "This chunk contains information about the licensing and regulatory status of radio stations.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+            },
+            {
+              "chunk_id": "290e2c18-0294-4fdf-9c17-bd0aec06040a",
+              "chunk_title": "Licensing & Regulation",
+              "chunk_summary": "This chunk contains information about the licensing and regulatory status of entities by government agencies.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+            },
+            {
+              "chunk_id": "bd9bdbf2-f3b9-41ae-808c-606693254415",
+              "chunk_title": "Broadcast Specs",
+              "chunk_summary": "This chunk contains information about radio station broadcast frequencies and technical specifications like effective radiated power.",
+              "context_title": "WEKL",
+              "page_content": "WEKL has an ERP of 1.5 kW. WEKL broadcasts on 102.3 MHz."
+            },
+            {
+              "chunk_id": "915f5ebf-1be2-456e-bcdc-8be0941c4b0f",
+              "chunk_title": "Radio Stations",
+              "chunk_summary": "This chunk contains information about radio stations, including their names, frequencies, licensing locations, service areas, ownership, and network affiliations.",
+              "context_title": "WEVS",
+              "page_content": "WEVS operates on 88.3 FM. WEVS serves the southern part of the Manchester market. WEVS is owned by New Hampshire Public Radio. WEVS is an affiliate of the New Hampshire Public Radio network. WEVS is licensed to Nashua, New Hampshire. WEVS is a radio station."
+            },
+            {
+              "chunk_id": "06575656-90df-44d0-8519-4a7274d7dd40",
+              "chunk_title": "Radio Station Details",
+              "chunk_summary": "This chunk contains information about specific licensed radio stations, including their call signs, broadcast frequencies, studio locations, ownership details, the communities they serve, and their network affiliations.",
+              "context_title": "WZEI",
+              "page_content": "WZEI is licensed to serve the community of Meredith, New Hampshire. WZEI has studios located in Bow, New Hampshire. The WEEI Sports Radio Network is based in WEEI-FM in Boston. WZEI has coverage particularly of the Lakes Region area. WZEI has coverage of central New Hampshire. The station WZEI is owned by Dirk Nadon. WZEI is an American licensed radio station. Dirk Nadon owns the station WZEI through licensee Lakes Media, LLC. WZEI broadcasts on 101.5 FM. WZEI is an affiliate of the WEEI Sports Radio Network. Lakes Media, LLC is the licensee for the station WZEI."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the most populous city in that state?",
+          "answer": "Atlanta",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "most populous city in Georgia state",
+          "planner_rationale": "Q 的第二跳——Georgia 州人口最多城市已确认为 Atlanta，证据充分（3 个 chunk 明确记载 'Atlanta is the largest municipality by population in Georgia'），Critic 建议 INHERIT",
+          "solver_judgment": "question 要求找出 'that state'（根据 search_query 可知为 Georgia）人口最多的城市。search_query 搜索了 'most populous city in Georgia state'。chunks 返回了关于 Georgia 市政排名的信息，其中 chunk a4b91832、fe8a9a18 和 94e2f884 均明确记载 'Atlanta is the largest municipality by population in Georgia'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "3 个支撑来源，均来自同一文档 List of municipalities in Georgia (U.S. state)（非独立）。三个 chunk（a4b91832, fe8a9a18, 94e2f884）均明确记载 'Atlanta is the largest municipality by population in Georgia.'，表述完全一致。交叉验证：不充分（仅 1 个独立来源），但答案直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a4b91832-9be4-49a7-9d1b-e53003069e03",
+            "fe8a9a18-664b-459d-831d-5b3fd754d940",
+            "94e2f884-5089-42a5-8eb7-a8388c9089c1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "fe8a9a18-664b-459d-831d-5b3fd754d940",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Augusta spans 302.47 sq mi (783.4 km). Atlanta has 420,003 residents. Atlanta is the largest municipality by population in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta is the largest municipality by land area in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Edge Hill is the smallest municipality by population in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+            },
+            {
+              "chunk_id": "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+              "chunk_title": "City Status & Ranking",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of cities or towns.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "e047941d-253f-4655-9917-2b1f53153bd7",
+              "chunk_title": "Savannah City Status",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of Savannah, Georgia.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+              "chunk_title": "Georgia's Historical Capitals",
+              "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+              "context_title": "History of Georgia (U.S. state)",
+              "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+            },
+            {
+              "chunk_id": "c89223e0-6bac-4c30-9173-84a25141c83c",
+              "chunk_title": "Jacksonville Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and rankings of major cities, specifically focusing on Jacksonville, Florida.",
+              "context_title": "Jacksonville, Florida",
+              "page_content": "Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States. Jacksonville is the most populous city proper in the Southeast. Jacksonville is the most populous city proper in Florida. Jacksonville is the largest city by population in the U.S. state of Florida."
+            },
+            {
+              "chunk_id": "97a663dd-faa7-4f65-a950-40fb119b0cab",
+              "chunk_title": "City Population & Rankings",
+              "chunk_summary": "This chunk contains information about the population size and ranking of Jacksonville, Florida, within state, regional, and national contexts; please add similar demographic data for other major cities.",
+              "context_title": "Jacksonville, Florida",
+              "page_content": "Jacksonville is the most populous city proper in the Southeast. Jacksonville is the largest city by population in the U.S. state of Florida. The Jacksonville metropolitan area had a population of 1,345,596 in 2010. Jacksonville is the most populous city proper in Florida. Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States."
+            },
+            {
+              "chunk_id": "2b03fedd-1434-4933-96c0-5a64312a3785",
+              "chunk_title": "Largest Cities by Population",
+              "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+              "context_title": "United States",
+              "page_content": "The largest city by population in the United States of America is New York City."
+            },
+            {
+              "chunk_id": "002dc8df-5a71-498a-823b-5b2e29f56272",
+              "chunk_title": "Largest Cities by Population",
+              "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+              "context_title": "United States",
+              "page_content": "The largest city by population in the United States of America is New York City."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "In which county is Atlanta, Georgia located?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What county is Atlanta, Georgia located in?",
+          "planner_rationale": "Critic 指出原 N1_3 question 'What cities are located in Fulton County, Georgia?' 存在两个根本问题：(1) 硬编码了 'Fulton County'——这是 Planner 注入的外部知识，而非从 KB 推导；(2) 与 N1_2 的 dependency 边是虚假的——原 question 不包含需要 N1_2 answer 消解的指代词。新 question 'In which county is Atlanta, Georgia located?' 真正依赖 N1_2 的 answer 'Atlanta' 来消解实体指代，形成合法的 dependency 关系。同时搜索策略从反向搜索（县→城市）改回正向搜索但使用更精确的查询 'Atlanta Georgia which county'，期望命中 KB 中可能存在的城市-县归属关系",
+          "solver_judgment": "提取结果：chunks 中未包含亚特兰大（Atlanta, Georgia）所在县的信息。检索质量评估：question 要求确认亚特兰大市所在的县。search_query 搜索了 'What county is Atlanta, Georgia located in?'。chunks 实际返回了佐治亚州其他城市所在的县（如 Riverdale 位于 Clayton County，Savannah 是 Chatham County 的县治，Augusta 为市县合一），以及亚特兰大作为州首府和人口最多城市的地位，但没有任何 chunk 明确指出亚特兰大市本身位于哪个县。检索未能命中目标实体属性，存在信息缺口，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，来自 6 个独立来源（List of municipalities in Georgia 5 个, Riverdale 1 个, The Home Depot 1 个, History of Georgia 1 个, Blackberry Smoke 1 个, Savannah 1 个）。但所有 chunk 均未提及 Atlanta 所在县——chunk 内容涉及其他 Georgia 城市的县归属（Riverdale-Clayton County, Savannah-Chatham County, Augusta 市县合一）、Atlanta 作为州首府和人口最多城市的地位，但无任何 chunk 明确指出 Atlanta 位于哪个县。KB 对此事实无覆盖。",
+          "critic_normative_advice": "建议放弃此方向——已尝试正向搜索 'What county is Atlanta, Georgia located in?'，返回 10 个 chunk 无一命中目标信息。KB 似乎不包含 Atlanta 所在县的直接陈述。建议 Planner 评估：(1) 是否尝试最后一次反向搜索 'Fulton County Georgia contains Atlanta' 以验证 KB 是否有 Fulton County 条目；(2) 若仍无结果，标记此事实为 KB 不可达，Q 无法从 KB 完整解答。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "0817c216-cade-4f58-a5ca-3d2652280a64",
+              "chunk_title": "City Location & Classification",
+              "chunk_summary": "This chunk contains information about the geographic location and classification of cities, specifically focusing on Riverdale, Georgia.",
+              "context_title": "Riverdale, Georgia",
+              "page_content": "Riverdale is a city in Clayton County, Georgia, United States. Riverdale is part of the Atlanta metropolitan area. Riverdale is a suburb just south of Hartsfield–Jackson Atlanta International Airport."
+            },
+            {
+              "chunk_id": "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters and specific geographic locations of companies, including details on mailing addresses and county jurisdictions.",
+              "context_title": "The Home Depot",
+              "page_content": "The Home Depot, Inc. is headquartered at the Atlanta Store Support Center. The Atlanta Store Support Center has an Atlanta mailing address. The Atlanta Store Support Center is located in unincorporated Cobb County, Georgia."
+            },
+            {
+              "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+              "chunk_title": "Georgia's Historical Capitals",
+              "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+              "context_title": "History of Georgia (U.S. state)",
+              "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+            },
+            {
+              "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+            },
+            {
+              "chunk_id": "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+              "chunk_title": "City Administration & Classification",
+              "chunk_summary": "This chunk contains information about the administrative structure and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "e07bf224-d833-472f-832e-50e053a7c5b2",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "ff155593-cee7-4b44-8c8f-2f74505db024",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "5276f83d-21ec-488e-bcce-616e140580aa",
+              "chunk_title": "Blackberry Smoke Band Profile",
+              "chunk_summary": "This chunk contains information about the American rock band Blackberry Smoke, including their origin, lineup members, and individual roles.",
+              "context_title": "Blackberry Smoke",
+              "page_content": "Preston Holcomb performs percussion for Blackberry Smoke. Brit Turner performs drums for Blackberry Smoke. Richard Turner performs bass and vocals for Blackberry Smoke. Charlie Starr performs lead vocals and guitar for Blackberry Smoke. Benji Shanks performs guitar for Blackberry Smoke. Blackberry Smoke is an American rock band. Brandon Still performs keyboards for Blackberry Smoke. The lineup of Blackberry Smoke consists of Charlie Starr, Richard Turner, Brit Turner, Paul Jackson, Brandon Still, Benji Shanks, and Preston Holcomb. Paul Jackson performs guitar and vocals for Blackberry Smoke. Blackberry Smoke is from Atlanta, Georgia, United States."
+            },
+            {
+              "chunk_id": "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+              "chunk_title": "City Status & Ranking",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of cities or towns.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            }
+          ]
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "Which county shares a border with that county?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "Q 的最终目标——找出与 N1_3 答案（Atlanta 所在县）接壤的县。当前被 N1_3 阻塞，待 N1_3 解决后自动解锁。保留此节点以维持完整推理链结构",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_3 answer 为空，未执行搜索。",
+          "critic_normative_advice": "建议保留结构但标记为待解锁——此节点是 Q 的最终目标，结构上必要。待 N1_3 解决后自动解锁。若 N1_3 最终被标记为 KB 不可达，则 N1_4 也应标记为不可达。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_4",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_3",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。N1_1（Georgia）和 N1_2（Atlanta）已解决且证据充分。N1_3 需尝试最后一次反向搜索策略（从县名出发查找是否提及 Atlanta），N1_4 待 N1_3 解决后解锁",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。当前推理链 N1_1→N1_2→N1_3→N1_4 在 N1_3 处断裂：N1_1（Georgia）和 N1_2（Atlanta）已解决且证据充分，但 N1_3 搜索返回 10 个 chunk（5 个独立来源）无一提及 Atlanta 与 Fulton County 的关系，N1_4 因依赖未满足被阻塞。推理链不完整，无法支撑 ROOT 答案合成。",
+          "critic_normative_advice": "建议评估 KB 覆盖极限——N1_3 已尝试正向搜索（'What county is Atlanta, Georgia located in?'）和反向搜索（'Is Atlanta located in Fulton County, Georgia'）两种策略，共 20+ 个 chunk 从多个独立来源检索，均无 Atlanta 所在县信息。若 KB 确实无此覆盖，建议标记 Q 为 KB 不可达，或考虑接受外部知识补充（Atlanta 位于 Fulton County 是常识）。结构上 DAG 分解合理，缺口在于 KB 内容而非 DAG 设计。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which state does WEKL operate?",
+          "answer": "Georgia",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which state does WEKL operate?",
+          "planner_rationale": "Q 的起点——WEKL 所在州已确认为 Georgia，证据充分（2 个 chunk 明确记载 'WEKL is licensed to Augusta, Georgia'），Critic 建议 INHERIT",
+          "solver_judgment": "question 要求确认 WEKL 运营的州。search_query 搜索了 'In which state does WEKL operate?'。chunks 返回了 WEKL 的地理位置和许可信息，其中 chunk 7f1e2c8c 和 cb62f869 明确记载 'WEKL is licensed to Augusta, Georgia.'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "2 个支撑来源，均来自同一文档 WEKL（非独立）。两个 chunk（7f1e2c8c, cb62f869）均明确记载 'WEKL is licensed to Augusta, Georgia.'，表述完全一致。交叉验证：不充分（仅 1 个独立来源），但答案直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+            "cb62f869-b27f-440c-9145-05ff861cffed"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+              "chunk_title": "Radio Station Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is located in the United States. The transmitter of WEKL is located in Augusta. The transmitter of WEKL is located near Fort Gordon. The studios of WEKL are located at the Augusta Corporate Center. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+            },
+            {
+              "chunk_id": "cb62f869-b27f-440c-9145-05ff861cffed",
+              "chunk_title": "Location & Licensing",
+              "chunk_summary": "This chunk contains information about the geographical locations, licensing details, and facility addresses of radio stations; add similar location-based facts for other stations here.",
+              "context_title": "WEKL",
+              "page_content": "The transmitter of WEKL is located near Fort Gordon. The transmitter of WEKL is located in Augusta. The studios of WEKL are located at the Augusta Corporate Center. WEKL is located in the United States. WEKL is licensed to Augusta, Georgia. The studios of WEKL are located with the market’s other iHeartMedia owned sister stations in Augusta."
+            },
+            {
+              "chunk_id": "118a5e3f-445c-4c69-b87f-0dea51fc4840",
+              "chunk_title": "Radio Stations",
+              "chunk_summary": "This chunk contains information about radio stations, including their call signs, frequencies, ownership, broadcast formats, and the communities they are licensed to serve.",
+              "context_title": "WKWL",
+              "page_content": "WKWL (1230 AM) airs to the central Florida Panhandle and central southern Alabama. WKWL (1230 AM) is a radio station. WKWL (1230 AM) is owned by Florala Broadcasting Co., Inc. WKWL (1230 AM) is licensed to serve the community of Florala, Alabama. WKWL (1230 AM) airs a Classic Pop format."
+            },
+            {
+              "chunk_id": "0c7a7a32-fc3a-451b-b338-cc766d308e47",
+              "chunk_title": "Radio Station Identities",
+              "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, and their broadcast formats.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is known on-air as \"102.3 K-Love\". WEKL is a Contemporary Christian radio station."
+            },
+            {
+              "chunk_id": "103cda1c-2021-4654-bdf3-83a60355832b",
+              "chunk_title": "Radio Station Details",
+              "chunk_summary": "This chunk contains information about radio station call signs, their on-air branding identities, broadcast formats, frequencies, and technical specifications like effective radiated power.",
+              "context_title": "WEKL",
+              "page_content": "WEKL broadcasts on 102.3 MHz. WEKL is a Contemporary Christian radio station. WEKL is known on-air as \"102.3 K-Love\". WEKL has an ERP of 1.5 kW."
+            },
+            {
+              "chunk_id": "3f561f29-1281-408a-a27e-8fd6f8f9923a",
+              "chunk_title": "Licensing & Regulation",
+              "chunk_summary": "This chunk contains information about the licensing and regulatory status of radio stations.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+            },
+            {
+              "chunk_id": "290e2c18-0294-4fdf-9c17-bd0aec06040a",
+              "chunk_title": "Licensing & Regulation",
+              "chunk_summary": "This chunk contains information about the licensing and regulatory status of entities by government agencies.",
+              "context_title": "WEKL",
+              "page_content": "WEKL is licensed by the Federal Communications Commission (FCC)."
+            },
+            {
+              "chunk_id": "bd9bdbf2-f3b9-41ae-808c-606693254415",
+              "chunk_title": "Broadcast Specs",
+              "chunk_summary": "This chunk contains information about radio station broadcast frequencies and technical specifications like effective radiated power.",
+              "context_title": "WEKL",
+              "page_content": "WEKL has an ERP of 1.5 kW. WEKL broadcasts on 102.3 MHz."
+            },
+            {
+              "chunk_id": "915f5ebf-1be2-456e-bcdc-8be0941c4b0f",
+              "chunk_title": "Radio Stations",
+              "chunk_summary": "This chunk contains information about radio stations, including their names, frequencies, licensing locations, service areas, ownership, and network affiliations.",
+              "context_title": "WEVS",
+              "page_content": "WEVS operates on 88.3 FM. WEVS serves the southern part of the Manchester market. WEVS is owned by New Hampshire Public Radio. WEVS is an affiliate of the New Hampshire Public Radio network. WEVS is licensed to Nashua, New Hampshire. WEVS is a radio station."
+            },
+            {
+              "chunk_id": "06575656-90df-44d0-8519-4a7274d7dd40",
+              "chunk_title": "Radio Station Details",
+              "chunk_summary": "This chunk contains information about specific licensed radio stations, including their call signs, broadcast frequencies, studio locations, ownership details, the communities they serve, and their network affiliations.",
+              "context_title": "WZEI",
+              "page_content": "WZEI is licensed to serve the community of Meredith, New Hampshire. WZEI has studios located in Bow, New Hampshire. The WEEI Sports Radio Network is based in WEEI-FM in Boston. WZEI has coverage particularly of the Lakes Region area. WZEI has coverage of central New Hampshire. The station WZEI is owned by Dirk Nadon. WZEI is an American licensed radio station. Dirk Nadon owns the station WZEI through licensee Lakes Media, LLC. WZEI broadcasts on 101.5 FM. WZEI is an affiliate of the WEEI Sports Radio Network. Lakes Media, LLC is the licensee for the station WZEI."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the most populous city in that state?",
+          "answer": "Atlanta",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "most populous city in Georgia state",
+          "planner_rationale": "Q 的第二跳——Georgia 州人口最多城市已确认为 Atlanta，证据充分（3 个 chunk 明确记载 'Atlanta is the largest municipality by population in Georgia'），Critic 建议 INHERIT",
+          "solver_judgment": "question 要求找出 'that state'（根据 search_query 可知为 Georgia）人口最多的城市。search_query 搜索了 'most populous city in Georgia state'。chunks 返回了关于 Georgia 市政排名的信息，其中 chunk a4b91832、fe8a9a18 和 94e2f884 均明确记载 'Atlanta is the largest municipality by population in Georgia'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "3 个支撑来源，均来自同一文档 List of municipalities in Georgia (U.S. state)（非独立）。三个 chunk（a4b91832, fe8a9a18, 94e2f884）均明确记载 'Atlanta is the largest municipality by population in Georgia.'，表述完全一致。交叉验证：不充分（仅 1 个独立来源），但答案直接、具体、无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，单来源但直接具体，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a4b91832-9be4-49a7-9d1b-e53003069e03",
+            "fe8a9a18-664b-459d-831d-5b3fd754d940",
+            "94e2f884-5089-42a5-8eb7-a8388c9089c1"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "fe8a9a18-664b-459d-831d-5b3fd754d940",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Augusta spans 302.47 sq mi (783.4 km). Atlanta has 420,003 residents. Atlanta is the largest municipality by population in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta is the largest municipality by land area in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Edge Hill is the smallest municipality by population in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+            },
+            {
+              "chunk_id": "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+              "chunk_title": "City Status & Ranking",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of cities or towns.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "e047941d-253f-4655-9917-2b1f53153bd7",
+              "chunk_title": "Savannah City Status",
+              "chunk_summary": "This chunk contains information about the administrative status, location, and population ranking of Savannah, Georgia.",
+              "context_title": "Savannah, Georgia",
+              "page_content": "Savannah is Georgia's third-largest metropolitan area. Savannah is Georgia's fifth-largest city. Savannah is the county seat of Chatham County."
+            },
+            {
+              "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+              "chunk_title": "Georgia's Historical Capitals",
+              "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+              "context_title": "History of Georgia (U.S. state)",
+              "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+            },
+            {
+              "chunk_id": "c89223e0-6bac-4c30-9173-84a25141c83c",
+              "chunk_title": "Jacksonville Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and rankings of major cities, specifically focusing on Jacksonville, Florida.",
+              "context_title": "Jacksonville, Florida",
+              "page_content": "Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States. Jacksonville is the most populous city proper in the Southeast. Jacksonville is the most populous city proper in Florida. Jacksonville is the largest city by population in the U.S. state of Florida."
+            },
+            {
+              "chunk_id": "97a663dd-faa7-4f65-a950-40fb119b0cab",
+              "chunk_title": "City Population & Rankings",
+              "chunk_summary": "This chunk contains information about the population size and ranking of Jacksonville, Florida, within state, regional, and national contexts; please add similar demographic data for other major cities.",
+              "context_title": "Jacksonville, Florida",
+              "page_content": "Jacksonville is the most populous city proper in the Southeast. Jacksonville is the largest city by population in the U.S. state of Florida. The Jacksonville metropolitan area had a population of 1,345,596 in 2010. Jacksonville is the most populous city proper in Florida. Jacksonville had an estimated population of 853,382 in 2014. Jacksonville is the 12th most populous city proper in the United States."
+            },
+            {
+              "chunk_id": "2b03fedd-1434-4933-96c0-5a64312a3785",
+              "chunk_title": "Largest Cities by Population",
+              "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+              "context_title": "United States",
+              "page_content": "The largest city by population in the United States of America is New York City."
+            },
+            {
+              "chunk_id": "002dc8df-5a71-498a-823b-5b2e29f56272",
+              "chunk_title": "Largest Cities by Population",
+              "chunk_summary": "This chunk contains information about the largest cities by population in various countries.",
+              "context_title": "United States",
+              "page_content": "The largest city by population in the United States of America is New York City."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "Does Fulton County, Georgia contain the city of Atlanta?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "unreliable",
+          "search_query": "Is Atlanta located in Fulton County, Georgia",
+          "planner_rationale": "正向搜索 'What county is Atlanta, Georgia located in?' 已尝试且返回 10 个 chunk 无一命中目标信息。Critic 建议尝试最后一次反向搜索——从 'Fulton County' 出发，检查 KB 是否有 Fulton County 条目并提及包含 Atlanta。这是 KB 覆盖缺口下的最后探索方向。若仍无结果，则需标记 Q 为 KB 不可达",
+          "solver_judgment": "question 要求确认亚特兰大市（Atlanta）是否位于佐治亚州的富尔顿县（Fulton County）。search_query 搜索了 'Is Atlanta located in Fulton County, Georgia'。然而，chunks 返回的信息仅提及亚特兰大是佐治亚州的首府（chunk dfaaec75）、人口最多的城市（chunk 94e2f884, a4b91832, fe8a9a18），以及位于佐治亚州（chunk 5276f83d），并未提及富尔顿县（Fulton County）。chunks 中提到了其他县（如 Clayton County, Cobb County），但没有关于亚特兰大与富尔顿县关系的信息。检索未能命中目标信息，无法提取答案。",
+          "critic_factual_notes": "10 个检索结果，来自 5 个独立来源（List of municipalities in Georgia (6), Riverdale, Georgia (1), The Home Depot (1), History of Georgia (1), Blackberry Smoke (1)）。无一提及 Atlanta 与 Fulton County 的关系。chunk 内容涉及 Atlanta 是 Georgia 首府、人口最多城市、位于 Georgia 州，以及提及 Clayton County 和 Cobb County，但无 Fulton County 与 Atlanta 的关联信息。KB 在此事实维度上无覆盖。",
+          "critic_normative_advice": "建议放弃此方向——已尝试正向搜索（上轮 'What county is Atlanta, Georgia located in?'）和反向搜索（本轮 'Is Atlanta located in Fulton County, Georgia'）两种策略，累计 20+ 个 chunk 从多个独立来源检索，均无目标信息。KB 确实无 Atlanta 所在县的覆盖。建议标记此节点为 KB 不可达，并评估是否接受外部知识补充或标记 Q 为不可解。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "0817c216-cade-4f58-a5ca-3d2652280a64",
+              "chunk_title": "City Location & Classification",
+              "chunk_summary": "This chunk contains information about the geographic location and classification of cities, specifically focusing on Riverdale, Georgia.",
+              "context_title": "Riverdale, Georgia",
+              "page_content": "Riverdale is a city in Clayton County, Georgia, United States. Riverdale is part of the Atlanta metropolitan area. Riverdale is a suburb just south of Hartsfield–Jackson Atlanta International Airport."
+            },
+            {
+              "chunk_id": "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters and specific geographic locations of companies, including details on mailing addresses and county jurisdictions.",
+              "context_title": "The Home Depot",
+              "page_content": "The Home Depot, Inc. is headquartered at the Atlanta Store Support Center. The Atlanta Store Support Center has an Atlanta mailing address. The Atlanta Store Support Center is located in unincorporated Cobb County, Georgia."
+            },
+            {
+              "chunk_id": "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill is the smallest municipality by population in Georgia. Augusta is the largest municipality by land area in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill has 24 residents. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta is the largest municipality by population in Georgia. Atlanta has 420,003 residents."
+            },
+            {
+              "chunk_id": "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+              "chunk_title": "Georgia's Historical Capitals",
+              "chunk_summary": "This chunk contains information about the historical capitals of Georgia, including their number, names, and the periods during which they served as the seat of government.",
+              "context_title": "History of Georgia (U.S. state)",
+              "page_content": "Atlanta is the capital city of Georgia from 1868 to the present day. Georgia has had five different capitals in its history. The first capital of Georgia was Savannah. Savannah was the seat of government during British colonial rule. Milledgeville was a capital of Georgia. Louisville was a capital of Georgia. Augusta was a capital of Georgia."
+            },
+            {
+              "chunk_id": "a4b91832-9be4-49a7-9d1b-e53003069e03",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific data on the largest and smallest cities; add further demographic or geographic statistics for other Georgia municipalities here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Santa Claus spans 0.18 sq mi (0.47 km). Augusta spans 302.47 sq mi (783.4 km). Atlanta is the largest municipality by population in Georgia. Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Edge Hill is the smallest municipality by population in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Atlanta has 420,003 residents. Augusta is the largest municipality by land area in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+              "chunk_title": "City Administration & Classification",
+              "chunk_summary": "This chunk contains information about the administrative structure and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "e07bf224-d833-472f-832e-50e053a7c5b2",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "ff155593-cee7-4b44-8c8f-2f74505db024",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative status and classification of cities.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Augusta is a consolidated city-county."
+            },
+            {
+              "chunk_id": "fe8a9a18-664b-459d-831d-5b3fd754d940",
+              "chunk_title": "Georgia Municipal Rankings",
+              "chunk_summary": "This chunk contains information about the population sizes and land area rankings of municipalities in Georgia, including specific examples of the largest and smallest; add further details on other municipal rankings or demographic statistics here.",
+              "context_title": "List of municipalities in Georgia (U.S. state)",
+              "page_content": "Edge Hill and Santa Claus are tied for the smallest municipality by land area in Georgia. Augusta spans 302.47 sq mi (783.4 km). Atlanta has 420,003 residents. Atlanta is the largest municipality by population in Georgia. Santa Claus spans 0.18 sq mi (0.47 km). Augusta is the largest municipality by land area in Georgia. Edge Hill spans 0.18 sq mi (0.47 km). Edge Hill is the smallest municipality by population in Georgia. Edge Hill has 24 residents."
+            },
+            {
+              "chunk_id": "5276f83d-21ec-488e-bcce-616e140580aa",
+              "chunk_title": "Blackberry Smoke Band Profile",
+              "chunk_summary": "This chunk contains information about the American rock band Blackberry Smoke, including their origin, lineup members, and individual roles.",
+              "context_title": "Blackberry Smoke",
+              "page_content": "Preston Holcomb performs percussion for Blackberry Smoke. Brit Turner performs drums for Blackberry Smoke. Richard Turner performs bass and vocals for Blackberry Smoke. Charlie Starr performs lead vocals and guitar for Blackberry Smoke. Benji Shanks performs guitar for Blackberry Smoke. Blackberry Smoke is an American rock band. Brandon Still performs keyboards for Blackberry Smoke. The lineup of Blackberry Smoke consists of Charlie Starr, Richard Turner, Brit Turner, Paul Jackson, Brandon Still, Benji Shanks, and Preston Holcomb. Paul Jackson performs guitar and vocals for Blackberry Smoke. Blackberry Smoke is from Atlanta, Georgia, United States."
+            }
+          ]
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "Which county shares a border with that county?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "Q 的最终目标——找出与 N1_3 答案（Atlanta 所在县）接壤的县。当前被 N1_3 阻塞，待 N1_3 解决后自动解锁。保留此节点以维持完整推理链结构",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_3 answer 为空，未执行搜索。",
+          "critic_normative_advice": "建议保留结构但标记为阻塞——此节点是 Q 的最终目标，结构上必要。但因 N1_3 无法提供 'that county' 的消解值，N1_4 无法执行。若 N1_3 最终被标记为 KB 不可达，N1_4 也应同步标记。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_4",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_3",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "In which state does WEKL operate?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "7f1e2c8c-a6eb-4b76-99ba-4cca351c39b0",
+        "cb62f869-b27f-440c-9145-05ff861cffed",
+        "118a5e3f-445c-4c69-b87f-0dea51fc4840",
+        "0c7a7a32-fc3a-451b-b338-cc766d308e47",
+        "103cda1c-2021-4654-bdf3-83a60355832b",
+        "3f561f29-1281-408a-a27e-8fd6f8f9923a",
+        "290e2c18-0294-4fdf-9c17-bd0aec06040a",
+        "bd9bdbf2-f3b9-41ae-808c-606693254415",
+        "915f5ebf-1be2-456e-bcdc-8be0941c4b0f",
+        "06575656-90df-44d0-8519-4a7274d7dd40"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "most populous city in Georgia state",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "a4b91832-9be4-49a7-9d1b-e53003069e03",
+        "fe8a9a18-664b-459d-831d-5b3fd754d940",
+        "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+        "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+        "e047941d-253f-4655-9917-2b1f53153bd7",
+        "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+        "c89223e0-6bac-4c30-9173-84a25141c83c",
+        "97a663dd-faa7-4f65-a950-40fb119b0cab",
+        "2b03fedd-1434-4933-96c0-5a64312a3785",
+        "002dc8df-5a71-498a-823b-5b2e29f56272"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "In which county is Atlanta located?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "0817c216-cade-4f58-a5ca-3d2652280a64",
+        "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+        "a4b91832-9be4-49a7-9d1b-e53003069e03",
+        "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+        "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+        "e07bf224-d833-472f-832e-50e053a7c5b2",
+        "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+        "ff155593-cee7-4b44-8c8f-2f74505db024",
+        "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+        "e047941d-253f-4655-9917-2b1f53153bd7"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "What county is Atlanta, Georgia located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "0817c216-cade-4f58-a5ca-3d2652280a64",
+        "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+        "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+        "a4b91832-9be4-49a7-9d1b-e53003069e03",
+        "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+        "cef4b2f2-9919-40ac-9d46-7e5f95bdd683",
+        "e07bf224-d833-472f-832e-50e053a7c5b2",
+        "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+        "ff155593-cee7-4b44-8c8f-2f74505db024",
+        "e047941d-253f-4655-9917-2b1f53153bd7"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "cities located in Fulton County, Georgia",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+        "e07bf224-d833-472f-832e-50e053a7c5b2",
+        "ff155593-cee7-4b44-8c8f-2f74505db024",
+        "fe8a9a18-664b-459d-831d-5b3fd754d940",
+        "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+        "0817c216-cade-4f58-a5ca-3d2652280a64",
+        "a4b91832-9be4-49a7-9d1b-e53003069e03",
+        "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+        "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+        "cef4b2f2-9919-40ac-9d46-7e5f95bdd683"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "What county is Atlanta, Georgia located in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "0817c216-cade-4f58-a5ca-3d2652280a64",
+        "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+        "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+        "a4b91832-9be4-49a7-9d1b-e53003069e03",
+        "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+        "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+        "e07bf224-d833-472f-832e-50e053a7c5b2",
+        "ff155593-cee7-4b44-8c8f-2f74505db024",
+        "5276f83d-21ec-488e-bcce-616e140580aa",
+        "cef4b2f2-9919-40ac-9d46-7e5f95bdd683"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "Is Atlanta located in Fulton County, Georgia",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "0817c216-cade-4f58-a5ca-3d2652280a64",
+        "a9d99f92-2871-4423-bc6f-7c7af1773ace",
+        "94e2f884-5089-42a5-8eb7-a8388c9089c1",
+        "dfaaec75-0f4f-44db-b62d-35530bd484fd",
+        "a4b91832-9be4-49a7-9d1b-e53003069e03",
+        "cf2e702c-296b-4fb4-a391-7e007b1ed67a",
+        "e07bf224-d833-472f-832e-50e053a7c5b2",
+        "ff155593-cee7-4b44-8c8f-2f74505db024",
+        "fe8a9a18-664b-459d-831d-5b3fd754d940",
+        "5276f83d-21ec-488e-bcce-616e140580aa"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 3,
+      "hypothesis_target": "Q 需要确立以下事实: F1: In which state does WEKL operate?（理由：Q 是多跳问题，起点是确定 WEKL 电台的运营州），F2: What is the most populous city in that state?（理由：知道州后需找该州人口最多的城市），F3: In which county is that city located?（理由：确定城市后需找其所在县），F4: Which county shares a border with that county?（理由：Q 的最终询问——与上述县接壤的县）。关系: F1→F2（dependency——F2 中 'that state' 需 F1 answer 消解），F2→F3（dependency——F3 中 'that city' 需 F2 answer 消解），F3→F4（dependency——F4 中 'that county' 需 F3 answer 消解）。F1、F2、F3、F4 均为 Q 的分解产物（decomposition）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（WEKL 所在州），$2（该州最大城市），$3（该城市所在县），$4（与该县城接壤的县）。新增边: N0→$1/$2/$3/$4（decomposition，四者均为 Q 的分解子事实），$1→$2（dependency），$2→$3（dependency），$3→$4（dependency）。结构为线性依赖链：州→城市→县→邻县。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_3 critic_health=needs_verification（搜索未找到 Atlanta 所在县），N1_4 critic_health=blocked（依赖 N1_3 未满足）。条件②通过：依赖链 N1_1→N1_2→N1_3→N1_4 语义上有效（Georgia 消解 that state，Atlanta 消解 that city），但 N1_3→N1_4 环节因 "
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: In which state does WEKL operate?（理由：Q 是多跳问题，起点是确定 WEKL 电台的运营州），F2: What is the most populous city in that state?（理由：知道州后需找该州人口最多的城市），F3: What county or counties is Atlanta, Georgia located in?（理由：确定城市后需找其所在县，上一轮搜索未命中，换更精确的探测方式），F4: Which county shares a border with that county?（理由：Q 的最终询问——与上述县接壤的县）。关系: F1→F2（dependency——F2 中 'that state' 需 F1 answer 消解），F2→F3（dependency——F3 中 'that city' 已具体化为 'Atlanta, Georgia'，但仍依赖 F2 确认的城市身份），F3→F4（dependency——F4 中 'that county' 需 F3 answer ",
+      "hypothesis_delta": "换标: N1_3 question 从 \"In which county is that city located?\" 改为 \"What county or counties is Atlanta, Georgia located in?\"，原因：上一轮搜索 'In which county is Atlanta located?' 返回 10 个 chunk 但无一明确记载 Atlanta 所在县，Critic 指出检索结果存在明显缺口。新 question 直接嵌入实体名 \"Atlanta, Georgia\" 提高搜索精度，并用 \"county or counties\" 覆盖 Atlanta 可能跨县（Fulton + DeKalb）的复杂性。INHERIT: N0（根节点保留），N1_1（solved + healthy，Critic 建议 INHERIT），N1_2（solved + healthy，Critic 建议 INHERIT），N1_4（保留但当前 BLOCKED，待 N1_3 解决后解锁）。保留所有原有边：N0→N1_1/N1_2/N1_3/N1_4（decompo",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_3 和 N1_4 均为 blocked 状态，非 healthy。N1_3 搜索返回 10 个 chunk 但无一记载 Atlanta 所在县，N1_4 因 N1_3 答案为空被阻塞。条件②通过：推理链 N1_1→N1_2→N1_3→N1_4 的依赖边语义有效（Georgia 消解 that state，Atlanta 消解 that city），但 N1_3→N1_4 环节因"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: In which state does WEKL operate?（理由：Q 是多跳问题的起点，需先确定 WEKL 的运营州），F2: What is the most populous city in that state?（理由：知道州后需找该州人口最多的城市），F3: What cities are located in Fulton County, Georgia?（理由：前两轮正向搜索 Atlanta 所在县均失败，Critic 建议换反向策略——以县名为主体搜索，看 KB 是否记载 Fulton County 包含 Atlanta），F4: Which county shares a border with that county?（理由：Q 的最终询问——与 Atlanta 所在县接壤的县）。关系: F1→F2（dependency——F2 中 'that state' 需 F1 answer 'Georgia' 消解），F2→F3（dependency——F3 的搜索方向由 F2 确认的城市 Atlanta 推导而来，需确认 Atlant",
+      "hypothesis_delta": "换标: N1_3 question 从 \"What county or counties is Atlanta, Georgia located in?\" 改为 \"What cities are located in Fulton County, Georgia?\"，原因：前两轮以 Atlanta 为主体的正向搜索均失败（共 20 个 chunk 无一提及 Atlanta 所在县），Critic 明确指出需换反向搜索策略——以县名为主体查询。新 question 直接搜索 'Fulton County Georgia' 相关 chunk，期望 KB 记载 'Fulton County contains Atlanta' 或类似表述。这是搜索方向的根本转换（从城市→县 改为 县→城市），而非措辞微调，因此使用 INHERIT_AND_RELABEL 清空旧搜索数据。INHERIT: N0（根节点保留），N1_1（solved + healthy），N1_2（solved + healthy），N1_4（BLOCKED 但结构必要，待 N1_3 解决后解锁）。保留所有原有边：N0→N1_1",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": false,
+        "reason": "条件②未通过：N1_2→N1_3 依赖链语义断裂——N1_2 answer='Atlanta' 无法消解 N1_3 question 中硬编码的 'Fulton County'，该依赖边是 Planner 外部知识注入而非真正的语义依赖。条件③未通过：N1_3 critic_health=blocked（搜索返回 10 个 chunk 无一提及 Fulton County），N1_4 critic"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: In which state does WEKL operate?（理由：Q 是多跳问题的起点，需先确定 WEKL 的运营州），F2: What is the most populous city in that state?（理由：知道州后需找该州人口最多的城市），F3: In which county is Atlanta, Georgia located?（理由：知道 Atlanta 是 Georgia 最大城市后，需确定 Atlanta 所在的县——这是 Q 推理链的第三跳），F4: Which county shares a border with that county?（理由：Q 的最终询问——与 Atlanta 所在县接壤的县）。关系: F1→F2（dependency——F2 中 'that state' 需 F1 answer 'Georgia' 消解），F2→F3（dependency——F3 中 'Atlanta, Georgia' 的 'Atlanta' 需 F2 answer 消解，形成真正的指代依赖），F3→F4（depen",
+      "hypothesis_delta": "换标: N1_3 question 从 \"What cities are located in Fulton County, Georgia?\" 改为 \"In which county is Atlanta, Georgia located?\"，原因：Critic 明确指出原 N1_3 存在两个根本问题——(1) 硬编码了 'Fulton County' 这一外部知识假设，而非从 KB 推导；(2) N1_2→N1_3 的 dependency 边是虚假的，因为原 question 不包含需要 N1_2 answer 消解的指代词。新 question 真正依赖 N1_2 的 answer 'Atlanta' 来消解实体指代，形成合法的 dependency 关系。同时搜索策略从反向搜索（县→城市，已证实失败）改回正向搜索但使用更精确的查询 'Atlanta Georgia which county'，这是最后一次尝试——若 KB 确实无覆盖，需评估是否标记 Q 为不可解。INHERIT: N0（根节点保留），N1_1（solved + healthy），N1_2（solved + h",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": false,
+        "reason": "条件②未通过：推理链 N1_3→N1_4 语义断裂——N1_3 answer 为空，无法消解 N1_4 question 中 'that county' 的指代。条件③未通过：N1_3 为 blocked（KB 无覆盖），N1_4 为 blocked（依赖未满足），N0 为 needs_verification（推理链不完整）。条件①未满足：N1_3 和 N1_4 未 SOLVED。条件④未通过："
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: In which state does WEKL operate?（理由：Q 是多跳问题的起点，需先确定 WEKL 的运营州），F2: What is the most populous city in that state?（理由：知道州后需找该州人口最多的城市），F3: Does Fulton County, Georgia contain the city of Atlanta?（理由：正向搜索 Atlanta→county 已失败，Critic 建议尝试反向搜索——从 Fulton County 出发检查 KB 是否有该条目并提及包含 Atlanta，这是 KB 覆盖缺口下的最后探索），F4: Which county shares a border with that county?（理由：Q 的最终询问——与 Atlanta 所在县接壤的县）。关系: F1→F2（dependency——F2 中 'that state' 需 F1 answer 'Georgia' 消解），F2→F3（dependency——F3 中 'Atlanta' 需 ",
+      "hypothesis_delta": "换标: N1_3 question 从 \"In which county is Atlanta, Georgia located?\" 改为 \"Does Fulton County, Georgia contain the city of Atlanta?\"，原因：正向搜索已尝试且返回 10 个 chunk 无一命中 Atlanta 所在县信息。Critic 明确建议尝试最后一次反向搜索 'Fulton County Georgia' 以验证 KB 是否有 Fulton County 条目并提及包含 Atlanta。这是 KB 覆盖缺口下的最后探索方向——若 KB 有 Fulton County 条目且提及 Atlanta，则可间接确认 Atlanta 位于 Fulton County；若仍无结果，则需标记 Q 为 KB 不可达。INHERIT: N0（根节点保留），N1_1（solved + healthy），N1_2（solved + healthy），N1_4（BLOCKED 但结构必要，待 N1_3 解决后解锁）。保留所有原有边：N0→N1_1/N1_2/N1_3/N1_4（de",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": false,
+        "reason": "条件②未通过：N1_3→N1_4 依赖链语义断裂——N1_3 answer 为空，无法消解 N1_4 question 中的 'that county'，推理链在 N1_3 处中断。条件③未通过：N1_3 为 unreliable（KB 无覆盖），N1_4 为 blocked（依赖未满足），N0 为 needs_verification（推理链不完整）。条件①未满足：N1_3 和 N1_4 未 S"
+      }
+    }
+  ]
+}

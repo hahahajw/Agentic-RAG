@@ -1,0 +1,663 @@
+{
+  "question_index": 388,
+  "question_id": "65f3cbfd096711ebbdafac1f6bf848b6",
+  "question": "Are both On A Magical Night and The Mongols (Film) from the same country?",
+  "answer": "yes",
+  "prediction": "yes",
+  "error": null,
+  "latency_ms": 192278.7898000024,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T17:47:34.568454+00:00",
+  "chunks": [
+    {
+      "chunk_id": "51e74043-0644-4df6-b023-c072ed25e3f3",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, writers, directors, cast members, festival screenings, and awards.",
+      "context_title": "On a Magical Night",
+      "page_content": "On a Magical Night was written by Christophe Honoré. On a Magical Night was directed by Christophe Honoré. On a Magical Night is a 2019 French comedy film. On a Magical Night stars Chiara Mastroianni. On a Magical Night was screened in the Un Certain Regard section at the 2019 Cannes Film Festival. Chiara Mastroianni won the award for Best Performance at the 2019 Cannes Film Festival."
+    },
+    {
+      "chunk_id": "adde5e78-3da6-4c2a-b601-02343febe3c1",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1967 Italian musicarello-fantasy film \"Per amore... per magia...\", including its title, release year, country of origin, genre, and director.",
+      "context_title": "Per amore... per magia...",
+      "page_content": "Per amore... per magia... is an Italian film. Per amore... per magia... is a 1967 film. Per amore... per magia... is a musicarello-fantasy film. Per amore... per magia... was directed by Duccio Tessari."
+    },
+    {
+      "chunk_id": "05fe5602-4627-4f63-b3a4-2c201b8d4920",
+      "chunk_title": "Bollywood Horror Films",
+      "chunk_summary": "This chunk contains information about Hindi horror films from Bollywood.",
+      "context_title": "Dangerous Night (film)",
+      "page_content": "Dangerous Night is a Hindi Horror film of Bollywood."
+    },
+    {
+      "chunk_id": "4c98ba04-0009-45db-a2c0-7e693583e39f",
+      "chunk_title": "Production Details",
+      "chunk_summary": "This chunk contains information about the production details and international co-production status of various media projects.",
+      "context_title": "The Mongols (film)",
+      "page_content": "The Mongols is an Italian/French international co-production."
+    },
+    {
+      "chunk_id": "61152fec-8ff1-49c7-8a6f-d2a565fea419",
+      "chunk_title": "Filming Locations",
+      "chunk_summary": "This chunk contains information about the filming locations of movies.",
+      "context_title": "Meeting Venus",
+      "page_content": "The movie Meeting Venus was filmed in Budapest, Hungary."
+    },
+    {
+      "chunk_id": "e7572cae-d7b2-4921-a12d-8d218ddeab33",
+      "chunk_title": "Films & Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, countries of origin, literal translations, directors, and release dates.",
+      "context_title": "At Night All Cats Are Crazy",
+      "page_content": "The literal translation of At Night All Cats Are Crazy is \"At night all cats are grey\". The French film At Night All Cats Are Crazy was released in 1977. At Night All Cats Are Crazy is a French film. Gérard Zingg directed the French film At Night All Cats Are Crazy."
+    },
+    {
+      "chunk_id": "274fba72-4bd9-4a2b-8c86-316e4eb7fbf7",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, and countries of origin.",
+      "context_title": "Good Night, My Love",
+      "page_content": "Good Night, My Love is a 1961 Argentine film."
+    },
+    {
+      "chunk_id": "6bce75ce-0bb4-47a0-b61f-00cffef3f28d",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the film \"Alice of Wonderland in Paris,\" including its release year, country of origin, animation style, director, producer, and production techniques.",
+      "context_title": "Alice of Wonderland in Paris",
+      "page_content": "Alice of Wonderland in Paris is a 1966 film. Alice of Wonderland in Paris is an animated film. Alice of Wonderland in Paris was directed by Gene Deitch. Alice of Wonderland in Paris was produced by William L. Snyder. Alice of Wonderland in Paris is a Czech-American film. Alice of Wonderland in Paris was produced in extreme limited animation."
+    },
+    {
+      "chunk_id": "d35c1542-c4fe-4d40-8889-ee10034821ca",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, plot summaries, and production details such as filming locations.",
+      "context_title": "My Country (film)",
+      "page_content": "My Country is a 1986 Australian film. My Country is about the discovery of Australia. The film My Country was partly shot at Monash University."
+    },
+    {
+      "chunk_id": "92db0335-3bf0-4385-aa66-79ab58570272",
+      "chunk_title": "Hindi Horror Films",
+      "chunk_summary": "This chunk contains information about Hindi horror films from Bollywood.",
+      "context_title": "Dangerous Night (film)",
+      "page_content": "Dangerous Night is a Hindi Horror film of Bollywood."
+    },
+    {
+      "chunk_id": "5c389b18-f30d-4d1a-8873-35514540d7ac",
+      "chunk_title": "Films & Genres",
+      "chunk_summary": "This chunk contains information about films, including their titles, release years, and genres.",
+      "context_title": "The Mongols (film)",
+      "page_content": "The Mongols is a historical adventure film. The Mongols is a 1961 film."
+    },
+    {
+      "chunk_id": "4de141dc-51f3-4d96-805d-19f8262059bc",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films, specifically focusing on who directed \"The Mongols\".",
+      "context_title": "The Mongols (film)",
+      "page_content": "The Mongols was directed by Andre DeToth. The Mongols was directed by Leopoldo Savona."
+    },
+    {
+      "chunk_id": "8bfea886-900b-4a66-a8cd-84746ca9c2df",
+      "chunk_title": "Film Cast",
+      "chunk_summary": "This chunk contains information about the cast of films, specifically noting that Jack Palance and Anita Ekberg starred in The Mongols.",
+      "context_title": "The Mongols (film)",
+      "page_content": "The Mongols starred Anita Ekberg. The Mongols starred Jack Palance."
+    },
+    {
+      "chunk_id": "4a28501f-0896-45d0-bc10-fde6c872f112",
+      "chunk_title": "Cultural Beliefs",
+      "chunk_summary": "This chunk contains information about cultural beliefs regarding lucky numbers.",
+      "context_title": "Yesugei",
+      "page_content": "The number nine was a lucky number to the Mongols."
+    },
+    {
+      "chunk_id": "f9063fe4-cb5c-4315-8d8f-b2be4bea76a5",
+      "chunk_title": "Mongol Rulers & Lineages",
+      "chunk_summary": "This chunk contains information about historical Mongol rulers, their identities, lineages, titles, and significant political events such as regicide and the subsequent disintegration of the Mongol state.",
+      "context_title": "Jorightu Khan Yesüder",
+      "page_content": "Yesüder was a descendant of Ariq Böke. Jorightu Khan lived from 1358 to 1392. Gunashiri founded his own small state Qara Del in Hami. Yesüder murdered Uskhal Khan. Shirmen killed Necelai. Ajashir threw his allegiance to Yesüder some time after 1389. There are questions about the identity of Jorightu Khan. Some scholars believe that Jorightu Khan was Yesüder. Ajashir was one of the leaders of the Three Guards. Shirmen allied with Yesüder. The Mongol guard of Tyuanin is also known as Three Guards. The Mongols quickly disintegrated after the murder of Uskhal Khan by Yesüder. Shirmen was the late khan's chingsang. Necelai submitted to Ming China in 1389. Jorightu Khan most likely died in the battle in 1392. The Mongolian name for Jorightu Khan is Зоригт хаан. Jorightu Khan was based in Mongolia. Jorightu Khan was a Mongol Khagan of the Northern Yuan dynasty. Some scholars believe that Engke Khan was Yesüder's son. Ajashir was the former prince of Liaodang. Gunashiri was a descendant of Chagatai Khan. Engke Khan succeeded Yesüder. The title or name \"Jorightu Khagan\" means \"Brave King\" in the Mongolian language. Other scholars believe that Jorightu Khan and Yesüder were the same person with different titles. The Ming established a Mongol guard of Tyuanin under Necelai in Daiying. Necelai was Uskhal Khan's former minister."
+    },
+    {
+      "chunk_id": "6e7ac1d2-81d2-4589-97db-91faed345ef8",
+      "chunk_title": "Film Production Origins",
+      "chunk_summary": "This chunk contains information about the production origins of films.",
+      "context_title": "Paul W. S. Anderson",
+      "page_content": "The film \"Mortal Kombat\" was Hollywood-produced."
+    },
+    {
+      "chunk_id": "657c083a-da59-4a8c-8fcb-ec821f6c4792",
+      "chunk_title": "Toghon Temür's Reign and Titles",
+      "chunk_summary": "This chunk contains information about the reign, titles, and downfall of Toghon Temür, specifically his role as the last nominal Khagan of the Mongol Empire and Emperor of the Yuan dynasty until its overthrow by the Red Turban Rebellion.",
+      "context_title": "Toghon Temür",
+      "page_content": "Toghon Temür was the first ruler of the Northern Yuan dynasty. The Mongols remained in control of Mongolia after the overthrow of the Yuan dynasty. During the last years of Toghon Temür's reign, the Yuan dynasty was overthrown by the Red Turban Rebellion. Toghon Temür ruled as emperor of the Yuan dynasty. The status of Toghon Temür as Khagan of the Mongol Empire was only nominal. The status of Toghon Temür as Khagan of the Mongol Empire was only nominal due to the division of the empire at the start of the Yuan dynasty. Toghon Temür is considered the last Khagan of the Mongol Empire apart from being Emperor of China. Toghon Temür was the final monarch of the Yuan dynasty."
+    },
+    {
+      "chunk_id": "81802b7e-fbf1-407a-ba4b-e5c47faccd27",
+      "chunk_title": "Elusive Avengers Film Series",
+      "chunk_summary": "This chunk contains information about the 1968 Soviet action film \"The New Adventures of the Elusive Avengers,\" including its sequel status, director, production studio, and subsequent film in the series.",
+      "context_title": "The New Adventures of the Elusive Avengers",
+      "page_content": "The New Adventures of the Elusive Avengers was followed by The Crown of the Russian Empire, or Once Again the Elusive Avengers. The New Adventures of the Elusive Avengers was directed by Edmond Keosayan. The Crown of the Russian Empire, or Once Again the Elusive Avengers was released in 1971. The New Adventures of the Elusive Avengers is a sequel of The Elusive Avengers. The New Adventures of the Elusive Avengers was made on Mosfilm. The New Adventures of the Elusive Avengers is a 1968 Soviet action movie."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2777777777777778,
+  "retrieval_count": 2,
+  "total_chunks": 18,
+  "total_distinct_titles": 14,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "Are both On A Magical Night and The Mongols (Film) from the same country?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both On A Magical Night and The Mongols (Film) from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问两部电影是否来自同一国家",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 答案=France（单来源直接支撑），N1_2 答案=Italy/France（单来源直接支撑）。两部电影共享 France 作为出品国之一，推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，推理链完整，可直接用于生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is the film 'On A Magical Night' from?",
+          "answer": "France",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is the film 'On A Magical Night' from?",
+          "planner_rationale": "Q 询问两部电影是否来自同一国家，需先确定 'On A Magical Night' 的出品国家",
+          "solver_judgment": "question 要求确认电影 'On A Magical Night' 的出品国家。search_query 直接搜索了该问题。chunks 返回了多个电影信息，其中 chunk 51e74043-0644-4df6-b023-c072ed25e3f3 明确记载 'On a Magical Night is a 2019 French comedy film'，直接提供了答案（France）。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 On a Magical Night），直接具体。支撑 chunk 51e74043 全文记载 'On a Magical Night is a 2019 French comedy film'，明确陈述出品国为 French（France）。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "51e74043-0644-4df6-b023-c072ed25e3f3"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51e74043-0644-4df6-b023-c072ed25e3f3",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, writers, directors, cast members, festival screenings, and awards.",
+              "context_title": "On a Magical Night",
+              "page_content": "On a Magical Night was written by Christophe Honoré. On a Magical Night was directed by Christophe Honoré. On a Magical Night is a 2019 French comedy film. On a Magical Night stars Chiara Mastroianni. On a Magical Night was screened in the Un Certain Regard section at the 2019 Cannes Film Festival. Chiara Mastroianni won the award for Best Performance at the 2019 Cannes Film Festival."
+            },
+            {
+              "chunk_id": "adde5e78-3da6-4c2a-b601-02343febe3c1",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1967 Italian musicarello-fantasy film \"Per amore... per magia...\", including its title, release year, country of origin, genre, and director.",
+              "context_title": "Per amore... per magia...",
+              "page_content": "Per amore... per magia... is an Italian film. Per amore... per magia... is a 1967 film. Per amore... per magia... is a musicarello-fantasy film. Per amore... per magia... was directed by Duccio Tessari."
+            },
+            {
+              "chunk_id": "05fe5602-4627-4f63-b3a4-2c201b8d4920",
+              "chunk_title": "Bollywood Horror Films",
+              "chunk_summary": "This chunk contains information about Hindi horror films from Bollywood.",
+              "context_title": "Dangerous Night (film)",
+              "page_content": "Dangerous Night is a Hindi Horror film of Bollywood."
+            },
+            {
+              "chunk_id": "4c98ba04-0009-45db-a2c0-7e693583e39f",
+              "chunk_title": "Production Details",
+              "chunk_summary": "This chunk contains information about the production details and international co-production status of various media projects.",
+              "context_title": "The Mongols (film)",
+              "page_content": "The Mongols is an Italian/French international co-production."
+            },
+            {
+              "chunk_id": "61152fec-8ff1-49c7-8a6f-d2a565fea419",
+              "chunk_title": "Filming Locations",
+              "chunk_summary": "This chunk contains information about the filming locations of movies.",
+              "context_title": "Meeting Venus",
+              "page_content": "The movie Meeting Venus was filmed in Budapest, Hungary."
+            },
+            {
+              "chunk_id": "e7572cae-d7b2-4921-a12d-8d218ddeab33",
+              "chunk_title": "Films & Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, countries of origin, literal translations, directors, and release dates.",
+              "context_title": "At Night All Cats Are Crazy",
+              "page_content": "The literal translation of At Night All Cats Are Crazy is \"At night all cats are grey\". The French film At Night All Cats Are Crazy was released in 1977. At Night All Cats Are Crazy is a French film. Gérard Zingg directed the French film At Night All Cats Are Crazy."
+            },
+            {
+              "chunk_id": "274fba72-4bd9-4a2b-8c86-316e4eb7fbf7",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, and countries of origin.",
+              "context_title": "Good Night, My Love",
+              "page_content": "Good Night, My Love is a 1961 Argentine film."
+            },
+            {
+              "chunk_id": "6bce75ce-0bb4-47a0-b61f-00cffef3f28d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the film \"Alice of Wonderland in Paris,\" including its release year, country of origin, animation style, director, producer, and production techniques.",
+              "context_title": "Alice of Wonderland in Paris",
+              "page_content": "Alice of Wonderland in Paris is a 1966 film. Alice of Wonderland in Paris is an animated film. Alice of Wonderland in Paris was directed by Gene Deitch. Alice of Wonderland in Paris was produced by William L. Snyder. Alice of Wonderland in Paris is a Czech-American film. Alice of Wonderland in Paris was produced in extreme limited animation."
+            },
+            {
+              "chunk_id": "d35c1542-c4fe-4d40-8889-ee10034821ca",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, plot summaries, and production details such as filming locations.",
+              "context_title": "My Country (film)",
+              "page_content": "My Country is a 1986 Australian film. My Country is about the discovery of Australia. The film My Country was partly shot at Monash University."
+            },
+            {
+              "chunk_id": "92db0335-3bf0-4385-aa66-79ab58570272",
+              "chunk_title": "Hindi Horror Films",
+              "chunk_summary": "This chunk contains information about Hindi horror films from Bollywood.",
+              "context_title": "Dangerous Night (film)",
+              "page_content": "Dangerous Night is a Hindi Horror film of Bollywood."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is the film 'The Mongols (Film)' from?",
+          "answer": "Italy/France",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is the film 'The Mongols (Film)' from?",
+          "planner_rationale": "Q 询问两部电影是否来自同一国家，需先确定 'The Mongols (Film)' 的出品国家",
+          "solver_judgment": "Question asks for the country of origin of the film 'The Mongols'. The search query matches the question. Chunk 4c98ba04-0009-45db-a2c0-7e693583e39f explicitly states that 'The Mongols is an Italian/French international co-production.' This directly answers the question. The retrieval is accurate and sufficient.",
+          "critic_factual_notes": "1 个来源（文档 The Mongols (film)），直接具体。支撑 chunk 4c98ba04 全文记载 'The Mongols is an Italian/French international co-production'，明确陈述为意大利/法国合拍片。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "4c98ba04-0009-45db-a2c0-7e693583e39f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "4c98ba04-0009-45db-a2c0-7e693583e39f",
+              "chunk_title": "Production Details",
+              "chunk_summary": "This chunk contains information about the production details and international co-production status of various media projects.",
+              "context_title": "The Mongols (film)",
+              "page_content": "The Mongols is an Italian/French international co-production."
+            },
+            {
+              "chunk_id": "5c389b18-f30d-4d1a-8873-35514540d7ac",
+              "chunk_title": "Films & Genres",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, and genres.",
+              "context_title": "The Mongols (film)",
+              "page_content": "The Mongols is a historical adventure film. The Mongols is a 1961 film."
+            },
+            {
+              "chunk_id": "4de141dc-51f3-4d96-805d-19f8262059bc",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films, specifically focusing on who directed \"The Mongols\".",
+              "context_title": "The Mongols (film)",
+              "page_content": "The Mongols was directed by Andre DeToth. The Mongols was directed by Leopoldo Savona."
+            },
+            {
+              "chunk_id": "8bfea886-900b-4a66-a8cd-84746ca9c2df",
+              "chunk_title": "Film Cast",
+              "chunk_summary": "This chunk contains information about the cast of films, specifically noting that Jack Palance and Anita Ekberg starred in The Mongols.",
+              "context_title": "The Mongols (film)",
+              "page_content": "The Mongols starred Anita Ekberg. The Mongols starred Jack Palance."
+            },
+            {
+              "chunk_id": "4a28501f-0896-45d0-bc10-fde6c872f112",
+              "chunk_title": "Cultural Beliefs",
+              "chunk_summary": "This chunk contains information about cultural beliefs regarding lucky numbers.",
+              "context_title": "Yesugei",
+              "page_content": "The number nine was a lucky number to the Mongols."
+            },
+            {
+              "chunk_id": "f9063fe4-cb5c-4315-8d8f-b2be4bea76a5",
+              "chunk_title": "Mongol Rulers & Lineages",
+              "chunk_summary": "This chunk contains information about historical Mongol rulers, their identities, lineages, titles, and significant political events such as regicide and the subsequent disintegration of the Mongol state.",
+              "context_title": "Jorightu Khan Yesüder",
+              "page_content": "Yesüder was a descendant of Ariq Böke. Jorightu Khan lived from 1358 to 1392. Gunashiri founded his own small state Qara Del in Hami. Yesüder murdered Uskhal Khan. Shirmen killed Necelai. Ajashir threw his allegiance to Yesüder some time after 1389. There are questions about the identity of Jorightu Khan. Some scholars believe that Jorightu Khan was Yesüder. Ajashir was one of the leaders of the Three Guards. Shirmen allied with Yesüder. The Mongol guard of Tyuanin is also known as Three Guards. The Mongols quickly disintegrated after the murder of Uskhal Khan by Yesüder. Shirmen was the late khan's chingsang. Necelai submitted to Ming China in 1389. Jorightu Khan most likely died in the battle in 1392. The Mongolian name for Jorightu Khan is Зоригт хаан. Jorightu Khan was based in Mongolia. Jorightu Khan was a Mongol Khagan of the Northern Yuan dynasty. Some scholars believe that Engke Khan was Yesüder's son. Ajashir was the former prince of Liaodang. Gunashiri was a descendant of Chagatai Khan. Engke Khan succeeded Yesüder. The title or name \"Jorightu Khagan\" means \"Brave King\" in the Mongolian language. Other scholars believe that Jorightu Khan and Yesüder were the same person with different titles. The Ming established a Mongol guard of Tyuanin under Necelai in Daiying. Necelai was Uskhal Khan's former minister."
+            },
+            {
+              "chunk_id": "6e7ac1d2-81d2-4589-97db-91faed345ef8",
+              "chunk_title": "Film Production Origins",
+              "chunk_summary": "This chunk contains information about the production origins of films.",
+              "context_title": "Paul W. S. Anderson",
+              "page_content": "The film \"Mortal Kombat\" was Hollywood-produced."
+            },
+            {
+              "chunk_id": "657c083a-da59-4a8c-8fcb-ec821f6c4792",
+              "chunk_title": "Toghon Temür's Reign and Titles",
+              "chunk_summary": "This chunk contains information about the reign, titles, and downfall of Toghon Temür, specifically his role as the last nominal Khagan of the Mongol Empire and Emperor of the Yuan dynasty until its overthrow by the Red Turban Rebellion.",
+              "context_title": "Toghon Temür",
+              "page_content": "Toghon Temür was the first ruler of the Northern Yuan dynasty. The Mongols remained in control of Mongolia after the overthrow of the Yuan dynasty. During the last years of Toghon Temür's reign, the Yuan dynasty was overthrown by the Red Turban Rebellion. Toghon Temür ruled as emperor of the Yuan dynasty. The status of Toghon Temür as Khagan of the Mongol Empire was only nominal. The status of Toghon Temür as Khagan of the Mongol Empire was only nominal due to the division of the empire at the start of the Yuan dynasty. Toghon Temür is considered the last Khagan of the Mongol Empire apart from being Emperor of China. Toghon Temür was the final monarch of the Yuan dynasty."
+            },
+            {
+              "chunk_id": "d35c1542-c4fe-4d40-8889-ee10034821ca",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, plot summaries, and production details such as filming locations.",
+              "context_title": "My Country (film)",
+              "page_content": "My Country is a 1986 Australian film. My Country is about the discovery of Australia. The film My Country was partly shot at Monash University."
+            },
+            {
+              "chunk_id": "81802b7e-fbf1-407a-ba4b-e5c47faccd27",
+              "chunk_title": "Elusive Avengers Film Series",
+              "chunk_summary": "This chunk contains information about the 1968 Soviet action film \"The New Adventures of the Elusive Avengers,\" including its sequel status, director, production studio, and subsequent film in the series.",
+              "context_title": "The New Adventures of the Elusive Avengers",
+              "page_content": "The New Adventures of the Elusive Avengers was followed by The Crown of the Russian Empire, or Once Again the Elusive Avengers. The New Adventures of the Elusive Avengers was directed by Edmond Keosayan. The Crown of the Russian Empire, or Once Again the Elusive Avengers was released in 1971. The New Adventures of the Elusive Avengers is a sequel of The Elusive Avengers. The New Adventures of the Elusive Avengers was made on Mosfilm. The New Adventures of the Elusive Avengers is a 1968 Soviet action movie."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Are both On A Magical Night and The Mongols (Film) from the same country?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Are both On A Magical Night and The Mongols (Film) from the same country?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1（France）和 N1_2（Italy/France）均已 SOLVED + healthy，两部电影共享 France 作为出品国，推理链完整，可直接聚合生成最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合得出。子节点 N1_1 答案=France（单来源 chunk 51e74043 直接陈述 '2019 French comedy film'），N1_2 答案=Italy/France（单来源 chunk 4c98ba04 直接陈述 'Italian/French international co-production'）。两部电影共享 France 作为出品国之一，推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，推理链完整，可直接用于生成最终答案（Yes，两部电影共享 France）。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What country is the film 'On A Magical Night' from?",
+          "answer": "France",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is the film 'On A Magical Night' from?",
+          "planner_rationale": "Q 是比较型问题，需确定 'On A Magical Night' 的出品国家。已 SOLVED + healthy，证据充分（chunk 51e74043 明确记载 '2019 French comedy film'），本轮直接保留",
+          "solver_judgment": "question 要求确认电影 'On A Magical Night' 的出品国家。search_query 直接搜索了该问题。chunks 返回了多个电影信息，其中 chunk 51e74043-0644-4df6-b023-c072ed25e3f3 明确记载 'On a Magical Night is a 2019 French comedy film'，直接提供了答案（France）。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 On a Magical Night），直接具体。支撑 chunk 51e74043 全文记载 'On a Magical Night is a 2019 French comedy film'，明确陈述出品国为 French（France）。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "51e74043-0644-4df6-b023-c072ed25e3f3"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51e74043-0644-4df6-b023-c072ed25e3f3",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, genres, countries of origin, writers, directors, cast members, festival screenings, and awards.",
+              "context_title": "On a Magical Night",
+              "page_content": "On a Magical Night was written by Christophe Honoré. On a Magical Night was directed by Christophe Honoré. On a Magical Night is a 2019 French comedy film. On a Magical Night stars Chiara Mastroianni. On a Magical Night was screened in the Un Certain Regard section at the 2019 Cannes Film Festival. Chiara Mastroianni won the award for Best Performance at the 2019 Cannes Film Festival."
+            },
+            {
+              "chunk_id": "adde5e78-3da6-4c2a-b601-02343febe3c1",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the 1967 Italian musicarello-fantasy film \"Per amore... per magia...\", including its title, release year, country of origin, genre, and director.",
+              "context_title": "Per amore... per magia...",
+              "page_content": "Per amore... per magia... is an Italian film. Per amore... per magia... is a 1967 film. Per amore... per magia... is a musicarello-fantasy film. Per amore... per magia... was directed by Duccio Tessari."
+            },
+            {
+              "chunk_id": "05fe5602-4627-4f63-b3a4-2c201b8d4920",
+              "chunk_title": "Bollywood Horror Films",
+              "chunk_summary": "This chunk contains information about Hindi horror films from Bollywood.",
+              "context_title": "Dangerous Night (film)",
+              "page_content": "Dangerous Night is a Hindi Horror film of Bollywood."
+            },
+            {
+              "chunk_id": "4c98ba04-0009-45db-a2c0-7e693583e39f",
+              "chunk_title": "Production Details",
+              "chunk_summary": "This chunk contains information about the production details and international co-production status of various media projects.",
+              "context_title": "The Mongols (film)",
+              "page_content": "The Mongols is an Italian/French international co-production."
+            },
+            {
+              "chunk_id": "61152fec-8ff1-49c7-8a6f-d2a565fea419",
+              "chunk_title": "Filming Locations",
+              "chunk_summary": "This chunk contains information about the filming locations of movies.",
+              "context_title": "Meeting Venus",
+              "page_content": "The movie Meeting Venus was filmed in Budapest, Hungary."
+            },
+            {
+              "chunk_id": "e7572cae-d7b2-4921-a12d-8d218ddeab33",
+              "chunk_title": "Films & Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, countries of origin, literal translations, directors, and release dates.",
+              "context_title": "At Night All Cats Are Crazy",
+              "page_content": "The literal translation of At Night All Cats Are Crazy is \"At night all cats are grey\". The French film At Night All Cats Are Crazy was released in 1977. At Night All Cats Are Crazy is a French film. Gérard Zingg directed the French film At Night All Cats Are Crazy."
+            },
+            {
+              "chunk_id": "274fba72-4bd9-4a2b-8c86-316e4eb7fbf7",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, and countries of origin.",
+              "context_title": "Good Night, My Love",
+              "page_content": "Good Night, My Love is a 1961 Argentine film."
+            },
+            {
+              "chunk_id": "6bce75ce-0bb4-47a0-b61f-00cffef3f28d",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about the film \"Alice of Wonderland in Paris,\" including its release year, country of origin, animation style, director, producer, and production techniques.",
+              "context_title": "Alice of Wonderland in Paris",
+              "page_content": "Alice of Wonderland in Paris is a 1966 film. Alice of Wonderland in Paris is an animated film. Alice of Wonderland in Paris was directed by Gene Deitch. Alice of Wonderland in Paris was produced by William L. Snyder. Alice of Wonderland in Paris is a Czech-American film. Alice of Wonderland in Paris was produced in extreme limited animation."
+            },
+            {
+              "chunk_id": "d35c1542-c4fe-4d40-8889-ee10034821ca",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, plot summaries, and production details such as filming locations.",
+              "context_title": "My Country (film)",
+              "page_content": "My Country is a 1986 Australian film. My Country is about the discovery of Australia. The film My Country was partly shot at Monash University."
+            },
+            {
+              "chunk_id": "92db0335-3bf0-4385-aa66-79ab58570272",
+              "chunk_title": "Hindi Horror Films",
+              "chunk_summary": "This chunk contains information about Hindi horror films from Bollywood.",
+              "context_title": "Dangerous Night (film)",
+              "page_content": "Dangerous Night is a Hindi Horror film of Bollywood."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What country is the film 'The Mongols (Film)' from?",
+          "answer": "Italy/France",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What country is the film 'The Mongols (Film)' from?",
+          "planner_rationale": "Q 是比较型问题，需确定 'The Mongols (Film)' 的出品国家。已 SOLVED + healthy，证据充分（chunk 4c98ba04 明确记载 'Italian/French international co-production'），本轮直接保留",
+          "solver_judgment": "Question asks for the country of origin of the film 'The Mongols'. The search query matches the question. Chunk 4c98ba04-0009-45db-a2c0-7e693583e39f explicitly states that 'The Mongols is an Italian/French international co-production.' This directly answers the question. The retrieval is accurate and sufficient.",
+          "critic_factual_notes": "1 个来源（文档 The Mongols (film)），直接具体。支撑 chunk 4c98ba04 全文记载 'The Mongols is an Italian/French international co-production'，明确陈述为意大利/法国合拍片。交叉验证：不充分（仅 1 个来源），但来源直接且无歧义。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "4c98ba04-0009-45db-a2c0-7e693583e39f"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "4c98ba04-0009-45db-a2c0-7e693583e39f",
+              "chunk_title": "Production Details",
+              "chunk_summary": "This chunk contains information about the production details and international co-production status of various media projects.",
+              "context_title": "The Mongols (film)",
+              "page_content": "The Mongols is an Italian/French international co-production."
+            },
+            {
+              "chunk_id": "5c389b18-f30d-4d1a-8873-35514540d7ac",
+              "chunk_title": "Films & Genres",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, and genres.",
+              "context_title": "The Mongols (film)",
+              "page_content": "The Mongols is a historical adventure film. The Mongols is a 1961 film."
+            },
+            {
+              "chunk_id": "4de141dc-51f3-4d96-805d-19f8262059bc",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films, specifically focusing on who directed \"The Mongols\".",
+              "context_title": "The Mongols (film)",
+              "page_content": "The Mongols was directed by Andre DeToth. The Mongols was directed by Leopoldo Savona."
+            },
+            {
+              "chunk_id": "8bfea886-900b-4a66-a8cd-84746ca9c2df",
+              "chunk_title": "Film Cast",
+              "chunk_summary": "This chunk contains information about the cast of films, specifically noting that Jack Palance and Anita Ekberg starred in The Mongols.",
+              "context_title": "The Mongols (film)",
+              "page_content": "The Mongols starred Anita Ekberg. The Mongols starred Jack Palance."
+            },
+            {
+              "chunk_id": "4a28501f-0896-45d0-bc10-fde6c872f112",
+              "chunk_title": "Cultural Beliefs",
+              "chunk_summary": "This chunk contains information about cultural beliefs regarding lucky numbers.",
+              "context_title": "Yesugei",
+              "page_content": "The number nine was a lucky number to the Mongols."
+            },
+            {
+              "chunk_id": "f9063fe4-cb5c-4315-8d8f-b2be4bea76a5",
+              "chunk_title": "Mongol Rulers & Lineages",
+              "chunk_summary": "This chunk contains information about historical Mongol rulers, their identities, lineages, titles, and significant political events such as regicide and the subsequent disintegration of the Mongol state.",
+              "context_title": "Jorightu Khan Yesüder",
+              "page_content": "Yesüder was a descendant of Ariq Böke. Jorightu Khan lived from 1358 to 1392. Gunashiri founded his own small state Qara Del in Hami. Yesüder murdered Uskhal Khan. Shirmen killed Necelai. Ajashir threw his allegiance to Yesüder some time after 1389. There are questions about the identity of Jorightu Khan. Some scholars believe that Jorightu Khan was Yesüder. Ajashir was one of the leaders of the Three Guards. Shirmen allied with Yesüder. The Mongol guard of Tyuanin is also known as Three Guards. The Mongols quickly disintegrated after the murder of Uskhal Khan by Yesüder. Shirmen was the late khan's chingsang. Necelai submitted to Ming China in 1389. Jorightu Khan most likely died in the battle in 1392. The Mongolian name for Jorightu Khan is Зоригт хаан. Jorightu Khan was based in Mongolia. Jorightu Khan was a Mongol Khagan of the Northern Yuan dynasty. Some scholars believe that Engke Khan was Yesüder's son. Ajashir was the former prince of Liaodang. Gunashiri was a descendant of Chagatai Khan. Engke Khan succeeded Yesüder. The title or name \"Jorightu Khagan\" means \"Brave King\" in the Mongolian language. Other scholars believe that Jorightu Khan and Yesüder were the same person with different titles. The Ming established a Mongol guard of Tyuanin under Necelai in Daiying. Necelai was Uskhal Khan's former minister."
+            },
+            {
+              "chunk_id": "6e7ac1d2-81d2-4589-97db-91faed345ef8",
+              "chunk_title": "Film Production Origins",
+              "chunk_summary": "This chunk contains information about the production origins of films.",
+              "context_title": "Paul W. S. Anderson",
+              "page_content": "The film \"Mortal Kombat\" was Hollywood-produced."
+            },
+            {
+              "chunk_id": "657c083a-da59-4a8c-8fcb-ec821f6c4792",
+              "chunk_title": "Toghon Temür's Reign and Titles",
+              "chunk_summary": "This chunk contains information about the reign, titles, and downfall of Toghon Temür, specifically his role as the last nominal Khagan of the Mongol Empire and Emperor of the Yuan dynasty until its overthrow by the Red Turban Rebellion.",
+              "context_title": "Toghon Temür",
+              "page_content": "Toghon Temür was the first ruler of the Northern Yuan dynasty. The Mongols remained in control of Mongolia after the overthrow of the Yuan dynasty. During the last years of Toghon Temür's reign, the Yuan dynasty was overthrown by the Red Turban Rebellion. Toghon Temür ruled as emperor of the Yuan dynasty. The status of Toghon Temür as Khagan of the Mongol Empire was only nominal. The status of Toghon Temür as Khagan of the Mongol Empire was only nominal due to the division of the empire at the start of the Yuan dynasty. Toghon Temür is considered the last Khagan of the Mongol Empire apart from being Emperor of China. Toghon Temür was the final monarch of the Yuan dynasty."
+            },
+            {
+              "chunk_id": "d35c1542-c4fe-4d40-8889-ee10034821ca",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their titles, release years, countries of origin, plot summaries, and production details such as filming locations.",
+              "context_title": "My Country (film)",
+              "page_content": "My Country is a 1986 Australian film. My Country is about the discovery of Australia. The film My Country was partly shot at Monash University."
+            },
+            {
+              "chunk_id": "81802b7e-fbf1-407a-ba4b-e5c47faccd27",
+              "chunk_title": "Elusive Avengers Film Series",
+              "chunk_summary": "This chunk contains information about the 1968 Soviet action film \"The New Adventures of the Elusive Avengers,\" including its sequel status, director, production studio, and subsequent film in the series.",
+              "context_title": "The New Adventures of the Elusive Avengers",
+              "page_content": "The New Adventures of the Elusive Avengers was followed by The Crown of the Russian Empire, or Once Again the Elusive Avengers. The New Adventures of the Elusive Avengers was directed by Edmond Keosayan. The Crown of the Russian Empire, or Once Again the Elusive Avengers was released in 1971. The New Adventures of the Elusive Avengers is a sequel of The Elusive Avengers. The New Adventures of the Elusive Avengers was made on Mosfilm. The New Adventures of the Elusive Avengers is a 1968 Soviet action movie."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What country is the film 'On A Magical Night' from?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "51e74043-0644-4df6-b023-c072ed25e3f3",
+        "adde5e78-3da6-4c2a-b601-02343febe3c1",
+        "05fe5602-4627-4f63-b3a4-2c201b8d4920",
+        "4c98ba04-0009-45db-a2c0-7e693583e39f",
+        "61152fec-8ff1-49c7-8a6f-d2a565fea419",
+        "e7572cae-d7b2-4921-a12d-8d218ddeab33",
+        "274fba72-4bd9-4a2b-8c86-316e4eb7fbf7",
+        "6bce75ce-0bb4-47a0-b61f-00cffef3f28d",
+        "d35c1542-c4fe-4d40-8889-ee10034821ca",
+        "92db0335-3bf0-4385-aa66-79ab58570272"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What country is the film 'The Mongols (Film)' from?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "4c98ba04-0009-45db-a2c0-7e693583e39f",
+        "5c389b18-f30d-4d1a-8873-35514540d7ac",
+        "4de141dc-51f3-4d96-805d-19f8262059bc",
+        "8bfea886-900b-4a66-a8cd-84746ca9c2df",
+        "4a28501f-0896-45d0-bc10-fde6c872f112",
+        "f9063fe4-cb5c-4315-8d8f-b2be4bea76a5",
+        "6e7ac1d2-81d2-4589-97db-91faed345ef8",
+        "657c083a-da59-4a8c-8fcb-ec821f6c4792",
+        "d35c1542-c4fe-4d40-8889-ee10034821ca",
+        "81802b7e-fbf1-407a-ba4b-e5c47faccd27"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is 'On A Magical Night' from?（理由：Q 是比较型问题，需先获取第一部电影的国家信息），F2: What country is 'The Mongols (Film)' from?（理由：需获取第二部电影的国家信息以进行比较）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者答案汇总后即可判断是否来自同一国家，从而回答 Q 的是/否问题。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：Q 是典型的二元比较问题（'Are both X and Y from the same country?'），分解为两个独立的国家查询子事实，无依赖关系（两部电影的国家信息可并行搜索），最终由根节点聚合比较。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED（N1_1、N1_2 均为 solved）；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为 decomposition 边，子节点 question 自包含（不依赖 N0 answer），答案聚合后可支撑 N0 的比较推理；③全部节点 healthy（N0、N1_1、N1_2 均为 healthy）；④首轮不适用但无结构问题。推理链完整，所"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What country is 'On A Magical Night' from?（理由：Q 是比较型问题，需先获取第一部电影的国家信息），F2: What country is 'The Mongols (Film)' from?（理由：需获取第二部电影的国家信息以进行比较）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者答案汇总后即可判断是否来自同一国家。当前状态：F1=France（solved, healthy），F2=Italy/France（solved, healthy），两部电影共享 France 作为出品国，推理链完整，可直接回答 Q。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 INHERIT 保留，所有边 INHERIT 保留。原因：Critic 确认当前 DAG 结构简洁正确，N1_1 和 N1_2 均已 SOLVED + healthy，证据充分（各有一个直接支撑 chunk），无冗余无缺口。上一轮假设完全被验证：二元比较问题分解为两个独立国家查询的策略成功，两子节点均已求解，根节点可聚合生成最终答案（Yes——两部电影共享 France）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义匹配——N0→N1_1 和 N0→N1_2 均为有效 decomposition，子节点 question 自包含无需上游消解，答案聚合后可直接回答 Q（两部电影共享 France，答案为 Yes）；③全部节点 healthy（N0/N1_1/N1_2 均为 healthy）；④拓扑连续两轮不变。推理链完整，所有节"
+      }
+    }
+  ]
+}

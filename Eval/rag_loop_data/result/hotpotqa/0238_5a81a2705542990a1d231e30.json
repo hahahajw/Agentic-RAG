@@ -1,0 +1,2384 @@
+{
+  "question_index": 238,
+  "question_id": "5a81a2705542990a1d231e30",
+  "question": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+  "answer": "Hannaford",
+  "prediction": "CANNOT_ANSWER",
+  "error": null,
+  "latency_ms": 1273686.735200001,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T12:22:37.466928+00:00",
+  "chunks": [
+    {
+      "chunk_id": "51ad445b-00a6-4438-8c60-226cf4f5f860",
+      "chunk_title": "Wynantskill Overview",
+      "chunk_summary": "This chunk contains information about the geographical classification, location, population statistics, and transportation infrastructure of Wynantskill, New York.",
+      "context_title": "Wynantskill, New York",
+      "page_content": "Almost all houses in Wynantskill are located on side streets off Main Ave. Whiteview Road is a major road in Wynantskill. NY Route 66 is known as Pawling Ave. in Troy. Wynantskill is a hamlet in Rensselaer County, New York, United States. The community of Wynantskill is a suburb of Troy. Wynantskill is located at the north town line of the town of North Greenbush. Wynantskill is located at the northeast corner of the town of North Greenbush. The population of Wynantskill was 3,276 at the 2010 census. Wynantskill is a census-designated place (CDP) in Rensselaer County, New York, United States. NY Route 66 is the main route throughout the community of Wynantskill. NY Route 66 is known as Main Ave. in Wynantskill."
+    },
+    {
+      "chunk_id": "dc10f15b-5297-4ac5-9192-566cd7fedbc8",
+      "chunk_title": "Road Characteristics & Connectivity",
+      "chunk_summary": "This chunk contains information about the characteristics, classification, and connectivity of specific roads.",
+      "context_title": "Wynantskill, New York",
+      "page_content": "Whiteview Road is a primarily residential road. Whiteview Road leads to Route 4. West Sand Lake Road is a major road in Wynantskill."
+    },
+    {
+      "chunk_id": "9863bd10-1626-4c90-a22b-81fff55b4fb1",
+      "chunk_title": "Commercial Facilities & Amenities",
+      "chunk_summary": "This chunk contains information about the types of commercial facilities, amenities, and public services available in Wynantskill.",
+      "context_title": "Wynantskill, New York",
+      "page_content": "Wynantskill has a major grocery store. Wynantskill has a craft beverage store. Wynantskill has a bowling alley. Wynantskill has convenience stores. Wynantskill has a post office. Wynantskill has several restaurants. Wynantskill has several banks."
+    },
+    {
+      "chunk_id": "63b97491-3877-42a9-9e74-320ddaff69e9",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of cities and their administrative divisions.",
+      "context_title": "Yonkers Avenue",
+      "page_content": "The city of Yonkers is in Westchester County, New York. Westchester County, New York is in the United States."
+    },
+    {
+      "chunk_id": "a0eb9964-26a1-4325-8f90-3cd04420faa1",
+      "chunk_title": "US Geography",
+      "chunk_summary": "This chunk contains information about the geographical location of places within the United States.",
+      "context_title": "New York State Route 9B",
+      "page_content": "Clinton County, New York is in the United States."
+    },
+    {
+      "chunk_id": "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b",
+      "chunk_title": "Building Locations",
+      "chunk_summary": "This chunk contains information about the locations of specific buildings.",
+      "context_title": "Woolworth Building",
+      "page_content": "The Woolworth Building is located at 233 Broadway, Manhattan, New York City."
+    },
+    {
+      "chunk_id": "fb964cb6-e1d7-4bb0-94dc-000ba3fd4eb7",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of cities within their respective states.",
+      "context_title": "Frederick Douglass Memorial",
+      "page_content": "New York City is in the U.S. state of New York."
+    },
+    {
+      "chunk_id": "b6177f46-05e7-4a6d-967b-8d22bd253600",
+      "chunk_title": "Facility Locations",
+      "chunk_summary": "This chunk contains information about the locations of specific facilities or buildings.",
+      "context_title": "2016–17 Iona Gaels men's basketball team",
+      "page_content": "The Hynes Athletic Center is located in New Rochelle, New York."
+    },
+    {
+      "chunk_id": "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+      "chunk_title": "Geographic Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations and hierarchical contexts of specific buildings or landmarks.",
+      "context_title": "220 Central Park South",
+      "page_content": "New York City is located in the U.S. state of New York. 220 Central Park South is located in Midtown Manhattan. Midtown Manhattan is located in New York City."
+    },
+    {
+      "chunk_id": "776721f1-7a6a-4f03-9671-9fc2b5b4e2f9",
+      "chunk_title": "Locations & Addresses",
+      "chunk_summary": "This chunk contains information about the geographic locations, addresses, and administrative divisions of New Rochelle and New Roc City.",
+      "context_title": "New Roc City",
+      "page_content": "33 LeCount Place is between Main Street North and Main Street South. The city of New Rochelle is in Westchester County, New York. New Roc City is in the Downtown section of the city of New Rochelle. New Roc City is located at 33 LeCount Place."
+    },
+    {
+      "chunk_id": "f3dd26ad-968d-4afa-a129-16201989e736",
+      "chunk_title": "Hannaford Supermarket Chain",
+      "chunk_summary": "This chunk contains information about the supermarket chain Hannaford, including its founding history, headquarters location, operational regions, and parent company.",
+      "context_title": "Hannaford Brothers Company",
+      "page_content": "Hannaford is a supermarket chain. Hannaford was founded in 1883. Hannaford operates stores in New York. The Ahold Delhaize group is based in the Netherlands. Hannaford operates stores in New England. Hannaford is based in Scarborough, Maine. The Hannaford chain is part of the Ahold Delhaize group. Hannaford was founded in Portland, Maine."
+    },
+    {
+      "chunk_id": "dd34c011-ba6f-484c-b8e8-c00398b54f41",
+      "chunk_title": "Victory Super Markets History",
+      "chunk_summary": "This chunk contains information about the history, founding, operations, and acquisition of Victory Super Markets.",
+      "context_title": "Victory Supermarkets",
+      "page_content": "Victory Super Markets was a family-run company. Victory Super Markets employed over 2,600 workers when it was sold. Victory Super Markets was founded in 1923. Victory Super Markets was founded by two DiGeronimo brothers. Victory Super Markets had an annual revenue of $385 million when it was sold. Victory Super Markets was a grocery store chain. Victory Super Markets was based in Leominster, Massachusetts. Victory Super Markets had a successful 81 year stretch before being sold. Victory Super Markets was sold to Hannaford Brothers Company in 2004. Victory Super Markets was originally named after the American war effort in World War I. Victory Super Markets included 20 stores across Massachusetts and New Hampshire."
+    },
+    {
+      "chunk_id": "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+      "chunk_title": "Corporate Headquarters Locations",
+      "chunk_summary": "This chunk contains information about the corporate headquarters locations of Parker Hannifin Corporation.",
+      "context_title": "Parker Hannifin",
+      "page_content": "The corporate headquarters of Parker Hannifin Corporation have a Cleveland mailing address. The corporate headquarters of Parker Hannifin Corporation are in Mayfield Heights, Ohio."
+    },
+    {
+      "chunk_id": "e4efd91a-c52c-46f3-8389-ff04058852e9",
+      "chunk_title": "Media Company Locations",
+      "chunk_summary": "This chunk contains information about the locations of media companies.",
+      "context_title": "Hachette Filipacchi Media U.S.",
+      "page_content": "Hachette Filipacchi Media U.S., Inc. was based in New York City."
+    },
+    {
+      "chunk_id": "563863c4-dc42-4864-ac1a-ea47c84fae5d",
+      "chunk_title": "Bush Brothers Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations of Bush Brothers & Company, including its headquarters and plant operations.",
+      "context_title": "Bush Brothers and Company",
+      "page_content": "Bush Brothers & Company operates a plant in Augusta, Wisconsin. Bush Brothers & Company operates a plant in Chestnut Hill, Tennessee. Bush Brothers & Company is based in Knoxville, Tennessee."
+    },
+    {
+      "chunk_id": "440a8225-9fc9-48b5-ba3a-a47f77d199f8",
+      "chunk_title": "Office Locations",
+      "chunk_summary": "This chunk contains information about the current and future locations of the company's national support office.",
+      "context_title": "Target Australia",
+      "page_content": "The company's national support office will move its headquarters to Williams Landing at the end of 2018. The company's national support office is currently located in North Geelong, Victoria."
+    },
+    {
+      "chunk_id": "7d3d8646-86bc-4746-a875-0828ddec2084",
+      "chunk_title": "Corporate Identity & Origins",
+      "chunk_summary": "This chunk contains information about the history, naming conventions, and nationality of Parker Hannifin Corporation.",
+      "context_title": "Parker Hannifin",
+      "page_content": "Parker Hannifin Corporation is an American corporation. Parker Hannifin Corporation was originally named Parker Appliance Company. Parker Hannifin Corporation is usually referred to as just Parker. Parker Hannifin Corporation was founded in 1917."
+    },
+    {
+      "chunk_id": "f2f58ce0-8594-427a-9130-235eb0a20ea8",
+      "chunk_title": "Henderson Point Location",
+      "chunk_summary": "This chunk contains information about the geographic location and administrative classification of Henderson Point, Mississippi.",
+      "context_title": "Henderson Point, Mississippi",
+      "page_content": "Henderson Point is a census-designated place (CDP). Henderson Point is part of the Gulfport–Biloxi Metropolitan Statistical Area. Henderson Point is in Harrison County, Mississippi, United States."
+    },
+    {
+      "chunk_id": "c7d2d3e6-3497-4a36-b2d1-50aafd7f1535",
+      "chunk_title": "Corporate Identity & Ownership",
+      "chunk_summary": "This chunk contains information about the ownership structure and corporate identity of companies.",
+      "context_title": "Bush Brothers and Company",
+      "page_content": "Bush Brothers & Company is a family-owned corporation."
+    },
+    {
+      "chunk_id": "2aff7350-a901-458c-a668-69196feacfa3",
+      "chunk_title": "Aviation Organization Locations",
+      "chunk_summary": "This chunk contains information about the specific locations of aviation organizations, including details like city and airport.",
+      "context_title": "Huffman Aviation",
+      "page_content": "Huffman Aviation was located in Venice, Florida. Huffman Aviation was located at Venice Municipal Airport."
+    },
+    {
+      "chunk_id": "b316431d-da5d-463e-b6e1-e7b8c6e37ac8",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of cities and towns.",
+      "context_title": "Montefiore New Rochelle Hospital",
+      "page_content": "New Rochelle is in Westchester County, New York."
+    },
+    {
+      "chunk_id": "84a5edc2-a4ac-4e30-b63a-12667d51ade4",
+      "chunk_title": "Moving Map Displays",
+      "chunk_summary": "This chunk describes the operational characteristics of moving map displays as navigation outputs, specifically how they dynamically center the user's position while omitting numerical coordinates and waypoint data.",
+      "context_title": "Moving map display",
+      "page_content": "A moving map display does not numerically display the current geographical coordinates determined by the navigation unit. A moving map display is a type of navigation system output. A moving map display does not display an heading and distance indication of a certain waypoint. As the unit moves around, new coordinates are determined. A moving map display displays the unit's current location at the center of a map. As new coordinates are determined, the map moves to keep the unit's position at the center of the display."
+    },
+    {
+      "chunk_id": "c25adc19-8c24-4500-a946-511a5bfd910d",
+      "chunk_title": "Government Locations",
+      "chunk_summary": "This chunk contains information about the locations of government departments.",
+      "context_title": "Connecticut State Marshal",
+      "page_content": "The Department of Administrative Services is located in Hartford, Connecticut."
+    },
+    {
+      "chunk_id": "e276ed01-19a1-4555-a9c1-6efda4ef81af",
+      "chunk_title": "Corporate Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations of corporate headquarters.",
+      "context_title": "SemGroup",
+      "page_content": "SemGroup's headquarters are in Tulsa, Oklahoma."
+    },
+    {
+      "chunk_id": "cc250535-59a5-4520-9361-81b171df138e",
+      "chunk_title": "Company Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations of companies.",
+      "context_title": "Focus Brands",
+      "page_content": "Focus Brands is based in Sandy Springs, Georgia. Roark Capital Group is based in Atlanta."
+    },
+    {
+      "chunk_id": "3dffacee-f02a-4f50-988f-e47f87174d13",
+      "chunk_title": "Corporate Locations",
+      "chunk_summary": "This chunk contains information about the locations of corporate headquarters.",
+      "context_title": "Swanson, Ontario",
+      "page_content": "The Canadian Pacific Railway headquarters is in Calgary, Alberta."
+    },
+    {
+      "chunk_id": "bccb76f5-1f60-4679-932a-666119c072bd",
+      "chunk_title": "Headquarters Location",
+      "chunk_summary": "This chunk contains information about the headquarters location of GFS Canada.",
+      "context_title": "GFS Canada",
+      "page_content": "GFS Canada is headquartered in Grand Rapids, Michigan."
+    },
+    {
+      "chunk_id": "ce2e20c9-6294-4a31-84a9-fedccd30829c",
+      "chunk_title": "Geographic Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations of peak runoff events.",
+      "context_title": "Lobster Lake (Maine)",
+      "page_content": "The peak runoff events occur from the western Maine highlands along the Canadian border."
+    },
+    {
+      "chunk_id": "20230835-03e9-4d4f-8196-b34d49500421",
+      "chunk_title": "Bay of Fundy Geography",
+      "chunk_summary": "This chunk contains information about the geographical location, names, and characteristics of specific bays.",
+      "context_title": "Bay of Fundy",
+      "page_content": "The Bay of Fundy is called \"Baie de Fundy\" in French. The Bay of Fundy is between the Canadian provinces of New Brunswick and Nova Scotia. The Bay of Fundy is a bay on the Atlantic coast of North America. The Bay of Fundy is on the northeast end of the Gulf of Maine. A small portion of the Bay of Fundy touches the U.S. state of Maine."
+    },
+    {
+      "chunk_id": "b74a9253-5551-4cdd-8697-173ccc75020c",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about geographical locations and their relative positions.",
+      "context_title": "Boston, Lincolnshire",
+      "page_content": "Boston is due north of Greenwich on the Prime Meridian."
+    },
+    {
+      "chunk_id": "364f9896-abb3-4746-b01c-ab60f1084048",
+      "chunk_title": "State Route Classification",
+      "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of state routes.",
+      "context_title": "Maine State Route 160",
+      "page_content": "State Route 160 is abbreviated SR 160. State Route 160 is part of Maine's system of numbered state highways."
+    },
+    {
+      "chunk_id": "e187cc5d-7edb-41fd-8e57-d02268eec440",
+      "chunk_title": "State Route 160 Details",
+      "chunk_summary": "This chunk contains information about the location, orientation, length, and route endpoints of State Route 160 in Maine.",
+      "context_title": "Maine State Route 160",
+      "page_content": "State Route 160 runs to an intersection with State Route 117 in Denmark. State Route 160 runs 32.64 miles. State Route 160 runs from an intersection with State Route 5 in Limerick. State Route 160 is located in the western part of Maine. State Route 160 is a north–south highway."
+    },
+    {
+      "chunk_id": "66618ff2-c0d7-46ce-844b-46bcc7ec7283",
+      "chunk_title": "Geographical Areas",
+      "chunk_summary": "This chunk contains information about the geographical size and location of specific areas or regions, such as the Bridgewater Triangle.",
+      "context_title": "Bridgewater Triangle",
+      "page_content": "The Bridgewater Triangle is located within southeastern Massachusetts. The Bridgewater Triangle refers to an area of about 200 square miles. Southeastern Massachusetts is in the United States."
+    },
+    {
+      "chunk_id": "e9c73bab-ac44-4324-8e52-3d28c8b3120b",
+      "chunk_title": "Lobster Lake Geography & Features",
+      "chunk_summary": "This chunk contains information about the geographical location, naming origin, physical shape characteristics, and connected waterways of Lobster Lake.",
+      "context_title": "Lobster Lake (Maine)",
+      "page_content": "The northwest corner of Lobster Lake resembles a curled lobster tail. Lobster Lake extends eastward into Lobster township. The West Branch Penobscot River is located 1.4 miles north of Lobster Lake. A smaller western arm of Lobster Lake is called \"Little Claw\". Lobster Lake was named because its shape resembles the outline of a lobster. The West Branch Penobscot River may temporarily reverse flow through Lobster Stream into Lobster Lake during peak runoff events. The larger eastern arm of Lobster Lake is called \"Big Claw\". Lobster Lake and the West Branch Penobscot River are at a similar elevation. The larger eastern arm of Lobster Lake extends southward. Lobster Stream connects the northwest corner of Lobster Lake to the West Branch Penobscot River. The northwest corner of Lobster Lake is located in Northeast Carry township. Lobster Lake is located in the North Maine Woods. The part of Lobster Lake extending eastward into Lobster township resembles a lobster thorax."
+    },
+    {
+      "chunk_id": "a2a891f7-584b-4ada-846c-fdbfc5d60f35",
+      "chunk_title": "Biographical Origins",
+      "chunk_summary": "This chunk contains biographical information about individuals, including their birthplaces and origins.",
+      "context_title": "Kenneth Roberts (author)",
+      "page_content": "Kenneth Lewis Roberts was born in Kennebunk, Maine."
+    },
+    {
+      "chunk_id": "51a71392-72d4-4625-87a2-8478a498e039",
+      "chunk_title": "Water Body Characteristics",
+      "chunk_summary": "This chunk contains information about the physical characteristics and geographical locations of water bodies, including lakes, rivers, and oceanic regions.",
+      "context_title": "Profile Lake",
+      "page_content": "The Gulf of Maine is part of the Atlantic Ocean. The Merrimack River reaches the Gulf of Maine at Newburyport, Massachusetts. Profile Lake is a 13 acre water body."
+    },
+    {
+      "chunk_id": "6b34af95-4ef8-427a-973e-aba37c430cb8",
+      "chunk_title": "Hamlet Locations",
+      "chunk_summary": "This chunk contains information about the classification, alternative names, administrative location, and geographic positioning of specific hamlets.",
+      "context_title": "Boght Corners, New York",
+      "page_content": "Boght Corners is in the town of Colonie. Boght Corners is a hamlet. The town of Colonie is in northern Albany County, New York. Boght Corners straddles U.S. Route 9. Boght Corners is also referred to as Boght."
+    },
+    {
+      "chunk_id": "ffc7c7f7-0fa2-408a-8153-d8ca7efdb8bb",
+      "chunk_title": "Geographical Location",
+      "chunk_summary": "This chunk contains information about the geographical location of Rockland County within the Hudson Valley region.",
+      "context_title": "Karl A. Brabenec",
+      "page_content": "Rockland County is in the Hudson Valley."
+    },
+    {
+      "chunk_id": "ead7c1da-f3d1-4c13-8201-673624375cd5",
+      "chunk_title": "Neighborhood Locations",
+      "chunk_summary": "This chunk contains information about the location, boundaries, and regional descriptions of specific neighborhoods within cities.",
+      "context_title": "Morningside Heights, Manhattan",
+      "page_content": "Morningside Heights is a neighborhood of the borough of Manhattan in New York City. The area of Morningside Heights has been described as part of \"Greater Harlem\". Morningside Heights is on the border of the Upper West Side and Manhattanville. There is a disputed claim that the Upper West Side goes no farther north than 110th Street. The area of Morningside Heights is usually described as being on the Upper West Side."
+    },
+    {
+      "chunk_id": "4ffb3767-02e2-441e-9ca4-1b3206e00824",
+      "chunk_title": "Genesee River Geography",
+      "chunk_summary": "This chunk contains information about the Genesee River, including its flow direction and its status as a tributary to Lake Ontario.",
+      "context_title": "Genesee River",
+      "page_content": "The Genesee River flows northward through the Twin Tiers of Pennsylvania and New York. The Genesee River is a tributary of Lake Ontario."
+    },
+    {
+      "chunk_id": "088aa79e-936a-4460-a5f4-1e42b7c393f6",
+      "chunk_title": "Locations & Landmarks",
+      "chunk_summary": "This chunk contains information about the locations of buildings and landmarks relative to roads or other geographical features.",
+      "context_title": "Borodino, New York",
+      "page_content": "A Methodist Church stands close to New York State Route 174. The Methodist Church is located about five properties north of the intersection of New York State Route 41 and New York State Route 174."
+    },
+    {
+      "chunk_id": "cdd6ebd7-9e5b-47aa-b412-346ea40f4519",
+      "chunk_title": "Route 9G Path & Location",
+      "chunk_summary": "This chunk contains information about the location, route, and path of New York State Route 9G in the Hudson Valley.",
+      "context_title": "New York State Route 9G",
+      "page_content": "New York State Route 9G ends at a junction with U.S. Route 9 in the city of Hudson. New York State Route 9G follows the Hudson River. U.S. Route 9 and New York State Route 9G cross just north of the village of Rhinebeck. New York State Route 9G mostly runs along the eastern side of U.S. Route 9 to Rhinebeck. New York State Route 9G runs north from U.S. Route 9 at Poughkeepsie. New York State Route 9G initially extended from Rhinebeck to Hudson. New York State Route 9G starts out as Violet Avenue at Poughkeepsie. From the crossing point north of Rhinebeck onward, New York State Route 9G runs closer to the Hudson River than U.S. Route 9. New York State Route 9G runs to Hudson. New York State Route 9G is located in the Hudson Valley of New York. From the crossing point north of Rhinebeck onward, New York State Route 9G runs on the western side of U.S. Route 9."
+    },
+    {
+      "chunk_id": "10481c1c-4bf2-4acf-b6b8-6dd527717dd2",
+      "chunk_title": "Geography & Environment",
+      "chunk_summary": "This chunk contains information about the geographical and environmental characteristics of Randolph, including its forestation, topographical extent relative to surrounding mountain ranges and towns, and its inclusion within various protected forests.",
+      "context_title": "Randolph, New Hampshire",
+      "page_content": "Randolph extends to the Crescent Range and Berlin to the north. The northern part of Randolph is within the White Mountain National Forest. The southern part of Randolph is within the Ice Gulch Town Forest. The southern part of Randolph is within the White Mountain National Forest. The central part of Randolph is the settled portion of town. Randolph extends from the northern slopes of the White Mountains of the Presidential Range to the south. The northern part of Randolph is within the Ice Gulch Town Forest. Randolph is heavily forested."
+    },
+    {
+      "chunk_id": "4109ba00-f67e-45a9-b9fd-20413f6aecdf",
+      "chunk_title": "Right Whale Dolphin Distribution",
+      "chunk_summary": "This chunk contains information about the habitat and geographic distribution of right whale dolphins.",
+      "context_title": "Southern right whale dolphin",
+      "page_content": "The northern right whale dolphin is found in deep oceans of the Northern Hemisphere. The southern right whale dolphin is found in cool waters of the Southern Hemisphere."
+    },
+    {
+      "chunk_id": "e656b7d9-929a-4f21-83ae-5554dd126489",
+      "chunk_title": "Historical Locations & Names",
+      "chunk_summary": "This chunk contains information about historical street name changes, former area names, and past locations of significant buildings in the city.",
+      "context_title": "Franklin Street Presbyterian Church and Parsonage",
+      "page_content": "The original Enoch Pratt Free Library central building faced West Mulberry Street at Cathedral. The fast-growing northern section of the city was formerly known as \"Howard's Woods\". North Street is now known as Guilford Avenue. Across Cathedral Street to the northeast was a Greek Revival home from the 1820s era."
+    },
+    {
+      "chunk_id": "9f868961-8b74-4583-a9ad-00219b671574",
+      "chunk_title": "Historical Location Names",
+      "chunk_summary": "This chunk contains information about historical street name changes and the former names of city locations.",
+      "context_title": "Franklin Street Presbyterian Church and Parsonage",
+      "page_content": "North Street is now Guilford Avenue. The fast-growing northern section of the city was formerly known as \"Howard's Woods\"."
+    },
+    {
+      "chunk_id": "88f50191-e37a-4219-b347-3f13796b49bd",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of counties within U.S. states.",
+      "context_title": "New Hampshire Route 78",
+      "page_content": "Cheshire County is in the southern part of the U.S. state of New Hampshire."
+    },
+    {
+      "chunk_id": "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+      "chunk_title": "Geography & Administration",
+      "chunk_summary": "This chunk contains information about the geographical location and administrative hierarchy of places, specifically detailing Munsonville's position within Nelson, Cheshire County, and New Hampshire.",
+      "context_title": "Munsonville, New Hampshire",
+      "page_content": "Munsonville is located in the northwestern corner of Nelson. Munsonville is located around the outlet of Granite Lake. Munsonville is in the town of Nelson. Cheshire County is in New Hampshire. The town of Nelson is in Cheshire County."
+    },
+    {
+      "chunk_id": "abb43519-3a9e-4b16-af47-d56af378ecbf",
+      "chunk_title": "US Locations & Divisions",
+      "chunk_summary": "This chunk contains information about the geographical locations and administrative relationships of places in the United States, specifically focusing on Franklin County, St. Albans, and their connections to the Burlington metropolitan area and neighboring counties.",
+      "context_title": "St. Albans (city), Vermont",
+      "page_content": "Franklin County is part of the Burlington metropolitan area. The city of St. Albans is part of the Burlington metropolitan area. Franklin County is north of Chittenden County. Chittenden County is the most populous county of the Burlington metropolitan area. Franklin County is in the United States. The city of St. Albans is in Franklin County."
+    },
+    {
+      "chunk_id": "e9e6ea34-7d34-45dc-b5db-b1aed1d74d71",
+      "chunk_title": "Geographical Location",
+      "chunk_summary": "This chunk contains information about the geographical location of Orange County.",
+      "context_title": "Karl A. Brabenec",
+      "page_content": "Orange County is in the Hudson Valley."
+    },
+    {
+      "chunk_id": "59400a8c-cb52-4061-9f37-a5ab9deef478",
+      "chunk_title": "US Geography",
+      "chunk_summary": "This chunk contains information about the geographical location of places within the United States.",
+      "context_title": "New York State Route 157A",
+      "page_content": "Albany County, New York is in the United States."
+    },
+    {
+      "chunk_id": "c68b2e01-cf9a-4ca5-bab8-87da3215de8c",
+      "chunk_title": "US Geography",
+      "chunk_summary": "This chunk contains information about the geographical location of regions within the United States.",
+      "context_title": "New York State Route 9N",
+      "page_content": "Northeastern New York is in the United States."
+    },
+    {
+      "chunk_id": "380adce4-6f66-4e43-9cb9-3455330af5c3",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of places, including their county, state, and specific street boundaries.",
+      "context_title": "Murray Street Historic District",
+      "page_content": "Mount Morris is in Livingston County, New York. The 16 properties on Murray Street are between Eagle Street and Stanley Street."
+    },
+    {
+      "chunk_id": "b0f42d61-3779-4c72-9889-792646d3b759",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of counties, cities, and hamlets in the United States, including their relative positions to landmarks and routes.",
+      "context_title": "New York State Route 9R",
+      "page_content": "The city of Cohoes is located 1.5 mi to the east of U.S. Route 9. The hamlet of Latham is located in the town of Colonie. Albany County is located in the United States. The hamlet of Boght Corners is located in the town of Colonie."
+    },
+    {
+      "chunk_id": "faf304b8-a9c3-45e1-824f-1513b1c823cb",
+      "chunk_title": "West Broadway Geography",
+      "chunk_summary": "This chunk contains information about the geographical location, layout, specific boundaries, and traffic patterns of West Broadway in Manhattan, New York City.",
+      "context_title": "West Broadway",
+      "page_content": "North of Houston Street, West Broadway is designated as LaGuardia Place. West Broadway is in the New York City borough of Manhattan. The northern end of West Broadway is at Houston Street. West Broadway is separated into two parts by Tribeca Park. West Broadway operates as a main north-south thoroughfare through SoHo. The northern part of West Broadway begins at Tribeca Park. The northern part of West Broadway begins near the intersection of Avenue of the Americas (Sixth Avenue), Walker Street and Beach Street. The northern part of West Broadway runs northbound as a one-way street past Canal Street."
+    },
+    {
+      "chunk_id": "9c68e3e8-35b7-4601-85ae-b581fbba552a",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of places, including specific towns and counties.",
+      "context_title": "Baldwin, Nassau County, New York",
+      "page_content": "The town of Hempstead is located in Nassau County, New York, United States. Baldwin is located in the town of Hempstead."
+    },
+    {
+      "chunk_id": "dfa6d9fb-9196-4e04-97cf-ef7465a204d3",
+      "chunk_title": "Birthplaces",
+      "chunk_summary": "This chunk contains information about the birthplace of individuals.",
+      "context_title": "Stanley Bing",
+      "page_content": "Gil Schwartz was born in New York, NY."
+    },
+    {
+      "chunk_id": "79e2ae2a-682f-4008-aa76-b2dedf2ae20d",
+      "chunk_title": "Building Locations & Dates",
+      "chunk_summary": "This chunk contains information about the location, construction date, and specific site details of buildings or landmarks.",
+      "context_title": "1 New York Plaza",
+      "page_content": "1 New York Plaza is in New York City's Financial District. 1 New York Plaza was built at the intersection of South and Whitehall Streets. 1 New York Plaza is the southernmost of all Manhattan skyscrapers. 1 New York Plaza was built in 1969."
+    },
+    {
+      "chunk_id": "e959082e-15d8-460d-8bca-beed8a37a54b",
+      "chunk_title": "Place Naming",
+      "chunk_summary": "This chunk contains information about the renaming of places and territories, specifically focusing on instances where individuals named regions after themselves or others.",
+      "context_title": "Proprietary colony",
+      "page_content": "The Duke of York named New Netherland New York. William Penn named the area given by Charles II Pennsylvania."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.06779661016949153,
+  "retrieval_count": 11,
+  "total_chunks": 59,
+  "total_distinct_titles": 51,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 5,
+  "dag_edges": 5,
+  "dag_snapshots": [
+    {
+      "q": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，比较 Wynantskill, New York 与 Hannaford Brothers Company 哪个更靠北",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。当前子节点状态：N1_1 未找到答案（unsolved），N1_2 仅找到总部位置 Scarborough, Maine 但缺失纬度数据。推理链不完整，无法支撑最终比较。",
+          "critic_normative_advice": "建议等待子节点补全——当前 N1_1 和 N1_2 均未提供完整的纬度信息，无法进行南北比较。建议 Planner 为 N1_1 调整搜索策略，为 N1_2 新增子节点查询 Scarborough, Maine 的纬度。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the latitude of Wynantskill, New York?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What is the latitude of Wynantskill, New York?",
+          "planner_rationale": "Q 要求比较两个实体的南北位置，需要先获取 Wynantskill, New York 的纬度信息",
+          "solver_judgment": "question 要求提供 Wynantskill, New York 的纬度（latitude）。search_query 搜索了 'What is the latitude of Wynantskill, New York?'。chunks 返回了 Wynantskill 的概述信息（如位于 North Greenbush 镇北部/东北角、人口、道路等），但没有任何一个 chunk 包含具体的地理坐标或纬度数值。检索未能命中目标信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，其中 3 个来自 Wynantskill, New York 文档，其余 7 个来自其他不相关文档。所有 chunk 均不包含 Wynantskill 的地理坐标或纬度数值。chunk 内容涉及 Wynantskill 在 North Greenbush 镇的位置、人口、道路、商业设施等，但无具体经纬度数据。KB 似乎未覆盖此实体的精确坐标信息。",
+          "critic_normative_advice": "建议换搜索方向——当前查询 'What is the latitude of Wynantskill, New York?' 未命中目标。可尝试：(1) 搜索 'Wynantskill New York coordinates' 或 'Wynantskill NY location'；(2) 搜索 Wynantskill 所属的 North Greenbush 镇的坐标作为近似；(3) 若 KB 确实无覆盖，考虑放弃此节点并标记为 KB 缺口。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51ad445b-00a6-4438-8c60-226cf4f5f860",
+              "chunk_title": "Wynantskill Overview",
+              "chunk_summary": "This chunk contains information about the geographical classification, location, population statistics, and transportation infrastructure of Wynantskill, New York.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Almost all houses in Wynantskill are located on side streets off Main Ave. Whiteview Road is a major road in Wynantskill. NY Route 66 is known as Pawling Ave. in Troy. Wynantskill is a hamlet in Rensselaer County, New York, United States. The community of Wynantskill is a suburb of Troy. Wynantskill is located at the north town line of the town of North Greenbush. Wynantskill is located at the northeast corner of the town of North Greenbush. The population of Wynantskill was 3,276 at the 2010 census. Wynantskill is a census-designated place (CDP) in Rensselaer County, New York, United States. NY Route 66 is the main route throughout the community of Wynantskill. NY Route 66 is known as Main Ave. in Wynantskill."
+            },
+            {
+              "chunk_id": "dc10f15b-5297-4ac5-9192-566cd7fedbc8",
+              "chunk_title": "Road Characteristics & Connectivity",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, and connectivity of specific roads.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Whiteview Road is a primarily residential road. Whiteview Road leads to Route 4. West Sand Lake Road is a major road in Wynantskill."
+            },
+            {
+              "chunk_id": "9863bd10-1626-4c90-a22b-81fff55b4fb1",
+              "chunk_title": "Commercial Facilities & Amenities",
+              "chunk_summary": "This chunk contains information about the types of commercial facilities, amenities, and public services available in Wynantskill.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Wynantskill has a major grocery store. Wynantskill has a craft beverage store. Wynantskill has a bowling alley. Wynantskill has convenience stores. Wynantskill has a post office. Wynantskill has several restaurants. Wynantskill has several banks."
+            },
+            {
+              "chunk_id": "63b97491-3877-42a9-9e74-320ddaff69e9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities and their administrative divisions.",
+              "context_title": "Yonkers Avenue",
+              "page_content": "The city of Yonkers is in Westchester County, New York. Westchester County, New York is in the United States."
+            },
+            {
+              "chunk_id": "a0eb9964-26a1-4325-8f90-3cd04420faa1",
+              "chunk_title": "US Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of places within the United States.",
+              "context_title": "New York State Route 9B",
+              "page_content": "Clinton County, New York is in the United States."
+            },
+            {
+              "chunk_id": "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b",
+              "chunk_title": "Building Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building is located at 233 Broadway, Manhattan, New York City."
+            },
+            {
+              "chunk_id": "fb964cb6-e1d7-4bb0-94dc-000ba3fd4eb7",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities within their respective states.",
+              "context_title": "Frederick Douglass Memorial",
+              "page_content": "New York City is in the U.S. state of New York."
+            },
+            {
+              "chunk_id": "b6177f46-05e7-4a6d-967b-8d22bd253600",
+              "chunk_title": "Facility Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific facilities or buildings.",
+              "context_title": "2016–17 Iona Gaels men's basketball team",
+              "page_content": "The Hynes Athletic Center is located in New Rochelle, New York."
+            },
+            {
+              "chunk_id": "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations and hierarchical contexts of specific buildings or landmarks.",
+              "context_title": "220 Central Park South",
+              "page_content": "New York City is located in the U.S. state of New York. 220 Central Park South is located in Midtown Manhattan. Midtown Manhattan is located in New York City."
+            },
+            {
+              "chunk_id": "776721f1-7a6a-4f03-9671-9fc2b5b4e2f9",
+              "chunk_title": "Locations & Addresses",
+              "chunk_summary": "This chunk contains information about the geographic locations, addresses, and administrative divisions of New Rochelle and New Roc City.",
+              "context_title": "New Roc City",
+              "page_content": "33 LeCount Place is between Main Street North and Main Street South. The city of New Rochelle is in Westchester County, New York. New Roc City is in the Downtown section of the city of New Rochelle. New Roc City is located at 33 LeCount Place."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where is Hannaford Brothers Company headquartered, and what is the latitude of that location?",
+          "answer": "Scarborough, Maine",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Where is Hannaford Brothers Company headquartered, and what is the latitude of that location?",
+          "planner_rationale": "Q 要求比较两个实体的南北位置，Hannaford Brothers Company 是一家公司，需要确定其总部所在地的纬度信息",
+          "solver_judgment": "question 要求确认 Hannaford Brothers Company 的总部所在地及其纬度。search_query 搜索了完整问题。chunks 中的 f3dd26ad-968d-4afa-a129-16201989e736 明确记载 'Hannaford is based in Scarborough, Maine.'，直接回答了总部位置。然而，所有检索到的 chunks 均未提供 Scarborough, Maine 的纬度信息。检索成功定位了总部地点，但缺失地理坐标数据。",
+          "critic_factual_notes": "1 个支撑来源（Hannaford Brothers Company 文档），chunk f3dd26ad 明确记载 'Hannaford is based in Scarborough, Maine.'，直接回答了总部位置。但 question 同时要求 'what is the latitude of that location'，所有 10 个检索 chunk 均未提供 Scarborough, Maine 的纬度信息。答案仅部分完成——总部位置已确认，纬度数据缺失。",
+          "critic_normative_advice": "建议拆分或新增子节点——当前节点 question 包含两个子问题（总部位置 + 纬度），总部位置已解决但纬度未解决。建议：(1) 将 N1_2 拆分为 N1_2a（总部位置，已 solved）和 N1_2b（Scarborough, Maine 的纬度）；或 (2) 新增子节点 N1_2b 依赖 N1_2 的 answer 'Scarborough, Maine' 查询其纬度。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f3dd26ad-968d-4afa-a129-16201989e736"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f3dd26ad-968d-4afa-a129-16201989e736",
+              "chunk_title": "Hannaford Supermarket Chain",
+              "chunk_summary": "This chunk contains information about the supermarket chain Hannaford, including its founding history, headquarters location, operational regions, and parent company.",
+              "context_title": "Hannaford Brothers Company",
+              "page_content": "Hannaford is a supermarket chain. Hannaford was founded in 1883. Hannaford operates stores in New York. The Ahold Delhaize group is based in the Netherlands. Hannaford operates stores in New England. Hannaford is based in Scarborough, Maine. The Hannaford chain is part of the Ahold Delhaize group. Hannaford was founded in Portland, Maine."
+            },
+            {
+              "chunk_id": "dd34c011-ba6f-484c-b8e8-c00398b54f41",
+              "chunk_title": "Victory Super Markets History",
+              "chunk_summary": "This chunk contains information about the history, founding, operations, and acquisition of Victory Super Markets.",
+              "context_title": "Victory Supermarkets",
+              "page_content": "Victory Super Markets was a family-run company. Victory Super Markets employed over 2,600 workers when it was sold. Victory Super Markets was founded in 1923. Victory Super Markets was founded by two DiGeronimo brothers. Victory Super Markets had an annual revenue of $385 million when it was sold. Victory Super Markets was a grocery store chain. Victory Super Markets was based in Leominster, Massachusetts. Victory Super Markets had a successful 81 year stretch before being sold. Victory Super Markets was sold to Hannaford Brothers Company in 2004. Victory Super Markets was originally named after the American war effort in World War I. Victory Super Markets included 20 stores across Massachusetts and New Hampshire."
+            },
+            {
+              "chunk_id": "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+              "chunk_title": "Corporate Headquarters Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters locations of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "The corporate headquarters of Parker Hannifin Corporation have a Cleveland mailing address. The corporate headquarters of Parker Hannifin Corporation are in Mayfield Heights, Ohio."
+            },
+            {
+              "chunk_id": "e4efd91a-c52c-46f3-8389-ff04058852e9",
+              "chunk_title": "Media Company Locations",
+              "chunk_summary": "This chunk contains information about the locations of media companies.",
+              "context_title": "Hachette Filipacchi Media U.S.",
+              "page_content": "Hachette Filipacchi Media U.S., Inc. was based in New York City."
+            },
+            {
+              "chunk_id": "563863c4-dc42-4864-ac1a-ea47c84fae5d",
+              "chunk_title": "Bush Brothers Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of Bush Brothers & Company, including its headquarters and plant operations.",
+              "context_title": "Bush Brothers and Company",
+              "page_content": "Bush Brothers & Company operates a plant in Augusta, Wisconsin. Bush Brothers & Company operates a plant in Chestnut Hill, Tennessee. Bush Brothers & Company is based in Knoxville, Tennessee."
+            },
+            {
+              "chunk_id": "440a8225-9fc9-48b5-ba3a-a47f77d199f8",
+              "chunk_title": "Office Locations",
+              "chunk_summary": "This chunk contains information about the current and future locations of the company's national support office.",
+              "context_title": "Target Australia",
+              "page_content": "The company's national support office will move its headquarters to Williams Landing at the end of 2018. The company's national support office is currently located in North Geelong, Victoria."
+            },
+            {
+              "chunk_id": "7d3d8646-86bc-4746-a875-0828ddec2084",
+              "chunk_title": "Corporate Identity & Origins",
+              "chunk_summary": "This chunk contains information about the history, naming conventions, and nationality of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "Parker Hannifin Corporation is an American corporation. Parker Hannifin Corporation was originally named Parker Appliance Company. Parker Hannifin Corporation is usually referred to as just Parker. Parker Hannifin Corporation was founded in 1917."
+            },
+            {
+              "chunk_id": "f2f58ce0-8594-427a-9130-235eb0a20ea8",
+              "chunk_title": "Henderson Point Location",
+              "chunk_summary": "This chunk contains information about the geographic location and administrative classification of Henderson Point, Mississippi.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "Henderson Point is a census-designated place (CDP). Henderson Point is part of the Gulfport–Biloxi Metropolitan Statistical Area. Henderson Point is in Harrison County, Mississippi, United States."
+            },
+            {
+              "chunk_id": "c7d2d3e6-3497-4a36-b2d1-50aafd7f1535",
+              "chunk_title": "Corporate Identity & Ownership",
+              "chunk_summary": "This chunk contains information about the ownership structure and corporate identity of companies.",
+              "context_title": "Bush Brothers and Company",
+              "page_content": "Bush Brothers & Company is a family-owned corporation."
+            },
+            {
+              "chunk_id": "2aff7350-a901-458c-a668-69196feacfa3",
+              "chunk_title": "Aviation Organization Locations",
+              "chunk_summary": "This chunk contains information about the specific locations of aviation organizations, including details like city and airport.",
+              "context_title": "Huffman Aviation",
+              "page_content": "Huffman Aviation was located in Venice, Florida. Huffman Aviation was located at Venice Municipal Airport."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，比较 Wynantskill, New York 与 Hannaford Brothers Company 哪个更靠北",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。当前子节点状态：N1_1 未找到坐标数据（unsolved），N1_2 已确认 Hannaford 总部位于 Scarborough, Maine（solved），N2_1 未找到纬度数据（unsolved）。推理链不完整，无法支撑最终南北比较。",
+          "critic_normative_advice": "建议等待子节点补全——当前 N1_1 和 N2_1 均未提供纬度/坐标信息，无法进行南北比较。建议 Planner 为 N1_1 和 N2_1 调整搜索策略或考虑放弃此方向（若 KB 确实无覆盖）。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What are the geographic coordinates of Wynantskill, New York?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What are the geographic coordinates of Wynantskill, New York?",
+          "planner_rationale": "上一轮搜索 'latitude of Wynantskill' 未命中坐标数据，Critic 建议换用 'coordinates' 关键词尝试更精确的搜索策略",
+          "solver_judgment": "question 要求提供 Wynantskill, New York 的具体地理坐标（经纬度）。search_query 直接搜索了该问题。chunks 返回了 Wynantskill 的概述信息（如位于 Rensselaer County、是 Troy 的郊区、位于 North Greenbush 镇的北界/东北角）以及道路和商业设施信息，但没有任何 chunk 包含具体的地理坐标数值。检索未能命中目标信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，涉及 Wynantskill 的地理分类、道路特征、商业设施等（来源：Wynantskill, New York 文档 3 个，及其他 5 个独立来源），但没有任何 chunk 包含 Wynantskill 的具体地理坐标数值。检索未能命中目标信息。",
+          "critic_normative_advice": "建议换搜索方向或放弃——已尝试 'latitude' 和 'coordinates' 两种关键词均未命中坐标数据。KB 中 Wynantskill 文档（3 个 chunk）仅包含定性位置描述（如 '位于 Rensselaer County'、'Troy 的郊区'），无定量坐标。若 KB 确实无覆盖，建议放弃此节点，考虑用定性位置描述进行近似比较。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51ad445b-00a6-4438-8c60-226cf4f5f860",
+              "chunk_title": "Wynantskill Overview",
+              "chunk_summary": "This chunk contains information about the geographical classification, location, population statistics, and transportation infrastructure of Wynantskill, New York.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Almost all houses in Wynantskill are located on side streets off Main Ave. Whiteview Road is a major road in Wynantskill. NY Route 66 is known as Pawling Ave. in Troy. Wynantskill is a hamlet in Rensselaer County, New York, United States. The community of Wynantskill is a suburb of Troy. Wynantskill is located at the north town line of the town of North Greenbush. Wynantskill is located at the northeast corner of the town of North Greenbush. The population of Wynantskill was 3,276 at the 2010 census. Wynantskill is a census-designated place (CDP) in Rensselaer County, New York, United States. NY Route 66 is the main route throughout the community of Wynantskill. NY Route 66 is known as Main Ave. in Wynantskill."
+            },
+            {
+              "chunk_id": "dc10f15b-5297-4ac5-9192-566cd7fedbc8",
+              "chunk_title": "Road Characteristics & Connectivity",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, and connectivity of specific roads.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Whiteview Road is a primarily residential road. Whiteview Road leads to Route 4. West Sand Lake Road is a major road in Wynantskill."
+            },
+            {
+              "chunk_id": "9863bd10-1626-4c90-a22b-81fff55b4fb1",
+              "chunk_title": "Commercial Facilities & Amenities",
+              "chunk_summary": "This chunk contains information about the types of commercial facilities, amenities, and public services available in Wynantskill.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Wynantskill has a major grocery store. Wynantskill has a craft beverage store. Wynantskill has a bowling alley. Wynantskill has convenience stores. Wynantskill has a post office. Wynantskill has several restaurants. Wynantskill has several banks."
+            },
+            {
+              "chunk_id": "63b97491-3877-42a9-9e74-320ddaff69e9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities and their administrative divisions.",
+              "context_title": "Yonkers Avenue",
+              "page_content": "The city of Yonkers is in Westchester County, New York. Westchester County, New York is in the United States."
+            },
+            {
+              "chunk_id": "a0eb9964-26a1-4325-8f90-3cd04420faa1",
+              "chunk_title": "US Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of places within the United States.",
+              "context_title": "New York State Route 9B",
+              "page_content": "Clinton County, New York is in the United States."
+            },
+            {
+              "chunk_id": "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b",
+              "chunk_title": "Building Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific buildings.",
+              "context_title": "Woolworth Building",
+              "page_content": "The Woolworth Building is located at 233 Broadway, Manhattan, New York City."
+            },
+            {
+              "chunk_id": "fb964cb6-e1d7-4bb0-94dc-000ba3fd4eb7",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities within their respective states.",
+              "context_title": "Frederick Douglass Memorial",
+              "page_content": "New York City is in the U.S. state of New York."
+            },
+            {
+              "chunk_id": "b6177f46-05e7-4a6d-967b-8d22bd253600",
+              "chunk_title": "Facility Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific facilities or buildings.",
+              "context_title": "2016–17 Iona Gaels men's basketball team",
+              "page_content": "The Hynes Athletic Center is located in New Rochelle, New York."
+            },
+            {
+              "chunk_id": "b316431d-da5d-463e-b6e1-e7b8c6e37ac8",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities and towns.",
+              "context_title": "Montefiore New Rochelle Hospital",
+              "page_content": "New Rochelle is in Westchester County, New York."
+            },
+            {
+              "chunk_id": "84a5edc2-a4ac-4e30-b63a-12667d51ade4",
+              "chunk_title": "Moving Map Displays",
+              "chunk_summary": "This chunk describes the operational characteristics of moving map displays as navigation outputs, specifically how they dynamically center the user's position while omitting numerical coordinates and waypoint data.",
+              "context_title": "Moving map display",
+              "page_content": "A moving map display does not numerically display the current geographical coordinates determined by the navigation unit. A moving map display is a type of navigation system output. A moving map display does not display an heading and distance indication of a certain waypoint. As the unit moves around, new coordinates are determined. A moving map display displays the unit's current location at the center of a map. As new coordinates are determined, the map moves to keep the unit's position at the center of the display."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where is Hannaford Brothers Company headquartered?",
+          "answer": "Scarborough, Maine",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where is Hannaford Brothers Company headquartered?",
+          "planner_rationale": "Critic 指出 N1_2 原 question 包含两个子问题（总部位置+纬度）导致搜索策略模糊且答案不完整；现拆分为仅询问总部位置，保留已解决的 answer 'Scarborough, Maine'",
+          "solver_judgment": "提取结果：从 chunk f3dd26ad-968d-4afa-a129-16201989e736 中找到 'Hannaford is based in Scarborough, Maine'，确定答案为 Scarborough, Maine。检索质量评估：question 要求确认 Hannaford Brothers Company 的总部所在地。search_query 直接搜索了该问题。chunks 返回了关于 Hannaford 的信息，其中目标 chunk 明确记载了总部位置，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Hannaford Brothers Company 文档），直接具体地陈述了答案。支撑 chunk f3dd26ad 原文明确记载 'Hannaford is based in Scarborough, Maine'。单来源但直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f3dd26ad-968d-4afa-a129-16201989e736"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f3dd26ad-968d-4afa-a129-16201989e736",
+              "chunk_title": "Hannaford Supermarket Chain",
+              "chunk_summary": "This chunk contains information about the supermarket chain Hannaford, including its founding history, headquarters location, operational regions, and parent company.",
+              "context_title": "Hannaford Brothers Company",
+              "page_content": "Hannaford is a supermarket chain. Hannaford was founded in 1883. Hannaford operates stores in New York. The Ahold Delhaize group is based in the Netherlands. Hannaford operates stores in New England. Hannaford is based in Scarborough, Maine. The Hannaford chain is part of the Ahold Delhaize group. Hannaford was founded in Portland, Maine."
+            },
+            {
+              "chunk_id": "dd34c011-ba6f-484c-b8e8-c00398b54f41",
+              "chunk_title": "Victory Super Markets History",
+              "chunk_summary": "This chunk contains information about the history, founding, operations, and acquisition of Victory Super Markets.",
+              "context_title": "Victory Supermarkets",
+              "page_content": "Victory Super Markets was a family-run company. Victory Super Markets employed over 2,600 workers when it was sold. Victory Super Markets was founded in 1923. Victory Super Markets was founded by two DiGeronimo brothers. Victory Super Markets had an annual revenue of $385 million when it was sold. Victory Super Markets was a grocery store chain. Victory Super Markets was based in Leominster, Massachusetts. Victory Super Markets had a successful 81 year stretch before being sold. Victory Super Markets was sold to Hannaford Brothers Company in 2004. Victory Super Markets was originally named after the American war effort in World War I. Victory Super Markets included 20 stores across Massachusetts and New Hampshire."
+            },
+            {
+              "chunk_id": "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+              "chunk_title": "Corporate Headquarters Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters locations of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "The corporate headquarters of Parker Hannifin Corporation have a Cleveland mailing address. The corporate headquarters of Parker Hannifin Corporation are in Mayfield Heights, Ohio."
+            },
+            {
+              "chunk_id": "440a8225-9fc9-48b5-ba3a-a47f77d199f8",
+              "chunk_title": "Office Locations",
+              "chunk_summary": "This chunk contains information about the current and future locations of the company's national support office.",
+              "context_title": "Target Australia",
+              "page_content": "The company's national support office will move its headquarters to Williams Landing at the end of 2018. The company's national support office is currently located in North Geelong, Victoria."
+            },
+            {
+              "chunk_id": "c25adc19-8c24-4500-a946-511a5bfd910d",
+              "chunk_title": "Government Locations",
+              "chunk_summary": "This chunk contains information about the locations of government departments.",
+              "context_title": "Connecticut State Marshal",
+              "page_content": "The Department of Administrative Services is located in Hartford, Connecticut."
+            },
+            {
+              "chunk_id": "e276ed01-19a1-4555-a9c1-6efda4ef81af",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of corporate headquarters.",
+              "context_title": "SemGroup",
+              "page_content": "SemGroup's headquarters are in Tulsa, Oklahoma."
+            },
+            {
+              "chunk_id": "7d3d8646-86bc-4746-a875-0828ddec2084",
+              "chunk_title": "Corporate Identity & Origins",
+              "chunk_summary": "This chunk contains information about the history, naming conventions, and nationality of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "Parker Hannifin Corporation is an American corporation. Parker Hannifin Corporation was originally named Parker Appliance Company. Parker Hannifin Corporation is usually referred to as just Parker. Parker Hannifin Corporation was founded in 1917."
+            },
+            {
+              "chunk_id": "cc250535-59a5-4520-9361-81b171df138e",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of companies.",
+              "context_title": "Focus Brands",
+              "page_content": "Focus Brands is based in Sandy Springs, Georgia. Roark Capital Group is based in Atlanta."
+            },
+            {
+              "chunk_id": "3dffacee-f02a-4f50-988f-e47f87174d13",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the locations of corporate headquarters.",
+              "context_title": "Swanson, Ontario",
+              "page_content": "The Canadian Pacific Railway headquarters is in Calgary, Alberta."
+            },
+            {
+              "chunk_id": "bccb76f5-1f60-4679-932a-666119c072bd",
+              "chunk_title": "Headquarters Location",
+              "chunk_summary": "This chunk contains information about the headquarters location of GFS Canada.",
+              "context_title": "GFS Canada",
+              "page_content": "GFS Canada is headquartered in Grand Rapids, Michigan."
+            }
+          ]
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "What is the latitude of Scarborough, Maine?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Scarborough, Maine latitude",
+          "planner_rationale": "N1_2 已确认 Hannaford 总部位于 Scarborough, Maine，但原节点缺失纬度数据；需新增独立节点查询该地纬度以完成 Q 的比较需求",
+          "solver_judgment": "question 要求提供 Scarborough, Maine 的纬度。search_query 搜索了 'Scarborough, Maine latitude'。chunks 返回的结果中，chunk f3dd26ad-968d-4afa-a129-16201989e736 提到了 'Hannaford is based in Scarborough, Maine'，确认了该地点的存在，但所有 chunks 均未包含 Scarborough, Maine 的具体纬度坐标信息。检索未能命中目标地理坐标数据，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，涉及 Maine 州多个地理实体（Lobster Lake、Bay of Fundy、Maine State Route 160 等，共 8 个独立来源），但没有任何 chunk 包含 Scarborough, Maine 的具体纬度坐标信息。唯一相关 chunk f3dd26ad 仅确认 'Hannaford is based in Scarborough, Maine'，无坐标数据。",
+          "critic_normative_advice": "建议换搜索方向或放弃——搜索 'Scarborough, Maine latitude' 未命中纬度数据。KB 中 Maine 相关文档（8 个来源）覆盖湖泊、公路、地理区域等，但无 Scarborough 镇的坐标。若 KB 确实无覆盖，建议放弃此节点，考虑用定性位置描述进行近似比较。",
+          "round_created": 2,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "ce2e20c9-6294-4a31-84a9-fedccd30829c",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of peak runoff events.",
+              "context_title": "Lobster Lake (Maine)",
+              "page_content": "The peak runoff events occur from the western Maine highlands along the Canadian border."
+            },
+            {
+              "chunk_id": "f3dd26ad-968d-4afa-a129-16201989e736",
+              "chunk_title": "Hannaford Supermarket Chain",
+              "chunk_summary": "This chunk contains information about the supermarket chain Hannaford, including its founding history, headquarters location, operational regions, and parent company.",
+              "context_title": "Hannaford Brothers Company",
+              "page_content": "Hannaford is a supermarket chain. Hannaford was founded in 1883. Hannaford operates stores in New York. The Ahold Delhaize group is based in the Netherlands. Hannaford operates stores in New England. Hannaford is based in Scarborough, Maine. The Hannaford chain is part of the Ahold Delhaize group. Hannaford was founded in Portland, Maine."
+            },
+            {
+              "chunk_id": "20230835-03e9-4d4f-8196-b34d49500421",
+              "chunk_title": "Bay of Fundy Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, names, and characteristics of specific bays.",
+              "context_title": "Bay of Fundy",
+              "page_content": "The Bay of Fundy is called \"Baie de Fundy\" in French. The Bay of Fundy is between the Canadian provinces of New Brunswick and Nova Scotia. The Bay of Fundy is a bay on the Atlantic coast of North America. The Bay of Fundy is on the northeast end of the Gulf of Maine. A small portion of the Bay of Fundy touches the U.S. state of Maine."
+            },
+            {
+              "chunk_id": "b74a9253-5551-4cdd-8697-173ccc75020c",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about geographical locations and their relative positions.",
+              "context_title": "Boston, Lincolnshire",
+              "page_content": "Boston is due north of Greenwich on the Prime Meridian."
+            },
+            {
+              "chunk_id": "364f9896-abb3-4746-b01c-ab60f1084048",
+              "chunk_title": "State Route Classification",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of state routes.",
+              "context_title": "Maine State Route 160",
+              "page_content": "State Route 160 is abbreviated SR 160. State Route 160 is part of Maine's system of numbered state highways."
+            },
+            {
+              "chunk_id": "e187cc5d-7edb-41fd-8e57-d02268eec440",
+              "chunk_title": "State Route 160 Details",
+              "chunk_summary": "This chunk contains information about the location, orientation, length, and route endpoints of State Route 160 in Maine.",
+              "context_title": "Maine State Route 160",
+              "page_content": "State Route 160 runs to an intersection with State Route 117 in Denmark. State Route 160 runs 32.64 miles. State Route 160 runs from an intersection with State Route 5 in Limerick. State Route 160 is located in the western part of Maine. State Route 160 is a north–south highway."
+            },
+            {
+              "chunk_id": "66618ff2-c0d7-46ce-844b-46bcc7ec7283",
+              "chunk_title": "Geographical Areas",
+              "chunk_summary": "This chunk contains information about the geographical size and location of specific areas or regions, such as the Bridgewater Triangle.",
+              "context_title": "Bridgewater Triangle",
+              "page_content": "The Bridgewater Triangle is located within southeastern Massachusetts. The Bridgewater Triangle refers to an area of about 200 square miles. Southeastern Massachusetts is in the United States."
+            },
+            {
+              "chunk_id": "e9c73bab-ac44-4324-8e52-3d28c8b3120b",
+              "chunk_title": "Lobster Lake Geography & Features",
+              "chunk_summary": "This chunk contains information about the geographical location, naming origin, physical shape characteristics, and connected waterways of Lobster Lake.",
+              "context_title": "Lobster Lake (Maine)",
+              "page_content": "The northwest corner of Lobster Lake resembles a curled lobster tail. Lobster Lake extends eastward into Lobster township. The West Branch Penobscot River is located 1.4 miles north of Lobster Lake. A smaller western arm of Lobster Lake is called \"Little Claw\". Lobster Lake was named because its shape resembles the outline of a lobster. The West Branch Penobscot River may temporarily reverse flow through Lobster Stream into Lobster Lake during peak runoff events. The larger eastern arm of Lobster Lake is called \"Big Claw\". Lobster Lake and the West Branch Penobscot River are at a similar elevation. The larger eastern arm of Lobster Lake extends southward. Lobster Stream connects the northwest corner of Lobster Lake to the West Branch Penobscot River. The northwest corner of Lobster Lake is located in Northeast Carry township. Lobster Lake is located in the North Maine Woods. The part of Lobster Lake extending eastward into Lobster township resembles a lobster thorax."
+            },
+            {
+              "chunk_id": "a2a891f7-584b-4ada-846c-fdbfc5d60f35",
+              "chunk_title": "Biographical Origins",
+              "chunk_summary": "This chunk contains biographical information about individuals, including their birthplaces and origins.",
+              "context_title": "Kenneth Roberts (author)",
+              "page_content": "Kenneth Lewis Roberts was born in Kennebunk, Maine."
+            },
+            {
+              "chunk_id": "51a71392-72d4-4625-87a2-8478a498e039",
+              "chunk_title": "Water Body Characteristics",
+              "chunk_summary": "This chunk contains information about the physical characteristics and geographical locations of water bodies, including lakes, rivers, and oceanic regions.",
+              "context_title": "Profile Lake",
+              "page_content": "The Gulf of Maine is part of the Atlantic Ocean. The Merrimack River reaches the Gulf of Maine at Newburyport, Massachusetts. Profile Lake is a 13 acre water body."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N2_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_2",
+          "to": "N2_1",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，比较 Wynantskill, New York 与 Hannaford Brothers Company 哪个更靠北。当前策略从定量坐标比较降级为定性位置比较。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。当前子节点状态：N1_1 已找到 Wynantskill 的定性位置描述（'at the north town line of the town of North Greenbush'），N1_2 已确认 Hannaford 总部位于 Scarborough, Maine，N2_1 未找到 Scarborough, Maine 的定性位置描述（搜索未命中）。推理链不完整，无法支撑最终南北比较。",
+          "critic_normative_advice": "建议等待子节点补全——N2_1 是当前阻塞点。若 N2_1 经多轮搜索仍无法获取 Scarborough 的南北位置描述，建议 Planner 考虑放弃定性比较策略，或尝试其他角度（如搜索 North Greenbush 与 Scarborough 的相对位置关系）。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where is Hannaford Brothers Company headquartered?",
+          "answer": "Scarborough, Maine",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where is Hannaford Brothers Company headquartered?",
+          "planner_rationale": "已确认 Hannaford 总部位于 Scarborough, Maine——这是完成 Q 比较的关键事实之一，证据充分（Critic healthy），直接保留。",
+          "solver_judgment": "提取结果：从 chunk f3dd26ad-968d-4afa-a129-16201989e736 中找到 'Hannaford is based in Scarborough, Maine'，确定答案为 Scarborough, Maine。检索质量评估：question 要求确认 Hannaford Brothers Company 的总部所在地。search_query 直接搜索了该问题。chunks 返回了关于 Hannaford 的信息，其中目标 chunk 明确记载了总部位置，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Hannaford Brothers Company 文档），直接具体地陈述了答案。支撑 chunk f3dd26ad 原文明确记载 'Hannaford is based in Scarborough, Maine'。单来源但直接、具体。上轮已标记 healthy，本轮无变化。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f3dd26ad-968d-4afa-a129-16201989e736"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f3dd26ad-968d-4afa-a129-16201989e736",
+              "chunk_title": "Hannaford Supermarket Chain",
+              "chunk_summary": "This chunk contains information about the supermarket chain Hannaford, including its founding history, headquarters location, operational regions, and parent company.",
+              "context_title": "Hannaford Brothers Company",
+              "page_content": "Hannaford is a supermarket chain. Hannaford was founded in 1883. Hannaford operates stores in New York. The Ahold Delhaize group is based in the Netherlands. Hannaford operates stores in New England. Hannaford is based in Scarborough, Maine. The Hannaford chain is part of the Ahold Delhaize group. Hannaford was founded in Portland, Maine."
+            },
+            {
+              "chunk_id": "dd34c011-ba6f-484c-b8e8-c00398b54f41",
+              "chunk_title": "Victory Super Markets History",
+              "chunk_summary": "This chunk contains information about the history, founding, operations, and acquisition of Victory Super Markets.",
+              "context_title": "Victory Supermarkets",
+              "page_content": "Victory Super Markets was a family-run company. Victory Super Markets employed over 2,600 workers when it was sold. Victory Super Markets was founded in 1923. Victory Super Markets was founded by two DiGeronimo brothers. Victory Super Markets had an annual revenue of $385 million when it was sold. Victory Super Markets was a grocery store chain. Victory Super Markets was based in Leominster, Massachusetts. Victory Super Markets had a successful 81 year stretch before being sold. Victory Super Markets was sold to Hannaford Brothers Company in 2004. Victory Super Markets was originally named after the American war effort in World War I. Victory Super Markets included 20 stores across Massachusetts and New Hampshire."
+            },
+            {
+              "chunk_id": "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+              "chunk_title": "Corporate Headquarters Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters locations of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "The corporate headquarters of Parker Hannifin Corporation have a Cleveland mailing address. The corporate headquarters of Parker Hannifin Corporation are in Mayfield Heights, Ohio."
+            },
+            {
+              "chunk_id": "440a8225-9fc9-48b5-ba3a-a47f77d199f8",
+              "chunk_title": "Office Locations",
+              "chunk_summary": "This chunk contains information about the current and future locations of the company's national support office.",
+              "context_title": "Target Australia",
+              "page_content": "The company's national support office will move its headquarters to Williams Landing at the end of 2018. The company's national support office is currently located in North Geelong, Victoria."
+            },
+            {
+              "chunk_id": "c25adc19-8c24-4500-a946-511a5bfd910d",
+              "chunk_title": "Government Locations",
+              "chunk_summary": "This chunk contains information about the locations of government departments.",
+              "context_title": "Connecticut State Marshal",
+              "page_content": "The Department of Administrative Services is located in Hartford, Connecticut."
+            },
+            {
+              "chunk_id": "e276ed01-19a1-4555-a9c1-6efda4ef81af",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of corporate headquarters.",
+              "context_title": "SemGroup",
+              "page_content": "SemGroup's headquarters are in Tulsa, Oklahoma."
+            },
+            {
+              "chunk_id": "7d3d8646-86bc-4746-a875-0828ddec2084",
+              "chunk_title": "Corporate Identity & Origins",
+              "chunk_summary": "This chunk contains information about the history, naming conventions, and nationality of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "Parker Hannifin Corporation is an American corporation. Parker Hannifin Corporation was originally named Parker Appliance Company. Parker Hannifin Corporation is usually referred to as just Parker. Parker Hannifin Corporation was founded in 1917."
+            },
+            {
+              "chunk_id": "cc250535-59a5-4520-9361-81b171df138e",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of companies.",
+              "context_title": "Focus Brands",
+              "page_content": "Focus Brands is based in Sandy Springs, Georgia. Roark Capital Group is based in Atlanta."
+            },
+            {
+              "chunk_id": "3dffacee-f02a-4f50-988f-e47f87174d13",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the locations of corporate headquarters.",
+              "context_title": "Swanson, Ontario",
+              "page_content": "The Canadian Pacific Railway headquarters is in Calgary, Alberta."
+            },
+            {
+              "chunk_id": "bccb76f5-1f60-4679-932a-666119c072bd",
+              "chunk_title": "Headquarters Location",
+              "chunk_summary": "This chunk contains information about the headquarters location of GFS Canada.",
+              "context_title": "GFS Canada",
+              "page_content": "GFS Canada is headquartered in Grand Rapids, Michigan."
+            }
+          ]
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What qualitative location description indicates how far north Wynantskill, New York is located?",
+          "answer": "at the north town line of the town of North Greenbush",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What qualitative location description indicates how far north Wynantskill, New York is located?",
+          "planner_rationale": "连续两轮搜索坐标数据（latitude、coordinates）均未命中，Critic 确认 KB 缺乏 Wynantskill 的定量坐标信息。换用定性位置描述策略——搜索 Wynantskill 相对于已知北方/南方参照物的位置描述，或其在纽约州内的相对南北位置。",
+          "solver_judgment": "question 要求确认指示 Wynantskill, New York 位于多北的定性位置描述。search_query 与问题一致。chunks 返回了 Wynantskill 的概述信息，其中 chunk 51ad445b-00a6-4438-8c60-226cf4f5f860 明确记载 'Wynantskill is located at the north town line of the town of North Greenbush' 以及 'at the northeast corner of the town of North Greenbush'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Wynantskill, New York 文档），直接具体地陈述了答案。支撑 chunk 51ad445b 原文明确记载 'Wynantskill is located at the north town line of the town of North Greenbush' 以及 'at the northeast corner of the town of North Greenbush'。单来源但直接、具体，答案与 chunk 内容完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "51ad445b-00a6-4438-8c60-226cf4f5f860"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51ad445b-00a6-4438-8c60-226cf4f5f860",
+              "chunk_title": "Wynantskill Overview",
+              "chunk_summary": "This chunk contains information about the geographical classification, location, population statistics, and transportation infrastructure of Wynantskill, New York.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Almost all houses in Wynantskill are located on side streets off Main Ave. Whiteview Road is a major road in Wynantskill. NY Route 66 is known as Pawling Ave. in Troy. Wynantskill is a hamlet in Rensselaer County, New York, United States. The community of Wynantskill is a suburb of Troy. Wynantskill is located at the north town line of the town of North Greenbush. Wynantskill is located at the northeast corner of the town of North Greenbush. The population of Wynantskill was 3,276 at the 2010 census. Wynantskill is a census-designated place (CDP) in Rensselaer County, New York, United States. NY Route 66 is the main route throughout the community of Wynantskill. NY Route 66 is known as Main Ave. in Wynantskill."
+            },
+            {
+              "chunk_id": "dc10f15b-5297-4ac5-9192-566cd7fedbc8",
+              "chunk_title": "Road Characteristics & Connectivity",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, and connectivity of specific roads.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Whiteview Road is a primarily residential road. Whiteview Road leads to Route 4. West Sand Lake Road is a major road in Wynantskill."
+            },
+            {
+              "chunk_id": "9863bd10-1626-4c90-a22b-81fff55b4fb1",
+              "chunk_title": "Commercial Facilities & Amenities",
+              "chunk_summary": "This chunk contains information about the types of commercial facilities, amenities, and public services available in Wynantskill.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Wynantskill has a major grocery store. Wynantskill has a craft beverage store. Wynantskill has a bowling alley. Wynantskill has convenience stores. Wynantskill has a post office. Wynantskill has several restaurants. Wynantskill has several banks."
+            },
+            {
+              "chunk_id": "6b34af95-4ef8-427a-973e-aba37c430cb8",
+              "chunk_title": "Hamlet Locations",
+              "chunk_summary": "This chunk contains information about the classification, alternative names, administrative location, and geographic positioning of specific hamlets.",
+              "context_title": "Boght Corners, New York",
+              "page_content": "Boght Corners is in the town of Colonie. Boght Corners is a hamlet. The town of Colonie is in northern Albany County, New York. Boght Corners straddles U.S. Route 9. Boght Corners is also referred to as Boght."
+            },
+            {
+              "chunk_id": "ffc7c7f7-0fa2-408a-8153-d8ca7efdb8bb",
+              "chunk_title": "Geographical Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Rockland County within the Hudson Valley region.",
+              "context_title": "Karl A. Brabenec",
+              "page_content": "Rockland County is in the Hudson Valley."
+            },
+            {
+              "chunk_id": "ead7c1da-f3d1-4c13-8201-673624375cd5",
+              "chunk_title": "Neighborhood Locations",
+              "chunk_summary": "This chunk contains information about the location, boundaries, and regional descriptions of specific neighborhoods within cities.",
+              "context_title": "Morningside Heights, Manhattan",
+              "page_content": "Morningside Heights is a neighborhood of the borough of Manhattan in New York City. The area of Morningside Heights has been described as part of \"Greater Harlem\". Morningside Heights is on the border of the Upper West Side and Manhattanville. There is a disputed claim that the Upper West Side goes no farther north than 110th Street. The area of Morningside Heights is usually described as being on the Upper West Side."
+            },
+            {
+              "chunk_id": "4ffb3767-02e2-441e-9ca4-1b3206e00824",
+              "chunk_title": "Genesee River Geography",
+              "chunk_summary": "This chunk contains information about the Genesee River, including its flow direction and its status as a tributary to Lake Ontario.",
+              "context_title": "Genesee River",
+              "page_content": "The Genesee River flows northward through the Twin Tiers of Pennsylvania and New York. The Genesee River is a tributary of Lake Ontario."
+            },
+            {
+              "chunk_id": "088aa79e-936a-4460-a5f4-1e42b7c393f6",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the locations of buildings and landmarks relative to roads or other geographical features.",
+              "context_title": "Borodino, New York",
+              "page_content": "A Methodist Church stands close to New York State Route 174. The Methodist Church is located about five properties north of the intersection of New York State Route 41 and New York State Route 174."
+            },
+            {
+              "chunk_id": "63b97491-3877-42a9-9e74-320ddaff69e9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities and their administrative divisions.",
+              "context_title": "Yonkers Avenue",
+              "page_content": "The city of Yonkers is in Westchester County, New York. Westchester County, New York is in the United States."
+            },
+            {
+              "chunk_id": "cdd6ebd7-9e5b-47aa-b412-346ea40f4519",
+              "chunk_title": "Route 9G Path & Location",
+              "chunk_summary": "This chunk contains information about the location, route, and path of New York State Route 9G in the Hudson Valley.",
+              "context_title": "New York State Route 9G",
+              "page_content": "New York State Route 9G ends at a junction with U.S. Route 9 in the city of Hudson. New York State Route 9G follows the Hudson River. U.S. Route 9 and New York State Route 9G cross just north of the village of Rhinebeck. New York State Route 9G mostly runs along the eastern side of U.S. Route 9 to Rhinebeck. New York State Route 9G runs north from U.S. Route 9 at Poughkeepsie. New York State Route 9G initially extended from Rhinebeck to Hudson. New York State Route 9G starts out as Violet Avenue at Poughkeepsie. From the crossing point north of Rhinebeck onward, New York State Route 9G runs closer to the Hudson River than U.S. Route 9. New York State Route 9G runs to Hudson. New York State Route 9G is located in the Hudson Valley of New York. From the crossing point north of Rhinebeck onward, New York State Route 9G runs on the western side of U.S. Route 9."
+            }
+          ]
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "What qualitative location description indicates how far north Scarborough, Maine is located?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Scarborough, Maine location description north",
+          "planner_rationale": "搜索 Scarborough, Maine latitude 未命中坐标数据，Critic 确认 KB 缺乏 Scarborough 的定量坐标信息。换用定性位置描述策略——搜索 Scarborough 在缅因州内的相对南北位置描述，或其相对于已知参照物的位置。",
+          "solver_judgment": "question 要求提取描述 Scarborough, Maine 位于多北的定性位置描述（qualitative location description）。search_query 搜索了 'Scarborough, Maine location description north'。chunks 中仅在 Hannaford 相关片段 (f3dd26ad) 提及 'Hannaford is based in Scarborough, Maine'，其余片段涉及 Randolph (NH)、Lobster Lake、Bay of Fundy 等其他地理实体。所有返回的 chunks 均未包含任何关于 Scarborough 南北位置或纬度的定性描述。检索未能命中目标信息，存在明显缺口，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，但无一包含关于 Scarborough, Maine 南北位置或纬度的定性描述。返回内容涉及 Hannaford 总部提及（仅重复 Scarborough, Maine 地名）、Randolph NH、Lobster Lake Maine、Profile Lake、Southern right whale dolphin、Franklin Street Presbyterian Church、Bay of Fundy、Maine State Route 160 等无关地理实体。KB 似乎缺乏 Scarborough, Maine 的定性位置描述信息。",
+          "critic_normative_advice": "建议放弃此方向——连续搜索坐标和定性描述均未命中，KB 确实无覆盖。建议 Planner 考虑替代策略：(1) 搜索 'North Greenbush, New York location' 以获取 N1_1 答案中提及的参照物的位置，再与 Scarborough, Maine 比较；(2) 搜索 'Scarborough, Maine county' 或 'Scarborough, Maine region' 获取更粗粒度的位置信息；(3) 若 KB 确实无覆盖，考虑标记此比较为无法完成。",
+          "round_created": 2,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f3dd26ad-968d-4afa-a129-16201989e736",
+              "chunk_title": "Hannaford Supermarket Chain",
+              "chunk_summary": "This chunk contains information about the supermarket chain Hannaford, including its founding history, headquarters location, operational regions, and parent company.",
+              "context_title": "Hannaford Brothers Company",
+              "page_content": "Hannaford is a supermarket chain. Hannaford was founded in 1883. Hannaford operates stores in New York. The Ahold Delhaize group is based in the Netherlands. Hannaford operates stores in New England. Hannaford is based in Scarborough, Maine. The Hannaford chain is part of the Ahold Delhaize group. Hannaford was founded in Portland, Maine."
+            },
+            {
+              "chunk_id": "10481c1c-4bf2-4acf-b6b8-6dd527717dd2",
+              "chunk_title": "Geography & Environment",
+              "chunk_summary": "This chunk contains information about the geographical and environmental characteristics of Randolph, including its forestation, topographical extent relative to surrounding mountain ranges and towns, and its inclusion within various protected forests.",
+              "context_title": "Randolph, New Hampshire",
+              "page_content": "Randolph extends to the Crescent Range and Berlin to the north. The northern part of Randolph is within the White Mountain National Forest. The southern part of Randolph is within the Ice Gulch Town Forest. The southern part of Randolph is within the White Mountain National Forest. The central part of Randolph is the settled portion of town. Randolph extends from the northern slopes of the White Mountains of the Presidential Range to the south. The northern part of Randolph is within the Ice Gulch Town Forest. Randolph is heavily forested."
+            },
+            {
+              "chunk_id": "ce2e20c9-6294-4a31-84a9-fedccd30829c",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of peak runoff events.",
+              "context_title": "Lobster Lake (Maine)",
+              "page_content": "The peak runoff events occur from the western Maine highlands along the Canadian border."
+            },
+            {
+              "chunk_id": "e9c73bab-ac44-4324-8e52-3d28c8b3120b",
+              "chunk_title": "Lobster Lake Geography & Features",
+              "chunk_summary": "This chunk contains information about the geographical location, naming origin, physical shape characteristics, and connected waterways of Lobster Lake.",
+              "context_title": "Lobster Lake (Maine)",
+              "page_content": "The northwest corner of Lobster Lake resembles a curled lobster tail. Lobster Lake extends eastward into Lobster township. The West Branch Penobscot River is located 1.4 miles north of Lobster Lake. A smaller western arm of Lobster Lake is called \"Little Claw\". Lobster Lake was named because its shape resembles the outline of a lobster. The West Branch Penobscot River may temporarily reverse flow through Lobster Stream into Lobster Lake during peak runoff events. The larger eastern arm of Lobster Lake is called \"Big Claw\". Lobster Lake and the West Branch Penobscot River are at a similar elevation. The larger eastern arm of Lobster Lake extends southward. Lobster Stream connects the northwest corner of Lobster Lake to the West Branch Penobscot River. The northwest corner of Lobster Lake is located in Northeast Carry township. Lobster Lake is located in the North Maine Woods. The part of Lobster Lake extending eastward into Lobster township resembles a lobster thorax."
+            },
+            {
+              "chunk_id": "51a71392-72d4-4625-87a2-8478a498e039",
+              "chunk_title": "Water Body Characteristics",
+              "chunk_summary": "This chunk contains information about the physical characteristics and geographical locations of water bodies, including lakes, rivers, and oceanic regions.",
+              "context_title": "Profile Lake",
+              "page_content": "The Gulf of Maine is part of the Atlantic Ocean. The Merrimack River reaches the Gulf of Maine at Newburyport, Massachusetts. Profile Lake is a 13 acre water body."
+            },
+            {
+              "chunk_id": "4109ba00-f67e-45a9-b9fd-20413f6aecdf",
+              "chunk_title": "Right Whale Dolphin Distribution",
+              "chunk_summary": "This chunk contains information about the habitat and geographic distribution of right whale dolphins.",
+              "context_title": "Southern right whale dolphin",
+              "page_content": "The northern right whale dolphin is found in deep oceans of the Northern Hemisphere. The southern right whale dolphin is found in cool waters of the Southern Hemisphere."
+            },
+            {
+              "chunk_id": "e656b7d9-929a-4f21-83ae-5554dd126489",
+              "chunk_title": "Historical Locations & Names",
+              "chunk_summary": "This chunk contains information about historical street name changes, former area names, and past locations of significant buildings in the city.",
+              "context_title": "Franklin Street Presbyterian Church and Parsonage",
+              "page_content": "The original Enoch Pratt Free Library central building faced West Mulberry Street at Cathedral. The fast-growing northern section of the city was formerly known as \"Howard's Woods\". North Street is now known as Guilford Avenue. Across Cathedral Street to the northeast was a Greek Revival home from the 1820s era."
+            },
+            {
+              "chunk_id": "9f868961-8b74-4583-a9ad-00219b671574",
+              "chunk_title": "Historical Location Names",
+              "chunk_summary": "This chunk contains information about historical street name changes and the former names of city locations.",
+              "context_title": "Franklin Street Presbyterian Church and Parsonage",
+              "page_content": "North Street is now Guilford Avenue. The fast-growing northern section of the city was formerly known as \"Howard's Woods\"."
+            },
+            {
+              "chunk_id": "20230835-03e9-4d4f-8196-b34d49500421",
+              "chunk_title": "Bay of Fundy Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, names, and characteristics of specific bays.",
+              "context_title": "Bay of Fundy",
+              "page_content": "The Bay of Fundy is called \"Baie de Fundy\" in French. The Bay of Fundy is between the Canadian provinces of New Brunswick and Nova Scotia. The Bay of Fundy is a bay on the Atlantic coast of North America. The Bay of Fundy is on the northeast end of the Gulf of Maine. A small portion of the Bay of Fundy touches the U.S. state of Maine."
+            },
+            {
+              "chunk_id": "e187cc5d-7edb-41fd-8e57-d02268eec440",
+              "chunk_title": "State Route 160 Details",
+              "chunk_summary": "This chunk contains information about the location, orientation, length, and route endpoints of State Route 160 in Maine.",
+              "context_title": "Maine State Route 160",
+              "page_content": "State Route 160 runs to an intersection with State Route 117 in Denmark. State Route 160 runs 32.64 miles. State Route 160 runs from an intersection with State Route 5 in Limerick. State Route 160 is located in the western part of Maine. State Route 160 is a north–south highway."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N2_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_2",
+          "to": "N2_1",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，比较 Wynantskill, New York 与 Hannaford Brothers Company 哪个更靠北。当前策略：通过建立 North Greenbush, NY 与 Scarborough, Maine 的相对位置参照系来完成南北比较。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。当前子节点状态：N1_1 healthy（Wynantskill 位于 North Greenbush 北镇线），N1_2 healthy（Hannaford 总部位于 Scarborough, Maine），N2_1 blocked（Scarborough 的县/区域信息搜索未命中），N4_1 needs_verification（North Greenbush 的县信息为推理得出，区域/相对位置缺失）。推理链不完整，N2_1 为阻塞点，无法支撑最终南北比较。",
+          "critic_normative_advice": "建议等待子节点补全——N2_1 是当前阻塞点。若 N2_1 经多轮搜索仍无法获取 Scarborough 的位置信息，建议 Planner 考虑放弃定性比较策略，或尝试其他角度（如直接搜索 'Scarborough Maine latitude' 或 'North Greenbush NY latitude' 获取数值坐标进行比较）。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What qualitative location description indicates how far north Wynantskill, New York is located?",
+          "answer": "at the north town line of the town of North Greenbush",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What qualitative location description indicates how far north Wynantskill, New York is located?",
+          "planner_rationale": "Wynantskill 的定性位置描述已确立——'at the north town line of the town of North Greenbush'。这是将 Wynantskill 的南北位置锚定到 North Greenbush 的关键事实。",
+          "solver_judgment": "question 要求确认指示 Wynantskill, New York 位于多北的定性位置描述。search_query 与问题一致。chunks 返回了 Wynantskill 的概述信息，其中 chunk 51ad445b-00a6-4438-8c60-226cf4f5f860 明确记载 'Wynantskill is located at the north town line of the town of North Greenbush' 以及 'at the northeast corner of the town of North Greenbush'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Wynantskill, New York 文档），直接具体地陈述了答案。支撑 chunk 51ad445b 原文明确记载 'Wynantskill is located at the north town line of the town of North Greenbush'。单来源但直接、具体，答案与 chunk 内容完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "51ad445b-00a6-4438-8c60-226cf4f5f860"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51ad445b-00a6-4438-8c60-226cf4f5f860",
+              "chunk_title": "Wynantskill Overview",
+              "chunk_summary": "This chunk contains information about the geographical classification, location, population statistics, and transportation infrastructure of Wynantskill, New York.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Almost all houses in Wynantskill are located on side streets off Main Ave. Whiteview Road is a major road in Wynantskill. NY Route 66 is known as Pawling Ave. in Troy. Wynantskill is a hamlet in Rensselaer County, New York, United States. The community of Wynantskill is a suburb of Troy. Wynantskill is located at the north town line of the town of North Greenbush. Wynantskill is located at the northeast corner of the town of North Greenbush. The population of Wynantskill was 3,276 at the 2010 census. Wynantskill is a census-designated place (CDP) in Rensselaer County, New York, United States. NY Route 66 is the main route throughout the community of Wynantskill. NY Route 66 is known as Main Ave. in Wynantskill."
+            },
+            {
+              "chunk_id": "dc10f15b-5297-4ac5-9192-566cd7fedbc8",
+              "chunk_title": "Road Characteristics & Connectivity",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, and connectivity of specific roads.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Whiteview Road is a primarily residential road. Whiteview Road leads to Route 4. West Sand Lake Road is a major road in Wynantskill."
+            },
+            {
+              "chunk_id": "9863bd10-1626-4c90-a22b-81fff55b4fb1",
+              "chunk_title": "Commercial Facilities & Amenities",
+              "chunk_summary": "This chunk contains information about the types of commercial facilities, amenities, and public services available in Wynantskill.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Wynantskill has a major grocery store. Wynantskill has a craft beverage store. Wynantskill has a bowling alley. Wynantskill has convenience stores. Wynantskill has a post office. Wynantskill has several restaurants. Wynantskill has several banks."
+            },
+            {
+              "chunk_id": "6b34af95-4ef8-427a-973e-aba37c430cb8",
+              "chunk_title": "Hamlet Locations",
+              "chunk_summary": "This chunk contains information about the classification, alternative names, administrative location, and geographic positioning of specific hamlets.",
+              "context_title": "Boght Corners, New York",
+              "page_content": "Boght Corners is in the town of Colonie. Boght Corners is a hamlet. The town of Colonie is in northern Albany County, New York. Boght Corners straddles U.S. Route 9. Boght Corners is also referred to as Boght."
+            },
+            {
+              "chunk_id": "ffc7c7f7-0fa2-408a-8153-d8ca7efdb8bb",
+              "chunk_title": "Geographical Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Rockland County within the Hudson Valley region.",
+              "context_title": "Karl A. Brabenec",
+              "page_content": "Rockland County is in the Hudson Valley."
+            },
+            {
+              "chunk_id": "ead7c1da-f3d1-4c13-8201-673624375cd5",
+              "chunk_title": "Neighborhood Locations",
+              "chunk_summary": "This chunk contains information about the location, boundaries, and regional descriptions of specific neighborhoods within cities.",
+              "context_title": "Morningside Heights, Manhattan",
+              "page_content": "Morningside Heights is a neighborhood of the borough of Manhattan in New York City. The area of Morningside Heights has been described as part of \"Greater Harlem\". Morningside Heights is on the border of the Upper West Side and Manhattanville. There is a disputed claim that the Upper West Side goes no farther north than 110th Street. The area of Morningside Heights is usually described as being on the Upper West Side."
+            },
+            {
+              "chunk_id": "4ffb3767-02e2-441e-9ca4-1b3206e00824",
+              "chunk_title": "Genesee River Geography",
+              "chunk_summary": "This chunk contains information about the Genesee River, including its flow direction and its status as a tributary to Lake Ontario.",
+              "context_title": "Genesee River",
+              "page_content": "The Genesee River flows northward through the Twin Tiers of Pennsylvania and New York. The Genesee River is a tributary of Lake Ontario."
+            },
+            {
+              "chunk_id": "088aa79e-936a-4460-a5f4-1e42b7c393f6",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the locations of buildings and landmarks relative to roads or other geographical features.",
+              "context_title": "Borodino, New York",
+              "page_content": "A Methodist Church stands close to New York State Route 174. The Methodist Church is located about five properties north of the intersection of New York State Route 41 and New York State Route 174."
+            },
+            {
+              "chunk_id": "63b97491-3877-42a9-9e74-320ddaff69e9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities and their administrative divisions.",
+              "context_title": "Yonkers Avenue",
+              "page_content": "The city of Yonkers is in Westchester County, New York. Westchester County, New York is in the United States."
+            },
+            {
+              "chunk_id": "cdd6ebd7-9e5b-47aa-b412-346ea40f4519",
+              "chunk_title": "Route 9G Path & Location",
+              "chunk_summary": "This chunk contains information about the location, route, and path of New York State Route 9G in the Hudson Valley.",
+              "context_title": "New York State Route 9G",
+              "page_content": "New York State Route 9G ends at a junction with U.S. Route 9 in the city of Hudson. New York State Route 9G follows the Hudson River. U.S. Route 9 and New York State Route 9G cross just north of the village of Rhinebeck. New York State Route 9G mostly runs along the eastern side of U.S. Route 9 to Rhinebeck. New York State Route 9G runs north from U.S. Route 9 at Poughkeepsie. New York State Route 9G initially extended from Rhinebeck to Hudson. New York State Route 9G starts out as Violet Avenue at Poughkeepsie. From the crossing point north of Rhinebeck onward, New York State Route 9G runs closer to the Hudson River than U.S. Route 9. New York State Route 9G runs to Hudson. New York State Route 9G is located in the Hudson Valley of New York. From the crossing point north of Rhinebeck onward, New York State Route 9G runs on the western side of U.S. Route 9."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where is Hannaford Brothers Company headquartered?",
+          "answer": "Scarborough, Maine",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where is Hannaford Brothers Company headquartered?",
+          "planner_rationale": "Hannaford 总部位置已确立——Scarborough, Maine。这是将 Hannaford 的南北位置锚定到 Scarborough 的关键事实。",
+          "solver_judgment": "提取结果：从 chunk f3dd26ad-968d-4afa-a129-16201989e736 中找到 'Hannaford is based in Scarborough, Maine'，确定答案为 Scarborough, Maine。检索质量评估：question 要求确认 Hannaford Brothers Company 的总部所在地。search_query 直接搜索了该问题。chunks 返回了关于 Hannaford 的信息，其中目标 chunk 明确记载了总部位置，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Hannaford Brothers Company 文档），直接具体地陈述了答案。支撑 chunk f3dd26ad 原文明确记载 'Hannaford is based in Scarborough, Maine'。单来源但直接、具体，答案与 chunk 内容完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f3dd26ad-968d-4afa-a129-16201989e736"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f3dd26ad-968d-4afa-a129-16201989e736",
+              "chunk_title": "Hannaford Supermarket Chain",
+              "chunk_summary": "This chunk contains information about the supermarket chain Hannaford, including its founding history, headquarters location, operational regions, and parent company.",
+              "context_title": "Hannaford Brothers Company",
+              "page_content": "Hannaford is a supermarket chain. Hannaford was founded in 1883. Hannaford operates stores in New York. The Ahold Delhaize group is based in the Netherlands. Hannaford operates stores in New England. Hannaford is based in Scarborough, Maine. The Hannaford chain is part of the Ahold Delhaize group. Hannaford was founded in Portland, Maine."
+            },
+            {
+              "chunk_id": "dd34c011-ba6f-484c-b8e8-c00398b54f41",
+              "chunk_title": "Victory Super Markets History",
+              "chunk_summary": "This chunk contains information about the history, founding, operations, and acquisition of Victory Super Markets.",
+              "context_title": "Victory Supermarkets",
+              "page_content": "Victory Super Markets was a family-run company. Victory Super Markets employed over 2,600 workers when it was sold. Victory Super Markets was founded in 1923. Victory Super Markets was founded by two DiGeronimo brothers. Victory Super Markets had an annual revenue of $385 million when it was sold. Victory Super Markets was a grocery store chain. Victory Super Markets was based in Leominster, Massachusetts. Victory Super Markets had a successful 81 year stretch before being sold. Victory Super Markets was sold to Hannaford Brothers Company in 2004. Victory Super Markets was originally named after the American war effort in World War I. Victory Super Markets included 20 stores across Massachusetts and New Hampshire."
+            },
+            {
+              "chunk_id": "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+              "chunk_title": "Corporate Headquarters Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters locations of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "The corporate headquarters of Parker Hannifin Corporation have a Cleveland mailing address. The corporate headquarters of Parker Hannifin Corporation are in Mayfield Heights, Ohio."
+            },
+            {
+              "chunk_id": "440a8225-9fc9-48b5-ba3a-a47f77d199f8",
+              "chunk_title": "Office Locations",
+              "chunk_summary": "This chunk contains information about the current and future locations of the company's national support office.",
+              "context_title": "Target Australia",
+              "page_content": "The company's national support office will move its headquarters to Williams Landing at the end of 2018. The company's national support office is currently located in North Geelong, Victoria."
+            },
+            {
+              "chunk_id": "c25adc19-8c24-4500-a946-511a5bfd910d",
+              "chunk_title": "Government Locations",
+              "chunk_summary": "This chunk contains information about the locations of government departments.",
+              "context_title": "Connecticut State Marshal",
+              "page_content": "The Department of Administrative Services is located in Hartford, Connecticut."
+            },
+            {
+              "chunk_id": "e276ed01-19a1-4555-a9c1-6efda4ef81af",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of corporate headquarters.",
+              "context_title": "SemGroup",
+              "page_content": "SemGroup's headquarters are in Tulsa, Oklahoma."
+            },
+            {
+              "chunk_id": "7d3d8646-86bc-4746-a875-0828ddec2084",
+              "chunk_title": "Corporate Identity & Origins",
+              "chunk_summary": "This chunk contains information about the history, naming conventions, and nationality of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "Parker Hannifin Corporation is an American corporation. Parker Hannifin Corporation was originally named Parker Appliance Company. Parker Hannifin Corporation is usually referred to as just Parker. Parker Hannifin Corporation was founded in 1917."
+            },
+            {
+              "chunk_id": "cc250535-59a5-4520-9361-81b171df138e",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of companies.",
+              "context_title": "Focus Brands",
+              "page_content": "Focus Brands is based in Sandy Springs, Georgia. Roark Capital Group is based in Atlanta."
+            },
+            {
+              "chunk_id": "3dffacee-f02a-4f50-988f-e47f87174d13",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the locations of corporate headquarters.",
+              "context_title": "Swanson, Ontario",
+              "page_content": "The Canadian Pacific Railway headquarters is in Calgary, Alberta."
+            },
+            {
+              "chunk_id": "bccb76f5-1f60-4679-932a-666119c072bd",
+              "chunk_title": "Headquarters Location",
+              "chunk_summary": "This chunk contains information about the headquarters location of GFS Canada.",
+              "context_title": "GFS Canada",
+              "page_content": "GFS Canada is headquartered in Grand Rapids, Michigan."
+            }
+          ]
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "What county or region is Scarborough, Maine located in, and what is its general position within Maine (e.g., southern, central, northern)?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Scarborough Maine county and general location within Maine",
+          "planner_rationale": "上一轮搜索 Scarborough 的定性位置描述（'how far north'）未命中任何结果，KB 缺乏此类描述。Critic 建议尝试更粗粒度的位置信息——搜索 Scarborough 所在的县或区域，以及其在缅因州内的大致方位（如 southern Maine）。这类信息更可能存在于 KB 中，且足以与 North Greenbush, NY 的位置进行南北比较。",
+          "solver_judgment": "question 要求确认 Scarborough, Maine 所在的县/地区及其在缅因州的大致方位（如南部、中部、北部）。search_query 搜索了 'Scarborough Maine county and general location within Maine'。chunks 中仅在 f3dd26ad 提到 'Hannaford is based in Scarborough, Maine'，但未提供其所属县或地理方位信息。其余 chunks 涉及缅因州其他地点（如 Lobster Lake、State Route 160、Kennebunk）或其他州的信息，均未涵盖 Scarborough 的行政区划或位置。检索未能命中目标信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，但无一包含 Scarborough, Maine 的县/区域或州内方位信息。唯一提及 Scarborough 的 chunk f3dd26ad 仅记载 'Hannaford is based in Scarborough, Maine'，未提供 Scarborough 本身的地理信息。其余 chunk 涉及缅因州其他地点（Lobster Lake、State Route 160、Kennebunk 等）或其他州信息，与 Scarborough 无关。KB 似乎缺乏 Scarborough, Maine 的位置描述。",
+          "critic_normative_advice": "建议换搜索方向——当前 'county and general location' 方向已搜索未命中。考虑尝试：(1) 搜索 'Scarborough Maine latitude' 获取数值坐标；(2) 搜索 'Scarborough Maine Cumberland County' 验证其是否属于 Cumberland County；(3) 搜索 'Scarborough Maine southern Maine' 确认其是否在南部缅因。若 KB 确实无覆盖，建议 Planner 考虑放弃此节点，改用其他比较策略。",
+          "round_created": 2,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f3dd26ad-968d-4afa-a129-16201989e736",
+              "chunk_title": "Hannaford Supermarket Chain",
+              "chunk_summary": "This chunk contains information about the supermarket chain Hannaford, including its founding history, headquarters location, operational regions, and parent company.",
+              "context_title": "Hannaford Brothers Company",
+              "page_content": "Hannaford is a supermarket chain. Hannaford was founded in 1883. Hannaford operates stores in New York. The Ahold Delhaize group is based in the Netherlands. Hannaford operates stores in New England. Hannaford is based in Scarborough, Maine. The Hannaford chain is part of the Ahold Delhaize group. Hannaford was founded in Portland, Maine."
+            },
+            {
+              "chunk_id": "88f50191-e37a-4219-b347-3f13796b49bd",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of counties within U.S. states.",
+              "context_title": "New Hampshire Route 78",
+              "page_content": "Cheshire County is in the southern part of the U.S. state of New Hampshire."
+            },
+            {
+              "chunk_id": "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+              "chunk_title": "Geography & Administration",
+              "chunk_summary": "This chunk contains information about the geographical location and administrative hierarchy of places, specifically detailing Munsonville's position within Nelson, Cheshire County, and New Hampshire.",
+              "context_title": "Munsonville, New Hampshire",
+              "page_content": "Munsonville is located in the northwestern corner of Nelson. Munsonville is located around the outlet of Granite Lake. Munsonville is in the town of Nelson. Cheshire County is in New Hampshire. The town of Nelson is in Cheshire County."
+            },
+            {
+              "chunk_id": "ce2e20c9-6294-4a31-84a9-fedccd30829c",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of peak runoff events.",
+              "context_title": "Lobster Lake (Maine)",
+              "page_content": "The peak runoff events occur from the western Maine highlands along the Canadian border."
+            },
+            {
+              "chunk_id": "364f9896-abb3-4746-b01c-ab60f1084048",
+              "chunk_title": "State Route Classification",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of state routes.",
+              "context_title": "Maine State Route 160",
+              "page_content": "State Route 160 is abbreviated SR 160. State Route 160 is part of Maine's system of numbered state highways."
+            },
+            {
+              "chunk_id": "20230835-03e9-4d4f-8196-b34d49500421",
+              "chunk_title": "Bay of Fundy Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, names, and characteristics of specific bays.",
+              "context_title": "Bay of Fundy",
+              "page_content": "The Bay of Fundy is called \"Baie de Fundy\" in French. The Bay of Fundy is between the Canadian provinces of New Brunswick and Nova Scotia. The Bay of Fundy is a bay on the Atlantic coast of North America. The Bay of Fundy is on the northeast end of the Gulf of Maine. A small portion of the Bay of Fundy touches the U.S. state of Maine."
+            },
+            {
+              "chunk_id": "a2a891f7-584b-4ada-846c-fdbfc5d60f35",
+              "chunk_title": "Biographical Origins",
+              "chunk_summary": "This chunk contains biographical information about individuals, including their birthplaces and origins.",
+              "context_title": "Kenneth Roberts (author)",
+              "page_content": "Kenneth Lewis Roberts was born in Kennebunk, Maine."
+            },
+            {
+              "chunk_id": "51a71392-72d4-4625-87a2-8478a498e039",
+              "chunk_title": "Water Body Characteristics",
+              "chunk_summary": "This chunk contains information about the physical characteristics and geographical locations of water bodies, including lakes, rivers, and oceanic regions.",
+              "context_title": "Profile Lake",
+              "page_content": "The Gulf of Maine is part of the Atlantic Ocean. The Merrimack River reaches the Gulf of Maine at Newburyport, Massachusetts. Profile Lake is a 13 acre water body."
+            },
+            {
+              "chunk_id": "abb43519-3a9e-4b16-af47-d56af378ecbf",
+              "chunk_title": "US Locations & Divisions",
+              "chunk_summary": "This chunk contains information about the geographical locations and administrative relationships of places in the United States, specifically focusing on Franklin County, St. Albans, and their connections to the Burlington metropolitan area and neighboring counties.",
+              "context_title": "St. Albans (city), Vermont",
+              "page_content": "Franklin County is part of the Burlington metropolitan area. The city of St. Albans is part of the Burlington metropolitan area. Franklin County is north of Chittenden County. Chittenden County is the most populous county of the Burlington metropolitan area. Franklin County is in the United States. The city of St. Albans is in Franklin County."
+            },
+            {
+              "chunk_id": "e187cc5d-7edb-41fd-8e57-d02268eec440",
+              "chunk_title": "State Route 160 Details",
+              "chunk_summary": "This chunk contains information about the location, orientation, length, and route endpoints of State Route 160 in Maine.",
+              "context_title": "Maine State Route 160",
+              "page_content": "State Route 160 runs to an intersection with State Route 117 in Denmark. State Route 160 runs 32.64 miles. State Route 160 runs from an intersection with State Route 5 in Limerick. State Route 160 is located in the western part of Maine. State Route 160 is a north–south highway."
+            }
+          ]
+        },
+        "N4_1": {
+          "id": "N4_1",
+          "question": "Where is North Greenbush, New York located (county, region, relative position within New York State)?",
+          "answer": "Rensselaer County",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Where is North Greenbush, New York located (county, region, relative position within New York State)?",
+          "planner_rationale": "N1_1 的答案将 Wynantskill 锚定到 North Greenbush 的北镇线。要完成南北比较，需要知道 North Greenbush 本身在纽约州内的位置（如 'eastern NY', 'Rensselaer County' 等），以便与 Scarborough, Maine 的位置建立可比较的参照系。Critic 明确指出这是当前策略的关键缺口。",
+          "solver_judgment": "question 要求确认 North Greenbush, New York 的 county、region 以及在纽约州内的相对位置。search_query 搜索了完整的问题。chunks 中，chunk 51ad445b 提到 'Wynantskill is a hamlet in Rensselaer County... Wynantskill is located at the north town line of the town of North Greenbush'，由此可推断 North Greenbush 位于 Rensselaer County。但 chunks 未提供 North Greenbush 所属的 region 或在纽约州内的相对位置信息。检索仅部分命中（county），缺失 region 和 relative position。",
+          "critic_factual_notes": "1 个来源（Wynantskill, New York 文档），但答案为推理得出而非直接陈述。支撑 chunk 51ad445b 记载 'Wynantskill is a hamlet in Rensselaer County' 和 'Wynantskill is located at the north town line of the town of North Greenbush'，由此可推断 North Greenbush 也在 Rensselaer County，但 chunk 未直接陈述 North Greenbush 的县属。此外，chunk 未提供 North Greenbush 的 region 或在纽约州内的相对位置信息，答案不完整。",
+          "critic_normative_advice": "建议重搜——当前答案仅覆盖 county 且为推理得出，缺失 region 和 relative position。尝试搜索 'North Greenbush New York region' 或 'North Greenbush eastern New York' 获取更完整的位置描述。若 KB 无覆盖，可接受 'Rensselaer County' 作为部分答案，但需标注推理性质。",
+          "round_created": 4,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "51ad445b-00a6-4438-8c60-226cf4f5f860"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51ad445b-00a6-4438-8c60-226cf4f5f860",
+              "chunk_title": "Wynantskill Overview",
+              "chunk_summary": "This chunk contains information about the geographical classification, location, population statistics, and transportation infrastructure of Wynantskill, New York.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Almost all houses in Wynantskill are located on side streets off Main Ave. Whiteview Road is a major road in Wynantskill. NY Route 66 is known as Pawling Ave. in Troy. Wynantskill is a hamlet in Rensselaer County, New York, United States. The community of Wynantskill is a suburb of Troy. Wynantskill is located at the north town line of the town of North Greenbush. Wynantskill is located at the northeast corner of the town of North Greenbush. The population of Wynantskill was 3,276 at the 2010 census. Wynantskill is a census-designated place (CDP) in Rensselaer County, New York, United States. NY Route 66 is the main route throughout the community of Wynantskill. NY Route 66 is known as Main Ave. in Wynantskill."
+            },
+            {
+              "chunk_id": "ffc7c7f7-0fa2-408a-8153-d8ca7efdb8bb",
+              "chunk_title": "Geographical Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Rockland County within the Hudson Valley region.",
+              "context_title": "Karl A. Brabenec",
+              "page_content": "Rockland County is in the Hudson Valley."
+            },
+            {
+              "chunk_id": "e9e6ea34-7d34-45dc-b5db-b1aed1d74d71",
+              "chunk_title": "Geographical Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Orange County.",
+              "context_title": "Karl A. Brabenec",
+              "page_content": "Orange County is in the Hudson Valley."
+            },
+            {
+              "chunk_id": "59400a8c-cb52-4061-9f37-a5ab9deef478",
+              "chunk_title": "US Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of places within the United States.",
+              "context_title": "New York State Route 157A",
+              "page_content": "Albany County, New York is in the United States."
+            },
+            {
+              "chunk_id": "a0eb9964-26a1-4325-8f90-3cd04420faa1",
+              "chunk_title": "US Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of places within the United States.",
+              "context_title": "New York State Route 9B",
+              "page_content": "Clinton County, New York is in the United States."
+            },
+            {
+              "chunk_id": "63b97491-3877-42a9-9e74-320ddaff69e9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities and their administrative divisions.",
+              "context_title": "Yonkers Avenue",
+              "page_content": "The city of Yonkers is in Westchester County, New York. Westchester County, New York is in the United States."
+            },
+            {
+              "chunk_id": "c68b2e01-cf9a-4ca5-bab8-87da3215de8c",
+              "chunk_title": "US Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within the United States.",
+              "context_title": "New York State Route 9N",
+              "page_content": "Northeastern New York is in the United States."
+            },
+            {
+              "chunk_id": "380adce4-6f66-4e43-9cb9-3455330af5c3",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of places, including their county, state, and specific street boundaries.",
+              "context_title": "Murray Street Historic District",
+              "page_content": "Mount Morris is in Livingston County, New York. The 16 properties on Murray Street are between Eagle Street and Stanley Street."
+            },
+            {
+              "chunk_id": "b0f42d61-3779-4c72-9889-792646d3b759",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of counties, cities, and hamlets in the United States, including their relative positions to landmarks and routes.",
+              "context_title": "New York State Route 9R",
+              "page_content": "The city of Cohoes is located 1.5 mi to the east of U.S. Route 9. The hamlet of Latham is located in the town of Colonie. Albany County is located in the United States. The hamlet of Boght Corners is located in the town of Colonie."
+            },
+            {
+              "chunk_id": "6b34af95-4ef8-427a-973e-aba37c430cb8",
+              "chunk_title": "Hamlet Locations",
+              "chunk_summary": "This chunk contains information about the classification, alternative names, administrative location, and geographic positioning of specific hamlets.",
+              "context_title": "Boght Corners, New York",
+              "page_content": "Boght Corners is in the town of Colonie. Boght Corners is a hamlet. The town of Colonie is in northern Albany County, New York. Boght Corners straddles U.S. Route 9. Boght Corners is also referred to as Boght."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N2_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N4_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_2",
+          "to": "N2_1",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which is farther north, Wynantskill, New York or Hannaford Brothers Company?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，比较 Wynantskill, New York 与 Hannaford Brothers Company 哪个更靠北。当前策略已切换为纬度数值比较：通过获取 Scarborough, Maine（Hannaford 总部）和 North Greenbush, NY（Wynantskill 所在镇）的纬度数值进行直接南北比较。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，依赖子节点推理链聚合。当前子节点状态：N1_1 healthy（Wynantskill 位于 North Greenbush 北镇线，单来源直接具体），N1_2 healthy（Hannaford 总部位于 Scarborough, Maine，单来源直接具体），N2_1 blocked（Scarborough 纬度搜索未命中，KB 无覆盖），N4_1 blocked（North Greenbush 纬度搜索未命中，KB 无覆盖）。推理链不完整，两个关键纬度节点均为阻塞状态，无法支撑最终南北比较。",
+          "critic_normative_advice": "建议等待子节点补全或策略调整——N2_1 和 N4_1 是当前阻塞点。若纬度搜索经多轮仍无法获取，建议 Planner 放弃数值比较策略，考虑替代方案（如搜索 'Scarborough Maine vs North Greenbush NY which is farther north' 直接比较，或寻找第三方参照点）。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What qualitative location description indicates how far north Wynantskill, New York is located?",
+          "answer": "at the north town line of the town of North Greenbush",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What qualitative location description indicates how far north Wynantskill, New York is located?",
+          "planner_rationale": "Wynantskill 的定性位置描述已确立——'at the north town line of the town of North Greenbush'。这是将 Wynantskill 的南北位置锚定到 North Greenbush 的关键事实，在纬度比较策略中仍作为 Wynantskill 与 North Greenbush 位置关系的支撑。",
+          "solver_judgment": "question 要求确认指示 Wynantskill, New York 位于多北的定性位置描述。search_query 与问题一致。chunks 返回了 Wynantskill 的概述信息，其中 chunk 51ad445b-00a6-4438-8c60-226cf4f5f860 明确记载 'Wynantskill is located at the north town line of the town of North Greenbush' 以及 'at the northeast corner of the town of North Greenbush'，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Wynantskill, New York 文档），直接具体地陈述了答案。支撑 chunk 51ad445b 原文明确记载 'Wynantskill is located at the north town line of the town of North Greenbush'。单来源但直接、具体，答案与 chunk 内容完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "51ad445b-00a6-4438-8c60-226cf4f5f860"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51ad445b-00a6-4438-8c60-226cf4f5f860",
+              "chunk_title": "Wynantskill Overview",
+              "chunk_summary": "This chunk contains information about the geographical classification, location, population statistics, and transportation infrastructure of Wynantskill, New York.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Almost all houses in Wynantskill are located on side streets off Main Ave. Whiteview Road is a major road in Wynantskill. NY Route 66 is known as Pawling Ave. in Troy. Wynantskill is a hamlet in Rensselaer County, New York, United States. The community of Wynantskill is a suburb of Troy. Wynantskill is located at the north town line of the town of North Greenbush. Wynantskill is located at the northeast corner of the town of North Greenbush. The population of Wynantskill was 3,276 at the 2010 census. Wynantskill is a census-designated place (CDP) in Rensselaer County, New York, United States. NY Route 66 is the main route throughout the community of Wynantskill. NY Route 66 is known as Main Ave. in Wynantskill."
+            },
+            {
+              "chunk_id": "dc10f15b-5297-4ac5-9192-566cd7fedbc8",
+              "chunk_title": "Road Characteristics & Connectivity",
+              "chunk_summary": "This chunk contains information about the characteristics, classification, and connectivity of specific roads.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Whiteview Road is a primarily residential road. Whiteview Road leads to Route 4. West Sand Lake Road is a major road in Wynantskill."
+            },
+            {
+              "chunk_id": "9863bd10-1626-4c90-a22b-81fff55b4fb1",
+              "chunk_title": "Commercial Facilities & Amenities",
+              "chunk_summary": "This chunk contains information about the types of commercial facilities, amenities, and public services available in Wynantskill.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Wynantskill has a major grocery store. Wynantskill has a craft beverage store. Wynantskill has a bowling alley. Wynantskill has convenience stores. Wynantskill has a post office. Wynantskill has several restaurants. Wynantskill has several banks."
+            },
+            {
+              "chunk_id": "6b34af95-4ef8-427a-973e-aba37c430cb8",
+              "chunk_title": "Hamlet Locations",
+              "chunk_summary": "This chunk contains information about the classification, alternative names, administrative location, and geographic positioning of specific hamlets.",
+              "context_title": "Boght Corners, New York",
+              "page_content": "Boght Corners is in the town of Colonie. Boght Corners is a hamlet. The town of Colonie is in northern Albany County, New York. Boght Corners straddles U.S. Route 9. Boght Corners is also referred to as Boght."
+            },
+            {
+              "chunk_id": "ffc7c7f7-0fa2-408a-8153-d8ca7efdb8bb",
+              "chunk_title": "Geographical Location",
+              "chunk_summary": "This chunk contains information about the geographical location of Rockland County within the Hudson Valley region.",
+              "context_title": "Karl A. Brabenec",
+              "page_content": "Rockland County is in the Hudson Valley."
+            },
+            {
+              "chunk_id": "ead7c1da-f3d1-4c13-8201-673624375cd5",
+              "chunk_title": "Neighborhood Locations",
+              "chunk_summary": "This chunk contains information about the location, boundaries, and regional descriptions of specific neighborhoods within cities.",
+              "context_title": "Morningside Heights, Manhattan",
+              "page_content": "Morningside Heights is a neighborhood of the borough of Manhattan in New York City. The area of Morningside Heights has been described as part of \"Greater Harlem\". Morningside Heights is on the border of the Upper West Side and Manhattanville. There is a disputed claim that the Upper West Side goes no farther north than 110th Street. The area of Morningside Heights is usually described as being on the Upper West Side."
+            },
+            {
+              "chunk_id": "4ffb3767-02e2-441e-9ca4-1b3206e00824",
+              "chunk_title": "Genesee River Geography",
+              "chunk_summary": "This chunk contains information about the Genesee River, including its flow direction and its status as a tributary to Lake Ontario.",
+              "context_title": "Genesee River",
+              "page_content": "The Genesee River flows northward through the Twin Tiers of Pennsylvania and New York. The Genesee River is a tributary of Lake Ontario."
+            },
+            {
+              "chunk_id": "088aa79e-936a-4460-a5f4-1e42b7c393f6",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the locations of buildings and landmarks relative to roads or other geographical features.",
+              "context_title": "Borodino, New York",
+              "page_content": "A Methodist Church stands close to New York State Route 174. The Methodist Church is located about five properties north of the intersection of New York State Route 41 and New York State Route 174."
+            },
+            {
+              "chunk_id": "63b97491-3877-42a9-9e74-320ddaff69e9",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of cities and their administrative divisions.",
+              "context_title": "Yonkers Avenue",
+              "page_content": "The city of Yonkers is in Westchester County, New York. Westchester County, New York is in the United States."
+            },
+            {
+              "chunk_id": "cdd6ebd7-9e5b-47aa-b412-346ea40f4519",
+              "chunk_title": "Route 9G Path & Location",
+              "chunk_summary": "This chunk contains information about the location, route, and path of New York State Route 9G in the Hudson Valley.",
+              "context_title": "New York State Route 9G",
+              "page_content": "New York State Route 9G ends at a junction with U.S. Route 9 in the city of Hudson. New York State Route 9G follows the Hudson River. U.S. Route 9 and New York State Route 9G cross just north of the village of Rhinebeck. New York State Route 9G mostly runs along the eastern side of U.S. Route 9 to Rhinebeck. New York State Route 9G runs north from U.S. Route 9 at Poughkeepsie. New York State Route 9G initially extended from Rhinebeck to Hudson. New York State Route 9G starts out as Violet Avenue at Poughkeepsie. From the crossing point north of Rhinebeck onward, New York State Route 9G runs closer to the Hudson River than U.S. Route 9. New York State Route 9G runs to Hudson. New York State Route 9G is located in the Hudson Valley of New York. From the crossing point north of Rhinebeck onward, New York State Route 9G runs on the western side of U.S. Route 9."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where is Hannaford Brothers Company headquartered?",
+          "answer": "Scarborough, Maine",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where is Hannaford Brothers Company headquartered?",
+          "planner_rationale": "Hannaford 总部位置已确立——Scarborough, Maine。这是将 Hannaford 的南北位置锚定到 Scarborough 的关键事实，在纬度比较策略中仍作为 Hannaford 与 Scarborough 位置关系的支撑。",
+          "solver_judgment": "提取结果：从 chunk f3dd26ad-968d-4afa-a129-16201989e736 中找到 'Hannaford is based in Scarborough, Maine'，确定答案为 Scarborough, Maine。检索质量评估：question 要求确认 Hannaford Brothers Company 的总部所在地。search_query 直接搜索了该问题。chunks 返回了关于 Hannaford 的信息，其中目标 chunk 明确记载了总部位置，直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Hannaford Brothers Company 文档），直接具体地陈述了答案。支撑 chunk f3dd26ad 原文明确记载 'Hannaford is based in Scarborough, Maine'。单来源但直接、具体，答案与 chunk 内容完全匹配。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案明确，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f3dd26ad-968d-4afa-a129-16201989e736"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f3dd26ad-968d-4afa-a129-16201989e736",
+              "chunk_title": "Hannaford Supermarket Chain",
+              "chunk_summary": "This chunk contains information about the supermarket chain Hannaford, including its founding history, headquarters location, operational regions, and parent company.",
+              "context_title": "Hannaford Brothers Company",
+              "page_content": "Hannaford is a supermarket chain. Hannaford was founded in 1883. Hannaford operates stores in New York. The Ahold Delhaize group is based in the Netherlands. Hannaford operates stores in New England. Hannaford is based in Scarborough, Maine. The Hannaford chain is part of the Ahold Delhaize group. Hannaford was founded in Portland, Maine."
+            },
+            {
+              "chunk_id": "dd34c011-ba6f-484c-b8e8-c00398b54f41",
+              "chunk_title": "Victory Super Markets History",
+              "chunk_summary": "This chunk contains information about the history, founding, operations, and acquisition of Victory Super Markets.",
+              "context_title": "Victory Supermarkets",
+              "page_content": "Victory Super Markets was a family-run company. Victory Super Markets employed over 2,600 workers when it was sold. Victory Super Markets was founded in 1923. Victory Super Markets was founded by two DiGeronimo brothers. Victory Super Markets had an annual revenue of $385 million when it was sold. Victory Super Markets was a grocery store chain. Victory Super Markets was based in Leominster, Massachusetts. Victory Super Markets had a successful 81 year stretch before being sold. Victory Super Markets was sold to Hannaford Brothers Company in 2004. Victory Super Markets was originally named after the American war effort in World War I. Victory Super Markets included 20 stores across Massachusetts and New Hampshire."
+            },
+            {
+              "chunk_id": "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+              "chunk_title": "Corporate Headquarters Locations",
+              "chunk_summary": "This chunk contains information about the corporate headquarters locations of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "The corporate headquarters of Parker Hannifin Corporation have a Cleveland mailing address. The corporate headquarters of Parker Hannifin Corporation are in Mayfield Heights, Ohio."
+            },
+            {
+              "chunk_id": "440a8225-9fc9-48b5-ba3a-a47f77d199f8",
+              "chunk_title": "Office Locations",
+              "chunk_summary": "This chunk contains information about the current and future locations of the company's national support office.",
+              "context_title": "Target Australia",
+              "page_content": "The company's national support office will move its headquarters to Williams Landing at the end of 2018. The company's national support office is currently located in North Geelong, Victoria."
+            },
+            {
+              "chunk_id": "c25adc19-8c24-4500-a946-511a5bfd910d",
+              "chunk_title": "Government Locations",
+              "chunk_summary": "This chunk contains information about the locations of government departments.",
+              "context_title": "Connecticut State Marshal",
+              "page_content": "The Department of Administrative Services is located in Hartford, Connecticut."
+            },
+            {
+              "chunk_id": "e276ed01-19a1-4555-a9c1-6efda4ef81af",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of corporate headquarters.",
+              "context_title": "SemGroup",
+              "page_content": "SemGroup's headquarters are in Tulsa, Oklahoma."
+            },
+            {
+              "chunk_id": "7d3d8646-86bc-4746-a875-0828ddec2084",
+              "chunk_title": "Corporate Identity & Origins",
+              "chunk_summary": "This chunk contains information about the history, naming conventions, and nationality of Parker Hannifin Corporation.",
+              "context_title": "Parker Hannifin",
+              "page_content": "Parker Hannifin Corporation is an American corporation. Parker Hannifin Corporation was originally named Parker Appliance Company. Parker Hannifin Corporation is usually referred to as just Parker. Parker Hannifin Corporation was founded in 1917."
+            },
+            {
+              "chunk_id": "cc250535-59a5-4520-9361-81b171df138e",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of companies.",
+              "context_title": "Focus Brands",
+              "page_content": "Focus Brands is based in Sandy Springs, Georgia. Roark Capital Group is based in Atlanta."
+            },
+            {
+              "chunk_id": "3dffacee-f02a-4f50-988f-e47f87174d13",
+              "chunk_title": "Corporate Locations",
+              "chunk_summary": "This chunk contains information about the locations of corporate headquarters.",
+              "context_title": "Swanson, Ontario",
+              "page_content": "The Canadian Pacific Railway headquarters is in Calgary, Alberta."
+            },
+            {
+              "chunk_id": "bccb76f5-1f60-4679-932a-666119c072bd",
+              "chunk_title": "Headquarters Location",
+              "chunk_summary": "This chunk contains information about the headquarters location of GFS Canada.",
+              "context_title": "GFS Canada",
+              "page_content": "GFS Canada is headquartered in Grand Rapids, Michigan."
+            }
+          ]
+        },
+        "N2_1": {
+          "id": "N2_1",
+          "question": "What is the latitude of Scarborough, Maine?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Scarborough, Maine latitude",
+          "planner_rationale": "N2_1 已连续两轮搜索 Scarborough 的定性位置描述（定性描述→县/区域）均未命中，KB 缺乏此类信息。Critic 建议切换为纬度数值搜索策略。纬度是标准地理数据，KB 更可能覆盖，且能直接与 North Greenbush 的纬度进行数值比较。",
+          "solver_judgment": "question 要求获取 Scarborough, Maine 的纬度坐标。search_query 搜索了 'Scarborough, Maine latitude'。chunks 返回了提及 Scarborough, Maine 是 Hannaford 总部所在地的信息（chunk f3dd26ad...），以及其他关于缅因州地理（如 Lobster Lake、Bay of Fundy、State Route 160）的片段，但没有任何一个 chunk 提供了 Scarborough 的具体纬度数值。检索未能命中目标地理坐标信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，但无一包含 Scarborough, Maine 的纬度数值。chunk f3dd26ad 仅提及 Scarborough 是 Hannaford 总部所在地；其余 chunk 涉及缅因州其他地理实体（Lobster Lake、Bay of Fundy、State Route 160 等），与 Scarborough 纬度无关。KB 明显缺乏 Scarborough 的坐标数据。这是 N2_1 连续第三轮搜索失败（前两轮定性位置描述→县/区域，本轮纬度数值），呈现持续阻塞状态。",
+          "critic_normative_advice": "建议放弃此方向——KB 经三轮搜索（定性描述、县/区域、纬度数值）均未覆盖 Scarborough 的位置/坐标信息。建议 Planner 考虑替代策略：(1) 搜索直接比较 'Scarborough Maine vs North Greenbush NY latitude' 或 'which is farther north'；(2) 寻找第三方参照点（如某城市）同时与两地比较；(3) 若 KB 确实无覆盖，标记为不可解并调整推理链。",
+          "round_created": 2,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f3dd26ad-968d-4afa-a129-16201989e736",
+              "chunk_title": "Hannaford Supermarket Chain",
+              "chunk_summary": "This chunk contains information about the supermarket chain Hannaford, including its founding history, headquarters location, operational regions, and parent company.",
+              "context_title": "Hannaford Brothers Company",
+              "page_content": "Hannaford is a supermarket chain. Hannaford was founded in 1883. Hannaford operates stores in New York. The Ahold Delhaize group is based in the Netherlands. Hannaford operates stores in New England. Hannaford is based in Scarborough, Maine. The Hannaford chain is part of the Ahold Delhaize group. Hannaford was founded in Portland, Maine."
+            },
+            {
+              "chunk_id": "e187cc5d-7edb-41fd-8e57-d02268eec440",
+              "chunk_title": "State Route 160 Details",
+              "chunk_summary": "This chunk contains information about the location, orientation, length, and route endpoints of State Route 160 in Maine.",
+              "context_title": "Maine State Route 160",
+              "page_content": "State Route 160 runs to an intersection with State Route 117 in Denmark. State Route 160 runs 32.64 miles. State Route 160 runs from an intersection with State Route 5 in Limerick. State Route 160 is located in the western part of Maine. State Route 160 is a north–south highway."
+            },
+            {
+              "chunk_id": "ce2e20c9-6294-4a31-84a9-fedccd30829c",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of peak runoff events.",
+              "context_title": "Lobster Lake (Maine)",
+              "page_content": "The peak runoff events occur from the western Maine highlands along the Canadian border."
+            },
+            {
+              "chunk_id": "e9c73bab-ac44-4324-8e52-3d28c8b3120b",
+              "chunk_title": "Lobster Lake Geography & Features",
+              "chunk_summary": "This chunk contains information about the geographical location, naming origin, physical shape characteristics, and connected waterways of Lobster Lake.",
+              "context_title": "Lobster Lake (Maine)",
+              "page_content": "The northwest corner of Lobster Lake resembles a curled lobster tail. Lobster Lake extends eastward into Lobster township. The West Branch Penobscot River is located 1.4 miles north of Lobster Lake. A smaller western arm of Lobster Lake is called \"Little Claw\". Lobster Lake was named because its shape resembles the outline of a lobster. The West Branch Penobscot River may temporarily reverse flow through Lobster Stream into Lobster Lake during peak runoff events. The larger eastern arm of Lobster Lake is called \"Big Claw\". Lobster Lake and the West Branch Penobscot River are at a similar elevation. The larger eastern arm of Lobster Lake extends southward. Lobster Stream connects the northwest corner of Lobster Lake to the West Branch Penobscot River. The northwest corner of Lobster Lake is located in Northeast Carry township. Lobster Lake is located in the North Maine Woods. The part of Lobster Lake extending eastward into Lobster township resembles a lobster thorax."
+            },
+            {
+              "chunk_id": "a2a891f7-584b-4ada-846c-fdbfc5d60f35",
+              "chunk_title": "Biographical Origins",
+              "chunk_summary": "This chunk contains biographical information about individuals, including their birthplaces and origins.",
+              "context_title": "Kenneth Roberts (author)",
+              "page_content": "Kenneth Lewis Roberts was born in Kennebunk, Maine."
+            },
+            {
+              "chunk_id": "20230835-03e9-4d4f-8196-b34d49500421",
+              "chunk_title": "Bay of Fundy Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, names, and characteristics of specific bays.",
+              "context_title": "Bay of Fundy",
+              "page_content": "The Bay of Fundy is called \"Baie de Fundy\" in French. The Bay of Fundy is between the Canadian provinces of New Brunswick and Nova Scotia. The Bay of Fundy is a bay on the Atlantic coast of North America. The Bay of Fundy is on the northeast end of the Gulf of Maine. A small portion of the Bay of Fundy touches the U.S. state of Maine."
+            },
+            {
+              "chunk_id": "364f9896-abb3-4746-b01c-ab60f1084048",
+              "chunk_title": "State Route Classification",
+              "chunk_summary": "This chunk contains information about the naming conventions, abbreviations, and system classification of state routes.",
+              "context_title": "Maine State Route 160",
+              "page_content": "State Route 160 is abbreviated SR 160. State Route 160 is part of Maine's system of numbered state highways."
+            },
+            {
+              "chunk_id": "51a71392-72d4-4625-87a2-8478a498e039",
+              "chunk_title": "Water Body Characteristics",
+              "chunk_summary": "This chunk contains information about the physical characteristics and geographical locations of water bodies, including lakes, rivers, and oceanic regions.",
+              "context_title": "Profile Lake",
+              "page_content": "The Gulf of Maine is part of the Atlantic Ocean. The Merrimack River reaches the Gulf of Maine at Newburyport, Massachusetts. Profile Lake is a 13 acre water body."
+            },
+            {
+              "chunk_id": "b74a9253-5551-4cdd-8697-173ccc75020c",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about geographical locations and their relative positions.",
+              "context_title": "Boston, Lincolnshire",
+              "page_content": "Boston is due north of Greenwich on the Prime Meridian."
+            },
+            {
+              "chunk_id": "66618ff2-c0d7-46ce-844b-46bcc7ec7283",
+              "chunk_title": "Geographical Areas",
+              "chunk_summary": "This chunk contains information about the geographical size and location of specific areas or regions, such as the Bridgewater Triangle.",
+              "context_title": "Bridgewater Triangle",
+              "page_content": "The Bridgewater Triangle is located within southeastern Massachusetts. The Bridgewater Triangle refers to an area of about 200 square miles. Southeastern Massachusetts is in the United States."
+            }
+          ]
+        },
+        "N4_1": {
+          "id": "N4_1",
+          "question": "What is the latitude of North Greenbush, New York?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What is the latitude of North Greenbush, New York?",
+          "planner_rationale": "N4_1 上一轮搜索 North Greenbush 的县/区域/相对位置，仅获得推理得出的 'Rensselaer County'，缺失 region 和 relative position，不足以完成南北比较。Critic 建议改用纬度数值搜索。纬度是标准地理数据，能直接与 Scarborough 的纬度进行数值比较。",
+          "solver_judgment": "question 要求提供 North Greenbush, New York 的纬度（latitude）。search_query 搜索了 'What is the latitude of North Greenbush, New York?'。chunks 中仅在 chunk 51ad445b-00a6-4438-8c60-226cf4f5f860 提到了 North Greenbush（指出 Wynantskill 位于 North Greenbush 的北部镇界线和东北角），但没有任何 chunk 包含 North Greenbush 的地理坐标或纬度信息。检索未能命中目标数据，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，但无一包含 North Greenbush, New York 的纬度数值。仅 chunk 51ad445b 提及 North Greenbush（作为 Wynantskill 所在镇），但无坐标信息。其余 chunk 涉及纽约州其他地点（West Broadway、Borodino、Baldwin 等），与 North Greenbush 纬度无关。KB 明显缺乏 North Greenbush 的坐标数据。",
+          "critic_normative_advice": "建议放弃此方向——KB 经两轮搜索（县/区域/相对位置、纬度数值）均未覆盖 North Greenbush 的位置/坐标信息。建议 Planner 考虑替代策略：(1) 搜索直接比较 'Scarborough Maine vs North Greenbush NY which is farther north'；(2) 利用已知事实推理——Wynantskill 在 North Greenbush 北侧，若能找到 Wynantskill 与 Scarborough 的相对位置，可间接推断；(3) 若 KB 确实无覆盖，标记为不可解。",
+          "round_created": 4,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "51ad445b-00a6-4438-8c60-226cf4f5f860",
+              "chunk_title": "Wynantskill Overview",
+              "chunk_summary": "This chunk contains information about the geographical classification, location, population statistics, and transportation infrastructure of Wynantskill, New York.",
+              "context_title": "Wynantskill, New York",
+              "page_content": "Almost all houses in Wynantskill are located on side streets off Main Ave. Whiteview Road is a major road in Wynantskill. NY Route 66 is known as Pawling Ave. in Troy. Wynantskill is a hamlet in Rensselaer County, New York, United States. The community of Wynantskill is a suburb of Troy. Wynantskill is located at the north town line of the town of North Greenbush. Wynantskill is located at the northeast corner of the town of North Greenbush. The population of Wynantskill was 3,276 at the 2010 census. Wynantskill is a census-designated place (CDP) in Rensselaer County, New York, United States. NY Route 66 is the main route throughout the community of Wynantskill. NY Route 66 is known as Main Ave. in Wynantskill."
+            },
+            {
+              "chunk_id": "c68b2e01-cf9a-4ca5-bab8-87da3215de8c",
+              "chunk_title": "US Geography",
+              "chunk_summary": "This chunk contains information about the geographical location of regions within the United States.",
+              "context_title": "New York State Route 9N",
+              "page_content": "Northeastern New York is in the United States."
+            },
+            {
+              "chunk_id": "faf304b8-a9c3-45e1-824f-1513b1c823cb",
+              "chunk_title": "West Broadway Geography",
+              "chunk_summary": "This chunk contains information about the geographical location, layout, specific boundaries, and traffic patterns of West Broadway in Manhattan, New York City.",
+              "context_title": "West Broadway",
+              "page_content": "North of Houston Street, West Broadway is designated as LaGuardia Place. West Broadway is in the New York City borough of Manhattan. The northern end of West Broadway is at Houston Street. West Broadway is separated into two parts by Tribeca Park. West Broadway operates as a main north-south thoroughfare through SoHo. The northern part of West Broadway begins at Tribeca Park. The northern part of West Broadway begins near the intersection of Avenue of the Americas (Sixth Avenue), Walker Street and Beach Street. The northern part of West Broadway runs northbound as a one-way street past Canal Street."
+            },
+            {
+              "chunk_id": "088aa79e-936a-4460-a5f4-1e42b7c393f6",
+              "chunk_title": "Locations & Landmarks",
+              "chunk_summary": "This chunk contains information about the locations of buildings and landmarks relative to roads or other geographical features.",
+              "context_title": "Borodino, New York",
+              "page_content": "A Methodist Church stands close to New York State Route 174. The Methodist Church is located about five properties north of the intersection of New York State Route 41 and New York State Route 174."
+            },
+            {
+              "chunk_id": "b74a9253-5551-4cdd-8697-173ccc75020c",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about geographical locations and their relative positions.",
+              "context_title": "Boston, Lincolnshire",
+              "page_content": "Boston is due north of Greenwich on the Prime Meridian."
+            },
+            {
+              "chunk_id": "9c68e3e8-35b7-4601-85ae-b581fbba552a",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location of places, including specific towns and counties.",
+              "context_title": "Baldwin, Nassau County, New York",
+              "page_content": "The town of Hempstead is located in Nassau County, New York, United States. Baldwin is located in the town of Hempstead."
+            },
+            {
+              "chunk_id": "dfa6d9fb-9196-4e04-97cf-ef7465a204d3",
+              "chunk_title": "Birthplaces",
+              "chunk_summary": "This chunk contains information about the birthplace of individuals.",
+              "context_title": "Stanley Bing",
+              "page_content": "Gil Schwartz was born in New York, NY."
+            },
+            {
+              "chunk_id": "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations and hierarchical contexts of specific buildings or landmarks.",
+              "context_title": "220 Central Park South",
+              "page_content": "New York City is located in the U.S. state of New York. 220 Central Park South is located in Midtown Manhattan. Midtown Manhattan is located in New York City."
+            },
+            {
+              "chunk_id": "79e2ae2a-682f-4008-aa76-b2dedf2ae20d",
+              "chunk_title": "Building Locations & Dates",
+              "chunk_summary": "This chunk contains information about the location, construction date, and specific site details of buildings or landmarks.",
+              "context_title": "1 New York Plaza",
+              "page_content": "1 New York Plaza is in New York City's Financial District. 1 New York Plaza was built at the intersection of South and Whitehall Streets. 1 New York Plaza is the southernmost of all Manhattan skyscrapers. 1 New York Plaza was built in 1969."
+            },
+            {
+              "chunk_id": "e959082e-15d8-460d-8bca-beed8a37a54b",
+              "chunk_title": "Place Naming",
+              "chunk_summary": "This chunk contains information about the renaming of places and territories, specifically focusing on instances where individuals named regions after themselves or others.",
+              "context_title": "Proprietary colony",
+              "page_content": "The Duke of York named New Netherland New York. William Penn named the area given by Charles II Pennsylvania."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N2_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N4_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_2",
+          "to": "N2_1",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the latitude of Wynantskill, New York?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "51ad445b-00a6-4438-8c60-226cf4f5f860",
+        "dc10f15b-5297-4ac5-9192-566cd7fedbc8",
+        "9863bd10-1626-4c90-a22b-81fff55b4fb1",
+        "63b97491-3877-42a9-9e74-320ddaff69e9",
+        "a0eb9964-26a1-4325-8f90-3cd04420faa1",
+        "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b",
+        "fb964cb6-e1d7-4bb0-94dc-000ba3fd4eb7",
+        "b6177f46-05e7-4a6d-967b-8d22bd253600",
+        "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+        "776721f1-7a6a-4f03-9671-9fc2b5b4e2f9"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Where is Hannaford Brothers Company headquartered, and what is the latitude of that location?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f3dd26ad-968d-4afa-a129-16201989e736",
+        "dd34c011-ba6f-484c-b8e8-c00398b54f41",
+        "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+        "e4efd91a-c52c-46f3-8389-ff04058852e9",
+        "563863c4-dc42-4864-ac1a-ea47c84fae5d",
+        "440a8225-9fc9-48b5-ba3a-a47f77d199f8",
+        "7d3d8646-86bc-4746-a875-0828ddec2084",
+        "f2f58ce0-8594-427a-9130-235eb0a20ea8",
+        "c7d2d3e6-3497-4a36-b2d1-50aafd7f1535",
+        "2aff7350-a901-458c-a668-69196feacfa3"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "What are the geographic coordinates of Wynantskill, New York?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "51ad445b-00a6-4438-8c60-226cf4f5f860",
+        "dc10f15b-5297-4ac5-9192-566cd7fedbc8",
+        "9863bd10-1626-4c90-a22b-81fff55b4fb1",
+        "63b97491-3877-42a9-9e74-320ddaff69e9",
+        "a0eb9964-26a1-4325-8f90-3cd04420faa1",
+        "ffb27e42-b8ab-4a5c-96fe-a3a2b14fdd6b",
+        "fb964cb6-e1d7-4bb0-94dc-000ba3fd4eb7",
+        "b6177f46-05e7-4a6d-967b-8d22bd253600",
+        "b316431d-da5d-463e-b6e1-e7b8c6e37ac8",
+        "84a5edc2-a4ac-4e30-b63a-12667d51ade4"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "Where is Hannaford Brothers Company headquartered?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f3dd26ad-968d-4afa-a129-16201989e736",
+        "dd34c011-ba6f-484c-b8e8-c00398b54f41",
+        "5bda6beb-f56c-4f90-bebd-710d3d344f82",
+        "440a8225-9fc9-48b5-ba3a-a47f77d199f8",
+        "c25adc19-8c24-4500-a946-511a5bfd910d",
+        "e276ed01-19a1-4555-a9c1-6efda4ef81af",
+        "7d3d8646-86bc-4746-a875-0828ddec2084",
+        "cc250535-59a5-4520-9361-81b171df138e",
+        "3dffacee-f02a-4f50-988f-e47f87174d13",
+        "bccb76f5-1f60-4679-932a-666119c072bd"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "Scarborough, Maine latitude",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "ce2e20c9-6294-4a31-84a9-fedccd30829c",
+        "f3dd26ad-968d-4afa-a129-16201989e736",
+        "20230835-03e9-4d4f-8196-b34d49500421",
+        "b74a9253-5551-4cdd-8697-173ccc75020c",
+        "364f9896-abb3-4746-b01c-ab60f1084048",
+        "e187cc5d-7edb-41fd-8e57-d02268eec440",
+        "66618ff2-c0d7-46ce-844b-46bcc7ec7283",
+        "e9c73bab-ac44-4324-8e52-3d28c8b3120b",
+        "a2a891f7-584b-4ada-846c-fdbfc5d60f35",
+        "51a71392-72d4-4625-87a2-8478a498e039"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "What qualitative location description indicates how far north Wynantskill, New York is located?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "51ad445b-00a6-4438-8c60-226cf4f5f860",
+        "dc10f15b-5297-4ac5-9192-566cd7fedbc8",
+        "9863bd10-1626-4c90-a22b-81fff55b4fb1",
+        "6b34af95-4ef8-427a-973e-aba37c430cb8",
+        "ffc7c7f7-0fa2-408a-8153-d8ca7efdb8bb",
+        "ead7c1da-f3d1-4c13-8201-673624375cd5",
+        "4ffb3767-02e2-441e-9ca4-1b3206e00824",
+        "088aa79e-936a-4460-a5f4-1e42b7c393f6",
+        "63b97491-3877-42a9-9e74-320ddaff69e9",
+        "cdd6ebd7-9e5b-47aa-b412-346ea40f4519"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "Scarborough, Maine location description north",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f3dd26ad-968d-4afa-a129-16201989e736",
+        "10481c1c-4bf2-4acf-b6b8-6dd527717dd2",
+        "ce2e20c9-6294-4a31-84a9-fedccd30829c",
+        "e9c73bab-ac44-4324-8e52-3d28c8b3120b",
+        "51a71392-72d4-4625-87a2-8478a498e039",
+        "4109ba00-f67e-45a9-b9fd-20413f6aecdf",
+        "e656b7d9-929a-4f21-83ae-5554dd126489",
+        "9f868961-8b74-4583-a9ad-00219b671574",
+        "20230835-03e9-4d4f-8196-b34d49500421",
+        "e187cc5d-7edb-41fd-8e57-d02268eec440"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "Scarborough Maine county and general location within Maine",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f3dd26ad-968d-4afa-a129-16201989e736",
+        "88f50191-e37a-4219-b347-3f13796b49bd",
+        "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+        "ce2e20c9-6294-4a31-84a9-fedccd30829c",
+        "364f9896-abb3-4746-b01c-ab60f1084048",
+        "20230835-03e9-4d4f-8196-b34d49500421",
+        "a2a891f7-584b-4ada-846c-fdbfc5d60f35",
+        "51a71392-72d4-4625-87a2-8478a498e039",
+        "abb43519-3a9e-4b16-af47-d56af378ecbf",
+        "e187cc5d-7edb-41fd-8e57-d02268eec440"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "Where is North Greenbush, New York located (county, region, relative position within New York State)?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "51ad445b-00a6-4438-8c60-226cf4f5f860",
+        "ffc7c7f7-0fa2-408a-8153-d8ca7efdb8bb",
+        "e9e6ea34-7d34-45dc-b5db-b1aed1d74d71",
+        "59400a8c-cb52-4061-9f37-a5ab9deef478",
+        "a0eb9964-26a1-4325-8f90-3cd04420faa1",
+        "63b97491-3877-42a9-9e74-320ddaff69e9",
+        "c68b2e01-cf9a-4ca5-bab8-87da3215de8c",
+        "380adce4-6f66-4e43-9cb9-3455330af5c3",
+        "b0f42d61-3779-4c72-9889-792646d3b759",
+        "6b34af95-4ef8-427a-973e-aba37c430cb8"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "Scarborough, Maine latitude",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f3dd26ad-968d-4afa-a129-16201989e736",
+        "e187cc5d-7edb-41fd-8e57-d02268eec440",
+        "ce2e20c9-6294-4a31-84a9-fedccd30829c",
+        "e9c73bab-ac44-4324-8e52-3d28c8b3120b",
+        "a2a891f7-584b-4ada-846c-fdbfc5d60f35",
+        "20230835-03e9-4d4f-8196-b34d49500421",
+        "364f9896-abb3-4746-b01c-ab60f1084048",
+        "51a71392-72d4-4625-87a2-8478a498e039",
+        "b74a9253-5551-4cdd-8697-173ccc75020c",
+        "66618ff2-c0d7-46ce-844b-46bcc7ec7283"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "What is the latitude of North Greenbush, New York?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "51ad445b-00a6-4438-8c60-226cf4f5f860",
+        "c68b2e01-cf9a-4ca5-bab8-87da3215de8c",
+        "faf304b8-a9c3-45e1-824f-1513b1c823cb",
+        "088aa79e-936a-4460-a5f4-1e42b7c393f6",
+        "b74a9253-5551-4cdd-8697-173ccc75020c",
+        "9c68e3e8-35b7-4601-85ae-b581fbba552a",
+        "dfa6d9fb-9196-4e04-97cf-ef7465a204d3",
+        "f113cdc1-4b6c-4ecd-a3db-b0d8609ed729",
+        "79e2ae2a-682f-4008-aa76-b2dedf2ae20d",
+        "e959082e-15d8-460d-8bca-beed8a37a54b"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the latitude of Wynantskill, New York?（理由：Q 是比较两个实体南北位置的问题，需先获取 Wynantskill 的纬度），F2: Where is Hannaford Brothers Company headquartered, and what is the latitude of that location?（理由：Hannaford 是公司而非地点，需先确定其总部位置再获取纬度）。关系: F1 和 F2 都是 Q 的分解产物（decomposition）——两者都是回答 Q 所需的独立子事实，获取两者的纬度后即可直接比较得出答案。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将比较型问题分解为两个独立的地理位置查询节点，分别获取两个实体的纬度信息。未创建单独的'比较'节点，因为一旦获得两个纬度值，比较本身是直接的推理步骤，不需要额外的 KB 搜索。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_1 为 blocked（搜索未找到纬度数据），N1_2 为 needs_verification（仅找到总部位置，缺失纬度数据），N0 为 needs_verification（子节点推理链不完整）。条件②通过：N0→N1_1 和 N0→N1_2 的 decomposition 边语义有效。条件①未满足：N1_1 为 unsolved。需补全两个纬度信息后才能终止。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 3,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What are the geographic coordinates of Wynantskill, New York?（理由：Q 是比较两个实体南北位置的问题，需先获取 Wynantskill 的纬度/坐标信息），F2: Where is Hannaford Brothers Company headquartered?（理由：Hannaford 是公司而非地点，需先确定其总部位置），F3: What is the latitude of Scarborough, Maine?（理由：F2 已确认总部在 Scarborough, Maine，需获取该地纬度以完成比较）。关系: F1、F2、F3 都是 Q 的分解产物（decomposition）；F3 依赖 F2（dependency）——F3 的 question 中 \"Scarborough, Maine\" 来自 F2 的 answer，必须先确立 F2 才能搜索 F3。",
+      "hypothesis_delta": "换标: N1_1 question 从 \"What is the latitude of Wynantskill, New York?\" 改为 \"What are the geographic coordinates of Wynantskill, New York?\"，原因：上一轮搜索未命中纬度数据，Critic 建议换用 'coordinates' 关键词尝试更精确的搜索策略。换标: N1_2 question 从 \"Where is Hannaford Brothers Company headquartered, and what is the latitude of that location?\" 改为 \"Where is Hannaford Brothers Company headquartered?\"，原因：Critic 指出原 question 包含两个子问题导致搜索策略模糊且答案不完整；拆分后保留已解决的 answer 'Scarborough, Maine'。新增: $1（question=\"What is the latitude of Scarborough,",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_1 和 N2_1 的 critic_health 为 blocked（搜索未命中坐标数据），N0 为 needs_verification（推理链不完整）。条件②通过：N1_2→N2_1 依赖链语义有效（'Scarborough, Maine' 消解了地点指代）。条件①未满足（2/3 非根节点 unsolved），条件④未通过（本轮拓扑有变化）。综合：推理链结构正确但证据不足，"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Wynantskill, New York 的定性位置描述（理由：KB 缺乏 Wynantskill 的定量坐标数据，需用定性描述如\"位于纽约州东部 Rensselaer County\"、\"Troy 的郊区\"等来推断其南北位置），F2: Hannaford Brothers Company 的总部位置（理由：Hannaford 是公司而非地点，需先确定其总部所在地——已确认为 Scarborough, Maine），F3: Scarborough, Maine 的定性位置描述（理由：KB 缺乏 Scarborough 的定量坐标数据，需用定性描述如\"位于缅因州南部沿海\"等来推断其南北位置）。关系: F1、F2、F3 都是 Q 的分解产物（decomposition）；F3 依赖 F2（dependency）——F3 的 question 中地点指代来自 F2 的 answer。最终通过 F1 和 F3 的定性位置描述进行近似南北比较。",
+      "hypothesis_delta": "换标: N1_1 question 从 \"What are the geographic coordinates of Wynantskill, New York?\" 改为 \"What qualitative location description indicates how far north Wynantskill, New York is located?\"，原因：连续两轮搜索坐标数据（latitude、coordinates）均未命中，Critic 确认 KB 缺乏 Wynantskill 的定量坐标信息，建议降级为定性位置描述策略。换标: N2_1 question 从 \"What is the latitude of Scarborough, Maine?\" 改为 \"What qualitative location description indicates how far north Scarborough, Maine is located?\"，原因：搜索 Scarborough, Maine latitude 未命中坐标数据，Critic 确认 KB 缺乏 Sca",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N2_1 节点 critic_health 为 blocked（搜索未返回相关结果），非 healthy。条件①也未满足（N2_1 状态为 unsolved）。推理链语义匹配（条件②）通过——N1_2→N2_1 依赖链中 'Scarborough, Maine' 有效消解了 N2_1 的地点指代。但 N2_1 无法获取答案导致推理链不完整，ROOT 无法得出最终比较结论。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Wynantskill, NY 的定性位置描述（理由：已确立——Wynantskill 位于 North Greenbush 镇的北镇线，将 Wynantskill 的南北位置锚定到 North Greenbush），F2: Hannaford Brothers Company 的总部位置（理由：已确立——Scarborough, Maine，将 Hannaford 的南北位置锚定到 Scarborough），F3: Scarborough, Maine 的县/区域及在缅因州内的大致方位（理由：上一轮搜索定性描述失败，KB 无覆盖；改用更粗粒度的位置信息如 'southern Maine' 或 'Cumberland County'，这类信息更可能存在于 KB 中），F4: North Greenbush, New York 的位置（县、区域、在纽约州内的相对位置）（理由：Critic 指出的关键缺口——即使有了 Wynantskill 相对于 North Greenbush 的位置，仍需知道 North Greenbush 本身在哪里，才能与 Scar",
+      "hypothesis_delta": "换标: N2_1 question 从 \"What qualitative location description indicates how far north Scarborough, Maine is located?\" 改为 \"What county or region is Scarborough, Maine located in, and what is its general position within Maine (e.g., southern, central, northern)?\"，原因：上一轮搜索定性位置描述完全未命中（KB 无覆盖），Critic 建议尝试更粗粒度的位置信息（县/区域/州内方位），这类信息更可能存在于 KB 中且足以完成南北比较。新增: $1（question=\"Where is North Greenbush, New York located (county, region, relative position within New York State)?\"），原因：Critic 明确指出当前策略的关键缺口——N1_1 的答案将 ",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N2_1 为 blocked（搜索未命中 Scarborough 位置信息），N4_1 为 needs_verification（答案仅覆盖 county 且为推理得出，缺失 region/relative position）。条件②通过：N1_2→N2_1 依赖链语义有效（'Scarborough, Maine' 消解了 N2_1 的地点指代），所有 decomposition 边"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Wynantskill, NY 的定性位置描述（理由：已确立——Wynantskill 位于 North Greenbush 镇的北镇线，将 Wynantskill 的南北位置锚定到 North Greenbush），F2: Hannaford Brothers Company 的总部位置（理由：已确立——Scarborough, Maine，将 Hannaford 的南北位置锚定到 Scarborough），F3: Scarborough, Maine 的纬度数值（理由：N2_1 连续两轮定性位置搜索失败，KB 缺乏 Scarborough 的描述性位置信息；改用纬度数值搜索，这是标准地理数据，KB 更可能覆盖，且能直接与 North Greenbush 纬度比较），F4: North Greenbush, New York 的纬度数值（理由：N4_1 上一轮仅获得推理得出的县信息，缺失区域和相对位置；改用纬度数值搜索，能直接与 Scarborough 纬度进行数值比较）。关系: F1、F2、F3、F4 都是 Q 的分解产物（decomposition",
+      "hypothesis_delta": "换标: N2_1 question 从 \"What county or region is Scarborough, Maine located in, and what is its general position within Maine?\" 改为 \"What is the latitude of Scarborough, Maine?\"，原因：N2_1 已连续两轮搜索未命中（定性描述→县/区域），KB 缺乏 Scarborough 的描述性位置信息，呈现震荡迹象。Critic 建议切换为纬度数值搜索策略，纬度是标准地理数据，KB 更可能覆盖。换标: N4_1 question 从 \"Where is North Greenbush, New York located (county, region, relative position within New York State)?\" 改为 \"What is the latitude of North Greenbush, New York?\"，原因：N4_1 上一轮仅获得推理得出的 'Rensselaer County'，缺失",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N2_1 和 N4_1 均为 blocked 状态（非 healthy）。N2_1 连续三轮搜索 Scarborough 位置/坐标信息均失败，N4_1 连续两轮搜索 North Greenbush 位置/坐标信息均失败，KB 明显缺乏这些地理坐标数据。条件②通过：N1_2→N2_1 依赖链语义有效（'Scarborough, Maine' 消解了 N2_1 的地点指代），所有 de"
+      }
+    }
+  ]
+}

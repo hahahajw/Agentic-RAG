@@ -1,0 +1,408 @@
+{
+  "question_index": 383,
+  "question_id": "5a88bedb554299206df2b35a",
+  "question": "What river does Waterloo Bridge and London Eye have in common?",
+  "answer": "Thames",
+  "prediction": "River Thames",
+  "error": null,
+  "latency_ms": 112214.45939998375,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T21:39:49.681319+00:00",
+  "chunks": [
+    {
+      "chunk_id": "ca73aeed-0e13-4dc1-9355-366adc733101",
+      "chunk_title": "Waterloo Road Location",
+      "chunk_summary": "This chunk contains information about the geography, location, administrative boundaries, and key endpoints of Waterloo Road in London.",
+      "context_title": "Waterloo Road, London",
+      "page_content": "St George's Circus is at the south-east end of Waterloo Road. Waterloo Bridge is at the north-west end of Waterloo Road. Waterloo Road is the main road in the Waterloo district of London, England. Waterloo Road runs between Westminster Bridge Road close to St George's Circus at the south-east end and Waterloo Bridge across the River Thames towards London's West End district at the north-west end. Waterloo Road straddles the boroughs of Lambeth and Southwark. Westminster Bridge Road is close to St George's Circus. Waterloo Bridge is across the River Thames."
+    },
+    {
+      "chunk_id": "5b97739f-d988-4ec4-be18-b6847ad4c4a4",
+      "chunk_title": "Waterloo Bridge",
+      "chunk_summary": "This chunk contains information about Waterloo Bridge, including its location on the River Thames, historical naming origin, and views of London landmarks.",
+      "context_title": "Waterloo Bridge",
+      "page_content": "Views from Waterloo Bridge include the London Eye to the west. Views from Waterloo Bridge include the South Bank to the west. Waterloo Bridge is located between Blackfriars Bridge and Hungerford Bridge. The name of Waterloo Bridge commemorates the victory of the British, the Dutch and the Prussians at the Battle of Waterloo. The views from Waterloo Bridge are widely held to be the finest from any spot in London at ground level. Waterloo Bridge crosses the River Thames in London. Waterloo Bridge is located at a strategic bend in the River Thames. Views from Waterloo Bridge include Westminster to the west. Views from Waterloo Bridge include the City of London to the east. Views from Waterloo Bridge include Canary Wharf to the east."
+    },
+    {
+      "chunk_id": "1cca2eb2-a465-4862-ac33-12dfaa00fc79",
+      "chunk_title": "London Landmarks",
+      "chunk_summary": "This chunk contains information about the locations of landmarks and geographical features, specifically in London.",
+      "context_title": "Waterloo Helmet",
+      "page_content": "The British Museum is in London. Waterloo Bridge is in London, England."
+    },
+    {
+      "chunk_id": "b2619939-e7d4-4ac7-85b7-5dedb1b840bd",
+      "chunk_title": "Bridge Types & Functions",
+      "chunk_summary": "This chunk contains information about the types and functions of bridges.",
+      "context_title": "Waterloo Bridge",
+      "page_content": "Waterloo Bridge is a road and foot traffic bridge."
+    },
+    {
+      "chunk_id": "07ea4bfa-ddf9-433f-b78a-748da8df6dc7",
+      "chunk_title": "Waterloo Helmet",
+      "chunk_summary": "This chunk contains information about the Waterloo Helmet, a pre-Roman Celtic ceremonial artifact, including its La Tène style decoration, dating, discovery history, and current museum display.",
+      "context_title": "Waterloo Helmet",
+      "page_content": "The Waterloo Helmet was found in the River Thames. The Waterloo Helmet was found in 1868. The Waterloo Helmet dates to circa 150–50 BC. The Waterloo Helmet is now on display at the British Museum. The Waterloo Helmet has repoussé decoration in the La Tène style. The Waterloo Helmet was found by Waterloo Bridge. The Waterloo Helmet is a pre-Roman Celtic bronze ceremonial horned helmet."
+    },
+    {
+      "chunk_id": "d657959c-b6cc-4865-a19e-533c23472f26",
+      "chunk_title": "London Landmarks & Directions",
+      "chunk_summary": "This chunk contains information about the geographical locations and directions of landmarks in London.",
+      "context_title": "Waterloo Road, London",
+      "page_content": "Waterloo Bridge is towards London's West End district."
+    },
+    {
+      "chunk_id": "d8db751b-c19c-465f-a5bf-ce9294300e67",
+      "chunk_title": "Artifact Aliases",
+      "chunk_summary": "This chunk contains information about the alternative names and aliases of specific historical artifacts.",
+      "context_title": "Waterloo Helmet",
+      "page_content": "The Waterloo Helmet is also known as the Waterloo Bridge Helmet."
+    },
+    {
+      "chunk_id": "91a35eeb-b771-410a-a391-585354bafaa6",
+      "chunk_title": "Savoy Place Location",
+      "chunk_summary": "This chunk contains information about the geographical location, surrounding streets, nearby landmarks, and views from Savoy Place in London.",
+      "context_title": "Savoy Place",
+      "page_content": "There are commanding views from the Savoy Place building over to the London Eye. Savoy Street runs up to the Strand. Savoy Street runs along the side of the Savoy Place building. Waterloo Bridge is close by the Savoy Place building. Savoy Hill House is close by the Savoy Place building. The Victoria Embankment is in front of the Savoy Place building. Savoy Place is on a street called Savoy Place. The River Thames is in London. There are commanding views from the Savoy Place building over to the South Bank. The Savoy Hotel is close by the Savoy Place building. Savoy Place is on the north bank of the River Thames."
+    },
+    {
+      "chunk_id": "3ef42500-adbc-4aca-836f-dd555ab10972",
+      "chunk_title": "London Eye Overview",
+      "chunk_summary": "This chunk contains information about the London Eye, including its description as a giant Ferris wheel, its location on the South Bank of the River Thames, and its sponsorship history.",
+      "context_title": "London Eye",
+      "page_content": "The London Eye is on the South Bank of the River Thames. As of January 2015, the London Eye has been advertised as the Coca-Cola London Eye. The London Eye is a giant Ferris wheel."
+    },
+    {
+      "chunk_id": "02b31688-d471-42fc-9660-03412264d887",
+      "chunk_title": "Landmark Locations",
+      "chunk_summary": "This chunk contains information about the geographical location of landmarks and points of interest, specifically detailing the position of the London Eye Pier relative to other structures and the River Thames.",
+      "context_title": "London Eye Pier",
+      "page_content": "The London Eye Pier is on the South Bank of the River Thames. The London Eye Pier is directly in front of the London Eye Ferris wheel. The London Eye Pier is in Central London, England."
+    },
+    {
+      "chunk_id": "9524063c-e07c-4e51-90f4-a73915ffd8a6",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of rivers.",
+      "context_title": "London Eye",
+      "page_content": "The River Thames is in London."
+    },
+    {
+      "chunk_id": "61da782e-b497-4b69-9c41-a7da76934986",
+      "chunk_title": "York Road & Landmarks",
+      "chunk_summary": "This chunk contains information about York Road in London, including its location, the routes it connects, and nearby landmarks to the west and east.",
+      "context_title": "York Road, Lambeth",
+      "page_content": "The General Lying-In Hospital is located on the eastern edge of York Road. The former Waterloo International Eurostar terminal is located on the eastern edge of York Road. York Road is a road in Lambeth, London. York Road runs between Westminster Bridge Road (south) and Waterloo Road (north). The London Eye is beyond the old County Hall, Shell Centre, and Jubilee Gardens to the west of York Road. Jubilee Gardens are to the west of York Road. Waterloo station is located on the eastern edge of York Road. The old County Hall is to the west of York Road. The Shell Centre is to the west of York Road. The London IMAX cinema is located within the Bullring roundabout at the northern end of York Road. The River Thames is beyond the old County Hall, Shell Centre, and Jubilee Gardens to the west of York Road."
+    },
+    {
+      "chunk_id": "35666637-8408-4dd1-a387-ed4525369d8d",
+      "chunk_title": "Pier & Landmark Names",
+      "chunk_summary": "This chunk contains information about the names and aliases of specific piers or landmarks.",
+      "context_title": "London Eye Pier",
+      "page_content": "The London Eye Pier is also known as the Waterloo Millennium Pier."
+    },
+    {
+      "chunk_id": "7f2a2019-1e79-4464-bc4b-7e0f52dfdd41",
+      "chunk_title": "Infrastructure & Environment",
+      "chunk_summary": "This chunk contains information about infrastructure development plans and their potential impact on natural environments.",
+      "context_title": "Woodlands Farm Trust",
+      "page_content": "The Greater London Council plan for the East London river crossing and road scheme was planned to run through the adjacent ancient forest."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.666667,
+  "precision": 0.5,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 0.5,
+  "retrieval_precision": 0.2857142857142857,
+  "retrieval_count": 2,
+  "total_chunks": 14,
+  "total_distinct_titles": 8,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "What river does Waterloo Bridge and London Eye have in common?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What river does Waterloo Bridge and London Eye have in common?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Waterloo Bridge 和 London Eye 共同涉及的河流",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 和 N1_2 均已 solved 且答案一致为 'River Thames'。推理链完整：Q 询问共同河流，分解为两个独立事实查询，结果汇聚指向同一实体。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，逻辑闭环已完成，可生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which river does Waterloo Bridge cross?",
+          "answer": "River Thames",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which river does Waterloo Bridge cross?",
+          "planner_rationale": "Q 询问两个地标共同的河流。首先需要确定 Waterloo Bridge 跨越的是哪条河，这是分解 Q 的第一个必要事实。",
+          "solver_judgment": "question 要求确认 Waterloo Bridge 跨越的河流。search_query 直接搜索了 'Which river does Waterloo Bridge cross?'。chunks 返回了明确信息：chunk ca73aeed-0e13-4dc1-9355-366adc733101 指出 \"Waterloo Bridge is across the River Thames\"；chunk 5b97739f-d988-4ec4-be18-b6847ad4c4a4 指出 \"Waterloo Bridge crosses the River Thames in London\"。检索精准，直接命中目标信息，答案确认为 River Thames。",
+          "critic_factual_notes": "2 个独立来源（Waterloo Road, London; Waterloo Bridge）一致陈述 'Waterloo Bridge is across the River Thames' / 'crosses the River Thames'。证据直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which river is the London Eye located next to?",
+          "answer": "River Thames",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which river is the London Eye located next to?",
+          "planner_rationale": "Q 询问两个地标共同的河流。需要确定 London Eye 位于哪条河畔，这是分解 Q 的第二个必要事实。通过比较这两个事实的答案，可以得出共同河流。",
+          "solver_judgment": "question 要求确认伦敦眼（London Eye）毗邻的河流。search_query 直接搜索了 'Which river is the London Eye located next to?'。chunks 返回了明确信息：chunk '3ef42500-adbc-4aca-836f-dd555ab10972' 指出 'The London Eye is on the South Bank of the River Thames'；chunk '02b31688-d471-42fc-9660-03412264d887' 也提到 'The London Eye Pier is on the South Bank of the River Thames... directly in front of the London Eye'。检索精准命中目标信息，答案明确为 River Thames。",
+          "critic_factual_notes": "2 个独立来源（London Eye; London Eye Pier）一致陈述 'The London Eye is on the South Bank of the River Thames' / 'London Eye Pier is on the South Bank of the River Thames... directly in front of the London Eye'。证据直接支持答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "What river does Waterloo Bridge and London Eye have in common?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What river does Waterloo Bridge and London Eye have in common?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 solved 且答案一致为 'River Thames'，逻辑闭环已完成，可生成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 和 N1_2 均已 solved 且答案一致为 'River Thames'。推理链完整：Q 询问共同河流，分解为两个独立事实查询，结果汇聚指向同一实体。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，逻辑闭环已完成，可生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which river does Waterloo Bridge cross?",
+          "answer": "River Thames",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which river does Waterloo Bridge cross?",
+          "planner_rationale": "事实已确立：Waterloo Bridge 跨越 River Thames。证据充分（2个独立来源），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认 Waterloo Bridge 跨越的河流。search_query 直接搜索了 'Which river does Waterloo Bridge cross?'。chunks 返回了明确信息：chunk ca73aeed-0e13-4dc1-9355-366adc733101 指出 \"Waterloo Bridge is across the River Thames\"；chunk 5b97739f-d988-4ec4-be18-b6847ad4c4a4 指出 \"Waterloo Bridge crosses the River Thames in London\"。检索精准，直接命中目标信息，答案确认为 River Thames。",
+          "critic_factual_notes": "2 个独立来源（Waterloo Road, London; Waterloo Bridge）一致陈述 'Waterloo Bridge is across the River Thames' / 'crosses the River Thames'。证据直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which river is the London Eye located next to?",
+          "answer": "River Thames",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which river is the London Eye located next to?",
+          "planner_rationale": "事实已确立：London Eye 位于 River Thames 畔。证据充分（2个独立来源），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认伦敦眼（London Eye）毗邻的河流。search_query 直接搜索了 'Which river is the London Eye located next to?'。chunks 返回了明确信息：chunk '3ef42500-adbc-4aca-836f-dd555ab10972' 指出 'The London Eye is on the South Bank of the River Thames'；chunk '02b31688-d471-42fc-9660-03412264d887' 也提到 'The London Eye Pier is on the South Bank of the River Thames... directly in front of the London Eye'。检索精准命中目标信息，答案明确为 River Thames。",
+          "critic_factual_notes": "2 个独立来源（London Eye; London Eye Pier）一致陈述 'The London Eye is on the South Bank of the River Thames' / 'London Eye Pier is on the South Bank of the River Thames... directly in front of the London Eye'。证据直接支持答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "What river does Waterloo Bridge and London Eye have in common?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What river does Waterloo Bridge and London Eye have in common?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 和 N1_2 均已 solved 且答案一致为 'River Thames'，逻辑闭环已完成，可生成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_1 和 N1_2 均已 solved 且答案一致为 'River Thames'。推理链完整：Q 询问共同河流，分解为两个独立事实查询，结果汇聚指向同一实体。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分且一致，逻辑闭环已完成，可生成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Which river does Waterloo Bridge cross?",
+          "answer": "River Thames",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which river does Waterloo Bridge cross?",
+          "planner_rationale": "事实已确立：Waterloo Bridge 跨越 River Thames。证据充分（2个独立来源），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认 Waterloo Bridge 跨越的河流。search_query 直接搜索了 'Which river does Waterloo Bridge cross?'。chunks 返回了明确信息：chunk ca73aeed-0e13-4dc1-9355-366adc733101 指出 \"Waterloo Bridge is across the River Thames\"；chunk 5b97739f-d988-4ec4-be18-b6847ad4c4a4 指出 \"Waterloo Bridge crosses the River Thames in London\"。检索精准，直接命中目标信息，答案确认为 River Thames。",
+          "critic_factual_notes": "2 个独立来源（Waterloo Road, London; Waterloo Bridge）一致陈述 'Waterloo Bridge is across the River Thames' / 'crosses the River Thames'。证据直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Which river is the London Eye located next to?",
+          "answer": "River Thames",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Which river is the London Eye located next to?",
+          "planner_rationale": "事实已确立：London Eye 位于 River Thames 畔。证据充分（2个独立来源），Critic 判为 healthy，无需重搜。",
+          "solver_judgment": "question 要求确认伦敦眼（London Eye）毗邻的河流。search_query 直接搜索了 'Which river is the London Eye located next to?'。chunks 返回了明确信息：chunk '3ef42500-adbc-4aca-836f-dd555ab10972' 指出 'The London Eye is on the South Bank of the River Thames'；chunk '02b31688-d471-42fc-9660-03412264d887' 也提到 'The London Eye Pier is on the South Bank of the River Thames... directly in front of the London Eye'。检索精准命中目标信息，答案明确为 River Thames。",
+          "critic_factual_notes": "2 个独立来源（London Eye; London Eye Pier）一致陈述 'The London Eye is on the South Bank of the River Thames' / 'London Eye Pier is on the South Bank of the River Thames... directly in front of the London Eye'。证据直接支持答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，无需重搜。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Which river does Waterloo Bridge cross?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "ca73aeed-0e13-4dc1-9355-366adc733101",
+        "5b97739f-d988-4ec4-be18-b6847ad4c4a4",
+        "1cca2eb2-a465-4862-ac33-12dfaa00fc79",
+        "b2619939-e7d4-4ac7-85b7-5dedb1b840bd",
+        "07ea4bfa-ddf9-433f-b78a-748da8df6dc7",
+        "d657959c-b6cc-4865-a19e-533c23472f26",
+        "d8db751b-c19c-465f-a5bf-ce9294300e67",
+        "91a35eeb-b771-410a-a391-585354bafaa6"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Which river is the London Eye located next to?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "3ef42500-adbc-4aca-836f-dd555ab10972",
+        "02b31688-d471-42fc-9660-03412264d887",
+        "5b97739f-d988-4ec4-be18-b6847ad4c4a4",
+        "9524063c-e07c-4e51-90f4-a73915ffd8a6",
+        "91a35eeb-b771-410a-a391-585354bafaa6",
+        "61da782e-b497-4b69-9c41-a7da76934986",
+        "35666637-8408-4dd1-a387-ed4525369d8d",
+        "7f2a2019-1e79-4464-bc4b-7e0f52dfdd41"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which river does Waterloo Bridge cross?（理由：确定第一个地标涉及的河流），F2: Which river is the London Eye located next to?（理由：确定第二个地标涉及的河流）。关系: F1 是 Q 的分解产物（decomposition，N0→$1），F2 是 Q 的分解产物（decomposition，N0→$2）。通过比较 F1 和 F2 的答案，可以回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将 Q 分解为两个独立的子问题，分别查询两个地标各自涉及的河流，然后隐含地通过比较得出共同河流。修正：添加了从根节点 N0 到两个新节点的 decomposition 边，以满足 DAG 拓扑约束（每个非根节点必须有入边，且只有一个根节点）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N0 分解为 N1_1 和 N1_2，两者答案一致汇聚为 River Thames）；③所有节点（N0, N1_1, N1_2）均为 healthy；④首轮无拓扑变化冲突。置信度高，可终止并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which river does Waterloo Bridge cross?（理由：确定第一个地标涉及的河流），F2: Which river is the London Eye located next to?（理由：确定第二个地标涉及的河流）。关系: F1 是 Q 的分解产物（decomposition，N0→N1_1），F2 是 Q 的分解产物（decomposition，N0→N1_2）。由于 F1 和 F2 的答案均为 'River Thames'，Q 的答案即为 River Thames。当前 DAG 结构已完整覆盖 Q 的语义需求，所有子节点均已 solved 且 healthy。",
+      "hypothesis_delta": "本轮无结构变更。原因：上一轮初始分解策略完全成功。N1_1 和 N1_2 均返回一致且证据充分的答案 'River Thames'，Critic 建议 INHERIT。DAG 已收敛，无需新增、删除或修改任何节点/边。直接保留现有结构（包括两条 decomposition 边）以完成最终答案聚合。修正：显式声明保留两条旧边 N0→N1_1 和 N0→N1_2，以满足系统一致性检查要求。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，答案聚合可回答 Q）；③ 全部节点 healthy（N0, N1_1, N1_2 均为 healthy）；④ 拓扑连续两轮无变化（本轮通过，结合上下文判断已收敛）。置信度高，可生成最终答案 'River Thames'。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Which river does Waterloo Bridge cross?（理由：确定第一个地标涉及的河流），F2: Which river is the London Eye located next to?（理由：确定第二个地标涉及的河流）。关系: F1 是 Q 的分解产物（decomposition，N0→N1_1），F2 是 Q 的分解产物（decomposition，N0→N1_2）。由于 F1 和 F2 的答案均为 'River Thames'，Q 的答案即为 River Thames。当前 DAG 结构已完整覆盖 Q 的语义需求，所有子节点均已 solved 且 healthy。",
+      "hypothesis_delta": "本轮无结构变更。原因：上一轮初始分解策略完全成功。N1_1 和 N1_2 均返回一致且证据充分的答案 'River Thames'，Critic 建议 INHERIT。DAG 已收敛，无需新增、删除或修改任何节点/边。直接保留现有结构（包括两条 decomposition 边）以完成最终答案聚合。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N0 分解为 N1_1/N1_2，两者答案一致汇聚）；③ 所有节点（含 ROOT）critic_health 均为 healthy；④ 拓扑连续两轮无变化（Planner 确认无变更）。置信度高，可生成最终答案 'River Thames'。"
+      }
+    }
+  ]
+}

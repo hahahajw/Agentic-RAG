@@ -1,0 +1,107 @@
+{
+  "question_index": 427,
+  "question_id": "2hop__259228_793698",
+  "question": "Where is Ulrich Walter's employer headquartered?",
+  "answer": "Cologne",
+  "prediction": "CANNOT_ANSWER",
+  "error": null,
+  "latency_ms": 107159.02969997842,
+  "dataset_type": "musique",
+  "timestamp": "2026-05-14T22:30:10.400653+00:00",
+  "chunks": [],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 0.0,
+  "hit": 0,
+  "mrr": 0.0,
+  "retrieval_precision": 0.0,
+  "retrieval_count": 0,
+  "total_chunks": 0,
+  "total_distinct_titles": 0,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "planner_failure",
+  "dag_nodes": 2,
+  "dag_edges": 1,
+  "dag_snapshots": [
+    {
+      "q": "Where is Ulrich Walter's employer headquartered?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where is Ulrich Walter's employer headquartered?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Ulrich Walter 雇主的总部所在地",
+          "solver_judgment": "",
+          "critic_factual_notes": "根节点，无直接搜索证据。其状态完全依赖于子节点 N1_1 的求解结果。当前子节点被阻塞，导致根节点无法获得任何事实支撑。",
+          "critic_normative_advice": "建议修复依赖结构——当前 N0 → N1_1 的依赖方向导致 N1_1 因 N0 为空而被阻塞。N1_1 是独立事实查询，不应依赖 N0 的答案。建议移除该依赖或反转逻辑，使 N1_1 可独立执行搜索。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Ulrich Walter's employer?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "Q 询问的是 'Ulrich Walter's employer' 的总部位置。要回答这个问题，首先必须确定 Ulrich Walter 的雇主是谁。这是一个关键的中间事实，未被当前 DAG 覆盖。",
+          "solver_judgment": "",
+          "critic_factual_notes": "节点处于 BLOCKED 状态。阻塞原因：依赖源 N0 的 answer 为空。系统判定 N1_1 需要 N0 的结果才能构造查询，但 N0 是根节点（最终问题），本身没有预置答案。这导致搜索未执行，无任何 chunk 返回。",
+          "critic_normative_advice": "建议解除阻塞——N1_1 的问题 'Who is Ulrich Walter's employer?' 是一个独立的实体识别问题，不依赖 N0 的答案。应移除 N0 → N1_1 的 dependency 边，允许 Solver 对 N1_1 执行独立搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Ulrich Walter's employer?（理由：Q 的核心对象是 'Ulrich Walter's employer'，必须先解析出具体实体才能查询其总部位置），F2 (Root): Where is [that employer] headquartered?（理由：这是 Q 的最终目标）。关系: F1 是 F2 的前置条件（dependency），因为 F2 的搜索需要 F1 的答案来消解 'that employer' 指代，否则无法构造精确查询。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将复合问题 'Where is Ulrich Walter's employer headquartered?' 分解为两个步骤：1. 识别雇主实体；2. 查询该实体的总部位置。由于第二步依赖第一步的结果，建立 dependency 边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": false,
+        "reason": "条件②未通过：N0 → N1_1 依赖链语义断裂。N0 是根节点，无法为 N1_1 提供消解指代所需的答案；N1_1 是独立事实查询，不应依赖 N0。条件③未通过：N1_1 处于 blocked 状态，N0 处于 needs_verification 状态。结构死锁，必须修正 DAG 拓扑才能继续。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": false,
+      "planner_revisions": 0,
+      "search_calls": 0
+    },
+    {
+      "round": 3,
+      "planner_ok": false,
+      "planner_revisions": 0,
+      "search_calls": 0
+    }
+  ]
+}

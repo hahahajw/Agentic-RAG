@@ -1,0 +1,1225 @@
+{
+  "question_index": 261,
+  "question_id": "c4dfdd5608aa11ebbd80ac1f6bf848b6",
+  "question": "Which film has the director who was born later, The Voice Of My City or The Rental?",
+  "answer": "The Rental",
+  "prediction": "The Rental",
+  "error": null,
+  "latency_ms": 379023.3961000049,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-18T13:40:09.252697+00:00",
+  "chunks": [
+    {
+      "chunk_id": "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, and starring actors.",
+      "context_title": "The Voice of My City",
+      "page_content": "The Voice of My City was directed by Tulio Demicheli. The Voice of My City stars Diana Maggi. The Voice of My City stars Mariano Mores. The Voice of My City is a 1953 Argentine musical comedy film."
+    },
+    {
+      "chunk_id": "e772f24a-14b3-4a9c-838f-e2fde727efcd",
+      "chunk_title": "El Cantar de mi ciudad",
+      "chunk_summary": "This chunk contains information about the 1930 Argentine film \"El Cantar de mi ciudad,\" including its alternative English title, director, writer, release date, and status as Argentina's first sound film.",
+      "context_title": "The Singer of My City",
+      "page_content": "El Cantar de mi ciudad was released on 3 October 1930. José A. Ferreyra directed El Cantar de mi ciudad. El Cantar de mi ciudad was the first ever sound film produced in Argentina. José A. Ferreyra wrote El Cantar de mi ciudad. El Cantar de mi ciudad is a 1930 Argentine film. El Cantar de mi city is also known in English as The Singer of My City."
+    },
+    {
+      "chunk_id": "888c0d6d-a845-4ef6-b4f7-637d73d46019",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "The Voice of Bugle Ann",
+      "page_content": "The Voice of Bugle Ann was directed by Richard Thorpe."
+    },
+    {
+      "chunk_id": "efec1a20-6f1b-4486-acdd-dd2ba8b71ce6",
+      "chunk_title": "Film Directors & Movies",
+      "chunk_summary": "This chunk contains information about film directors and the movies they have directed.",
+      "context_title": "The Voice of Action",
+      "page_content": "James Beveridge directed The Voice of Action."
+    },
+    {
+      "chunk_id": "adcbd2ad-064f-43c6-bcc5-45f91b8b6ce3",
+      "chunk_title": "Film Directors & Roles",
+      "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+      "context_title": "Bernie Bonvoisin",
+      "page_content": "Bernie Bonvoisin is a film director."
+    },
+    {
+      "chunk_id": "4cd52d81-ed1e-467a-b636-67e12e7a47eb",
+      "chunk_title": "Film Directors & Roles",
+      "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+      "context_title": "Bernie Bonvoisin",
+      "page_content": "Bernie Bonvoisin is a film director."
+    },
+    {
+      "chunk_id": "458e79fc-d1a7-4b99-9549-bf591d20b6e5",
+      "chunk_title": "Professional Roles",
+      "chunk_summary": "This chunk contains information about the professional roles and occupations of individuals, such as film directors.",
+      "context_title": "Bernie Bonvoisin",
+      "page_content": "Bernie Bonvoisin is a film director."
+    },
+    {
+      "chunk_id": "633a1bc6-c197-42fa-9c5d-f6b6699ddf5d",
+      "chunk_title": "Film Directors & Roles",
+      "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+      "context_title": "Bernie Bonvoisin",
+      "page_content": "Bernie Bonvoisin is a film director."
+    },
+    {
+      "chunk_id": "e83532df-bd75-45e5-a2c9-1cf3cd535690",
+      "chunk_title": "Professional Roles",
+      "chunk_summary": "This chunk contains information about the professional roles and occupations of individuals, such as film directors.",
+      "context_title": "Bernie Bonvoisin",
+      "page_content": "Bernie Bonvoisin is a film director."
+    },
+    {
+      "chunk_id": "c9fe4df1-53d5-4d22-b8d4-bc0ad29a3a39",
+      "chunk_title": "Films & Release Years",
+      "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+      "context_title": "The Voice of Bugle Ann",
+      "page_content": "The Voice of Bugle Ann is a 1936 film."
+    },
+    {
+      "chunk_id": "90686b1c-9485-47c8-a008-9106ea25a8f6",
+      "chunk_title": "The Rental Film Details",
+      "chunk_summary": "This chunk contains information about the horror film \"The Rental,\" including its director, screenwriters, cast, and status as a directorial debut.",
+      "context_title": "The Rental",
+      "page_content": "The Rental is an upcoming American horror film. The Rental stars Alison Brie. The Rental is Dave Franco's directorial debut. The Rental stars Jeremy Allen White. The screenplay for The Rental is by Joe Swanberg. The screenplay for The Rental is by Dave Franco. The Rental stars Sheila Vand. The Rental stars Dan Stevens. The Rental is directed by Dave Franco."
+    },
+    {
+      "chunk_id": "59364ecd-2543-4bdd-a95d-62e88d23df4b",
+      "chunk_title": "Film Directors & Works",
+      "chunk_summary": "This chunk contains information about film directors and their notable works, specifically focusing on Martin Donovan's career as a director and screenwriter.",
+      "context_title": "Martin Donovan (screenwriter)",
+      "page_content": "Martin Donovan is a film director. Martin Donovan is mostly recognized for his co-written script for \"Death Becomes Her\". The film \"Apartment Zero\" was released in 1989. Martin Donovan is mostly recognized as the director of the cult film \"Apartment Zero\"."
+    },
+    {
+      "chunk_id": "23e92a3f-dbbf-4a40-8a19-65bdf2f81672",
+      "chunk_title": "Bollywood Films",
+      "chunk_summary": "This chunk contains information about Bollywood films, including their release years, genres, and directors.",
+      "context_title": "Rangila Ratan",
+      "page_content": "Rangila Ratan was directed by S. Ramanathan. Rangila Ratan is a 1976 Bollywood action film."
+    },
+    {
+      "chunk_id": "9b908d10-1e83-4233-8102-c89f64dc2bb3",
+      "chunk_title": "Professional Roles & Identity",
+      "chunk_summary": "This chunk contains information about the professional roles and identities of Dana Blankstein-Cohen in the film, television, and cultural sectors.",
+      "context_title": "Dana Blankstein",
+      "page_content": "Dana Blankstein-Cohen is the director of the Israeli Academy of Film and Television. Dana Blankstein-Cohen is an Israeli culture entrepreneur. Dana Blankstein-Cohen is a film director."
+    },
+    {
+      "chunk_id": "9e2ea0c5-47ad-4cc2-8f36-9b936bae897a",
+      "chunk_title": "Kurt Voss's Career",
+      "chunk_summary": "This chunk contains information about the professional background and identity of Kurt Voss, including his roles as a director, screenwriter, musician-songwriter, specific film credits, and frequent collaborations.",
+      "context_title": "Kurt Voss",
+      "page_content": "Kurt Voss's credits include the film \"Ghost on The Highway: A Portrait of Jeffrey Lee Pierce and The Gun Club\". Kurt Voss's credits include the film \"Down and Out with the Dolls\". Kurt Voss's credits include rock and roll related films. The trio of rock films created by Kurt Voss and Allison Anders includes \"Border Radio\". Kurt Voss is an American musician-songwriter. Kurt Voss is an American film director. Kurt Voss's credits include actress Jaime Pressly's debut feature. Kurt Voss and Allison Anders have worked together over twenty-five years. The trio of rock films created by Kurt Voss and Allison Anders includes \"Sugar Town\". Kurt Voss is an American screenwriter. Kurt Voss has frequently collaborated with Allison Anders. Kurt Voss and Allison Anders created a trilogy of rock films. The trio of rock films created by Kurt Voss and Allison Anders includes \"Strutter\". Kurt Voss's credits include the action film \"Below Utopia\". Kurt Voss's credits include Will Smith's debut film \"Where The Day Takes You\"."
+    },
+    {
+      "chunk_id": "4c41869a-ef28-4fdb-aac3-5eb000e4b8ab",
+      "chunk_title": "Film Producers",
+      "chunk_summary": "This chunk contains information about notable figures in the film industry, specifically focusing on producers and their contributions.",
+      "context_title": "Roger Corman's Operation Rogue",
+      "page_content": "Roger Corman is a legendary B-movie producer."
+    },
+    {
+      "chunk_id": "cbf67e5b-efde-41b5-a327-62fa06296f88",
+      "chunk_title": "Film Directors & Roles",
+      "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+      "context_title": "Le Masque de la Méduse",
+      "page_content": "Jean Rollin was a director."
+    },
+    {
+      "chunk_id": "65b85f28-919d-452a-90ab-82e375915f6b",
+      "chunk_title": "Professional Roles & Identity",
+      "chunk_summary": "This chunk contains information about the professional roles and identities of Dana Blankstein-Cohen in the film, television, and cultural sectors.",
+      "context_title": "Dana Blankstein",
+      "page_content": "Dana Blankstein-Cohen is the director of the Israeli Academy of Film and Television. Dana Blankstein-Cohen is an Israeli culture entrepreneur. Dana Blankstein-Cohen is a film director."
+    },
+    {
+      "chunk_id": "4e5f5810-5873-45c0-bb2a-48ba39c915e5",
+      "chunk_title": "Film Directors & Careers",
+      "chunk_summary": "This chunk contains information about film directors, including their nationalities and career statistics such as the number of credits, types of works, and active years.",
+      "context_title": "Martin Frič",
+      "page_content": "Martin Frič had more than 100 directing credits between 1929 and 1968. Martin Frič was a Czech film director. Martin Frič's directing credits included documentary films. Martin Frič's directing credits included shorts. Martin Frič's directing credits included feature films."
+    },
+    {
+      "chunk_id": "243ab1a0-99c5-490b-a823-4eb3f32fb425",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of films.",
+      "context_title": "Reunion (1936 film)",
+      "page_content": "Reunion was directed by Norman Taurog."
+    },
+    {
+      "chunk_id": "e958bd08-43ea-4694-821a-758967b161aa",
+      "chunk_title": "Birth Dates",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Tulio Demicheli",
+      "page_content": "Tulio Demicheli was born on August 15, 1914. Armando Bartolomé Demicheli was born in 1914."
+    },
+    {
+      "chunk_id": "8137a5fc-3b92-4ee7-bdf3-e0256c41593f",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the death dates of individuals.",
+      "context_title": "Tulio Demicheli",
+      "page_content": "Tulio Demicheli died on May 25, 1992."
+    },
+    {
+      "chunk_id": "35398b70-c130-48f4-8b15-35df2ad637e9",
+      "chunk_title": "Identities & Birth Names",
+      "chunk_summary": "This chunk contains information about the birth names and identities of individuals.",
+      "context_title": "Tulio Demicheli",
+      "page_content": "Tulio Demicheli was born as Armando Bartolomé Demicheli."
+    },
+    {
+      "chunk_id": "4c1560a5-6556-44f3-b6f2-b994659ef4a7",
+      "chunk_title": "Biographical Origins",
+      "chunk_summary": "This chunk contains biographical information about individuals, specifically their birthplaces and nationalities.",
+      "context_title": "Tulio Demicheli",
+      "page_content": "Tulio Demicheli was an Argentine born Spanish film director. Tulio Demicheli was born in Buenos Aires, Argentina."
+    },
+    {
+      "chunk_id": "ed83c508-bd55-4676-8a3a-1115a872b073",
+      "chunk_title": "Tulio Demicheli's Film Career",
+      "chunk_summary": "This chunk contains information about the professional career of Tulio Demicheli in the film industry, including his roles as a screenwriter and director, his active years, notable collaborations, and specialization in tango films.",
+      "context_title": "Tulio Demicheli",
+      "page_content": "Tulio Demicheli worked with the popular actor Tito Alonso. Tulio Demicheli initially began as a screenwriter in 1944. Tulio Demicheli began to simultaneously direct and write for his films by 1950. Tulio Demicheli is best known for his work in tango film production. Tulio Demicheli worked in the classic era of film. Tulio Demicheli directed some 60 films between 1944 and 1987. Tulio Demicheli worked with the popular actor Tita Merello. Tulio Demicheli was a screenwriter. Tulio Demicheli worked with the popular actor Santiago Gómez Cou. Tulio Demicheli wrote for some 60 films between 1944 and 1987."
+    },
+    {
+      "chunk_id": "2eec7d1c-d7d5-45ea-8353-780d617b1beb",
+      "chunk_title": "Age at Death",
+      "chunk_summary": "This chunk contains information about the age at death of individuals.",
+      "context_title": "Tulio Demicheli",
+      "page_content": "Tulio Demicheli was aged 77 when he died."
+    },
+    {
+      "chunk_id": "f4bbecf7-bec5-441a-9a44-b40f813aa5fe",
+      "chunk_title": "Directorial Debut",
+      "chunk_summary": "This chunk contains information about the directorial debut of Tulio Demicheli, including the film title and year.",
+      "context_title": "Tulio Demicheli",
+      "page_content": "Tulio Demicheli made his directorial debut with the film \"Arrabalera\" in 1950."
+    },
+    {
+      "chunk_id": "870e9a33-a7dc-4520-abab-840bbbbf24f4",
+      "chunk_title": "Causes of Death",
+      "chunk_summary": "This chunk contains information about the causes of death for individuals.",
+      "context_title": "Tulio Demicheli",
+      "page_content": "Tulio Demicheli died from cancer."
+    },
+    {
+      "chunk_id": "4a1ead3f-bfc5-4581-a1b9-4f75edb1f373",
+      "chunk_title": "Film Producer Careers",
+      "chunk_summary": "This chunk contains information about the professional roles and careers of film producers.",
+      "context_title": "Tulio Demicheli",
+      "page_content": "Tulio Demicheli was a film producer."
+    },
+    {
+      "chunk_id": "9d1a4999-5ee0-4a71-b123-d54496246a05",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "Dave Franco",
+      "page_content": "David John Franco was born on June 12, 1985."
+    },
+    {
+      "chunk_id": "32277c9a-551a-4c43-9f79-ed87ab581bbd",
+      "chunk_title": "David Franco Career",
+      "chunk_summary": "This chunk contains biographical information about American actor David John Franco, focusing on his career progression from early small roles to starring and breakthrough film and television performances.",
+      "context_title": "Dave Franco",
+      "page_content": "David John Franco had a starring role in the film \"The Lego Ninjago Movie\" (2017). David John Franco is an American actor. David John Franco had a starring role in the sequel to \"Neighbors\" (2016). David John Franco had a starring role in the film \"Now You See Me 2\" (2016). David John Franco began his career with small roles in films. David John Franco had a starring role in the film \"The Disaster Artist\" (2017). David John Franco had a small role in the film \"Superbad\" (2007). David John Franco had a starring role in the film \"Warm Bodies\" (2013). David John Franco had a starring role in the film \"If Beale Street Could Talk\" (2018). David John Franco had a starring role in the film \"Nerve\" (2016). David John Franco had a starring role in the film \"Neighbors\" (2014). David John Franco had a small role in the film \"Charlie St. Cloud\" (2010). David John Franco had a starring role in the ninth season of the comedy series \"Scrubs\". David John Franco had a starring role in the film \"Fright Night\" (2011). David John Franco had his film breakthrough as a supporting role in the buddy comedy film \"21 Jump Street\" (2012). David John Franco had a starring role in the film \"Now You See Me\" (2013). David John Franco had a starring role in the film \"The Little Hours\" (2017)."
+    },
+    {
+      "chunk_id": "9bbff3b5-0946-42db-917a-178e5e4c0c62",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about birth dates and times.",
+      "context_title": "Jason Davenport",
+      "page_content": "Jason Davenport was born on 4 September 1985."
+    },
+    {
+      "chunk_id": "3e8513e4-b6cd-4989-ab1a-56d484f17a20",
+      "chunk_title": "Actors' Professions & Careers",
+      "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+      "context_title": "I Want Your Love (film)",
+      "page_content": "James Franco is an actor."
+    },
+    {
+      "chunk_id": "199966be-ca98-4813-97b1-5f39d5223aa4",
+      "chunk_title": "Actors' Professions & Careers",
+      "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+      "context_title": "I Want Your Love (film)",
+      "page_content": "James Franco is an actor."
+    },
+    {
+      "chunk_id": "90748c92-814d-4811-aed7-1e400a0eeff8",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+      "context_title": "D. A. Points",
+      "page_content": "Darren Andrew \"D.A.\" Points was born on December 1, 1976."
+    },
+    {
+      "chunk_id": "c5fbe282-9db6-4faa-b517-ecb6828fa436",
+      "chunk_title": "Professions & Careers",
+      "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+      "context_title": "I Want Your Love (film)",
+      "page_content": "James Franco is an actor."
+    },
+    {
+      "chunk_id": "153b53cd-ade9-496c-9dac-7482bb2874cd",
+      "chunk_title": "Professions & Careers",
+      "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+      "context_title": "I Want Your Love (film)",
+      "page_content": "James Franco is an actor."
+    },
+    {
+      "chunk_id": "b851f8e6-4de8-4adb-b9c2-8253ecbd1169",
+      "chunk_title": "Unknown Dates & Times",
+      "chunk_summary": "This chunk contains information about unknown or missing dates and times related to individuals.",
+      "context_title": "Mark Kenneth Woods",
+      "page_content": "The date of birth of Mark Kenneth Woods is unknown."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.34210526315789475,
+  "retrieval_count": 4,
+  "total_chunks": 38,
+  "total_distinct_titles": 20,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 5,
+  "dag_edges": 4,
+  "dag_snapshots": [
+    {
+      "q": "Which film has the director who was born later, The Voice Of My City or The Rental?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born later, The Voice Of My City or The Rental?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影的导演出生年份",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。两条推理路径完整：N1_1(Tulio Demicheli)→N1_3(August 15, 1914) 和 N1_2(Dave Franco)→N1_4(June 12, 1985)。两条路径的依赖边语义有效，子节点答案可直接用于比较。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，所有依赖边语义有效，可直接合成最终答案（比较 1914 与 1985，Dave Franco 出生更晚，故 The Rental 的导演出生更晚）。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film The Voice Of My City?",
+          "answer": "Tulio Demicheli",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film The Voice Of My City?",
+          "planner_rationale": "Q 要求比较两部电影的导演出生时间，首先需要确定 The Voice Of My City 的导演是谁",
+          "solver_judgment": "question 要求确认电影 'The Voice Of My City' 的导演。search_query 直接搜索了该问题。chunks 返回了多个关于 'The Voice...' 开头电影的信息，其中 chunk_ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3 明确记载 'The Voice of My City was directed by Tulio Demicheli'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 The Voice of My City）。支撑 chunk ddf0e7f2 全文直接陈述 'The Voice of My City was directed by Tulio Demicheli'，与声称答案完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地陈述了答案，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, and starring actors.",
+              "context_title": "The Voice of My City",
+              "page_content": "The Voice of My City was directed by Tulio Demicheli. The Voice of My City stars Diana Maggi. The Voice of My City stars Mariano Mores. The Voice of My City is a 1953 Argentine musical comedy film."
+            },
+            {
+              "chunk_id": "e772f24a-14b3-4a9c-838f-e2fde727efcd",
+              "chunk_title": "El Cantar de mi ciudad",
+              "chunk_summary": "This chunk contains information about the 1930 Argentine film \"El Cantar de mi ciudad,\" including its alternative English title, director, writer, release date, and status as Argentina's first sound film.",
+              "context_title": "The Singer of My City",
+              "page_content": "El Cantar de mi ciudad was released on 3 October 1930. José A. Ferreyra directed El Cantar de mi ciudad. El Cantar de mi ciudad was the first ever sound film produced in Argentina. José A. Ferreyra wrote El Cantar de mi ciudad. El Cantar de mi ciudad is a 1930 Argentine film. El Cantar de mi city is also known in English as The Singer of My City."
+            },
+            {
+              "chunk_id": "888c0d6d-a845-4ef6-b4f7-637d73d46019",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "The Voice of Bugle Ann",
+              "page_content": "The Voice of Bugle Ann was directed by Richard Thorpe."
+            },
+            {
+              "chunk_id": "efec1a20-6f1b-4486-acdd-dd2ba8b71ce6",
+              "chunk_title": "Film Directors & Movies",
+              "chunk_summary": "This chunk contains information about film directors and the movies they have directed.",
+              "context_title": "The Voice of Action",
+              "page_content": "James Beveridge directed The Voice of Action."
+            },
+            {
+              "chunk_id": "adcbd2ad-064f-43c6-bcc5-45f91b8b6ce3",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            },
+            {
+              "chunk_id": "4cd52d81-ed1e-467a-b636-67e12e7a47eb",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            },
+            {
+              "chunk_id": "458e79fc-d1a7-4b99-9549-bf591d20b6e5",
+              "chunk_title": "Professional Roles",
+              "chunk_summary": "This chunk contains information about the professional roles and occupations of individuals, such as film directors.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            },
+            {
+              "chunk_id": "633a1bc6-c197-42fa-9c5d-f6b6699ddf5d",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            },
+            {
+              "chunk_id": "e83532df-bd75-45e5-a2c9-1cf3cd535690",
+              "chunk_title": "Professional Roles",
+              "chunk_summary": "This chunk contains information about the professional roles and occupations of individuals, such as film directors.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            },
+            {
+              "chunk_id": "c9fe4df1-53d5-4d22-b8d4-bc0ad29a3a39",
+              "chunk_title": "Films & Release Years",
+              "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+              "context_title": "The Voice of Bugle Ann",
+              "page_content": "The Voice of Bugle Ann is a 1936 film."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who directed the film The Rental?",
+          "answer": "Dave Franco",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film The Rental?",
+          "planner_rationale": "Q 要求比较两部电影的导演出生时间，需要确定 The Rental 的导演是谁",
+          "solver_judgment": "question 要求确认电影《The Rental》的导演。search_query 搜索了 'Who directed the film The Rental?'。chunks 返回了关于该电影的详细信息，其中 chunk 90686b1c-9485-47c8-a008-9106ea25a8f6 明确记载 'The Rental is directed by Dave Franco.'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 The Rental）。支撑 chunk 90686b1c 全文直接陈述 'The Rental is directed by Dave Franco'，与声称答案完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地陈述了答案，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "90686b1c-9485-47c8-a008-9106ea25a8f6"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "90686b1c-9485-47c8-a008-9106ea25a8f6",
+              "chunk_title": "The Rental Film Details",
+              "chunk_summary": "This chunk contains information about the horror film \"The Rental,\" including its director, screenwriters, cast, and status as a directorial debut.",
+              "context_title": "The Rental",
+              "page_content": "The Rental is an upcoming American horror film. The Rental stars Alison Brie. The Rental is Dave Franco's directorial debut. The Rental stars Jeremy Allen White. The screenplay for The Rental is by Joe Swanberg. The screenplay for The Rental is by Dave Franco. The Rental stars Sheila Vand. The Rental stars Dan Stevens. The Rental is directed by Dave Franco."
+            },
+            {
+              "chunk_id": "59364ecd-2543-4bdd-a95d-62e88d23df4b",
+              "chunk_title": "Film Directors & Works",
+              "chunk_summary": "This chunk contains information about film directors and their notable works, specifically focusing on Martin Donovan's career as a director and screenwriter.",
+              "context_title": "Martin Donovan (screenwriter)",
+              "page_content": "Martin Donovan is a film director. Martin Donovan is mostly recognized for his co-written script for \"Death Becomes Her\". The film \"Apartment Zero\" was released in 1989. Martin Donovan is mostly recognized as the director of the cult film \"Apartment Zero\"."
+            },
+            {
+              "chunk_id": "23e92a3f-dbbf-4a40-8a19-65bdf2f81672",
+              "chunk_title": "Bollywood Films",
+              "chunk_summary": "This chunk contains information about Bollywood films, including their release years, genres, and directors.",
+              "context_title": "Rangila Ratan",
+              "page_content": "Rangila Ratan was directed by S. Ramanathan. Rangila Ratan is a 1976 Bollywood action film."
+            },
+            {
+              "chunk_id": "9b908d10-1e83-4233-8102-c89f64dc2bb3",
+              "chunk_title": "Professional Roles & Identity",
+              "chunk_summary": "This chunk contains information about the professional roles and identities of Dana Blankstein-Cohen in the film, television, and cultural sectors.",
+              "context_title": "Dana Blankstein",
+              "page_content": "Dana Blankstein-Cohen is the director of the Israeli Academy of Film and Television. Dana Blankstein-Cohen is an Israeli culture entrepreneur. Dana Blankstein-Cohen is a film director."
+            },
+            {
+              "chunk_id": "9e2ea0c5-47ad-4cc2-8f36-9b936bae897a",
+              "chunk_title": "Kurt Voss's Career",
+              "chunk_summary": "This chunk contains information about the professional background and identity of Kurt Voss, including his roles as a director, screenwriter, musician-songwriter, specific film credits, and frequent collaborations.",
+              "context_title": "Kurt Voss",
+              "page_content": "Kurt Voss's credits include the film \"Ghost on The Highway: A Portrait of Jeffrey Lee Pierce and The Gun Club\". Kurt Voss's credits include the film \"Down and Out with the Dolls\". Kurt Voss's credits include rock and roll related films. The trio of rock films created by Kurt Voss and Allison Anders includes \"Border Radio\". Kurt Voss is an American musician-songwriter. Kurt Voss is an American film director. Kurt Voss's credits include actress Jaime Pressly's debut feature. Kurt Voss and Allison Anders have worked together over twenty-five years. The trio of rock films created by Kurt Voss and Allison Anders includes \"Sugar Town\". Kurt Voss is an American screenwriter. Kurt Voss has frequently collaborated with Allison Anders. Kurt Voss and Allison Anders created a trilogy of rock films. The trio of rock films created by Kurt Voss and Allison Anders includes \"Strutter\". Kurt Voss's credits include the action film \"Below Utopia\". Kurt Voss's credits include Will Smith's debut film \"Where The Day Takes You\"."
+            },
+            {
+              "chunk_id": "4c41869a-ef28-4fdb-aac3-5eb000e4b8ab",
+              "chunk_title": "Film Producers",
+              "chunk_summary": "This chunk contains information about notable figures in the film industry, specifically focusing on producers and their contributions.",
+              "context_title": "Roger Corman's Operation Rogue",
+              "page_content": "Roger Corman is a legendary B-movie producer."
+            },
+            {
+              "chunk_id": "cbf67e5b-efde-41b5-a327-62fa06296f88",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Le Masque de la Méduse",
+              "page_content": "Jean Rollin was a director."
+            },
+            {
+              "chunk_id": "65b85f28-919d-452a-90ab-82e375915f6b",
+              "chunk_title": "Professional Roles & Identity",
+              "chunk_summary": "This chunk contains information about the professional roles and identities of Dana Blankstein-Cohen in the film, television, and cultural sectors.",
+              "context_title": "Dana Blankstein",
+              "page_content": "Dana Blankstein-Cohen is the director of the Israeli Academy of Film and Television. Dana Blankstein-Cohen is an Israeli culture entrepreneur. Dana Blankstein-Cohen is a film director."
+            },
+            {
+              "chunk_id": "4e5f5810-5873-45c0-bb2a-48ba39c915e5",
+              "chunk_title": "Film Directors & Careers",
+              "chunk_summary": "This chunk contains information about film directors, including their nationalities and career statistics such as the number of credits, types of works, and active years.",
+              "context_title": "Martin Frič",
+              "page_content": "Martin Frič had more than 100 directing credits between 1929 and 1968. Martin Frič was a Czech film director. Martin Frič's directing credits included documentary films. Martin Frič's directing credits included shorts. Martin Frič's directing credits included feature films."
+            },
+            {
+              "chunk_id": "243ab1a0-99c5-490b-a823-4eb3f32fb425",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Reunion (1936 film)",
+              "page_content": "Reunion was directed by Norman Taurog."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of The Voice Of My City born?",
+          "answer": "August 15, 1914",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Tulio Demicheli birth date",
+          "planner_rationale": "确定导演身份后，需要查找其出生年份以进行比较",
+          "solver_judgment": "question 要求确认电影《The Voice Of My City》导演的出生日期。search_query 搜索了 'Tulio Demicheli birth date'。chunks 中 ddf0e7f2 明确指出该片导演为 Tulio Demicheli，e958bd08 记载 'Tulio Demicheli was born on August 15, 1914'。检索精准命中目标人物及其出生日期，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个来源（文档 Tulio Demicheli，文档 The Voice of My City）。支撑 chunk e958bd08 全文直接陈述 'Tulio Demicheli was born on August 15, 1914'，与声称答案完全匹配。支撑 chunk ddf0e7f2 确认导演身份。两个独立来源对核心事实（导演身份+出生日期）表述一致。交叉验证：通过。",
+          "critic_normative_advice": "建议 INHERIT——两个独立来源一致，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3",
+            "e958bd08-43ea-4694-821a-758967b161aa"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "e958bd08-43ea-4694-821a-758967b161aa",
+              "chunk_title": "Birth Dates",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli was born on August 15, 1914. Armando Bartolomé Demicheli was born in 1914."
+            },
+            {
+              "chunk_id": "8137a5fc-3b92-4ee7-bdf3-e0256c41593f",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the death dates of individuals.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli died on May 25, 1992."
+            },
+            {
+              "chunk_id": "35398b70-c130-48f4-8b15-35df2ad637e9",
+              "chunk_title": "Identities & Birth Names",
+              "chunk_summary": "This chunk contains information about the birth names and identities of individuals.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli was born as Armando Bartolomé Demicheli."
+            },
+            {
+              "chunk_id": "4c1560a5-6556-44f3-b6f2-b994659ef4a7",
+              "chunk_title": "Biographical Origins",
+              "chunk_summary": "This chunk contains biographical information about individuals, specifically their birthplaces and nationalities.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli was an Argentine born Spanish film director. Tulio Demicheli was born in Buenos Aires, Argentina."
+            },
+            {
+              "chunk_id": "ed83c508-bd55-4676-8a3a-1115a872b073",
+              "chunk_title": "Tulio Demicheli's Film Career",
+              "chunk_summary": "This chunk contains information about the professional career of Tulio Demicheli in the film industry, including his roles as a screenwriter and director, his active years, notable collaborations, and specialization in tango films.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli worked with the popular actor Tito Alonso. Tulio Demicheli initially began as a screenwriter in 1944. Tulio Demicheli began to simultaneously direct and write for his films by 1950. Tulio Demicheli is best known for his work in tango film production. Tulio Demicheli worked in the classic era of film. Tulio Demicheli directed some 60 films between 1944 and 1987. Tulio Demicheli worked with the popular actor Tita Merello. Tulio Demicheli was a screenwriter. Tulio Demicheli worked with the popular actor Santiago Gómez Cou. Tulio Demicheli wrote for some 60 films between 1944 and 1987."
+            },
+            {
+              "chunk_id": "2eec7d1c-d7d5-45ea-8353-780d617b1beb",
+              "chunk_title": "Age at Death",
+              "chunk_summary": "This chunk contains information about the age at death of individuals.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli was aged 77 when he died."
+            },
+            {
+              "chunk_id": "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, and starring actors.",
+              "context_title": "The Voice of My City",
+              "page_content": "The Voice of My City was directed by Tulio Demicheli. The Voice of My City stars Diana Maggi. The Voice of My City stars Mariano Mores. The Voice of My City is a 1953 Argentine musical comedy film."
+            },
+            {
+              "chunk_id": "f4bbecf7-bec5-441a-9a44-b40f813aa5fe",
+              "chunk_title": "Directorial Debut",
+              "chunk_summary": "This chunk contains information about the directorial debut of Tulio Demicheli, including the film title and year.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli made his directorial debut with the film \"Arrabalera\" in 1950."
+            },
+            {
+              "chunk_id": "870e9a33-a7dc-4520-abab-840bbbbf24f4",
+              "chunk_title": "Causes of Death",
+              "chunk_summary": "This chunk contains information about the causes of death for individuals.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli died from cancer."
+            },
+            {
+              "chunk_id": "4a1ead3f-bfc5-4581-a1b9-4f75edb1f373",
+              "chunk_title": "Film Producer Careers",
+              "chunk_summary": "This chunk contains information about the professional roles and careers of film producers.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli was a film producer."
+            }
+          ]
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of The Rental born?",
+          "answer": "June 12, 1985",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Dave Franco birth date",
+          "planner_rationale": "确定导演身份后，需要查找其出生年份以进行比较",
+          "solver_judgment": "question 要求确认电影《The Rental》导演的出生日期。search_query 搜索了 'Dave Franco birth date'。chunks 返回了《The Rental》的详细信息，其中 chunk 90686b1c... 明确指出 'The Rental is directed by Dave Franco'，确定了导演身份。同时 chunk 9d1a4999... 提供了 Dave Franco 的出生日期 'David John Franco was born on June 12, 1985'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个来源（文档 Dave Franco，文档 The Rental）。支撑 chunk 9d1a4999 全文直接陈述 'David John Franco was born on June 12, 1985'，与声称答案完全匹配。支撑 chunk 90686b1c 确认导演身份。两个独立来源对核心事实（导演身份+出生日期）表述一致。交叉验证：通过。",
+          "critic_normative_advice": "建议 INHERIT——两个独立来源一致，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "90686b1c-9485-47c8-a008-9106ea25a8f6",
+            "9d1a4999-5ee0-4a71-b123-d54496246a05"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "9d1a4999-5ee0-4a71-b123-d54496246a05",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Dave Franco",
+              "page_content": "David John Franco was born on June 12, 1985."
+            },
+            {
+              "chunk_id": "32277c9a-551a-4c43-9f79-ed87ab581bbd",
+              "chunk_title": "David Franco Career",
+              "chunk_summary": "This chunk contains biographical information about American actor David John Franco, focusing on his career progression from early small roles to starring and breakthrough film and television performances.",
+              "context_title": "Dave Franco",
+              "page_content": "David John Franco had a starring role in the film \"The Lego Ninjago Movie\" (2017). David John Franco is an American actor. David John Franco had a starring role in the sequel to \"Neighbors\" (2016). David John Franco had a starring role in the film \"Now You See Me 2\" (2016). David John Franco began his career with small roles in films. David John Franco had a starring role in the film \"The Disaster Artist\" (2017). David John Franco had a small role in the film \"Superbad\" (2007). David John Franco had a starring role in the film \"Warm Bodies\" (2013). David John Franco had a starring role in the film \"If Beale Street Could Talk\" (2018). David John Franco had a starring role in the film \"Nerve\" (2016). David John Franco had a starring role in the film \"Neighbors\" (2014). David John Franco had a small role in the film \"Charlie St. Cloud\" (2010). David John Franco had a starring role in the ninth season of the comedy series \"Scrubs\". David John Franco had a starring role in the film \"Fright Night\" (2011). David John Franco had his film breakthrough as a supporting role in the buddy comedy film \"21 Jump Street\" (2012). David John Franco had a starring role in the film \"Now You See Me\" (2013). David John Franco had a starring role in the film \"The Little Hours\" (2017)."
+            },
+            {
+              "chunk_id": "9bbff3b5-0946-42db-917a-178e5e4c0c62",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about birth dates and times.",
+              "context_title": "Jason Davenport",
+              "page_content": "Jason Davenport was born on 4 September 1985."
+            },
+            {
+              "chunk_id": "3e8513e4-b6cd-4989-ab1a-56d484f17a20",
+              "chunk_title": "Actors' Professions & Careers",
+              "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+              "context_title": "I Want Your Love (film)",
+              "page_content": "James Franco is an actor."
+            },
+            {
+              "chunk_id": "199966be-ca98-4813-97b1-5f39d5223aa4",
+              "chunk_title": "Actors' Professions & Careers",
+              "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+              "context_title": "I Want Your Love (film)",
+              "page_content": "James Franco is an actor."
+            },
+            {
+              "chunk_id": "90686b1c-9485-47c8-a008-9106ea25a8f6",
+              "chunk_title": "The Rental Film Details",
+              "chunk_summary": "This chunk contains information about the horror film \"The Rental,\" including its director, screenwriters, cast, and status as a directorial debut.",
+              "context_title": "The Rental",
+              "page_content": "The Rental is an upcoming American horror film. The Rental stars Alison Brie. The Rental is Dave Franco's directorial debut. The Rental stars Jeremy Allen White. The screenplay for The Rental is by Joe Swanberg. The screenplay for The Rental is by Dave Franco. The Rental stars Sheila Vand. The Rental stars Dan Stevens. The Rental is directed by Dave Franco."
+            },
+            {
+              "chunk_id": "90748c92-814d-4811-aed7-1e400a0eeff8",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "D. A. Points",
+              "page_content": "Darren Andrew \"D.A.\" Points was born on December 1, 1976."
+            },
+            {
+              "chunk_id": "c5fbe282-9db6-4faa-b517-ecb6828fa436",
+              "chunk_title": "Professions & Careers",
+              "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+              "context_title": "I Want Your Love (film)",
+              "page_content": "James Franco is an actor."
+            },
+            {
+              "chunk_id": "153b53cd-ade9-496c-9dac-7482bb2874cd",
+              "chunk_title": "Professions & Careers",
+              "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+              "context_title": "I Want Your Love (film)",
+              "page_content": "James Franco is an actor."
+            },
+            {
+              "chunk_id": "b851f8e6-4de8-4adb-b9c2-8253ecbd1169",
+              "chunk_title": "Unknown Dates & Times",
+              "chunk_summary": "This chunk contains information about unknown or missing dates and times related to individuals.",
+              "context_title": "Mark Kenneth Woods",
+              "page_content": "The date of birth of Mark Kenneth Woods is unknown."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director who was born later, The Voice Of My City or The Rental?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born later, The Voice Of My City or The Rental?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子节点已 SOLVED + healthy，推理链完整：N1_1(Tulio Demicheli)→N1_3(August 15, 1914) 和 N1_2(Dave Franco)→N1_4(June 12, 1985)。比较 1914 与 1985，Dave Franco 出生更晚，故 The Rental 的导演出生更晚。可直接合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。两条推理路径完整且一致：N1_1(Tulio Demicheli)→N1_3(August 15, 1914) 和 N1_2(Dave Franco)→N1_4(June 12, 1985)。两条路径的依赖边语义有效，子节点答案可直接用于比较。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，所有依赖边语义有效，可直接合成最终答案（比较 1914 与 1985，Dave Franco 出生更晚，故 The Rental 的导演出生更晚）。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who directed the film The Voice Of My City?",
+          "answer": "Tulio Demicheli",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film The Voice Of My City?",
+          "planner_rationale": "Q 要求比较两部电影导演出生时间，需先确定 The Voice Of My City 的导演。已 SOLVED + healthy，单来源直接陈述答案，证据充分。",
+          "solver_judgment": "question 要求确认电影 'The Voice Of My City' 的导演。search_query 直接搜索了该问题。chunks 返回了多个关于 'The Voice...' 开头电影的信息，其中 chunk_ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3 明确记载 'The Voice of My City was directed by Tulio Demicheli'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 The Voice of My City）。支撑 chunk ddf0e7f2 全文直接陈述 'The Voice of My City was directed by Tulio Demicheli'，与声称答案完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地陈述了答案，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, and starring actors.",
+              "context_title": "The Voice of My City",
+              "page_content": "The Voice of My City was directed by Tulio Demicheli. The Voice of My City stars Diana Maggi. The Voice of My City stars Mariano Mores. The Voice of My City is a 1953 Argentine musical comedy film."
+            },
+            {
+              "chunk_id": "e772f24a-14b3-4a9c-838f-e2fde727efcd",
+              "chunk_title": "El Cantar de mi ciudad",
+              "chunk_summary": "This chunk contains information about the 1930 Argentine film \"El Cantar de mi ciudad,\" including its alternative English title, director, writer, release date, and status as Argentina's first sound film.",
+              "context_title": "The Singer of My City",
+              "page_content": "El Cantar de mi ciudad was released on 3 October 1930. José A. Ferreyra directed El Cantar de mi ciudad. El Cantar de mi ciudad was the first ever sound film produced in Argentina. José A. Ferreyra wrote El Cantar de mi ciudad. El Cantar de mi ciudad is a 1930 Argentine film. El Cantar de mi city is also known in English as The Singer of My City."
+            },
+            {
+              "chunk_id": "888c0d6d-a845-4ef6-b4f7-637d73d46019",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "The Voice of Bugle Ann",
+              "page_content": "The Voice of Bugle Ann was directed by Richard Thorpe."
+            },
+            {
+              "chunk_id": "efec1a20-6f1b-4486-acdd-dd2ba8b71ce6",
+              "chunk_title": "Film Directors & Movies",
+              "chunk_summary": "This chunk contains information about film directors and the movies they have directed.",
+              "context_title": "The Voice of Action",
+              "page_content": "James Beveridge directed The Voice of Action."
+            },
+            {
+              "chunk_id": "adcbd2ad-064f-43c6-bcc5-45f91b8b6ce3",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            },
+            {
+              "chunk_id": "4cd52d81-ed1e-467a-b636-67e12e7a47eb",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            },
+            {
+              "chunk_id": "458e79fc-d1a7-4b99-9549-bf591d20b6e5",
+              "chunk_title": "Professional Roles",
+              "chunk_summary": "This chunk contains information about the professional roles and occupations of individuals, such as film directors.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            },
+            {
+              "chunk_id": "633a1bc6-c197-42fa-9c5d-f6b6699ddf5d",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            },
+            {
+              "chunk_id": "e83532df-bd75-45e5-a2c9-1cf3cd535690",
+              "chunk_title": "Professional Roles",
+              "chunk_summary": "This chunk contains information about the professional roles and occupations of individuals, such as film directors.",
+              "context_title": "Bernie Bonvoisin",
+              "page_content": "Bernie Bonvoisin is a film director."
+            },
+            {
+              "chunk_id": "c9fe4df1-53d5-4d22-b8d4-bc0ad29a3a39",
+              "chunk_title": "Films & Release Years",
+              "chunk_summary": "This chunk contains information about films, including their titles and release years.",
+              "context_title": "The Voice of Bugle Ann",
+              "page_content": "The Voice of Bugle Ann is a 1936 film."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who directed the film The Rental?",
+          "answer": "Dave Franco",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who directed the film The Rental?",
+          "planner_rationale": "Q 要求比较两部电影导演出生时间，需先确定 The Rental 的导演。已 SOLVED + healthy，单来源直接陈述答案，证据充分。",
+          "solver_judgment": "question 要求确认电影《The Rental》的导演。search_query 搜索了 'Who directed the film The Rental?'。chunks 返回了关于该电影的详细信息，其中 chunk 90686b1c-9485-47c8-a008-9106ea25a8f6 明确记载 'The Rental is directed by Dave Franco.'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 The Rental）。支撑 chunk 90686b1c 全文直接陈述 'The Rental is directed by Dave Franco'，与声称答案完全匹配。交叉验证：不充分（仅 1 个来源），但来源直接、具体。",
+          "critic_normative_advice": "建议 INHERIT——单来源但直接具体地陈述了答案，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "90686b1c-9485-47c8-a008-9106ea25a8f6"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "90686b1c-9485-47c8-a008-9106ea25a8f6",
+              "chunk_title": "The Rental Film Details",
+              "chunk_summary": "This chunk contains information about the horror film \"The Rental,\" including its director, screenwriters, cast, and status as a directorial debut.",
+              "context_title": "The Rental",
+              "page_content": "The Rental is an upcoming American horror film. The Rental stars Alison Brie. The Rental is Dave Franco's directorial debut. The Rental stars Jeremy Allen White. The screenplay for The Rental is by Joe Swanberg. The screenplay for The Rental is by Dave Franco. The Rental stars Sheila Vand. The Rental stars Dan Stevens. The Rental is directed by Dave Franco."
+            },
+            {
+              "chunk_id": "59364ecd-2543-4bdd-a95d-62e88d23df4b",
+              "chunk_title": "Film Directors & Works",
+              "chunk_summary": "This chunk contains information about film directors and their notable works, specifically focusing on Martin Donovan's career as a director and screenwriter.",
+              "context_title": "Martin Donovan (screenwriter)",
+              "page_content": "Martin Donovan is a film director. Martin Donovan is mostly recognized for his co-written script for \"Death Becomes Her\". The film \"Apartment Zero\" was released in 1989. Martin Donovan is mostly recognized as the director of the cult film \"Apartment Zero\"."
+            },
+            {
+              "chunk_id": "23e92a3f-dbbf-4a40-8a19-65bdf2f81672",
+              "chunk_title": "Bollywood Films",
+              "chunk_summary": "This chunk contains information about Bollywood films, including their release years, genres, and directors.",
+              "context_title": "Rangila Ratan",
+              "page_content": "Rangila Ratan was directed by S. Ramanathan. Rangila Ratan is a 1976 Bollywood action film."
+            },
+            {
+              "chunk_id": "9b908d10-1e83-4233-8102-c89f64dc2bb3",
+              "chunk_title": "Professional Roles & Identity",
+              "chunk_summary": "This chunk contains information about the professional roles and identities of Dana Blankstein-Cohen in the film, television, and cultural sectors.",
+              "context_title": "Dana Blankstein",
+              "page_content": "Dana Blankstein-Cohen is the director of the Israeli Academy of Film and Television. Dana Blankstein-Cohen is an Israeli culture entrepreneur. Dana Blankstein-Cohen is a film director."
+            },
+            {
+              "chunk_id": "9e2ea0c5-47ad-4cc2-8f36-9b936bae897a",
+              "chunk_title": "Kurt Voss's Career",
+              "chunk_summary": "This chunk contains information about the professional background and identity of Kurt Voss, including his roles as a director, screenwriter, musician-songwriter, specific film credits, and frequent collaborations.",
+              "context_title": "Kurt Voss",
+              "page_content": "Kurt Voss's credits include the film \"Ghost on The Highway: A Portrait of Jeffrey Lee Pierce and The Gun Club\". Kurt Voss's credits include the film \"Down and Out with the Dolls\". Kurt Voss's credits include rock and roll related films. The trio of rock films created by Kurt Voss and Allison Anders includes \"Border Radio\". Kurt Voss is an American musician-songwriter. Kurt Voss is an American film director. Kurt Voss's credits include actress Jaime Pressly's debut feature. Kurt Voss and Allison Anders have worked together over twenty-five years. The trio of rock films created by Kurt Voss and Allison Anders includes \"Sugar Town\". Kurt Voss is an American screenwriter. Kurt Voss has frequently collaborated with Allison Anders. Kurt Voss and Allison Anders created a trilogy of rock films. The trio of rock films created by Kurt Voss and Allison Anders includes \"Strutter\". Kurt Voss's credits include the action film \"Below Utopia\". Kurt Voss's credits include Will Smith's debut film \"Where The Day Takes You\"."
+            },
+            {
+              "chunk_id": "4c41869a-ef28-4fdb-aac3-5eb000e4b8ab",
+              "chunk_title": "Film Producers",
+              "chunk_summary": "This chunk contains information about notable figures in the film industry, specifically focusing on producers and their contributions.",
+              "context_title": "Roger Corman's Operation Rogue",
+              "page_content": "Roger Corman is a legendary B-movie producer."
+            },
+            {
+              "chunk_id": "cbf67e5b-efde-41b5-a327-62fa06296f88",
+              "chunk_title": "Film Directors & Roles",
+              "chunk_summary": "This chunk contains information about film directors and their professional roles.",
+              "context_title": "Le Masque de la Méduse",
+              "page_content": "Jean Rollin was a director."
+            },
+            {
+              "chunk_id": "65b85f28-919d-452a-90ab-82e375915f6b",
+              "chunk_title": "Professional Roles & Identity",
+              "chunk_summary": "This chunk contains information about the professional roles and identities of Dana Blankstein-Cohen in the film, television, and cultural sectors.",
+              "context_title": "Dana Blankstein",
+              "page_content": "Dana Blankstein-Cohen is the director of the Israeli Academy of Film and Television. Dana Blankstein-Cohen is an Israeli culture entrepreneur. Dana Blankstein-Cohen is a film director."
+            },
+            {
+              "chunk_id": "4e5f5810-5873-45c0-bb2a-48ba39c915e5",
+              "chunk_title": "Film Directors & Careers",
+              "chunk_summary": "This chunk contains information about film directors, including their nationalities and career statistics such as the number of credits, types of works, and active years.",
+              "context_title": "Martin Frič",
+              "page_content": "Martin Frič had more than 100 directing credits between 1929 and 1968. Martin Frič was a Czech film director. Martin Frič's directing credits included documentary films. Martin Frič's directing credits included shorts. Martin Frič's directing credits included feature films."
+            },
+            {
+              "chunk_id": "243ab1a0-99c5-490b-a823-4eb3f32fb425",
+              "chunk_title": "Film Directors",
+              "chunk_summary": "This chunk contains information about the directors of films.",
+              "context_title": "Reunion (1936 film)",
+              "page_content": "Reunion was directed by Norman Taurog."
+            }
+          ]
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of The Voice Of My City born?",
+          "answer": "August 15, 1914",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Tulio Demicheli birth date",
+          "planner_rationale": "确定 N1_1 导演身份后，需查找其出生年份用于比较。已 SOLVED + healthy，两个独立来源一致确认 Tulio Demicheli 出生于 1914 年 8 月 15 日，证据充分。",
+          "solver_judgment": "question 要求确认电影《The Voice Of My City》导演的出生日期。search_query 搜索了 'Tulio Demicheli birth date'。chunks 中 ddf0e7f2 明确指出该片导演为 Tulio Demicheli，e958bd08 记载 'Tulio Demicheli was born on August 15, 1914'。检索精准命中目标人物及其出生日期，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个独立来源（文档 Tulio Demicheli，文档 The Voice of My City）。支撑 chunk e958bd08 全文直接陈述 'Tulio Demicheli was born on August 15, 1914'，与声称答案完全匹配。支撑 chunk ddf0e7f2 确认导演身份。两个独立来源对核心事实（导演身份+出生日期）表述一致。交叉验证：通过。",
+          "critic_normative_advice": "建议 INHERIT——两个独立来源一致，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3",
+            "e958bd08-43ea-4694-821a-758967b161aa"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "e958bd08-43ea-4694-821a-758967b161aa",
+              "chunk_title": "Birth Dates",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli was born on August 15, 1914. Armando Bartolomé Demicheli was born in 1914."
+            },
+            {
+              "chunk_id": "8137a5fc-3b92-4ee7-bdf3-e0256c41593f",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the death dates of individuals.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli died on May 25, 1992."
+            },
+            {
+              "chunk_id": "35398b70-c130-48f4-8b15-35df2ad637e9",
+              "chunk_title": "Identities & Birth Names",
+              "chunk_summary": "This chunk contains information about the birth names and identities of individuals.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli was born as Armando Bartolomé Demicheli."
+            },
+            {
+              "chunk_id": "4c1560a5-6556-44f3-b6f2-b994659ef4a7",
+              "chunk_title": "Biographical Origins",
+              "chunk_summary": "This chunk contains biographical information about individuals, specifically their birthplaces and nationalities.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli was an Argentine born Spanish film director. Tulio Demicheli was born in Buenos Aires, Argentina."
+            },
+            {
+              "chunk_id": "ed83c508-bd55-4676-8a3a-1115a872b073",
+              "chunk_title": "Tulio Demicheli's Film Career",
+              "chunk_summary": "This chunk contains information about the professional career of Tulio Demicheli in the film industry, including his roles as a screenwriter and director, his active years, notable collaborations, and specialization in tango films.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli worked with the popular actor Tito Alonso. Tulio Demicheli initially began as a screenwriter in 1944. Tulio Demicheli began to simultaneously direct and write for his films by 1950. Tulio Demicheli is best known for his work in tango film production. Tulio Demicheli worked in the classic era of film. Tulio Demicheli directed some 60 films between 1944 and 1987. Tulio Demicheli worked with the popular actor Tita Merello. Tulio Demicheli was a screenwriter. Tulio Demicheli worked with the popular actor Santiago Gómez Cou. Tulio Demicheli wrote for some 60 films between 1944 and 1987."
+            },
+            {
+              "chunk_id": "2eec7d1c-d7d5-45ea-8353-780d617b1beb",
+              "chunk_title": "Age at Death",
+              "chunk_summary": "This chunk contains information about the age at death of individuals.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli was aged 77 when he died."
+            },
+            {
+              "chunk_id": "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3",
+              "chunk_title": "Film Details",
+              "chunk_summary": "This chunk contains information about films, including their title, release year, country of origin, genre, director, and starring actors.",
+              "context_title": "The Voice of My City",
+              "page_content": "The Voice of My City was directed by Tulio Demicheli. The Voice of My City stars Diana Maggi. The Voice of My City stars Mariano Mores. The Voice of My City is a 1953 Argentine musical comedy film."
+            },
+            {
+              "chunk_id": "f4bbecf7-bec5-441a-9a44-b40f813aa5fe",
+              "chunk_title": "Directorial Debut",
+              "chunk_summary": "This chunk contains information about the directorial debut of Tulio Demicheli, including the film title and year.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli made his directorial debut with the film \"Arrabalera\" in 1950."
+            },
+            {
+              "chunk_id": "870e9a33-a7dc-4520-abab-840bbbbf24f4",
+              "chunk_title": "Causes of Death",
+              "chunk_summary": "This chunk contains information about the causes of death for individuals.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli died from cancer."
+            },
+            {
+              "chunk_id": "4a1ead3f-bfc5-4581-a1b9-4f75edb1f373",
+              "chunk_title": "Film Producer Careers",
+              "chunk_summary": "This chunk contains information about the professional roles and careers of film producers.",
+              "context_title": "Tulio Demicheli",
+              "page_content": "Tulio Demicheli was a film producer."
+            }
+          ]
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of The Rental born?",
+          "answer": "June 12, 1985",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Dave Franco birth date",
+          "planner_rationale": "确定 N1_2 导演身份后，需查找其出生年份用于比较。已 SOLVED + healthy，两个独立来源一致确认 Dave Franco 出生于 1985 年 6 月 12 日，证据充分。",
+          "solver_judgment": "question 要求确认电影《The Rental》导演的出生日期。search_query 搜索了 'Dave Franco birth date'。chunks 返回了《The Rental》的详细信息，其中 chunk 90686b1c... 明确指出 'The Rental is directed by Dave Franco'，确定了导演身份。同时 chunk 9d1a4999... 提供了 Dave Franco 的出生日期 'David John Franco was born on June 12, 1985'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "2 个独立来源（文档 Dave Franco，文档 The Rental）。支撑 chunk 9d1a4999 全文直接陈述 'David John Franco was born on June 12, 1985'，与声称答案完全匹配。支撑 chunk 90686b1c 确认导演身份。两个独立来源对核心事实（导演身份+出生日期）表述一致。交叉验证：通过。",
+          "critic_normative_advice": "建议 INHERIT——两个独立来源一致，证据充分。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "90686b1c-9485-47c8-a008-9106ea25a8f6",
+            "9d1a4999-5ee0-4a71-b123-d54496246a05"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "9d1a4999-5ee0-4a71-b123-d54496246a05",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "Dave Franco",
+              "page_content": "David John Franco was born on June 12, 1985."
+            },
+            {
+              "chunk_id": "32277c9a-551a-4c43-9f79-ed87ab581bbd",
+              "chunk_title": "David Franco Career",
+              "chunk_summary": "This chunk contains biographical information about American actor David John Franco, focusing on his career progression from early small roles to starring and breakthrough film and television performances.",
+              "context_title": "Dave Franco",
+              "page_content": "David John Franco had a starring role in the film \"The Lego Ninjago Movie\" (2017). David John Franco is an American actor. David John Franco had a starring role in the sequel to \"Neighbors\" (2016). David John Franco had a starring role in the film \"Now You See Me 2\" (2016). David John Franco began his career with small roles in films. David John Franco had a starring role in the film \"The Disaster Artist\" (2017). David John Franco had a small role in the film \"Superbad\" (2007). David John Franco had a starring role in the film \"Warm Bodies\" (2013). David John Franco had a starring role in the film \"If Beale Street Could Talk\" (2018). David John Franco had a starring role in the film \"Nerve\" (2016). David John Franco had a starring role in the film \"Neighbors\" (2014). David John Franco had a small role in the film \"Charlie St. Cloud\" (2010). David John Franco had a starring role in the ninth season of the comedy series \"Scrubs\". David John Franco had a starring role in the film \"Fright Night\" (2011). David John Franco had his film breakthrough as a supporting role in the buddy comedy film \"21 Jump Street\" (2012). David John Franco had a starring role in the film \"Now You See Me\" (2013). David John Franco had a starring role in the film \"The Little Hours\" (2017)."
+            },
+            {
+              "chunk_id": "9bbff3b5-0946-42db-917a-178e5e4c0c62",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about birth dates and times.",
+              "context_title": "Jason Davenport",
+              "page_content": "Jason Davenport was born on 4 September 1985."
+            },
+            {
+              "chunk_id": "3e8513e4-b6cd-4989-ab1a-56d484f17a20",
+              "chunk_title": "Actors' Professions & Careers",
+              "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+              "context_title": "I Want Your Love (film)",
+              "page_content": "James Franco is an actor."
+            },
+            {
+              "chunk_id": "199966be-ca98-4813-97b1-5f39d5223aa4",
+              "chunk_title": "Actors' Professions & Careers",
+              "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+              "context_title": "I Want Your Love (film)",
+              "page_content": "James Franco is an actor."
+            },
+            {
+              "chunk_id": "90686b1c-9485-47c8-a008-9106ea25a8f6",
+              "chunk_title": "The Rental Film Details",
+              "chunk_summary": "This chunk contains information about the horror film \"The Rental,\" including its director, screenwriters, cast, and status as a directorial debut.",
+              "context_title": "The Rental",
+              "page_content": "The Rental is an upcoming American horror film. The Rental stars Alison Brie. The Rental is Dave Franco's directorial debut. The Rental stars Jeremy Allen White. The screenplay for The Rental is by Joe Swanberg. The screenplay for The Rental is by Dave Franco. The Rental stars Sheila Vand. The Rental stars Dan Stevens. The Rental is directed by Dave Franco."
+            },
+            {
+              "chunk_id": "90748c92-814d-4811-aed7-1e400a0eeff8",
+              "chunk_title": "Date & Times",
+              "chunk_summary": "This chunk contains information about the birth dates of individuals.",
+              "context_title": "D. A. Points",
+              "page_content": "Darren Andrew \"D.A.\" Points was born on December 1, 1976."
+            },
+            {
+              "chunk_id": "c5fbe282-9db6-4faa-b517-ecb6828fa436",
+              "chunk_title": "Professions & Careers",
+              "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+              "context_title": "I Want Your Love (film)",
+              "page_content": "James Franco is an actor."
+            },
+            {
+              "chunk_id": "153b53cd-ade9-496c-9dac-7482bb2874cd",
+              "chunk_title": "Professions & Careers",
+              "chunk_summary": "This chunk contains information about the professions and careers of actors.",
+              "context_title": "I Want Your Love (film)",
+              "page_content": "James Franco is an actor."
+            },
+            {
+              "chunk_id": "b851f8e6-4de8-4adb-b9c2-8253ecbd1169",
+              "chunk_title": "Unknown Dates & Times",
+              "chunk_summary": "This chunk contains information about unknown or missing dates and times related to individuals.",
+              "context_title": "Mark Kenneth Woods",
+              "page_content": "The date of birth of Mark Kenneth Woods is unknown."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who directed the film The Voice Of My City?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3",
+        "e772f24a-14b3-4a9c-838f-e2fde727efcd",
+        "888c0d6d-a845-4ef6-b4f7-637d73d46019",
+        "efec1a20-6f1b-4486-acdd-dd2ba8b71ce6",
+        "adcbd2ad-064f-43c6-bcc5-45f91b8b6ce3",
+        "4cd52d81-ed1e-467a-b636-67e12e7a47eb",
+        "458e79fc-d1a7-4b99-9549-bf591d20b6e5",
+        "633a1bc6-c197-42fa-9c5d-f6b6699ddf5d",
+        "e83532df-bd75-45e5-a2c9-1cf3cd535690",
+        "c9fe4df1-53d5-4d22-b8d4-bc0ad29a3a39"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who directed the film The Rental?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "90686b1c-9485-47c8-a008-9106ea25a8f6",
+        "59364ecd-2543-4bdd-a95d-62e88d23df4b",
+        "23e92a3f-dbbf-4a40-8a19-65bdf2f81672",
+        "9b908d10-1e83-4233-8102-c89f64dc2bb3",
+        "9e2ea0c5-47ad-4cc2-8f36-9b936bae897a",
+        "4c41869a-ef28-4fdb-aac3-5eb000e4b8ab",
+        "cbf67e5b-efde-41b5-a327-62fa06296f88",
+        "65b85f28-919d-452a-90ab-82e375915f6b",
+        "4e5f5810-5873-45c0-bb2a-48ba39c915e5",
+        "243ab1a0-99c5-490b-a823-4eb3f32fb425"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Tulio Demicheli birth date",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "e958bd08-43ea-4694-821a-758967b161aa",
+        "8137a5fc-3b92-4ee7-bdf3-e0256c41593f",
+        "35398b70-c130-48f4-8b15-35df2ad637e9",
+        "4c1560a5-6556-44f3-b6f2-b994659ef4a7",
+        "ed83c508-bd55-4676-8a3a-1115a872b073",
+        "2eec7d1c-d7d5-45ea-8353-780d617b1beb",
+        "ddf0e7f2-aa35-4d6c-b2b1-6979fd74dae3",
+        "f4bbecf7-bec5-441a-9a44-b40f813aa5fe",
+        "870e9a33-a7dc-4520-abab-840bbbbf24f4",
+        "4a1ead3f-bfc5-4581-a1b9-4f75edb1f373"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Dave Franco birth date",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "9d1a4999-5ee0-4a71-b123-d54496246a05",
+        "32277c9a-551a-4c43-9f79-ed87ab581bbd",
+        "9bbff3b5-0946-42db-917a-178e5e4c0c62",
+        "3e8513e4-b6cd-4989-ab1a-56d484f17a20",
+        "199966be-ca98-4813-97b1-5f39d5223aa4",
+        "90686b1c-9485-47c8-a008-9106ea25a8f6",
+        "90748c92-814d-4811-aed7-1e400a0eeff8",
+        "c5fbe282-9db6-4faa-b517-ecb6828fa436",
+        "153b53cd-ade9-496c-9dac-7482bb2874cd",
+        "b851f8e6-4de8-4adb-b9c2-8253ecbd1169"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed The Voice Of My City?（理由：Q 比较两部电影导演的出生时间，需先确定该电影导演身份），F2: Who directed The Rental?（理由：同上，需确定另一部电影导演身份），F3: When was the director of The Voice Of My City born?（理由：获取导演出生年份用于比较），F4: When was the director of The Rental born?（理由：获取导演出生年份用于比较）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F3 依赖 F1（dependency——F3 的 question 中 \"the director of The Voice Of My City\" 需要用 F1 的 answer 消解具体人名），F4 依赖 F2（dependency——同理）。最终通过比较 F3 和 F4 的出生年份回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question=\"Who directed the film The Voice Of My City?\"），$2（question=\"Who directed the film The Rental?\"），$3（question=\"When was the director of The Voice Of My City born?\"），$4（question=\"When was the director of The Rental born?\"）。新增边: N0→$1（decomposition），N0→$2（decomposition），$1→$3（dependency），$2→$4（dependency）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有 4 个非根节点均已 SOLVED；②推理链语义匹配——N1_1→N1_3 和 N1_2→N1_4 两条依赖链中，上游 answer 均语义消解了下游 question 的指代；③全部节点 healthy——N1_1 至 N1_4 及 ROOT 均有充分证据支撑；④首轮无拓扑变化。推理链完整，所有节点证据充分，可生成最终答案（比较 Tulio Demicheli 1914 年与"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who directed The Voice Of My City?（理由：Q 比较两部电影导演的出生时间，需先确定该电影导演身份），F2: Who directed The Rental?（理由：同上，需确定另一部电影导演身份），F3: When was the director of The Voice Of My City born?（理由：获取导演出生年份用于比较），F4: When was the director of The Rental born?（理由：获取导演出生年份用于比较）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F3 依赖 F1（dependency——F3 的 question 中 \"the director of The Voice Of My City\" 需要用 F1 的 answer 消解具体人名），F4 依赖 F2（dependency——同理）。最终通过比较 F3 和 F4 的出生年份回答 Q。当前所有子节点已 SOLVED + heal",
+      "hypothesis_delta": "本轮无结构调整——所有节点 INHERIT 保留，所有边 INHERIT 保留。原因：Critic 确认 DAG 结构完整有效，四个子节点全部 SOLVED + healthy，两条 dependency 边语义有效，无冗余无缺口。上一轮假设（F1-F4 及对应关系）完全被验证，推理链已闭合，可直接合成最终答案。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有 4 个非根节点均已 SOLVED；②推理链语义匹配——路径 1（N0→N1_1→N1_3）中 N1_1 answer='Tulio Demicheli' 消解 N1_3 question 指代，路径 2（N0→N1_2→N1_4）中 N1_2 answer='Dave Franco' 消解 N1_4 question 指代，所有 dependency 步骤语义有效；③全部节点"
+      }
+    }
+  ]
+}

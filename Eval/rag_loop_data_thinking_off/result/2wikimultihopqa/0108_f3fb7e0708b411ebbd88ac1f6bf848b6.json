@@ -1,0 +1,929 @@
+{
+  "question_index": 108,
+  "question_id": "f3fb7e0708b411ebbd88ac1f6bf848b6",
+  "question": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+  "answer": "I'Ll Take Sweden",
+  "prediction": "I'll Take Sweden",
+  "error": null,
+  "latency_ms": 279739.1489999718,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T17:25:57.702217+00:00",
+  "chunks": [
+    {
+      "chunk_id": "b1ccc9ee-1d4c-4652-9abc-a1ee21e51148",
+      "chunk_title": "Frederick de Cordova Films",
+      "chunk_summary": "This chunk contains information about films directed by Frederick de Cordova.",
+      "context_title": "I'll Take Sweden",
+      "page_content": "Frederick de Cordova directed the 1965 comedy film I'll Take Sweden. I'll Take Sweden was directed by Frederick de Cordova."
+    },
+    {
+      "chunk_id": "7330373f-7bc9-429e-975f-78789587f9df",
+      "chunk_title": "Comedy Films",
+      "chunk_summary": "This chunk contains information about comedy films, including their titles and release years.",
+      "context_title": "I'll Take Sweden",
+      "page_content": "I'll Take Sweden is a 1965 comedy film."
+    },
+    {
+      "chunk_id": "c0e07ee6-b17e-4297-8429-cb422d43f295",
+      "chunk_title": "Movies & Cast",
+      "chunk_summary": "This chunk contains information about the cast members of the movie \"I'll Take Sweden\".",
+      "context_title": "I'll Take Sweden",
+      "page_content": "I'll Take Sweden stars Tuesday Weld. I'll Take Sweden stars Frankie Avalon. I'll Take Sweden stars Bob Hope."
+    },
+    {
+      "chunk_id": "ea079ef8-aefa-4167-b6f8-cb688e23357b",
+      "chunk_title": "Film Industry Roles",
+      "chunk_summary": "This chunk contains information about Jörn Johan Donner's professional roles and contributions to the film industry, including his work as a director, founder of film organizations, and festival jury member.",
+      "context_title": "Jörn Donner",
+      "page_content": "Jörn Johan Donner served as director of the Swedish Film Institute. Jörn Johan Donner was a member of the jury at the 29th Berlin International Film Festival in 1979. Jörn Johan Donner is the founder of the Finnish Film Archive. Jörn Johan Donner is a film director."
+    },
+    {
+      "chunk_id": "212d2c84-ec00-4849-828f-738364315b20",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the professional identity and nationality of film directors.",
+      "context_title": "Johan Söderberg",
+      "page_content": "Johan Olof Anders Söderberg is a Swedish film director."
+    },
+    {
+      "chunk_id": "c140fcca-1af1-46fa-845a-7ee478f1af95",
+      "chunk_title": "Lennart Hjulström's Professions",
+      "chunk_summary": "This chunk contains information about the identities and professions of Lennart Hjalmar Hjulström, specifically his roles as a Swedish actor and director.",
+      "context_title": "Lennart Hjulström",
+      "page_content": "Lennart Hjalmar Hjulström is a Swedish director. Lennart Hjalmar Hjulström is a Swedish actor."
+    },
+    {
+      "chunk_id": "cec79402-b983-4bfa-a01e-aeecee747880",
+      "chunk_title": "Lasse Hallström's Career",
+      "chunk_summary": "This chunk contains information about the career of Swedish film director Lasse Hallström, including his work on ABBA music videos, feature films, and Academy Award nominations.",
+      "context_title": "Lasse Hallström",
+      "page_content": "\"What's Eating Gilbert Grape\" (1993) is one of Lars Sven \"Lasse\" Hallström's celebrated directorial works. Lars Sven \"Lasse\" Hallström subsequently became a feature film director. Lars Sven \"Lasse\" Hallström is a Swedish film director. Lars Sven \"Lasse\" Hallström was later nominated for an Academy Award for Best Director for \"The Cider House Rules\" in 1999. Lars Sven \"Lasse\" Hallström was nominated for an Academy Award for Best Director for \"My Life as a Dog (Mitt liv som hund)\" in 1985. \"Chocolat\" (2000) is one of Lars Sven \"Lasse\" Hallström's celebrated directorial works. Lars Sven \"Lasse\" Hallström first became known for directing almost all music videos by the pop group ABBA."
+    },
+    {
+      "chunk_id": "6393904a-dd55-46e5-83e7-7ba0e8387679",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the directors of various films.",
+      "context_title": "Want So Much To Believe",
+      "page_content": "Want So Much To Believe is directed by Gunnar Höglund."
+    },
+    {
+      "chunk_id": "aa5088ed-ada6-4017-86ce-6d131d17749e",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1919 American comedy film \"His Majesty, the American,\" including its director, starring actor, release details, and archival status.",
+      "context_title": "His Majesty, the American",
+      "page_content": "His Majesty, the American starred Douglas Fairbanks. Several copies of His Majesty, the American exist in archives and collections. His Majesty, the American is a 1919 American comedy film. His Majesty, the American was directed by Joseph Henabery. His Majesty, the American was the first film released by United Artists."
+    },
+    {
+      "chunk_id": "b14a13f4-6fd3-48d1-ac42-b90cbf6f6b41",
+      "chunk_title": "Cast Information",
+      "chunk_summary": "This chunk contains information about the cast of the production \"His Majesty the Hypochondriac\".",
+      "context_title": "His Majesty the Hypochondriac",
+      "page_content": "His Majesty the Hypochondriac stars Lisa Weise. His Majesty the Hypochondriac stars Karl Beckersachs. His Majesty the Hypochondriac stars Grete Diercks."
+    },
+    {
+      "chunk_id": "30852bac-c7c6-40a5-a193-b96c04c18d32",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about specific films, including their titles, release years, countries of origin, genres, formats, original language titles, and directors.",
+      "context_title": "His Majesty the Hypochondriac",
+      "page_content": "His Majesty the Hypochondriac is known in German as Durchlaucht Hypochonder. His Majesty the Hypochondriac is a 1918 German silent comedy film. His Majesty the Hypochondriac was directed by Frederic Zelnik."
+    },
+    {
+      "chunk_id": "e21fe6e2-ef9b-4a9a-a030-b65586828860",
+      "chunk_title": "Film Details",
+      "chunk_summary": "This chunk contains information about the 1935 British musical film \"His Majesty and Company,\" including its title variations, director, cast, filming location, and production company.",
+      "context_title": "His Majesty and Company",
+      "page_content": "His Majesty and Company was filmed at Wembley Studios. His Majesty and Company starred Morton Selten. His Majesty and Company was produced by the British subsidiary of the Fox Film Company. His Majesty and Company was directed by Anthony Kimmins. His Majesty and Company is a 1935 British musical film. His Majesty and Co is a 1935 British musical film. His Majesty and Company starred John Garrick. His Majesty and Company starred Barbara Waring."
+    },
+    {
+      "chunk_id": "0f471fb7-fbb3-4b0c-8045-6c6ce513df2e",
+      "chunk_title": "Film Directors & Academia",
+      "chunk_summary": "This chunk contains information about the professional background, academic roles, and educational history of film directors.",
+      "context_title": "Tim McCann (director)",
+      "page_content": "Tim McCann is a professor of film at the State University of New York at Purchase. Tim McCann is an American film director. The State University of New York at Purchase is Tim McCann's alma mater."
+    },
+    {
+      "chunk_id": "4c5edab6-def6-4b8c-871d-2ddedfba4a32",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the professional background, nationality, and directorial debuts of film directors.",
+      "context_title": "Tim Miller (director)",
+      "page_content": "Timothy Miller is an American film director. Timothy Miller made his feature-film directing debut with the film \"Deadpool\"."
+    },
+    {
+      "chunk_id": "c0aabe21-9183-49ce-8010-a731bb86c890",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about film directors, including their names and nationalities.",
+      "context_title": "Hassan Zee",
+      "page_content": "Hassan Zee is a Pakistani-American film director."
+    },
+    {
+      "chunk_id": "b4b30e71-4b1d-468f-82a6-b32cccfea66a",
+      "chunk_title": "Film Directors",
+      "chunk_summary": "This chunk contains information about the professional background and identity of film directors.",
+      "context_title": "Hassan Zee",
+      "page_content": "Hassan Zee is a Pakistani-American film director."
+    },
+    {
+      "chunk_id": "01d7a229-24a6-4803-88af-7cf23b3cc09b",
+      "chunk_title": "Frederick de Cordova's Lifespan",
+      "chunk_summary": "This chunk contains information about the birth and death dates of Frederick Timmins de Cordova.",
+      "context_title": "Fred de Cordova",
+      "page_content": "Frederick Timmins de Cordova died on September 15, 2001. Frederick Timmins de Cordova was born on October 27, 1910."
+    },
+    {
+      "chunk_id": "d03135b6-7e32-4bad-9d18-025a0dc029f5",
+      "chunk_title": "Frederick de Cordova's Career",
+      "chunk_summary": "This chunk contains information about the professional roles and notable works of Frederick Timmins de Cordova as a director and producer across stage, motion picture, and television industries.",
+      "context_title": "Fred de Cordova",
+      "page_content": "Frederick Timmins de Cordova was an American stage producer. Frederick Timmins de Cordova was an American television director. Frederick Timmins de Cordova is best known for his work on \"The Tonight Show Starring Johnny Carson\". Frederick Timmins de Cordova was an American motion picture producer. Frederick Timmins de Cordova was an American television producer. Frederick Timmins de Cordova was an American stage director. Frederick Timmins de Cordova was an American motion picture director."
+    },
+    {
+      "chunk_id": "1096a526-cf9f-42cf-b383-7f68308fa55b",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about birth dates and times.",
+      "context_title": "Frederik, Crown Prince of Denmark",
+      "page_content": "Frederik was born on 26 May 1968."
+    },
+    {
+      "chunk_id": "dfdab87b-1b2e-425f-9947-e7f743e9deda",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about birth dates and times.",
+      "context_title": "Frederick, Margrave of Brandenburg-Bayreuth",
+      "page_content": "Frederick was born on May 10, 1711."
+    },
+    {
+      "chunk_id": "f7049f46-b1a1-4000-8c60-a2bcdf03b9fb",
+      "chunk_title": "Frederick O'Brien Biography",
+      "chunk_summary": "This chunk contains biographical information about Frederick O'Brien, including his life dates, various professions, and his notable travel books about French Polynesia along with related media adaptations.",
+      "context_title": "Frederick O'Brien",
+      "page_content": "One of the travel books written by Frederick O'Brien is titled 'Atolls of the Sun'. Frederick O'Brien wrote three best-selling travel books about French Polynesia between 1919 and 1922. Frederick O'Brien died in 1932. Frederick O'Brien was a public administrator. Frederick O'Brien was an American author. Frederick O'Brien was born in 1869. One of the travel books written by Frederick O'Brien is titled 'White Shadows in the South Seas'. Frederick O'Brien was a peripatetic world traveler. Frederick O'Brien was a journalist. A movie was made in 1928 based on 'White Shadows in the South Seas'. Frederick O'Brien was a hobo. One of the travel books written by Frederick O'Brien is titled 'Mystic Isles of the South Seas'."
+    },
+    {
+      "chunk_id": "c02c39a2-029e-4726-ad9e-80e087dd547e",
+      "chunk_title": "Birth Dates",
+      "chunk_summary": "This chunk contains information about the birth dates of historical figures.",
+      "context_title": "Magdalene of Jülich-Cleves-Berg",
+      "page_content": "Elisabeth was born in 1581. Frederick Casimir was born in 1585. Magdalene of Jülich-Cleves-Berg was born on 2 November 1553. John Casimir was born in 1589. John II was born in 1584."
+    },
+    {
+      "chunk_id": "c79ef391-555e-4952-8758-beb655a154de",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of historical figures.",
+      "context_title": "Frederick I, Grand Duke of Baden",
+      "page_content": "Frederick I was born on 9 September 1826. Frederick I died on 28 September 1907."
+    },
+    {
+      "chunk_id": "4a3d76c1-c4f9-4b09-9cc1-2fe0ade4e336",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of historical figures.",
+      "context_title": "Frederick II, Grand Duke of Baden",
+      "page_content": "Frederick II was born on 9 July 1857. Frederick II died on 9 August 1928."
+    },
+    {
+      "chunk_id": "dfcce8cc-3e18-4a34-a566-cdcec2e4c947",
+      "chunk_title": "Date & Times",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Joseph Henabery",
+      "page_content": "Joseph Henabery died on February 18, 1976. Joseph Henabery was born on January 15, 1888."
+    },
+    {
+      "chunk_id": "18bb01fc-26f2-4f9a-86dd-288938a216f9",
+      "chunk_title": "Joseph Henabery Biography",
+      "chunk_summary": "This chunk contains biographical information about Joseph Henabery, including his origin and professions in the film industry.",
+      "context_title": "Joseph Henabery",
+      "page_content": "Joseph Henabery was from Omaha, Nebraska. Joseph Henabery was a screenplay writer in the United States. Joseph Henabery was a film actor in the United States. Joseph Henabery was a director in the United States."
+    },
+    {
+      "chunk_id": "4ba1059c-a355-4383-b112-2c68b1391e7c",
+      "chunk_title": "Henry Herbert Biography",
+      "chunk_summary": "This chunk contains biographical details about Henry Herbert, including his titles as an English peer, politician, and courtier, along with his birth and death dates.",
+      "context_title": "Henry Herbert, 10th Earl of Pembroke",
+      "page_content": "Henry Herbert was the 10th Earl of Pembroke. Henry Herbert was a courtier. Henry Herbert was a politician. Henry Herbert was the 7th Earl of Montgomery. Henry Herbert was an English peer. Henry Herbert died on 26 January 1794. Henry Herbert served as a Lord of the Bedchamber to King George III in 1769. Henry Herbert was born on 3 July 1734. Henry Herbert served as a Lord of the Bedchamber to King George III."
+    },
+    {
+      "chunk_id": "b65816c8-f6e7-4874-a579-96d549d4cd41",
+      "chunk_title": "Birth Details",
+      "chunk_summary": "This chunk contains biographical information about individuals, specifically their birth dates and places.",
+      "context_title": "Joël Henry (journalist)",
+      "page_content": "Joël Henry was born in 1955. Joël Henry was born in Strasbourg."
+    },
+    {
+      "chunk_id": "c3bd889b-54ca-4f2c-9479-a848d55c0f19",
+      "chunk_title": "Birth Details",
+      "chunk_summary": "This chunk contains biographical information about individuals, specifically their birth dates and places.",
+      "context_title": "Joël Henry (journalist)",
+      "page_content": "Joël Henry was born in Strasbourg. Joël Henry was born in 1955."
+    },
+    {
+      "chunk_id": "70ecd284-d9b4-4dc0-81f4-eea3634068b2",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals.",
+      "context_title": "Henry Hathaway",
+      "page_content": "Henry Hathaway was born on March 13, 1898. Henry Hathaway died on February 11, 1985."
+    },
+    {
+      "chunk_id": "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0",
+      "chunk_title": "Birth & Death Dates",
+      "chunk_summary": "This chunk contains information about the birth and death dates of individuals, including cases where these dates are unknown.",
+      "context_title": "Brian Saunders (weightlifter)",
+      "page_content": "Brian Saunders's date of birth is unknown. Brian Saunders's date of death is unknown."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.25806451612903225,
+  "retrieval_count": 4,
+  "total_chunks": 31,
+  "total_distinct_titles": 24,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 5,
+  "dag_edges": 4,
+  "dag_snapshots": [
+    {
+      "q": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较两部电影导演的出生年份以确定哪部电影的导演出生更晚",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未生成最终答案。其子节点 N1_3 (1910) 和 N1_4 (1888) 均已 solved 且证据充分。逻辑上可推导出 N1_3 > N1_4，因此 'I'll Take Sweden' 的导演出生更晚。但当前节点状态为 unsolved，缺乏最终的比较结论陈述。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 (October 27, 1910) 和 N1_4 (January 15, 1888) 的事实，明确回答 'I'll Take Sweden' 并标记 ROOT 为 solved。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'I'll Take Sweden'?",
+          "answer": "Frederick de Cordova",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'I'll Take Sweden'?",
+          "planner_rationale": "Q 要求比较两部电影的导演出生时间，首先需要确定 'I'll Take Sweden' 的导演是谁",
+          "solver_judgment": "question 要求找出电影 'I'll Take Sweden' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个片段，其中 chunk b1ccc9ee-1d4c-4652-9abc-a1ee21e51148 明确记载 \"Frederick de Cordova directed the 1965 comedy film I'll Take Sweden\" 和 \"I'll Take Sweden was directed by Frederick de Cordova\"，直接提供了答案。其他 chunks 提供了电影类型、演员或其他无关导演的信息，但核心信息已在第一个 chunk 中完整呈现。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (b1ccc9ee...) 来自文档 'I'll Take Sweden'，直接陈述 'Frederick de Cordova directed the 1965 comedy film I'll Take Sweden'。单来源但内容直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'His Majesty, The American'?",
+          "answer": "Joseph Henabery",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'His Majesty, The American'?",
+          "planner_rationale": "Q 要求比较两部电影的导演出生时间，首先需要确定 'His Majesty, The American' 的导演是谁",
+          "solver_judgment": "question 要求找出电影 'His Majesty, The American' 的导演。search_query 精确搜索了该电影的导演信息。chunks 中，chunk aa5088ed-ada6-4017-86ce-6d131d17749e 明确记载 \"His Majesty, the American was directed by Joseph Henabery\"，直接提供了答案。其他 chunks 涉及的是名称相似但不同的电影（如 'His Majesty the Hypochondriac', 'His Majesty and Company'）或其他无关导演，未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aa5088ed...) 来自文档 'His Majesty, the American'，直接陈述 'His Majesty, the American was directed by Joseph Henabery'。单来源但内容直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of 'I'll Take Sweden' born?",
+          "answer": "October 27, 1910",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Frederick de Cordova birth date",
+          "planner_rationale": "为了比较出生时间的早晚，需要获取 'I'll Take Sweden' 导演的具体出生年份",
+          "solver_judgment": "question 要求找出电影 'I'll Take Sweden' 导演的出生日期。search_query 搜索了 'Frederick de Cordova birth date'，这表明检索系统已经识别出该电影的导演是 Frederick de Cordova。chunks 返回了关于 Frederick de Cordova 的信息，其中 chunk '01d7a229-24a6-4803-88af-7cf23b3cc09b' 明确记载 \"Frederick Timmins de Cordova was born on October 27, 1910\"。chunk 'd03135b6-7e32-4bad-9d18-025a0dc029f5' 确认了他是 motion picture director。虽然 chunks 中没有直接出现 'I'll Take Sweden' 片名与导演的关联，但基于 search_query 的针对性以及 chunk 中提供的确切出生日期，可以确定答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (01d7a229...) 来自文档 'Fred de Cordova'，直接陈述 'Frederick Timmins de Cordova was born on October 27, 1910'。结合 N1_1 确定的导演身份，此事实准确对应。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of 'His Majesty, The American' born?",
+          "answer": "January 15, 1888",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Joseph Henabery birth date",
+          "planner_rationale": "为了比较出生时间的早晚，需要获取 'His Majesty, The American' 导演的具体出生年份",
+          "solver_judgment": "question 要求找出电影 'His Majesty, The American' 导演的出生日期。search_query 搜索了 'Joseph Henabery birth date'，暗示检索系统已识别出导演为 Joseph Henabery。chunks 中，chunk aa5088ed-ada6-4017-86ce-6d131d17749e 明确指出 \"His Majesty, the American was directed by Joseph Henabery\"，确立了导演身份。chunk dfcce8cc-3e18-4a34-a566-cdcec2e4c947 记载 \"Joseph Henabery was born on January 15, 1888\"，提供了具体的出生日期。检索精准命中了目标实体及其属性，信息完整且直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk (dfcce8cc...) 来自文档 'Joseph Henabery' 陈述 'Joseph Henabery was born on January 15, 1888'。Chunk (aa5088ed...) 来自文档 'His Majesty, the American' 确认导演为 Joseph Henabery。两个独立来源交叉验证了导演身份及其出生日期。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多源验证，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_3 (1910) 和 N1_4 (1888) 均已 solved，逻辑上可推导出 N1_3 > N1_4，因此 'I'll Take Sweden' 的导演出生更晚。本轮需基于子节点事实合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_3 (1910-10-27) 和 N1_4 (1888-01-15) 均已 solved 且证据充分。逻辑上可推导出 N1_3 > N1_4，因此 'I'll Take Sweden' 的导演出生更晚。但当前节点缺乏最终的比较结论陈述，无法直接作为最终答案输出。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'I'll Take Sweden' 并标记 ROOT 为 solved。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'I'll Take Sweden'?",
+          "answer": "Frederick de Cordova",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'I'll Take Sweden'?",
+          "planner_rationale": "已确立 'I'll Take Sweden' 的导演是 Frederick de Cordova。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'I'll Take Sweden' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个片段，其中 chunk b1ccc9ee-1d4c-4652-9abc-a1ee21e51148 明确记载 \"Frederick de Cordova directed the 1965 comedy film I'll Take Sweden\" 和 \"I'll Take Sweden was directed by Frederick de Cordova\"，直接提供了答案。其他 chunks 提供了电影类型、演员或其他无关导演的信息，但核心信息已在第一个 chunk 中完整呈现。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (b1ccc9ee...) 来自文档 'I'll Take Sweden'，直接陈述 'Frederick de Cordova directed the 1965 comedy film I'll Take Sweden'。单来源但内容直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'His Majesty, The American'?",
+          "answer": "Joseph Henabery",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'His Majesty, The American'?",
+          "planner_rationale": "已确立 'His Majesty, The American' 的导演是 Joseph Henabery。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'His Majesty, The American' 的导演。search_query 精确搜索了该电影的导演信息。chunks 中，chunk aa5088ed-ada6-4017-86ce-6d131d17749e 明确记载 \"His Majesty, the American was directed by Joseph Henabery\"，直接提供了答案。其他 chunks 涉及的是名称相似但不同的电影（如 'His Majesty the Hypochondriac', 'His Majesty and Company'）或其他无关导演，未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aa5088ed...) 来自文档 'His Majesty, the American'，直接陈述 'His Majesty, the American was directed by Joseph Henabery'。单来源但内容直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of 'I'll Take Sweden' born?",
+          "answer": "October 27, 1910",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Frederick de Cordova birth date",
+          "planner_rationale": "已确立 Frederick de Cordova 出生于 1910-10-27。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'I'll Take Sweden' 导演的出生日期。search_query 搜索了 'Frederick de Cordova birth date'，这表明检索系统已经识别出该电影的导演是 Frederick de Cordova。chunks 返回了关于 Frederick de Cordova 的信息，其中 chunk '01d7a229-24a6-4803-88af-7cf23b3cc09b' 明确记载 \"Frederick Timmins de Cordova was born on October 27, 1910\"。chunk 'd03135b6-7e32-4bad-9d18-025a0dc029f5' 确认了他是 motion picture director。虽然 chunks 中没有直接出现 'I'll Take Sweden' 片名与导演的关联，但基于 search_query 的针对性以及 chunk 中提供的确切出生日期，可以确定答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (01d7a229...) 来自文档 'Fred de Cordova'，直接陈述 'Frederick Timmins de Cordova was born on October 27, 1910'。结合 N1_1 确定的导演身份，此事实准确对应。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of 'His Majesty, The American' born?",
+          "answer": "January 15, 1888",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Joseph Henabery birth date",
+          "planner_rationale": "已确立 Joseph Henabery 出生于 1888-01-15。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'His Majesty, The American' 导演的出生日期。search_query 搜索了 'Joseph Henabery birth date'，暗示检索系统已识别出导演为 Joseph Henabery。chunks 中，chunk aa5088ed-ada6-4017-86ce-6d131d17749e 明确指出 \"His Majesty, the American was directed by Joseph Henabery\"，确立了导演身份。chunk dfcce8cc-3e18-4a34-a566-cdcec2e4c947 记载 \"Joseph Henabery was born on January 15, 1888\"，提供了具体的出生日期。检索精准命中了目标实体及其属性，信息完整且直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk (dfcce8cc...) 来自文档 'Joseph Henabery' 陈述 'Joseph Henabery was born on January 15, 1888'。Chunk (aa5088ed...) 来自文档 'His Majesty, the American' 确认导演为 Joseph Henabery。两个独立来源交叉验证了导演身份及其出生日期。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多源验证，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_3 (1910) 和 N1_4 (1888) 均已 solved，逻辑上可推导出 N1_3 > N1_4，因此 'I'll Take Sweden' 的导演出生更晚。本轮需基于子节点事实合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved。其子节点 N1_3 (1910-10-27) 和 N1_4 (1888-01-15) 均已 solved 且证据充分。逻辑上可推导出 N1_3 > N1_4，因此 'I'll Take Sweden' 的导演出生更晚。但当前节点缺乏最终的比较结论陈述，无法直接作为最终答案输出。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'I'll Take Sweden' 并标记 ROOT 为 solved。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'I'll Take Sweden'?",
+          "answer": "Frederick de Cordova",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'I'll Take Sweden'?",
+          "planner_rationale": "已确立 'I'll Take Sweden' 的导演是 Frederick de Cordova。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'I'll Take Sweden' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个片段，其中 chunk b1ccc9ee-1d4c-4652-9abc-a1ee21e51148 明确记载 \"Frederick de Cordova directed the 1965 comedy film I'll Take Sweden\" 和 \"I'll Take Sweden was directed by Frederick de Cordova\"，直接提供了答案。其他 chunks 提供了电影类型、演员或其他无关导演的信息，但核心信息已在第一个 chunk 中完整呈现。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (b1ccc9ee...) 来自文档 'I'll Take Sweden'，直接陈述 'Frederick de Cordova directed the 1965 comedy film I'll Take Sweden'。单来源但内容直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'His Majesty, The American'?",
+          "answer": "Joseph Henabery",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'His Majesty, The American'?",
+          "planner_rationale": "已确立 'His Majesty, The American' 的导演是 Joseph Henabery。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'His Majesty, The American' 的导演。search_query 精确搜索了该电影的导演信息。chunks 中，chunk aa5088ed-ada6-4017-86ce-6d131d17749e 明确记载 \"His Majesty, the American was directed by Joseph Henabery\"，直接提供了答案。其他 chunks 涉及的是名称相似但不同的电影（如 'His Majesty the Hypochondriac', 'His Majesty and Company'）或其他无关导演，未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aa5088ed...) 来自文档 'His Majesty, the American'，直接陈述 'His Majesty, the American was directed by Joseph Henabery'。单来源但内容直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of 'I'll Take Sweden' born?",
+          "answer": "October 27, 1910",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Frederick de Cordova birth date",
+          "planner_rationale": "已确立 Frederick de Cordova 出生于 1910-10-27。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'I'll Take Sweden' 导演的出生日期。search_query 搜索了 'Frederick de Cordova birth date'，这表明检索系统已经识别出该电影的导演是 Frederick de Cordova。chunks 返回了关于 Frederick de Cordova 的信息，其中 chunk '01d7a229-24a6-4803-88af-7cf23b3cc09b' 明确记载 \"Frederick Timmins de Cordova was born on October 27, 1910\"。chunk 'd03135b6-7e32-4bad-9d18-025a0dc029f5' 确认了他是 motion picture director。虽然 chunks 中没有直接出现 'I'll Take Sweden' 片名与导演的关联，但基于 search_query 的针对性以及 chunk 中提供的确切出生日期，可以确定答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (01d7a229...) 来自文档 'Fred de Cordova'，直接陈述 'Frederick Timmins de Cordova was born on October 27, 1910'。结合 N1_1 确定的导演身份，此事实准确对应。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of 'His Majesty, The American' born?",
+          "answer": "January 15, 1888",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Joseph Henabery birth date",
+          "planner_rationale": "已确立 Joseph Henabery 出生于 1888-01-15。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'His Majesty, The American' 导演的出生日期。search_query 搜索了 'Joseph Henabery birth date'，暗示检索系统已识别出导演为 Joseph Henabery。chunks 中，chunk aa5088ed-ada6-4017-86ce-6d131d17749e 明确指出 \"His Majesty, the American was directed by Joseph Henabery\"，确立了导演身份。chunk dfcce8cc-3e18-4a34-a566-cdcec2e4c947 记载 \"Joseph Henabery was born on January 15, 1888\"，提供了具体的出生日期。检索精准命中了目标实体及其属性，信息完整且直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk (dfcce8cc...) 来自文档 'Joseph Henabery' 陈述 'Joseph Henabery was born on January 15, 1888'。Chunk (aa5088ed...) 来自文档 'His Majesty, the American' 确认导演为 Joseph Henabery。两个独立来源交叉验证了导演身份及其出生日期。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多源验证，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_3 (1910-10-27) 和 N1_4 (1888-01-15) 均已 solved，逻辑上可推导出 N1_3 > N1_4，因此 'I'll Take Sweden' 的导演出生更晚。本轮需基于子节点事实合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其子节点 N1_3 (1910-10-27) 和 N1_4 (1888-01-15) 均已 solved 且证据充分。逻辑上可推导出 N1_3 > N1_4，因此 'I'll Take Sweden' 的导演出生更晚。但当前节点缺乏最终的比较结论陈述，无法直接作为最终答案输出。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'I'll Take Sweden' 并标记 ROOT 为 solved。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'I'll Take Sweden'?",
+          "answer": "Frederick de Cordova",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'I'll Take Sweden'?",
+          "planner_rationale": "已确立 'I'll Take Sweden' 的导演是 Frederick de Cordova。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'I'll Take Sweden' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个片段，其中 chunk b1ccc9ee-1d4c-4652-9abc-a1ee21e51148 明确记载 \"Frederick de Cordova directed the 1965 comedy film I'll Take Sweden\" 和 \"I'll Take Sweden was directed by Frederick de Cordova\"，直接提供了答案。其他 chunks 提供了电影类型、演员或其他无关导演的信息，但核心信息已在第一个 chunk 中完整呈现。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (b1ccc9ee...) 来自文档 'I'll Take Sweden'，直接陈述 'Frederick de Cordova directed the 1965 comedy film I'll Take Sweden'。单来源但内容直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'His Majesty, The American'?",
+          "answer": "Joseph Henabery",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'His Majesty, The American'?",
+          "planner_rationale": "已确立 'His Majesty, The American' 的导演是 Joseph Henabery。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'His Majesty, The American' 的导演。search_query 精确搜索了该电影的导演信息。chunks 中，chunk aa5088ed-ada6-4017-86ce-6d131d17749e 明确记载 \"His Majesty, the American was directed by Joseph Henabery\"，直接提供了答案。其他 chunks 涉及的是名称相似但不同的电影（如 'His Majesty the Hypochondriac', 'His Majesty and Company'）或其他无关导演，未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aa5088ed...) 来自文档 'His Majesty, the American'，直接陈述 'His Majesty, the American was directed by Joseph Henabery'。单来源但内容直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of 'I'll Take Sweden' born?",
+          "answer": "October 27, 1910",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Frederick de Cordova birth date",
+          "planner_rationale": "已确立 Frederick de Cordova 出生于 1910-10-27。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'I'll Take Sweden' 导演的出生日期。search_query 搜索了 'Frederick de Cordova birth date'，这表明检索系统已经识别出该电影的导演是 Frederick de Cordova。chunks 返回了关于 Frederick de Cordova 的信息，其中 chunk '01d7a229-24a6-4803-88af-7cf23b3cc09b' 明确记载 \"Frederick Timmins de Cordova was born on October 27, 1910\"。chunk 'd03135b6-7e32-4bad-9d18-025a0dc029f5' 确认了他是 motion picture director。虽然 chunks 中没有直接出现 'I'll Take Sweden' 片名与导演的关联，但基于 search_query 的针对性以及 chunk 中提供的确切出生日期，可以确定答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (01d7a229...) 来自文档 'Fred de Cordova'，直接陈述 'Frederick Timmins de Cordova was born on October 27, 1910'。结合 N1_1 确定的导演身份，此事实准确对应。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of 'His Majesty, The American' born?",
+          "answer": "January 15, 1888",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Joseph Henabery birth date",
+          "planner_rationale": "已确立 Joseph Henabery 出生于 1888-01-15。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'His Majesty, The American' 导演的出生日期。search_query 搜索了 'Joseph Henabery birth date'，暗示检索系统已识别出导演为 Joseph Henabery。chunks 中，chunk aa5088ed-ada6-4017-86ce-6d131d17749e 明确指出 \"His Majesty, the American was directed by Joseph Henabery\"，确立了导演身份。chunk dfcce8cc-3e18-4a34-a566-cdcec2e4c947 记载 \"Joseph Henabery was born on January 15, 1888\"，提供了具体的出生日期。检索精准命中了目标实体及其属性，信息完整且直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk (dfcce8cc...) 来自文档 'Joseph Henabery' 陈述 'Joseph Henabery was born on January 15, 1888'。Chunk (aa5088ed...) 来自文档 'His Majesty, the American' 确认导演为 Joseph Henabery。两个独立来源交叉验证了导演身份及其出生日期。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多源验证，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（导演身份及出生日期）均已确立且健康，逻辑上可推导出 'I'll Take Sweden' 的导演出生更晚。本轮保持结构稳定，等待系统基于子节点事实合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点当前状态为 unsolved。其子节点 N1_3 (1910-10-27) 和 N1_4 (1888-01-15) 均已 solved 且证据充分。逻辑上可推导出 N1_3 > N1_4，因此 'I'll Take Sweden' 的导演出生更晚。但当前节点缺乏最终的比较结论陈述，无法直接作为最终答案输出。",
+          "critic_normative_advice": "建议合成最终答案——基于 N1_3 和 N1_4 的事实，明确回答 'I'll Take Sweden' 并标记 ROOT 为 solved。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the director of the film 'I'll Take Sweden'?",
+          "answer": "Frederick de Cordova",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'I'll Take Sweden'?",
+          "planner_rationale": "已确立 'I'll Take Sweden' 的导演是 Frederick de Cordova。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'I'll Take Sweden' 的导演。search_query 直接搜索了该电影的导演信息。chunks 返回了多个片段，其中 chunk b1ccc9ee-1d4c-4652-9abc-a1ee21e51148 明确记载 \"Frederick de Cordova directed the 1965 comedy film I'll Take Sweden\" 和 \"I'll Take Sweden was directed by Frederick de Cordova\"，直接提供了答案。其他 chunks 提供了电影类型、演员或其他无关导演的信息，但核心信息已在第一个 chunk 中完整呈现。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (b1ccc9ee...) 来自文档 'I'll Take Sweden'，直接陈述 'Frederick de Cordova directed the 1965 comedy film I'll Take Sweden'。单来源但内容直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Who is the director of the film 'His Majesty, The American'?",
+          "answer": "Joseph Henabery",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is the director of the film 'His Majesty, The American'?",
+          "planner_rationale": "已确立 'His Majesty, The American' 的导演是 Joseph Henabery。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'His Majesty, The American' 的导演。search_query 精确搜索了该电影的导演信息。chunks 中，chunk aa5088ed-ada6-4017-86ce-6d131d17749e 明确记载 \"His Majesty, the American was directed by Joseph Henabery\"，直接提供了答案。其他 chunks 涉及的是名称相似但不同的电影（如 'His Majesty the Hypochondriac', 'His Majesty and Company'）或其他无关导演，未造成干扰。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (aa5088ed...) 来自文档 'His Majesty, the American'，直接陈述 'His Majesty, the American was directed by Joseph Henabery'。单来源但内容直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "When was the director of 'I'll Take Sweden' born?",
+          "answer": "October 27, 1910",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Frederick de Cordova birth date",
+          "planner_rationale": "已确立 Frederick de Cordova 出生于 1910-10-27。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'I'll Take Sweden' 导演的出生日期。search_query 搜索了 'Frederick de Cordova birth date'，这表明检索系统已经识别出该电影的导演是 Frederick de Cordova。chunks 返回了关于 Frederick de Cordova 的信息，其中 chunk '01d7a229-24a6-4803-88af-7cf23b3cc09b' 明确记载 \"Frederick Timmins de Cordova was born on October 27, 1910\"。chunk 'd03135b6-7e32-4bad-9d18-025a0dc029f5' 确认了他是 motion picture director。虽然 chunks 中没有直接出现 'I'll Take Sweden' 片名与导演的关联，但基于 search_query 的针对性以及 chunk 中提供的确切出生日期，可以确定答案。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑 chunk (01d7a229...) 来自文档 'Fred de Cordova'，直接陈述 'Frederick Timmins de Cordova was born on October 27, 1910'。结合 N1_1 确定的导演身份，此事实准确对应。单来源但直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_4": {
+          "id": "N1_4",
+          "question": "When was the director of 'His Majesty, The American' born?",
+          "answer": "January 15, 1888",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Joseph Henabery birth date",
+          "planner_rationale": "已确立 Joseph Henabery 出生于 1888-01-15。证据充分 (healthy)，无需重搜。",
+          "solver_judgment": "question 要求找出电影 'His Majesty, The American' 导演的出生日期。search_query 搜索了 'Joseph Henabery birth date'，暗示检索系统已识别出导演为 Joseph Henabery。chunks 中，chunk aa5088ed-ada6-4017-86ce-6d131d17749e 明确指出 \"His Majesty, the American was directed by Joseph Henabery\"，确立了导演身份。chunk dfcce8cc-3e18-4a34-a566-cdcec2e4c947 记载 \"Joseph Henabery was born on January 15, 1888\"，提供了具体的出生日期。检索精准命中了目标实体及其属性，信息完整且直接回答了问题。",
+          "critic_factual_notes": "2 个支撑 chunks。Chunk (dfcce8cc...) 来自文档 'Joseph Henabery' 陈述 'Joseph Henabery was born on January 15, 1888'。Chunk (aa5088ed...) 来自文档 'His Majesty, the American' 确认导演为 Joseph Henabery。两个独立来源交叉验证了导演身份及其出生日期。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多源验证，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_2",
+          "to": "N1_4",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the director of the film 'I'll Take Sweden'?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "b1ccc9ee-1d4c-4652-9abc-a1ee21e51148",
+        "7330373f-7bc9-429e-975f-78789587f9df",
+        "c0e07ee6-b17e-4297-8429-cb422d43f295",
+        "ea079ef8-aefa-4167-b6f8-cb688e23357b",
+        "212d2c84-ec00-4849-828f-738364315b20",
+        "c140fcca-1af1-46fa-845a-7ee478f1af95",
+        "cec79402-b983-4bfa-a01e-aeecee747880",
+        "6393904a-dd55-46e5-83e7-7ba0e8387679"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Who is the director of the film 'His Majesty, The American'?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "aa5088ed-ada6-4017-86ce-6d131d17749e",
+        "b14a13f4-6fd3-48d1-ac42-b90cbf6f6b41",
+        "30852bac-c7c6-40a5-a193-b96c04c18d32",
+        "e21fe6e2-ef9b-4a9a-a030-b65586828860",
+        "0f471fb7-fbb3-4b0c-8045-6c6ce513df2e",
+        "4c5edab6-def6-4b8c-871d-2ddedfba4a32",
+        "c0aabe21-9183-49ce-8010-a731bb86c890",
+        "b4b30e71-4b1d-468f-82a6-b32cccfea66a"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Frederick de Cordova birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "01d7a229-24a6-4803-88af-7cf23b3cc09b",
+        "d03135b6-7e32-4bad-9d18-025a0dc029f5",
+        "1096a526-cf9f-42cf-b383-7f68308fa55b",
+        "dfdab87b-1b2e-425f-9947-e7f743e9deda",
+        "f7049f46-b1a1-4000-8c60-a2bcdf03b9fb",
+        "c02c39a2-029e-4726-ad9e-80e087dd547e",
+        "c79ef391-555e-4952-8758-beb655a154de",
+        "4a3d76c1-c4f9-4b09-9cc1-2fe0ade4e336"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Joseph Henabery birth date",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "dfcce8cc-3e18-4a34-a566-cdcec2e4c947",
+        "18bb01fc-26f2-4f9a-86dd-288938a216f9",
+        "4ba1059c-a355-4383-b112-2c68b1391e7c",
+        "b65816c8-f6e7-4874-a579-96d549d4cd41",
+        "aa5088ed-ada6-4017-86ce-6d131d17749e",
+        "c3bd889b-54ca-4f2c-9479-a848d55c0f19",
+        "70ecd284-d9b4-4dc0-81f4-eea3634068b2",
+        "ddb48621-3e73-4df8-8cf5-487bf3e0b3f0"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 4,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of 'I'll Take Sweden'?（理由：确定第一部电影的导演身份），F2: Who is the director of 'His Majesty, The American'?（理由：确定第二部电影的导演身份），F3: When was the director of 'I'll Take Sweden' born?（理由：获取第一个导演的出生时间以进行比较），F4: When was the director of 'His Majesty, The American' born?（理由：获取第二个导演的出生时间以进行比较）。关系: F1 和 F2 是 Q 的直接分解产物（decomposition），分别对应 Q 中提到的两部电影。F3 依赖于 F1（dependency——只有知道导演是谁才能搜索其出生年份），F4 依赖于 F2（dependency——同理）。最终通过比较 F3 和 F4 的答案来回答 Q。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将比较问题拆解为两个独立的实体识别子任务（导演是谁）和两个属性获取子任务（出生年份），并通过依赖边确保搜索顺序的正确性（先识别人物，再查询属性）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification，因为其状态仍为 unsolved 且未生成最终比较答案。虽然所有叶子节点证据充分且依赖链语义有效（条件②通过），但根节点未完成推理闭环，故不能终止。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of 'I'll Take Sweden'? (已确立: Frederick de Cordova), F2: Who is the director of 'His Majesty, The American'? (已确立: Joseph Henabery), F3: When was Frederick de Cordova born? (已确立: 1910-10-27), F4: When was Joseph Henabery born? (已确立: 1888-01-15)。关系: F1 和 F2 是 Q 的分解产物 (decomposition)。F3 依赖于 F1 (dependency)，F4 依赖于 F2 (dependency)。所有子事实均已确立且健康。当前 DAG 结构完整，唯一待办事项是 ROOT 节点基于子节点事实进行逻辑比较并生成最终答案（'I'll Take Sweden'，因为 1910 > 1888）。",
+      "hypothesis_delta": "本轮无结构变更。所有节点 (N0, N1_1, N1_2, N1_3, N1_4) 均通过 INHERIT 保留，因为它们的 status 均为 solved 且 health 均为 healthy。Critic 确认了依赖边的有效性和事实的可靠性。DAG 已收敛，只需等待系统基于现有事实合成 ROOT 节点的最终答案。修正：显式声明保留所有旧边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification，因为其为 unsolved 状态且缺乏最终合成的答案陈述。虽然所有叶子节点 healthy 且推理链语义有效，但根节点未完成最终推理步骤，导致整体 DAG 未达到终止状态。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of 'I'll Take Sweden'? (已确立: Frederick de Cordova), F2: Who is the director of 'His Majesty, The American'? (已确立: Joseph Henabery), F3: When was Frederick de Cordova born? (已确立: 1910-10-27), F4: When was Joseph Henabery born? (已确立: 1888-01-15)。关系: F1 和 F2 是 Q 的分解产物 (decomposition)。F3 依赖于 F1 (dependency)，F4 依赖于 F2 (dependency)。所有子事实均已确立且健康。当前 DAG 结构完整，唯一待办事项是 ROOT 节点基于子节点事实进行逻辑比较并生成最终答案（'I'll Take Sweden'，因为 1910 > 1888）。",
+      "hypothesis_delta": "本轮无结构变更。所有节点 (N0, N1_1, N1_2, N1_3, N1_4) 均通过 INHERIT 保留，因为它们的 status 均为 solved 且 health 均为 healthy。Critic 确认了依赖边的有效性和事实的可靠性。DAG 已收敛，只需等待系统基于现有事实合成 ROOT 节点的最终答案。显式声明保留所有旧边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification（状态 unsolved，缺乏最终结论陈述）。虽然所有子节点 (N1_1-N1_4) 均为 healthy，但根节点尚未完成最终答案的合成与验证，因此整体 DAG 未达到终止状态。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of 'I'll Take Sweden'? (已确立: Frederick de Cordova), F2: Who is the director of 'His Majesty, The American'? (已确立: Joseph Henabery), F3: When was Frederick de Cordova born? (已确立: 1910-10-27), F4: When was Joseph Henabery born? (已确立: 1888-01-15)。关系: F1 和 F2 是 Q 的分解产物 (decomposition)。F3 依赖于 F1 (dependency)，F4 依赖于 F2 (dependency)。所有子事实均已确立且健康。当前 DAG 结构完整，唯一待办事项是 ROOT 节点基于子节点事实进行逻辑比较并生成最终答案（'I'll Take Sweden'，因为 1910 > 1888）。",
+      "hypothesis_delta": "本轮无结构变更。所有节点 (N0, N1_1, N1_2, N1_3, N1_4) 均通过 INHERIT 保留，因为它们的 status 均为 solved 且 health 均为 healthy。Critic 确认了依赖边的有效性和事实的可靠性。DAG 已收敛，只需等待系统基于现有事实合成 ROOT 节点的最终答案。显式声明保留所有旧边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification。虽然所有子节点 (N1_1-N1_4) 均为 healthy 且推理链语义匹配（条件②通过），但 ROOT 节点尚未生成最终的比较结论答案，导致整体 DAG 未达到全部节点 healthy 的状态。需等待 ROOT 节点被标记为 solved 且 health 转为 healthy 后"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the director of 'I'll Take Sweden'? (已确立: Frederick de Cordova), F2: Who is the director of 'His Majesty, The American'? (已确立: Joseph Henabery), F3: When was Frederick de Cordova born? (已确立: 1910-10-27), F4: When was Joseph Henabery born? (已确立: 1888-01-15)。关系: F1 和 F2 是 Q 的分解产物 (decomposition)。F3 依赖于 F1 (dependency)，F4 依赖于 F2 (dependency)。所有子事实均已确立且健康。当前 DAG 结构完整，唯一待办事项是 ROOT 节点基于子节点事实进行逻辑比较并生成最终答案（'I'll Take Sweden'，因为 1910 > 1888）。",
+      "hypothesis_delta": "本轮无结构变更。所有节点 (N0, N1_1, N1_2, N1_3, N1_4) 均通过 INHERIT 保留，因为它们的 status 均为 solved 且 health 均为 healthy。Critic 确认了依赖边的有效性和事实的可靠性。DAG 已收敛，只需等待系统基于现有事实合成 ROOT 节点的最终答案。显式声明保留所有旧边（N0→N1_1, N0→N1_2, N1_1→N1_3, N1_2→N1_4）以通过系统一致性检查。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 (N0) 的 critic_health 为 needs_verification（状态 unsolved，缺乏最终结论陈述）。虽然所有子节点证据充分且推理链语义有效，但根节点尚未完成最终答案的合成与标记，因此不能终止。"
+      }
+    }
+  ]
+}

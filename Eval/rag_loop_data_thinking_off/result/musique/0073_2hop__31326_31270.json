@@ -1,0 +1,657 @@
+{
+  "question_index": 73,
+  "question_id": "2hop__31326_31270",
+  "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+  "answer": "45",
+  "prediction": "45 miles",
+  "error": null,
+  "latency_ms": 253069.3093999871,
+  "dataset_type": "musique",
+  "timestamp": "2026-05-14T15:38:28.633350+00:00",
+  "chunks": [
+    {
+      "chunk_id": "8206e5f5-7822-420d-af30-8f5fe4429c8b",
+      "chunk_title": "Tennessee Corporate Locations",
+      "chunk_summary": "This chunk contains information about the headquarters locations of major corporations and significant industrial facilities based in Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "The North American headquarters of Nissan Motor Company is based in Franklin. Regal Entertainment Group is based in Knoxville. Hospital Corporation of America is based in Nashville. Tennessee is the location of the Volkswagen factory. The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville. Caterpillar Financial is a major corporation with headquarters in Tennessee. The North American headquarters of Nissan Motor Company is a major corporate presence with headquarters in Tennessee. Pilot Corporation is based in Knoxville. Unum is a major corporation with headquarters in Tennessee. Tennessee is the location of a $1.2 billion polysilicon production facility by Hemlock Semiconductor. Eastman Chemical Company is a major corporation with headquarters in Tennessee. Unum is based in Chattanooga. Eastman Chemical Company is based in Kingsport. Tennessee is the location of a $2 billion polysilicon production facility by Wacker Chemie. Caterpillar Financial is based in Nashville. Hospital Corporation of America is a major corporation with headquarters in Tennessee. The $2 billion polysilicon production facility by Wacker Chemie is in Bradley County. The Volkswagen factory is in Chattanooga."
+    },
+    {
+      "chunk_id": "003c01bf-e844-4cc8-83b5-151a26b32531",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and hierarchical relationships of specific places, including creeks, townships, counties, and countries.",
+      "context_title": "Frozen Run",
+      "page_content": "Frozen Run flows through Frosty Valley. Hemlock Creek is in Columbia County, Pennsylvania. Columbia County is in the United States. Frozen Run flows through Hemlock Township."
+    },
+    {
+      "chunk_id": "10f815ae-7f42-482f-a1d9-1ca6cb6b5128",
+      "chunk_title": "Pro Electron Standard",
+      "chunk_summary": "This chunk details the Pro Electron standard for European electronic component part numbering, explaining the specific meanings of the initial letters for semiconductor type and application, the structure of the subsequent sequence numbers for various device types, and the use of suffixes and additional codes to indicate characteristics like gain, voltage rating, and hFE.",
+      "context_title": "Transistor",
+      "page_content": "BUK854-800A is an example of a Pro Electron part number with a code showing voltage rating. In the Pro Electron standard, the letter A denotes germanium. With early devices, the sequence number in the Pro Electron standard indicated the case type. A letter may follow as a suffix in the Pro Electron standard. BC549C is an example of a Pro Electron part number with a suffix indicating high hFE. Other codes may follow in the Pro Electron standard to show voltage rating. In the Pro Electron standard, the suffix letter C often means high hFE. In the Pro Electron standard, the letter C denotes materials like GaAs. For industrial types in the Pro Electron standard, one letter then 2 digits follows the two letters. The second letter of the Pro Electron standard denotes the intended use. The Pro Electron standard begins with two letters. The Pro Electron standard is the European Electronic Component Manufacturers Association part numbering scheme. In the Pro Electron standard, the letter B denotes silicon. A 3-digit sequence number follows the two letters in the Pro Electron standard. Other codes may follow in the Pro Electron standard to show gain. In the Pro Electron standard, the letter C denotes a general-purpose transistor. The first letter of the Pro Electron standard gives the semiconductor type. BC327-25 is an example of a Pro Electron part number with a code showing gain. In the Pro Electron standard, the letter A denotes a diode. Suffixes may be used in the Pro Electron standard."
+    },
+    {
+      "chunk_id": "5f6ec7aa-31ef-44e9-bc11-124d14d1fcd9",
+      "chunk_title": "Stream Environment",
+      "chunk_summary": "This chunk contains information about the land cover, vegetation, and surrounding environment of streams.",
+      "context_title": "Devil Hole Run",
+      "page_content": "Hemlock trees are plantlife common in the vicinity of Devil Hole Run. The stream Devil Hole Run is mostly surrounded by forested land."
+    },
+    {
+      "chunk_id": "6380ed82-2990-4b0e-8192-9fcf6585653c",
+      "chunk_title": "IBM Achievements & Inventions",
+      "chunk_summary": "This chunk contains information about IBM's corporate records, achievements, and notable inventions, including patent generation, prestigious awards like Nobel Prizes and Turing Awards, and developments such as the ATM.",
+      "context_title": "IBM",
+      "page_content": "Employees of IBM have garnered ten National Medals of Technology. Employees of IBM have garnered five National Medals of Science. The magnetic stripe card is a notable invention or development of IBM. Dynamic random-access memory (DRAM) is a notable invention or development of IBM. The relational database is a notable invention or development of IBM. The Universal Product Code (UPC) is a notable invention or development of IBM. The floppy disk is a notable invention or development of IBM. As of 2013, IBM held the record for most patents generated by a business for 22 consecutive years. The Fortran programming language is a notable invention or development of IBM. The financial swap is a notable invention or development of IBM. The silicon-on-insulator (SOI) semiconductor manufacturing process is a notable invention or development of IBM. The hard disk drive is a notable invention or development of IBM. Employees of IBM have garnered five Nobel Prizes. Employees of IBM have garnered six Turing Awards. The SABRE airline reservation system is a notable invention or development of IBM. Watson artificial intelligence is a notable invention or development of IBM. The automated teller machine (ATM) is a notable invention or development of IBM. Copper wiring in semiconductors is a notable invention or development of IBM."
+    },
+    {
+      "chunk_id": "36824d47-4379-4f81-9148-f216523d3bb0",
+      "chunk_title": "Industrial Applications",
+      "chunk_summary": "This chunk contains information about Plansee SE, a manufacturer of high-performance material products, and their applications across various industrial sectors.",
+      "context_title": "Plansee SE",
+      "page_content": "Plansee SE's products are used in the lighting sector. Plansee SE's products are used in the system and furnace construction sectors. Plansee SE's products are used in the medical sector. Plansee SE's products are used in the coatings sector. Plansee SE's products are used in the electronics sector. Plansee SE manufactures products based on high-performance materials. Plansee SE's products are used in the energy transmission and distribution sector."
+    },
+    {
+      "chunk_id": "b58747f4-748d-4a0f-b150-0c4a2b64fc53",
+      "chunk_title": "Tributaries & Water Bodies",
+      "chunk_summary": "This chunk contains information about tributaries and their relationships to larger water bodies, including details on named and unnamed streams.",
+      "context_title": "Frozen Run",
+      "page_content": "Frozen Run has several unnamed tributaries. Frozen Run is a tributary of Hemlock Creek."
+    },
+    {
+      "chunk_id": "4edf3fed-ee61-4e0c-8ba9-b289d649ac46",
+      "chunk_title": "Geographic Scope & Footprint",
+      "chunk_summary": "This chunk contains information about the geographic operational scope and retail banking footprint of Bank of America within the United States, including its presence in all states and DC, the distinction between operational presence and retail branch locations, and specific metrics on its customer base, banking centers, and ATMs.",
+      "context_title": "Bank of America",
+      "page_content": "Bank of America does not necessarily maintain retail branches in all locations where it operates. Bank of America has 4,600 banking centers. Bank of America operates in the District of Columbia. Bank of America has a retail banking footprint that serves approximately 46 million consumer and small business relationships. Bank of America operates in all 50 states of the United States. Bank of America has 15,900 automated teller machines (ATMs)."
+    },
+    {
+      "chunk_id": "af6d53e3-32ec-4f13-b2c6-844a83bc4b59",
+      "chunk_title": "Tennessee Capitals",
+      "chunk_summary": "This chunk contains information about the capital cities of Tennessee, including both current and historical capitals.",
+      "context_title": "Tennessee",
+      "page_content": "The capital of Tennessee is Nashville. Kingston has served as a state capital of Tennessee in the past. Knoxville has served as a state capital of Tennessee in the past. Murfreesboro has served as a state capital of Tennessee in the past."
+    },
+    {
+      "chunk_id": "fa2a5685-1d66-413e-a804-509d8f64fcc8",
+      "chunk_title": "Tennessee Capitals",
+      "chunk_summary": "This chunk contains information about the capital cities of Tennessee, including both current and historical capitals.",
+      "context_title": "Tennessee",
+      "page_content": "Murfreesboro has served as a state capital of Tennessee in the past. The capital of Tennessee is Nashville. Knoxville has served as a state capital of Tennessee in the past. Kingston has served as a state capital of Tennessee in the past."
+    },
+    {
+      "chunk_id": "da4332e2-7a06-44ed-be92-1c2ba90ed9de",
+      "chunk_title": "Tennessee Geography & Stats",
+      "chunk_summary": "This chunk contains information about the geographical location, size and population rankings, bordering states, major physical features, and key cities of Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Tennessee is the 36th largest of the 50 United States. Tennessee is bordered by Virginia to the north. Nashville is the capital of Tennessee. The Mississippi River forms the western border of Tennessee. Memphis has a population of 653,450. Tennessee is bordered by Alabama to the south. Nashville has a population of 601,222. Tennessee is a state located in the southeastern United States. Tennessee is bordered by Kentucky to the north. Tennessee is bordered by Mississippi to the south. Tennessee is bordered by Missouri to the west. Tennessee is bordered by Arkansas to the west. Tennessee is the 17th most populous of the 50 United States. The Appalachian Mountains dominate the eastern part of Tennessee. Tennessee is bordered by North Carolina to the east. Nashville is the second largest city in Tennessee. Tennessee is bordered by Georgia to the south. Memphis is the largest city in Tennessee."
+    },
+    {
+      "chunk_id": "919a9717-6c32-4331-a2af-cd85451a3845",
+      "chunk_title": "Tennessee Capitals",
+      "chunk_summary": "This chunk contains information about the capital cities of Tennessee, including both current and historical capitals.",
+      "context_title": "Tennessee",
+      "page_content": "Murfreesboro has served as a state capital of Tennessee in the past. Kingston has served as a state capital of Tennessee in the past. Knoxville has served as a state capital of Tennessee in the past. The capital of Tennessee is Nashville."
+    },
+    {
+      "chunk_id": "0cee2840-96f6-4eca-a783-2a07d00d2b6d",
+      "chunk_title": "Tennessee Capitals",
+      "chunk_summary": "This chunk contains information about the capital cities of Tennessee, including both current and historical capitals.",
+      "context_title": "Tennessee",
+      "page_content": "Kingston has served as a state capital of Tennessee in the past. Murfreesboro has served as a state capital of Tennessee in the past. Knoxville has served as a state capital of Tennessee in the past. Nashville is the capital of Tennessee."
+    },
+    {
+      "chunk_id": "1546c0f2-867d-4aba-87cd-ce623881d341",
+      "chunk_title": "Tennessee Overview",
+      "chunk_summary": "This chunk contains information about the geographical location, size and population rankings, bordering states, major physical features, and major cities of Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Nashville is the second largest city in Tennessee. Tennessee is a state located in the southeastern United States. Tennessee is bordered by Missouri to the west. The Mississippi River forms the western border of Tennessee. Nashville has a population of 601,222. Tennessee is bordered by Georgia to the south. The Appalachian Mountains dominate the eastern part of Tennessee. Nashville is the capital of Tennessee. Memphis has a population of 653,450. Memphis is the largest city in Tennessee. Tennessee is bordered by Kentucky to the north. Tennessee is bordered by Mississippi to the south. Tennessee is bordered by Virginia to the north. Tennessee is the 17th most populous of the 50 United States. Tennessee is bordered by Arkansas to the west. Tennessee is the 36th largest of the 50 United States. Tennessee is bordered by Alabama to the south. Tennessee is bordered by North Carolina to the east."
+    },
+    {
+      "chunk_id": "736c8997-73e6-4023-9194-051978435ac5",
+      "chunk_title": "Titans Venues & Locations",
+      "chunk_summary": "This chunk contains information about the home stadiums, headquarters, and historical locations of the Tennessee Titans.",
+      "context_title": "Tennessee Titans",
+      "page_content": "The Tennessee Titans played at Jeppesen Stadium from 1960 to 1964. The Tennessee Titans played at the Houston Astrodome from 1968 to 1996. Nissan Stadium is located in Nashville, Tennessee. The Tennessee Titans played at Liberty Bowl Memorial Stadium in 1997. The Tennessee Titans played at Vanderbilt Stadium in 1998. Saint Thomas Sports Park is located in Nashville, Tennessee. The Tennessee Titans played at Rice Stadium from 1965 to 1967. The Tennessee Titans are headquartered in Saint Thomas Sports Park. The Tennessee Titans play in Nissan Stadium. The Tennessee Titans have played at Nissan Stadium from 1999 to the present."
+    },
+    {
+      "chunk_id": "557680f3-6ca5-4595-ad24-f3f937d5edaf",
+      "chunk_title": "Tennessee Overview",
+      "chunk_summary": "This chunk contains information about the geographical location, size and population rankings, bordering states, major physical features, and key cities of Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Tennessee is bordered by North Carolina to the east. Tennessee is bordered by Kentucky to the north. Nashville has a population of 601,222. The Mississippi River forms the western border of Tennessee. Tennessee is bordered by Missouri to the west. Tennessee is bordered by Georgia to the south. Nashville is the second largest city in Tennessee. Tennessee is bordered by Virginia to the north. Tennessee is the 17th most populous of the 50 United States. Nashville is the capital of Tennessee. Tennessee is bordered by Mississippi to the south. Memphis is the largest city in Tennessee. Tennessee is bordered by Arkansas to the west. Tennessee is a state located in the southeastern United States. Memphis has a population of 653,450. Tennessee is bordered by Alabama to the south. Tennessee is the 36th largest of the 50 United States. The Appalachian Mountains dominate the eastern part of Tennessee."
+    },
+    {
+      "chunk_id": "cb9bfe85-f70a-4393-88e1-bbf177c6bb11",
+      "chunk_title": "Tennessee City Populations",
+      "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Murfreesboro consists of some 108,755 residents. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Chattanooga has approximately one-third of the population of Memphis."
+    },
+    {
+      "chunk_id": "d46f2153-f6bc-4d94-b337-e3991a4a8f93",
+      "chunk_title": "Tennessee City Populations",
+      "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Murfreesboro is the sixth-largest city in Tennessee. Clarksville is a significant population center in Tennessee. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Memphis has the largest population of any city in Tennessee. Chattanooga has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Nashville's 13-county metropolitan area has been the state's largest metropolitan area in Tennessee since c. 1990."
+    },
+    {
+      "chunk_id": "aaa88f9c-fc2b-4c0c-a63a-151a7493fcbf",
+      "chunk_title": "Tennessee City Populations",
+      "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Murfreesboro consists of some 108,755 residents. Memphis has the largest population of any city in Tennessee. Chattanooga has approximately one-third of the population of Memphis. Knoxville has approximately one-third of the population of Nashville. Clarksville is a significant population center in Tennessee. Knoxville has approximately one-third of the population of Memphis. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Chattanooga has approximately one-third of the population of Nashville. Murfreesboro is the sixth-largest city in Tennessee."
+    },
+    {
+      "chunk_id": "a071b195-38b1-4477-a6ae-32d64b541408",
+      "chunk_title": "Tennessee City Populations",
+      "chunk_summary": "This chunk contains information about city and metropolitan area populations, rankings, and relative sizes within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Memphis. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Murfreesboro is the sixth-largest city in Tennessee. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990."
+    },
+    {
+      "chunk_id": "c31b6d71-d92f-48e9-ab31-6411e696162c",
+      "chunk_title": "Educational Institutions",
+      "chunk_summary": "This chunk contains information about the type, classification, and location of educational institutions.",
+      "context_title": "West Creek High School",
+      "page_content": "West Creek High School is located in Clarksville, Tennessee. West Creek High School is a public high school. West Creek High School is part of the Clarksville-Montgomery County School System."
+    },
+    {
+      "chunk_id": "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+      "chunk_title": "Tennessee City Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is near the Great Smoky Mountains. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+    },
+    {
+      "chunk_id": "269802a0-3a31-43b5-8eaf-ebce433f7de0",
+      "chunk_title": "Tennessee City Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Knoxville is in the eastern part of Tennessee. Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains."
+    },
+    {
+      "chunk_id": "455a9a66-7694-446b-9d67-4a3731d5ef70",
+      "chunk_title": "Tennessee City Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+    },
+    {
+      "chunk_id": "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+      "chunk_title": "Tennessee City Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Chattanooga is near the Great Smoky Mountains. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Clarksville is some 45 miles (72 km) northwest of Nashville."
+    },
+    {
+      "chunk_id": "0758ecb6-892e-4c38-a928-f4c834023484",
+      "chunk_title": "Tennessee City Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Chattanooga is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville."
+    },
+    {
+      "chunk_id": "a56a92ec-1006-440a-a6f0-99699906dd47",
+      "chunk_title": "Town Location & Classification",
+      "chunk_summary": "This chunk contains information about the location and classification of specific towns, such as Nolensville.",
+      "context_title": "Nolensville, Tennessee",
+      "page_content": "Nolensville is a town in Williamson County, Tennessee. Nolensville is located in Middle Tennessee. Nolensville is about 22 miles southeast of Nashville, Tennessee."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.666667,
+  "precision": 0.5,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.6296296296296297,
+  "retrieval_count": 4,
+  "total_chunks": 27,
+  "total_distinct_titles": 10,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要聚合子节点信息以计算最终距离",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态取决于子节点。当前 N1_1 已解决，但 N1_2 和 N1_3 未解决（无答案）。推理链不完整，无法合成最终距离答案。",
+          "critic_normative_advice": "建议等待子节点 N1_2 和 N1_3 解决后再评估。当前结构合理，但需解决坐标缺失问题。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where does Hemlock Semiconductor produce electronic components?",
+          "answer": "Clarksville, Tennessee",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where does Hemlock Semiconductor produce electronic components?",
+          "planner_rationale": "Q 询问从 Nashville 到 'the place where Hemlock Semiconductor produces electronic components' 的距离。首先需要确定这个地点的具体名称或位置，这是计算距离的前提条件之一。",
+          "solver_judgment": "question 要求找出 Hemlock Semiconductor 生产电子元件的地点。search_query 搜索了 'Where does Hemlock Semiconductor produce electronic components?'。chunks 返回了关于 Hemlock Semiconductor 的信息，其中 chunk_8206e5f5-7822-420d-af30-8f5fe4429c8b 明确指出 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville' 且该设施位于 Tennessee。虽然多晶硅（polysilicon）是半导体制造的关键原材料而非最终的“电子元件”（如芯片或晶体管），但在检索结果的语境下，这是唯一提到的 Hemlock Semiconductor 的生产设施地点。因此，提取 Clarksville, Tennessee 作为答案。检索精准命中了公司及其生产设施位置，尽管产品术语存在细微差异（原材料 vs 组件），但地理位置信息是直接可用的。",
+          "critic_factual_notes": "1 个来源（Tennessee），直接陈述 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville'。虽然产品术语（polysilicon vs electronic components）有细微差异，但在 KB 语境下是唯一匹配的生产设施地点，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What are the geographic coordinates of Nashville, Tennessee?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What are the geographic coordinates of Nashville, Tennessee?",
+          "planner_rationale": "为了计算从 Nashville 到目标地点的距离，需要明确 Nashville 的地理位置（通常指田纳西州纳什维尔）。获取其坐标有助于后续的距离计算或作为搜索上下文。",
+          "solver_judgment": "question 要求提供 Nashville, Tennessee 的地理坐标（经纬度）。search_query 搜索了 'What are the geographic coordinates of Nashville, Tennessee?'。然而，返回的 chunks 主要包含关于 Tennessee 首府历史、人口统计、边界州以及 Titans 球队场馆位置的信息。虽然多个 chunk（如 da4332e2-7a06-44ed-be92-1c2ba90ed9de, 1546c0f2-867d-4aba-87cd-ce623881d341）确认 Nashville 是 Tennessee 的首府并提供了人口数据，但没有任何 chunk 提及具体的地理坐标（纬度/经度）。检索结果未能命中目标信息，存在明显缺口。",
+          "critic_factual_notes": "搜索返回 8 个 chunks，主要涉及首府历史、人口、边界等，无任何 chunk 包含 Nashville 的具体地理坐标（经纬度）。KB 在此维度上似乎无覆盖或搜索策略未命中。",
+          "critic_normative_advice": "建议换搜索方向——当前查询 'geographic coordinates' 未命中。尝试更通用的位置描述搜索（如 'Nashville Tennessee location latitude longitude'）或检查是否有其他节点可间接推导。若 KB 确实无坐标，需考虑是否可用相对距离信息替代。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "What are the geographic coordinates of the place where Hemlock Semiconductor produces electronic components?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "geographic coordinates of Hemlock Semiconductor facility in Clarksville, Tennessee",
+          "planner_rationale": "在确定了 Hemlock Semiconductor 的生产地点后，需要获取该地点的地理坐标，以便与 Nashville 的坐标一起用于计算两者之间的物理距离。",
+          "solver_judgment": "question 要求提供 Hemlock Semiconductor 生产设施的地理坐标（geographic coordinates）。search_query 搜索了 \"geographic coordinates of Hemlock Semiconductor facility in Clarksville, Tennessee\"。chunks 返回的信息中，chunk 8206e5f5-7822-420d-af30-8f5fe4429c8b 确认了 Hemlock Semiconductor 的多晶硅生产设施位于田纳西州的 Clarksville（\"The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville\"）。其他 chunks 提供了 Clarksville 的人口或相对位置信息（如 chunk f928d974-12eb-4692-8fd5-e72ceac11c6d 提到 Clarksville 位于 Nashville 西北 45 英里），但没有任何 chunk 提供具体的地理坐标（纬度和经度）。因此，虽然确定了地点，但缺失问题所要求的具体坐标数据。",
+          "critic_factual_notes": "依赖 N1_1 的答案 'Clarksville, Tennessee' 已确立。但针对 'geographic coordinates of ... Clarksville' 的搜索返回 8 个 chunks，仅确认地点存在及人口/相对位置（如 '45 miles northwest of Nashville'），无具体经纬度坐标。",
+          "critic_normative_advice": "建议换搜索方向——同 N1_2，坐标数据缺失。注意 chunk f928d974-12eb-4692-8fd5-e72ceac11c6d 提到 'Clarksville located 45 miles northwest of Nashville'，这可能直接提供距离信息，无需坐标计算。建议探索利用此相对距离信息的可能性。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要聚合子节点信息以计算最终距离",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，N1_1 确立了地点为 'Clarksville, Tennessee'，N3_1 确立了距离为 '45 miles'。两条路径（N0→N1_1→N3_1 和 N0→N3_1）在语义上连贯，且所有叶子节点均已 solved 且 healthy。虽然 N0 自身 status 为 unsolved（等待最终答案生成），但从审查角度看，支撑最终答案所需的所有事实证据已完备且一致。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据充分，推理链完整，可进入最终答案生成阶段。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where does Hemlock Semiconductor produce electronic components?",
+          "answer": "Clarksville, Tennessee",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where does Hemlock Semiconductor produce electronic components?",
+          "planner_rationale": "已确立 Hemlock Semiconductor 的生产地点为 Clarksville, Tennessee。这是计算距离的关键前提，证据充分且 Critic 判定 healthy",
+          "solver_judgment": "question 要求找出 Hemlock Semiconductor 生产电子元件的地点。search_query 搜索了 'Where does Hemlock Semiconductor produce electronic components?'。chunks 返回了关于 Hemlock Semiconductor 的信息，其中 chunk_8206e5f5-7822-420d-af30-8f5fe4429c8b 明确指出 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville' 且该设施位于 Tennessee。虽然多晶硅（polysilicon）是半导体制造的关键原材料而非最终的“电子元件”（如芯片或晶体管），但在检索结果的语境下，这是唯一提到的 Hemlock Semiconductor 的生产设施地点。因此，提取 Clarksville, Tennessee 作为答案。检索精准命中了公司及其生产设施位置，尽管产品术语存在细微差异（原材料 vs 组件），但地理位置信息是直接可用的。",
+          "critic_factual_notes": "1 个独立来源（Tennessee 文档 chunk_8206e5f5...）直接陈述 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville'。虽然问题询问的是 'electronic components' 而 chunk 提到的是 'polysilicon'（多晶硅，半导体原材料），但在缺乏其他更精确匹配的生产设施信息的情况下，这是 KB 中唯一指向 Hemlock Semiconductor 生产地点的证据。Solver 的判断合理，证据直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N3_1": {
+          "id": "N3_1",
+          "question": "What is the distance in miles from Nashville to Clarksville, Tennessee?",
+          "answer": "45 miles",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "distance in miles from Nashville to Clarksville, Tennessee",
+          "planner_rationale": "Critic 指出 N1_2/N1_3 因缺乏坐标数据而 blocked，但检索结果中已有 chunk 提及 'Clarksville located 45 miles northwest of Nashville'。直接查询两地间的距离比获取坐标更可行，且能直接回答 Q 的核心需求",
+          "solver_judgment": "question 要求提供从 Nashville 到 Clarksville, Tennessee 的英里距离。search_query 搜索了 'distance in miles from Nashville to Clarksville, Tennessee'。chunks 返回了多个包含相同信息的片段（如 f928d974-12eb-4692-8fd5-e72ceac11c6d），其中明确记载 \"Clarksville is some 45 miles (72 km) northwest of Nashville\"。这直接回答了问题，检索精准且信息完整。",
+          "critic_factual_notes": "5 个支撑 chunk 均来自同一文档（Tennessee），但内容高度一致且重复出现（不同 chunk ID 但全文相同或极相似）。核心事实 'Clarksville is some 45 miles (72 km) northwest of Nashville' 在所有支撑 chunk 中明确陈述。虽然来源独立性较弱（仅 1 个文档），但证据直接、具体且无矛盾，足以支撑 '45 miles' 这一答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，直接回答了距离问题。",
+          "round_created": 2,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N3_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N3_1",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（地点确认、距离查询）已确立且健康，等待最终答案聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，N1_1 确立了地点为 'Clarksville, Tennessee'，N3_1 确立了距离为 '45 miles'。两条路径（N0→N1_1→N3_1 和 N0→N3_1）在语义上连贯，且所有叶子节点均已 solved 且 healthy。虽然 N0 自身 status 为 unsolved（等待最终答案生成），但从审查角度看，支撑最终答案所需的所有事实证据已完备且一致。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据充分，推理链完整，可进入最终答案生成阶段。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where does Hemlock Semiconductor produce electronic components?",
+          "answer": "Clarksville, Tennessee",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where does Hemlock Semiconductor produce electronic components?",
+          "planner_rationale": "已确立 Hemlock Semiconductor 的生产地点为 Clarksville, Tennessee。证据充分（Tennessee 文档明确提及 polysilicon facility），Critic 判定 healthy。这是计算距离的关键前提。",
+          "solver_judgment": "question 要求找出 Hemlock Semiconductor 生产电子元件的地点。search_query 搜索了 'Where does Hemlock Semiconductor produce electronic components?'。chunks 返回了关于 Hemlock Semiconductor 的信息，其中 chunk_8206e5f5-7822-420d-af30-8f5fe4429c8b 明确指出 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville' 且该设施位于 Tennessee。虽然多晶硅（polysilicon）是半导体制造的关键原材料而非最终的“电子元件”（如芯片或晶体管），但在检索结果的语境下，这是唯一提到的 Hemlock Semiconductor 的生产设施地点。因此，提取 Clarksville, Tennessee 作为答案。检索精准命中了公司及其生产设施位置，尽管产品术语存在细微差异（原材料 vs 组件），但地理位置信息是直接可用的。",
+          "critic_factual_notes": "1 个独立来源（Tennessee 文档 chunk_8206e5f5...）直接陈述 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville'。虽然问题询问的是 'electronic components' 而 chunk 提到的是 'polysilicon'（多晶硅，半导体原材料），但在缺乏其他更精确匹配的生产设施信息的情况下，这是 KB 中唯一指向 Hemlock Semiconductor 生产地点的证据。Solver 的判断合理，证据直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N3_1": {
+          "id": "N3_1",
+          "question": "What is the distance in miles from Nashville to Clarksville, Tennessee?",
+          "answer": "45 miles",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "distance in miles from Nashville to Clarksville, Tennessee",
+          "planner_rationale": "已确立 Nashville 到 Clarksville, Tennessee 的距离为 45 miles。证据直接（多个 chunk 陈述 '45 miles northwest'），Critic 判定 healthy。此节点直接回答了 Q 的核心数值需求。",
+          "solver_judgment": "question 要求提供从 Nashville 到 Clarksville, Tennessee 的英里距离。search_query 搜索了 'distance in miles from Nashville to Clarksville, Tennessee'。chunks 返回了多个包含相同信息的片段（如 f928d974-12eb-4692-8fd5-e72ceac11c6d），其中明确记载 \"Clarksville is some 45 miles (72 km) northwest of Nashville\"。这直接回答了问题，检索精准且信息完整。",
+          "critic_factual_notes": "5 个支撑 chunk 均来自同一文档（Tennessee），但内容高度一致且重复出现（不同 chunk ID 但全文相同或极相似）。核心事实 'Clarksville is some 45 miles (72 km) northwest of Nashville' 在所有支撑 chunk 中明确陈述。虽然来源独立性较弱（仅 1 个文档），但证据直接、具体且无矛盾，足以支撑 '45 miles' 这一答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，直接回答了距离问题。",
+          "round_created": 2,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N3_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N3_1",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。所有子事实（地点确认、距离查询）已确立且健康，等待最终答案聚合。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点本身不产生证据，其健康状态依赖于子节点推理链的完整性。当前 DAG 中，N1_1 确立了地点为 'Clarksville, Tennessee'，N3_1 确立了距离为 '45 miles'。两条路径（N0→N1_1→N3_1 和 N0→N3_1）在语义上连贯，且所有叶子节点均已 solved 且 healthy。虽然 N0 自身 status 为 unsolved（等待最终答案生成），但从审查角度看，支撑最终答案所需的所有事实证据已完备且一致。",
+          "critic_normative_advice": "建议 INHERIT——所有子节点证据充分，推理链完整，可进入最终答案生成阶段。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where does Hemlock Semiconductor produce electronic components?",
+          "answer": "Clarksville, Tennessee",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where does Hemlock Semiconductor produce electronic components?",
+          "planner_rationale": "已确立 Hemlock Semiconductor 的生产地点为 Clarksville, Tennessee。证据充分，Critic 判定 healthy。这是计算距离的关键前提。",
+          "solver_judgment": "question 要求找出 Hemlock Semiconductor 生产电子元件的地点。search_query 搜索了 'Where does Hemlock Semiconductor produce electronic components?'。chunks 返回了关于 Hemlock Semiconductor 的信息，其中 chunk_8206e5f5-7822-420d-af30-8f5fe4429c8b 明确指出 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville' 且该设施位于 Tennessee。虽然多晶硅（polysilicon）是半导体制造的关键原材料而非最终的“电子元件”（如芯片或晶体管），但在检索结果的语境下，这是唯一提到的 Hemlock Semiconductor 的生产设施地点。因此，提取 Clarksville, Tennessee 作为答案。检索精准命中了公司及其生产设施位置，尽管产品术语存在细微差异（原材料 vs 组件），但地理位置信息是直接可用的。",
+          "critic_factual_notes": "1 个独立来源（Tennessee 文档 chunk_8206e5f5...）直接陈述 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville'。虽然问题询问的是 'electronic components' 而 chunk 提到的是 'polysilicon'（多晶硅，半导体原材料），但在缺乏其他更精确匹配的生产设施信息的情况下，这是 KB 中唯一指向 Hemlock Semiconductor 生产地点的证据。Solver 的判断合理，证据直接且具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案可靠。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N3_1": {
+          "id": "N3_1",
+          "question": "What is the distance in miles from Nashville to Clarksville, Tennessee?",
+          "answer": "45 miles",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "distance in miles from Nashville to Clarksville, Tennessee",
+          "planner_rationale": "已确立 Nashville 到 Clarksville, Tennessee 的距离为 45 miles。证据直接，Critic 判定 healthy。此节点直接回答了 Q 的核心数值需求。",
+          "solver_judgment": "question 要求提供从 Nashville 到 Clarksville, Tennessee 的英里距离。search_query 搜索了 'distance in miles from Nashville to Clarksville, Tennessee'。chunks 返回了多个包含相同信息的片段（如 f928d974-12eb-4692-8fd5-e72ceac11c6d），其中明确记载 \"Clarksville is some 45 miles (72 km) northwest of Nashville\"。这直接回答了问题，检索精准且信息完整。",
+          "critic_factual_notes": "5 个支撑 chunk 均来自同一文档（Tennessee），但内容高度一致且重复出现（不同 chunk ID 但全文相同或极相似）。核心事实 'Clarksville is some 45 miles (72 km) northwest of Nashville' 在所有支撑 chunk 中明确陈述。虽然来源独立性较弱（仅 1 个文档），但证据直接、具体且无矛盾，足以支撑 '45 miles' 这一答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，直接回答了距离问题。",
+          "round_created": 2,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N3_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N3_1",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Where does Hemlock Semiconductor produce electronic components?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8206e5f5-7822-420d-af30-8f5fe4429c8b",
+        "003c01bf-e844-4cc8-83b5-151a26b32531",
+        "10f815ae-7f42-482f-a1d9-1ca6cb6b5128",
+        "5f6ec7aa-31ef-44e9-bc11-124d14d1fcd9",
+        "6380ed82-2990-4b0e-8192-9fcf6585653c",
+        "36824d47-4379-4f81-9148-f216523d3bb0",
+        "b58747f4-748d-4a0f-b150-0c4a2b64fc53",
+        "4edf3fed-ee61-4e0c-8ba9-b289d649ac46"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What are the geographic coordinates of Nashville, Tennessee?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "af6d53e3-32ec-4f13-b2c6-844a83bc4b59",
+        "fa2a5685-1d66-413e-a804-509d8f64fcc8",
+        "da4332e2-7a06-44ed-be92-1c2ba90ed9de",
+        "919a9717-6c32-4331-a2af-cd85451a3845",
+        "0cee2840-96f6-4eca-a783-2a07d00d2b6d",
+        "1546c0f2-867d-4aba-87cd-ce623881d341",
+        "736c8997-73e6-4023-9194-051978435ac5",
+        "557680f3-6ca5-4595-ad24-f3f937d5edaf"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "geographic coordinates of Hemlock Semiconductor facility in Clarksville, Tennessee",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "8206e5f5-7822-420d-af30-8f5fe4429c8b",
+        "cb9bfe85-f70a-4393-88e1-bbf177c6bb11",
+        "d46f2153-f6bc-4d94-b337-e3991a4a8f93",
+        "aaa88f9c-fc2b-4c0c-a63a-151a7493fcbf",
+        "a071b195-38b1-4477-a6ae-32d64b541408",
+        "003c01bf-e844-4cc8-83b5-151a26b32531",
+        "c31b6d71-d92f-48e9-ab31-6411e696162c",
+        "f928d974-12eb-4692-8fd5-e72ceac11c6d"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "distance in miles from Nashville to Clarksville, Tennessee",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+        "269802a0-3a31-43b5-8eaf-ebce433f7de0",
+        "455a9a66-7694-446b-9d67-4a3731d5ef70",
+        "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+        "0758ecb6-892e-4c38-a928-f4c834023484",
+        "a56a92ec-1006-440a-a6f0-99699906dd47",
+        "cb9bfe85-f70a-4393-88e1-bbf177c6bb11",
+        "d46f2153-f6bc-4d94-b337-e3991a4a8f93"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 3,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where does Hemlock Semiconductor produce electronic components?（理由：Q 的核心是计算到该地点的距离，必须先识别该地点），F2: What are the geographic coordinates of Nashville, Tennessee?（理由：计算距离需要起点坐标），F3: What are the geographic coordinates of the place where Hemlock Semiconductor produces electronic components?（理由：计算距离需要终点坐标）。关系: F1 是 F3 的前置条件（dependency——F3 的 question 中 \"the place\" 指代 F1 的答案），F1、F2、F3 都是 Q 的分解产物（decomposition），因为 Q 的最终答案依赖于这三个信息的综合（识别地点、获取两点坐标、计算距离）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将问题拆解为识别目标地点、获取起点坐标、获取终点坐标三个步骤。其中获取终点坐标依赖于先识别目标地点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 和 N1_3 处于 blocked 状态（无坐标数据），N0 为 needs_verification。推理链语义有效（条件②通过），但证据不足，无法生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": false,
+      "planner_revisions": 0,
+      "search_calls": 0
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where does Hemlock Semiconductor produce electronic components? (已确认为 Clarksville, TN), F2: What is the distance in miles from Nashville to Clarksville, Tennessee? (直接获取两地距离)。关系: F1 是 Q 的分解产物 (decomposition)，F2 也是 Q 的分解产物 (decomposition)。同时，F1 是 F2 的前置条件 (dependency)，因为 F2 的查询依赖于 F1 确认的具体地点名称 \"Clarksville\" 来构建精确的距离查询。",
+      "hypothesis_delta": "新增: $1 (question=\"What is the distance in miles from Nashville to Clarksville, Tennessee?\")，原因：Critic 指出原坐标路径（N1_2/N1_3）因 KB 缺乏经纬度数据而 blocked，但发现 KB 中存在相对距离描述。改为直接查询距离更高效且可行。\n删除: N1_2 和 N1_3，原因：KB 无坐标数据，且新策略不再需要坐标进行计算。\n保留边: N0→N1_1 (decomposition)，原因：N1_1 是 Q 的直接分解步骤（识别地点）。\n新增边: N0→$1 (decomposition)，原因：$1 直接回答 Q 的核心距离问题。\n新增边: N1_1→$1 (dependency)，原因：$1 的查询依赖于 N1_1 确认的目标地点名称 \"Clarksville, Tennessee\" 来构建精确查询。\n撤销边: N0→N1_2, N0→N1_3, N1_1→N1_3：随节点删除或显式声明删除。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（新增 N3_1，删除 N1_2/N1_1 等）。虽然条件①（所有非根节点 SOLVED）、条件②（推理链语义匹配）和条件③（全部节点 healthy）均已满足，但根据终止规则，必须同时满足条件④（拓扑稳定/无变化）才能终止。因此，需再运行一轮以确认拓扑不再变化。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where does Hemlock Semiconductor produce electronic components? (已确认为 Clarksville, Tennessee)，F2: What is the distance in miles from Nashville to Clarksville, Tennessee? (已确认为 45 miles)。关系: F1 是 Q 的分解产物 (decomposition)，F2 也是 Q 的分解产物 (decomposition)。同时，F1 是 F2 的前置条件 (dependency)，因为 F2 的具体查询依赖于 F1 确认的目标地点名称 \"Clarksville\" 来构建精确的距离查询。当前 DAG 中所有节点均已 SOLVED 且 HEALTHY，推理链完整，无需新增或修改结构。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 (N0, N1_1, N3_1) 均通过 INHERIT 保留，所有边 (N0→N1_1, N0→N3_1, N1_1→N3_1) 均通过 LINK 显式声明保留。原因：Critic 确认当前 DAG 完美覆盖 Q 的语义需求，所有子节点证据充分且健康，依赖关系有效。上一轮从“坐标计算路径”调整为“直接距离查询路径”的策略已被验证成功，无需进一步修正。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 答案有效支撑 N3_1 查询）；③ 所有节点（含 ROOT）审查结果为 healthy；④ 拓扑连续两轮无变化。DAG 结构稳定，证据充分，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where does Hemlock Semiconductor produce electronic components? (已确认为 Clarksville, Tennessee)，F2: What is the distance in miles from Nashville to Clarksville, Tennessee? (已确认为 45 miles)。关系: F1 是 Q 的分解产物 (decomposition)，F2 也是 Q 的分解产物 (decomposition)。同时，F1 是 F2 的前置条件 (dependency)，因为 F2 的具体查询依赖于 F1 确认的目标地点名称 \"Clarksville\" 来构建精确的距离查询。当前 DAG 中所有节点均已 SOLVED 且 HEALTHY，推理链完整，无需新增或修改结构。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 (N0, N1_1, N3_1) 均通过 INHERIT 保留，所有边 (N0→N1_1, N0→N3_1, N1_1→N3_1) 均通过 LINK 显式声明保留。原因：Critic 确认当前 DAG 完美覆盖 Q 的语义需求，所有子节点证据充分且健康，依赖关系有效。上一轮从“坐标计算路径”调整为“直接距离查询路径”的策略已被验证成功，无需进一步修正。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 答案有效支撑 N3_1 查询）；③ 所有节点（含 ROOT）Health 均为 healthy；④ 拓扑连续稳定（本轮无变化，结合 Planner 声明的稳定性，判定为收敛）。答案置信度高，可终止探索。"
+      }
+    }
+  ]
+}

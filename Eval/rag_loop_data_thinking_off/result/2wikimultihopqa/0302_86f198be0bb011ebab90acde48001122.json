@@ -1,0 +1,408 @@
+{
+  "question_index": 302,
+  "question_id": "86f198be0bb011ebab90acde48001122",
+  "question": "Who is the father of James I, Count Of Urgell?",
+  "answer": "Alfonso IV of Aragon",
+  "prediction": "Alfonso IV, King of Aragon",
+  "error": null,
+  "latency_ms": 157718.41670002323,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T20:13:57.091048+00:00",
+  "chunks": [
+    {
+      "chunk_id": "f24313a1-d052-48a7-acfb-3aa39e2571f3",
+      "chunk_title": "James I of Urgell Biography",
+      "chunk_summary": "This chunk contains biographical details and lineage information about James I, Count of Urgell, including his birth, death, parents, and title.",
+      "context_title": "James I, Count of Urgell",
+      "page_content": "James I was born in 1321. James I was the eighteenth Count of Urgell. James I died on 15 November 1347. James I was the fourth son of Alfonso IV. James I was the fourth son of Teresa d' Entença& Cabrera."
+    },
+    {
+      "chunk_id": "a9b9d46a-f5c0-4a1d-b11d-731ad8b7298d",
+      "chunk_title": "James I Biography",
+      "chunk_summary": "This chunk contains biographical details about James I, Count of Urgell, including his noble titles, birth and death dates, and family lineage.",
+      "context_title": "James I, Count of Urgell",
+      "page_content": "James I was the fourth son of Teresa d'Entença & Cabrera. Teresa d'Entença & Cabrera was the 17th Countess of Urgell. James I was the eighteenth Count of Urgell. Alfonso IV was King of Aragon. James I was born in 1321. James I died on 15 November 1347. James I was the fourth son of Alfonso IV."
+    },
+    {
+      "chunk_id": "2cda4c58-2f1e-491f-8383-fc306d7334cf",
+      "chunk_title": "Ponce I's Tenure & Lineage",
+      "chunk_summary": "This chunk contains information about the historical tenure, family lineage, death, and additional titles held by Ponce I as Count of Urgell in Catalonia.",
+      "context_title": "Ponce I, Count of Urgell",
+      "page_content": "Ponce I died in 1243. Ponce I was succeeded as Count by his two sons. Ponce I was the first Count of Urgell from the Cabrera family. Ponce I held the Viscounty of Àger. Ponce I was Count of Urgell in Catalonia. Ponce I was Count of Urgell from 1236 until his death. Ponce I was Count of Urgell."
+    },
+    {
+      "chunk_id": "366bae69-8c45-45b3-ac6e-153df280374a",
+      "chunk_title": "Noble Titles & Succession",
+      "chunk_summary": "This chunk contains information about the titles, alternative names, and succession of historical figures, specifically focusing on John of Bourbon and the Counts of La Marche.",
+      "context_title": "John I, Count of La Marche",
+      "page_content": "James I was the Count of La Marche. John of Bourbon was also known as John I, Count of La Marche. John of Bourbon was also known as John VII, Count of Vendôme."
+    },
+    {
+      "chunk_id": "6b5913e8-faff-4ee4-b442-2afb1654f111",
+      "chunk_title": "Historical Titles & Reigns",
+      "chunk_summary": "This chunk contains information about the titles held by historical figures and the dates of their reigns.",
+      "context_title": "James I, Count of La Marche",
+      "page_content": "James I of Bourbon was Count of La Marche from 1341 to his death. James I of Bourbon was Count of Ponthieu from 1351 to 1360."
+    },
+    {
+      "chunk_id": "2615fe7b-e311-4138-9335-52f3f3485a55",
+      "chunk_title": "Ermengol IX Life & Succession",
+      "chunk_summary": "This chunk contains information about the life, family relationships, and succession of medieval Catalan nobleman Ermengol IX, Count of Urgell.",
+      "context_title": "Ermengol IX, Count of Urgell",
+      "page_content": "Ermengol IX died in 1243. Ermengol IX succeeded as Count of Urgell after the death of Ponce I of Urgell. Ponce I of Urgell was the father of Ermengol IX. Ermengol IX died during the same year that Ermengol IX succeeded as Count of Urgell. Ermengol IX was the son of María Girón. Ermengol IX was the son of Ponce I of Urgell. Ermengol IX was buried in an unspecified location. Ermengol IX was the only Count of Urgell to die during his early years. Ermengol IX was a medieval Catalan nobleman. Ponce I of Urgell died in 1243. Ermengol IX was eight years old when Ponce I of Urgell died."
+    },
+    {
+      "chunk_id": "d2f688fe-c788-40d0-a87f-5cb5ba135d74",
+      "chunk_title": "Ermengol III Biography",
+      "chunk_summary": "This chunk contains biographical details about Ermengol III, Count of Urgell, including his lifespan, reign, and family lineage.",
+      "context_title": "Ermengol III, Count of Urgell",
+      "page_content": "Ermengol III was the count of Urgell from 1038 to his death. Ermengol III's mother was Velasquita \"Constance\". Velasquita \"Constance\" was probably the daughter of Bernard I, Count of Besalú. Ermengol III lived from 1032 to 1065. Ermengol III was the son of Ermengol II, Count of Urgell."
+    },
+    {
+      "chunk_id": "0a52c22b-4520-4ff3-80dc-42a4e793feba",
+      "chunk_title": "Lineage & Family",
+      "chunk_summary": "This chunk contains information about the lineage and family relationships of historical figures, specifically detailing the parentage of John of Bourbon.",
+      "context_title": "John I, Count of La Marche",
+      "page_content": "John of Bourbon was the second son of James I, Count of La Marche. John of Bourbon was the second son of Jeanne of Châtillon."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.857143,
+  "precision": 0.75,
+  "recall": 1.0,
+  "context_recall": 0.5,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.25,
+  "retrieval_count": 1,
+  "total_chunks": 8,
+  "total_distinct_titles": 6,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 2,
+  "dag_edges": 1,
+  "dag_snapshots": [
+    {
+      "q": "Who is the father of James I, Count Of Urgell?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is the father of James I, Count Of Urgell?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 James I, Count of Urgell 的父亲是谁",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未合成最终答案。其子节点 N1_1 已 solved，且 N1_1 的 answer 中明确包含 'He was the fourth son of Alfonso IV, King of Aragon'。虽然证据存在于子节点，但 ROOT 节点本身状态为 unsolved，且未显式提取出父亲的名字作为最终结论，因此标记为 needs_verification 等待最终答案生成或确认。",
+          "critic_normative_advice": "建议基于 N1_1 的答案直接合成 ROOT 答案。N1_1 已提供充分证据表明父亲是 Alfonso IV。无需额外搜索，只需将推理结果填入 ROOT。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is James I, Count of Urgell?",
+          "answer": "James I, Count of Urgell was the eighteenth Count of Urgell, born in 1321 and died on 15 November 1347. He was the fourth son of Alfonso IV, King of Aragon, and Teresa d'Entença & Cabrera.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is James I, Count of Urgell?",
+          "planner_rationale": "需要首先确认 James I, Count of Urgell 的具体身份和历史背景，以便准确查找其父亲。这是一个实体消歧和背景确认的步骤。",
+          "solver_judgment": "question 要求介绍 James I, Count of Urgell 的身份。search_query 直接搜索了该人物的全名。chunks 中的 f24313a1-d052-48a7-acfb-3aa39e2571f3 和 a9b9d46a-f5c0-4a1d-b11d-731ad8b7298d 均提供了关于 James I, Count of Urgell 的详细传记信息，包括他是第十八任 Urgell 伯爵（eighteenth Count of Urgell），生于 1321 年，卒于 1347 年 11 月 15 日，以及他是阿拉贡国王 Alfonso IV 和 Teresa d'Entença & Cabrera 的第四子。检索结果精准命中目标人物并提供了完整的身份定义，信息充足。",
+          "critic_factual_notes": "2 个独立来源（文档 'James I, Count of Urgell' 下的两个不同 chunk）一致支持答案。Chunk f24313a1... 明确陈述 'James I was the fourth son of Alfonso IV'。Chunk a9b9d46a... 同样陈述 'James I was the fourth son of Alfonso IV'。来源独立且内容一致，直接具体地回答了身份及父系关系。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，事实清晰。该节点不仅回答了 'Who is James I'，还额外提供了父亲的信息，实际上已经覆盖了 Q 的核心需求。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who is the father of James I, Count Of Urgell?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is the father of James I, Count Of Urgell?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已提供充分证据（James I is the fourth son of Alfonso IV），本轮将基于此合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved，尚未显式合成最终答案。其唯一子节点 N1_1 已 solved，且 N1_1 的 answer 中明确包含 'He was the fourth son of Alfonso IV, King of Aragon'。虽然证据存在于子节点，但 ROOT 节点本身未提取出父亲的名字作为最终结论，因此标记为 needs_verification 等待最终答案生成或确认。",
+          "critic_normative_advice": "建议基于 N1_1 的答案直接合成 ROOT 答案。N1_1 已提供充分证据表明父亲是 Alfonso IV。无需额外搜索，只需将推理结果填入 ROOT。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is James I, Count of Urgell?",
+          "answer": "James I, Count of Urgell was the eighteenth Count of Urgell, born in 1321 and died on 15 November 1347. He was the fourth son of Alfonso IV, King of Aragon, and Teresa d'Entença & Cabrera.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is James I, Count of Urgell?",
+          "planner_rationale": "该节点已 SOLVED 且健康。其 answer 中明确包含父亲是 Alfonso IV 的信息，直接回答了 Q 的核心需求。保留此节点作为 ROOT 答案的证据来源。",
+          "solver_judgment": "question 要求介绍 James I, Count of Urgell 的身份。search_query 直接搜索了该人物的全名。chunks 中的 f24313a1-d052-48a7-acfb-3aa39e2571f3 和 a9b9d46a-f5c0-4a1d-b11d-731ad8b7298d 均提供了关于 James I, Count of Urgell 的详细传记信息，包括他是第十八任 Urgell 伯爵（eighteenth Count of Urgell），生于 1321 年，卒于 1347 年 11 月 15 日，以及他是阿拉贡国王 Alfonso IV 和 Teresa d'Entença & Cabrera 的第四子。检索结果精准命中目标人物并提供了完整的身份定义，信息充足。",
+          "critic_factual_notes": "2 个独立来源（文档 'James I, Count of Urgell' 下的两个不同 chunk f24313a1... 和 a9b9d46a...）一致支持答案。Chunk f24313a1... 明确陈述 'James I was the fourth son of Alfonso IV'。Chunk a9b9d46a... 同样陈述 'James I was the fourth son of Alfonso IV'。来源独立且内容一致，直接具体地回答了身份及父系关系。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，事实清晰。该节点不仅回答了 'Who is James I'，还额外提供了父亲的信息，实际上已经覆盖了 Q 的核心需求。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who is the father of James I, Count Of Urgell?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is the father of James I, Count Of Urgell?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已提供充分证据（James I is the fourth son of Alfonso IV），本轮将基于此合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved，尚未显式合成最终答案。其唯一子节点 N1_1 已 solved，且 N1_1 的 answer 中明确包含 'He was the fourth son of Alfonso IV, King of Aragon'。虽然证据存在于子节点，但 ROOT 节点本身未提取出父亲的名字作为最终结论，因此标记为 needs_verification 等待最终答案生成或确认。",
+          "critic_normative_advice": "建议基于 N1_1 的答案直接合成 ROOT 答案。N1_1 已提供充分证据表明父亲是 Alfonso IV。无需额外搜索，只需将推理结果填入 ROOT。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is James I, Count of Urgell?",
+          "answer": "James I, Count of Urgell was the eighteenth Count of Urgell, born in 1321 and died on 15 November 1347. He was the fourth son of Alfonso IV, King of Aragon, and Teresa d'Entença & Cabrera.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is James I, Count of Urgell?",
+          "planner_rationale": "该节点已 SOLVED 且健康。其 answer 中明确包含父亲是 Alfonso IV 的信息，直接回答了 Q 的核心需求。保留此节点作为 ROOT 答案的证据来源。",
+          "solver_judgment": "question 要求介绍 James I, Count of Urgell 的身份。search_query 直接搜索了该人物的全名。chunks 中的 f24313a1-d052-48a7-acfb-3aa39e2571f3 和 a9b9d46a-f5c0-4a1d-b11d-731ad8b7298d 均提供了关于 James I, Count of Urgell 的详细传记信息，包括他是第十八任 Urgell 伯爵（eighteenth Count of Urgell），生于 1321 年，卒于 1347 年 11 月 15 日，以及他是阿拉贡国王 Alfonso IV 和 Teresa d'Entença & Cabrera 的第四子。检索结果精准命中目标人物并提供了完整的身份定义，信息充足。",
+          "critic_factual_notes": "2 个独立来源（文档 'James I, Count of Urgell' 下的两个不同 chunk f24313a1... 和 a9b9d46a...）一致支持答案。Chunk f24313a1... 明确陈述 'James I was the fourth son of Alfonso IV'。Chunk a9b9d46a... 同样陈述 'James I was the fourth son of Alfonso IV'。来源独立且内容一致，直接具体地回答了身份及父系关系。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，事实清晰。该节点不仅回答了 'Who is James I'，还额外提供了父亲的信息，实际上已经覆盖了 Q 的核心需求。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who is the father of James I, Count Of Urgell?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is the father of James I, Count Of Urgell?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已提供充分证据（James I is the fourth son of Alfonso IV），本轮将基于此合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved，尚未显式合成最终答案。其唯一子节点 N1_1 已 solved，且 N1_1 的 answer 中明确包含 'He was the fourth son of Alfonso IV, King of Aragon'。虽然证据存在于子节点，但 ROOT 节点本身未提取出父亲的名字作为最终结论，因此标记为 needs_verification 等待最终答案生成或确认。",
+          "critic_normative_advice": "建议基于 N1_1 的答案直接合成 ROOT 答案。N1_1 已提供充分证据表明父亲是 Alfonso IV。无需额外搜索，只需将推理结果填入 ROOT。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is James I, Count of Urgell?",
+          "answer": "James I, Count of Urgell was the eighteenth Count of Urgell, born in 1321 and died on 15 November 1347. He was the fourth son of Alfonso IV, King of Aragon, and Teresa d'Entença & Cabrera.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is James I, Count of Urgell?",
+          "planner_rationale": "该节点已 SOLVED 且健康。其 answer 中明确包含父亲是 Alfonso IV 的信息，直接回答了 Q 的核心需求。保留此节点作为 ROOT 答案的证据来源。",
+          "solver_judgment": "question 要求介绍 James I, Count of Urgell 的身份。search_query 直接搜索了该人物的全名。chunks 中的 f24313a1-d052-48a7-acfb-3aa39e2571f3 和 a9b9d46a-f5c0-4a1d-b11d-731ad8b7298d 均提供了关于 James I, Count of Urgell 的详细传记信息，包括他是第十八任 Urgell 伯爵（eighteenth Count of Urgell），生于 1321 年，卒于 1347 年 11 月 15 日，以及他是阿拉贡国王 Alfonso IV 和 Teresa d'Entença & Cabrera 的第四子。检索结果精准命中目标人物并提供了完整的身份定义，信息充足。",
+          "critic_factual_notes": "2 个独立来源（文档 'James I, Count of Urgell' 下的两个不同 chunk f24313a1... 和 a9b9d46a...）一致支持答案。Chunk f24313a1... 明确陈述 'James I was the fourth son of Alfonso IV'。Chunk a9b9d46a... 同样陈述 'James I was the fourth son of Alfonso IV'。来源独立且内容一致，直接具体地回答了身份及父系关系。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，事实清晰。该节点不仅回答了 'Who is James I'，还额外提供了父亲的信息，实际上已经覆盖了 Q 的核心需求。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "Who is the father of James I, Count Of Urgell?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Who is the father of James I, Count Of Urgell?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已提供充分证据（James I is the fourth son of Alfonso IV），本轮将基于此合成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点状态为 unsolved，尚未显式合成最终答案。其唯一子节点 N1_1 已 solved，且 N1_1 的 answer 中明确包含 'He was the fourth son of Alfonso IV, King of Aragon'。虽然证据存在于子节点，但 ROOT 节点本身未提取出父亲的名字作为最终结论，因此标记为 needs_verification 等待最终答案生成或确认。",
+          "critic_normative_advice": "建议基于 N1_1 的答案直接合成 ROOT 答案。N1_1 已提供充分证据表明父亲是 Alfonso IV。无需额外搜索，只需将推理结果填入 ROOT。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is James I, Count of Urgell?",
+          "answer": "James I, Count of Urgell was the eighteenth Count of Urgell, born in 1321 and died on 15 November 1347. He was the fourth son of Alfonso IV, King of Aragon, and Teresa d'Entença & Cabrera.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is James I, Count of Urgell?",
+          "planner_rationale": "该节点已 SOLVED 且健康。其 answer 中明确包含父亲是 Alfonso IV 的信息，直接回答了 Q 的核心需求。保留此节点作为 ROOT 答案的证据来源。",
+          "solver_judgment": "question 要求介绍 James I, Count of Urgell 的身份。search_query 直接搜索了该人物的全名。chunks 中的 f24313a1-d052-48a7-acfb-3aa39e2571f3 和 a9b9d46a-f5c0-4a1d-b11d-731ad8b7298d 均提供了关于 James I, Count of Urgell 的详细传记信息，包括他是第十八任 Urgell 伯爵（eighteenth Count of Urgell），生于 1321 年，卒于 1347 年 11 月 15 日，以及他是阿拉贡国王 Alfonso IV 和 Teresa d'Entença & Cabrera 的第四子。检索结果精准命中目标人物并提供了完整的身份定义，信息充足。",
+          "critic_factual_notes": "2 个独立来源（文档 'James I, Count of Urgell' 下的两个不同 chunk f24313a1... 和 a9b9d46a...）一致支持答案。Chunk f24313a1... 明确陈述 'James I was the fourth son of Alfonso IV'。Chunk a9b9d46a... 同样陈述 'James I was the fourth son of Alfonso IV'。来源独立且内容一致，直接具体地回答了身份及父系关系。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，事实清晰。该节点不仅回答了 'Who is James I'，还额外提供了父亲的信息，实际上已经覆盖了 Q 的核心需求。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is James I, Count of Urgell?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "f24313a1-d052-48a7-acfb-3aa39e2571f3",
+        "a9b9d46a-f5c0-4a1d-b11d-731ad8b7298d",
+        "2cda4c58-2f1e-491f-8383-fc306d7334cf",
+        "366bae69-8c45-45b3-ac6e-153df280374a",
+        "6b5913e8-faff-4ee4-b442-2afb1654f111",
+        "2615fe7b-e311-4138-9335-52f3f3485a55",
+        "d2f688fe-c788-40d0-a87f-5cb5ba135d74",
+        "0a52c22b-4520-4ff3-80dc-42a4e793feba"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is James I, Count of Urgell?（理由：在查找某人的父亲之前，先明确该人的具体身份和历史时期有助于提高搜索的准确性，避免同名混淆），F2: Who is the father of James I, Count of Urgell?（理由：这是 Q 的核心问题）。关系: F1 是 F2 的背景上下文（decomposition），即先了解 James I 是谁，再基于此信息查找其父亲。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：先确认主体身份，再查询亲属关系。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（因为它是 unsolved 状态，尚未显式生成最终答案字符串）。虽然 N1_1 健康且证据充分，但系统要求所有节点（包括 ROOT）在终止前达到 healthy 状态，通常意味着 ROOT 需要被标记为 solved 或其答案已被正式合成。此外，严格来说，Planner 声明的 F2 节点"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is James I, Count of Urgell?（理由：确认主体身份，同时其传记信息中已包含父系关系）。关系: F1 是 Q 的分解产物（decomposition）。由于 F1 的搜索结果意外地直接包含了父亲的名字（Alfonso IV），无需新增专门的 F2 搜索节点。DAG 结构保持为 N0 → N1_1，通过 N1_1 的答案即可推导并填充 N0 的最终答案。",
+      "hypothesis_delta": "修正：上一轮输出遗漏了对现有边 N0→N1_1 的显式 LINK 声明。虽然意图是保留该结构，但系统要求显式列出所有保留的边或声明删除。本轮显式声明 LINK N0→N1_1 (decomposition) 以维持 DAG 连通性。无其他结构变更，因为 N1_1 已完全覆盖 Q 的语义需求，实现提前收敛。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（因为 status=unsolved 且未显式合成最终答案）。虽然子节点 N1_1 证据充分且推理链语义有效（条件②通过），但系统要求所有节点（包括 ROOT）均为 healthy 才能终止。建议下一步由答案生成器基于 N1_1 的内容填充 N0 的 answer，或将 N0 标记为 so"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is James I, Count of Urgell?（理由：确认主体身份，同时其传记信息中已包含父系关系）。关系: F1 是 Q 的分解产物（decomposition）。由于 F1 的搜索结果意外地直接包含了父亲的名字（Alfonso IV），无需新增专门的 F2 搜索节点。DAG 结构保持为 N0 → N1_1，通过 N1_1 的答案即可推导并填充 N0 的最终答案。",
+      "hypothesis_delta": "本轮无结构变更。N1_1 已完全覆盖 Q 的语义需求，实现提前收敛。显式声明 LINK N0→N1_1 (decomposition) 以维持 DAG 连通性，并 INHERIT 两个节点以保留其状态和证据。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（因为 status=unsolved 且未显式合成最终答案）。虽然子节点 N1_1 健康且证据充分，但系统要求所有节点（包括 ROOT）均为 healthy 才能终止。建议在下轮由答案生成器填充 N0 的答案，或将 N0 标记为 solved/healthy。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is James I, Count of Urgell?（理由：确认主体身份，同时其传记信息中已包含父系关系）。关系: F1 是 Q 的分解产物（decomposition）。由于 F1 的搜索结果意外地直接包含了父亲的名字（Alfonso IV），无需新增专门的 F2 搜索节点。DAG 结构保持为 N0 → N1_1，通过 N1_1 的答案即可推导并填充 N0 的最终答案。",
+      "hypothesis_delta": "本轮无结构变更。N1_1 已完全覆盖 Q 的语义需求，实现提前收敛。显式声明 LINK N0→N1_1 (decomposition) 以维持 DAG 连通性，并 INHERIT 两个节点以保留其状态和证据。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification。虽然子节点 N1_1 证据充分且健康，但 ROOT 节点本身状态为 unsolved 且未显式合成最终答案（answer 为空）。根据规则，所有节点（包括 ROOT）必须为 healthy 才能终止。建议系统或答案生成器基于 N1_1 的证据填充 N0 的 answer 为 'Alfons"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is James I, Count of Urgell?（理由：确认主体身份，同时其传记信息中已包含父系关系）。关系: F1 是 Q 的分解产物（decomposition）。由于 F1 的搜索结果意外地直接包含了父亲的名字（Alfonso IV），无需新增专门的 F2 搜索节点。DAG 结构保持为 N0 → N1_1，通过 N1_1 的答案即可推导并填充 N0 的最终答案。",
+      "hypothesis_delta": "本轮无结构变更。N1_1 已完全覆盖 Q 的语义需求，实现提前收敛。显式声明 LINK N0→N1_1 (decomposition) 以维持 DAG 连通性，并 INHERIT 两个节点以保留其状态和证据。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：ROOT 节点 N0 的 critic_health 为 needs_verification（状态 unsolved，未显式合成最终答案）。虽然子节点 N1_1 证据充分且健康，但 ROOT 节点尚未完成最终答案的提取/合成步骤，导致整体 DAG 未达到全 healthy 状态。需等待答案生成器将 N1_1 的证据聚合到 N0。"
+      }
+    }
+  ]
+}

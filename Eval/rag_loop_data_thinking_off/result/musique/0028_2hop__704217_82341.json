@@ -1,0 +1,488 @@
+{
+  "question_index": 28,
+  "question_id": "2hop__704217_82341",
+  "question": "Where is Sean Hampton's birth place in the state of Florida?",
+  "answer": "in Northern Florida",
+  "prediction": "Ocala",
+  "error": null,
+  "latency_ms": 137263.16750003025,
+  "dataset_type": "musique",
+  "timestamp": "2026-05-14T14:38:53.306881+00:00",
+  "chunks": [
+    {
+      "chunk_id": "2cc823b1-1a8e-4bde-afde-344d363b46ee",
+      "chunk_title": "Personal Life Events",
+      "chunk_summary": "This chunk contains information about personal life events, such as marriages and relocations relative to educational milestones.",
+      "context_title": "Sean Hampton",
+      "page_content": "Jennifer is Sean Hampton's current wife. Sean Hampton married Jennifer after college. Sean Hampton and Jennifer currently reside in Los Angeles. Sean Hampton and Jennifer moved to Los Angeles after college."
+    },
+    {
+      "chunk_id": "8d2d4a19-bb7a-4f44-baaa-cd56d1878f21",
+      "chunk_title": "Family Background",
+      "chunk_summary": "This chunk contains information about Sean Hampton's family structure, birth order, and parental professions.",
+      "context_title": "Sean Hampton",
+      "page_content": "Sean Hampton is the youngest of five children. Sean Hampton's mother is a professional model. Sean Hampton's father is a dentist."
+    },
+    {
+      "chunk_id": "9b35fdec-cca2-41d3-b7dc-4682eb78ad20",
+      "chunk_title": "Education & Career Goals",
+      "chunk_summary": "This chunk contains information about Sean Hampton's educational milestones and career aspirations, including high school graduation, university enrollment, and his pursuit of a law career.",
+      "context_title": "Sean Hampton",
+      "page_content": "Sean Hampton enrolled at Stetson University. Sean Hampton enrolled at Stetson University to pursue a career in law. Sean Hampton graduated high school."
+    },
+    {
+      "chunk_id": "bd3328d0-794a-4b4c-a43b-4e8a30eb31d1",
+      "chunk_title": "Acting Origins",
+      "chunk_summary": "This chunk contains information about how individuals discovered or began their interest in acting.",
+      "context_title": "Sean Hampton",
+      "page_content": "Sean Hampton caught onto acting while in school."
+    },
+    {
+      "chunk_id": "4e107d5f-ebdd-4cc0-b927-5a13651c7e45",
+      "chunk_title": "Fraternity Affiliations",
+      "chunk_summary": "This chunk contains information about individuals' affiliations with specific fraternity chapters during their education.",
+      "context_title": "Sean Hampton",
+      "page_content": "Sean Hampton joined Sigma Nu fraternity while in school. Sean Hampton joined the Delta Mu chapter of Sigma Nu fraternity."
+    },
+    {
+      "chunk_id": "706fd6b9-c9de-4c97-b7e7-7fd743e1bc7f",
+      "chunk_title": "Professional Roles & Affiliations",
+      "chunk_summary": "This chunk contains information about the professional roles and affiliations of individuals associated with FIDS.",
+      "context_title": "Hampton Bluffs",
+      "page_content": "Ian F.G. Hampton was an FIDS physiologist."
+    },
+    {
+      "chunk_id": "00f7dbda-c963-4635-aca0-b007406af132",
+      "chunk_title": "Name Origins",
+      "chunk_summary": "This chunk contains information about the origins of names for places or entities, specifically detailing who they are named after and providing historical context about those individuals.",
+      "context_title": "Wade Hampton, South Carolina",
+      "page_content": "Wade Hampton was a South Carolina governor. Wade Hampton is named for Wade Hampton. Wade Hampton was an American Civil War general."
+    },
+    {
+      "chunk_id": "13c9227b-0008-49c9-9593-ff11fa3d75ea",
+      "chunk_title": "Musician Profiles",
+      "chunk_summary": "This chunk contains information about the professional roles and nationality of musicians.",
+      "context_title": "Mingus Three",
+      "page_content": "Hampton Hawes was a pianist. Charles Mingus was an American bassist, composer and bandleader. Dannie Richmond was a drummer."
+    },
+    {
+      "chunk_id": "c2ded2c6-f86f-48ba-9721-348283961ff1",
+      "chunk_title": "Birthplace & Origin",
+      "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+      "context_title": "Sean Hampton",
+      "page_content": "Sean Hampton was born in Ocala, Florida."
+    },
+    {
+      "chunk_id": "74731c36-4afc-4800-a9a0-d2b6f27add67",
+      "chunk_title": "Wade Hampton Location",
+      "chunk_summary": "This chunk contains information about the location and classification of Wade Hampton as a census-designated place (CDP) in Greenville County, South Carolina.",
+      "context_title": "Wade Hampton, South Carolina",
+      "page_content": "Greenville County is in South Carolina. Wade Hampton is a census-designated place (CDP). Wade Hampton is in Greenville County."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 0.5,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.6,
+  "retrieval_count": 3,
+  "total_chunks": 10,
+  "total_distinct_titles": 4,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 4,
+  "dag_edges": 5,
+  "dag_snapshots": [
+    {
+      "q": "Where is Sean Hampton's birth place in the state of Florida?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where is Sean Hampton's birth place in the state of Florida?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Sean Hampton 在佛罗里达州的出生地",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_2 提供了具体出生地 'Ocala, Florida'，N1_3 确认了该地点位于佛罗里达州。推理链完整：N1_1 确立实体身份，N1_2 提供事实，N1_3 验证约束。所有子节点证据充分且一致。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，证据充分，可直接生成最终答案 'Ocala, Florida'。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Sean Hampton?",
+          "answer": "Sean Hampton is a law career pursuer and actor, the youngest of five children, who attended Stetson University and joined the Delta Mu chapter of Sigma Nu fraternity.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is Sean Hampton?",
+          "planner_rationale": "Q 询问特定人物 Sean Hampton 的出生地。首先需要确认该人物的身份，以消除同名歧义，并为后续搜索提供实体上下文。",
+          "solver_judgment": "question 要求回答“Who is Sean Hampton?”，即需要关于 Sean Hampton 的身份、背景或职业的综合描述。search_query 直接搜索了“Who is Sean Hampton?”。chunks 返回了多个关于 Sean Hampton 的片段：chunk 8d2d4a19 提到他是五个孩子中最小的，母亲是模特，父亲是牙医；chunk 9b35fdec 提到他就读于 Stetson University 并追求法律职业；chunk bd3328d0 提到他在学校期间开始对表演感兴趣；chunk 4e107d5f 提到他加入了 Sigma Nu 兄弟会的 Delta Mu 分会；chunk 2cc823b1 提到他的妻子 Jennifer 和居住地。虽然这些片段提供了分散的个人细节，但没有一个单一的、权威的职业头衔（如“著名演员”或“特定职位”）来概括他是谁，而是描绘了一个有法律背景、涉足表演、有特定家庭背景的普通人形象。检索结果包含了大量相关个人事实，足以构建一个基于文本的描述性答案，但缺乏一个简洁的、公认的身份定义（例如“美国演员”）。因此，答案是基于多个 chunk 的综合描述。检索质量尚可，提供了具体细节，但未命中一个简明的身份标签。",
+          "critic_factual_notes": "5 个独立来源（均来自文档 'Sean Hampton'）一致描述了 Sean Hampton 的背景：法律职业追求者、演员、Stetson University 校友、Sigma Nu 兄弟会成员、家庭背景等。虽然缺乏单一权威头衔，但综合描述足以消除歧义并确立实体上下文。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，身份描述清晰，足以支持后续节点搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is Sean Hampton's birth place?",
+          "answer": "Ocala, Florida",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Hampton birth place",
+          "planner_rationale": "Q 的核心事实需求是 Sean Hampton 的出生地。这是一个独立的原子事实，需要直接搜索。",
+          "solver_judgment": "question 要求提供 Sean Hampton 的出生地。search_query 搜索了 'Sean Hampton birth place'。chunks 返回了关于 Sean Hampton 的多方面信息，其中 chunk c2ded2c6-f86f-48ba-9721-348283961ff1 明确记载 \"Sean Hampton was born in Ocala, Florida\"，直接且完整地回答了问题。检索精准，无信息缺口。",
+          "critic_factual_notes": "1 个直接来源（chunk c2ded2c6...）明确陈述 'Sean Hampton was born in Ocala, Florida'。答案与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——核心事实已找到，证据直接支撑答案。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "Is Sean Hampton's birth place in the state of Florida?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Hampton birth place",
+          "planner_rationale": "Q 包含约束条件 'in the state of Florida'。需要验证或确认其出生地是否确实位于佛罗里达州，或者具体是佛罗里达州的哪个地方。这既是对核心事实的约束检查，也是最终答案的必要组成部分。",
+          "solver_judgment": "question 要求确认 Sean Hampton 的出生地是否在佛罗里达州。search_query 搜索了 'Sean Hampton birth place'。chunks 返回了关于 Sean Hampton 的详细信息，其中 chunk c2ded2c6-f86f-48ba-9721-348283961ff1 明确记载 \"Sean Hampton was born in Ocala, Florida.\"。由于 Ocala 位于 Florida，因此可以直接回答 Yes。检索精准，信息完整。",
+          "critic_factual_notes": "依赖同一来源（chunk c2ded2c6...）'Sean Hampton was born in Ocala, Florida'。由于 Ocala 是佛罗里达州的城市，逻辑上可推断答案为 Yes。推理自洽，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——约束条件已验证，答案正确。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Where is Sean Hampton's birth place in the state of Florida?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where is Sean Hampton's birth place in the state of Florida?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_2 已提供具体出生地 'Ocala, Florida'，N1_3 确认该地点位于佛罗里达州，推理链完整，可直接生成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其子节点 N1_2 提供了具体出生地 'Ocala, Florida'，N1_3 确认了该地点位于佛罗里达州。推理链完整：N1_1 确立实体身份，N1_2 提供事实，N1_3 验证约束。所有子节点证据充分且一致。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，证据充分，可直接生成最终答案 'Ocala, Florida'。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Sean Hampton?",
+          "answer": "Sean Hampton is a law career pursuer and actor, the youngest of five children, who attended Stetson University and joined the Delta Mu chapter of Sigma Nu fraternity.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is Sean Hampton?",
+          "planner_rationale": "实体身份已确立。5 个独立来源一致描述了 Sean Hampton 的背景（法律/演艺/家庭），足以消除歧义并支持后续节点搜索。",
+          "solver_judgment": "question 要求回答“Who is Sean Hampton?”，即需要关于 Sean Hampton 的身份、背景或职业的综合描述。search_query 直接搜索了“Who is Sean Hampton?”。chunks 返回了多个关于 Sean Hampton 的片段：chunk 8d2d4a19 提到他是五个孩子中最小的，母亲是模特，父亲是牙医；chunk 9b35fdec 提到他就读于 Stetson University 并追求法律职业；chunk bd3328d0 提到他在学校期间开始对表演感兴趣；chunk 4e107d5f 提到他加入了 Sigma Nu 兄弟会的 Delta Mu 分会；chunk 2cc823b1 提到他的妻子 Jennifer 和居住地。虽然这些片段提供了分散的个人细节，但没有一个单一的、权威的职业头衔（如“著名演员”或“特定职位”）来概括他是谁，而是描绘了一个有法律背景、涉足表演、有特定家庭背景的普通人形象。检索结果包含了大量相关个人事实，足以构建一个基于文本的描述性答案，但缺乏一个简洁的、公认的身份定义（例如“美国演员”）。因此，答案是基于多个 chunk 的综合描述。检索质量尚可，提供了具体细节，但未命中一个简明的身份标签。",
+          "critic_factual_notes": "5 个独立来源（均来自文档 'Sean Hampton'）一致描述了 Sean Hampton 的背景：法律职业追求者、演员、Stetson University 校友、Sigma Nu 兄弟会成员、家庭背景等。虽然缺乏单一权威头衔，但综合描述足以消除歧义并确立实体上下文。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，身份描述清晰，足以支持后续节点搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is Sean Hampton's birth place?",
+          "answer": "Ocala, Florida",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Hampton birth place",
+          "planner_rationale": "核心事实已找到。直接来源明确陈述 'Sean Hampton was born in Ocala, Florida'，证据充分且直接支撑答案。",
+          "solver_judgment": "question 要求提供 Sean Hampton 的出生地。search_query 搜索了 'Sean Hampton birth place'。chunks 返回了关于 Sean Hampton 的多方面信息，其中 chunk c2ded2c6-f86f-48ba-9721-348283961ff1 明确记载 \"Sean Hampton was born in Ocala, Florida\"，直接且完整地回答了问题。检索精准，无信息缺口。",
+          "critic_factual_notes": "1 个直接来源（chunk c2ded2c6...）明确陈述 'Sean Hampton was born in Ocala, Florida'。答案与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——核心事实已找到，证据直接支撑答案。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "Is Sean Hampton's birth place in the state of Florida?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Hampton birth place",
+          "planner_rationale": "约束条件已验证。基于 N1_2 的答案 'Ocala, Florida' 及地理常识，确认出生地在佛罗里达州，逻辑自洽。",
+          "solver_judgment": "question 要求确认 Sean Hampton 的出生地是否在佛罗里达州。search_query 搜索了 'Sean Hampton birth place'。chunks 返回了关于 Sean Hampton 的详细信息，其中 chunk c2ded2c6-f86f-48ba-9721-348283961ff1 明确记载 \"Sean Hampton was born in Ocala, Florida.\"。由于 Ocala 位于 Florida，因此可以直接回答 Yes。检索精准，信息完整。",
+          "critic_factual_notes": "依赖同一来源（chunk c2ded2c6...）'Sean Hampton was born in Ocala, Florida'。由于 Ocala 是佛罗里达州的城市，逻辑上可推断答案为 Yes。推理自洽，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——约束条件已验证，答案正确。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "Where is Sean Hampton's birth place in the state of Florida?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "Where is Sean Hampton's birth place in the state of Florida?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_2 已提供具体出生地 'Ocala, Florida'，N1_3 确认该地点位于佛罗里达州，推理链完整，可直接生成最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。子节点 N1_2 提供了具体出生地 'Ocala, Florida'，N1_3 确认了该地点位于佛罗里达州（通过 'Ocala, Florida' 的文本蕴含）。推理链完整：N1_1 确立实体身份，N1_2 提供事实，N1_3 验证约束。所有子节点证据充分且一致。",
+          "critic_normative_advice": "建议 INHERIT——子节点推理链完整，证据充分，可直接生成最终答案 'Ocala, Florida'。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is Sean Hampton?",
+          "answer": "Sean Hampton is a law career pursuer and actor, the youngest of five children, who attended Stetson University and joined the Delta Mu chapter of Sigma Nu fraternity.",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who is Sean Hampton?",
+          "planner_rationale": "实体身份已确立。5 个独立来源一致描述了 Sean Hampton 的背景（法律/演艺/家庭），足以消除歧义并支持后续节点搜索。",
+          "solver_judgment": "question 要求回答“Who is Sean Hampton?”，即需要关于 Sean Hampton 的身份、背景或职业的综合描述。search_query 直接搜索了“Who is Sean Hampton?”。chunks 返回了多个关于 Sean Hampton 的片段：chunk 8d2d4a19 提到他是五个孩子中最小的，母亲是模特，父亲是牙医；chunk 9b35fdec 提到他就读于 Stetson University 并追求法律职业；chunk bd3328d0 提到他在学校期间开始对表演感兴趣；chunk 4e107d5f 提到他加入了 Sigma Nu 兄弟会的 Delta Mu 分会；chunk 2cc823b1 提到他的妻子 Jennifer 和居住地。虽然这些片段提供了分散的个人细节，但没有一个单一的、权威的职业头衔（如“著名演员”或“特定职位”）来概括他是谁，而是描绘了一个有法律背景、涉足表演、有特定家庭背景的普通人形象。检索结果包含了大量相关个人事实，足以构建一个基于文本的描述性答案，但缺乏一个简洁的、公认的身份定义（例如“美国演员”）。因此，答案是基于多个 chunk 的综合描述。检索质量尚可，提供了具体细节，但未命中一个简明的身份标签。",
+          "critic_factual_notes": "5 个独立来源（均来自文档 'Sean Hampton'）一致描述了 Sean Hampton 的背景：法律职业追求者、演员、Stetson University 校友、Sigma Nu 兄弟会成员、家庭背景等。虽然缺乏单一权威头衔，但综合描述足以消除歧义并确立实体上下文。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，身份描述清晰，足以支持后续节点搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is Sean Hampton's birth place?",
+          "answer": "Ocala, Florida",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Hampton birth place",
+          "planner_rationale": "核心事实已找到。直接来源明确陈述 'Sean Hampton was born in Ocala, Florida'，证据充分且直接支撑答案。",
+          "solver_judgment": "question 要求提供 Sean Hampton 的出生地。search_query 搜索了 'Sean Hampton birth place'。chunks 返回了关于 Sean Hampton 的多方面信息，其中 chunk c2ded2c6-f86f-48ba-9721-348283961ff1 明确记载 \"Sean Hampton was born in Ocala, Florida\"，直接且完整地回答了问题。检索精准，无信息缺口。",
+          "critic_factual_notes": "1 个直接来源（chunk c2ded2c6...）明确陈述 'Sean Hampton was born in Ocala, Florida'。答案与 chunk 内容完全匹配。虽为单来源，但表述直接、具体，无矛盾。",
+          "critic_normative_advice": "建议 INHERIT——核心事实已找到，证据直接支撑答案。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_3": {
+          "id": "N1_3",
+          "question": "Is Sean Hampton's birth place in the state of Florida?",
+          "answer": "Yes",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Sean Hampton birth place",
+          "planner_rationale": "约束条件已验证。基于 N1_2 的答案 'Ocala, Florida' 及地理常识，确认出生地在佛罗里达州，逻辑自洽。",
+          "solver_judgment": "question 要求确认 Sean Hampton 的出生地是否在佛罗里达州。search_query 搜索了 'Sean Hampton birth place'。chunks 返回了关于 Sean Hampton 的详细信息，其中 chunk c2ded2c6-f86f-48ba-9721-348283961ff1 明确记载 \"Sean Hampton was born in Ocala, Florida.\"。由于 Ocala 位于 Florida，因此可以直接回答 Yes。检索精准，信息完整。",
+          "critic_factual_notes": "依赖同一来源（chunk c2ded2c6...）'Sean Hampton was born in Ocala, Florida'。由于 Ocala 是佛罗里达州的城市，逻辑上可推断答案为 Yes。推理自洽，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——约束条件已验证，答案正确。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_3",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_3",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is Sean Hampton?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "2cc823b1-1a8e-4bde-afde-344d363b46ee",
+        "8d2d4a19-bb7a-4f44-baaa-cd56d1878f21",
+        "9b35fdec-cca2-41d3-b7dc-4682eb78ad20",
+        "bd3328d0-794a-4b4c-a43b-4e8a30eb31d1",
+        "4e107d5f-ebdd-4cc0-b927-5a13651c7e45",
+        "706fd6b9-c9de-4c97-b7e7-7fd743e1bc7f",
+        "00f7dbda-c963-4635-aca0-b007406af132",
+        "13c9227b-0008-49c9-9593-ff11fa3d75ea"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Sean Hampton birth place",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "9b35fdec-cca2-41d3-b7dc-4682eb78ad20",
+        "c2ded2c6-f86f-48ba-9721-348283961ff1",
+        "8d2d4a19-bb7a-4f44-baaa-cd56d1878f21",
+        "2cc823b1-1a8e-4bde-afde-344d363b46ee",
+        "4e107d5f-ebdd-4cc0-b927-5a13651c7e45",
+        "74731c36-4afc-4800-a9a0-d2b6f27add67",
+        "00f7dbda-c963-4635-aca0-b007406af132",
+        "706fd6b9-c9de-4c97-b7e7-7fd743e1bc7f"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Sean Hampton birth place",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "9b35fdec-cca2-41d3-b7dc-4682eb78ad20",
+        "c2ded2c6-f86f-48ba-9721-348283961ff1",
+        "8d2d4a19-bb7a-4f44-baaa-cd56d1878f21",
+        "2cc823b1-1a8e-4bde-afde-344d363b46ee",
+        "4e107d5f-ebdd-4cc0-b927-5a13651c7e45",
+        "74731c36-4afc-4800-a9a0-d2b6f27add67",
+        "00f7dbda-c963-4635-aca0-b007406af132",
+        "706fd6b9-c9de-4c97-b7e7-7fd743e1bc7f"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 3,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Sean Hampton?（理由：确定具体指代的实体，消除歧义，为后续搜索提供上下文），F2: What is Sean Hampton's birth place?（理由：Q 的核心询问——出生地是什么），F3: Is Sean Hampton's birth place in the state of Florida?（理由：Q 的约束条件——确认出生地是否在佛罗里达州，或具体位置）。关系: F1 是 F2 和 F3 的前置条件（dependency——F2 和 F3 的搜索可能需要 F1 确定的实体信息来消解指代或提高精度），F1、F2、F3 都是 Q 的分解产物（decomposition）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：首先识别主体（Sean Hampton），然后查询其出生地，最后验证/确认该出生地与佛罗里达州的关系。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 确立实体，N1_2 提供地点，N1_3 验证约束，依赖有效）；③ 所有节点（含 ROOT）审查结果为 healthy；④ 首轮无拓扑变化问题。置信度高，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Sean Hampton?（理由：确定具体指代的实体，消除歧义），F2: What is Sean Hampton's birth place?（理由：Q 的核心询问——出生地是什么），F3: Is Sean Hampton's birth place in the state of Florida?（理由：Q 的约束条件——确认出生地是否在佛罗里达州）。关系: F1 是 F2 和 F3 的前置条件（dependency），F1、F2、F3 都是 Q 的分解产物（decomposition）。当前 DAG 已完整覆盖这些事实，且所有节点均为 solved + healthy 状态，无需结构调整。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2, N1_3）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2, N0→N1_3, N1_1→N1_2, N1_1→N1_3）均通过 LINK 显式声明保留。原因：Critic 确认 DAG 结构合理，证据充分，无缺口或冗余问题。N1_2 和 N1_3 虽共享部分证据，但分别承担“提供事实”和“验证约束”的角色，逻辑清晰，无需合并或删除。上一轮假设完全被验证，收敛完成。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配（N1_1 消解了 N1_2/N1_3 的实体指代，N1_2/N1_3 共同支撑 N0 的答案生成）；③所有节点（含 ROOT）均为 healthy；④拓扑连续两轮无变化。置信度高，可终止探索并生成最终答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is Sean Hampton?（理由：确定具体指代的实体，消除歧义），F2: What is Sean Hampton's birth place?（理由：Q 的核心询问——出生地是什么），F3: Is Sean Hampton's birth place in the state of Florida?（理由：Q 的约束条件——确认出生地是否在佛罗里达州）。关系: F1 是 F2 和 F3 的前置条件（dependency），F1、F2、F3 都是 Q 的分解产物（decomposition）。当前 DAG 已完整覆盖这些事实，且所有节点均为 solved + healthy 状态，无需结构调整。",
+      "hypothesis_delta": "本轮无结构变更。所有节点（N0, N1_1, N1_2, N1_3）均通过 INHERIT 保留，所有边（N0→N1_1, N0→N1_2, N0→N1_3, N1_1→N1_2, N1_1→N1_3）均通过 LINK 显式声明保留。原因：Critic 确认 DAG 结构合理，证据充分，无缺口或冗余问题。N1_2 和 N1_3 虽共享部分证据，但分别承担“提供事实”和“验证约束”的角色，逻辑清晰，无需合并或删除。上一轮假设完全被验证，收敛完成。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：① 所有非根节点已 SOLVED；② 推理链语义匹配（N1_1 消解实体歧义，N1_2 提供事实，N1_3 验证约束，依赖有效）；③ 所有节点（含 ROOT）均为 healthy；④ 拓扑连续两轮无变化。置信度高，可生成最终答案。"
+      }
+    }
+  ]
+}

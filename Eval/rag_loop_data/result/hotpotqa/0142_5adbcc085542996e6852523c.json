@@ -1,0 +1,953 @@
+{
+  "question_index": 142,
+  "question_id": "5adbcc085542996e6852523c",
+  "question": "What are some foods that may have been served at the Hawaiin Cottage?",
+  "answer": "poi, Kalua pig, poke, lomi salmon, opihi, haupia",
+  "prediction": "poi, Kalua pig, haupia, beer, poke, opihi, lomi salmon",
+  "error": null,
+  "latency_ms": 517844.0890999991,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T08:12:21.235918+00:00",
+  "chunks": [
+    {
+      "chunk_id": "9a8292f7-c909-4935-a310-1cc2639d9b15",
+      "chunk_title": "The Hawaiian Cottage History",
+      "chunk_summary": "This chunk contains information about the history, location, founders, distinctive architectural features, cultural atmosphere, and eventual closure of The Hawaiian Cottage, a landmark in Cherry Hill, New Jersey.",
+      "context_title": "Hawaiian Cottage",
+      "page_content": "Mary Egidi-Pietrafesa continued to operate The Hawaiian Cottage after Michael Egidi's death. The site of The Hawaiian Cottage is now occupied by an Olive Garden Restaurant. The Hawaiian Cottage opened in 1938. The Hawaiian Cottage was established by Michael Egidi. The Hawaiian Cottage was located in Cherry Hill, New Jersey, United States. The Hawaiian Cottage was established by Mary Egidi-Pietrafesa. The Hawaiian Cottage's exterior was known for burning Polynesian torches at the entrance. John Muresan helped with The Hawaiian Cottage's growth. The Hawaiian Cottage started as a roadhouse. The Hawaiian Cottage was also known as \"The Cottage\". The Hawaiian Cottage was located on Cherry Hill's western side. The Hawaiian Cottage was located nearby the Cherry Hill Mall. The Hawaiian Cottage emerged into what was considered a South Jersey landmark. The Hawaiian Cottage was located on Route 38. The Cherry Hill Mall opened in 1961. The Hawaiian Cottage offered a Hawaiian atmosphere that included a luau show. The Hawaiian Cottage's exterior was known for its vivid yellow, pineapple-shaped dome."
+    },
+    {
+      "chunk_id": "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+      "chunk_title": "Restaurant Style & Theme",
+      "chunk_summary": "This chunk contains information about the style and theme of restaurants.",
+      "context_title": "Hawaiian Cottage",
+      "page_content": "The Hawaiian Cottage was a Polynesian style restaurant."
+    },
+    {
+      "chunk_id": "c094a615-ef29-4ec6-89ed-07a89899a5f7",
+      "chunk_title": "Historical Fires",
+      "chunk_summary": "This chunk contains information about historical events involving the destruction of buildings by fire, including specific dates and locations.",
+      "context_title": "Hawaiian Cottage",
+      "page_content": "The Hawaiian Cottage was destroyed by a fire on July 1, 1978."
+    },
+    {
+      "chunk_id": "00a354f3-a465-418d-b1a1-e775af0d8d06",
+      "chunk_title": "Dick W. Emuchay's Career",
+      "chunk_summary": "This chunk contains information about the professional background and identity of Dick W. Emuchay, specifically focusing on his nationality as Nigerian and his roles as a medical doctor, administrator, commission chairman, university leader, and hospital founder.",
+      "context_title": "Dick W. Emuchay",
+      "page_content": "Dick W. Emuchay set up a 180-bed cottage hospital in 1961. Dick W. Emuchay was a Nigerian medical doctor. Dick W. Emuchay is reputed to have set up the first privately run rural hospital. Dick W. Emuchay set up the 180-bed cottage hospital in his home town of Azumini. Dick W. Emuchay was a Nigerian administrator. Dick W. Emuchay served as the first chairman of the Public Service Commission of the East Central State. Dick W. Emuchay served as Pro-Chancellor and Chairman of the Governing Council of Imo State University until 1985."
+    },
+    {
+      "chunk_id": "3b263d83-cf25-4693-bf70-7c4db42dad1b",
+      "chunk_title": "Store History & Evolution",
+      "chunk_summary": "This chunk contains information about the operational timeline, corporate evolution, and key personnel changes of a store.",
+      "context_title": "Ware's Department Store",
+      "page_content": "The firm of Ware & Sheffield eventually became a stock company in 1913. Howard R. Ware retired from his active business in 1932. The store operated from 1881 to the late 1930s."
+    },
+    {
+      "chunk_id": "cb744d7c-bd5f-4d28-8849-28db086d1b5b",
+      "chunk_title": "Hotel Establishment Dates",
+      "chunk_summary": "This chunk contains information about the establishment dates of hotels.",
+      "context_title": "Hotel Paracas",
+      "page_content": "Hotel Paracas was established in 1944."
+    },
+    {
+      "chunk_id": "5f91f4c5-6916-48d3-b8eb-dbb28f537d85",
+      "chunk_title": "Communities",
+      "chunk_summary": "This chunk contains information about communities, including their names, locations, founding organizations, and establishment dates.",
+      "context_title": "Cumberland Homesteads",
+      "page_content": "Cumberland Homesteads was established in 1934. Cumberland Homesteads is located in Cumberland County, Tennessee, United States. Cumberland Homesteads is a community. Cumberland Homesteads was established by the Division of Subsistence Homesteads."
+    },
+    {
+      "chunk_id": "db20c792-7023-4b2d-bed7-cad231607a1a",
+      "chunk_title": "Locations",
+      "chunk_summary": "This chunk contains information about the locations of specific venues or buildings.",
+      "context_title": "4th AVN Awards",
+      "page_content": "The Tropicana Hotel Grand Ballroom is located in Paradise, Nevada."
+    },
+    {
+      "chunk_id": "e633e857-f11c-4258-a2bf-94ab21eebfea",
+      "chunk_title": "Historical Site Designations",
+      "chunk_summary": "This chunk contains information about the historical designation and recognition of specific sites or landmarks.",
+      "context_title": "R. E. Hoy No. 1 Oil Well",
+      "page_content": "The R.E. Hoy No. 1 Oil Well has been listed on the National Register of Historic Places since 1986."
+    },
+    {
+      "chunk_id": "fc6cbfe1-5876-425b-b7bf-16a0dfad522e",
+      "chunk_title": "Filming Locations",
+      "chunk_summary": "This chunk contains information about the primary filming locations of the series.",
+      "context_title": "American Ninja Warrior (season 4)",
+      "page_content": "Venice Beach, CA is the series' flagship location."
+    },
+    {
+      "chunk_id": "a6ab18f9-b473-473f-977b-3010fdb1acd6",
+      "chunk_title": "Hawaiian Luaus",
+      "chunk_summary": "This chunk contains information about traditional Hawaiian parties or feasts, known as luaus, including the Hawaiian term for them, their typical accompaniment of entertainment, associated foods, and the cultural blending of the concept with modern celebrations like graduation and wedding parties.",
+      "context_title": "Luau",
+      "page_content": "A luau may feature food such as poi. The blending of \"luau\" and \"party\" among people from Hawaiʻi results in wedding luau. A luau may feature food such as Kalua pig. A luau is a traditional Hawaiian party or feast. A luau may feature food such as haupia. The blending of \"luau\" and \"party\" among people from Hawaiʻi results in birthday luau. A luau may feature food such as beer. A luau may feature food such as poke. Among people from Hawaiʻi, the concepts of \"luau\" and \"party\" are often blended. A luau is usually accompanied by entertainment. A luau may feature entertainment such as hula. A luau may feature food such as opihi. A luau may feature entertainment such as traditional Hawaiian music. A luau may feature food such as lomi salmon. The Hawaiian word for luau is \"lūʻau\". The blending of \"luau\" and \"party\" among people from Hawaiʻi results in graduation luau."
+    },
+    {
+      "chunk_id": "9ede807a-7280-46ae-b8c9-be998b79e073",
+      "chunk_title": "Ethnic Heritage & Ancestry",
+      "chunk_summary": "This chunk contains information about the ethnic heritage and ancestry of individuals.",
+      "context_title": "Rose C. Davison",
+      "page_content": "Rosalie Compton Kahipuleokalaniahumanu Davison was part Native Hawaiian."
+    },
+    {
+      "chunk_id": "0a8c5356-49cc-41a4-bd2f-0607763efefc",
+      "chunk_title": "Media Publications",
+      "chunk_summary": "This chunk contains information about media publications, specifically magazines and the content or contributors they feature.",
+      "context_title": "Priscilla Martel",
+      "page_content": "Priscilla Martel is a contributing writer at \"Flavor and the Menu\" Magazine. \"Food & Wine\" is a magazine. Priscilla Martel's recipes appear in \"Food & Wine\" magazine."
+    },
+    {
+      "chunk_id": "71ce4097-bacd-4029-801b-990dae88864c",
+      "chunk_title": "Public Transportation Changes",
+      "chunk_summary": "This chunk contains information about changes to public transportation routes and terminals.",
+      "context_title": "University station (CTA)",
+      "page_content": "The Jackson Park Branch line was cut back to its current terminal at Cottage Grove."
+    },
+    {
+      "chunk_id": "bcffc7df-1635-46e2-b896-58794fc2e0ed",
+      "chunk_title": "Hawaiian Pronunciation",
+      "chunk_summary": "This chunk contains information about the pronunciation of Hawaiian words.",
+      "context_title": "Alyxia oliviformis",
+      "page_content": "Maile is pronounced \"MY-lĕ\" in Hawaiian."
+    },
+    {
+      "chunk_id": "2965d6a7-026e-4ec8-a417-31d3c056715a",
+      "chunk_title": "Cooking Activities",
+      "chunk_summary": "This chunk contains information about cooking activities and related topics.",
+      "context_title": "Sunset (magazine)",
+      "page_content": "Sunset focuses on cooking."
+    },
+    {
+      "chunk_id": "aca95e67-c99b-48d6-a19f-b22dce8a5d3f",
+      "chunk_title": "Hawaiian Song Translations",
+      "chunk_summary": "This chunk contains information about Hawaiian language translations and phrases, specifically regarding song lyrics.",
+      "context_title": "Hawaiian Wedding Song",
+      "page_content": "Dick Manning translated the original Hawaiian words of the song into English. \"Ke Kali Nei Au\" is Hawaiian for \"Waiting Here for You\"."
+    },
+    {
+      "chunk_id": "6fd3a115-29d6-47e2-b1c8-bea33f3ff110",
+      "chunk_title": "St. Lars Cuisine",
+      "chunk_summary": "This chunk contains information about the unique ingredients, exotic meat sources, and specific cooking methods used by the restaurant St. Lars.",
+      "context_title": "St. Lars restaurant",
+      "page_content": "The restaurant St. Lars is known for using meat from horses. The cuisine at St. Lars has an emphasis on Norwegian produce. Everything apart from the horse tartar at St. Lars has been cooked on a custom made grill. The cuisine at St. Lars has an emphasis on unusual cooking techniques. The restaurant St. Lars is known for using meat from bear. The cuisine at St. Lars is based on serving raw or grilled food. The restaurant St. Lars is known for using meat from pigs from Bygdø Royal Farm's petting zoo."
+    },
+    {
+      "chunk_id": "39d91ad8-bc60-4aec-af7e-6891cfd175b2",
+      "chunk_title": "Goombay Smash Origins & Ingredients",
+      "chunk_summary": "This chunk contains information about the creation, origin, and ingredients of the Goombay Smash cocktail.",
+      "context_title": "Goombay Smash",
+      "page_content": "Dirty rums are preferred in variations of the Goombay Smash. Imitators and variations of the Goombay Smash commonly use pineapple juice. Spiced rums are preferred in variations of the Goombay Smash. Imitators and variations of the Goombay Smash commonly use coconut. The original recipe for the Goombay Smash is believed to have contained pineapple juice. Other variations of the Goombay Smash include orange juice. Other variations of the Goombay Smash include Creme de Banana. Coconut cream can be used in place of coconut rum in variations of the Goombay Smash. Other variations of the Goombay Smash include grenadine. Apricot liqueur is sometimes used in variations of the Goombay Smash. Imitators and variations of the Goombay Smash commonly use rum. Emily Cooper created the Goombay Smash at the Blue Bee Bar. Dark rums are preferred in variations of the Goombay Smash. The original recipe for the Goombay Smash is believed to have contained dirty rum. The original recipe for the Goombay Smash is believed to have contained apricot brandy. The original recipe for the Goombay Smash is a secret. The Goombay Smash was created by Emily Cooper. The original recipe for the Goombay Smash is believed to have contained coconut rum. Amber rums are preferred in variations of the Goombay Smash."
+    },
+    {
+      "chunk_id": "3642da09-cf4c-4c6e-ba99-20d919208b5a",
+      "chunk_title": "Burger King History & Menu",
+      "chunk_summary": "This chunk contains information about the history, identity, and menu evolution of Burger King, including its founding, renaming, and the introduction of key products like the Whopper, Big King, and various premium burger initiatives.",
+      "context_title": "List of Burger King products",
+      "page_content": "Burger King was acquired by its Miami, Florida franchisees in 1954. The menu of the predecessor of Burger King predominantly consisted of hamburgers, French fries, soft drinks, milkshakes, and desserts in 1955. The premium hamburgers experimented with by Burger King were made from higher quality ingredients. Burger King did not add another permanent hamburger to its menu until 1996. Burger King was renamed in 1954. The Big King sandwich was introduced by Burger King in response to McDonald's Big Mac sandwich. The Big King sandwich was introduced by Burger King in 1996. The predecessor of Burger King first opened in 1955. Burger King first started offering sliders to its menu in the mid-1980s. Burger King (BK) is an international fast food restaurant chain. Burger King introduced its Specialty Sandwich product line in 1978. Burger King began expanding its menu by adding the Whopper after being renamed in 1954. The products of the Specialty Sandwich product line were some of the first designed by a fast food restaurant chain intended to capture the adult market. Burger King began to work on a premium burger in earnest in 2002. Burger King offered sliders off and on for the twenty years following the mid-1980s. Burger King began experimenting with premium hamburgers in 1978."
+    },
+    {
+      "chunk_id": "23504215-d00d-4724-87a7-cd39d87757c1",
+      "chunk_title": "Raw Bar Overview",
+      "chunk_summary": "This chunk contains information about the definition, setting, and diverse menu offerings of raw bars as a specific type of dining establishment.",
+      "context_title": "Raw bar",
+      "page_content": "A raw bar is a small restaurant. Oyster shooters are an example of alcoholic beverages offered at raw bars. Seafood-based dishes may be proferred at raw bars. Raw bars typically offer a variety of raw shellfish. Additional accompaniments at raw bars may include sauces. Additional non-seafood foods may be part of the fare at raw bars. Raw bars may offer sake. Raw bars typically offer a variety of cooked shellfish. Raw bars typically offer a variety of raw seafood. Additional accompaniments at raw bars may include condiments. Live raw shellfish are shucked at a raw bar. Additional accompaniments at raw bars may include foods such as lime. Raw bars typically offer a variety of cooked seafood. A raw bar is a bar within a restaurant. Raw bars may offer wine. Several restaurants in the United States offer raw bars. Raw bars may offer alcoholic beverages. Wine and sake at raw bars are paired with various foods. Additional accompaniments at raw bars may include foods such as lemon. Live raw shellfish are served at a raw bar. Some raw bars in the United States are seasonal. Seafood and shellfish at raw bars are served cold."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.941176,
+  "precision": 0.888889,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.19047619047619047,
+  "retrieval_count": 3,
+  "total_chunks": 21,
+  "total_distinct_titles": 19,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "What are some foods that may have been served at the Hawaiin Cottage?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What are some foods that may have been served at the Hawaiin Cottage?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Hawaiin Cottage 可能供应的食物",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，答案由子节点推理链聚合。当前子节点 N1_1 已 solved（证据充分），但 N1_2 为 unsolved（未找到具体菜单信息），推理链不完整。",
+          "critic_normative_advice": "建议等待 N1_2 解决后再评估 ROOT 健康状态。若 N1_2 最终无法找到直接菜单记录，可考虑基于 N1_1 的 Polynesian style + luau show 信息，从 Luau 传统食物 chunk 进行合理推断作为间接答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What was the Hawaiin Cottage (type of establishment, location, time period of operation)?",
+          "answer": "Polynesian style restaurant in Cherry Hill, New Jersey, operating from 1938 to 1978",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What was the Hawaiin Cottage (type of establishment, location, time period of operation)?",
+          "planner_rationale": "Q 询问一个特定场所 'Hawaiin Cottage' 的食物，需先确立该实体的性质（餐厅？咖啡馆？）、地理位置和运营时期，为后续搜索菜单/食物信息提供上下文",
+          "solver_judgment": "question 要求确认 Hawaiian Cottage 的机构类型、位置和运营时间。search_query 直接搜索了问题原文。chunks 返回了相关信息：chunk 9a8292f7 记载其位于 Cherry Hill, New Jersey 并于 1938 年开业；chunk 36ab4ded 指出其为 Polynesian style restaurant；chunk c094a615 记载其于 1978 年 7 月 1 日毁于火灾（即运营结束）。检索精准，信息完整覆盖了问题的三个维度。",
+          "critic_factual_notes": "3 个支撑 chunk，均来自同一文档 'Hawaiian Cottage' 的不同章节（单来源）。chunk 9a8292f7 直接陈述 'opened in 1938' 和 'located in Cherry Hill, New Jersey'；chunk 36ab4ded 直接陈述 'was a Polynesian style restaurant'；chunk c094a615 直接陈述 'destroyed by a fire on July 1, 1978'。三个 chunk 内容一致，交叉验证通过（单来源但直接具体）。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，答案完整覆盖机构类型、位置、运营时期三个维度，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "9a8292f7-c909-4935-a310-1cc2639d9b15",
+            "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+            "c094a615-ef29-4ec6-89ed-07a89899a5f7"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "9a8292f7-c909-4935-a310-1cc2639d9b15",
+              "chunk_title": "The Hawaiian Cottage History",
+              "chunk_summary": "This chunk contains information about the history, location, founders, distinctive architectural features, cultural atmosphere, and eventual closure of The Hawaiian Cottage, a landmark in Cherry Hill, New Jersey.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "Mary Egidi-Pietrafesa continued to operate The Hawaiian Cottage after Michael Egidi's death. The site of The Hawaiian Cottage is now occupied by an Olive Garden Restaurant. The Hawaiian Cottage opened in 1938. The Hawaiian Cottage was established by Michael Egidi. The Hawaiian Cottage was located in Cherry Hill, New Jersey, United States. The Hawaiian Cottage was established by Mary Egidi-Pietrafesa. The Hawaiian Cottage's exterior was known for burning Polynesian torches at the entrance. John Muresan helped with The Hawaiian Cottage's growth. The Hawaiian Cottage started as a roadhouse. The Hawaiian Cottage was also known as \"The Cottage\". The Hawaiian Cottage was located on Cherry Hill's western side. The Hawaiian Cottage was located nearby the Cherry Hill Mall. The Hawaiian Cottage emerged into what was considered a South Jersey landmark. The Hawaiian Cottage was located on Route 38. The Cherry Hill Mall opened in 1961. The Hawaiian Cottage offered a Hawaiian atmosphere that included a luau show. The Hawaiian Cottage's exterior was known for its vivid yellow, pineapple-shaped dome."
+            },
+            {
+              "chunk_id": "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+              "chunk_title": "Restaurant Style & Theme",
+              "chunk_summary": "This chunk contains information about the style and theme of restaurants.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was a Polynesian style restaurant."
+            },
+            {
+              "chunk_id": "c094a615-ef29-4ec6-89ed-07a89899a5f7",
+              "chunk_title": "Historical Fires",
+              "chunk_summary": "This chunk contains information about historical events involving the destruction of buildings by fire, including specific dates and locations.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was destroyed by a fire on July 1, 1978."
+            },
+            {
+              "chunk_id": "00a354f3-a465-418d-b1a1-e775af0d8d06",
+              "chunk_title": "Dick W. Emuchay's Career",
+              "chunk_summary": "This chunk contains information about the professional background and identity of Dick W. Emuchay, specifically focusing on his nationality as Nigerian and his roles as a medical doctor, administrator, commission chairman, university leader, and hospital founder.",
+              "context_title": "Dick W. Emuchay",
+              "page_content": "Dick W. Emuchay set up a 180-bed cottage hospital in 1961. Dick W. Emuchay was a Nigerian medical doctor. Dick W. Emuchay is reputed to have set up the first privately run rural hospital. Dick W. Emuchay set up the 180-bed cottage hospital in his home town of Azumini. Dick W. Emuchay was a Nigerian administrator. Dick W. Emuchay served as the first chairman of the Public Service Commission of the East Central State. Dick W. Emuchay served as Pro-Chancellor and Chairman of the Governing Council of Imo State University until 1985."
+            },
+            {
+              "chunk_id": "3b263d83-cf25-4693-bf70-7c4db42dad1b",
+              "chunk_title": "Store History & Evolution",
+              "chunk_summary": "This chunk contains information about the operational timeline, corporate evolution, and key personnel changes of a store.",
+              "context_title": "Ware's Department Store",
+              "page_content": "The firm of Ware & Sheffield eventually became a stock company in 1913. Howard R. Ware retired from his active business in 1932. The store operated from 1881 to the late 1930s."
+            },
+            {
+              "chunk_id": "cb744d7c-bd5f-4d28-8849-28db086d1b5b",
+              "chunk_title": "Hotel Establishment Dates",
+              "chunk_summary": "This chunk contains information about the establishment dates of hotels.",
+              "context_title": "Hotel Paracas",
+              "page_content": "Hotel Paracas was established in 1944."
+            },
+            {
+              "chunk_id": "5f91f4c5-6916-48d3-b8eb-dbb28f537d85",
+              "chunk_title": "Communities",
+              "chunk_summary": "This chunk contains information about communities, including their names, locations, founding organizations, and establishment dates.",
+              "context_title": "Cumberland Homesteads",
+              "page_content": "Cumberland Homesteads was established in 1934. Cumberland Homesteads is located in Cumberland County, Tennessee, United States. Cumberland Homesteads is a community. Cumberland Homesteads was established by the Division of Subsistence Homesteads."
+            },
+            {
+              "chunk_id": "db20c792-7023-4b2d-bed7-cad231607a1a",
+              "chunk_title": "Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific venues or buildings.",
+              "context_title": "4th AVN Awards",
+              "page_content": "The Tropicana Hotel Grand Ballroom is located in Paradise, Nevada."
+            },
+            {
+              "chunk_id": "e633e857-f11c-4258-a2bf-94ab21eebfea",
+              "chunk_title": "Historical Site Designations",
+              "chunk_summary": "This chunk contains information about the historical designation and recognition of specific sites or landmarks.",
+              "context_title": "R. E. Hoy No. 1 Oil Well",
+              "page_content": "The R.E. Hoy No. 1 Oil Well has been listed on the National Register of Historic Places since 1986."
+            },
+            {
+              "chunk_id": "fc6cbfe1-5876-425b-b7bf-16a0dfad522e",
+              "chunk_title": "Filming Locations",
+              "chunk_summary": "This chunk contains information about the primary filming locations of the series.",
+              "context_title": "American Ninja Warrior (season 4)",
+              "page_content": "Venice Beach, CA is the series' flagship location."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What foods or menu items were served at the Hawaiin Cottage?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "What foods or menu items were served at the Hawaiin Cottage?",
+          "planner_rationale": "Q 的核心询问——该场所供应的具体食物。这是直接回答 Q 所需的事实",
+          "solver_judgment": "question 要求列出 Hawaiian Cottage 供应的具体食物或菜单项。search_query 搜索了相同内容。chunks 返回了关于该餐厅的历史、定位（Polynesian style restaurant）以及提供 luau show 的信息，另有一个 chunk 列举了传统夏威夷 luau 一般可能包含的食物（如 poi, Kalua pig, poke 等），但没有任何 chunk 明确记载 Hawaiian Cottage 餐厅实际供应的菜单或具体菜品。检索未能命中目标信息，存在信息缺口，无法提取答案。",
+          "critic_factual_notes": "搜索返回 10 个 chunk，无一个直接记载 Hawaiian Cottage 的具体菜单或食物。chunk a6ab18f9（来源 Luau）列举了传统夏威夷 luau 食物（poi, Kalua pig, poke 等），但该 chunk 描述的是通用 luau 文化，非 Hawaiian Cottage 餐厅的实际菜单。存在提示性证据（餐厅为 Polynesian style 且提供 luau show），但不足以确认具体供应菜品。",
+          "critic_normative_advice": "建议换搜索方向——当前直接搜索 'foods or menu items served at Hawaiian Cottage' 未命中。可尝试：(1) 搜索 'Hawaiian Cottage menu' 或 'Hawaiian Cottage recipe'；(2) 搜索 'Polynesian restaurant menu 1930s 1970s' 获取时代背景下的典型菜品；(3) 若 KB 确实无直接记录，可考虑基于 N1_1 的 Polynesian style + luau show 事实，从 Luau chunk 推断可能供应的食物作为间接答案。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+              "chunk_title": "Restaurant Style & Theme",
+              "chunk_summary": "This chunk contains information about the style and theme of restaurants.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was a Polynesian style restaurant."
+            },
+            {
+              "chunk_id": "9a8292f7-c909-4935-a310-1cc2639d9b15",
+              "chunk_title": "The Hawaiian Cottage History",
+              "chunk_summary": "This chunk contains information about the history, location, founders, distinctive architectural features, cultural atmosphere, and eventual closure of The Hawaiian Cottage, a landmark in Cherry Hill, New Jersey.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "Mary Egidi-Pietrafesa continued to operate The Hawaiian Cottage after Michael Egidi's death. The site of The Hawaiian Cottage is now occupied by an Olive Garden Restaurant. The Hawaiian Cottage opened in 1938. The Hawaiian Cottage was established by Michael Egidi. The Hawaiian Cottage was located in Cherry Hill, New Jersey, United States. The Hawaiian Cottage was established by Mary Egidi-Pietrafesa. The Hawaiian Cottage's exterior was known for burning Polynesian torches at the entrance. John Muresan helped with The Hawaiian Cottage's growth. The Hawaiian Cottage started as a roadhouse. The Hawaiian Cottage was also known as \"The Cottage\". The Hawaiian Cottage was located on Cherry Hill's western side. The Hawaiian Cottage was located nearby the Cherry Hill Mall. The Hawaiian Cottage emerged into what was considered a South Jersey landmark. The Hawaiian Cottage was located on Route 38. The Cherry Hill Mall opened in 1961. The Hawaiian Cottage offered a Hawaiian atmosphere that included a luau show. The Hawaiian Cottage's exterior was known for its vivid yellow, pineapple-shaped dome."
+            },
+            {
+              "chunk_id": "a6ab18f9-b473-473f-977b-3010fdb1acd6",
+              "chunk_title": "Hawaiian Luaus",
+              "chunk_summary": "This chunk contains information about traditional Hawaiian parties or feasts, known as luaus, including the Hawaiian term for them, their typical accompaniment of entertainment, associated foods, and the cultural blending of the concept with modern celebrations like graduation and wedding parties.",
+              "context_title": "Luau",
+              "page_content": "A luau may feature food such as poi. The blending of \"luau\" and \"party\" among people from Hawaiʻi results in wedding luau. A luau may feature food such as Kalua pig. A luau is a traditional Hawaiian party or feast. A luau may feature food such as haupia. The blending of \"luau\" and \"party\" among people from Hawaiʻi results in birthday luau. A luau may feature food such as beer. A luau may feature food such as poke. Among people from Hawaiʻi, the concepts of \"luau\" and \"party\" are often blended. A luau is usually accompanied by entertainment. A luau may feature entertainment such as hula. A luau may feature food such as opihi. A luau may feature entertainment such as traditional Hawaiian music. A luau may feature food such as lomi salmon. The Hawaiian word for luau is \"lūʻau\". The blending of \"luau\" and \"party\" among people from Hawaiʻi results in graduation luau."
+            },
+            {
+              "chunk_id": "9ede807a-7280-46ae-b8c9-be998b79e073",
+              "chunk_title": "Ethnic Heritage & Ancestry",
+              "chunk_summary": "This chunk contains information about the ethnic heritage and ancestry of individuals.",
+              "context_title": "Rose C. Davison",
+              "page_content": "Rosalie Compton Kahipuleokalaniahumanu Davison was part Native Hawaiian."
+            },
+            {
+              "chunk_id": "c094a615-ef29-4ec6-89ed-07a89899a5f7",
+              "chunk_title": "Historical Fires",
+              "chunk_summary": "This chunk contains information about historical events involving the destruction of buildings by fire, including specific dates and locations.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was destroyed by a fire on July 1, 1978."
+            },
+            {
+              "chunk_id": "0a8c5356-49cc-41a4-bd2f-0607763efefc",
+              "chunk_title": "Media Publications",
+              "chunk_summary": "This chunk contains information about media publications, specifically magazines and the content or contributors they feature.",
+              "context_title": "Priscilla Martel",
+              "page_content": "Priscilla Martel is a contributing writer at \"Flavor and the Menu\" Magazine. \"Food & Wine\" is a magazine. Priscilla Martel's recipes appear in \"Food & Wine\" magazine."
+            },
+            {
+              "chunk_id": "71ce4097-bacd-4029-801b-990dae88864c",
+              "chunk_title": "Public Transportation Changes",
+              "chunk_summary": "This chunk contains information about changes to public transportation routes and terminals.",
+              "context_title": "University station (CTA)",
+              "page_content": "The Jackson Park Branch line was cut back to its current terminal at Cottage Grove."
+            },
+            {
+              "chunk_id": "bcffc7df-1635-46e2-b896-58794fc2e0ed",
+              "chunk_title": "Hawaiian Pronunciation",
+              "chunk_summary": "This chunk contains information about the pronunciation of Hawaiian words.",
+              "context_title": "Alyxia oliviformis",
+              "page_content": "Maile is pronounced \"MY-lĕ\" in Hawaiian."
+            },
+            {
+              "chunk_id": "2965d6a7-026e-4ec8-a417-31d3c056715a",
+              "chunk_title": "Cooking Activities",
+              "chunk_summary": "This chunk contains information about cooking activities and related topics.",
+              "context_title": "Sunset (magazine)",
+              "page_content": "Sunset focuses on cooking."
+            },
+            {
+              "chunk_id": "aca95e67-c99b-48d6-a19f-b22dce8a5d3f",
+              "chunk_title": "Hawaiian Song Translations",
+              "chunk_summary": "This chunk contains information about Hawaiian language translations and phrases, specifically regarding song lyrics.",
+              "context_title": "Hawaiian Wedding Song",
+              "page_content": "Dick Manning translated the original Hawaiian words of the song into English. \"Ke Kali Nei Au\" is Hawaiian for \"Waiting Here for You\"."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "What are some foods that may have been served at the Hawaiin Cottage?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What are some foods that may have been served at the Hawaiin Cottage?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Hawaiian Cottage 可能供应的食物。等待子节点 N1_2 解决后聚合答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT节点——无独立来源，答案由子节点推理链聚合。N1_1已solved（3个chunk来自Hawaiian Cottage文档，直接具体地陈述了餐厅类型、位置、运营时期）；N1_2已solved（1个chunk来自Luau文档，直接具体地列出了传统luau食物清单）。推理链完整：N1_1的Polynesian style restaurant + luau show为N1_2的推断提供上下文依据，N1_2从Luau传统食物推断可能供应的菜品。两条子路径（N0→N1_1→N1_2 和 N0→N1_2）语义有效，答案聚合后可支撑ROOT。",
+          "critic_normative_advice": "建议INHERIT——推理链完整且一致。N1_1确立餐厅性质，N1_2基于该性质从Luau传统食物推断可能供应的菜品，逻辑链条闭合。Q原文'may have been served'允许推断性答案，当前推理链满足这一要求。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What was the Hawaiin Cottage (type of establishment, location, time period of operation)?",
+          "answer": "Polynesian style restaurant in Cherry Hill, New Jersey, operating from 1938 to 1978",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What was the Hawaiin Cottage (type of establishment, location, time period of operation)?",
+          "planner_rationale": "已确立 Hawaiian Cottage 是 Polynesian style restaurant，位于 Cherry Hill NJ，运营于 1938-1978。该事实为 N1_2 提供关键上下文（餐厅类型暗示菜系风格，luau show 暗示可能供应传统夏威夷食物）",
+          "solver_judgment": "question 要求确认 Hawaiian Cottage 的机构类型、位置和运营时间。search_query 直接搜索了问题原文。chunks 返回了相关信息：chunk 9a8292f7 记载其位于 Cherry Hill, New Jersey 并于 1938 年开业；chunk 36ab4ded 指出其为 Polynesian style restaurant；chunk c094a615 记载其于 1978 年 7 月 1 日毁于火灾（即运营结束）。检索精准，信息完整覆盖了问题的三个维度。",
+          "critic_factual_notes": "3个来源，均来自同一文档'Hawaiian Cottage'的不同章节（单来源）。chunk 9a8292f7直接陈述'opened in 1938'和'located in Cherry Hill, New Jersey'；chunk 36ab4ded直接陈述'was a Polynesian style restaurant'；chunk c094a615直接陈述'destroyed by a fire on July 1, 1978'。三个chunk内容一致，交叉验证通过（单来源但直接具体）。",
+          "critic_normative_advice": "建议INHERIT——证据充分，答案完整覆盖机构类型、位置、运营时期三个维度，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "9a8292f7-c909-4935-a310-1cc2639d9b15",
+            "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+            "c094a615-ef29-4ec6-89ed-07a89899a5f7"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "9a8292f7-c909-4935-a310-1cc2639d9b15",
+              "chunk_title": "The Hawaiian Cottage History",
+              "chunk_summary": "This chunk contains information about the history, location, founders, distinctive architectural features, cultural atmosphere, and eventual closure of The Hawaiian Cottage, a landmark in Cherry Hill, New Jersey.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "Mary Egidi-Pietrafesa continued to operate The Hawaiian Cottage after Michael Egidi's death. The site of The Hawaiian Cottage is now occupied by an Olive Garden Restaurant. The Hawaiian Cottage opened in 1938. The Hawaiian Cottage was established by Michael Egidi. The Hawaiian Cottage was located in Cherry Hill, New Jersey, United States. The Hawaiian Cottage was established by Mary Egidi-Pietrafesa. The Hawaiian Cottage's exterior was known for burning Polynesian torches at the entrance. John Muresan helped with The Hawaiian Cottage's growth. The Hawaiian Cottage started as a roadhouse. The Hawaiian Cottage was also known as \"The Cottage\". The Hawaiian Cottage was located on Cherry Hill's western side. The Hawaiian Cottage was located nearby the Cherry Hill Mall. The Hawaiian Cottage emerged into what was considered a South Jersey landmark. The Hawaiian Cottage was located on Route 38. The Cherry Hill Mall opened in 1961. The Hawaiian Cottage offered a Hawaiian atmosphere that included a luau show. The Hawaiian Cottage's exterior was known for its vivid yellow, pineapple-shaped dome."
+            },
+            {
+              "chunk_id": "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+              "chunk_title": "Restaurant Style & Theme",
+              "chunk_summary": "This chunk contains information about the style and theme of restaurants.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was a Polynesian style restaurant."
+            },
+            {
+              "chunk_id": "c094a615-ef29-4ec6-89ed-07a89899a5f7",
+              "chunk_title": "Historical Fires",
+              "chunk_summary": "This chunk contains information about historical events involving the destruction of buildings by fire, including specific dates and locations.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was destroyed by a fire on July 1, 1978."
+            },
+            {
+              "chunk_id": "00a354f3-a465-418d-b1a1-e775af0d8d06",
+              "chunk_title": "Dick W. Emuchay's Career",
+              "chunk_summary": "This chunk contains information about the professional background and identity of Dick W. Emuchay, specifically focusing on his nationality as Nigerian and his roles as a medical doctor, administrator, commission chairman, university leader, and hospital founder.",
+              "context_title": "Dick W. Emuchay",
+              "page_content": "Dick W. Emuchay set up a 180-bed cottage hospital in 1961. Dick W. Emuchay was a Nigerian medical doctor. Dick W. Emuchay is reputed to have set up the first privately run rural hospital. Dick W. Emuchay set up the 180-bed cottage hospital in his home town of Azumini. Dick W. Emuchay was a Nigerian administrator. Dick W. Emuchay served as the first chairman of the Public Service Commission of the East Central State. Dick W. Emuchay served as Pro-Chancellor and Chairman of the Governing Council of Imo State University until 1985."
+            },
+            {
+              "chunk_id": "3b263d83-cf25-4693-bf70-7c4db42dad1b",
+              "chunk_title": "Store History & Evolution",
+              "chunk_summary": "This chunk contains information about the operational timeline, corporate evolution, and key personnel changes of a store.",
+              "context_title": "Ware's Department Store",
+              "page_content": "The firm of Ware & Sheffield eventually became a stock company in 1913. Howard R. Ware retired from his active business in 1932. The store operated from 1881 to the late 1930s."
+            },
+            {
+              "chunk_id": "cb744d7c-bd5f-4d28-8849-28db086d1b5b",
+              "chunk_title": "Hotel Establishment Dates",
+              "chunk_summary": "This chunk contains information about the establishment dates of hotels.",
+              "context_title": "Hotel Paracas",
+              "page_content": "Hotel Paracas was established in 1944."
+            },
+            {
+              "chunk_id": "5f91f4c5-6916-48d3-b8eb-dbb28f537d85",
+              "chunk_title": "Communities",
+              "chunk_summary": "This chunk contains information about communities, including their names, locations, founding organizations, and establishment dates.",
+              "context_title": "Cumberland Homesteads",
+              "page_content": "Cumberland Homesteads was established in 1934. Cumberland Homesteads is located in Cumberland County, Tennessee, United States. Cumberland Homesteads is a community. Cumberland Homesteads was established by the Division of Subsistence Homesteads."
+            },
+            {
+              "chunk_id": "db20c792-7023-4b2d-bed7-cad231607a1a",
+              "chunk_title": "Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific venues or buildings.",
+              "context_title": "4th AVN Awards",
+              "page_content": "The Tropicana Hotel Grand Ballroom is located in Paradise, Nevada."
+            },
+            {
+              "chunk_id": "e633e857-f11c-4258-a2bf-94ab21eebfea",
+              "chunk_title": "Historical Site Designations",
+              "chunk_summary": "This chunk contains information about the historical designation and recognition of specific sites or landmarks.",
+              "context_title": "R. E. Hoy No. 1 Oil Well",
+              "page_content": "The R.E. Hoy No. 1 Oil Well has been listed on the National Register of Historic Places since 1986."
+            },
+            {
+              "chunk_id": "fc6cbfe1-5876-425b-b7bf-16a0dfad522e",
+              "chunk_title": "Filming Locations",
+              "chunk_summary": "This chunk contains information about the primary filming locations of the series.",
+              "context_title": "American Ninja Warrior (season 4)",
+              "page_content": "Venice Beach, CA is the series' flagship location."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What specific menu items or foods are documented as being served at the Hawaiian Cottage in Cherry Hill NJ, or what traditional Polynesian/Hawaiian luau foods would be consistent with its Polynesian style theme and luau show entertainment?",
+          "answer": "poi, Kalua pig, haupia, beer, poke, opihi, lomi salmon",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What specific menu items or foods are documented as being served at the Hawaiian Cottage in Cherry Hill NJ, or what traditional Polynesian/Hawaiian luau foods would be consistent with its Polynesian style theme and luau show entertainment?",
+          "planner_rationale": "上一轮直接搜索 'foods or menu items served at Hawaiian Cottage' 未命中任何菜单记录。Critic 建议换搜索方向。新 question 扩展了搜索范围：(1) 加入地理位置 'Cherry Hill NJ' 提高搜索精度，(2) 明确接受基于 Polynesian style + luau show 的推断性答案（Q 原文用 'may have been served' 暗示推断可接受），(3) 引导 Solver 利用 N1_1 的上下文（Polynesian style restaurant, luau show）以及已检索到的 Luau chunk（含 poi, Kalua pig, poke 等传统食物）进行合理推断",
+          "solver_judgment": "question 要求提供 Hawaiian Cottage 的具体菜单或与其波利尼西亚主题和 luau 表演一致的传统夏威夷食物。search_query 完整复述了问题。chunks 中未包含该餐厅本身的历史菜单记录，但 chunk a6ab18f9 明确列出了传统夏威夷 luau 宴会的典型食物（poi, Kalua pig, haupia, beer, poke, opihi, lomi salmon），直接回应了问题的后半部分。检索部分成功，提供了符合主题的传统食物清单，但缺失餐厅专属的具体菜品信息。",
+          "critic_factual_notes": "1个来源（文档Luau）。chunk a6ab18f9直接陈述'A luau may feature food such as poi/Kalua pig/haupia/beer/poke/opihi/lomi salmon'。答案与chunk内容逐字匹配。该chunk回答的是question中OR连接的后半部分（'what traditional Polynesian/Hawaiian luau foods would be consistent with its Polynesian style theme and luau show entertainment'），直接且具体。单来源但直接具体地陈述了答案。",
+          "critic_normative_advice": "建议INHERIT——证据充分。question明确接受推断性答案（'may have been served'/'would be consistent'），chunk直接列出了传统luau食物清单，与N1_1确立的Polynesian style + luau show上下文一致。需在最终答案中标注这些是推断性食物而非餐厅专属菜单记录。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a6ab18f9-b473-473f-977b-3010fdb1acd6"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+              "chunk_title": "Restaurant Style & Theme",
+              "chunk_summary": "This chunk contains information about the style and theme of restaurants.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was a Polynesian style restaurant."
+            },
+            {
+              "chunk_id": "9a8292f7-c909-4935-a310-1cc2639d9b15",
+              "chunk_title": "The Hawaiian Cottage History",
+              "chunk_summary": "This chunk contains information about the history, location, founders, distinctive architectural features, cultural atmosphere, and eventual closure of The Hawaiian Cottage, a landmark in Cherry Hill, New Jersey.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "Mary Egidi-Pietrafesa continued to operate The Hawaiian Cottage after Michael Egidi's death. The site of The Hawaiian Cottage is now occupied by an Olive Garden Restaurant. The Hawaiian Cottage opened in 1938. The Hawaiian Cottage was established by Michael Egidi. The Hawaiian Cottage was located in Cherry Hill, New Jersey, United States. The Hawaiian Cottage was established by Mary Egidi-Pietrafesa. The Hawaiian Cottage's exterior was known for burning Polynesian torches at the entrance. John Muresan helped with The Hawaiian Cottage's growth. The Hawaiian Cottage started as a roadhouse. The Hawaiian Cottage was also known as \"The Cottage\". The Hawaiian Cottage was located on Cherry Hill's western side. The Hawaiian Cottage was located nearby the Cherry Hill Mall. The Hawaiian Cottage emerged into what was considered a South Jersey landmark. The Hawaiian Cottage was located on Route 38. The Cherry Hill Mall opened in 1961. The Hawaiian Cottage offered a Hawaiian atmosphere that included a luau show. The Hawaiian Cottage's exterior was known for its vivid yellow, pineapple-shaped dome."
+            },
+            {
+              "chunk_id": "a6ab18f9-b473-473f-977b-3010fdb1acd6",
+              "chunk_title": "Hawaiian Luaus",
+              "chunk_summary": "This chunk contains information about traditional Hawaiian parties or feasts, known as luaus, including the Hawaiian term for them, their typical accompaniment of entertainment, associated foods, and the cultural blending of the concept with modern celebrations like graduation and wedding parties.",
+              "context_title": "Luau",
+              "page_content": "A luau may feature food such as poi. The blending of \"luau\" and \"party\" among people from Hawaiʻi results in wedding luau. A luau may feature food such as Kalua pig. A luau is a traditional Hawaiian party or feast. A luau may feature food such as haupia. The blending of \"luau\" and \"party\" among people from Hawaiʻi results in birthday luau. A luau may feature food such as beer. A luau may feature food such as poke. Among people from Hawaiʻi, the concepts of \"luau\" and \"party\" are often blended. A luau is usually accompanied by entertainment. A luau may feature entertainment such as hula. A luau may feature food such as opihi. A luau may feature entertainment such as traditional Hawaiian music. A luau may feature food such as lomi salmon. The Hawaiian word for luau is \"lūʻau\". The blending of \"luau\" and \"party\" among people from Hawaiʻi results in graduation luau."
+            },
+            {
+              "chunk_id": "6fd3a115-29d6-47e2-b1c8-bea33f3ff110",
+              "chunk_title": "St. Lars Cuisine",
+              "chunk_summary": "This chunk contains information about the unique ingredients, exotic meat sources, and specific cooking methods used by the restaurant St. Lars.",
+              "context_title": "St. Lars restaurant",
+              "page_content": "The restaurant St. Lars is known for using meat from horses. The cuisine at St. Lars has an emphasis on Norwegian produce. Everything apart from the horse tartar at St. Lars has been cooked on a custom made grill. The cuisine at St. Lars has an emphasis on unusual cooking techniques. The restaurant St. Lars is known for using meat from bear. The cuisine at St. Lars is based on serving raw or grilled food. The restaurant St. Lars is known for using meat from pigs from Bygdø Royal Farm's petting zoo."
+            },
+            {
+              "chunk_id": "39d91ad8-bc60-4aec-af7e-6891cfd175b2",
+              "chunk_title": "Goombay Smash Origins & Ingredients",
+              "chunk_summary": "This chunk contains information about the creation, origin, and ingredients of the Goombay Smash cocktail.",
+              "context_title": "Goombay Smash",
+              "page_content": "Dirty rums are preferred in variations of the Goombay Smash. Imitators and variations of the Goombay Smash commonly use pineapple juice. Spiced rums are preferred in variations of the Goombay Smash. Imitators and variations of the Goombay Smash commonly use coconut. The original recipe for the Goombay Smash is believed to have contained pineapple juice. Other variations of the Goombay Smash include orange juice. Other variations of the Goombay Smash include Creme de Banana. Coconut cream can be used in place of coconut rum in variations of the Goombay Smash. Other variations of the Goombay Smash include grenadine. Apricot liqueur is sometimes used in variations of the Goombay Smash. Imitators and variations of the Goombay Smash commonly use rum. Emily Cooper created the Goombay Smash at the Blue Bee Bar. Dark rums are preferred in variations of the Goombay Smash. The original recipe for the Goombay Smash is believed to have contained dirty rum. The original recipe for the Goombay Smash is believed to have contained apricot brandy. The original recipe for the Goombay Smash is a secret. The Goombay Smash was created by Emily Cooper. The original recipe for the Goombay Smash is believed to have contained coconut rum. Amber rums are preferred in variations of the Goombay Smash."
+            },
+            {
+              "chunk_id": "bcffc7df-1635-46e2-b896-58794fc2e0ed",
+              "chunk_title": "Hawaiian Pronunciation",
+              "chunk_summary": "This chunk contains information about the pronunciation of Hawaiian words.",
+              "context_title": "Alyxia oliviformis",
+              "page_content": "Maile is pronounced \"MY-lĕ\" in Hawaiian."
+            },
+            {
+              "chunk_id": "c094a615-ef29-4ec6-89ed-07a89899a5f7",
+              "chunk_title": "Historical Fires",
+              "chunk_summary": "This chunk contains information about historical events involving the destruction of buildings by fire, including specific dates and locations.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was destroyed by a fire on July 1, 1978."
+            },
+            {
+              "chunk_id": "0a8c5356-49cc-41a4-bd2f-0607763efefc",
+              "chunk_title": "Media Publications",
+              "chunk_summary": "This chunk contains information about media publications, specifically magazines and the content or contributors they feature.",
+              "context_title": "Priscilla Martel",
+              "page_content": "Priscilla Martel is a contributing writer at \"Flavor and the Menu\" Magazine. \"Food & Wine\" is a magazine. Priscilla Martel's recipes appear in \"Food & Wine\" magazine."
+            },
+            {
+              "chunk_id": "3642da09-cf4c-4c6e-ba99-20d919208b5a",
+              "chunk_title": "Burger King History & Menu",
+              "chunk_summary": "This chunk contains information about the history, identity, and menu evolution of Burger King, including its founding, renaming, and the introduction of key products like the Whopper, Big King, and various premium burger initiatives.",
+              "context_title": "List of Burger King products",
+              "page_content": "Burger King was acquired by its Miami, Florida franchisees in 1954. The menu of the predecessor of Burger King predominantly consisted of hamburgers, French fries, soft drinks, milkshakes, and desserts in 1955. The premium hamburgers experimented with by Burger King were made from higher quality ingredients. Burger King did not add another permanent hamburger to its menu until 1996. Burger King was renamed in 1954. The Big King sandwich was introduced by Burger King in response to McDonald's Big Mac sandwich. The Big King sandwich was introduced by Burger King in 1996. The predecessor of Burger King first opened in 1955. Burger King first started offering sliders to its menu in the mid-1980s. Burger King (BK) is an international fast food restaurant chain. Burger King introduced its Specialty Sandwich product line in 1978. Burger King began expanding its menu by adding the Whopper after being renamed in 1954. The products of the Specialty Sandwich product line were some of the first designed by a fast food restaurant chain intended to capture the adult market. Burger King began to work on a premium burger in earnest in 2002. Burger King offered sliders off and on for the twenty years following the mid-1980s. Burger King began experimenting with premium hamburgers in 1978."
+            },
+            {
+              "chunk_id": "23504215-d00d-4724-87a7-cd39d87757c1",
+              "chunk_title": "Raw Bar Overview",
+              "chunk_summary": "This chunk contains information about the definition, setting, and diverse menu offerings of raw bars as a specific type of dining establishment.",
+              "context_title": "Raw bar",
+              "page_content": "A raw bar is a small restaurant. Oyster shooters are an example of alcoholic beverages offered at raw bars. Seafood-based dishes may be proferred at raw bars. Raw bars typically offer a variety of raw shellfish. Additional accompaniments at raw bars may include sauces. Additional non-seafood foods may be part of the fare at raw bars. Raw bars may offer sake. Raw bars typically offer a variety of cooked shellfish. Raw bars typically offer a variety of raw seafood. Additional accompaniments at raw bars may include condiments. Live raw shellfish are shucked at a raw bar. Additional accompaniments at raw bars may include foods such as lime. Raw bars typically offer a variety of cooked seafood. A raw bar is a bar within a restaurant. Raw bars may offer wine. Several restaurants in the United States offer raw bars. Raw bars may offer alcoholic beverages. Wine and sake at raw bars are paired with various foods. Additional accompaniments at raw bars may include foods such as lemon. Live raw shellfish are served at a raw bar. Some raw bars in the United States are seasonal. Seafood and shellfish at raw bars are served cold."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "What are some foods that may have been served at the Hawaiin Cottage?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What are some foods that may have been served at the Hawaiin Cottage?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问 Hawaiian Cottage 可能供应的食物。子节点 N1_1 和 N1_2 均已 solved + healthy，推理链闭合，可聚合答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT节点——无独立来源，答案由子节点推理链聚合。N1_1已solved（3个chunk来自Hawaiian Cottage文档，直接具体地陈述了餐厅类型、位置、运营时期）；N1_2已solved（1个chunk来自Luau文档，直接具体地列出了传统luau食物清单）。推理链完整：N1_1的Polynesian style restaurant + luau show为N1_2的推断提供上下文依据，N1_2从Luau传统食物推断可能供应的菜品。两条子路径（N0→N1_1→N1_2 和 N0→N1_2）语义有效，答案聚合后可支撑ROOT。",
+          "critic_normative_advice": "建议INHERIT——推理链完整且一致。N1_1确立餐厅性质，N1_2基于该性质从Luau传统食物推断可能供应的菜品，逻辑链条闭合。Q原文'may have been served'允许推断性答案，当前推理链满足这一要求。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What was the Hawaiin Cottage (type of establishment, location, time period of operation)?",
+          "answer": "Polynesian style restaurant in Cherry Hill, New Jersey, operating from 1938 to 1978",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What was the Hawaiin Cottage (type of establishment, location, time period of operation)?",
+          "planner_rationale": "已确立 Hawaiian Cottage 是 Polynesian style restaurant，位于 Cherry Hill NJ，运营于 1938-1978。该事实为 N1_2 提供关键上下文（餐厅类型暗示菜系风格，luau show 暗示可能供应传统夏威夷食物）。",
+          "solver_judgment": "question 要求确认 Hawaiian Cottage 的机构类型、位置和运营时间。search_query 直接搜索了问题原文。chunks 返回了相关信息：chunk 9a8292f7 记载其位于 Cherry Hill, New Jersey 并于 1938 年开业；chunk 36ab4ded 指出其为 Polynesian style restaurant；chunk c094a615 记载其于 1978 年 7 月 1 日毁于火灾（即运营结束）。检索精准，信息完整覆盖了问题的三个维度。",
+          "critic_factual_notes": "3个来源，均来自同一文档'Hawaiian Cottage'的不同章节（单来源）。chunk 9a8292f7直接陈述'opened in 1938'和'located in Cherry Hill, New Jersey'及'offered a Hawaiian atmosphere that included a luau show'；chunk 36ab4ded直接陈述'was a Polynesian style restaurant'；chunk c094a615直接陈述'destroyed by a fire on July 1, 1978'。三个chunk内容一致，交叉验证通过（单来源但直接具体）。",
+          "critic_normative_advice": "建议INHERIT——证据充分，答案完整覆盖机构类型、位置、运营时期三个维度，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "9a8292f7-c909-4935-a310-1cc2639d9b15",
+            "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+            "c094a615-ef29-4ec6-89ed-07a89899a5f7"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "9a8292f7-c909-4935-a310-1cc2639d9b15",
+              "chunk_title": "The Hawaiian Cottage History",
+              "chunk_summary": "This chunk contains information about the history, location, founders, distinctive architectural features, cultural atmosphere, and eventual closure of The Hawaiian Cottage, a landmark in Cherry Hill, New Jersey.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "Mary Egidi-Pietrafesa continued to operate The Hawaiian Cottage after Michael Egidi's death. The site of The Hawaiian Cottage is now occupied by an Olive Garden Restaurant. The Hawaiian Cottage opened in 1938. The Hawaiian Cottage was established by Michael Egidi. The Hawaiian Cottage was located in Cherry Hill, New Jersey, United States. The Hawaiian Cottage was established by Mary Egidi-Pietrafesa. The Hawaiian Cottage's exterior was known for burning Polynesian torches at the entrance. John Muresan helped with The Hawaiian Cottage's growth. The Hawaiian Cottage started as a roadhouse. The Hawaiian Cottage was also known as \"The Cottage\". The Hawaiian Cottage was located on Cherry Hill's western side. The Hawaiian Cottage was located nearby the Cherry Hill Mall. The Hawaiian Cottage emerged into what was considered a South Jersey landmark. The Hawaiian Cottage was located on Route 38. The Cherry Hill Mall opened in 1961. The Hawaiian Cottage offered a Hawaiian atmosphere that included a luau show. The Hawaiian Cottage's exterior was known for its vivid yellow, pineapple-shaped dome."
+            },
+            {
+              "chunk_id": "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+              "chunk_title": "Restaurant Style & Theme",
+              "chunk_summary": "This chunk contains information about the style and theme of restaurants.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was a Polynesian style restaurant."
+            },
+            {
+              "chunk_id": "c094a615-ef29-4ec6-89ed-07a89899a5f7",
+              "chunk_title": "Historical Fires",
+              "chunk_summary": "This chunk contains information about historical events involving the destruction of buildings by fire, including specific dates and locations.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was destroyed by a fire on July 1, 1978."
+            },
+            {
+              "chunk_id": "00a354f3-a465-418d-b1a1-e775af0d8d06",
+              "chunk_title": "Dick W. Emuchay's Career",
+              "chunk_summary": "This chunk contains information about the professional background and identity of Dick W. Emuchay, specifically focusing on his nationality as Nigerian and his roles as a medical doctor, administrator, commission chairman, university leader, and hospital founder.",
+              "context_title": "Dick W. Emuchay",
+              "page_content": "Dick W. Emuchay set up a 180-bed cottage hospital in 1961. Dick W. Emuchay was a Nigerian medical doctor. Dick W. Emuchay is reputed to have set up the first privately run rural hospital. Dick W. Emuchay set up the 180-bed cottage hospital in his home town of Azumini. Dick W. Emuchay was a Nigerian administrator. Dick W. Emuchay served as the first chairman of the Public Service Commission of the East Central State. Dick W. Emuchay served as Pro-Chancellor and Chairman of the Governing Council of Imo State University until 1985."
+            },
+            {
+              "chunk_id": "3b263d83-cf25-4693-bf70-7c4db42dad1b",
+              "chunk_title": "Store History & Evolution",
+              "chunk_summary": "This chunk contains information about the operational timeline, corporate evolution, and key personnel changes of a store.",
+              "context_title": "Ware's Department Store",
+              "page_content": "The firm of Ware & Sheffield eventually became a stock company in 1913. Howard R. Ware retired from his active business in 1932. The store operated from 1881 to the late 1930s."
+            },
+            {
+              "chunk_id": "cb744d7c-bd5f-4d28-8849-28db086d1b5b",
+              "chunk_title": "Hotel Establishment Dates",
+              "chunk_summary": "This chunk contains information about the establishment dates of hotels.",
+              "context_title": "Hotel Paracas",
+              "page_content": "Hotel Paracas was established in 1944."
+            },
+            {
+              "chunk_id": "5f91f4c5-6916-48d3-b8eb-dbb28f537d85",
+              "chunk_title": "Communities",
+              "chunk_summary": "This chunk contains information about communities, including their names, locations, founding organizations, and establishment dates.",
+              "context_title": "Cumberland Homesteads",
+              "page_content": "Cumberland Homesteads was established in 1934. Cumberland Homesteads is located in Cumberland County, Tennessee, United States. Cumberland Homesteads is a community. Cumberland Homesteads was established by the Division of Subsistence Homesteads."
+            },
+            {
+              "chunk_id": "db20c792-7023-4b2d-bed7-cad231607a1a",
+              "chunk_title": "Locations",
+              "chunk_summary": "This chunk contains information about the locations of specific venues or buildings.",
+              "context_title": "4th AVN Awards",
+              "page_content": "The Tropicana Hotel Grand Ballroom is located in Paradise, Nevada."
+            },
+            {
+              "chunk_id": "e633e857-f11c-4258-a2bf-94ab21eebfea",
+              "chunk_title": "Historical Site Designations",
+              "chunk_summary": "This chunk contains information about the historical designation and recognition of specific sites or landmarks.",
+              "context_title": "R. E. Hoy No. 1 Oil Well",
+              "page_content": "The R.E. Hoy No. 1 Oil Well has been listed on the National Register of Historic Places since 1986."
+            },
+            {
+              "chunk_id": "fc6cbfe1-5876-425b-b7bf-16a0dfad522e",
+              "chunk_title": "Filming Locations",
+              "chunk_summary": "This chunk contains information about the primary filming locations of the series.",
+              "context_title": "American Ninja Warrior (season 4)",
+              "page_content": "Venice Beach, CA is the series' flagship location."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What specific menu items or foods are documented as being served at the Hawaiian Cottage in Cherry Hill NJ, or what traditional Polynesian/Hawaiian luau foods would be consistent with its Polynesian style theme and luau show entertainment?",
+          "answer": "poi, Kalua pig, haupia, beer, poke, opihi, lomi salmon",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What specific menu items or foods are documented as being served at the Hawaiian Cottage in Cherry Hill NJ, or what traditional Polynesian/Hawaiian luau foods would be consistent with its Polynesian style theme and luau show entertainment?",
+          "planner_rationale": "已基于 N1_1 的 Polynesian style + luau show 上下文，从 Luau 传统食物推断出可能供应的菜品清单（poi, Kalua pig, haupia, beer, poke, opihi, lomi salmon）。Q 原文 'may have been served' 允许推断性答案，此节点答案满足要求。",
+          "solver_judgment": "question 要求提供 Hawaiian Cottage 的具体菜单或与其波利尼西亚主题和 luau 表演一致的传统夏威夷食物。search_query 完整复述了问题。chunks 中未包含该餐厅本身的历史菜单记录，但 chunk a6ab18f9 明确列出了传统夏威夷 luau 宴会的典型食物（poi, Kalua pig, haupia, beer, poke, opihi, lomi salmon），直接回应了问题的后半部分。检索部分成功，提供了符合主题的传统食物清单，但缺失餐厅专属的具体菜品信息。",
+          "critic_factual_notes": "1个来源（文档Luau）。chunk a6ab18f9直接陈述'A luau may feature food such as poi/Kalua pig/haupia/beer/poke/opihi/lomi salmon'。答案与chunk内容逐字匹配。该chunk回答的是question中OR连接的后半部分（'what traditional Polynesian/Hawaiian luau foods would be consistent with its Polynesian style theme and luau show entertainment'），直接且具体。单来源但直接具体地陈述了答案。",
+          "critic_normative_advice": "建议INHERIT——证据充分。question明确接受推断性答案（'may have been served'/'would be consistent'），chunk直接列出了传统luau食物清单，与N1_1确立的Polynesian style + luau show上下文一致。需在最终答案中标注这些是推断性食物而非餐厅专属菜单记录。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "a6ab18f9-b473-473f-977b-3010fdb1acd6"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+              "chunk_title": "Restaurant Style & Theme",
+              "chunk_summary": "This chunk contains information about the style and theme of restaurants.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was a Polynesian style restaurant."
+            },
+            {
+              "chunk_id": "9a8292f7-c909-4935-a310-1cc2639d9b15",
+              "chunk_title": "The Hawaiian Cottage History",
+              "chunk_summary": "This chunk contains information about the history, location, founders, distinctive architectural features, cultural atmosphere, and eventual closure of The Hawaiian Cottage, a landmark in Cherry Hill, New Jersey.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "Mary Egidi-Pietrafesa continued to operate The Hawaiian Cottage after Michael Egidi's death. The site of The Hawaiian Cottage is now occupied by an Olive Garden Restaurant. The Hawaiian Cottage opened in 1938. The Hawaiian Cottage was established by Michael Egidi. The Hawaiian Cottage was located in Cherry Hill, New Jersey, United States. The Hawaiian Cottage was established by Mary Egidi-Pietrafesa. The Hawaiian Cottage's exterior was known for burning Polynesian torches at the entrance. John Muresan helped with The Hawaiian Cottage's growth. The Hawaiian Cottage started as a roadhouse. The Hawaiian Cottage was also known as \"The Cottage\". The Hawaiian Cottage was located on Cherry Hill's western side. The Hawaiian Cottage was located nearby the Cherry Hill Mall. The Hawaiian Cottage emerged into what was considered a South Jersey landmark. The Hawaiian Cottage was located on Route 38. The Cherry Hill Mall opened in 1961. The Hawaiian Cottage offered a Hawaiian atmosphere that included a luau show. The Hawaiian Cottage's exterior was known for its vivid yellow, pineapple-shaped dome."
+            },
+            {
+              "chunk_id": "a6ab18f9-b473-473f-977b-3010fdb1acd6",
+              "chunk_title": "Hawaiian Luaus",
+              "chunk_summary": "This chunk contains information about traditional Hawaiian parties or feasts, known as luaus, including the Hawaiian term for them, their typical accompaniment of entertainment, associated foods, and the cultural blending of the concept with modern celebrations like graduation and wedding parties.",
+              "context_title": "Luau",
+              "page_content": "A luau may feature food such as poi. The blending of \"luau\" and \"party\" among people from Hawaiʻi results in wedding luau. A luau may feature food such as Kalua pig. A luau is a traditional Hawaiian party or feast. A luau may feature food such as haupia. The blending of \"luau\" and \"party\" among people from Hawaiʻi results in birthday luau. A luau may feature food such as beer. A luau may feature food such as poke. Among people from Hawaiʻi, the concepts of \"luau\" and \"party\" are often blended. A luau is usually accompanied by entertainment. A luau may feature entertainment such as hula. A luau may feature food such as opihi. A luau may feature entertainment such as traditional Hawaiian music. A luau may feature food such as lomi salmon. The Hawaiian word for luau is \"lūʻau\". The blending of \"luau\" and \"party\" among people from Hawaiʻi results in graduation luau."
+            },
+            {
+              "chunk_id": "6fd3a115-29d6-47e2-b1c8-bea33f3ff110",
+              "chunk_title": "St. Lars Cuisine",
+              "chunk_summary": "This chunk contains information about the unique ingredients, exotic meat sources, and specific cooking methods used by the restaurant St. Lars.",
+              "context_title": "St. Lars restaurant",
+              "page_content": "The restaurant St. Lars is known for using meat from horses. The cuisine at St. Lars has an emphasis on Norwegian produce. Everything apart from the horse tartar at St. Lars has been cooked on a custom made grill. The cuisine at St. Lars has an emphasis on unusual cooking techniques. The restaurant St. Lars is known for using meat from bear. The cuisine at St. Lars is based on serving raw or grilled food. The restaurant St. Lars is known for using meat from pigs from Bygdø Royal Farm's petting zoo."
+            },
+            {
+              "chunk_id": "39d91ad8-bc60-4aec-af7e-6891cfd175b2",
+              "chunk_title": "Goombay Smash Origins & Ingredients",
+              "chunk_summary": "This chunk contains information about the creation, origin, and ingredients of the Goombay Smash cocktail.",
+              "context_title": "Goombay Smash",
+              "page_content": "Dirty rums are preferred in variations of the Goombay Smash. Imitators and variations of the Goombay Smash commonly use pineapple juice. Spiced rums are preferred in variations of the Goombay Smash. Imitators and variations of the Goombay Smash commonly use coconut. The original recipe for the Goombay Smash is believed to have contained pineapple juice. Other variations of the Goombay Smash include orange juice. Other variations of the Goombay Smash include Creme de Banana. Coconut cream can be used in place of coconut rum in variations of the Goombay Smash. Other variations of the Goombay Smash include grenadine. Apricot liqueur is sometimes used in variations of the Goombay Smash. Imitators and variations of the Goombay Smash commonly use rum. Emily Cooper created the Goombay Smash at the Blue Bee Bar. Dark rums are preferred in variations of the Goombay Smash. The original recipe for the Goombay Smash is believed to have contained dirty rum. The original recipe for the Goombay Smash is believed to have contained apricot brandy. The original recipe for the Goombay Smash is a secret. The Goombay Smash was created by Emily Cooper. The original recipe for the Goombay Smash is believed to have contained coconut rum. Amber rums are preferred in variations of the Goombay Smash."
+            },
+            {
+              "chunk_id": "bcffc7df-1635-46e2-b896-58794fc2e0ed",
+              "chunk_title": "Hawaiian Pronunciation",
+              "chunk_summary": "This chunk contains information about the pronunciation of Hawaiian words.",
+              "context_title": "Alyxia oliviformis",
+              "page_content": "Maile is pronounced \"MY-lĕ\" in Hawaiian."
+            },
+            {
+              "chunk_id": "c094a615-ef29-4ec6-89ed-07a89899a5f7",
+              "chunk_title": "Historical Fires",
+              "chunk_summary": "This chunk contains information about historical events involving the destruction of buildings by fire, including specific dates and locations.",
+              "context_title": "Hawaiian Cottage",
+              "page_content": "The Hawaiian Cottage was destroyed by a fire on July 1, 1978."
+            },
+            {
+              "chunk_id": "0a8c5356-49cc-41a4-bd2f-0607763efefc",
+              "chunk_title": "Media Publications",
+              "chunk_summary": "This chunk contains information about media publications, specifically magazines and the content or contributors they feature.",
+              "context_title": "Priscilla Martel",
+              "page_content": "Priscilla Martel is a contributing writer at \"Flavor and the Menu\" Magazine. \"Food & Wine\" is a magazine. Priscilla Martel's recipes appear in \"Food & Wine\" magazine."
+            },
+            {
+              "chunk_id": "3642da09-cf4c-4c6e-ba99-20d919208b5a",
+              "chunk_title": "Burger King History & Menu",
+              "chunk_summary": "This chunk contains information about the history, identity, and menu evolution of Burger King, including its founding, renaming, and the introduction of key products like the Whopper, Big King, and various premium burger initiatives.",
+              "context_title": "List of Burger King products",
+              "page_content": "Burger King was acquired by its Miami, Florida franchisees in 1954. The menu of the predecessor of Burger King predominantly consisted of hamburgers, French fries, soft drinks, milkshakes, and desserts in 1955. The premium hamburgers experimented with by Burger King were made from higher quality ingredients. Burger King did not add another permanent hamburger to its menu until 1996. Burger King was renamed in 1954. The Big King sandwich was introduced by Burger King in response to McDonald's Big Mac sandwich. The Big King sandwich was introduced by Burger King in 1996. The predecessor of Burger King first opened in 1955. Burger King first started offering sliders to its menu in the mid-1980s. Burger King (BK) is an international fast food restaurant chain. Burger King introduced its Specialty Sandwich product line in 1978. Burger King began expanding its menu by adding the Whopper after being renamed in 1954. The products of the Specialty Sandwich product line were some of the first designed by a fast food restaurant chain intended to capture the adult market. Burger King began to work on a premium burger in earnest in 2002. Burger King offered sliders off and on for the twenty years following the mid-1980s. Burger King began experimenting with premium hamburgers in 1978."
+            },
+            {
+              "chunk_id": "23504215-d00d-4724-87a7-cd39d87757c1",
+              "chunk_title": "Raw Bar Overview",
+              "chunk_summary": "This chunk contains information about the definition, setting, and diverse menu offerings of raw bars as a specific type of dining establishment.",
+              "context_title": "Raw bar",
+              "page_content": "A raw bar is a small restaurant. Oyster shooters are an example of alcoholic beverages offered at raw bars. Seafood-based dishes may be proferred at raw bars. Raw bars typically offer a variety of raw shellfish. Additional accompaniments at raw bars may include sauces. Additional non-seafood foods may be part of the fare at raw bars. Raw bars may offer sake. Raw bars typically offer a variety of cooked shellfish. Raw bars typically offer a variety of raw seafood. Additional accompaniments at raw bars may include condiments. Live raw shellfish are shucked at a raw bar. Additional accompaniments at raw bars may include foods such as lime. Raw bars typically offer a variety of cooked seafood. A raw bar is a bar within a restaurant. Raw bars may offer wine. Several restaurants in the United States offer raw bars. Raw bars may offer alcoholic beverages. Wine and sake at raw bars are paired with various foods. Additional accompaniments at raw bars may include foods such as lemon. Live raw shellfish are served at a raw bar. Some raw bars in the United States are seasonal. Seafood and shellfish at raw bars are served cold."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What was the Hawaiin Cottage (type of establishment, location, time period of operation)?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "9a8292f7-c909-4935-a310-1cc2639d9b15",
+        "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+        "c094a615-ef29-4ec6-89ed-07a89899a5f7",
+        "00a354f3-a465-418d-b1a1-e775af0d8d06",
+        "3b263d83-cf25-4693-bf70-7c4db42dad1b",
+        "cb744d7c-bd5f-4d28-8849-28db086d1b5b",
+        "5f91f4c5-6916-48d3-b8eb-dbb28f537d85",
+        "db20c792-7023-4b2d-bed7-cad231607a1a",
+        "e633e857-f11c-4258-a2bf-94ab21eebfea",
+        "fc6cbfe1-5876-425b-b7bf-16a0dfad522e"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What foods or menu items were served at the Hawaiin Cottage?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+        "9a8292f7-c909-4935-a310-1cc2639d9b15",
+        "a6ab18f9-b473-473f-977b-3010fdb1acd6",
+        "9ede807a-7280-46ae-b8c9-be998b79e073",
+        "c094a615-ef29-4ec6-89ed-07a89899a5f7",
+        "0a8c5356-49cc-41a4-bd2f-0607763efefc",
+        "71ce4097-bacd-4029-801b-990dae88864c",
+        "bcffc7df-1635-46e2-b896-58794fc2e0ed",
+        "2965d6a7-026e-4ec8-a417-31d3c056715a",
+        "aca95e67-c99b-48d6-a19f-b22dce8a5d3f"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "What specific menu items or foods are documented as being served at the Hawaiian Cottage in Cherry Hill NJ, or what traditional Polynesian/Hawaiian luau foods would be consistent with its Polynesian style theme and luau show entertainment?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "36ab4ded-fb87-40b3-a5b0-e6ca97999f63",
+        "9a8292f7-c909-4935-a310-1cc2639d9b15",
+        "a6ab18f9-b473-473f-977b-3010fdb1acd6",
+        "6fd3a115-29d6-47e2-b1c8-bea33f3ff110",
+        "39d91ad8-bc60-4aec-af7e-6891cfd175b2",
+        "bcffc7df-1635-46e2-b896-58794fc2e0ed",
+        "c094a615-ef29-4ec6-89ed-07a89899a5f7",
+        "0a8c5356-49cc-41a4-bd2f-0607763efefc",
+        "3642da09-cf4c-4c6e-ba99-20d919208b5a",
+        "23504215-d00d-4724-87a7-cd39d87757c1"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What was the Hawaiin Cottage?（理由：Q 指向一个特定场所，需先确认其性质、位置、运营时期以建立搜索上下文），F2: What foods were served at the Hawaiin Cottage?（理由：Q 的核心询问——该场所供应的食物）。关系: F1 是 Q 的分解产物（decomposition——确立实体背景），F2 是 Q 的分解产物（decomposition——直接回答核心问题），F1 也是 F2 的分解产物（decomposition——F1 的答案为 F2 的搜索提供上下文，如场所类型和时期可帮助定位相关菜单记录）",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），N1（$1，question='What was the Hawaiin Cottage...'，rationale='确立实体背景'），N2（$2，question='What foods or menu items were served...'，rationale='核心询问'）。新增边: N0→N1（decomposition），N0→N2（decomposition），N1→N2（decomposition）。结构假设：先了解 Hawaiin Cottage 是什么，再利用该上下文搜索其食物/菜单信息。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件①未满足：N1_2 为 unsolved（搜索未提取到答案）；条件③未通过：N1_2 critic_health=needs_verification（有提示性证据但不充分），N0 critic_health=needs_verification（依赖链不完整）。条件②通过：N1_1→N1_2 依赖链语义有效（N1_1 的 answer 为 N1_2 提供实体上下文）。建议继续探索——换搜索方"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What was the Hawaiian Cottage?（理由：Q 指向特定场所，需先确认其性质、位置、运营时期以建立搜索上下文），F2: What foods were served or may have been served at the Hawaiian Cottage?（理由：Q 的核心询问——该场所供应的食物，\"may have been\" 暗示可接受基于餐厅类型和娱乐形式的推断）。关系: F1 是 Q 的分解产物（decomposition——确立实体背景），F2 是 Q 的分解产物（decomposition——直接回答核心问题），F1 也是 F2 的分解产物（decomposition——F1 的答案 Polynesian style restaurant + luau show 为 F2 提供推断依据，帮助 Solver 从 Luau 传统食物中筛选可能供应的菜品）",
+      "hypothesis_delta": "换标: N1_2 question 从 \"What foods or menu items were served at the Hawaiin Cottage?\" 改为 \"What specific menu items or foods are documented as being served at the Hawaiian Cottage in Cherry Hill NJ, or what traditional Polynesian/Hawaiian luau foods would be consistent with its Polynesian style theme and luau show entertainment?\"，原因：上一轮直接搜索未命中任何菜单记录（Critic 判为 needs_verification）。新 question 做了三项改进：(1) 加入地理位置 \"Cherry Hill NJ\" 提高搜索精度，(2) 明确接受推断性答案以匹配 Q 原文 \"may have been served\" 的措辞，(3) 引导 Solver 利用 N1_",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（N1_2 question被修改换标）。但这是合理的正向调整（从直接搜索菜单改为接受推断性答案），非震荡。条件①②③均已满足：所有非根节点SOLVED，推理链语义有效（N1_1→N1_2依赖链中上游answer消解了下游question的上下文需求），所有节点（含ROOT）均为healthy。建议下轮若拓扑稳定则可终止。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What was the Hawaiian Cottage?（理由：Q 指向特定场所，需先确认其性质、位置、运营时期以建立搜索上下文），F2: What foods may have been served at the Hawaiian Cottage?（理由：Q 的核心询问——该场所供应的食物，\"may have been\" 暗示可接受基于餐厅类型和娱乐形式的推断）。关系: F1 是 Q 的分解产物（decomposition——确立实体背景），F2 是 Q 的分解产物（decomposition——直接回答核心问题），F1 也是 F2 的分解产物（decomposition——F1 的答案 Polynesian style restaurant + luau show 为 F2 提供推断依据，帮助从 Luau 传统食物中筛选可能供应的菜品）。当前 DAG 已完整覆盖 Q 的语义需求，推理链闭合，可终止。",
+      "hypothesis_delta": "本轮无结构调整——所有节点和边均通过 INHERIT/LINK 保留。原因：Critic 确认当前 DAG 结构合理，已逼近理想分解。N1_1（solved + healthy）完整确立了 Hawaiian Cottage 的实体背景（Polynesian style restaurant, Cherry Hill NJ, 1938-1978）；N1_2（solved + healthy）基于 N1_1 的上下文从 Luau 传统食物推断出可能供应的菜品清单（poi, Kalua pig, haupia, beer, poke, opihi, lomi salmon）。推理链完整且一致，Q 原文 \"may have been served\" 允许推断性答案，当前结构满足这一要求。无需新增、删除或换标任何节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足，推理链完整，所有节点证据充分。条件①：所有非根节点（N1_1, N1_2）均已SOLVED。条件②：推理链语义匹配——路径N0→N1_1→N1_2中，N1_1答案（Polynesian style restaurant + luau show）语义上消解了N1_2 question中的上下文依赖，使推断成立；路径N0→N1_2为直接分解，语义有效。条件③：全部节点（N0, N1_1,"
+      }
+    }
+  ]
+}

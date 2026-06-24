@@ -1,0 +1,814 @@
+{
+  "question_index": 436,
+  "question_id": "5ab3c7df55429969a97a81be",
+  "question": "which is larger, Hunchun or Shijiazhuang?",
+  "answer": "Shijiazhuang",
+  "prediction": "CANNOT_ANSWER",
+  "error": null,
+  "latency_ms": 325664.6498000482,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T22:34:00.192323+00:00",
+  "chunks": [
+    {
+      "chunk_id": "7bfec249-df1d-41f3-8baf-739c9de837b5",
+      "chunk_title": "Hunchun Location & Status",
+      "chunk_summary": "This chunk contains information about the administrative classification and geographical location of Hunchun within China, including its borders with North Korea and Russia.",
+      "context_title": "Hunchun",
+      "page_content": "Hunchun borders North Hamgyong province of North Korea. Hunchun borders Russia. Hunchun is a county-level city. Hunchun is in the Yanbian Korean Autonomous Prefecture. Hunchun borders North Korea. Jilin province is in Northeast China. Hunchun borders Primorsky Krai of Russia. The Yanbian Korean Autonomous Prefecture is in far eastern Jilin province."
+    },
+    {
+      "chunk_id": "d3a6e2d0-375f-4397-9bfa-2c2b3dc7cdea",
+      "chunk_title": "Historical Capitals & Names",
+      "chunk_summary": "This chunk contains information about historical capitals, their alternative names, and periods of significance.",
+      "context_title": "Hunchun",
+      "page_content": "Hunchun was the capital of the Balhae Kingdom between 785 and 793. Hunchun was known as \"Dongyang\" when it was the capital of the Balhae Kingdom. The Balhae Kingdom is also known as the Bohai Kingdom."
+    },
+    {
+      "chunk_id": "59a441d0-9648-423d-a541-c96585e78c1c",
+      "chunk_title": "Population Sizes",
+      "chunk_summary": "This chunk contains information about the population size of specific cities or regions.",
+      "context_title": "Hunchun",
+      "page_content": "Hunchun has over 250,000 inhabitants."
+    },
+    {
+      "chunk_id": "a6a70498-3499-4833-b4d8-5f2d6888148a",
+      "chunk_title": "Geography & Size",
+      "chunk_summary": "This chunk contains information about the geographical area and size of locations.",
+      "context_title": "Hunchun",
+      "page_content": "Hunchun covers 5,145 square kilometers."
+    },
+    {
+      "chunk_id": "145a8307-a59e-4157-8d44-962bae40fbaf",
+      "chunk_title": "Place Name Etymology",
+      "chunk_summary": "This chunk contains information about the etymology and linguistic origins of place names, specifically focusing on Manchu language derivations.",
+      "context_title": "Hunchun",
+      "page_content": "The name Hunchun comes from the Manchu language. The name Hunchun means \"borderland\" in the Manchu language."
+    },
+    {
+      "chunk_id": "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+      "chunk_title": "Seoul & Capital Area",
+      "chunk_summary": "This chunk contains information about Seoul's status as a major metropolis, its global ranking, and the demographics and composition of the broader Seoul Capital Area.",
+      "context_title": "Seoul",
+      "page_content": "The Seoul Capital Area has 678,102 international residents. The Seoul Capital Area includes the surrounding Gyeonggi province. Seoul forms the heart of the Seoul Capital Area. The Seoul Capital Area houses about half of the country's population. Seoul is the world's 16th largest city. The Seoul Capital Area includes the surrounding Incheon metropolis. Seoul is the largest metropolis of the Republic of Korea."
+    },
+    {
+      "chunk_id": "08374797-f8db-4edc-b9cb-fc5487c9093e",
+      "chunk_title": "Mid-South Regional Overview",
+      "chunk_summary": "This chunk contains information about the geographic scope, commercial role, cultural significance, population statistics, and historical evolution of specific combined statistical areas or regional hubs.",
+      "context_title": "Memphis metropolitan area",
+      "page_content": "The greater Mid-South area includes the Missouri Bootheel. The addition of the Forrest City Micropolitan area to the Memphis area in 2012 formed the Memphis-Forrest City Combined Statistical area. The Memphis-Forrest City Combined Statistical area had a population of 1,369,548 according to census estimates. The greater Mid-South area is covered by Memphis local news channels. The Memphis-Forrest City Combined Statistical Area, TN-MS-AR (CSA) is the commercial and cultural hub of The Mid-South or Ark-Miss-Tenn. The Forrest City Micropolitan area was added to the Memphis area in 2012. The three states covered by the census defined combined statistical area are Tennessee, Mississippi, and Arkansas. The greater Mid-South area includes Northeast Arkansas. The greater Mid-South area as a whole has a population of 2.4 million according to 2013 census estimates. The census defined combined statistical area covers ten counties in three states. The greater Mid-South area includes North Mississippi. As of census 2010 the MSA had a population of 1,324,108. The greater Mid-South area includes West Tennessee."
+    },
+    {
+      "chunk_id": "fdd1cf6b-9998-40b4-8ccb-63219915c9b7",
+      "chunk_title": "Historical Geography",
+      "chunk_summary": "This chunk contains information about the historical significance of specific geographical locations, particularly those with preserved ancient towns or heritage sites.",
+      "context_title": "Xingcheng",
+      "page_content": "The area of Xingcheng is steeped in history. Xingcheng contains one of the best preserved Ming Dynasty towns in China."
+    },
+    {
+      "chunk_id": "c8e186b2-9c44-4303-82a5-4ce21b40bb6d",
+      "chunk_title": "Geographical Locations & Distances",
+      "chunk_summary": "This chunk contains information about the geographical locations and relative distances of places in China.",
+      "context_title": "Shijiazhuang",
+      "page_content": "Shijiazhuang is about 263 km southwest of Beijing. Hebei Province is in North China."
+    },
+    {
+      "chunk_id": "992ba10c-a269-4098-a738-08b97ec02a59",
+      "chunk_title": "Shijiazhuang Overview",
+      "chunk_summary": "This chunk contains information about the geographical characteristics, administrative status, and historical romanization of Shijiazhuang, a city in China.",
+      "context_title": "Shijiazhuang",
+      "page_content": "Shijiazhuang was formerly romanized as Shihkiachwang. Shijiazhuang administers two county-level cities. Shijiazhuang is the largest city of Hebei Province. Shijiazhuang administers eight districts. Shijiazhuang administers 12 counties. Shijiazhuang is administratively a prefecture-level city."
+    },
+    {
+      "chunk_id": "c45f8ad3-9d68-4222-a6fd-3bd3fd897364",
+      "chunk_title": "Chinese Provincial Capitals",
+      "chunk_summary": "This chunk contains information about the capital cities of Chinese provinces.",
+      "context_title": "Shijiazhuang",
+      "page_content": "Shijiazhuang is the capital of Hebei Province."
+    },
+    {
+      "chunk_id": "84f52bf4-147c-4ada-8ffb-31bd46683f3f",
+      "chunk_title": "Population Statistics",
+      "chunk_summary": "This chunk contains information about population statistics from the 2010 census for various locations.",
+      "context_title": "Mount Vernon, Indiana",
+      "page_content": "The Evansville, Indiana, metropolitan area had a population of 358,676 at the 2010 census. The population of Mount Vernon was 6,687 at the 2010 census."
+    },
+    {
+      "chunk_id": "161cd5ed-14d7-452a-901e-a674e0526756",
+      "chunk_title": "Saint John Population Statistics",
+      "chunk_summary": "This chunk contains information about the population statistics and ranking changes of Saint John, New Brunswick.",
+      "context_title": "Saint John, New Brunswick",
+      "page_content": "The Saint John metropolitan area had a population of 126,202 as of 2016. The city of Saint John had a population of 67,575 in 2016. In 2016, the city of Saint John fell from being the most populous city in New Brunswick to the second most populous city in the province for the first time."
+    },
+    {
+      "chunk_id": "66c3d197-dc5e-4113-a42c-deb458069bce",
+      "chunk_title": "Linzhou Geography",
+      "chunk_summary": "This chunk contains information about the geographical location, topography, adjacent regions, and area of Linzhou.",
+      "context_title": "Linzhou, Henan",
+      "page_content": "Linzhou is located in Anyang, Henan, China. Linzhou is adjacent to Shanxi Province. Linzhou is adjacent to Hebei Province. Linzhou is located in the north of Henan Province. Linzhou is located at the eastern foot of the Taihang Mountains. Linzhou covers an area of 2046 square kilometers."
+    },
+    {
+      "chunk_id": "9a413f5b-c7bf-42fb-b9ad-0816d01c116e",
+      "chunk_title": "Mount Lao Geography",
+      "chunk_summary": "This chunk contains information about specific mountains, including their alternative names, geographical locations, and notable physical characteristics.",
+      "context_title": "Mount Lao",
+      "page_content": "The Qingdao Laoshan National Park covers an area of 446 square kilometers. Mount Lao is located in China. The highest peak of Mount Lao is Jufeng. Mount Lao is also known as Laoshan. Mount Lao is located near the East China Sea. Mount Lao lies about 30 km to the northeast of the downtown area of the City of Qingdao. Mount Lao is located on the southeastern coastline of the Shandong Peninsula. Mount Lao is the second highest mountain in Shandong. Mount Lao is the highest coastal mountain in China. Mount Lao is protected by the Qingdao Laoshan National Park. Jufeng reaches 1132.7 m. Mount Lao is a mountain."
+    },
+    {
+      "chunk_id": "0712c4c3-ac10-4502-831e-c4e07c0a58cc",
+      "chunk_title": "R&B Girl Group Total",
+      "chunk_summary": "This chunk contains information about the American R&B girl group Total, including their members, record label affiliation with Bad Boy Records, notable hits featuring various artists, and individual member contributions to other songs.",
+      "context_title": "Total (group)",
+      "page_content": "Total was one of the signature acts of Sean Combs' Bad Boy Records imprint during the 1990s. Total is best known for the hit \"What You Want\". The group Total consisted of member Pamela Long. Total is best known for the hit \"Kissing You\". The group Total consisted of member Keisha Spivey. Sean Combs owns the Bad Boy Records imprint. The song \"Trippin'\" features Missy Elliott. The song \"What About Us?\" features Missy Elliott. Total is an American contemporary R&B girl group. The song \"What You Want\" features Mase. Pamela Long sang the chorus on The Notorious B.I.G.'s hit song \"Hypnotize\". Total is best known for the hit \"What About Us?\". Pamela Long was featured on The Notorious B.I.G.'s hit song \"Hypnotize\". Total is best known for the hit \"Can't You See\". The group Total consisted of member Kima Raynor. Total is best known for the hit \"Trippin'\". The song \"Can't You See\" features The Notorious B.I.G."
+    },
+    {
+      "chunk_id": "4d97b446-81ba-4957-b4ee-8b37e2b75461",
+      "chunk_title": "Project Site Details",
+      "chunk_summary": "This chunk contains information about the location, size, boundaries, and historical context of the Central Park Development project in Sydney.",
+      "context_title": "The Mark (Sydney)",
+      "page_content": "The entire Central Park project site covered 15 hectares on Broadway, Sydney. The Central Park project site is a redeveloped industrial site. Central Park Development is near Sydney Central Business District. The boundaries of the Central Park project site are at O'Connor Street, Carlton Street, Broadway and Chippendale Way. The Central Park redevelopment has a total Gross Floor Area (GFA) of over 150,000 square metres."
+    },
+    {
+      "chunk_id": "e8505f52-ffcd-4dd8-ab48-cbeb01d77737",
+      "chunk_title": "Kerala Cities by Population",
+      "chunk_summary": "This chunk contains information about major cities in Kerala ranked by population based on census data, including post-merger figures, and should be expanded to include other geographical details or administrative divisions of the region.",
+      "context_title": "List of Kerala cities by population",
+      "page_content": "The article lists major cities in Kerala based on the total population in city corporations or municipalities and their outgrowths. Population of cities after major mergers post to latest census are included in the list. The list of major cities in Kerala is based on the latest census data. The article lists major cities in Kerala."
+    },
+    {
+      "chunk_id": "0f442ae7-4258-4442-b365-e0aa4e7a2c3d",
+      "chunk_title": "Metropolitan Areas",
+      "chunk_summary": "This chunk contains information about metropolitan areas and their extended urban regions.",
+      "context_title": "Juanda International Airport",
+      "page_content": "Gerbangkertosusila is the metropolitan area of Surabaya plus extended urban area."
+    },
+    {
+      "chunk_id": "1c8efd4b-b5ed-4648-b048-99f3975e978c",
+      "chunk_title": "Nebraska Territory History",
+      "chunk_summary": "This chunk contains information about the history, legislative creation, existence dates, capital, geographic extent, and statehood admission of the Territory of Nebraska.",
+      "context_title": "Nebraska Territory",
+      "page_content": "The Territory of Nebraska existed from May 30, 1854, until March 1, 1867. The Nebraska Territory encompassed areas of what is today Nebraska. The territorial capital of the Nebraska Territory was Omaha. The Nebraska Territory was created by the Kansas–Nebraska Act of 1854. The Nebraska Territory encompassed areas of what is today North Dakota. The Nebraska Territory encompassed areas of what is today Montana. The final extent of the Territory of Nebraska was admitted to the Union as the State of Nebraska on March 1, 1867. The Nebraska Territory encompassed areas of what is today Colorado. The Territory of Nebraska was an organized incorporated territory of the United States. The Nebraska Territory encompassed areas of what is today South Dakota. The Nebraska Territory encompassed areas of what is today Wyoming."
+    },
+    {
+      "chunk_id": "0181e200-9e44-4d84-bb10-bea4666954f2",
+      "chunk_title": "Population Size",
+      "chunk_summary": "This chunk contains information about the population size of Linzhou.",
+      "context_title": "Linzhou, Henan",
+      "page_content": "Linzhou has a population of about one million."
+    },
+    {
+      "chunk_id": "9d955eb5-b635-4a3b-83c4-94a891bf50e2",
+      "chunk_title": "Demographics",
+      "chunk_summary": "This chunk contains demographic information about the population of Xingcheng.",
+      "context_title": "Xingcheng",
+      "page_content": "Xingcheng has a population of approximately 140,000 urban inhabitants."
+    },
+    {
+      "chunk_id": "0f92ea97-2817-4cbf-a778-f905de2d8627",
+      "chunk_title": "City Size & Population",
+      "chunk_summary": "This chunk contains information about the size and population characteristics of specific cities.",
+      "context_title": "Gansu Agricultural University",
+      "page_content": "Lanzhou has a population range of 250,000-499,999 inhabitants. Lanzhou is a small city."
+    },
+    {
+      "chunk_id": "8920d3a9-5387-48de-a8e6-045c37a78530",
+      "chunk_title": "City Population Rankings",
+      "chunk_summary": "This chunk contains information about the population size and global ranking of major cities, specifically focusing on Shanghai.",
+      "context_title": "Shanghai",
+      "page_content": "Shanghai is the most populous city proper in the world as of 2014. Shanghai had a population of more than 24 million as of 2014."
+    },
+    {
+      "chunk_id": "b1643532-7b01-4519-970f-5208b8488994",
+      "chunk_title": "School District Profile",
+      "chunk_summary": "This chunk contains information about the characteristics, location, classification, and population demographics of the Dover Area School District.",
+      "context_title": "Dover Area School District",
+      "page_content": "The Dover Area School District is a midsized school district. The Dover Area School District encompasses an area of approximately 65 square miles. According to the 2000 federal census, the population of the Dover Area School District was 22,349 people. The Dover Area School District serves the community of Washington Township in York County. For the Dover Area School District population aged 25 years old and over, 87% were high school graduates. The Dover Area School District is a rural school district. The Dover Area School District serves the Borough of Dover in York County. The Dover Area School District is located in Dover, York County, Pennsylvania. According to the 2010 United States Census, the Dover Area School District community's population grew to 25,779 people. The Dover Area School District serves the community of Dover Township in York County. The Dover Area School District is a public school district. For the Dover Area School District population aged 25 years old and over, 14.7% were college graduates."
+    },
+    {
+      "chunk_id": "144111c1-f538-4d34-8fcd-b614d83f1b3d",
+      "chunk_title": "2001 Bangladesh Census",
+      "chunk_summary": "This chunk contains information about the 2001 national census in Bangladesh, including its timing relative to previous censuses, the conducting organization, geographic coverage, specific demographic and socioeconomic data collected, and population figures.",
+      "context_title": "2001 Bangladesh census",
+      "page_content": "The 2001 census in Bangladesh included statistical data on religion. The 2001 national census in Bangladesh was conducted ten years after the 1991 census. The 2001 census in Bangladesh included statistical data on the number of children. An adjustment for the standard rate of undercounting boosted the 2001 census population figure for Bangladesh. The 2001 census in Bangladesh included statistical data on households. The 2001 census in Bangladesh included statistical data on the economically active population. According to the adjusted 2001 census figures, Bangladesh's population stood at 129.3 million. The Bangladesh Bureau of Statistics recorded data from main cities in Bangladesh during the 2001 census. The Bangladesh Bureau of Statistics recorded data from all of the upazilas in Bangladesh during the 2001 census. The Bangladesh Bureau of Statistics recorded data from all of the districts in Bangladesh during the 2001 census. The 2001 census in Bangladesh included statistical data on marital status. The 2001 census in Bangladesh included statistical data on literacy and educational attainment. According to the 2001 census, Hindus were 9.2 per cent of the population of Bangladesh. The 2001 census in Bangladesh included statistical data on population size. An initial count of the 2001 census put Bangladesh's population at 124.4 million. The Bangladesh Bureau of Statistics conducted a national census in Bangladesh in 2001. The 2001 census in Bangladesh included statistical data on sex and age distribution."
+    },
+    {
+      "chunk_id": "d7aecc12-53f7-48d3-989c-7d84d09aba80",
+      "chunk_title": "West Shore School District Profile",
+      "chunk_summary": "This chunk contains general information about the West Shore School District, including its size, type, funding status, location, leadership, service areas, and population statistics; add any other relevant facts about the district here.",
+      "context_title": "West Shore School District",
+      "page_content": "West Shore School District serves Newberry Township in York County. West Shore School District is a large school district. West Shore School District serves students in eastern Cumberland County. Todd Stoltz is the Superintendent of West Shore School District. By 2010, the population of West Shore School District increased to 62,514 people. West Shore School District encompasses approximately 78 square miles. The main office of West Shore School District is located in Lewisberry, Pennsylvania. West Shore School District serves students in northern York County. West Shore School District is a suburban school district. West Shore School District is a public school district. West Shore School District serves Fairview Township in York County. According to 2000 federal census data, West Shore School District served a resident population of 57,960 people. West Shore School District serves Lewisberry borough in York County. West Shore School District serves Lower Allen Township in Cumberland County. West Shore School District serves the municipality of Wormleysburg borough. West Shore School District serves the municipality of New Cumberland borough. West Shore School District serves Goldsboro borough in York County. West Shore School District serves the municipality of Lemoyne borough."
+    },
+    {
+      "chunk_id": "c973e999-61e4-413c-9f4f-758c890fecdb",
+      "chunk_title": "School District Profile",
+      "chunk_summary": "This chunk contains information about the classification, location, service area, size, population, and educational attainment of the Southern York County School District.",
+      "context_title": "Southern York County School District",
+      "page_content": "The Southern York County School District encompasses approximately 68 square miles. The Southern York County School District is in York County. The Southern York County School District is a suburban school district. The Southern York County School District serves Shrewsbury Township. The educational attainment levels for the Southern York County School District population (25 years old and over) included 89.3% high school graduates. The Southern York County School District serves a portion of Hopewell Township. The Southern York County School District serves Shrewsbury. By 2010, the Southern York County School District's population increased to 20,858 people. The Southern York County School District serves New Freedom. The educational attainment levels for the Southern York County School District population (25 years old and over) included 26.5% college graduates. According to 2000 federal census data, the Southern York County School District served a resident population of 18,592 people. The Southern York County School District serves Glen Rock. The Southern York County School District is a public school district. The Southern York County School District serves Railroad. The Southern York County School District is in the South Central region of Pennsylvania. The Southern York County School District serves Codorus Township."
+    },
+    {
+      "chunk_id": "234607df-3184-4410-adc6-b23ba57842f1",
+      "chunk_title": "Northeastern School District Profile",
+      "chunk_summary": "This chunk contains information about the characteristics, classification, location, served municipalities, and demographic data of the Northeastern School District.",
+      "context_title": "Northeastern York School District",
+      "page_content": "Mount Wolf is a municipality served by the Northeastern School District. In 2009, the Northeastern School District residents’ per capita income was $18,799. According to 2000 federal census data, the Northeastern School District served a resident population of 18,282 people. Goldsboro is a municipality served by the Northeastern School District. East Manchester Township is a municipality served by the Northeastern School District. In 2009, the Northeastern School District residents’ median family income was $48,744. The Northeastern School District is a suburban public school district. Manchester is a municipality served by the Northeastern School District. The Northeastern School District is a midsized public school district. Newberry Township is a municipality served by the Northeastern School District. In 2010, the Northeastern School District's population had grown to 23,399 people. York Haven is a municipality served by the Northeastern School District. The Northeastern School District is located in the South Central region of Pennsylvania. The Northeastern School District is located in York County. Conewago Township is a municipality served by the Northeastern School District. The Northeastern School District encompasses approximately 50 square miles."
+    },
+    {
+      "chunk_id": "ffc66c78-d7db-4cbd-9437-978a8e5e1155",
+      "chunk_title": "Armstrong School District Overview",
+      "chunk_summary": "This chunk contains information about the characteristics, classification, geographic scope (including specific boroughs and townships), and population statistics of the Armstrong School District in Pennsylvania.",
+      "context_title": "Armstrong School District (Pennsylvania)",
+      "page_content": "According to 2000 federal census data, the Armstrong School District served a resident population of 44,970. The Armstrong School District covers Manor Township in Armstrong County, Pennsylvania. In 2009, Armstrong School District residents' per capita income was $15,449. The Armstrong School District covers the Borough of Atwood in Armstrong County, Pennsylvania. The Armstrong School District covers South Bend Township in Armstrong County, Pennsylvania. The Armstrong School District covers Plumcreek Township in Armstrong County, Pennsylvania. By 2010, the Armstrong School District's population declined to 43,301 people. The Armstrong School District covers the Borough of Manorville in Armstrong County, Pennsylvania. The Armstrong School District includes West Mahoning Township in Indiana County, Pennsylvania. The Armstrong School District is a large, public school district. The Armstrong School District covers Pine Township in Armstrong County, Pennsylvania. The Armstrong School District covers West Franklin Township in Armstrong County, Pennsylvania. The Armstrong School District covers East Franklin Township in Armstrong County, Pennsylvania. The Armstrong School District covers Cadogan Township in Armstrong County, Pennsylvania. The Armstrong School District covers Bethel Township in Armstrong County, Pennsylvania. The Armstrong School District covers the Borough of Kittanning in Armstrong County, Pennsylvania. The Armstrong School District covers Washington Township in Armstrong County, Pennsylvania. The Armstrong School District covers Burrell Township in Armstrong County, Pennsylvania. The Armstrong School District covers Rayburn Township in Armstrong County, Pennsylvania. The Armstrong School District covers the Borough of Dayton in Armstrong County, Pennsylvania. The Armstrong School District includes the Borough of Smicksburg in Indiana County, Pennsylvania. The Armstrong School District covers North Buffalo Township in Armstrong County, Pennsylvania. The Armstrong School District covers Cowanshannock Township in Armstrong County, Pennsylvania. The Armstrong School District covers the Borough of West Kittanning in Armstrong County, Pennsylvania. The Armstrong School District covers the Borough of Ford City in Armstrong County, Pennsylvania. The Armstrong School District covers Kittanning Township in Armstrong County, Pennsylvania. The Armstrong School District covers the Borough of Worthington in Armstrong County, Pennsylvania. The Armstrong School District covers Valley Township in Armstrong County, Pennsylvania. In 2009, the median family income of Armstrong School District residents was $36,907. The Armstrong School District is one of the 500 public school districts of Pennsylvania. The Armstrong School District encompasses approximately 437 square miles. The Armstrong School District covers Wayne Township in Armstrong County, Pennsylvania. The Armstrong School District covers the Borough of Rural Valley in Armstrong County, Pennsylvania. The Armstrong School District covers the Borough of Elderton in Armstrong County, Pennsylvania. The Armstrong School District covers the Borough of Applewold in Armstrong County, Pennsylvania. The Armstrong School District covers the Borough of Ford Cliff in Armstrong County, Pennsylvania. The Armstrong School District covers Boggs Township in Armstrong County, Pennsylvania."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.26666666666666666,
+  "retrieval_count": 8,
+  "total_chunks": 30,
+  "total_distinct_titles": 22,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "which is larger, Hunchun or Shijiazhuang?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "which is larger, Hunchun or Shijiazhuang?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较珲春和石家庄的规模",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未得出最终结论。子节点 N1_1 已提供珲春数据（面积 5,145 km²，人口 >25万），但子节点 N1_2（石家庄）处于 unsolved 状态，缺乏关键对比数据。推理链在 N1_2 处断裂，无法完成比较。",
+          "critic_normative_advice": "建议等待 N1_2 解决。当前结构合理，但需补全石家庄的数据才能进行有效比较。若 N1_2 持续无法获取数据，需考虑更换搜索策略或接受部分信息。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the area and population of Hunchun?",
+          "answer": "Area: 5,145 square kilometers; Population: over 250,000 inhabitants",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the area and population of Hunchun?",
+          "planner_rationale": "To determine which city is 'larger', we need quantitative metrics (area and/or population) for Hunchun.",
+          "solver_judgment": "question 要求提供珲春（Hunchun）的面积和人口。search_query 直接搜索了 'What is the area and population of Hunchun?'。chunks 返回了相关信息：chunk a6a70498-3499-4833-b4d8-5f2d6888148a 明确指出 'Hunchun covers 5,145 square kilometers'，提供了面积数据；chunk 59a441d0-9648-423d-a541-c96585e78c1c 指出 'Hunchun has over 250,000 inhabitants'，提供了人口数据。检索精准命中了问题所需的两个关键指标，信息完整。",
+          "critic_factual_notes": "2个独立来源（均来自文档 'Hunchun'，但不同 chunk ID 且内容互补：一个讲面积，一个讲人口）。Chunk a6a70498 明确陈述 'Hunchun covers 5,145 square kilometers'；Chunk 59a441d0 明确陈述 'Hunchun has over 250,000 inhabitants'。答案与证据完全匹配，事实清晰。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，数据具体，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the area and population of Shijiazhuang?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What is the area and population of Shijiazhuang?",
+          "planner_rationale": "To determine which city is 'larger', we need quantitative metrics (area and/or population) for Shijiazhuang.",
+          "solver_judgment": "question 要求提供石家庄（Shijiazhuang）的面积和人口数据。search_query 搜索了 'What is the area and population of Shijiazhuang?'。然而，返回的 chunks 中：\n- c8e186b2-9c44-4303-82a5-4ce21b40bb6d 仅提及石家庄相对于北京的地理位置和距离。\n- 992ba10c-a269-4098-a738-08b97ec02a59 提及石家庄的行政地位、辖区数量（2个县级市、8个区、12个县）及其作为河北省最大城市的地位，但未提供具体面积或人口数值。\n- c45f8ad3-9d68-4222-a6fd-3bd3fd897364 仅确认石家庄是河北省省会。\n- 其他 chunks (76dbcf08..., 84f52bf4..., 08374797..., fdd1cf6b..., 161cd5ed...) 均涉及其他城市（首尔、Mount Vernon、Memphis、Xingcheng、Saint John），与石家庄无关。\n因此，chunks 中完全缺失关于石家庄面积和人口的具体数据，无法提取答案。",
+          "critic_factual_notes": "搜索返回了 8 个 chunk，其中 3 个来自 'Shijiazhuang' 文档，但摘要显示仅包含地理位置、行政地位等定性描述，未包含具体的面积或人口数值。其余 5 个 chunk 来自无关城市（Seoul, Mount Vernon 等）。Solver 正确判断无法提取答案。属于‘有搜索结果但无有效信息’的阻塞状态。",
+          "critic_normative_advice": "建议重搜——当前查询 'What is the area and population of Shijiazhuang?' 未能命中数值型数据。建议尝试更具体的查询，如 'Shijiazhuang area square kilometers' 或 'Shijiazhuang population census data'，或拆分查询分别搜面积和人口。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "which is larger, Hunchun or Shijiazhuang?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "which is larger, Hunchun or Shijiazhuang?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较珲春和石家庄的规模",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2 的数据聚合。目前 N1_1 (Hunchun) 数据完整且健康，但 N1_2 (Shijiazhuang) 处于 unsolved 状态且无有效答案。由于缺少石家庄的关键对比数据（面积/人口），无法完成 'which is larger' 的比较推理。推理链在 N1_2 处断裂。",
+          "critic_normative_advice": "建议等待 N1_2 解决。当前 DAG 结构合理（分解为两个实体分别查询），但必须获取石家庄的具体数值才能生成最终答案。若下一轮 N1_2 仍无法获取数据，需考虑更换搜索策略（如拆分面积和人口为独立节点，或尝试不同关键词）。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the area and population of Hunchun?",
+          "answer": "Area: 5,145 square kilometers; Population: over 250,000 inhabitants",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the area and population of Hunchun?",
+          "planner_rationale": "已确立事实：珲春的面积（5,145 km²）和人口（>25万）。Critic 判为 healthy，数据完整，直接保留用于最终比较",
+          "solver_judgment": "question 要求提供珲春（Hunchun）的面积和人口。search_query 直接搜索了 'What is the area and population of Hunchun?'。chunks 返回了相关信息：chunk a6a70498-3499-4833-b4d8-5f2d6888148a 明确指出 'Hunchun covers 5,145 square kilometers'，提供了面积数据；chunk 59a441d0-9648-423d-a541-c96585e78c1c 指出 'Hunchun has over 250,000 inhabitants'，提供了人口数据。检索精准命中了问题所需的两个关键指标，信息完整。",
+          "critic_factual_notes": "2 个独立来源（均来自文档 'Hunchun'，但不同 chunk ID 且内容互补）。Chunk a6a70498 明确陈述 'Hunchun covers 5,145 square kilometers'；Chunk 59a441d0 明确陈述 'Hunchun has over 250,000 inhabitants'。答案与证据完全匹配，事实清晰。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，数据具体，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the total area in square kilometers and the total population of Shijiazhuang city?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What is the total area in square kilometers and the total population of Shijiazhuang city?",
+          "planner_rationale": "上一轮搜索 'What is the area and population of Shijiazhuang?' 返回了定性描述但缺失具体数值，导致节点 blocked。Critic 建议尝试更具体的查询。本轮换用更精确的措辞 'total area in square kilometers' 和 'total population'，旨在强制 KB 返回数值型数据而非行政描述",
+          "solver_judgment": "question 要求提供石家庄市的总面积（平方公里）和总人口。search_query 搜索了 \"What is the total area in square kilometers and the total population of Shijiazhuang city?\"。然而，返回的 chunks 中：\n1. chunk_992ba10c-a269-4098-a738-08b97ec02a59 和 chunk_c8e186b2-9c44-4303-82a5-4ce21b40bb6d 虽然涉及石家庄（Shijiazhuang），但仅提及行政地位、辖区数量及相对北京的位置，未包含面积或人口数据。\n2. 其他 chunks 分别涉及林州（Linzhou）、崂山（Mount Lao）、珲春（Hunchun）、Total 乐队、悉尼 Central Park 项目和喀拉拉邦城市列表，与石家庄无关。\n因此，chunks 中完全缺失问题所需的关键数值信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回 8 个 chunks，其中仅 2 个涉及 Shijiazhuang (chunks 992ba10c, c8e186b2)，但内容仅为行政地位、地理位置描述，未包含任何面积或人口的具体数值。其余 6 个 chunks (Linzhou, Mount Lao, Hunchun, Total group, Sydney, Kerala) 完全无关。KB 中似乎缺乏石家庄的具体统计数值，或当前查询未能命中。",
+          "critic_normative_advice": "建议重搜——当前查询 'total area in square kilometers...' 仍未命中数值。尝试简化查询为 'Shijiazhuang area km2' 或 'Shijiazhuang population census'。若再次失败，建议拆分节点：N1_2a 查面积，N1_2b 查人口，以提高命中率。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "which is larger, Hunchun or Shijiazhuang?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "which is larger, Hunchun or Shijiazhuang?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要比较珲春和石家庄的规模。当前阻塞在于 N1_2 数据缺失，需通过结构调整解决",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1, N1_2, N3_1 的数据聚合。目前 N1_1 (Hunchun) 数据完整且健康，但 N1_2 (Shijiazhuang Area) 和 N3_1 (Shijiazhuang Population) 均处于 unsolved 状态且无有效答案。由于缺少石家庄的关键对比数据（面积/人口），无法完成 'which is larger' 的比较推理。推理链在 N1_2 和 N3_1 处断裂。",
+          "critic_normative_advice": "建议等待 N1_2 和 N3_1 解决。当前 DAG 结构合理（分解为两个实体分别查询，并进一步拆分石家庄的指标），但必须获取石家庄的具体数值才能生成最终答案。若下一轮仍无法获取数据，需考虑更换搜索策略（如尝试不同关键词 'Shijiazhuang statistics', 'Shijiazhuang demographics' 或检查 KB 覆盖范围）。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the area and population of Hunchun?",
+          "answer": "Area: 5,145 square kilometers; Population: over 250,000 inhabitants",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the area and population of Hunchun?",
+          "planner_rationale": "已确立事实：珲春的面积（5,145 km²）和人口（>25万）。Critic 判为 healthy，数据完整，直接保留用于最终比较",
+          "solver_judgment": "question 要求提供珲春（Hunchun）的面积和人口。search_query 直接搜索了 'What is the area and population of Hunchun?'。chunks 返回了相关信息：chunk a6a70498-3499-4833-b4d8-5f2d6888148a 明确指出 'Hunchun covers 5,145 square kilometers'，提供了面积数据；chunk 59a441d0-9648-423d-a541-c96585e78c1c 指出 'Hunchun has over 250,000 inhabitants'，提供了人口数据。检索精准命中了问题所需的两个关键指标，信息完整。",
+          "critic_factual_notes": "2 个独立来源（均来自文档 'Hunchun'，但不同 chunk ID 且内容互补）。Chunk a6a70498 明确陈述 'Hunchun covers 5,145 square kilometers'；Chunk 59a441d0 明确陈述 'Hunchun has over 250,000 inhabitants'。答案与证据完全匹配，事实清晰。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，数据具体，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the area of Shijiazhuang?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What is the area of Shijiazhuang?",
+          "planner_rationale": "上一轮尝试同时获取面积和人口失败（blocked），Critic 建议拆分节点以提高命中率。本轮先聚焦于获取面积数据，简化查询以降低噪声",
+          "solver_judgment": "question 要求提供石家庄（Shijiazhuang）的面积。search_query 搜索了 'What is the area of Shijiazhuang?'。然而，返回的 chunks 中虽然包含关于石家庄的信息（如 c8e186b2-9c44-4303-82a5-4ce21b40bb6d 提到其地理位置，c45f8ad3-9d68-4222-a6fd-3bd3fd897364 提到它是河北省省会，992ba10c-a269-4098-a738-08b97ec02a59 提到其行政地位和辖区数量），但没有任何一个 chunk 提及石家庄的具体面积数值。其他 chunks 涉及的是兴城、林州或内布拉斯加领地等其他地点的面积或历史，与问题无关。因此，检索结果中缺失关键信息，无法提取答案。",
+          "critic_factual_notes": "搜索未返回包含面积数值的有效结果。返回的 8 个 chunks 中，3 个来自 'Shijiazhuang' 文档，但仅涉及地理位置、行政地位和历史名称，未提及具体面积数值。其他 chunks 涉及无关地点。Solver 正确判断无法提取答案。",
+          "critic_normative_advice": "建议换搜索方向——当前查询 'What is the area of Shijiazhuang?' 未能命中 KB 中的面积数据。尝试更广泛的查询如 'Shijiazhuang statistics', 'Shijiazhuang city profile' 或 'Shijiazhuang geography data'。若仍无果，可能 KB 缺乏此特定数据，需评估是否可用近似值或放弃该指标。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N3_1": {
+          "id": "N3_1",
+          "question": "What is the population of Shijiazhuang?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "What is the population of Shijiazhuang?",
+          "planner_rationale": "Critic 建议将石家庄的查询拆分为面积和人口两个独立节点。这是拆分后的第二个节点，专门用于获取人口数据，以完成 Q 所需的对比信息",
+          "solver_judgment": "question 要求提供石家庄（Shijiazhuang）的人口数量。search_query 搜索了 'What is the population of Shijiazhuang?'。然而，返回的 chunks 中虽然包含关于石家庄的地理位置、行政地位和历史名称的信息（如 c8e186b2, 992ba10c, c45f8ad3），但没有任何 chunk 提及石家庄的具体人口数据。其他 chunks 提供了林州、兴城、兰州和上海的人口信息，与目标实体无关。因此，检索结果中缺失关键信息，无法提取答案。",
+          "critic_factual_notes": "搜索未返回包含人口数值的有效结果。返回的 8 个 chunks 中，3 个来自 'Shijiazhuang' 文档，但仅涉及地理位置、行政地位和历史名称，未提及具体人口数值。其他 chunks 涉及无关地点的人口。Solver 正确判断无法提取答案。",
+          "critic_normative_advice": "建议换搜索方向——当前查询 'What is the population of Shijiazhuang?' 未能命中 KB 中的人口数据。尝试更广泛的查询如 'Shijiazhuang demographics', 'Shijiazhuang population size' 或 'Shijiazhuang census data'。若仍无果，可能 KB 缺乏此特定数据。",
+          "round_created": 3,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N3_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "which is larger, Hunchun or Shijiazhuang?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "which is larger, Hunchun or Shijiazhuang?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。当前阻塞在于石家庄数据缺失，需通过调整搜索策略解决",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1, N1_2, N3_1 的数据聚合。目前 N1_1 (Hunchun) 数据完整且健康，但 N1_2 (Shijiazhuang Area/Stats) 和 N3_1 (Shijiazhuang Demographics) 均处于 unsolved 状态且无有效答案。由于缺少石家庄的关键对比数据（面积/人口），无法完成 'which is larger' 的比较推理。推理链在 N1_2 和 N3_1 处断裂。",
+          "critic_normative_advice": "建议等待 N1_2 和 N3_1 解决。当前 DAG 结构合理（分解为两个实体分别查询，并进一步拆分石家庄的指标），但必须获取石家庄的具体数值才能生成最终答案。若下一轮仍无法获取数据，需考虑更换搜索策略（如尝试不同关键词 'Shijiazhuang statistics', 'Shijiazhuang demographics' 或检查 KB 覆盖范围）。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the area and population of Hunchun?",
+          "answer": "Area: 5,145 square kilometers; Population: over 250,000 inhabitants",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the area and population of Hunchun?",
+          "planner_rationale": "已确立事实：珲春的面积（5,145 km²）和人口（>25万）。Critic 判为 healthy，直接保留用于最终比较",
+          "solver_judgment": "question 要求提供珲春（Hunchun）的面积和人口。search_query 直接搜索了 'What is the area and population of Hunchun?'。chunks 返回了相关信息：chunk a6a70498-3499-4833-b4d8-5f2d6888148a 明确指出 'Hunchun covers 5,145 square kilometers'，提供了面积数据；chunk 59a441d0-9648-423d-a541-c96585e78c1c 指出 'Hunchun has over 250,000 inhabitants'，提供了人口数据。检索精准命中了问题所需的两个关键指标，信息完整。",
+          "critic_factual_notes": "2 个独立来源（均来自文档 'Hunchun'，但不同 chunk ID 且内容互补）。Chunk a6a70498 明确陈述 'Hunchun covers 5,145 square kilometers'；Chunk 59a441d0 明确陈述 'Hunchun has over 250,000 inhabitants'。答案与证据完全匹配，事实清晰。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，数据具体，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Shijiazhuang statistics area population",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Shijiazhuang statistics area population",
+          "planner_rationale": "上一轮针对 'area' 的精确查询返回了相关文档但未包含数值，Critic 建议尝试更广泛的统计类查询以命中 KB 中可能存在的综合数据块",
+          "solver_judgment": "question 要求提供石家庄（Shijiazhuang）统计区域的人口数据。search_query 搜索了 'Shijiazhuang statistics area population'。然而，返回的 chunks 中，虽然有关于石家庄的行政地位、地理位置和作为河北省省会的描述（chunks 992ba10c, c8e186b2, c45f8ad3），但没有任何一个 chunk 包含石家庄的具体人口数字或统计区域人口信息。其他 chunks 涉及的是 Saint John、Seoul、Memphis、Mount Vernon 和 Dover Area 的人口数据，与石家庄无关。因此，检索未能命中目标信息，存在明显缺口，无法提取答案。",
+          "critic_factual_notes": "搜索未返回包含石家庄面积或人口数值的有效结果。返回的 3 个石家庄相关 chunk (992ba10c, c8e186b2, c45f8ad3) 仅包含行政地位、地理位置等定性描述，无数值。其余 5 个 chunk 涉及其他无关地区。Solver 正确判断为未找到答案。",
+          "critic_normative_advice": "建议换搜索方向或放弃此特定查询方式。连续两轮精确查询和广义统计查询均未命中数值，暗示 KB 中可能缺乏石家庄的结构化统计数据，或需要完全不同的检索术语（如 'Shijiazhuang total area', 'Shijiazhuang population 2023' 等具体年份或指标）。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N3_1": {
+          "id": "N3_1",
+          "question": "Shijiazhuang demographics census data",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Shijiazhuang demographics census data",
+          "planner_rationale": "上一轮针对 'population' 的精确查询同样失败，Critic 建议尝试 'demographics' 或 'census data' 等术语以覆盖不同的数据表述方式",
+          "solver_judgment": "question 要求提供石家庄（Shijiazhuang）的人口普查数据（demographics census data）。search_query 搜索了 'Shijiazhuang demographics census data'。然而，chunks 返回的结果中：\n1. 关于石家庄的 chunk（992ba10c, c45f8ad3, c8e186b2）仅包含其行政地位（河北省会、地级市）、辖区数量（8区12县2市）和地理位置（距北京距离），完全没有人口数量或结构等普查数据。\n2. 其他 chunk（144111c1, d7aecc12, c973e999, 234607df, ffc66c78）分别涉及孟加拉国人口普查和美国宾夕法尼亚州几个学区的人口数据，与石家庄无关。\n因此，检索结果中缺失目标实体（石家庄）的关键属性（人口普查数据），无法提取答案。",
+          "critic_factual_notes": "搜索未返回包含石家庄人口普查数据的有效结果。返回的 3 个石家庄相关 chunk 与 N1_2 相同，无数值。其余 5 个 chunk 涉及孟加拉国或美国学区的人口数据，完全无关。Solver 正确判断为未找到答案。",
+          "critic_normative_advice": "建议放弃此方向或与 N1_2 合并。N3_1 与 N1_2 本质上都在寻求石家庄的规模数据，且均失败。拆分并未带来新的信息增益，反而增加了搜索负担。建议合并为一个节点 'Shijiazhuang size metrics' 并尝试更广泛的搜索，或承认 KB 缺失该数据。",
+          "round_created": 3,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N3_1",
+          "type": "decomposition"
+        }
+      ]
+    },
+    {
+      "q": "which is larger, Hunchun or Shijiazhuang?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "which is larger, Hunchun or Shijiazhuang?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。当前阻塞在于石家庄数据缺失，需通过调整搜索策略解决",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点依赖子节点 N1_1 和 N1_2 的数据聚合。N1_1 (Hunchun) 已解决且健康，提供了面积 (5,145 km²) 和人口 (>250,000)。然而，N1_2 (Shijiazhuang) 处于 unsolved 状态，无有效答案。由于缺少石家庄的关键对比数据，无法完成 'which is larger' 的比较推理。推理链在 N1_2 处断裂。",
+          "critic_normative_advice": "建议等待 N1_2 解决。当前 DAG 结构合理（分解为两个实体分别查询），但必须获取石家庄的具体数值才能生成最终答案。若下一轮仍无法获取数据，需考虑 KB 确实缺失该数据，可能需要基于现有信息做出‘无法比较’的结论或尝试极不同的搜索策略。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What is the area and population of Hunchun?",
+          "answer": "Area: 5,145 square kilometers; Population: over 250,000 inhabitants",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What is the area and population of Hunchun?",
+          "planner_rationale": "已确立事实：珲春的面积（5,145 km²）和人口（>25万）。Critic 判为 healthy，直接保留用于最终比较",
+          "solver_judgment": "question 要求提供珲春（Hunchun）的面积和人口。search_query 直接搜索了 'What is the area and population of Hunchun?'。chunks 返回了相关信息：chunk a6a70498-3499-4833-b4d8-5f2d6888148a 明确指出 'Hunchun covers 5,145 square kilometers'，提供了面积数据；chunk 59a441d0-9648-423d-a541-c96585e78c1c 指出 'Hunchun has over 250,000 inhabitants'，提供了人口数据。检索精准命中了问题所需的两个关键指标，信息完整。",
+          "critic_factual_notes": "2 个独立来源（均来自文档 'Hunchun'，但不同 chunk ID 且内容互补）。Chunk a6a70498-3499-4833-b4d8-5f2d6888148a 明确陈述 'Hunchun covers 5,145 square kilometers'；Chunk 59a441d0-9648-423d-a541-c96585e78c1c 明确陈述 'Hunchun has over 250,000 inhabitants'。答案与证据完全匹配，事实清晰。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，数据具体，无需进一步操作。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 2,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Shijiazhuang total area square kilometers population count",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Shijiazhuang total area square kilometers population count",
+          "planner_rationale": "上一轮 'statistics' 和 'demographics' 等抽象术语未能命中数值。Critic 指出 N1_2 和 N3_1 高度冗余且均失败。本轮合并这两个节点的搜索意图，使用更具体的物理量词（'total area', 'square kilometers', 'population count'）直接探测 KB 中可能存在的结构化数据或明确陈述，避免模糊匹配导致的噪声。",
+          "solver_judgment": "question 要求提供石家庄（Shijiazhuang）的总面积（平方千米）和人口数量。search_query 搜索了 'Shijiazhuang total area square kilometers population count'。然而，返回的 chunks 中：\n1. 关于石家庄的 chunk（992ba10c..., c8e186b2..., c45f8ad3...）仅提及了其行政地位（河北省省会、地级市）、辖区构成（2个县级市、8个区、12个县）以及相对北京的距离，未包含面积或人口数据。\n2. 其他 chunk 分别提供了林州（Linzhou）、珲春（Hunchun）、崂山（Mount Lao）的面积，以及首尔（Seoul）和蒙特弗农（Mount Vernon）的人口信息，均与石家庄无关。\n因此，chunks 中完全缺失目标实体（石家庄）的关键数值信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回了 8 个 chunks，其中 3 个来自 'Shijiazhuang' 文档。然而，这些 chunks 仅提及石家庄的行政地位、辖区构成及相对距离，未包含任何面积或人口数值。其他 chunks 涉及其他城市（林州、珲春、首尔等），与石家庄无关。Solver 正确判断无法提取答案。",
+          "critic_normative_advice": "建议放弃此方向或标记 KB 缺失。经过多轮不同关键词（statistics, demographics, total area, square kilometers）搜索，KB 中似乎确实缺乏石家庄的具体面积/人口数据。继续微调关键词可能无效。建议 Planner 考虑是否接受‘数据缺失’作为最终状态，或检查是否有其他间接推断方式（可能性低）。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What is the area and population of Hunchun?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "7bfec249-df1d-41f3-8baf-739c9de837b5",
+        "d3a6e2d0-375f-4397-9bfa-2c2b3dc7cdea",
+        "59a441d0-9648-423d-a541-c96585e78c1c",
+        "a6a70498-3499-4833-b4d8-5f2d6888148a",
+        "145a8307-a59e-4157-8d44-962bae40fbaf",
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "08374797-f8db-4edc-b9cb-fc5487c9093e",
+        "fdd1cf6b-9998-40b4-8ccb-63219915c9b7"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What is the area and population of Shijiazhuang?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "c8e186b2-9c44-4303-82a5-4ce21b40bb6d",
+        "992ba10c-a269-4098-a738-08b97ec02a59",
+        "c45f8ad3-9d68-4222-a6fd-3bd3fd897364",
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "84f52bf4-147c-4ada-8ffb-31bd46683f3f",
+        "08374797-f8db-4edc-b9cb-fc5487c9093e",
+        "fdd1cf6b-9998-40b4-8ccb-63219915c9b7",
+        "161cd5ed-14d7-452a-901e-a674e0526756"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "What is the total area in square kilometers and the total population of Shijiazhuang city?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "66c3d197-dc5e-4113-a42c-deb458069bce",
+        "992ba10c-a269-4098-a738-08b97ec02a59",
+        "9a413f5b-c7bf-42fb-b9ad-0816d01c116e",
+        "a6a70498-3499-4833-b4d8-5f2d6888148a",
+        "c8e186b2-9c44-4303-82a5-4ce21b40bb6d",
+        "0712c4c3-ac10-4502-831e-c4e07c0a58cc",
+        "4d97b446-81ba-4957-b4ee-8b37e2b75461",
+        "e8505f52-ffcd-4dd8-ab48-cbeb01d77737"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "What is the area of Shijiazhuang?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "c8e186b2-9c44-4303-82a5-4ce21b40bb6d",
+        "c45f8ad3-9d68-4222-a6fd-3bd3fd897364",
+        "992ba10c-a269-4098-a738-08b97ec02a59",
+        "fdd1cf6b-9998-40b4-8ccb-63219915c9b7",
+        "0f442ae7-4258-4442-b365-e0aa4e7a2c3d",
+        "66c3d197-dc5e-4113-a42c-deb458069bce",
+        "1c8efd4b-b5ed-4648-b048-99f3975e978c",
+        "0181e200-9e44-4d84-bb10-bea4666954f2"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "What is the population of Shijiazhuang?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "c8e186b2-9c44-4303-82a5-4ce21b40bb6d",
+        "992ba10c-a269-4098-a738-08b97ec02a59",
+        "c45f8ad3-9d68-4222-a6fd-3bd3fd897364",
+        "0181e200-9e44-4d84-bb10-bea4666954f2",
+        "1c8efd4b-b5ed-4648-b048-99f3975e978c",
+        "9d955eb5-b635-4a3b-83c4-94a891bf50e2",
+        "0f92ea97-2817-4cbf-a778-f905de2d8627",
+        "8920d3a9-5387-48de-a8e6-045c37a78530"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "Shijiazhuang statistics area population",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "992ba10c-a269-4098-a738-08b97ec02a59",
+        "c8e186b2-9c44-4303-82a5-4ce21b40bb6d",
+        "c45f8ad3-9d68-4222-a6fd-3bd3fd897364",
+        "161cd5ed-14d7-452a-901e-a674e0526756",
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "08374797-f8db-4edc-b9cb-fc5487c9093e",
+        "84f52bf4-147c-4ada-8ffb-31bd46683f3f",
+        "b1643532-7b01-4519-970f-5208b8488994"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "Shijiazhuang demographics census data",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "992ba10c-a269-4098-a738-08b97ec02a59",
+        "144111c1-f538-4d34-8fcd-b614d83f1b3d",
+        "c45f8ad3-9d68-4222-a6fd-3bd3fd897364",
+        "c8e186b2-9c44-4303-82a5-4ce21b40bb6d",
+        "d7aecc12-53f7-48d3-989c-7d84d09aba80",
+        "c973e999-61e4-413c-9f4f-758c890fecdb",
+        "234607df-3184-4410-adc6-b23ba57842f1",
+        "ffc66c78-d7db-4cbd-9437-978a8e5e1155"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "Shijiazhuang total area square kilometers population count",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "992ba10c-a269-4098-a738-08b97ec02a59",
+        "66c3d197-dc5e-4113-a42c-deb458069bce",
+        "a6a70498-3499-4833-b4d8-5f2d6888148a",
+        "c8e186b2-9c44-4303-82a5-4ce21b40bb6d",
+        "c45f8ad3-9d68-4222-a6fd-3bd3fd897364",
+        "9a413f5b-c7bf-42fb-b9ad-0816d01c116e",
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "84f52bf4-147c-4ada-8ffb-31bd46683f3f"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What is the area and population of Hunchun?（理由：比较“更大”需要具体数据支持，珲春是其中一个比较对象），F2: What is the area and population of Shijiazhuang?（理由：石家庄是另一个比较对象，需要其数据以进行对比）。关系: F1 和 F2 都是 Q 的直接分解产物（decomposition），因为 Q 的核心任务是比较这两个实体的规模，获取各自的基础数据是回答 Q 的必要前提。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将比较问题拆解为两个独立的事实获取任务，分别查询两个城市的面积和人口数据，以便后续进行比较。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 健康状态为 blocked（无法获取石家庄数据），导致 ROOT 节点无法完成比较推理。条件①也未满足（N1_2 未 SOLVED）。需继续探索以获取石家庄的面积/人口数据。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 珲春的面积和人口（已确立：面积 5,145 km²，人口 >25万），F2: 石家庄的面积和人口（待确立：需获取具体数值以进行对比）。关系: F1 和 F2 都是 Q 的直接分解产物（decomposition），因为 Q 的核心任务是比较这两个实体的规模，获取各自的基础数据是回答 Q 的必要前提。当前 DAG 结构保持 F1 和 F2 作为 N0 的子节点，重点在于修复 F2 的搜索策略以解除 blocked 状态。",
+      "hypothesis_delta": "新增: 无。删除: 无。换标: N1_2 question 从 \"What is the area and population of Shijiazhuang?\" 改为 \"What is the total area in square kilometers and the total population of Shijiazhuang city?\"，原因：上一轮搜索返回了无关或定性信息（如地理位置、行政地位），未命中具体数值。Critic 指出属于‘有搜索结果但无有效信息’的阻塞状态，建议重搜并尝试更具体的查询措辞。本轮通过 INHERIT_AND_RELABEL 重置 N1_2 的搜索状态，期望新 query 能更精准地定位数值数据。保留: N0 (根节点), N1_1 (已 solved + healthy)。边结构保持不变：N0 → N1_1 (decomposition), N0 → N1_2 (decomposition)。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的健康状态为 blocked（证据不足/搜索失败），导致 ROOT 节点无法完成比较推理。虽然依赖链语义有效（条件②通过），但关键事实缺失，无法生成可靠答案。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 珲春的面积和人口（已确立：N1_1, healthy），F2: 石家庄的面积（待确立：N1_2，已重置为仅查面积），F3: 石家庄的人口（待确立：$1，新增节点）。关系: F1、F2、F3 都是 Q 的直接分解产物（decomposition）。通过将石家庄的查询拆分为两个独立节点，旨在提高 KB 检索的命中率，解决之前同时查询两项数据导致的 blocked 状态。",
+      "hypothesis_delta": "新增: $1（question=\"What is the population of Shijiazhuang?\"），原因：Critic 明确建议拆分节点以提高命中率。将原本阻塞的 N1_2（同时查面积和人口）拆分为 N1_2（仅查面积）和新节点 $1（仅查人口）。\n换标: N1_2 question 从 \"What is the total area in square kilometers and the total population of Shijiazhuang city?\" 改为 \"What is the area of Shijiazhuang?\"，原因：响应 Critic 的拆分建议，简化查询以聚焦单一指标，避免之前因信息过载或格式不匹配导致的搜索失败。\n保留: N0 (根节点), N1_1 (已 solved + healthy)。\n边结构更新: 显式声明 N0→N1_1, N0→N1_2, N0→$1 均为 decomposition 边，确保旧边被正确继承且新边被建立。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 和 N3_1 的 critic_health 为 blocked，非 healthy。条件①也未满足（仍有 unsolved 节点）。推理链语义匹配（条件②）通过，但证据不足，无法终止。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 珲春的规模数据（已确立，N1_1），F2: 石家庄的规模数据（面积或人口，待确立）。关系: F1 和 F2 是 Q 的直接分解产物（decomposition）。由于 N1_2 和 N3_1 连续两轮在精确查询下 blocked，本轮假设 KB 中石家庄的数据可能存在于更通用的统计描述中，而非独立的面积/人口字段。因此保留两个节点但更换探测方向，试图从不同角度捕获数据。若仍失败，可能需要接受 KB 缺失石家庄数据的事实。",
+      "hypothesis_delta": "换标: N1_2 question 从 \"What is the area of Shijiazhuang?\" 改为 \"Shijiazhuang statistics area population\"，原因：Critic 指出精确查询未命中数值，建议尝试更广泛的统计类查询。\n换标: N3_1 question 从 \"What is the population of Shijiazhuang?\" 改为 \"Shijiazhuang demographics census data\"，原因：Critic 建议尝试 'demographics' 或 'census data' 等术语以覆盖不同的数据表述方式。\n保留: N0 (根节点), N1_1 (已 solved + healthy)。\n边结构: 显式声明保留 N0→N1_1, N0→N1_2, N0→N3_1 均为 decomposition 边，修复上一轮遗漏导致的验证失败。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 和 N3_1 的 critic_health 为 blocked，非 healthy。条件①未满足：仍有节点 unsolved。虽然推理链结构（条件②）在语义上是有效的（分解合理），但由于关键事实缺失，无法生成最终答案。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: 珲春的规模数据（已确立，N1_1），F2: 石家庄的规模数据（面积或人口，待确立）。关系: F1 和 F2 是 Q 的直接分解产物（decomposition）。由于 N1_2 和 N3_1 连续两轮失败且存在冗余，本轮假设 KB 中石家庄的数据可能需要更具体的物理量词（如 'square kilometers'）才能被检索引擎精准命中，而非通用的统计术语。因此合并 N3_1 到 N1_2，集中火力尝试一种新的、更具体的搜索策略。若仍失败，则极大概率 KB 缺失该数据。",
+      "hypothesis_delta": "删除: N3_1（question=\"Shijiazhuang demographics census data\"），原因：Critic 指出 N3_1 与 N1_2 高度冗余，且两者均因 KB 缺乏对应数据而 blocked。拆分并未带来信息增益，反而分散了搜索注意力。合并为一个节点以简化结构并集中尝试新策略。\n换标: N1_2 question 从 \"Shijiazhuang statistics area population\" 改为 \"Shijiazhuang total area square kilometers population count\"，原因：上一轮使用抽象术语（statistics/demographics）未命中。Critic 建议检查 KB 覆盖范围或更换检索术语。本轮尝试使用更具体的物理单位词汇（square kilometers, count）以提高检索精度，试图从定性描述文档中挖掘出定量数据。\n保留: N0 (根节点), N1_1 (已 solved + healthy)。\n边结构: 显式声明保留 N0→N1_1 (decomposition) 和 ",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的 critic_health 为 blocked（搜索无有效结果），导致并非所有节点均为 healthy。此外，条件①也未满足（N1_2 未 SOLVED）。虽然推理链语义有效（条件②通过），但关键数据缺失阻碍了最终答案的生成。"
+      }
+    }
+  ]
+}

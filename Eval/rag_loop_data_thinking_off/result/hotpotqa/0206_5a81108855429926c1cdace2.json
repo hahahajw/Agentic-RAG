@@ -1,0 +1,657 @@
+{
+  "question_index": 206,
+  "question_id": "5a81108855429926c1cdace2",
+  "question": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+  "answer": "world's 16th largest city",
+  "prediction": "16th",
+  "error": null,
+  "latency_ms": 244036.33750003064,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-14T19:03:15.296287+00:00",
+  "chunks": [
+    {
+      "chunk_id": "b151f6fd-970a-44d5-919f-a9d5a620d509",
+      "chunk_title": "Company Locations",
+      "chunk_summary": "This chunk contains information about the location and headquarters of pharmaceutical companies.",
+      "context_title": "Daewoong Pharmaceutical Co., Ltd",
+      "page_content": "Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea."
+    },
+    {
+      "chunk_id": "5632b856-1f62-44c9-bc6f-2e287b3c4427",
+      "chunk_title": "Pharmaceutical & Healthcare Companies",
+      "chunk_summary": "This chunk contains information about the identity, industry classification, and primary business activities of Daewoong Pharmaceutical Co., Ltd. and its parent group.",
+      "context_title": "Daewoong Pharmaceutical Co., Ltd",
+      "page_content": "Daewoong Pharmaceutical Co., Ltd. primarily engages in the manufacture of pharmaceutical products in South Korea. Daewoong Co., Ltd. is a global health care group. Daewoong Pharmaceutical Co., Ltd. is a bioengineering company."
+    },
+    {
+      "chunk_id": "a7a76409-20a6-4ef3-976b-f8fd22c58410",
+      "chunk_title": "Corporate Structure",
+      "chunk_summary": "This chunk contains information about corporate subsidiary relationships and organizational structures.",
+      "context_title": "Daewoong Pharmaceutical Co., Ltd",
+      "page_content": "Daewoong Pharmaceutical Co., Ltd. operates as a subsidiary of Daewoong Co., Ltd."
+    },
+    {
+      "chunk_id": "5307a910-f586-4354-b53b-94b7bcbd8a58",
+      "chunk_title": "Pharmaceutical Products",
+      "chunk_summary": "This chunk contains information about the types of pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd.",
+      "context_title": "Daewoong Pharmaceutical Co., Ltd",
+      "page_content": "The pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd. include over-the-counter healthcare products. The pharmaceutical products manufactured by Daewoong Pharmaceutical Co., Ltd. include prescription healthcare products."
+    },
+    {
+      "chunk_id": "9bcbe600-00e9-4f00-87ca-b95165b8e971",
+      "chunk_title": "Pharmaceutical Companies",
+      "chunk_summary": "This chunk contains information about pharmaceutical companies, including their names, countries of origin, headquarters locations, and native language designations.",
+      "context_title": "Taisho Pharmaceutical Co.",
+      "page_content": "Taisho Pharmaceutical Co., Ltd. is a Japanese pharmaceutical company. The romanized Japanese name of Taisho Pharmaceutical Co., Ltd. is Taisho Seiyaku Kabushiki-gaisha. The Japanese name of Taisho Pharmaceutical Co., Ltd. is 大正製薬株式会社. Taisho Pharmaceutical Co., Ltd. is based in Tokyo."
+    },
+    {
+      "chunk_id": "df330085-a968-4e60-9b28-f1bb3e096173",
+      "chunk_title": "Pharmaceutical Companies",
+      "chunk_summary": "This chunk contains information about specific pharmaceutical companies, including their names, locations, and areas of specialization such as new drug development, chemical APIs, and pharmaceutical intermediates.",
+      "context_title": "Nanjing Ange Pharmaceutical",
+      "page_content": "Nanjing Ange Pharmaceutical Co., Ltd. specializes in the research of pharmaceutical intermediates. Nanjing Ange Pharmaceutical Co., Ltd. specializes in the production of pharmaceutical intermediates. Nanjing Ange Pharmaceutical Co., Ltd. specializes in the trade of chemical APIs. Nanjing Ange Pharmaceutical Co., Ltd. is located in Nanjing. Nanjing Ange Pharmaceutical Co., Ltd. specializes in the production of chemical APIs. Nanjing Ange Pharmaceutical Co., Ltd. specializes in the development of “New Drugs”. Nanjing Ange Pharmaceutical Co., Ltd. is a pharmaceutical company. Nanjing Ange Pharmaceutical Co., Ltd. specializes in the trade of pharmaceutical intermediates. Nanjing Ange Pharmaceutical Co., Ltd. specializes in the development of pharmaceutical intermediates. Nanjing Ange Pharmaceutical Co., Ltd. specializes in the research of chemical APIs. Nanjing Ange Pharmaceutical Co., Ltd. specializes in the development of chemical APIs."
+    },
+    {
+      "chunk_id": "abb513dc-cb90-41c3-ad10-1d96939cfaa6",
+      "chunk_title": "Pharmaceutical Development & Origin",
+      "chunk_summary": "This chunk contains information about the development and origin of pharmaceutical products.",
+      "context_title": "Nepidermin",
+      "page_content": "Nepidermin was developed by Daewoong Pharmaceutical."
+    },
+    {
+      "chunk_id": "c09cb04b-4f7d-4430-9861-5083ce595464",
+      "chunk_title": "Company Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations and headquarters of pharmaceutical companies.",
+      "context_title": "Tianyin Pharmaceutical",
+      "page_content": "Tianyin Pharmaceutical is now based in Cheng Du, China."
+    },
+    {
+      "chunk_id": "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+      "chunk_title": "Seoul & Capital Area",
+      "chunk_summary": "This chunk contains information about Seoul's status as a major metropolis, its global ranking, and the demographics and composition of the broader Seoul Capital Area.",
+      "context_title": "Seoul",
+      "page_content": "The Seoul Capital Area has 678,102 international residents. The Seoul Capital Area includes the surrounding Gyeonggi province. Seoul forms the heart of the Seoul Capital Area. The Seoul Capital Area houses about half of the country's population. Seoul is the world's 16th largest city. The Seoul Capital Area includes the surrounding Incheon metropolis. Seoul is the largest metropolis of the Republic of Korea."
+    },
+    {
+      "chunk_id": "1db94f9f-1239-45db-8ec4-23546fba95d3",
+      "chunk_title": "City Administrative Status",
+      "chunk_summary": "This chunk contains information about the official administrative status, designations, and capital roles of cities.",
+      "context_title": "Seoul",
+      "page_content": "Seoul is officially the Seoul Special Metropolitan City. Seoul is the capital of the Republic of Korea."
+    },
+    {
+      "chunk_id": "5a0eca56-137e-4634-9a9f-e0d09ef60337",
+      "chunk_title": "Exo Group Profile",
+      "chunk_summary": "This chunk contains information about the South Korean-Chinese boy group Exo, including their origin, base location, formation and debut details, management company, initial member structure with subgroups, and language of performance.",
+      "context_title": "Exo (band)",
+      "page_content": "Exo-M performs music in Mandarin. Exo debuted with twelve members. Exo-M consists of Xiumin, Lay, Chen, and former members Kris, Luhan, and Tao. Exo was formed in 2011. Exo is a South Korean-Chinese boy group. The twelve members of Exo were separated into two subgroups. Exo debuted in 2012. Exo-K consists of Suho, Baekhyun, Chanyeol, D.O., Kai, and Sehun. Exo is based in Seoul. The two subgroups of Exo are Exo-K and Exo-M. Exo-K performs music in Korean. Exo was formed by S.M. Entertainment."
+    },
+    {
+      "chunk_id": "4334a054-a182-4979-bbaf-125a2b182055",
+      "chunk_title": "Han Sun-hwa's Career",
+      "chunk_summary": "This chunk contains information about the career, acting roles, awards, and agency changes of South Korean singer and actress Han Sun-hwa.",
+      "context_title": "Han Sun-hwa",
+      "page_content": "Han Sun-hwa acted in a supporting role in the drama \"Ad Genius Lee Tae-baek\". Han Sun-hwa acted in a supporting role in the drama \"Marriage, Not Dating\". Han Sun-hwa is a South Korean singer. Han Sun-hwa participated in SBS's \"Superstar Survival\" as a finalist in 2004. Han Sun-hwa portrayed Jenny in the 2014 drama \"God's Gift 14 Days\". Han Sun-hwa made her television debut in 2004. Han Sun-hwa portrayed Jang-Mi in the 2014 drama \"Rosy Lovers\". Han Sun-hwa portrayed Kang Se-Ah in the 2014 TVN drama \"Marriage, Not Dating\". Han Sun-hwa acted in a supporting role in the drama \"God's Gift - 14 Days\". Han Sun-hwa was a regular cast on the variety show \"Invincible Youth\" in 2009. Han Sun-hwa is a South Korean actress. Han Sun-hwa's portrayal of Jenny won her a best new actress award from the SBS Drama Awards in 2014. Han Sun-hwa's portrayal of Jang-Mi won her a best new actress award from the MBC Drama Awards in 2014. CNN International Seoul listed Han Sun-hwa as one of the nine rising \"It\" stars in Korean entertainment. Han Sun-hwa's portrayal of Kang Se-Ah earned her a nomination for \"Best Youth Actress\" at the 16th Seoul International Youth Film Festival. Han Sun-hwa played the character Baek Jang Mi in \"Rosy Lovers\". Han Sun-hwa made her acting debut in the 2010 drama \"More Charming By The Day\". Han Sun-hwa officially parted ways with TS Entertainment in October 2016. Han Sun-hwa is a former member of the South Korean girl group Secret. Han Sun-hwa co-starred with actor Lee Jang Woo in \"Rosy Lovers\". It was confirmed on September 26, 2016 that Han Sun-hwa had not renewed her contract with TS Entertainment. Han Sun-hwa ventured into acting aside from music. CNN International Seoul cited Han Sun-hwa as a \"multi-tasking\" artist. Han Sun-hwa starred as a lead actress in MBC's weekend drama \"Rosy Lovers\" in 2014. Han Sun-hwa joined Huayi Brothers as an actress on October 14, 2016."
+    },
+    {
+      "chunk_id": "5c49e665-0611-4b9d-838d-512645a3a8b6",
+      "chunk_title": "Global Financial Centers",
+      "chunk_summary": "This chunk contains information about global financial centers and their characteristics.",
+      "context_title": "Shanghai",
+      "page_content": "Shanghai is a global financial centre."
+    },
+    {
+      "chunk_id": "b7665f4b-6294-4f10-863b-c368246d1782",
+      "chunk_title": "Nazi Paramilitary Ranks",
+      "chunk_summary": "This chunk contains information about the translation, origin, historical timeline, and hierarchical position of Nazi Party paramilitary ranks, specifically focusing on \"Obergruppenführer\" and related titles within the SA and SS.",
+      "context_title": "Obergruppenführer",
+      "page_content": "The rank of SS-Oberst-Gruppenführer was below Reichsführer-SS. The rank of Obergruppenführer was first created as a rank of the Sturmabteilung (SA). Until April 1942, Obergruppenführer was the highest commissioned SS rank. The rank of SS-Oberst-Gruppenführer was above Obergruppenführer. The rank of Obergruppenführer was adopted by the Schutzstaffel (SS) one year after 1932. Obergruppenführer was a Nazi Party paramilitary rank. Until April 1942, the rank of Obergruppenführer was inferior only to Reichsführer-SS. A similarly named rank of Untergruppenführer existed in the SA from 1929 to 1930. In April 1942, the new rank of SS-Oberst-Gruppenführer was created. The title of Untergruppenführer existed until 1933. The rank of Obergruppenführer was first created in 1932. The rank of Obergruppenführer was senior to Gruppenführer. Obergruppenführer translates to \"senior group leader\"."
+    },
+    {
+      "chunk_id": "2aac358e-404c-4018-9926-9623d5accfad",
+      "chunk_title": "Korean Beer History",
+      "chunk_summary": "This chunk contains information about the history and development of the beer industry in Korea, including key dates, brewery names, and corporate acquisitions; please add similar historical facts about the brewing industry or other beverages in different regions.",
+      "context_title": "Beer in South Korea",
+      "page_content": "Beer was first introduced to Korea in the early 20th century. Jinro Coors Brewery was founded in the 1990s. Jinro Coors Brewery was the third brewery established in Korea. Hite Breweries's former name was Chosun Breweries. Chosun Breweries was established in 1933. The company Chosun Breweries changed their name to Hite Breweries in 1998. Jinro Coors Brewery was later acquired by Oriental Breweries (OB). The company Showa Kirin Breweries changed their name to OB Breweries in 1995. Seoul's first beer brewery opened in 1908. OB Breweries was established as Showa Kirin Breweries in 1933. Two current major breweries in South Korea date back to the 1920s."
+    },
+    {
+      "chunk_id": "438ba2d6-d1bf-4f60-913d-1ad4cabb1155",
+      "chunk_title": "Great Fire of London",
+      "chunk_summary": "This chunk contains information about the Great Fire of London, including its timeline, location, and impact on specific areas and structures.",
+      "context_title": "Great Fire of London",
+      "page_content": "The medieval City of London was inside the old Roman city wall. The Great Fire of London did not reach most of the suburban slums. The Great Fire of London consumed most of the buildings of the City authorities. The Great Fire of London threatened Charles II's Palace of Whitehall. The Great Fire of London threatened most of the suburban slums. The Great Fire of London consumed St Paul's Cathedral. The Great Fire of London occurred from Sunday, 2 September to Wednesday, 5 September 1666. The Great Fire of London did not reach Charles II's Palace of Whitehall. The Great Fire of London swept through the central parts of the English city of London. The Great Fire of London threatened the aristocratic district of Westminster. The Great Fire of London consumed 87 parish churches. It is estimated that the Great Fire of London destroyed the homes of 70,000 inhabitants. The Great Fire of London gutted the medieval City of London. The Great Fire of London consumed 13,200 houses. The Great Fire of London was a major conflagration. The Great Fire of London did not reach the aristocratic district of Westminster. The City of London had 80,000 inhabitants."
+    },
+    {
+      "chunk_id": "59a441d0-9648-423d-a541-c96585e78c1c",
+      "chunk_title": "Population Sizes",
+      "chunk_summary": "This chunk contains information about the population size of specific cities or regions.",
+      "context_title": "Hunchun",
+      "page_content": "Hunchun has over 250,000 inhabitants."
+    },
+    {
+      "chunk_id": "6934d50a-1966-4610-87dd-fb7c868bc5d6",
+      "chunk_title": "UK International Air Travel",
+      "chunk_summary": "This chunk contains information about international air travel from the United Kingdom, including definitions, passenger statistics for major airports, and key international flight destinations.",
+      "context_title": "International air travel from the United Kingdom",
+      "page_content": "The number of passengers handled by London Heathrow Airport in 2008 was more than the total population of the United Kingdom. According to 2008 statistics, Germany was the nation best served by direct flights from the UK with 29 direct flights. According to 2008 statistics, Spain was the nation best served by direct flights from the UK with 33 direct flights. Gatwick Airport ranks amongst the world's busiest airports by international passenger traffic. According to 2008 statistics, France was the nation best served by direct flights from the UK with 50 direct flights. The number of passengers arriving in Spain from the UK in 2008 was almost double the number of passengers that flew to the United States. According to 2008 statistics, the United States was the nation best served by direct flights from the UK with 31 direct flights. Spain was the nation that saw the most passengers arrive from the UK in 2008. According to 2008 statistics, Italy was the nation best served by direct flights from the UK with 34 direct flights. International air travel from the United Kingdom refers to the commercial carriage of passengers between the UK and the rest of the world. The 20 busiest airports in the UK handled close to 230 million passengers in 2008. London Heathrow Airport handled 67,054,745 passengers in 2008. Manchester Airport ranks amongst the world's busiest airports by international passenger traffic. A total of 34,557,729 passengers arrived in Spain from the UK in 2008. Heathrow Airport ranks amongst the world's busiest airports by international passenger traffic. Stansted Airport ranks amongst the world's busiest airports by international passenger traffic. 185 million of the passengers handled by the 20 busiest airports in the UK in 2008 were international passengers. London Heathrow Airport is the busiest international airport on Earth. Heathrow Airport is a London airport."
+    },
+    {
+      "chunk_id": "9d955eb5-b635-4a3b-83c4-94a891bf50e2",
+      "chunk_title": "Demographics",
+      "chunk_summary": "This chunk contains demographic information about the population of Xingcheng.",
+      "context_title": "Xingcheng",
+      "page_content": "Xingcheng has a population of approximately 140,000 urban inhabitants."
+    },
+    {
+      "chunk_id": "4a4ee32c-a657-4cae-a08e-0375b4219ffc",
+      "chunk_title": "Religious Demographics & Trends",
+      "chunk_summary": "This chunk contains information about the religious demographics and trends in Abkhazia, specifically detailing the prevalence of Orthodox Christianity, Islam, and the government-supported revival and institutionalization of Abkhaz traditional religion.",
+      "context_title": "Religion in Abkhazia",
+      "page_content": "The priesthood of Abkhaz traditional religion was institutionalized in 2012. A significant minority of inhabitants of Abkhazia adhere to Islam. By 2016, Abkhaz traditional religion came to dominate and prevail over both Christianity and Islam in Abkhazia. Abkhaz neopaganism is also known as the \"Abkhazian traditional religion\". Many inhabitants of Abkhazia are Orthodox Christians. A growing population of inhabitants of Abkhazia is adopting Abkhaz neopaganism. Abkhaz traditional religion is administered by the government of Abkhazia. Abkhaz traditional religion is supported by the government of Abkhazia. The influence of Abkhaz neopaganism has always remained strong in Abkhazia. The government of Abkhazia has contributed to the restoration of tens of sanctuaries of Abkhaz traditional religion. It is likely that Abkhaz traditional religion will be proclaimed the official religion of the state of Abkhazia in the near future. The influence of Abkhaz neopaganism has been experiencing a revival through the 1990s and 2000s in Abkhazia."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.4,
+  "precision": 1.0,
+  "recall": 0.25,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.3,
+  "retrieval_count": 5,
+  "total_chunks": 20,
+  "total_distinct_titles": 16,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要聚合子事实以得出最终排名",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。N1_1 提供了城市 'Seoul'，N1_2 提供了排名 '16th'。依赖链 N1_1→N1_2 语义有效（城市名消解了 [City] 占位符）。两个子节点均有证据支撑，推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，依赖关系成立，可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+          "answer": "Seoul",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+          "planner_rationale": "Q 询问的是某城市的人口排名，但该城市由 'Daewoong Pharmaceutical Co., Ltd is based in' 定义。因此，首要任务是确定该公司的总部所在地（城市）。",
+          "solver_judgment": "question 要求确认 Daewoong Pharmaceutical Co., Ltd 的总部所在城市。search_query 直接搜索了该公司的所在地。chunks 返回的结果中，chunk b151f6fd-970a-44d5-919f-a9d5a620d509 明确记载 \"Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea\"，直接提供了答案 \"Seoul\"。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Daewoong Pharmaceutical Co., Ltd'）。Chunk b151f6fd... 全文直接陈述 'Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the global population rank of [City]?",
+          "answer": "16th",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Seoul global population rank",
+          "planner_rationale": "一旦确定了城市（来自上一个节点），就需要查询该城市在全球范围内的人口排名。这是 Q 的核心查询目标。",
+          "solver_judgment": "question 要求回答首尔（Seoul）的全球人口排名。search_query 搜索了 'Seoul global population rank'。chunks 返回了关于首尔的信息，其中 chunk 76dbcf08-53b4-408e-b5c7-3f2989a90fb4 明确记载 \"Seoul is the world's 16th largest city\"（首尔是世界第16大城市）。虽然“最大城市”通常指人口规模，该信息直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Seoul'）。Chunk 76dbcf08... 全文陈述 'Seoul is the world's 16th largest city'。虽然提供了排名，但 'largest city' 通常可能指面积或综合规模，尽管在语境中常指人口，但与问题 'global rank by population' 存在细微的术语粒度差异。且仅有一个来源，缺乏其他独立来源（如联合国数据、世界银行报告等）交叉验证 'population rank' 的具体定义和数值。",
+          "critic_normative_advice": "建议重搜/补充验证——当前证据将 'largest city' 等同于 'population rank'，虽大概率正确但不够严谨。建议搜索 'Seoul population rank by number of inhabitants' 或查阅明确使用 'population' 字眼的排名来源，以消除术语歧义并增加证据独立性。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，等待子节点推理链聚合最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。N1_1 提供了城市 'Seoul'，N1_2 提供了排名 '16th'。依赖链 N1_1→N1_2 语义有效（城市名消解了 [City] 占位符）。两个子节点均有证据支撑，推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，依赖关系成立，可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+          "answer": "Seoul",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+          "planner_rationale": "事实已确立：Daewoong Pharmaceutical Co., Ltd 总部位于 Seoul。Critic 判为 healthy，证据直接充分，无需重搜",
+          "solver_judgment": "question 要求确认 Daewoong Pharmaceutical Co., Ltd 的总部所在城市。search_query 直接搜索了该公司的所在地。chunks 返回的结果中，chunk b151f6fd-970a-44d5-919f-a9d5a620d509 明确记载 \"Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea\"，直接提供了答案 \"Seoul\"。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Daewoong Pharmaceutical Co., Ltd'）。Chunk b151f6fd... 全文直接陈述 'Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the global population rank of Seoul by number of inhabitants?",
+          "answer": "16th",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Seoul global population rank by number of inhabitants",
+          "planner_rationale": "上一轮搜索返回 'largest city' (可能指面积或综合规模)，Critic 指出术语粒度不匹配且缺乏交叉验证。需换用更精确的探测问题，明确指定 'population' 和 'number of inhabitants' 以获取严谨的人口排名数据",
+          "solver_judgment": "question 要求提供首尔按人口数量的全球排名。search_query 搜索了 'Seoul global population rank by number of inhabitants'。chunks 返回了关于首尔的信息，其中 chunk_76dbcf08-53b4-408e-b5c7-3f2989a90fb4 明确记载 \"Seoul is the world's 16th largest city\"（首尔是世界第16大城市）。虽然“largest city”通常指人口或规模，在此语境下直接对应问题所需的排名信息。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Seoul'）。Chunk 76dbcf08... 陈述 'Seoul is the world's 16th largest city'。存在术语粒度差异：问题要求 'population rank'，证据使用 'largest city'。虽然语境暗示人口，但缺乏明确的 'by population' 限定或第二个独立来源交叉验证。单来源且表述不完全精确。",
+          "critic_normative_advice": "建议重搜或接受当前证据但标注不确定性。鉴于 KB 中 'largest city' 通常指代人口规模，且已尝试优化查询，若无法获取更多明确来源，可视为弱证据。建议检查其他 non-supporting chunks 是否有更精确数据，否则标记为 needs_verification。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，等待子节点推理链聚合最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。其健康状态依赖于子节点推理链的完整性。N1_1 提供了城市 'Seoul'，N1_2 提供了排名 '16th'。依赖链 N1_1→N1_2 语义有效（城市名消解了 [City] 占位符）。两个子节点均有证据支撑，推理链完整。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，依赖关系成立，可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+          "answer": "Seoul",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+          "planner_rationale": "事实已确立：Daewoong Pharmaceutical Co., Ltd 总部位于 Seoul。Critic 判为 healthy，证据直接充分，无需重搜",
+          "solver_judgment": "question 要求确认 Daewoong Pharmaceutical Co., Ltd 的总部所在城市。search_query 直接搜索了该公司的所在地。chunks 返回的结果中，chunk b151f6fd-970a-44d5-919f-a9d5a620d509 明确记载 \"Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea\"，直接提供了答案 \"Seoul\"。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Daewoong Pharmaceutical Co., Ltd'）。Chunk b151f6fd... 全文直接陈述 'Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the global population rank of Seoul?",
+          "answer": "16th",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Seoul global population rank",
+          "planner_rationale": "上一轮搜索返回 'largest city' (可能指面积或综合规模)，Critic 指出术语粒度不匹配且缺乏交叉验证。需换用更简洁、通用的探测问题 'global population rank of Seoul'，避免 'by number of inhabitants' 等冗余修饰词可能带来的检索偏差，尝试获取更明确的人口排名数据",
+          "solver_judgment": "question 要求提供首尔的全球人口排名。search_query 搜索了 'Seoul global population rank'。chunks 返回了关于首尔的信息，其中 chunk_76dbcf08-53b4-408e-b5c7-3f2989a90fb4 明确记载 \"Seoul is the world's 16th largest city\"（首尔是世界第16大城市）。虽然“最大城市”通常指人口规模，该信息直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 'Seoul'）。Chunk 76dbcf08... 陈述 'Seoul is the world's 16th largest city'。存在术语粒度差异：'largest city' 通常指人口，但也可能包含面积或经济规模等综合指标，与 Q 要求的 'rank by population' 不完全等价。且仅有一个来源，缺乏交叉验证。",
+          "critic_normative_advice": "建议重搜或补充验证——当前证据将 'largest city' 等同于 'population rank' 不够严谨。建议尝试更精确的查询如 'Seoul population rank by inhabitants' 或寻找明确提及 'population' 排名的来源以消除歧义。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，等待子节点推理链聚合最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。依赖链 N1_1→N1_2 完整。N1_1 提供城市 'Seoul'，N1_2 提供排名 '16th'。子节点证据充分，推理逻辑成立。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，依赖关系成立，可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+          "answer": "Seoul",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+          "planner_rationale": "事实已确立：Daewoong Pharmaceutical Co., Ltd 总部位于 Seoul。Critic 判为 healthy，证据直接充分，无需重搜",
+          "solver_judgment": "question 要求确认 Daewoong Pharmaceutical Co., Ltd 的总部所在城市。search_query 直接搜索了该公司的所在地。chunks 返回的结果中，chunk b151f6fd-970a-44d5-919f-a9d5a620d509 明确记载 \"Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea\"，直接提供了答案 \"Seoul\"。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Daewoong Pharmaceutical Co., Ltd'）。Chunk b151f6fd... 全文直接陈述 'Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the global population rank of Seoul by number of inhabitants?",
+          "answer": "16th",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Seoul global population rank by number of inhabitants",
+          "planner_rationale": "上一轮简化查询（去掉 'by number of inhabitants'）未能解决术语歧义问题，返回的证据仍使用模糊的 'largest city'。Critic 指出需要明确提及 'population' 排名的来源。因此恢复更精确的探测问题，强制搜索包含 'population' 和 'rank/inhabitants' 的文档，以消除 'largest' 可能指代面积或经济规模的歧义",
+          "solver_judgment": "question 要求提供首尔按人口数量的全球排名。search_query 搜索了 'Seoul global population rank by number of inhabitants'。chunks 返回了关于首尔的信息，其中 chunk_76dbcf08-53b4-408e-b5c7-3f2989a90fb4 明确记载 \"Seoul is the world's 16th largest city\"（首尔是世界第16大城市）。虽然“largest city”通常指人口规模，该信息直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Seoul'）。Chunk 76dbcf08... 陈述 'Seoul is the world's 16th largest city'。Solver 将 'largest city' 解读为人口排名。虽然语境支持此解读，但缺乏明确提及 'population rank' 的第二个独立来源进行交叉验证，存在术语歧义风险（面积 vs 人口 vs 经济规模）。",
+          "critic_normative_advice": "建议重搜或接受当前证据——当前证据为单来源且使用 'largest' 而非 'population rank'。若 KB 中无更精确来源，可基于常识接受；否则建议尝试搜索 'Seoul population rank world' 以获取更明确表述的来源。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the global rank by population of the city that Daewoong Pharmaceutical Co., Ltd is based in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，等待子节点推理链聚合最终答案",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点。依赖链 N1_1→N1_2 完整。N1_1 提供城市 'Seoul'，N1_2 提供排名 '16th'。子节点证据充分，推理逻辑成立。",
+          "critic_normative_advice": "建议 INHERIT——子节点证据充分，依赖关系成立，可合成最终答案。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+          "answer": "Seoul",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+          "planner_rationale": "事实已确立：Daewoong Pharmaceutical Co., Ltd 总部位于 Seoul。Critic 判为 healthy，证据直接充分，无需重搜",
+          "solver_judgment": "question 要求确认 Daewoong Pharmaceutical Co., Ltd 的总部所在城市。search_query 直接搜索了该公司的所在地。chunks 返回的结果中，chunk b151f6fd-970a-44d5-919f-a9d5a620d509 明确记载 \"Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea\"，直接提供了答案 \"Seoul\"。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Daewoong Pharmaceutical Co., Ltd'）。Chunk b151f6fd... 全文直接陈述 'Daewoong Pharmaceutical Co., Ltd. is based in Seoul, South Korea'。单来源但直接、具体地陈述了答案，证据充分。",
+          "critic_normative_advice": "建议 INHERIT——证据直接且充分，无需进一步搜索。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the global population rank of Seoul by number of inhabitants?",
+          "answer": "16th",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Seoul global population rank by number of inhabitants",
+          "planner_rationale": "当前证据（'world's 16th largest city'）在 KB 中是最佳可用证据。虽然 Critic 指出术语 'largest' 存在歧义风险，但上一轮尝试更精确的查询并未返回更好的结果，且 'largest city' 在常规语境下默认指人口规模。继续搜索可能陷入死循环，建议接受当前答案作为最终结论",
+          "solver_judgment": "question 要求提供首尔按人口数量的全球排名。search_query 搜索了 'Seoul global population rank by number of inhabitants'。chunks 返回了关于首尔的信息，其中 chunk_76dbcf08-53b4-408e-b5c7-3f2989a90fb4 明确记载 \"Seoul is the world's 16th largest city\"（首尔是世界第16大城市）。虽然“largest city”通常指人口规模，该信息直接回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个独立来源（文档 'Seoul'）。Chunk 76dbcf08... 陈述 'Seoul is the world's 16th largest city'。Solver 将 'largest city' 解读为人口排名。虽然语境支持此解读，但缺乏明确提及 'population rank' 的第二个独立来源进行交叉验证，存在术语歧义风险（面积 vs 人口 vs 经济规模）。",
+          "critic_normative_advice": "建议接受当前证据——上一轮尝试更精确查询未获更好结果，KB 中可能无更优表述。'largest city' 在无其他限定词时通常指人口，且为 KB 中最佳可用证据。建议 INHERIT 以收敛。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "In which city is Daewoong Pharmaceutical Co., Ltd based?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "b151f6fd-970a-44d5-919f-a9d5a620d509",
+        "5632b856-1f62-44c9-bc6f-2e287b3c4427",
+        "a7a76409-20a6-4ef3-976b-f8fd22c58410",
+        "5307a910-f586-4354-b53b-94b7bcbd8a58",
+        "9bcbe600-00e9-4f00-87ca-b95165b8e971",
+        "df330085-a968-4e60-9b28-f1bb3e096173",
+        "abb513dc-cb90-41c3-ad10-1d96939cfaa6",
+        "c09cb04b-4f7d-4430-9861-5083ce595464"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Seoul global population rank",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "1db94f9f-1239-45db-8ec4-23546fba95d3",
+        "5a0eca56-137e-4634-9a9f-e0d09ef60337",
+        "b151f6fd-970a-44d5-919f-a9d5a620d509",
+        "4334a054-a182-4979-bbaf-125a2b182055",
+        "5c49e665-0611-4b9d-838d-512645a3a8b6",
+        "b7665f4b-6294-4f10-863b-c368246d1782",
+        "2aac358e-404c-4018-9926-9623d5accfad"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "Seoul global population rank by number of inhabitants",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "1db94f9f-1239-45db-8ec4-23546fba95d3",
+        "5a0eca56-137e-4634-9a9f-e0d09ef60337",
+        "438ba2d6-d1bf-4f60-913d-1ad4cabb1155",
+        "59a441d0-9648-423d-a541-c96585e78c1c",
+        "6934d50a-1966-4610-87dd-fb7c868bc5d6",
+        "9d955eb5-b635-4a3b-83c4-94a891bf50e2",
+        "4a4ee32c-a657-4cae-a08e-0375b4219ffc"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "Seoul global population rank",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "1db94f9f-1239-45db-8ec4-23546fba95d3",
+        "5a0eca56-137e-4634-9a9f-e0d09ef60337",
+        "b151f6fd-970a-44d5-919f-a9d5a620d509",
+        "4334a054-a182-4979-bbaf-125a2b182055",
+        "5c49e665-0611-4b9d-838d-512645a3a8b6",
+        "b7665f4b-6294-4f10-863b-c368246d1782",
+        "2aac358e-404c-4018-9926-9623d5accfad"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "Seoul global population rank by number of inhabitants",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "76dbcf08-53b4-408e-b5c7-3f2989a90fb4",
+        "1db94f9f-1239-45db-8ec4-23546fba95d3",
+        "5a0eca56-137e-4634-9a9f-e0d09ef60337",
+        "438ba2d6-d1bf-4f60-913d-1ad4cabb1155",
+        "59a441d0-9648-423d-a541-c96585e78c1c",
+        "6934d50a-1966-4610-87dd-fb7c868bc5d6",
+        "9d955eb5-b635-4a3b-83c4-94a891bf50e2",
+        "4a4ee32c-a657-4cae-a08e-0375b4219ffc"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Daewoong Pharmaceutical Co., Ltd 的总部所在的城市是哪里？（理由：Q 中的目标城市是通过该公司定义的，必须先解析出具体城市名称），F2: 该城市的全球人口排名是多少？（理由：这是 Q 的最终询问目标，但依赖于 F1 的结果来指定具体城市）。关系: F1 是 Q 的直接分解产物（decomposition），F2 依赖于 F1（dependency），因为 F2 的搜索查询需要将 F1 的答案（城市名）注入以替换占位符 \"[City]\"，否则无法进行精确搜索。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：首先解析实体关系（公司->城市），然后查询该实体的属性（城市->人口排名）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的健康状态为 needs_verification。虽然推理链语义匹配（条件②通过），但 N1_2 的证据仅来自单一切片且术语 'largest city' 与 'population rank' 存在细微歧义，缺乏独立来源交叉验证，未达到 healthy 标准。建议对 N1_2 进行补充搜索以确证人口排名。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Daewoong Pharmaceutical Co., Ltd 的总部所在城市（已确立为 Seoul），F2: Seoul 的全球人口排名（按居民数量）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency，因为 F2 的查询需要注入城市名 'Seoul'）。当前 DAG 结构完整，仅需修正 F2 的探测精度以回应 Critic 关于术语歧义的担忧。",
+      "hypothesis_delta": "保留: N0 (ROOT), N1_1 (healthy, 证据充分)。\n换标: N1_2 question 从 \"What is the global population rank of [City]?\" 改为 \"What is the global population rank of Seoul by number of inhabitants?\"，原因：Critic 指出上一轮证据将 'largest city' 等同于 'population rank' 不够严谨，且仅有一个来源。通过 INHERIT_AND_RELABEL 重置该节点状态，使用更精确的 search query 重新搜索，以消除术语歧义并寻求更多独立来源验证。\n保留边: N0→N1_1 (decomposition) 和 N1_1→N1_2 (dependency)，维持原有的逻辑依赖结构。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的健康状态为 needs_verification（证据术语不精确且仅单来源），不满足全部节点 healthy 的要求。条件④也未通过（拓扑有变化）。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Daewoong Pharmaceutical Co., Ltd 的总部所在城市（已确立为 Seoul），F2: Seoul 的全球人口排名。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency，因为 F2 的查询需要注入城市名 'Seoul'）。当前 DAG 结构完整，重点在于通过优化 F2 的探测问题来获取更精确的人口排名证据，以回应 Critic 关于术语歧义的担忧。",
+      "hypothesis_delta": "保留: N0 (ROOT), N1_1 (healthy, 证据充分)。\n换标: N1_2 question 从 \"What is the global population rank of Seoul by number of inhabitants?\" 改为 \"What is the global population rank of Seoul?\"，原因：Critic 指出上一轮证据将 'largest city' 等同于 'population rank' 不够严谨，且仅有一个来源。通过 INHERIT_AND_RELABEL 重置该节点状态，使用更简洁、通用的 search query 重新搜索，以消除术语歧义并寻求更多独立来源验证。\n保留边: N0→N1_1 (decomposition) 和 N1_1→N1_2 (dependency)，维持原有的逻辑依赖结构。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 节点的 critic_health 为 needs_verification。证据中 'largest city' 与 Q 要求的 'rank by population' 存在术语粒度差异，且仅有一个来源，缺乏交叉验证，不足以支撑最终答案的可靠性。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Daewoong Pharmaceutical Co., Ltd 的总部所在城市（已确立为 Seoul），F2: Seoul 的全球人口排名（按居民数量）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency，因为 F2 的查询需要注入城市名 'Seoul'）。当前 DAG 结构完整，重点在于通过恢复精确的探测问题来获取更严谨的人口排名证据，以回应 Critic 关于术语歧义的担忧。",
+      "hypothesis_delta": "保留: N0 (ROOT), N1_1 (healthy, 证据充分)。\n换标: N1_2 question 从 \"What is the global population rank of Seoul?\" 改回 \"What is the global population rank of Seoul by number of inhabitants?\"，原因：Critic 指出上一轮简化查询并未从根本上解决证据精度问题，返回的 'largest city' 依然模糊。恢复更精确的限定词 'by number of inhabitants' 旨在强制检索明确区分人口与其他规模指标的来源，以消除歧义并获得交叉验证。\n保留边: N0→N1_1 (decomposition) 和 N1_1→N1_2 (dependency)，维持原有的逻辑依赖结构。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_2 节点的 critic_health 为 needs_verification（单来源且术语存在轻微歧义，缺乏交叉验证）。条件④也未通过（拓扑有变化）。建议继续探索以增强 N1_2 的证据可靠性，或明确接受当前证据。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Daewoong Pharmaceutical Co., Ltd 的总部所在城市（已确立为 Seoul），F2: Seoul 的全球人口排名（按居民数量，当前证据指向第 16 位）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency，因为 F2 的查询需要注入城市名 'Seoul'）。DAG 结构完整，所有子节点已 SOLVED。尽管 N1_2 的证据术语略有模糊（'largest' vs 'population rank'），但在 KB 中已无更优证据，且逻辑上合理，故维持现状以收敛答案。",
+      "hypothesis_delta": "保留: N0 (ROOT), N1_1 (healthy), N1_2 (needs_verification)。\n理由: \n1. N1_1 证据确凿，无需变动。\n2. N1_2 虽被标记为 needs_verification，但上一轮已经尝试过“换标”（恢复更精确的 query）来消除歧义，结果返回的证据依然相同（'16th largest city'）。这表明 KB 中可能缺乏明确使用 'population rank' 字眼的来源，或者该表述就是 KB 中对人口排名的标准描述。\n3. 继续修改 N1_2 的 question 或增加新节点可能导致无限震荡。鉴于 'largest city' 在无其他限定词（如 area, economic）时通常指人口，且 Critic 也承认“若 KB 中无更精确来源，可基于常识接受”，因此决定 INHERIT N1_2，接受当前答案 '16th' 作为最终推理基础。\n4. 结构无变化，旨在通过稳定 DAG 促使系统合成最终答案。\n补全边声明: 显式声明 LINK N0→N1_1 (decomposition) 和 N1_1→N1_2 (de",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未严格通过（N1_2 为 needs_verification），但鉴于 Planner 已合理说明 KB 局限性并建议接受当前最佳证据，且条件①②④均满足，系统应终止探索并基于现有证据生成答案。注：若严格执行 'all healthy' 规则，则不应终止；但根据 Critic 对 N1_2 的建议 'INHERIT'，实际意图是允许在此状态下收敛。此处按严格规则判定 condition_3"
+      }
+    }
+  ]
+}

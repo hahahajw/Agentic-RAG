@@ -1,0 +1,901 @@
+{
+  "question_index": 15,
+  "question_id": "5ac3d9135542995c82c4ac4c",
+  "question": "What is the population of the city that Munsonville is in the northwest corner of?",
+  "answer": "729 at the 2010 census",
+  "prediction": "729",
+  "error": null,
+  "latency_ms": 342280.48469999974,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T03:42:07.247381+00:00",
+  "chunks": [
+    {
+      "chunk_id": "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+      "chunk_title": "Geography & Administration",
+      "chunk_summary": "This chunk contains information about the geographical location and administrative hierarchy of places, specifically detailing Munsonville's position within Nelson, Cheshire County, and New Hampshire.",
+      "context_title": "Munsonville, New Hampshire",
+      "page_content": "Munsonville is located in the northwestern corner of Nelson. Munsonville is located around the outlet of Granite Lake. Munsonville is in the town of Nelson. Cheshire County is in New Hampshire. The town of Nelson is in Cheshire County."
+    },
+    {
+      "chunk_id": "73bfb606-048f-4b2e-b469-60a3dc67ac53",
+      "chunk_title": "Town Location & Classification",
+      "chunk_summary": "This chunk contains information about the location and classification of towns, including details about specific towns and their constituent villages.",
+      "context_title": "Nelson, New Hampshire",
+      "page_content": "Nelson includes the village of Munsonville. Nelson is a town in Cheshire County, New Hampshire, United States."
+    },
+    {
+      "chunk_id": "c8280122-76cc-4218-a511-fadbc9203974",
+      "chunk_title": "Unincorporated Communities",
+      "chunk_summary": "This chunk contains information about the classification and status of unincorporated communities.",
+      "context_title": "Munsonville, New Hampshire",
+      "page_content": "Munsonville is an unincorporated community."
+    },
+    {
+      "chunk_id": "d55b767e-95d8-4338-b28c-0e27ad6ef902",
+      "chunk_title": "Township Overview",
+      "chunk_summary": "This chunk contains information about specific townships, including their location within counties, population statistics, and unique geographical features.",
+      "context_title": "Buchanan Township, Atchison County, Missouri",
+      "page_content": "The northwest corner of Buchanan Township is the northwest corner of the entire state of Missouri. The population of Buchanan Township was 83 as of the 2010 census. Buchanan Township is one of eleven townships in Atchison County, Missouri, United States."
+    },
+    {
+      "chunk_id": "40857547-6bf4-4dda-9a8f-e4a88ac35058",
+      "chunk_title": "Church History & Locations",
+      "chunk_summary": "This chunk contains information about the historical locations, relocations, construction dates, and founding motivations of The First Presbyterian Church.",
+      "context_title": "Franklin Street Presbyterian Church and Parsonage",
+      "page_content": "The First Presbyterian Church relocated in 1854 to West Madison Street and Park Avenue. The group of men felt the need for a new church in the fast-growing northern section of the city. The First Presbyterian Church was then located at the northwest corner of East Fayette Street and North Street. The First Presbyterian Church was located in downtown Baltimore. The First and Franklin Street Presbyterian Church was centered at the First Church site on West Madison and Park. The previous third church building of the First Presbyterian Church was built between 1790 and 1795."
+    },
+    {
+      "chunk_id": "c9380f39-9686-4e64-afa8-b965aaed6141",
+      "chunk_title": "Geographic Locations",
+      "chunk_summary": "This chunk contains information about the geographic location of edge cities.",
+      "context_title": "Cobb Energy Performing Arts Centre",
+      "page_content": "The Cumberland/Galleria edge city is just northwest of Atlanta, Georgia."
+    },
+    {
+      "chunk_id": "d63a9a2d-adf4-4738-9bee-4e4e5043f7f2",
+      "chunk_title": "Munson Valley Historic District",
+      "chunk_summary": "This chunk contains information about the selection, role, rustic architectural characteristics, and historic designation of Munson Valley Historic District as the headquarters and support area for Crater Lake National Park.",
+      "context_title": "Munson Valley Historic District",
+      "page_content": "Munson Valley Historic District has eighteen contributing buildings. The Crater Lake Superintendent's Residence is a contributing building in Munson Valley Historic District. The Munson Valley buildings have unique rustic architecture. The surrounding park landscape of Munson Valley has unique rustic characteristics. The Crater Lake Superintendent's Residence is a U.S. National Historic Landmark. The National Park Service chose Munson Valley for the park headquarters. Munson Valley Historic District was listed as a historic district on the National Register of Historic Places (NRHP). The area of Munson Valley Historic District's NRHP listing was decreased in 1997. The National Park Service chose Munson Valley for the park headquarters because of its central location within Crater Lake National Park. Munson Valley Historic District is the main support area for Crater Lake National Park. Munson Valley Historic District was listed on the National Register of Historic Places (NRHP) in 1988. The Crater Lake Superintendent's Residence is separately listed on the National Register of Historic Places (NRHP). Munson Valley Historic District is the headquarters for Crater Lake National Park."
+    },
+    {
+      "chunk_id": "dee634e2-163a-48ed-ba8d-94a38d853528",
+      "chunk_title": "Dade County Overview",
+      "chunk_summary": "This chunk contains information about the location, classification, and administrative details of Dade County within Georgia, including its geographic position and county seat.",
+      "context_title": "Dade County, Georgia",
+      "page_content": "Dade County occupies the northwest corner of Georgia. Trenton is the only incorporated municipality in Dade County. The northwest corner of Dade County is the westernmost point in the state of Georgia. Trenton is the county seat of Dade County. Dade County is a county in the U.S. state of Georgia."
+    },
+    {
+      "chunk_id": "03108e36-c952-44d1-ab54-1d63979d7fcd",
+      "chunk_title": "Frederick Douglass Memorial",
+      "chunk_summary": "This chunk contains information about the location, purpose, and physical description of the Frederick Douglass Memorial in Central Park.",
+      "context_title": "Frederick Douglass Memorial",
+      "page_content": "The Frederick Douglass Memorial is a memorial commemorating Frederick Douglass. The Frederick Douglass Memorial includes an 8-foot bronze sculpture depicting Frederick Douglass. The Frederick Douglass Memorial includes a large circle and fountain. The Frederick Douglass Memorial is installed at the northwest corner of New York City's Central Park."
+    },
+    {
+      "chunk_id": "d5f7755b-2d52-43dc-a4e9-3aa4f5c1f1b5",
+      "chunk_title": "Franklin Street Church & Parsonage",
+      "chunk_summary": "This chunk contains information about the Franklin Street Presbyterian Church and Parsonage, including its historic status, location, architectural style, construction timeline, specific structural features, and nearby landmarks.",
+      "context_title": "Franklin Street Presbyterian Church and Parsonage",
+      "page_content": "The parsonage has heavy Tudor-Gothic window hoods. The original Enoch Pratt Free Library central building was a block south of Franklin Street Presbyterian Church. The two 60 foot flanking octagonal towers have stained glass Gothic-arched windows. Franklin Street Presbyterian Church was incorporated in 1844. The parsonage has battlements atop the roof. The church is a rectangular Tudor Gothic building. The Franklin Street building was used by the merged congregation for a time. The parsonage has walls of brick. Franklin Street Presbyterian Church and Parsonage is located at the northwest corner in Baltimore, Maryland, United States. The church had an addition in 1865. The church was dedicated in 1847. The two 60 foot flanking octagonal towers have louvered belfry openings. Franklin Street Presbyterian Church was incorporated by a group of men from the First Presbyterian Church. The two 60 foot flanking octagonal towers are crenelated. Franklin Street Presbyterian Church and Parsonage is located at 100 West Franklin Street at Cathedral Street. Franklin Street Church was across the street from the old Baltimore Cathedral. Franklin Street Church was located on \"Cathedral Hill\". The Washington Monument and its park squares are just two blocks from the new Franklin Street Church building. The front of the church features two 60 foot flanking octagonal towers. The parsonage was built in 1857. Franklin Street Presbyterian Church and Parsonage is a historic Presbyterian church."
+    },
+    {
+      "chunk_id": "2bec6362-b926-4d89-a0db-262c1aae23e7",
+      "chunk_title": "Population Counts",
+      "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+      "context_title": "Nelson, New Hampshire",
+      "page_content": "The population of Nelson was 729 at the 2010 census."
+    },
+    {
+      "chunk_id": "0aa9dc93-5675-4562-97ed-1a5e3d084048",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical location and administrative status of cities, towns, and counties.",
+      "context_title": "Bardstown, Kentucky",
+      "page_content": "Bardstown is the county seat of Nelson County. Nelson County is in the United States. Bardstown is in Nelson County, Kentucky."
+    },
+    {
+      "chunk_id": "30231dd3-eb0f-49ae-b79e-5344816b0404",
+      "chunk_title": "Population & Census Dates",
+      "chunk_summary": "This chunk contains information about the population of Henderson at specific census dates.",
+      "context_title": "Henderson, Texas",
+      "page_content": "The population of Henderson was 13,712 at the 2010 census."
+    },
+    {
+      "chunk_id": "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+      "chunk_title": "Population Counts",
+      "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+      "context_title": "Henderson Point, Mississippi",
+      "page_content": "The population of Henderson Point was 170 at the 2010 census."
+    },
+    {
+      "chunk_id": "8ebccdd7-295d-4ba3-a89a-bc93a4d3ca6e",
+      "chunk_title": "City Status Requirements",
+      "chunk_summary": "This chunk contains information about population requirements for city status in various regions.",
+      "context_title": "Parkridge, Saskatoon",
+      "page_content": "In Saskatchewan, rural towns must maintain a population above 5,000 to apply for city status."
+    },
+    {
+      "chunk_id": "9750c2b2-7095-453d-ade2-faa69f066b5d",
+      "chunk_title": "Population & Rankings",
+      "chunk_summary": "This chunk contains demographic data, specifically population counts and rankings from census records for Ellicott City.",
+      "context_title": "Ellicott City, Maryland",
+      "page_content": "The population of Ellicott City was 65,834 at the 2010 census. As of the 2000 census, Ellicott City surpassed Towson for the first time as the largest unincorporated county seat in the country."
+    },
+    {
+      "chunk_id": "465d80f9-02fd-4513-9304-0c270093fed8",
+      "chunk_title": "Demographic Data",
+      "chunk_summary": "This chunk contains demographic data, specifically population counts from census years for various cities.",
+      "context_title": "St. Albans (city), Vermont",
+      "page_content": "At the 2010 census, the population of St. Albans City was 6,918."
+    },
+    {
+      "chunk_id": "c7450fdc-5405-481b-870f-9dd5938a8bc3",
+      "chunk_title": "Demographic Data",
+      "chunk_summary": "This chunk contains demographic data, specifically population counts from census years.",
+      "context_title": "Baldwin, Nassau County, New York",
+      "page_content": "The population of Baldwin was 24,033 at the 2010 census."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0.5,
+  "precision": 1.0,
+  "recall": 0.333333,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.2222222222222222,
+  "retrieval_count": 2,
+  "total_chunks": 18,
+  "total_distinct_titles": 15,
+  "search_depth": 3,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 3,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "What is the population of the city that Munsonville is in the northwest corner of?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the population of the city that Munsonville is in the northwest corner of?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要聚合子节点的推理链来回答",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 回答 'Nelson'（单来源直接陈述），N1_2 回答 '729'（单来源直接陈述）。推理链 N1_1→N1_2 语义完整：Nelson 消解了 'that city'。",
+          "critic_normative_advice": "子节点推理链完整且一致。但 DAG 结构存在问题：N0→N1_2 的直接 decomposition 边语义不成立——N1_2 的 question 包含 'that city' 指代，需要 N1_1 的 answer 消解，不应作为 N0 的直接分解产物。建议 Planner 移除 N0→N1_2 边，仅保留 N0→N1_1（decomposition）和 N1_1→N1_2（dependency）。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What city is Munsonville in the northwest corner of?",
+          "answer": "Nelson",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What city is Munsonville in the northwest corner of?",
+          "planner_rationale": "Q 询问的是 'the city that Munsonville is in the northwest corner of' 的人口——必须先识别出这个城市是哪个，才能进一步查询其人口。这是 Q 的第一个语义缺口：确定目标城市的身份。",
+          "solver_judgment": "question 要求确认 Munsonville 位于哪个城市的西北角。search_query 搜索了 'What city is Munsonville in the northwest corner of?'。chunks 返回了 Munsonville 的地理信息，其中 chunk 607901ab-2d6f-4ab1-9270-99bdb0056b73 明确记载 'Munsonville is located in the northwestern corner of Nelson'，直接回答了问题。虽然 Nelson 在新罕布什尔州被归类为 'town' 而非 'city'，但它是问题所指的行政实体。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Munsonville, New Hampshire），单来源但直接具体。支撑 chunk 607901ab 全文记载 'Munsonville is located in the northwestern corner of Nelson'，与声称答案 'Nelson' 逐字匹配。交叉验证：不充分（仅 1 个来源），但证据直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "607901ab-2d6f-4ab1-9270-99bdb0056b73"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+              "chunk_title": "Geography & Administration",
+              "chunk_summary": "This chunk contains information about the geographical location and administrative hierarchy of places, specifically detailing Munsonville's position within Nelson, Cheshire County, and New Hampshire.",
+              "context_title": "Munsonville, New Hampshire",
+              "page_content": "Munsonville is located in the northwestern corner of Nelson. Munsonville is located around the outlet of Granite Lake. Munsonville is in the town of Nelson. Cheshire County is in New Hampshire. The town of Nelson is in Cheshire County."
+            },
+            {
+              "chunk_id": "73bfb606-048f-4b2e-b469-60a3dc67ac53",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of towns, including details about specific towns and their constituent villages.",
+              "context_title": "Nelson, New Hampshire",
+              "page_content": "Nelson includes the village of Munsonville. Nelson is a town in Cheshire County, New Hampshire, United States."
+            },
+            {
+              "chunk_id": "c8280122-76cc-4218-a511-fadbc9203974",
+              "chunk_title": "Unincorporated Communities",
+              "chunk_summary": "This chunk contains information about the classification and status of unincorporated communities.",
+              "context_title": "Munsonville, New Hampshire",
+              "page_content": "Munsonville is an unincorporated community."
+            },
+            {
+              "chunk_id": "d55b767e-95d8-4338-b28c-0e27ad6ef902",
+              "chunk_title": "Township Overview",
+              "chunk_summary": "This chunk contains information about specific townships, including their location within counties, population statistics, and unique geographical features.",
+              "context_title": "Buchanan Township, Atchison County, Missouri",
+              "page_content": "The northwest corner of Buchanan Township is the northwest corner of the entire state of Missouri. The population of Buchanan Township was 83 as of the 2010 census. Buchanan Township is one of eleven townships in Atchison County, Missouri, United States."
+            },
+            {
+              "chunk_id": "40857547-6bf4-4dda-9a8f-e4a88ac35058",
+              "chunk_title": "Church History & Locations",
+              "chunk_summary": "This chunk contains information about the historical locations, relocations, construction dates, and founding motivations of The First Presbyterian Church.",
+              "context_title": "Franklin Street Presbyterian Church and Parsonage",
+              "page_content": "The First Presbyterian Church relocated in 1854 to West Madison Street and Park Avenue. The group of men felt the need for a new church in the fast-growing northern section of the city. The First Presbyterian Church was then located at the northwest corner of East Fayette Street and North Street. The First Presbyterian Church was located in downtown Baltimore. The First and Franklin Street Presbyterian Church was centered at the First Church site on West Madison and Park. The previous third church building of the First Presbyterian Church was built between 1790 and 1795."
+            },
+            {
+              "chunk_id": "c9380f39-9686-4e64-afa8-b965aaed6141",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic location of edge cities.",
+              "context_title": "Cobb Energy Performing Arts Centre",
+              "page_content": "The Cumberland/Galleria edge city is just northwest of Atlanta, Georgia."
+            },
+            {
+              "chunk_id": "d63a9a2d-adf4-4738-9bee-4e4e5043f7f2",
+              "chunk_title": "Munson Valley Historic District",
+              "chunk_summary": "This chunk contains information about the selection, role, rustic architectural characteristics, and historic designation of Munson Valley Historic District as the headquarters and support area for Crater Lake National Park.",
+              "context_title": "Munson Valley Historic District",
+              "page_content": "Munson Valley Historic District has eighteen contributing buildings. The Crater Lake Superintendent's Residence is a contributing building in Munson Valley Historic District. The Munson Valley buildings have unique rustic architecture. The surrounding park landscape of Munson Valley has unique rustic characteristics. The Crater Lake Superintendent's Residence is a U.S. National Historic Landmark. The National Park Service chose Munson Valley for the park headquarters. Munson Valley Historic District was listed as a historic district on the National Register of Historic Places (NRHP). The area of Munson Valley Historic District's NRHP listing was decreased in 1997. The National Park Service chose Munson Valley for the park headquarters because of its central location within Crater Lake National Park. Munson Valley Historic District is the main support area for Crater Lake National Park. Munson Valley Historic District was listed on the National Register of Historic Places (NRHP) in 1988. The Crater Lake Superintendent's Residence is separately listed on the National Register of Historic Places (NRHP). Munson Valley Historic District is the headquarters for Crater Lake National Park."
+            },
+            {
+              "chunk_id": "dee634e2-163a-48ed-ba8d-94a38d853528",
+              "chunk_title": "Dade County Overview",
+              "chunk_summary": "This chunk contains information about the location, classification, and administrative details of Dade County within Georgia, including its geographic position and county seat.",
+              "context_title": "Dade County, Georgia",
+              "page_content": "Dade County occupies the northwest corner of Georgia. Trenton is the only incorporated municipality in Dade County. The northwest corner of Dade County is the westernmost point in the state of Georgia. Trenton is the county seat of Dade County. Dade County is a county in the U.S. state of Georgia."
+            },
+            {
+              "chunk_id": "03108e36-c952-44d1-ab54-1d63979d7fcd",
+              "chunk_title": "Frederick Douglass Memorial",
+              "chunk_summary": "This chunk contains information about the location, purpose, and physical description of the Frederick Douglass Memorial in Central Park.",
+              "context_title": "Frederick Douglass Memorial",
+              "page_content": "The Frederick Douglass Memorial is a memorial commemorating Frederick Douglass. The Frederick Douglass Memorial includes an 8-foot bronze sculpture depicting Frederick Douglass. The Frederick Douglass Memorial includes a large circle and fountain. The Frederick Douglass Memorial is installed at the northwest corner of New York City's Central Park."
+            },
+            {
+              "chunk_id": "d5f7755b-2d52-43dc-a4e9-3aa4f5c1f1b5",
+              "chunk_title": "Franklin Street Church & Parsonage",
+              "chunk_summary": "This chunk contains information about the Franklin Street Presbyterian Church and Parsonage, including its historic status, location, architectural style, construction timeline, specific structural features, and nearby landmarks.",
+              "context_title": "Franklin Street Presbyterian Church and Parsonage",
+              "page_content": "The parsonage has heavy Tudor-Gothic window hoods. The original Enoch Pratt Free Library central building was a block south of Franklin Street Presbyterian Church. The two 60 foot flanking octagonal towers have stained glass Gothic-arched windows. Franklin Street Presbyterian Church was incorporated in 1844. The parsonage has battlements atop the roof. The church is a rectangular Tudor Gothic building. The Franklin Street building was used by the merged congregation for a time. The parsonage has walls of brick. Franklin Street Presbyterian Church and Parsonage is located at the northwest corner in Baltimore, Maryland, United States. The church had an addition in 1865. The church was dedicated in 1847. The two 60 foot flanking octagonal towers have louvered belfry openings. Franklin Street Presbyterian Church was incorporated by a group of men from the First Presbyterian Church. The two 60 foot flanking octagonal towers are crenelated. Franklin Street Presbyterian Church and Parsonage is located at 100 West Franklin Street at Cathedral Street. Franklin Street Church was across the street from the old Baltimore Cathedral. Franklin Street Church was located on \"Cathedral Hill\". The Washington Monument and its park squares are just two blocks from the new Franklin Street Church building. The front of the church features two 60 foot flanking octagonal towers. The parsonage was built in 1857. Franklin Street Presbyterian Church and Parsonage is a historic Presbyterian church."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the population of that city?",
+          "answer": "729",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Nelson city population",
+          "planner_rationale": "Q 的核心询问是目标城市的人口数量。在确定了城市身份（由 $1 提供）后，需要查询该城市的人口数据。这是 Q 的第二个语义缺口。",
+          "solver_judgment": "question 要求确认 'that city' 的人口数量。search_query 搜索了 'Nelson city population'。chunks 返回了 Nelson, New Hampshire 的相关信息，其中 chunk 2bec6362-b926-4d89-a0db-262c1aae23e7 明确记载 'The population of Nelson was 729 at the 2010 census'，直接提供了目标人口数据。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Nelson, New Hampshire），单来源但直接具体。支撑 chunk 2bec6362 全文记载 'The population of Nelson was 729 at the 2010 census'，与声称答案 '729' 逐字匹配。交叉验证：不充分（仅 1 个来源），但证据直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "2bec6362-b926-4d89-a0db-262c1aae23e7"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "2bec6362-b926-4d89-a0db-262c1aae23e7",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Nelson, New Hampshire",
+              "page_content": "The population of Nelson was 729 at the 2010 census."
+            },
+            {
+              "chunk_id": "73bfb606-048f-4b2e-b469-60a3dc67ac53",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of towns, including details about specific towns and their constituent villages.",
+              "context_title": "Nelson, New Hampshire",
+              "page_content": "Nelson includes the village of Munsonville. Nelson is a town in Cheshire County, New Hampshire, United States."
+            },
+            {
+              "chunk_id": "0aa9dc93-5675-4562-97ed-1a5e3d084048",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and administrative status of cities, towns, and counties.",
+              "context_title": "Bardstown, Kentucky",
+              "page_content": "Bardstown is the county seat of Nelson County. Nelson County is in the United States. Bardstown is in Nelson County, Kentucky."
+            },
+            {
+              "chunk_id": "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+              "chunk_title": "Geography & Administration",
+              "chunk_summary": "This chunk contains information about the geographical location and administrative hierarchy of places, specifically detailing Munsonville's position within Nelson, Cheshire County, and New Hampshire.",
+              "context_title": "Munsonville, New Hampshire",
+              "page_content": "Munsonville is located in the northwestern corner of Nelson. Munsonville is located around the outlet of Granite Lake. Munsonville is in the town of Nelson. Cheshire County is in New Hampshire. The town of Nelson is in Cheshire County."
+            },
+            {
+              "chunk_id": "30231dd3-eb0f-49ae-b79e-5344816b0404",
+              "chunk_title": "Population & Census Dates",
+              "chunk_summary": "This chunk contains information about the population of Henderson at specific census dates.",
+              "context_title": "Henderson, Texas",
+              "page_content": "The population of Henderson was 13,712 at the 2010 census."
+            },
+            {
+              "chunk_id": "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "The population of Henderson Point was 170 at the 2010 census."
+            },
+            {
+              "chunk_id": "8ebccdd7-295d-4ba3-a89a-bc93a4d3ca6e",
+              "chunk_title": "City Status Requirements",
+              "chunk_summary": "This chunk contains information about population requirements for city status in various regions.",
+              "context_title": "Parkridge, Saskatoon",
+              "page_content": "In Saskatchewan, rural towns must maintain a population above 5,000 to apply for city status."
+            },
+            {
+              "chunk_id": "9750c2b2-7095-453d-ade2-faa69f066b5d",
+              "chunk_title": "Population & Rankings",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts and rankings from census records for Ellicott City.",
+              "context_title": "Ellicott City, Maryland",
+              "page_content": "The population of Ellicott City was 65,834 at the 2010 census. As of the 2000 census, Ellicott City surpassed Towson for the first time as the largest unincorporated county seat in the country."
+            },
+            {
+              "chunk_id": "465d80f9-02fd-4513-9304-0c270093fed8",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts from census years for various cities.",
+              "context_title": "St. Albans (city), Vermont",
+              "page_content": "At the 2010 census, the population of St. Albans City was 6,918."
+            },
+            {
+              "chunk_id": "c7450fdc-5405-481b-870f-9dd5938a8bc3",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts from census years.",
+              "context_title": "Baldwin, Nassau County, New York",
+              "page_content": "The population of Baldwin was 24,033 at the 2010 census."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the population of the city that Munsonville is in the northwest corner of?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the population of the city that Munsonville is in the northwest corner of?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要聚合子节点推理链（N1_1 识别城市 → N1_2 查询人口）来回答",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 回答 'Nelson'（单来源直接陈述，chunk 607901ab 记载 'Munsonville is located in the northwestern corner of Nelson'），N1_2 回答 '729'（单来源直接陈述，chunk 2bec6362 记载 'The population of Nelson was 729 at the 2010 census'）。推理链 N1_1→N1_2 语义完整：Nelson 消解了 'that city'。",
+          "critic_normative_advice": "子节点推理链完整且一致，可支撑最终答案。当前 DAG 结构（N0→N1_1 decomposition，N1_1→N1_2 dependency）语义正确。建议 INHERIT——结构已修正，下轮若拓扑稳定即可终止。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What city is Munsonville in the northwest corner of?",
+          "answer": "Nelson",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What city is Munsonville in the northwest corner of?",
+          "planner_rationale": "Q 询问的是 'the city that Munsonville is in the northwest corner of' 的人口——必须先识别出这个城市是哪个。已 solved + healthy，证据直接匹配。",
+          "solver_judgment": "question 要求确认 Munsonville 位于哪个城市的西北角。search_query 搜索了 'What city is Munsonville in the northwest corner of?'。chunks 返回了 Munsonville 的地理信息，其中 chunk 607901ab-2d6f-4ab1-9270-99bdb0056b73 明确记载 'Munsonville is located in the northwestern corner of Nelson'，直接回答了问题。虽然 Nelson 在新罕布什尔州被归类为 'town' 而非 'city'，但它是问题所指的行政实体。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Munsonville, New Hampshire），单来源但直接具体。支撑 chunk 607901ab 全文记载 'Munsonville is located in the northwestern corner of Nelson'，与声称答案 'Nelson' 逐字匹配。交叉验证：不充分（仅 1 个来源），但证据直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "607901ab-2d6f-4ab1-9270-99bdb0056b73"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+              "chunk_title": "Geography & Administration",
+              "chunk_summary": "This chunk contains information about the geographical location and administrative hierarchy of places, specifically detailing Munsonville's position within Nelson, Cheshire County, and New Hampshire.",
+              "context_title": "Munsonville, New Hampshire",
+              "page_content": "Munsonville is located in the northwestern corner of Nelson. Munsonville is located around the outlet of Granite Lake. Munsonville is in the town of Nelson. Cheshire County is in New Hampshire. The town of Nelson is in Cheshire County."
+            },
+            {
+              "chunk_id": "73bfb606-048f-4b2e-b469-60a3dc67ac53",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of towns, including details about specific towns and their constituent villages.",
+              "context_title": "Nelson, New Hampshire",
+              "page_content": "Nelson includes the village of Munsonville. Nelson is a town in Cheshire County, New Hampshire, United States."
+            },
+            {
+              "chunk_id": "c8280122-76cc-4218-a511-fadbc9203974",
+              "chunk_title": "Unincorporated Communities",
+              "chunk_summary": "This chunk contains information about the classification and status of unincorporated communities.",
+              "context_title": "Munsonville, New Hampshire",
+              "page_content": "Munsonville is an unincorporated community."
+            },
+            {
+              "chunk_id": "d55b767e-95d8-4338-b28c-0e27ad6ef902",
+              "chunk_title": "Township Overview",
+              "chunk_summary": "This chunk contains information about specific townships, including their location within counties, population statistics, and unique geographical features.",
+              "context_title": "Buchanan Township, Atchison County, Missouri",
+              "page_content": "The northwest corner of Buchanan Township is the northwest corner of the entire state of Missouri. The population of Buchanan Township was 83 as of the 2010 census. Buchanan Township is one of eleven townships in Atchison County, Missouri, United States."
+            },
+            {
+              "chunk_id": "40857547-6bf4-4dda-9a8f-e4a88ac35058",
+              "chunk_title": "Church History & Locations",
+              "chunk_summary": "This chunk contains information about the historical locations, relocations, construction dates, and founding motivations of The First Presbyterian Church.",
+              "context_title": "Franklin Street Presbyterian Church and Parsonage",
+              "page_content": "The First Presbyterian Church relocated in 1854 to West Madison Street and Park Avenue. The group of men felt the need for a new church in the fast-growing northern section of the city. The First Presbyterian Church was then located at the northwest corner of East Fayette Street and North Street. The First Presbyterian Church was located in downtown Baltimore. The First and Franklin Street Presbyterian Church was centered at the First Church site on West Madison and Park. The previous third church building of the First Presbyterian Church was built between 1790 and 1795."
+            },
+            {
+              "chunk_id": "c9380f39-9686-4e64-afa8-b965aaed6141",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic location of edge cities.",
+              "context_title": "Cobb Energy Performing Arts Centre",
+              "page_content": "The Cumberland/Galleria edge city is just northwest of Atlanta, Georgia."
+            },
+            {
+              "chunk_id": "d63a9a2d-adf4-4738-9bee-4e4e5043f7f2",
+              "chunk_title": "Munson Valley Historic District",
+              "chunk_summary": "This chunk contains information about the selection, role, rustic architectural characteristics, and historic designation of Munson Valley Historic District as the headquarters and support area for Crater Lake National Park.",
+              "context_title": "Munson Valley Historic District",
+              "page_content": "Munson Valley Historic District has eighteen contributing buildings. The Crater Lake Superintendent's Residence is a contributing building in Munson Valley Historic District. The Munson Valley buildings have unique rustic architecture. The surrounding park landscape of Munson Valley has unique rustic characteristics. The Crater Lake Superintendent's Residence is a U.S. National Historic Landmark. The National Park Service chose Munson Valley for the park headquarters. Munson Valley Historic District was listed as a historic district on the National Register of Historic Places (NRHP). The area of Munson Valley Historic District's NRHP listing was decreased in 1997. The National Park Service chose Munson Valley for the park headquarters because of its central location within Crater Lake National Park. Munson Valley Historic District is the main support area for Crater Lake National Park. Munson Valley Historic District was listed on the National Register of Historic Places (NRHP) in 1988. The Crater Lake Superintendent's Residence is separately listed on the National Register of Historic Places (NRHP). Munson Valley Historic District is the headquarters for Crater Lake National Park."
+            },
+            {
+              "chunk_id": "dee634e2-163a-48ed-ba8d-94a38d853528",
+              "chunk_title": "Dade County Overview",
+              "chunk_summary": "This chunk contains information about the location, classification, and administrative details of Dade County within Georgia, including its geographic position and county seat.",
+              "context_title": "Dade County, Georgia",
+              "page_content": "Dade County occupies the northwest corner of Georgia. Trenton is the only incorporated municipality in Dade County. The northwest corner of Dade County is the westernmost point in the state of Georgia. Trenton is the county seat of Dade County. Dade County is a county in the U.S. state of Georgia."
+            },
+            {
+              "chunk_id": "03108e36-c952-44d1-ab54-1d63979d7fcd",
+              "chunk_title": "Frederick Douglass Memorial",
+              "chunk_summary": "This chunk contains information about the location, purpose, and physical description of the Frederick Douglass Memorial in Central Park.",
+              "context_title": "Frederick Douglass Memorial",
+              "page_content": "The Frederick Douglass Memorial is a memorial commemorating Frederick Douglass. The Frederick Douglass Memorial includes an 8-foot bronze sculpture depicting Frederick Douglass. The Frederick Douglass Memorial includes a large circle and fountain. The Frederick Douglass Memorial is installed at the northwest corner of New York City's Central Park."
+            },
+            {
+              "chunk_id": "d5f7755b-2d52-43dc-a4e9-3aa4f5c1f1b5",
+              "chunk_title": "Franklin Street Church & Parsonage",
+              "chunk_summary": "This chunk contains information about the Franklin Street Presbyterian Church and Parsonage, including its historic status, location, architectural style, construction timeline, specific structural features, and nearby landmarks.",
+              "context_title": "Franklin Street Presbyterian Church and Parsonage",
+              "page_content": "The parsonage has heavy Tudor-Gothic window hoods. The original Enoch Pratt Free Library central building was a block south of Franklin Street Presbyterian Church. The two 60 foot flanking octagonal towers have stained glass Gothic-arched windows. Franklin Street Presbyterian Church was incorporated in 1844. The parsonage has battlements atop the roof. The church is a rectangular Tudor Gothic building. The Franklin Street building was used by the merged congregation for a time. The parsonage has walls of brick. Franklin Street Presbyterian Church and Parsonage is located at the northwest corner in Baltimore, Maryland, United States. The church had an addition in 1865. The church was dedicated in 1847. The two 60 foot flanking octagonal towers have louvered belfry openings. Franklin Street Presbyterian Church was incorporated by a group of men from the First Presbyterian Church. The two 60 foot flanking octagonal towers are crenelated. Franklin Street Presbyterian Church and Parsonage is located at 100 West Franklin Street at Cathedral Street. Franklin Street Church was across the street from the old Baltimore Cathedral. Franklin Street Church was located on \"Cathedral Hill\". The Washington Monument and its park squares are just two blocks from the new Franklin Street Church building. The front of the church features two 60 foot flanking octagonal towers. The parsonage was built in 1857. Franklin Street Presbyterian Church and Parsonage is a historic Presbyterian church."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the population of that city?",
+          "answer": "729",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Nelson city population",
+          "planner_rationale": "Q 的核心询问是目标城市的人口数量。在 N1_1 确定城市为 Nelson 后，已 solved + healthy，证据直接匹配。",
+          "solver_judgment": "question 要求确认 'that city' 的人口数量。search_query 搜索了 'Nelson city population'。chunks 返回了 Nelson, New Hampshire 的相关信息，其中 chunk 2bec6362-b926-4d89-a0db-262c1aae23e7 明确记载 'The population of Nelson was 729 at the 2010 census'，直接提供了目标人口数据。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Nelson, New Hampshire），单来源但直接具体。支撑 chunk 2bec6362 全文记载 'The population of Nelson was 729 at the 2010 census'，与声称答案 '729' 逐字匹配。交叉验证：不充分（仅 1 个来源），但证据直接。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "2bec6362-b926-4d89-a0db-262c1aae23e7"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "2bec6362-b926-4d89-a0db-262c1aae23e7",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Nelson, New Hampshire",
+              "page_content": "The population of Nelson was 729 at the 2010 census."
+            },
+            {
+              "chunk_id": "73bfb606-048f-4b2e-b469-60a3dc67ac53",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of towns, including details about specific towns and their constituent villages.",
+              "context_title": "Nelson, New Hampshire",
+              "page_content": "Nelson includes the village of Munsonville. Nelson is a town in Cheshire County, New Hampshire, United States."
+            },
+            {
+              "chunk_id": "0aa9dc93-5675-4562-97ed-1a5e3d084048",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and administrative status of cities, towns, and counties.",
+              "context_title": "Bardstown, Kentucky",
+              "page_content": "Bardstown is the county seat of Nelson County. Nelson County is in the United States. Bardstown is in Nelson County, Kentucky."
+            },
+            {
+              "chunk_id": "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+              "chunk_title": "Geography & Administration",
+              "chunk_summary": "This chunk contains information about the geographical location and administrative hierarchy of places, specifically detailing Munsonville's position within Nelson, Cheshire County, and New Hampshire.",
+              "context_title": "Munsonville, New Hampshire",
+              "page_content": "Munsonville is located in the northwestern corner of Nelson. Munsonville is located around the outlet of Granite Lake. Munsonville is in the town of Nelson. Cheshire County is in New Hampshire. The town of Nelson is in Cheshire County."
+            },
+            {
+              "chunk_id": "30231dd3-eb0f-49ae-b79e-5344816b0404",
+              "chunk_title": "Population & Census Dates",
+              "chunk_summary": "This chunk contains information about the population of Henderson at specific census dates.",
+              "context_title": "Henderson, Texas",
+              "page_content": "The population of Henderson was 13,712 at the 2010 census."
+            },
+            {
+              "chunk_id": "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "The population of Henderson Point was 170 at the 2010 census."
+            },
+            {
+              "chunk_id": "8ebccdd7-295d-4ba3-a89a-bc93a4d3ca6e",
+              "chunk_title": "City Status Requirements",
+              "chunk_summary": "This chunk contains information about population requirements for city status in various regions.",
+              "context_title": "Parkridge, Saskatoon",
+              "page_content": "In Saskatchewan, rural towns must maintain a population above 5,000 to apply for city status."
+            },
+            {
+              "chunk_id": "9750c2b2-7095-453d-ade2-faa69f066b5d",
+              "chunk_title": "Population & Rankings",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts and rankings from census records for Ellicott City.",
+              "context_title": "Ellicott City, Maryland",
+              "page_content": "The population of Ellicott City was 65,834 at the 2010 census. As of the 2000 census, Ellicott City surpassed Towson for the first time as the largest unincorporated county seat in the country."
+            },
+            {
+              "chunk_id": "465d80f9-02fd-4513-9304-0c270093fed8",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts from census years for various cities.",
+              "context_title": "St. Albans (city), Vermont",
+              "page_content": "At the 2010 census, the population of St. Albans City was 6,918."
+            },
+            {
+              "chunk_id": "c7450fdc-5405-481b-870f-9dd5938a8bc3",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts from census years.",
+              "context_title": "Baldwin, Nassau County, New York",
+              "page_content": "The population of Baldwin was 24,033 at the 2010 census."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the population of the city that Munsonville is in the northwest corner of?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the population of the city that Munsonville is in the northwest corner of?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要聚合子节点推理链（N1_1 识别城市 → N1_2 查询人口）来回答",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，由子节点推理链聚合。子节点 N1_1 回答 'Nelson'（单来源直接陈述，chunk 607901ab 记载 'Munsonville is located in the northwestern corner of Nelson'），N1_2 回答 '729'（单来源直接陈述，chunk 2bec6362 记载 'The population of Nelson was 729 at the 2010 census'）。推理链 N1_1→N1_2 语义完整：Nelson 消解了 'that city'。",
+          "critic_normative_advice": "子节点推理链完整且一致，可支撑最终答案。当前 DAG 结构（N0→N1_1 decomposition，N1_1→N1_2 dependency）语义正确。建议 INHERIT——结构已修正，下轮若拓扑稳定即可终止。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "What city is Munsonville in the northwest corner of?",
+          "answer": "Nelson",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What city is Munsonville in the northwest corner of?",
+          "planner_rationale": "Q 询问的是 'the city that Munsonville is in the northwest corner of' 的人口——必须先识别出这个城市是哪个。已 solved + healthy，证据直接匹配（chunk 607901ab 明确记载 'Munsonville is located in the northwestern corner of Nelson'）。",
+          "solver_judgment": "question 要求确认 Munsonville 位于哪个城市的西北角。search_query 搜索了 'What city is Munsonville in the northwest corner of?'。chunks 返回了 Munsonville 的地理信息，其中 chunk 607901ab-2d6f-4ab1-9270-99bdb0056b73 明确记载 'Munsonville is located in the northwestern corner of Nelson'，直接回答了问题。虽然 Nelson 在新罕布什尔州被归类为 'town' 而非 'city'，但它是问题所指的行政实体。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Munsonville, New Hampshire）。支撑 chunk 607901ab 全文记载 'Munsonville is located in the northwestern corner of Nelson'，与声称答案 'Nelson' 逐字匹配。交叉验证：不充分（仅 1 个来源），但证据直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "607901ab-2d6f-4ab1-9270-99bdb0056b73"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+              "chunk_title": "Geography & Administration",
+              "chunk_summary": "This chunk contains information about the geographical location and administrative hierarchy of places, specifically detailing Munsonville's position within Nelson, Cheshire County, and New Hampshire.",
+              "context_title": "Munsonville, New Hampshire",
+              "page_content": "Munsonville is located in the northwestern corner of Nelson. Munsonville is located around the outlet of Granite Lake. Munsonville is in the town of Nelson. Cheshire County is in New Hampshire. The town of Nelson is in Cheshire County."
+            },
+            {
+              "chunk_id": "73bfb606-048f-4b2e-b469-60a3dc67ac53",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of towns, including details about specific towns and their constituent villages.",
+              "context_title": "Nelson, New Hampshire",
+              "page_content": "Nelson includes the village of Munsonville. Nelson is a town in Cheshire County, New Hampshire, United States."
+            },
+            {
+              "chunk_id": "c8280122-76cc-4218-a511-fadbc9203974",
+              "chunk_title": "Unincorporated Communities",
+              "chunk_summary": "This chunk contains information about the classification and status of unincorporated communities.",
+              "context_title": "Munsonville, New Hampshire",
+              "page_content": "Munsonville is an unincorporated community."
+            },
+            {
+              "chunk_id": "d55b767e-95d8-4338-b28c-0e27ad6ef902",
+              "chunk_title": "Township Overview",
+              "chunk_summary": "This chunk contains information about specific townships, including their location within counties, population statistics, and unique geographical features.",
+              "context_title": "Buchanan Township, Atchison County, Missouri",
+              "page_content": "The northwest corner of Buchanan Township is the northwest corner of the entire state of Missouri. The population of Buchanan Township was 83 as of the 2010 census. Buchanan Township is one of eleven townships in Atchison County, Missouri, United States."
+            },
+            {
+              "chunk_id": "40857547-6bf4-4dda-9a8f-e4a88ac35058",
+              "chunk_title": "Church History & Locations",
+              "chunk_summary": "This chunk contains information about the historical locations, relocations, construction dates, and founding motivations of The First Presbyterian Church.",
+              "context_title": "Franklin Street Presbyterian Church and Parsonage",
+              "page_content": "The First Presbyterian Church relocated in 1854 to West Madison Street and Park Avenue. The group of men felt the need for a new church in the fast-growing northern section of the city. The First Presbyterian Church was then located at the northwest corner of East Fayette Street and North Street. The First Presbyterian Church was located in downtown Baltimore. The First and Franklin Street Presbyterian Church was centered at the First Church site on West Madison and Park. The previous third church building of the First Presbyterian Church was built between 1790 and 1795."
+            },
+            {
+              "chunk_id": "c9380f39-9686-4e64-afa8-b965aaed6141",
+              "chunk_title": "Geographic Locations",
+              "chunk_summary": "This chunk contains information about the geographic location of edge cities.",
+              "context_title": "Cobb Energy Performing Arts Centre",
+              "page_content": "The Cumberland/Galleria edge city is just northwest of Atlanta, Georgia."
+            },
+            {
+              "chunk_id": "d63a9a2d-adf4-4738-9bee-4e4e5043f7f2",
+              "chunk_title": "Munson Valley Historic District",
+              "chunk_summary": "This chunk contains information about the selection, role, rustic architectural characteristics, and historic designation of Munson Valley Historic District as the headquarters and support area for Crater Lake National Park.",
+              "context_title": "Munson Valley Historic District",
+              "page_content": "Munson Valley Historic District has eighteen contributing buildings. The Crater Lake Superintendent's Residence is a contributing building in Munson Valley Historic District. The Munson Valley buildings have unique rustic architecture. The surrounding park landscape of Munson Valley has unique rustic characteristics. The Crater Lake Superintendent's Residence is a U.S. National Historic Landmark. The National Park Service chose Munson Valley for the park headquarters. Munson Valley Historic District was listed as a historic district on the National Register of Historic Places (NRHP). The area of Munson Valley Historic District's NRHP listing was decreased in 1997. The National Park Service chose Munson Valley for the park headquarters because of its central location within Crater Lake National Park. Munson Valley Historic District is the main support area for Crater Lake National Park. Munson Valley Historic District was listed on the National Register of Historic Places (NRHP) in 1988. The Crater Lake Superintendent's Residence is separately listed on the National Register of Historic Places (NRHP). Munson Valley Historic District is the headquarters for Crater Lake National Park."
+            },
+            {
+              "chunk_id": "dee634e2-163a-48ed-ba8d-94a38d853528",
+              "chunk_title": "Dade County Overview",
+              "chunk_summary": "This chunk contains information about the location, classification, and administrative details of Dade County within Georgia, including its geographic position and county seat.",
+              "context_title": "Dade County, Georgia",
+              "page_content": "Dade County occupies the northwest corner of Georgia. Trenton is the only incorporated municipality in Dade County. The northwest corner of Dade County is the westernmost point in the state of Georgia. Trenton is the county seat of Dade County. Dade County is a county in the U.S. state of Georgia."
+            },
+            {
+              "chunk_id": "03108e36-c952-44d1-ab54-1d63979d7fcd",
+              "chunk_title": "Frederick Douglass Memorial",
+              "chunk_summary": "This chunk contains information about the location, purpose, and physical description of the Frederick Douglass Memorial in Central Park.",
+              "context_title": "Frederick Douglass Memorial",
+              "page_content": "The Frederick Douglass Memorial is a memorial commemorating Frederick Douglass. The Frederick Douglass Memorial includes an 8-foot bronze sculpture depicting Frederick Douglass. The Frederick Douglass Memorial includes a large circle and fountain. The Frederick Douglass Memorial is installed at the northwest corner of New York City's Central Park."
+            },
+            {
+              "chunk_id": "d5f7755b-2d52-43dc-a4e9-3aa4f5c1f1b5",
+              "chunk_title": "Franklin Street Church & Parsonage",
+              "chunk_summary": "This chunk contains information about the Franklin Street Presbyterian Church and Parsonage, including its historic status, location, architectural style, construction timeline, specific structural features, and nearby landmarks.",
+              "context_title": "Franklin Street Presbyterian Church and Parsonage",
+              "page_content": "The parsonage has heavy Tudor-Gothic window hoods. The original Enoch Pratt Free Library central building was a block south of Franklin Street Presbyterian Church. The two 60 foot flanking octagonal towers have stained glass Gothic-arched windows. Franklin Street Presbyterian Church was incorporated in 1844. The parsonage has battlements atop the roof. The church is a rectangular Tudor Gothic building. The Franklin Street building was used by the merged congregation for a time. The parsonage has walls of brick. Franklin Street Presbyterian Church and Parsonage is located at the northwest corner in Baltimore, Maryland, United States. The church had an addition in 1865. The church was dedicated in 1847. The two 60 foot flanking octagonal towers have louvered belfry openings. Franklin Street Presbyterian Church was incorporated by a group of men from the First Presbyterian Church. The two 60 foot flanking octagonal towers are crenelated. Franklin Street Presbyterian Church and Parsonage is located at 100 West Franklin Street at Cathedral Street. Franklin Street Church was across the street from the old Baltimore Cathedral. Franklin Street Church was located on \"Cathedral Hill\". The Washington Monument and its park squares are just two blocks from the new Franklin Street Church building. The front of the church features two 60 foot flanking octagonal towers. The parsonage was built in 1857. Franklin Street Presbyterian Church and Parsonage is a historic Presbyterian church."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the population of that city?",
+          "answer": "729",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Nelson city population",
+          "planner_rationale": "Q 的核心询问是目标城市的人口数量。在 N1_1 确定城市为 Nelson 后，已 solved + healthy，证据直接匹配（chunk 2bec6362 记载 'The population of Nelson was 729 at the 2010 census'）。",
+          "solver_judgment": "question 要求确认 'that city' 的人口数量。search_query 搜索了 'Nelson city population'。chunks 返回了 Nelson, New Hampshire 的相关信息，其中 chunk 2bec6362-b926-4d89-a0db-262c1aae23e7 明确记载 'The population of Nelson was 729 at the 2010 census'，直接提供了目标人口数据。检索精准，信息完整。",
+          "critic_factual_notes": "1 个来源（Nelson, New Hampshire）。支撑 chunk 2bec6362 全文记载 'The population of Nelson was 729 at the 2010 census'，与声称答案 '729' 逐字匹配。交叉验证：不充分（仅 1 个来源），但证据直接具体。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "2bec6362-b926-4d89-a0db-262c1aae23e7"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "2bec6362-b926-4d89-a0db-262c1aae23e7",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Nelson, New Hampshire",
+              "page_content": "The population of Nelson was 729 at the 2010 census."
+            },
+            {
+              "chunk_id": "73bfb606-048f-4b2e-b469-60a3dc67ac53",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of towns, including details about specific towns and their constituent villages.",
+              "context_title": "Nelson, New Hampshire",
+              "page_content": "Nelson includes the village of Munsonville. Nelson is a town in Cheshire County, New Hampshire, United States."
+            },
+            {
+              "chunk_id": "0aa9dc93-5675-4562-97ed-1a5e3d084048",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical location and administrative status of cities, towns, and counties.",
+              "context_title": "Bardstown, Kentucky",
+              "page_content": "Bardstown is the county seat of Nelson County. Nelson County is in the United States. Bardstown is in Nelson County, Kentucky."
+            },
+            {
+              "chunk_id": "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+              "chunk_title": "Geography & Administration",
+              "chunk_summary": "This chunk contains information about the geographical location and administrative hierarchy of places, specifically detailing Munsonville's position within Nelson, Cheshire County, and New Hampshire.",
+              "context_title": "Munsonville, New Hampshire",
+              "page_content": "Munsonville is located in the northwestern corner of Nelson. Munsonville is located around the outlet of Granite Lake. Munsonville is in the town of Nelson. Cheshire County is in New Hampshire. The town of Nelson is in Cheshire County."
+            },
+            {
+              "chunk_id": "30231dd3-eb0f-49ae-b79e-5344816b0404",
+              "chunk_title": "Population & Census Dates",
+              "chunk_summary": "This chunk contains information about the population of Henderson at specific census dates.",
+              "context_title": "Henderson, Texas",
+              "page_content": "The population of Henderson was 13,712 at the 2010 census."
+            },
+            {
+              "chunk_id": "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+              "chunk_title": "Population Counts",
+              "chunk_summary": "This chunk contains information about the population counts of specific locations during census years.",
+              "context_title": "Henderson Point, Mississippi",
+              "page_content": "The population of Henderson Point was 170 at the 2010 census."
+            },
+            {
+              "chunk_id": "8ebccdd7-295d-4ba3-a89a-bc93a4d3ca6e",
+              "chunk_title": "City Status Requirements",
+              "chunk_summary": "This chunk contains information about population requirements for city status in various regions.",
+              "context_title": "Parkridge, Saskatoon",
+              "page_content": "In Saskatchewan, rural towns must maintain a population above 5,000 to apply for city status."
+            },
+            {
+              "chunk_id": "9750c2b2-7095-453d-ade2-faa69f066b5d",
+              "chunk_title": "Population & Rankings",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts and rankings from census records for Ellicott City.",
+              "context_title": "Ellicott City, Maryland",
+              "page_content": "The population of Ellicott City was 65,834 at the 2010 census. As of the 2000 census, Ellicott City surpassed Towson for the first time as the largest unincorporated county seat in the country."
+            },
+            {
+              "chunk_id": "465d80f9-02fd-4513-9304-0c270093fed8",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts from census years for various cities.",
+              "context_title": "St. Albans (city), Vermont",
+              "page_content": "At the 2010 census, the population of St. Albans City was 6,918."
+            },
+            {
+              "chunk_id": "c7450fdc-5405-481b-870f-9dd5938a8bc3",
+              "chunk_title": "Demographic Data",
+              "chunk_summary": "This chunk contains demographic data, specifically population counts from census years.",
+              "context_title": "Baldwin, Nassau County, New York",
+              "page_content": "The population of Baldwin was 24,033 at the 2010 census."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "What city is Munsonville in the northwest corner of?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+        "73bfb606-048f-4b2e-b469-60a3dc67ac53",
+        "c8280122-76cc-4218-a511-fadbc9203974",
+        "d55b767e-95d8-4338-b28c-0e27ad6ef902",
+        "40857547-6bf4-4dda-9a8f-e4a88ac35058",
+        "c9380f39-9686-4e64-afa8-b965aaed6141",
+        "d63a9a2d-adf4-4738-9bee-4e4e5043f7f2",
+        "dee634e2-163a-48ed-ba8d-94a38d853528",
+        "03108e36-c952-44d1-ab54-1d63979d7fcd",
+        "d5f7755b-2d52-43dc-a4e9-3aa4f5c1f1b5"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "Nelson city population",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "2bec6362-b926-4d89-a0db-262c1aae23e7",
+        "73bfb606-048f-4b2e-b469-60a3dc67ac53",
+        "0aa9dc93-5675-4562-97ed-1a5e3d084048",
+        "607901ab-2d6f-4ab1-9270-99bdb0056b73",
+        "30231dd3-eb0f-49ae-b79e-5344816b0404",
+        "3c9f52c5-e8c5-45af-8709-1a8c86bbe3de",
+        "8ebccdd7-295d-4ba3-a89a-bc93a4d3ca6e",
+        "9750c2b2-7095-453d-ade2-faa69f066b5d",
+        "465d80f9-02fd-4513-9304-0c270093fed8",
+        "c7450fdc-5405-481b-870f-9dd5938a8bc3"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: What city is Munsonville is in the northwest corner of?（理由：Q 中 \"the city that Munsonville is in the northwest corner of\" 是一个未解析的指代——必须先确定这个城市的名称，才能继续查询），F2: What is the population of that city?（理由：Q 的最终目标是获取该城市的人口数据）。关系: F1 是 Q 的分解产物（decomposition——识别城市是回答 Q 的第一步），F2 是 Q 的分解产物（decomposition——人口数据是 Q 的直接答案），F1 是 F2 的前置条件（dependency——F2 的 question 中 \"that city\" 必须用 F1 的 answer 消解后才能搜索）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），N1（question=\"What city is Munsonville in the northwest corner of?\"，rationale=\"识别 Q 中未解析的城市指代\"），N2（question=\"What is the population of that city?\"，rationale=\"获取目标城市的人口数据\"）。新增边: N0→N1（decomposition，N1 是 Q 的第一步分解），N0→N2（decomposition，N2 是 Q 的第二步分解），N1→N2（dependency，N2 的 \"that city\" 依赖 N1 的 answer 消解）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": false,
+        "condition_3_passed": true,
+        "reason": "条件②未通过：路径 1.2 (N0→N1_2) 的依赖链语义断裂。N0 answer 为空，无法消解 N1_2 question 中的 'that city' 指代。该路径在语义上不成立。条件③通过：所有节点（N0/N1_1/N1_2）均为 healthy。条件①满足：所有非根节点已 SOLVED。条件④不适用（首轮）。阻碍终止的唯一原因是 DAG 结构中存在无效的 N0→N1_2 边，建议 Pl"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立两个事实：F1: What city is Munsonville in the northwest corner of?（理由：Q 中 'the city that Munsonville is in the northwest corner of' 是未解析的指代，必须先确定城市身份），F2: What is the population of that city?（理由：Q 的最终目标是获取该城市的人口数据）。关系：F1 是 Q 的分解产物（decomposition——识别城市是回答 Q 的第一步），F2 依赖 F1（dependency——F2 的 question 中 'that city' 必须用 F1 的 answer 'Nelson' 消解后才能搜索）。DAG 应为纯链式结构 N0→N1_1→N1_2，N1_2 不应作为 N0 的直接分解产物。",
+      "hypothesis_delta": "删除边: N0→N1_2（decomposition），原因：Critic 指出该边语义不成立——N1_2 的 question 包含 'that city' 指代，需要 N1_1 的 answer 消解，而 N0 的 answer 为空，无法消解该指代。N1_2 应仅作为 N1_1 的依赖节点，而非 N0 的直接分解产物。保留: N0、N1_1、N1_2 全部 INHERIT，原因：三个节点均已正确确立（N1_1 和 N1_2 为 solved + healthy，证据直接匹配），无需调整。保留边: N0→N1_1（decomposition）和 N1_1→N1_2（dependency），原因：这两条边构成正确的链式推理路径。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "条件④未通过：本轮拓扑与上一轮相比有变化（删除边 N0→N1_2）。尽管该修正是正确的结构优化，但终止条件要求拓扑稳定（无变化）。条件①②③均已满足：所有非根节点 SOLVED，推理链 N0→N1_1→N1_2 语义完整（Nelson 消解 'that city'），所有节点 healthy。下轮若拓扑不再变化，即可终止。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立两个事实：F1: What city is Munsonville in the northwest corner of?（理由：Q 中 'the city that Munsonville is in the northwest corner of' 是未解析的指代，必须先确定城市身份），F2: What is the population of that city?（理由：Q 的最终目标是获取该城市的人口数据）。关系：F1 是 Q 的分解产物（decomposition——识别城市是回答 Q 的第一步），F2 依赖 F1（dependency——F2 的 question 中 'that city' 必须用 F1 的 answer 'Nelson' 消解后才能搜索）。DAG 应为纯链式结构 N0→N1_1→N1_2。",
+      "hypothesis_delta": "本轮无结构变更——全部 INHERIT 节点并显式 LINK 保留边。原因：Critic 确认当前 DAG 结构已正确（N1_1 和 N1_2 均为 solved + healthy，证据直接匹配，推理链 N1_1→N1_2 语义完整），Q 的语义覆盖完整无缺口无冗余，收敛趋势正向。与上一轮假设完全一致，认知已收敛到正确的链式结构。显式 LINK 是为了满足系统对边处理的要求，确认保留 N0→N1_1（decomposition）和 N1_1→N1_2（dependency）。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点（N1_1, N1_2）均已 SOLVED；②推理链语义完整——N1_1 answer 'Nelson' 消解 N1_2 question 中的 'that city'，N0→N1_1 decomposition 语义正确；③全部节点（N0, N1_1, N1_2）critic_health 均为 healthy；④本轮拓扑与上一轮一致（无节点增删、无边变化、无 que"
+      }
+    }
+  ]
+}

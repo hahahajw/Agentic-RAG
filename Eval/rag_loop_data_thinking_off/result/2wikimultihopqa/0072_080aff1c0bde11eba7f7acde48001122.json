@@ -1,0 +1,693 @@
+{
+  "question_index": 72,
+  "question_id": "080aff1c0bde11eba7f7acde48001122",
+  "question": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+  "answer": "Westminster",
+  "prediction": "CANNOT_ANSWER",
+  "error": null,
+  "latency_ms": 225191.63309998112,
+  "dataset_type": "2wikimultihopqa",
+  "timestamp": "2026-05-14T16:52:21.148443+00:00",
+  "chunks": [
+    {
+      "chunk_id": "61ebf542-39d1-4eb6-a5bc-ef73b488f61e",
+      "chunk_title": "Historical Titles & Roles",
+      "chunk_summary": "This chunk contains information about the titles and roles held by historical figures.",
+      "context_title": "William FitzEmpress",
+      "page_content": "Geoffrey Plantagenet was the Count of Anjou."
+    },
+    {
+      "chunk_id": "639d663a-5c1a-4310-9f49-41dd78c0d3c2",
+      "chunk_title": "Historical Titles & Roles",
+      "chunk_summary": "This chunk contains information about the titles and roles held by historical figures.",
+      "context_title": "Emma of Anjou",
+      "page_content": "Dafydd ab Owain Gwynedd was a Welsh prince. Geoffrey Plantagenet was the Count of Anjou."
+    },
+    {
+      "chunk_id": "33c98fb4-f188-4dc9-a51b-cf04c1a2ff94",
+      "chunk_title": "Lineage & Family",
+      "chunk_summary": "This chunk contains information about the lineage and family relationships of historical figures, specifically focusing on the Counts of Maine, Anjou, and their relatives.",
+      "context_title": "Jean de la Flèche",
+      "page_content": "Geoffrey Plantagenet, Count of Anjou was the father of Henry II of England. Elias I, Count of Maine married Mathilde de Château-du-Loir. Paula of Maine was the daughter of Herbert I, Count of Maine."
+    },
+    {
+      "chunk_id": "ae38d600-0d93-46f4-bd8c-cccb70c7ee73",
+      "chunk_title": "Jean de la Flèche Lineage",
+      "chunk_summary": "This chunk contains information about the lineage and identity of historical French nobility, specifically focusing on Jean de la Flèche, his parents, and his descendants.",
+      "context_title": "Jean de la Flèche",
+      "page_content": "Jean de la Flèche and Paula of Maine were the parents of Elias I, Count of Maine. Jean de la Flèche and Paula of Maine were the great-grandparents of Geoffrey Plantagenet, Count of Anjou. Jean de la Flèche was the youngest son of Adelberg de Maine. Jean de la Flèche was the youngest son of Lancelin I de Beaugency. Jean de la Flèche was an 11th-century French nobleman."
+    },
+    {
+      "chunk_id": "0485192c-b6bc-4ec2-bb9e-325ddcba5415",
+      "chunk_title": "Emma of Anjou's Biography",
+      "chunk_summary": "This chunk contains biographical details about Emma of Anjou, including her lineage, marriage, children, royal interactions, and potential confusion with other figures; add similar historical facts about related figures or events.",
+      "context_title": "Emma of Anjou",
+      "page_content": "Emma of Anjou made representations to Henry II of England's heirs to protect her children's interests. Emma of Anjou was the half-sister of King Henry II of England. Emma de Laval was the daughter of Guy V de Laval. Emma of Anjou is occasionally confused with her mother, Emma de Dunstanville. Emma of Anjou married Dafydd ab Owain Gwynedd in the summer of 1174. Emma of Anjou received a gift of manors in Shropshire and Worcestershire from King Henry II of England. Emma of Anjou was married to Dafydd ab Owain Gwynedd. Emma of Anjou is occasionally confused with Emma de Laval. After King Henry II of England's death, Emma of Anjou continued to attempt to protect her children's interests. Emma of Anjou had four children by Dafydd ab Owain Gwynedd. Emma of Anjou was an illegitimate daughter of Geoffrey Plantagenet. Emma of Anjou died circa 1214. In 1196, Emma of Anjou gave property to Haughmond Abbey. Emma of Anjou visited King Henry II of England in 1176."
+    },
+    {
+      "chunk_id": "c335e957-2c6b-4c9d-b641-8ad6a1ff683a",
+      "chunk_title": "Lords of Sablé & Conflicts",
+      "chunk_summary": "This chunk contains information about the Lords of Sablé, their titles, and their military conflicts with the Counts of Anjou.",
+      "context_title": "Robert II of Sablé",
+      "page_content": "Robert II de Sablé was defeated in battle in 1145. Lisiard of Sable was the Lord of Sablé. Robert II de Sablé remained a loyal subject of the Counts of Anjou after 1145. Lisiard of Sable fought against Geoffrey Plantagenet, Count of Anjou. Robert II de Sablé fought against Geoffrey Plantagenet, Count of Anjou. The conflict between Robert II de Sablé, Lisiard of Sable and the Counts of Anjou lasted until 1145. Lisiard of Sable fought against Fulk V, Count of Anjou. Robert II de Sablé fought against Fulk V, Count of Anjou."
+    },
+    {
+      "chunk_id": "bfe7332c-5416-4c9f-a6c1-d8044d4972df",
+      "chunk_title": "Historical Figures & Reigns",
+      "chunk_summary": "This chunk contains information about historical figures and their titles or reigns.",
+      "context_title": "Geoffrey I, Count of Anjou",
+      "page_content": "Geoffrey I of Anjou was count of Anjou from 960 to 987."
+    },
+    {
+      "chunk_id": "40d8c4d6-eeb0-4285-8054-951a5c312edc",
+      "chunk_title": "Geoffrey V's Titles and Territories",
+      "chunk_summary": "This chunk contains information about the titles and territories held by Geoffrey V, including those acquired by inheritance and conquest.",
+      "context_title": "Geoffrey Plantagenet, Count of Anjou",
+      "page_content": "Geoffrey V was the Count of Touraine by inheritance from 1129. Geoffrey V was the Count of Anjou by inheritance from 1129. Geoffrey V had an ancestral domain of Anjou. Geoffrey V was the Count of Maine by inheritance from 1129. Geoffrey V was the Duke of Normandy by conquest from 1144."
+    },
+    {
+      "chunk_id": "84138374-3d18-4651-ac9e-b7e958fb9034",
+      "chunk_title": "Historical Figures' Lifespans and Titles",
+      "chunk_summary": "This chunk contains information about the lifespans and titles of historical figures.",
+      "context_title": "Geoffrey III, Count of Anjou",
+      "page_content": "Geoffrey III of Anjou lived from 1040 to 1096. Geoffrey III of Anjou was Count of Anjou from 1060 to 1068."
+    },
+    {
+      "chunk_id": "80089f56-56f3-4821-b932-976f29650002",
+      "chunk_title": "Historical Titles & Nicknames",
+      "chunk_summary": "This chunk contains information about the nicknames and titles of historical figures, including their meanings.",
+      "context_title": "Geoffrey I, Count of Anjou",
+      "page_content": "\"Grisegonelle\" means \"Grey Gown\". Geoffrey I of Anjou was also known as \"Greymantle\". Geoffrey I of Anjou was known as \"Grisegonelle\"."
+    },
+    {
+      "chunk_id": "303af8fa-8a59-403e-9080-15dabe135b9b",
+      "chunk_title": "Historical Marriages",
+      "chunk_summary": "This chunk contains information about historical marriages and royal unions.",
+      "context_title": "Geoffrey Plantagenet, Count of Anjou",
+      "page_content": "Geoffrey V married the Empress Matilda."
+    },
+    {
+      "chunk_id": "deae43b4-d430-4195-ab1a-197fb5d0bd8d",
+      "chunk_title": "Empress Matilda's Movements & Campaigns",
+      "chunk_summary": "This chunk details the geographical movements, military campaigns, and strategic alliances of Empress Matilda throughout her life; future additions should focus on her travels, political maneuvers, or significant historical milestones.",
+      "context_title": "Empress Matilda",
+      "page_content": "Empress Matilda moved to Germany when she married the future Holy Roman Emperor Henry V. Empress Matilda was supported by her half-brother Robert of Gloucester when she crossed to England in 1139. Empress Matilda was forced to escape across the frozen River Isis at night to avoid capture. Empress Matilda crossed to England in 1139 to take the kingdom by force. Empress Matilda settled her court near Rouen. Empress Matilda moved to Germany as a child. Empress Matilda returned to Normandy in 1148. Empress Matilda was recalled to Normandy by her father King Henry I upon Emperor Henry V's death. Empress Matilda left her eldest son to continue the campaign in England in 1148. Empress Matilda concerned herself with the administration of Normandy for the rest of her life. Geoffrey of Anjou focused on conquering Normandy while Empress Matilda crossed to England. Empress Matilda travelled with her husband Henry V into Italy in 1116. Normandy was in the hands of Geoffrey of Anjou in 1148. Empress Matilda was supported by her uncle King David I of Scotland when she crossed to England in 1139."
+    },
+    {
+      "chunk_id": "eb34b06e-b139-45b6-a57e-d22cf4a8e0df",
+      "chunk_title": "Lineage & Family",
+      "chunk_summary": "This chunk contains information about the lineage and family relationships of historical figures, specifically focusing on Empress Matilda's parentage, siblings, cousins, lack of offspring, and her son's succession to the throne.",
+      "context_title": "Empress Matilda",
+      "page_content": "William Adelin was Empress Matilda's younger brother. Empress Matilda acted on her son Henry II's behalf when necessary. Empress Matilda's eldest son eventually succeeded to the throne as Henry II in 1154. King Henry I had no further legitimate children. Empress Matilda and Henry V had no children. Empress Matilda was the daughter of King Henry I of England. Stephen of Blois was Empress Matilda's cousin."
+    },
+    {
+      "chunk_id": "699cfa40-f73b-43dd-887e-46a135cd9322",
+      "chunk_title": "Royal Lineage & Succession",
+      "chunk_summary": "This chunk contains information about the lineage and family relationships of English royalty, specifically tracing the succession from Henry I through Empress Matilda and Geoffrey V to their descendants Henry II, Richard, and John.",
+      "context_title": "Geoffrey Plantagenet, Count of Anjou",
+      "page_content": "Richard was a son of Henry II. Geoffrey V and the Empress Matilda produced a son named Henry Curtmantle. The Empress Matilda was the daughter of Henry I of England. The Empress Matilda was the heiress of Henry I of England. John was a son of Henry II. Henry II was the son and heir of Geoffrey V."
+    },
+    {
+      "chunk_id": "d7726e62-3846-4bae-a976-ad6cdd2496d9",
+      "chunk_title": "Historical Dates & Events",
+      "chunk_summary": "This chunk contains information about the birth, death, and burial details of historical figures, including specific events like disasters.",
+      "context_title": "Empress Matilda",
+      "page_content": "William Adelin died in the \"White Ship\" disaster of 1120. Holy Roman Emperor Henry V died in 1125. Empress Matilda died in 1167. Empress Matilda was buried under the high altar at Bec Abbey. Empress Matilda was born circa 7 February 1102. Empress Matilda died on 10 September 1167. King Henry I died in 1135."
+    },
+    {
+      "chunk_id": "c3cde502-df0a-4b9d-ba5a-770de5808c4f",
+      "chunk_title": "The Anarchy Succession Crisis",
+      "chunk_summary": "This chunk details the succession crisis and civil war known as the Anarchy, focusing on the rival claims of Empress Matilda and Stephen of Blois, their political maneuvers, and military conflicts; add further information on other claimants, specific battles, or diplomatic efforts related to these disputes.",
+      "context_title": "Empress Matilda",
+      "page_content": "The English throne was taken by Stephen of Blois after King Henry I's death. Empress Matilda's forces captured Stephen of Blois at the Battle of Lincoln in 1141. Stephen of Blois controlled the south-east and the Midlands during the stalemate. Stephen of Blois enjoyed the backing of the English Church. The war between Empress Matilda and Stephen of Blois degenerated into a stalemate. Large parts of the rest of England were in the hands of local, independent barons during the stalemate. Robert of Gloucester was captured following the Rout of Winchester in 1141. King Henry I made his court swear an oath of loyalty to Empress Matilda and her successors. The imperial crown was claimed by Lothair of Supplinburg after Henry V's death. Empress Matilda agreed to exchange Robert of Gloucester for Stephen of Blois. The death of William Adelin left England facing a potential succession crisis. Empress Matilda became trapped in Oxford Castle by Stephen of Blois's forces in the winter of 1141. Stephen of Blois took steps to solidify his new regime. King Henry I nominated Empress Matilda as his heir. The death of William Adelin left King Henry I facing a potential succession crisis. Empress Matilda was one of the claimants to the English throne during the civil war known as the Anarchy. Empress Matilda controlled much of the south-west of England during the stalemate."
+    },
+    {
+      "chunk_id": "063a0049-30be-453b-a243-09cc0de7c1f3",
+      "chunk_title": "Royal Marriages & Alliances",
+      "chunk_summary": "This chunk contains information about historical royal marriages arranged for political alliances and border protection.",
+      "context_title": "Empress Matilda",
+      "page_content": "King Henry I arranged for Empress Matilda to marry Geoffrey of Anjou. King Henry I arranged the marriage between Empress Matilda and Geoffrey of Anjou to form an alliance to protect his southern borders."
+    },
+    {
+      "chunk_id": "701e6555-b6e8-48a1-a74a-ae86f57e63e0",
+      "chunk_title": "Empress Matilda Titles",
+      "chunk_summary": "This chunk contains information about the alternative names and titles of Empress Matilda.",
+      "context_title": "Empress Matilda",
+      "page_content": "Empress Matilda was also known as the Empress Maude. Empress Matilda was titled the Lady of the English."
+    },
+    {
+      "chunk_id": "9c737ef2-e799-4978-8dc5-e100f6f40d9d",
+      "chunk_title": "Historical Epithets & Dynastic Names",
+      "chunk_summary": "This chunk contains information about the nicknames, epithets, and dynastic names derived from historical figures, specifically Geoffrey V and the Angevin kings.",
+      "context_title": "Geoffrey Plantagenet, Count of Anjou",
+      "page_content": "The three kings of England called Angevin were Henry II, Richard, and John. Geoffrey V was called the Handsome. The term Angevin Empire became known in the 12th century. Geoffrey V was called Plantagenet. The ancestral domain of Anjou gave rise to the name Angevin for three kings of England. The name \"Plantagenet\" was taken from Geoffrey V's epithet. Geoffrey V was called the Fair."
+    },
+    {
+      "chunk_id": "16f2ce2f-27ac-4099-9b1c-36c4707ab143",
+      "chunk_title": "Family Relationships",
+      "chunk_summary": "This chunk contains information about the family relationships and birth order of historical figures.",
+      "context_title": "William FitzEmpress",
+      "page_content": "William FitzEmpress was the youngest of the three sons of Empress Matilda and Geoffrey Plantagenet."
+    },
+    {
+      "chunk_id": "2837ef09-2739-45ba-b478-b9a8422fff57",
+      "chunk_title": "Religious Collaborations",
+      "chunk_summary": "This chunk contains information about historical figures' interactions and collaborations with religious institutions, including founding monasteries.",
+      "context_title": "Empress Matilda",
+      "page_content": "Empress Matilda worked extensively with the Church. Empress Matilda founded Cistercian monasteries."
+    },
+    {
+      "chunk_id": "6a24db52-a8f9-4eee-bb6e-dfb58a63fec5",
+      "chunk_title": "Personal Virtues & Character Traits",
+      "chunk_summary": "This chunk contains information about the personal virtues and character traits of historical figures.",
+      "context_title": "Empress Matilda",
+      "page_content": "Empress Matilda was known for her piety."
+    },
+    {
+      "chunk_id": "23c32d0a-ab4d-44c4-8a42-0371b863277e",
+      "chunk_title": "Empress Matilda's Coronation Attempts",
+      "chunk_summary": "This chunk contains information about Empress Matilda's controversial and ultimately unsuccessful attempts to be crowned Queen of England in 1141.",
+      "context_title": "Empress Matilda",
+      "page_content": "Empress Matilda was controversially crowned in St. Peter's Basilica. Empress Matilda's attempt to be crowned at Westminster collapsed due to bitter opposition from the London crowds. Empress Matilda attempted to be crowned at Westminster in 1141. Empress Matilda was never formally declared Queen of England."
+    }
+  ],
+  "em": 0.0,
+  "f1": 0,
+  "precision": 0,
+  "recall": 0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 0.125,
+  "retrieval_precision": 0.5652173913043478,
+  "retrieval_count": 6,
+  "total_chunks": 23,
+  "total_distinct_titles": 8,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Geoffrey Plantagenet 妻子的出生地",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未获得答案，因为其子节点 N1_1 未能提供有效信息。推理链在第一步中断。",
+          "critic_normative_advice": "建议修正搜索策略或拆分节点以解决 N1_1 的信息缺失问题。当前结构合理，但执行受阻。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who is the wife of Geoffrey Plantagenet, Count of Anjou?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "unreliable",
+          "search_query": "Who is the wife of Geoffrey Plantagenet, Count of Anjou?",
+          "planner_rationale": "Q 询问的是 Geoffrey Plantagenet 妻子的出生地，因此首先需要确定他的妻子是谁。这是回答 Q 的必要前置事实。",
+          "solver_judgment": "question 要求找出 Geoffrey Plantagenet, Count of Anjou 的妻子。search_query 搜索了 'Who is the wife of Geoffrey Plantagenet, Count of Anjou?'。chunks 返回了关于 Geoffrey Plantagenet 的头衔（Count of Anjou, Duke of Normandy 等）、他的父亲/祖先信息（Jean de la Flèche 是他的曾祖父）、他的孩子（Henry II 是他的儿子，Emma of Anjou 是他的私生女）以及与他发生冲突的人物（Robert II de Sablé 等）。然而，没有任何 chunk 提及他的妻子（历史上为 Empress Matilda）。检索结果缺失了关于其配偶的关键信息。",
+          "critic_factual_notes": "搜索返回了 8 个 chunk，涉及 Geoffrey Plantagenet 的头衔、祖先、子女及冲突对象，但没有任何 chunk 提及他的妻子（Empress Matilda）。Solver 正确判断为未找到答案，但健康状态标记为 unreliable 是因为关键事实缺失，导致无法继续。来源分布显示多个独立文档，但均不覆盖目标事实。",
+          "critic_normative_advice": "建议重搜——当前查询 'Who is the wife of Geoffrey Plantagenet, Count of Anjou?' 可能因实体名称变体或 KB 索引问题未命中。尝试使用别名 'Geoffrey V of Anjou' 或直接搜索 'Empress Matilda husband' 进行反向验证。若 KB 确实无此信息，需考虑是否通过子节点间接推断（如通过儿子 Henry II 的母亲）。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the place of birth of [Geoffrey Plantagenet's wife]?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "这是 Q 的核心询问目标。一旦确定了妻子的身份（通过前一个节点），就可以搜索她的出生地。该问题依赖于前一个节点的答案来消解指代。",
+          "solver_judgment": "",
+          "critic_factual_notes": "节点被硬阻塞，因为依赖源 N1_1 的 answer 为空。无法构造有效的搜索查询来查找出生地。",
+          "critic_normative_advice": "建议等待 N1_1 解决后重试。若 N1_1 持续失败，需重新规划 DAG，例如直接搜索 'Geoffrey Plantagenet wife birth place' 作为一个整体查询，绕过显式的身份确认步骤。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Geoffrey Plantagenet 妻子的出生地",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未获得答案，因为其子节点 N1_1 未能提供有效信息。推理链在第一步中断。",
+          "critic_normative_advice": "建议修正搜索策略或拆分节点以解决 N1_1 的信息缺失问题。当前结构合理，但执行受阻。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who was the wife of Geoffrey V, Count of Anjou?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Who was the wife of Geoffrey V, Count of Anjou?",
+          "planner_rationale": "上一轮搜索 'Geoffrey Plantagenet' 未命中妻子信息。Critic 建议尝试别名 'Geoffrey V of Anjou' 以提高检索精度。这是回答 Q 的必要前置事实（确定妻子身份）。",
+          "solver_judgment": "question 要求找出 Geoffrey V, Count of Anjou 的妻子。search_query 搜索了 \"Who was the wife of Geoffrey V, Count of Anjou?\"。chunks 返回了关于 Geoffrey Plantagenet (即 Geoffrey V) 的头衔、领土、父亲身份（Henry II 的父亲）以及祖先（Jean de la Flèche 是他的曾祖父）的信息，但没有任何 chunk 提及他的妻子（历史上为 Empress Matilda）。检索结果缺失关键的家庭关系信息，无法提取答案。",
+          "critic_factual_notes": "搜索未返回任何相关结果。8 个检索 chunk 均讨论 Geoffrey 本人的头衔、领土或祖先（如 Jean de la Flèche），无一提及妻子（Empress Matilda）。来源分布显示 6 个独立文档，但内容均不匹配查询意图。",
+          "critic_normative_advice": "建议换搜索方向——当前别名 'Geoffrey V' 未改善召回。KB 中可能缺乏直接陈述 'wife of Geoffrey V' 的文本。建议尝试反向搜索：搜索 'Empress Matilda husband' 或 'Matilda of England spouse'，若 KB 中有 Matilda 的条目，可能从中提取配偶信息。或者放弃此分解路径，尝试直接搜索 'Geoffrey Plantagenet wife birthplace' 看是否有综合陈述。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the place of birth of [Geoffrey Plantagenet's wife]?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "",
+          "planner_rationale": "这是 Q 的核心询问目标。一旦确定了妻子的身份（通过 N1_1），就可以搜索她的出生地。该问题依赖于 N1_1 的答案来消解指代。",
+          "solver_judgment": "",
+          "critic_factual_notes": "无法求解——依赖源 N1_1 answer 为空，未执行搜索。",
+          "critic_normative_advice": "建议 INHERIT——阻塞状态由上游 N1_1 失败导致。待 N1_1 解决后自动解除。若 N1_1 最终被判定为 KB 无覆盖而放弃，则此节点也应放弃。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Geoffrey Plantagenet 妻子的出生地",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未获得最终答案。其子节点 N1_1 已解决（识别出妻子为 Empress Matilda），但 N1_2 被阻塞（未找到出生地）。推理链在末端中断，无法合成完整答案。",
+          "critic_normative_advice": "建议修正搜索策略以解决 N1_2 的阻塞问题。当前结构逻辑正确，但执行层面需针对 'Empress Matilda place of birth' 进行更精确的搜索或检查 KB 中是否有相关传记信息。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who was the husband of Empress Matilda?",
+          "answer": "Henry V and Geoffrey V (Geoffrey of Anjou)",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who was the husband of Empress Matilda?",
+          "planner_rationale": "上一轮直接搜索 'Geoffrey V wife' 失败，Critic 建议反向搜索。KB 中可能有 Empress Matilda 的条目提及配偶。若 KB 确认其丈夫为 Geoffrey，则间接确立了 N1_1 的事实（妻子是 Matilda）。这是解决阻塞的关键路径变更。",
+          "solver_judgment": "question 要求找出 Empress Matilda 的丈夫。search_query 直接搜索了 'Who was the husband of Empress Matilda?'。chunks 返回的信息显示她有两任丈夫：chunk deae43b4-d430-4195-ab1a-197fb5d0bd8d 提到她嫁给了未来的神圣罗马帝国皇帝 Henry V（'married the future Holy Roman Emperor Henry V'）；chunk 303af8fa-8a59-403e-9080-15dabe135b9b 和 chunk 063a0049-30be-453b-a243-09cc0de7c1f3 提到她嫁给了 Geoffrey V / Geoffrey of Anjou（'Geoffrey V married the Empress Matilda', 'arranged for Empress Matilda to marry Geoffrey of Anjou'）。检索结果完整覆盖了她历史上的两任丈夫，信息准确且充分。",
+          "critic_factual_notes": "3 个来源，其中 2 个独立文档（Geoffrey Plantagenet, Count of Anjou; Empress Matilda）。来源一致指出 Empress Matilda 的丈夫包括 Geoffrey V (Geoffrey of Anjou)。Chunk 303af8fa 明确陈述 'Geoffrey V married the Empress Matilda'。Chunk deae43b4 和 063a0049 佐证了这一婚姻关系及政治背景。证据充分支撑声称答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，事实已确立。Geoffrey Plantagenet 的妻子确认为 Empress Matilda。此节点任务完成，可为下游节点提供明确的实体指代。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the place of birth of [Geoffrey Plantagenet's wife]?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Geoffrey Plantagenet wife place of birth",
+          "planner_rationale": "核心目标节点。一旦 N1_1 通过反向搜索确立妻子身份（或提供足够线索），此节点将解除阻塞并搜索出生地。保留以维持结构完整性。",
+          "solver_judgment": "question 要求提供 Geoffrey Plantagenet 妻子的出生地。search_query 搜索了 'Geoffrey Plantagenet wife place of birth'。chunks 返回的信息中，chunk_303af8fa-8a59-403e-9080-15dabe135b9b 指出 Geoffrey V (即 Geoffrey Plantagenet) 娶了 Empress Matilda (\"Geoffrey V married the Empress Matilda\")，chunk_16f2ce2f-27ac-4099-9b1c-36c4707ab143 也提到 Empress Matilda 是 Geoffrey Plantagenet 的妻子。然而，所有提供的 chunks 均未包含 Empress Matilda 的出生地信息。因此，无法从检索结果中提取答案。",
+          "critic_factual_notes": "搜索返回 8 个 chunk，但无一包含 Empress Matilda 的出生地信息。Chunk 摘要显示内容涉及头衔、家族关系、别名等，但未触及 'birth place' 或 'born in' 等关键事实。虽然依赖源 N1_1 已提供正确实体（Empress Matilda），但 KB 中似乎缺乏该实体的出生地记录，或当前搜索查询未能命中。",
+          "critic_normative_advice": "建议换搜索方向——当前查询 'Geoffrey Plantagenet wife place of birth' 可能因实体链接问题失败。既然已知妻子是 'Empress Matilda'，建议直接搜索 'Empress Matilda place of birth' 或 'Empress Matilda born'。若仍无结果，需评估 KB 是否覆盖此事实，考虑放弃或标记为未知。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Geoffrey Plantagenet 妻子的出生地。当前子节点 N1_1 已解决身份问题，但 N1_2 仍被阻塞，需调整搜索策略以获取最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未获得最终答案。子节点 N1_1 已解决（确认妻子为 Empress Matilda），但关键子节点 N1_2（出生地）处于 unsolved 状态且未找到答案。推理链在末端中断，无法合成完整答案。",
+          "critic_normative_advice": "建议修正搜索策略以解决 N1_2 的阻塞问题。当前结构逻辑正确，但执行层面需针对 'Empress Matilda place of birth' 进行更精确的搜索或检查 KB 中是否有相关传记信息。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who was the husband of Empress Matilda?",
+          "answer": "Henry V and Geoffrey V (Geoffrey of Anjou)",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who was the husband of Empress Matilda?",
+          "planner_rationale": "事实已确立且 Critic 判为 healthy。Empress Matilda 的丈夫包括 Geoffrey V (Geoffrey of Anjou)，这确认了 Q 中 'Geoffrey Plantagenet's wife' 的身份为 Empress Matilda。此节点为下游提供实体指代。",
+          "solver_judgment": "question 要求找出 Empress Matilda 的丈夫。search_query 直接搜索了 'Who was the husband of Empress Matilda?'。chunks 返回的信息显示她有两任丈夫：chunk deae43b4-d430-4195-ab1a-197fb5d0bd8d 提到她嫁给了未来的神圣罗马帝国皇帝 Henry V（'married the future Holy Roman Emperor Henry V'）；chunk 303af8fa-8a59-403e-9080-15dabe135b9b 和 chunk 063a0049-30be-453b-a243-09cc0de7c1f3 提到她嫁给了 Geoffrey V / Geoffrey of Anjou（'Geoffrey V married the Empress Matilda', 'arranged for Empress Matilda to marry Geoffrey of Anjou'）。检索结果完整覆盖了她历史上的两任丈夫，信息准确且充分。",
+          "critic_factual_notes": "3 个支撑来源，来自 2 个独立文档（Geoffrey Plantagenet, Count of Anjou; Empress Matilda）。来源一致指出 Empress Matilda 的丈夫包括 Geoffrey V (Geoffrey of Anjou)。Chunk 303af8fa 明确陈述 'Geoffrey V married the Empress Matilda'。Chunk deae43b4 和 063a0049 佐证了这一婚姻关系及政治背景。证据充分支撑声称答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，事实已确立。Geoffrey Plantagenet 的妻子确认为 Empress Matilda。此节点任务完成，可为下游节点提供明确的实体指代。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the place of birth of Empress Matilda?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Empress Matilda place of birth",
+          "planner_rationale": "上一轮搜索 'Geoffrey Plantagenet wife place of birth' 失败，Critic 指出 KB 中缺乏该组合关键词的匹配，但已知妻子具体为 'Empress Matilda'。直接以实体名 'Empress Matilda' 和 'place of birth' 进行搜索，能更精确地命中传记类信息，解除阻塞。",
+          "solver_judgment": "question 要求提供 Empress Matilda 的出生地（place of birth）。search_query 搜索了 'Empress Matilda place of birth'。chunks 返回了关于她的别名、生卒日期（chunk d7726e62-3846-4bae-a976-ad6cdd2496d9 提到她出生于约 1102 年 2 月 7 日，但未提及地点）、生平迁徙（chunk deae43b4-d430-4195-ab1a-197fb5d0bd8d 提到她幼年移居德国、后来回到诺曼底等，但未明确说明出生地）、家族关系及加冕尝试等信息。虽然提到了她父亲是英格兰国王亨利一世，且她后来在诺曼底和英格兰活动，但没有任何 chunk 明确陈述她的具体出生地点（如萨顿考特尼 Sutton Courtenay 或温切斯特 Winchester 等）。因此，检索结果中缺失关键信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回 8 个 chunk，但均为摘要或无关全文。Solver 判断指出：虽然提到了生卒日期（约 1102 年）和生平迁徙（德国、诺曼底、英格兰），但没有任何 chunk 明确陈述具体的出生地点（如城市或庄园名称）。KB 中似乎缺乏该具体事实的直接陈述。",
+          "critic_normative_advice": "建议放弃此方向或标记为 KB 缺失。已尝试直接实体搜索 'Empress Matilda place of birth'，但未命中。若 KB 中确实无此细粒度传记数据，继续搜索可能无效。建议检查是否可通过父系/母系居住地推断，或接受 KB 无覆盖的事实。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1 已解决身份问题，但 N1_2 仍被阻塞，需调整搜索策略以获取最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点尚未获得最终答案。子节点 N1_1 已解决（确认妻子为 Empress Matilda），但关键子节点 N1_2（出生地）处于 unsolved 状态且未找到答案。推理链在末端中断，无法合成完整答案。",
+          "critic_normative_advice": "建议修正搜索策略以解决 N1_2 的阻塞问题。当前结构逻辑正确，但执行层面需针对 'Empress Matilda place of birth' 进行更精确的搜索或检查 KB 中是否有相关传记信息。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Who was the husband of Empress Matilda?",
+          "answer": "Henry V and Geoffrey V (Geoffrey of Anjou)",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Who was the husband of Empress Matilda?",
+          "planner_rationale": "事实已确立且 Critic 判为 healthy。Empress Matilda 的丈夫包括 Geoffrey V (Geoffrey of Anjou)，这确认了 Q 中 'Geoffrey Plantagenet's wife' 的身份。此节点为下游提供实体指代。",
+          "solver_judgment": "question 要求找出 Empress Matilda 的丈夫。search_query 直接搜索了 'Who was the husband of Empress Matilda?'。chunks 返回的信息显示她有两任丈夫：chunk deae43b4-d430-4195-ab1a-197fb5d0bd8d 提到她嫁给了未来的神圣罗马帝国皇帝 Henry V（'married the future Holy Roman Emperor Henry V'）；chunk 303af8fa-8a59-403e-9080-15dabe135b9b 和 chunk 063a0049-30be-453b-a243-09cc0de7c1f3 提到她嫁给了 Geoffrey V / Geoffrey of Anjou（'Geoffrey V married the Empress Matilda', 'arranged for Empress Matilda to marry Geoffrey of Anjou'）。检索结果完整覆盖了她历史上的两任丈夫，信息准确且充分。",
+          "critic_factual_notes": "3 个支撑来源，来自 2 个独立文档（Geoffrey Plantagenet, Count of Anjou; Empress Matilda）。来源一致指出 Empress Matilda 的丈夫包括 Geoffrey V (Geoffrey of Anjou)。Chunk 303af8fa 明确陈述 'Geoffrey V married the Empress Matilda'。Chunk deae43b4 和 063a0049 佐证了这一婚姻关系及政治背景。证据充分支撑声称答案。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，事实已确立。Geoffrey Plantagenet 的妻子确认为 Empress Matilda。此节点任务完成，可为下游节点提供明确的实体指代。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 8
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "Where was Empress Matilda born?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "blocked",
+          "search_query": "Empress Matilda birthplace",
+          "planner_rationale": "上一轮搜索 'Empress Matilda place of birth' 返回了生卒日期和迁徙记录但未明确出生地。Critic 建议检查是否可通过父系/母系居住地推断。将 question 改为更自然的 'Where was ... born?' 可能触发不同的检索匹配或推理路径，同时保持对同一事实（出生地）的探测。若 KB 确实缺失具体城市名，此轮搜索将作为最终确认。",
+          "solver_judgment": "question 要求确认 Empress Matilda 的出生地点（Where）。search_query 搜索了 'Empress Matilda birthplace'。chunks 返回了关于她的头衔、生卒日期（chunk d7726e62-3846-4bae-a976-ad6cdd2496d9 提到她生于约 1102 年 2 月 7 日，但未提及地点）、生平迁徙（chunk deae43b4-d430-4195-ab1a-197fb5d0bd8d 提到她幼年移居德国、后来在诺曼底和英格兰活动，但未明确说明出生地）、家族关系等信息。虽然提到了她父亲是英格兰国王亨利一世，且她幼年移居德国，但没有任何 chunk 明确陈述她的出生城市或具体地点（历史上通常为牛津或温彻斯特，但文中未提及）。因此，检索结果中缺失关键的地点信息，无法提取答案。",
+          "critic_factual_notes": "搜索返回了 8 个 chunk，但均为摘要或无关信息（头衔、生卒日期无地点、迁徙记录无起点、家族关系等）。没有任何 chunk 明确陈述 Empress Matilda 的出生城市或具体地点。Solver 判断准确：检索结果中缺失关键的地点信息。由于多次搜索（包括上一轮的 'place of birth' 和本轮的 'birthplace'/'Where was ... born'）均未命中，且 KB 中相关传记 chunk (deae43b4) 仅提及幼年移居德国而未提出生地，判定为 KB 无覆盖或搜索无法触及。",
+          "critic_normative_advice": "建议放弃此方向——经过多轮不同措辞的搜索（'place of birth', 'birthplace', 'Where was ... born'），KB 中仍未发现 Empress Matilda 的具体出生地信息。现有 chunk 仅提及她幼年移居德国，未提及出生城市。若 KB 确实缺乏此细粒度数据，应标记为不可答或基于现有信息（如父王亨利一世的主要驻地）进行有限推断，但当前证据不足以支持具体城市名的声称。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 8
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Who is the wife of Geoffrey Plantagenet, Count of Anjou?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "61ebf542-39d1-4eb6-a5bc-ef73b488f61e",
+        "639d663a-5c1a-4310-9f49-41dd78c0d3c2",
+        "33c98fb4-f188-4dc9-a51b-cf04c1a2ff94",
+        "ae38d600-0d93-46f4-bd8c-cccb70c7ee73",
+        "0485192c-b6bc-4ec2-bb9e-325ddcba5415",
+        "c335e957-2c6b-4c9d-b641-8ad6a1ff683a",
+        "bfe7332c-5416-4c9f-a6c1-d8044d4972df",
+        "40d8c4d6-eeb0-4285-8054-951a5c312edc"
+      ]
+    },
+    {
+      "round": 2,
+      "query": "Who was the wife of Geoffrey V, Count of Anjou?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "61ebf542-39d1-4eb6-a5bc-ef73b488f61e",
+        "40d8c4d6-eeb0-4285-8054-951a5c312edc",
+        "639d663a-5c1a-4310-9f49-41dd78c0d3c2",
+        "bfe7332c-5416-4c9f-a6c1-d8044d4972df",
+        "84138374-3d18-4651-ac9e-b7e958fb9034",
+        "33c98fb4-f188-4dc9-a51b-cf04c1a2ff94",
+        "80089f56-56f3-4821-b932-976f29650002",
+        "ae38d600-0d93-46f4-bd8c-cccb70c7ee73"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "Who was the husband of Empress Matilda?",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "303af8fa-8a59-403e-9080-15dabe135b9b",
+        "deae43b4-d430-4195-ab1a-197fb5d0bd8d",
+        "eb34b06e-b139-45b6-a57e-d22cf4a8e0df",
+        "699cfa40-f73b-43dd-887e-46a135cd9322",
+        "d7726e62-3846-4bae-a976-ad6cdd2496d9",
+        "c3cde502-df0a-4b9d-ba5a-770de5808c4f",
+        "063a0049-30be-453b-a243-09cc0de7c1f3",
+        "701e6555-b6e8-48a1-a74a-ae86f57e63e0"
+      ]
+    },
+    {
+      "round": 3,
+      "query": "Geoffrey Plantagenet wife place of birth",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "9c737ef2-e799-4978-8dc5-e100f6f40d9d",
+        "61ebf542-39d1-4eb6-a5bc-ef73b488f61e",
+        "639d663a-5c1a-4310-9f49-41dd78c0d3c2",
+        "0485192c-b6bc-4ec2-bb9e-325ddcba5415",
+        "ae38d600-0d93-46f4-bd8c-cccb70c7ee73",
+        "33c98fb4-f188-4dc9-a51b-cf04c1a2ff94",
+        "16f2ce2f-27ac-4099-9b1c-36c4707ab143",
+        "303af8fa-8a59-403e-9080-15dabe135b9b"
+      ]
+    },
+    {
+      "round": 4,
+      "query": "Empress Matilda place of birth",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "701e6555-b6e8-48a1-a74a-ae86f57e63e0",
+        "d7726e62-3846-4bae-a976-ad6cdd2496d9",
+        "deae43b4-d430-4195-ab1a-197fb5d0bd8d",
+        "2837ef09-2739-45ba-b478-b9a8422fff57",
+        "6a24db52-a8f9-4eee-bb6e-dfb58a63fec5",
+        "699cfa40-f73b-43dd-887e-46a135cd9322",
+        "eb34b06e-b139-45b6-a57e-d22cf4a8e0df",
+        "23c32d0a-ab4d-44c4-8a42-0371b863277e"
+      ]
+    },
+    {
+      "round": 5,
+      "query": "Empress Matilda birthplace",
+      "chunks_returned": 8,
+      "chunk_ids": [
+        "701e6555-b6e8-48a1-a74a-ae86f57e63e0",
+        "d7726e62-3846-4bae-a976-ad6cdd2496d9",
+        "deae43b4-d430-4195-ab1a-197fb5d0bd8d",
+        "2837ef09-2739-45ba-b478-b9a8422fff57",
+        "6a24db52-a8f9-4eee-bb6e-dfb58a63fec5",
+        "699cfa40-f73b-43dd-887e-46a135cd9322",
+        "303af8fa-8a59-403e-9080-15dabe135b9b",
+        "eb34b06e-b139-45b6-a57e-d22cf4a8e0df"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who is the wife of Geoffrey Plantagenet, Count of Anjou?（理由：Q 问的是他妻子的出生地，必须先确定妻子身份），F2: What is the place of birth of [Geoffrey Plantagenet's wife]?（理由：这是 Q 的最终目标，但需要 F1 的答案来具体化搜索对象）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的问题中包含指代，需要 F1 的答案来消解“Geoffrey Plantagenet's wife”具体是谁，才能有效搜索出生地）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。初始分解策略：将 Q 分解为两个步骤：1. 识别 Geoffrey Plantagenet 的妻子；2. 查找该妻子的出生地。由于第二步依赖于第一步的结果（知道是谁才能查出生地），因此建立 dependency 边。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_1 为 unreliable（关键事实缺失），N1_2 为 blocked。虽然依赖链语义有效（条件②通过），但证据不足且节点未全部 healthy，无法生成最终答案。"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who was the wife of Geoffrey V, Count of Anjou?（理由：Q 问的是他妻子的出生地，必须先确定妻子身份。使用别名 'Geoffrey V' 以优化搜索命中率），F2: What is the place of birth of [Geoffrey Plantagenet's wife]?（理由：这是 Q 的最终目标，但需要 F1 的答案来具体化搜索对象）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的问题中包含指代，需要 F1 的答案来消解“Geoffrey Plantagenet's wife”具体是谁，才能有效搜索出生地）。",
+      "hypothesis_delta": "换标: N1_1 question 从 \"Who is the wife of Geoffrey Plantagenet, Count of Anjou?\" 改为 \"Who was the wife of Geoffrey V, Count of Anjou?\"，原因：Critic 指出上一轮搜索未命中关键事实，建议使用别名 'Geoffrey V of Anjou' 进行反向验证或提高检索精度。结构保持不变，仅优化探测方式。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_1 和 N1_2 均为 blocked/unreliable 状态，证据不足。条件①未满足：仍有节点 unsolved。推理链虽语义有效，但缺乏事实支撑。"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who was the husband of Empress Matilda?（理由：直接搜索 Geoffrey 的妻子失败，Critic 建议反向搜索。若 KB 记载 Matilda 的丈夫是 Geoffrey，则可推断 Geoffrey 的妻子是 Matilda，从而解决身份问题），F2: What is the place of birth of [Geoffrey Plantagenet's wife]?（理由：Q 的最终目标，依赖 F1 确立的妻子身份进行具体化搜索）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的指代消解需要 F1 的答案作为上下文，即使 F1 现在是反向查询，其答案仍用于确认妻子身份进而指导 F2 搜索）。",
+      "hypothesis_delta": "换标: N1_1 question 从 \"Who was the wife of Geoffrey V, Count of Anjou?\" 改为 \"Who was the husband of Empress Matilda?\"，原因：上一轮正向搜索失败，Critic 明确指出 KB 可能缺乏直接陈述，建议尝试反向搜索 'Empress Matilda husband'。这是策略的根本性转变，旨在绕过缺失的直接链接。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的健康状态为 blocked，非 healthy。虽然推理链语义匹配（条件②通过），但关键事实（出生地）尚未获取，导致 ROOT 节点无法生成最终答案。"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who was the husband of Empress Matilda?（理由：已通过反向搜索确立，确认 Geoffrey Plantagenet 的妻子是 Empress Matilda），F2: What is the place of birth of Empress Matilda?（理由：Q 的核心目标，在明确妻子身份后，直接查询该具体人物的出生地）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的搜索 query 需要 F1 确认的实体名称 'Empress Matilda' 来替代模糊指代 'Geoffrey Plantagenet's wife'，以确保搜索精度）。",
+      "hypothesis_delta": "换标: N1_2 question 从 \"What is the place of birth of [Geoffrey Plantagenet's wife]?\" 改为 \"What is the place of birth of Empress Matilda?\"，原因：Critic 指出上一轮搜索因实体链接问题失败，建议直接使用已确认的实体名 'Empress Matilda' 进行搜索。这是为了解除 N1_2 的 [BLOCKED] 状态，利用 N1_1 已确立的事实进行更精确的检索。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的 critic_health 为 'blocked'（非 healthy）。虽然推理链语义有效（条件②通过），但关键事实（出生地）未在 KB 中找到，导致无法生成完整答案。系统需决定是继续尝试不同搜索策略还是接受部分答案，目前尚未达到所有节点 healthy 的终止状态。"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 1,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Who was the husband of Empress Matilda?（理由：已通过反向搜索确立，确认 Geoffrey Plantagenet 的妻子是 Empress Matilda），F2: Where was Empress Matilda born?（理由：Q 的核心目标，在明确妻子身份后，直接查询该具体人物的出生地）。关系: F1 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的搜索 query 需要 F1 确认的实体名称 'Empress Matilda' 来替代模糊指代 'Geoffrey Plantagenet's wife'，以确保搜索精度）。",
+      "hypothesis_delta": "换标: N1_2 question 从 \"What is the place of birth of Empress Matilda?\" 改为 \"Where was Empress Matilda born?\"，原因：上一轮搜索返回了相关传记信息（如出生日期、迁徙）但未命中具体的“place of birth”字段。Critic 指出 KB 可能缺乏细粒度数据，但建议尝试更宽泛或不同措辞的搜索。将问法从名词短语 \"place of birth\" 改为动词短语 \"Where was ... born\" 是一种常见的搜索优化策略，旨在捕捉不同表述方式的文本片段。若此轮仍无结果，则倾向于接受 KB 无覆盖。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：节点 N1_2 的 critic_health 为 blocked（搜索无有效结果），导致整体 DAG 未全部 healthy。虽然推理链语义有效（条件②通过），但关键事实缺失，无法生成最终答案。"
+      }
+    }
+  ]
+}

@@ -1,0 +1,653 @@
+{
+  "question_index": 305,
+  "question_id": "5abdce1b5542993062266cfe",
+  "question": "What Minnesota county is the University of Minnesota in?",
+  "answer": "Hennepin County",
+  "prediction": "Hennepin County",
+  "error": null,
+  "latency_ms": 218707.28609999787,
+  "dataset_type": "hotpotqa",
+  "timestamp": "2026-05-18T14:23:50.080042+00:00",
+  "chunks": [
+    {
+      "chunk_id": "71020347-f416-4022-882f-db30660c202c",
+      "chunk_title": "Locations & Movements",
+      "chunk_summary": "This chunk contains information about the geographical locations of cities, towns, institutions, and individual movements between them.",
+      "context_title": "Sydney Anderson",
+      "page_content": "Sydney Anderson moved to Kansas City, Missouri. Highland Park College is located in Des Moines, Iowa. Zumbrota is located in Goodhue County, Minnesota. Sydney Anderson moved from Kansas City, Missouri to Lanesboro, Minnesota. The University of Minnesota is located in Minneapolis."
+    },
+    {
+      "chunk_id": "e9348fc2-b5d4-4bb4-bfe2-9752e6dc0932",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations of universities.",
+      "context_title": "Iraj Bashiri",
+      "page_content": "The University of Minnesota is located in the United States."
+    },
+    {
+      "chunk_id": "be392d02-6cbd-4ea6-ad3d-6210198b6098",
+      "chunk_title": "Institutional Locations & Affiliations",
+      "chunk_summary": "This chunk contains information about the locations and affiliations of educational and research institutions.",
+      "context_title": "Michael Osterholm",
+      "page_content": "The Center for Infectious Disease Research and Policy (CIDRAP) is at the University of Minnesota. Luther College is in Decorah, Iowa."
+    },
+    {
+      "chunk_id": "7bb6cdf6-d37b-4ed9-9b6f-5394165f37f6",
+      "chunk_title": "City Population Rankings",
+      "chunk_summary": "This chunk contains information about the population size and rankings of specific cities within their states and nationally, including relevant dates.",
+      "context_title": "Minneapolis",
+      "page_content": "As of 2016, Minneapolis is the largest city in the state of Minnesota. As of 2016, Minneapolis has an estimated population of 413,651. As of 2016, Minneapolis is the 46th-largest city in the United States."
+    },
+    {
+      "chunk_id": "edd900be-b67b-41bd-b359-cf4e399462f3",
+      "chunk_title": "Education Background",
+      "chunk_summary": "This chunk contains information about the educational background and schools attended by Richard Pillsbury Gale.",
+      "context_title": "Richard Pillsbury Gale",
+      "page_content": "Richard Pillsbury Gale attended the public schools of Minneapolis. Richard Pillsbury Gale was graduated from Yale University in 1922. Richard Pillsbury Gale attended The Blake School at Hopkins, Minnesota. Richard Pillsbury Gale attended University of Minnesota at Minneapolis. Richard Pillsbury Gale attended Minnesota Farm School."
+    },
+    {
+      "chunk_id": "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+      "chunk_title": "City Administration",
+      "chunk_summary": "This chunk contains information about the administrative roles and locations of cities within counties.",
+      "context_title": "Minneapolis",
+      "page_content": "Minneapolis is the county seat of Hennepin County."
+    },
+    {
+      "chunk_id": "0a682ad6-fba4-4f9e-bc90-062071050668",
+      "chunk_title": "Education Background",
+      "chunk_summary": "This chunk contains information about the educational background of individuals, including attendance at grade schools, high schools, and universities.",
+      "context_title": "Franklin Ellsworth",
+      "page_content": "Franklin Fowler Ellsworth attended the law department of the University of Minnesota at Minneapolis. Franklin Fowler Ellsworth attended grade schools. Franklin Fowler Ellsworth attended high schools."
+    },
+    {
+      "chunk_id": "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+      "chunk_title": "City Classification & Location",
+      "chunk_summary": "This chunk contains information about the classification and geographic location of cities, specifically identifying Minnetonka as a suburban city in Hennepin County, Minnesota, including its relative position to Minneapolis.",
+      "context_title": "Minnetonka, Minnesota",
+      "page_content": "Minnetonka is in Hennepin County. Minnetonka is 13 km west of Minneapolis. Minnetonka is eight miles west of Minneapolis. Hennepin County is in Minnesota. Minnetonka is a suburban city. Minnesota is in the United States."
+    },
+    {
+      "chunk_id": "5e2bd78c-c80b-405e-9b7f-1579794f7d15",
+      "chunk_title": "Locations & Venues",
+      "chunk_summary": "This chunk contains information about the locations of specific venues or buildings.",
+      "context_title": "A Prairie Home Companion",
+      "page_content": "The Fitzgerald Theater is in Saint Paul, Minnesota."
+    },
+    {
+      "chunk_id": "552d21d9-1f3c-41f0-8006-96b8100d2667",
+      "chunk_title": "Educational Locations",
+      "chunk_summary": "This chunk contains information about the locations of educational institutions and where specific classes are held.",
+      "context_title": "Minnesota Institute for Talented Youth",
+      "page_content": "Macalester College is in Saint Paul, Minnesota. Classes for Expand Your Mind take place at Macalester College."
+    },
+    {
+      "chunk_id": "25389e42-08c8-47fc-9ca8-ebff660e05e7",
+      "chunk_title": "Birthplace & Origin",
+      "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+      "context_title": "Richard Pillsbury Gale",
+      "page_content": "Richard Pillsbury Gale was born in Minneapolis, Hennepin County, Minnesota."
+    },
+    {
+      "chunk_id": "898801e4-1e48-4a2c-b3e8-2cf0518ae835",
+      "chunk_title": "Biographical Details",
+      "chunk_summary": "This chunk contains biographical details about Walter Hughes Newton, including his birth and death dates, locations, and burial site.",
+      "context_title": "Walter Newton",
+      "page_content": "Walter Hughes Newton was born in Minneapolis, Hennepin County, Minnesota. Walter Hughes Newton died in Minneapolis, Minnesota. Walter Hughes Newton was interred in Lakewood Cemetery. Walter Hughes Newton was born on October 10, 1880. Walter Hughes Newton died on August 10, 1941."
+    },
+    {
+      "chunk_id": "4262b8d9-a1a4-4809-95d5-da0acf63001f",
+      "chunk_title": "City Location & Classification",
+      "chunk_summary": "This chunk contains information about the location and classification of cities.",
+      "context_title": "Clinton, Minnesota",
+      "page_content": "Clinton is a city in Big Stone County, Minnesota, United States."
+    },
+    {
+      "chunk_id": "58b853cb-1aa4-465c-adbf-e14e0943249a",
+      "chunk_title": "Twin Cities Metro Stats",
+      "chunk_summary": "This chunk contains information about the size, population, ranking, and economic significance of the Twin Cities metropolitan area within the United States and the Midwest.",
+      "context_title": "Minneapolis",
+      "page_content": "The Twin Cities are the 16th-largest metropolitan area in the United States. The Twin Cities metropolitan area has about 3.5 million people. Minneapolis and Saint Paul anchor the second-largest economic center in the Midwest. Chicago anchors the largest economic center in the Midwest. The Twin Cities metropolitan area is the third largest in the Midwest. Minneapolis is the larger of the Twin Cities."
+    },
+    {
+      "chunk_id": "29a40001-b346-468a-81b0-54e734a6ab00",
+      "chunk_title": "Legal Career Milestones",
+      "chunk_summary": "This chunk contains information about the professional legal career milestones of Walter Hughes Newton, including his bar admission, practice locations, prosecutorial service, and judicial appointments.",
+      "context_title": "Walter Newton",
+      "page_content": "Walter Hughes Newton served as first assistant prosecuting attorney of Hennepin County from 1914 to 1918. Walter Hughes Newton was admitted to the bar in 1905. Walter Hughes Newton served as Federal Referee in Bankruptcy until his death. Walter Hughes Newton was appointed Federal Referee in Bankruptcy in 1938. Walter Hughes Newton resumed the practice of law in Minneapolis, Minnesota in 1934. Walter Hughes Newton commenced the practice of law in Minneapolis, Minnesota in 1905."
+    },
+    {
+      "chunk_id": "a3a8ed04-1734-4070-9bf4-78a651ea0813",
+      "chunk_title": "Abraham M. Radcliffe Biography",
+      "chunk_summary": "This chunk contains biographical and professional information about architect Abraham M. Radcliffe, including his life dates, locations of practice, specific building designs, and historical influence; add further details regarding his life, architectural works, or historical context here.",
+      "context_title": "Abraham M. Radcliffe",
+      "page_content": "Abraham M. Radcliffe was born in New York City. Abraham M. Radcliffe was born in 1827. Abraham M. Radcliffe opened a St. Paul office in 1858. Abraham M. Radcliffe was an architect. Abraham M. Radcliffe designed early commercial buildings in Minneapolis. Abraham M. Radcliffe inspired the architectural career of Cass Gilbert. Abraham M. Radcliffe designed early commercial buildings in St. Paul. Abraham M. Radcliffe died in 1886. Abraham M. Radcliffe opened a Minneapolis office in 1857. Abraham M. Radcliffe closed his Minneapolis office in 1868. Abraham M. Radcliffe designed the Dakota County Courthouse."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.25,
+  "retrieval_count": 2,
+  "total_chunks": 16,
+  "total_distinct_titles": 12,
+  "search_depth": 2,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 2,
+  "termination_reason": "all_conditions_met",
+  "dag_nodes": 3,
+  "dag_edges": 2,
+  "dag_snapshots": [
+    {
+      "q": "What Minnesota county is the University of Minnesota in?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What Minnesota county is the University of Minnesota in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问明尼苏达大学所在的明尼苏达州县名",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，答案由子节点推理链合成。推理链：N1_1（University of Minnesota 位于 Minneapolis）→ N1_2（Minneapolis 位于 Hennepin County）。两条子节点推理链完整且一致，聚合后可支撑 Q 的最终答案。",
+          "critic_normative_advice": "推理链完整，子节点证据充分，建议 INHERIT 保留当前结构。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where is the University of Minnesota located (city/campus)?",
+          "answer": "Minneapolis",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where is the University of Minnesota located (city/campus)?",
+          "planner_rationale": "Q 询问大学所在的县，需先确定大学的具体地理位置（城市/校区），这是定位县名的前置事实",
+          "solver_judgment": "question 要求确认 University of Minnesota 所在的城市/校区。search_query 直接搜索了该问题。chunks 返回了多条相关信息，其中 chunk 71020347-f416-4022-882f-db30660c202c 明确记载 'The University of Minnesota is located in Minneapolis.'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Sydney Anderson），chunk 71020347-f416-4022-882f-db30660c202c 全文逐字记载 'The University of Minnesota is located in Minneapolis.'，直接且具体地陈述了答案。单来源但表述明确，无矛盾。",
+          "critic_normative_advice": "证据充分，单来源但直接具体，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "71020347-f416-4022-882f-db30660c202c"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "71020347-f416-4022-882f-db30660c202c",
+              "chunk_title": "Locations & Movements",
+              "chunk_summary": "This chunk contains information about the geographical locations of cities, towns, institutions, and individual movements between them.",
+              "context_title": "Sydney Anderson",
+              "page_content": "Sydney Anderson moved to Kansas City, Missouri. Highland Park College is located in Des Moines, Iowa. Zumbrota is located in Goodhue County, Minnesota. Sydney Anderson moved from Kansas City, Missouri to Lanesboro, Minnesota. The University of Minnesota is located in Minneapolis."
+            },
+            {
+              "chunk_id": "e9348fc2-b5d4-4bb4-bfe2-9752e6dc0932",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of universities.",
+              "context_title": "Iraj Bashiri",
+              "page_content": "The University of Minnesota is located in the United States."
+            },
+            {
+              "chunk_id": "be392d02-6cbd-4ea6-ad3d-6210198b6098",
+              "chunk_title": "Institutional Locations & Affiliations",
+              "chunk_summary": "This chunk contains information about the locations and affiliations of educational and research institutions.",
+              "context_title": "Michael Osterholm",
+              "page_content": "The Center for Infectious Disease Research and Policy (CIDRAP) is at the University of Minnesota. Luther College is in Decorah, Iowa."
+            },
+            {
+              "chunk_id": "7bb6cdf6-d37b-4ed9-9b6f-5394165f37f6",
+              "chunk_title": "City Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and rankings of specific cities within their states and nationally, including relevant dates.",
+              "context_title": "Minneapolis",
+              "page_content": "As of 2016, Minneapolis is the largest city in the state of Minnesota. As of 2016, Minneapolis has an estimated population of 413,651. As of 2016, Minneapolis is the 46th-largest city in the United States."
+            },
+            {
+              "chunk_id": "edd900be-b67b-41bd-b359-cf4e399462f3",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about the educational background and schools attended by Richard Pillsbury Gale.",
+              "context_title": "Richard Pillsbury Gale",
+              "page_content": "Richard Pillsbury Gale attended the public schools of Minneapolis. Richard Pillsbury Gale was graduated from Yale University in 1922. Richard Pillsbury Gale attended The Blake School at Hopkins, Minnesota. Richard Pillsbury Gale attended University of Minnesota at Minneapolis. Richard Pillsbury Gale attended Minnesota Farm School."
+            },
+            {
+              "chunk_id": "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative roles and locations of cities within counties.",
+              "context_title": "Minneapolis",
+              "page_content": "Minneapolis is the county seat of Hennepin County."
+            },
+            {
+              "chunk_id": "0a682ad6-fba4-4f9e-bc90-062071050668",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about the educational background of individuals, including attendance at grade schools, high schools, and universities.",
+              "context_title": "Franklin Ellsworth",
+              "page_content": "Franklin Fowler Ellsworth attended the law department of the University of Minnesota at Minneapolis. Franklin Fowler Ellsworth attended grade schools. Franklin Fowler Ellsworth attended high schools."
+            },
+            {
+              "chunk_id": "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+              "chunk_title": "City Classification & Location",
+              "chunk_summary": "This chunk contains information about the classification and geographic location of cities, specifically identifying Minnetonka as a suburban city in Hennepin County, Minnesota, including its relative position to Minneapolis.",
+              "context_title": "Minnetonka, Minnesota",
+              "page_content": "Minnetonka is in Hennepin County. Minnetonka is 13 km west of Minneapolis. Minnetonka is eight miles west of Minneapolis. Hennepin County is in Minnesota. Minnetonka is a suburban city. Minnesota is in the United States."
+            },
+            {
+              "chunk_id": "5e2bd78c-c80b-405e-9b7f-1579794f7d15",
+              "chunk_title": "Locations & Venues",
+              "chunk_summary": "This chunk contains information about the locations of specific venues or buildings.",
+              "context_title": "A Prairie Home Companion",
+              "page_content": "The Fitzgerald Theater is in Saint Paul, Minnesota."
+            },
+            {
+              "chunk_id": "552d21d9-1f3c-41f0-8006-96b8100d2667",
+              "chunk_title": "Educational Locations",
+              "chunk_summary": "This chunk contains information about the locations of educational institutions and where specific classes are held.",
+              "context_title": "Minnesota Institute for Talented Youth",
+              "page_content": "Macalester College is in Saint Paul, Minnesota. Classes for Expand Your Mind take place at Macalester College."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What Minnesota county is that city in?",
+          "answer": "Hennepin County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What Minnesota county is Minneapolis in?",
+          "planner_rationale": "Q 的核心询问——确定大学所在城市所属的明尼苏达州县名。此问题依赖 F1 的答案来消解 'that city' 的指代",
+          "solver_judgment": "question 要求确认 'that city'（根据 search_query 可知指 Minneapolis）所在的 Minnesota 县。search_query 搜索了 'What Minnesota county is Minneapolis in?'。chunks 返回了多条信息，其中 chunk d68cd0d7-95ac-4df6-9a35-b72179bb316b 明确记载 'Minneapolis is the county seat of Hennepin County'，chunk 25389e42-08c8-47fc-9ca8-ebff660e05e7 和 chunk 898801e4-1e48-4a2c-b3e8-2cf0518ae835 也提及 'Minneapolis, Hennepin County, Minnesota'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "3 个支撑来源，其中 3 个独立（文档 Minneapolis、文档 Richard Pillsbury Gale、文档 Walter Newton）。chunk d68cd0d7-95ac-4df6-9a35-b72179bb316b 明确记载 'Minneapolis is the county seat of Hennepin County'；chunk 25389e42-08c8-47fc-9ca8-ebff660e05e7 和 898801e4-1e48-4a2c-b3e8-2cf0518ae835 均提及 'Minneapolis, Hennepin County, Minnesota'。三个独立来源对核心事实表述一致，交叉验证通过。",
+          "critic_normative_advice": "证据充分，多来源一致，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+            "25389e42-08c8-47fc-9ca8-ebff660e05e7",
+            "898801e4-1e48-4a2c-b3e8-2cf0518ae835"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative roles and locations of cities within counties.",
+              "context_title": "Minneapolis",
+              "page_content": "Minneapolis is the county seat of Hennepin County."
+            },
+            {
+              "chunk_id": "25389e42-08c8-47fc-9ca8-ebff660e05e7",
+              "chunk_title": "Birthplace & Origin",
+              "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+              "context_title": "Richard Pillsbury Gale",
+              "page_content": "Richard Pillsbury Gale was born in Minneapolis, Hennepin County, Minnesota."
+            },
+            {
+              "chunk_id": "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+              "chunk_title": "City Classification & Location",
+              "chunk_summary": "This chunk contains information about the classification and geographic location of cities, specifically identifying Minnetonka as a suburban city in Hennepin County, Minnesota, including its relative position to Minneapolis.",
+              "context_title": "Minnetonka, Minnesota",
+              "page_content": "Minnetonka is in Hennepin County. Minnetonka is 13 km west of Minneapolis. Minnetonka is eight miles west of Minneapolis. Hennepin County is in Minnesota. Minnetonka is a suburban city. Minnesota is in the United States."
+            },
+            {
+              "chunk_id": "898801e4-1e48-4a2c-b3e8-2cf0518ae835",
+              "chunk_title": "Biographical Details",
+              "chunk_summary": "This chunk contains biographical details about Walter Hughes Newton, including his birth and death dates, locations, and burial site.",
+              "context_title": "Walter Newton",
+              "page_content": "Walter Hughes Newton was born in Minneapolis, Hennepin County, Minnesota. Walter Hughes Newton died in Minneapolis, Minnesota. Walter Hughes Newton was interred in Lakewood Cemetery. Walter Hughes Newton was born on October 10, 1880. Walter Hughes Newton died on August 10, 1941."
+            },
+            {
+              "chunk_id": "71020347-f416-4022-882f-db30660c202c",
+              "chunk_title": "Locations & Movements",
+              "chunk_summary": "This chunk contains information about the geographical locations of cities, towns, institutions, and individual movements between them.",
+              "context_title": "Sydney Anderson",
+              "page_content": "Sydney Anderson moved to Kansas City, Missouri. Highland Park College is located in Des Moines, Iowa. Zumbrota is located in Goodhue County, Minnesota. Sydney Anderson moved from Kansas City, Missouri to Lanesboro, Minnesota. The University of Minnesota is located in Minneapolis."
+            },
+            {
+              "chunk_id": "7bb6cdf6-d37b-4ed9-9b6f-5394165f37f6",
+              "chunk_title": "City Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and rankings of specific cities within their states and nationally, including relevant dates.",
+              "context_title": "Minneapolis",
+              "page_content": "As of 2016, Minneapolis is the largest city in the state of Minnesota. As of 2016, Minneapolis has an estimated population of 413,651. As of 2016, Minneapolis is the 46th-largest city in the United States."
+            },
+            {
+              "chunk_id": "4262b8d9-a1a4-4809-95d5-da0acf63001f",
+              "chunk_title": "City Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of cities.",
+              "context_title": "Clinton, Minnesota",
+              "page_content": "Clinton is a city in Big Stone County, Minnesota, United States."
+            },
+            {
+              "chunk_id": "58b853cb-1aa4-465c-adbf-e14e0943249a",
+              "chunk_title": "Twin Cities Metro Stats",
+              "chunk_summary": "This chunk contains information about the size, population, ranking, and economic significance of the Twin Cities metropolitan area within the United States and the Midwest.",
+              "context_title": "Minneapolis",
+              "page_content": "The Twin Cities are the 16th-largest metropolitan area in the United States. The Twin Cities metropolitan area has about 3.5 million people. Minneapolis and Saint Paul anchor the second-largest economic center in the Midwest. Chicago anchors the largest economic center in the Midwest. The Twin Cities metropolitan area is the third largest in the Midwest. Minneapolis is the larger of the Twin Cities."
+            },
+            {
+              "chunk_id": "29a40001-b346-468a-81b0-54e734a6ab00",
+              "chunk_title": "Legal Career Milestones",
+              "chunk_summary": "This chunk contains information about the professional legal career milestones of Walter Hughes Newton, including his bar admission, practice locations, prosecutorial service, and judicial appointments.",
+              "context_title": "Walter Newton",
+              "page_content": "Walter Hughes Newton served as first assistant prosecuting attorney of Hennepin County from 1914 to 1918. Walter Hughes Newton was admitted to the bar in 1905. Walter Hughes Newton served as Federal Referee in Bankruptcy until his death. Walter Hughes Newton was appointed Federal Referee in Bankruptcy in 1938. Walter Hughes Newton resumed the practice of law in Minneapolis, Minnesota in 1934. Walter Hughes Newton commenced the practice of law in Minneapolis, Minnesota in 1905."
+            },
+            {
+              "chunk_id": "a3a8ed04-1734-4070-9bf4-78a651ea0813",
+              "chunk_title": "Abraham M. Radcliffe Biography",
+              "chunk_summary": "This chunk contains biographical and professional information about architect Abraham M. Radcliffe, including his life dates, locations of practice, specific building designs, and historical influence; add further details regarding his life, architectural works, or historical context here.",
+              "context_title": "Abraham M. Radcliffe",
+              "page_content": "Abraham M. Radcliffe was born in New York City. Abraham M. Radcliffe was born in 1827. Abraham M. Radcliffe opened a St. Paul office in 1858. Abraham M. Radcliffe was an architect. Abraham M. Radcliffe designed early commercial buildings in Minneapolis. Abraham M. Radcliffe inspired the architectural career of Cass Gilbert. Abraham M. Radcliffe designed early commercial buildings in St. Paul. Abraham M. Radcliffe died in 1886. Abraham M. Radcliffe opened a Minneapolis office in 1857. Abraham M. Radcliffe closed his Minneapolis office in 1868. Abraham M. Radcliffe designed the Dakota County Courthouse."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What Minnesota county is the University of Minnesota in?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What Minnesota county is the University of Minnesota in?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "healthy",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，询问明尼苏达大学所在的明尼苏达州县名。子节点推理链完整：N1_1（University of Minnesota 位于 Minneapolis）→ N1_2（Minneapolis 位于 Hennepin County），聚合后可支撑 Q 的最终答案。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——无独立来源，答案由子节点推理链合成。推理链：N1_1（University of Minnesota 位于 Minneapolis，1 个直接来源支撑）→ N1_2（Minneapolis 位于 Hennepin County，3 个独立来源交叉验证）。两条子节点推理链完整且一致，聚合后可支撑 Q 的最终答案。",
+          "critic_normative_advice": "推理链完整，子节点证据充分，建议 INHERIT 保留当前结构。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where is the University of Minnesota located (city/campus)?",
+          "answer": "Minneapolis",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "Where is the University of Minnesota located (city/campus)?",
+          "planner_rationale": "Q 询问大学所在的县，需先确定大学的具体地理位置（城市/校区），这是定位县名的前置事实。已 SOLVED + healthy，证据充分（chunk 71020347 明确记载 'The University of Minnesota is located in Minneapolis.'）。",
+          "solver_judgment": "question 要求确认 University of Minnesota 所在的城市/校区。search_query 直接搜索了该问题。chunks 返回了多条相关信息，其中 chunk 71020347-f416-4022-882f-db30660c202c 明确记载 'The University of Minnesota is located in Minneapolis.'，直接且准确地回答了问题。检索精准，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Sydney Anderson）。chunk 71020347-f416-4022-882f-db30660c202c 全文逐字记载 'The University of Minnesota is located in Minneapolis.'，直接且具体地陈述了答案。单来源但表述明确，无矛盾。",
+          "critic_normative_advice": "证据充分，单来源但直接具体，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "71020347-f416-4022-882f-db30660c202c"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "71020347-f416-4022-882f-db30660c202c",
+              "chunk_title": "Locations & Movements",
+              "chunk_summary": "This chunk contains information about the geographical locations of cities, towns, institutions, and individual movements between them.",
+              "context_title": "Sydney Anderson",
+              "page_content": "Sydney Anderson moved to Kansas City, Missouri. Highland Park College is located in Des Moines, Iowa. Zumbrota is located in Goodhue County, Minnesota. Sydney Anderson moved from Kansas City, Missouri to Lanesboro, Minnesota. The University of Minnesota is located in Minneapolis."
+            },
+            {
+              "chunk_id": "e9348fc2-b5d4-4bb4-bfe2-9752e6dc0932",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations of universities.",
+              "context_title": "Iraj Bashiri",
+              "page_content": "The University of Minnesota is located in the United States."
+            },
+            {
+              "chunk_id": "be392d02-6cbd-4ea6-ad3d-6210198b6098",
+              "chunk_title": "Institutional Locations & Affiliations",
+              "chunk_summary": "This chunk contains information about the locations and affiliations of educational and research institutions.",
+              "context_title": "Michael Osterholm",
+              "page_content": "The Center for Infectious Disease Research and Policy (CIDRAP) is at the University of Minnesota. Luther College is in Decorah, Iowa."
+            },
+            {
+              "chunk_id": "7bb6cdf6-d37b-4ed9-9b6f-5394165f37f6",
+              "chunk_title": "City Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and rankings of specific cities within their states and nationally, including relevant dates.",
+              "context_title": "Minneapolis",
+              "page_content": "As of 2016, Minneapolis is the largest city in the state of Minnesota. As of 2016, Minneapolis has an estimated population of 413,651. As of 2016, Minneapolis is the 46th-largest city in the United States."
+            },
+            {
+              "chunk_id": "edd900be-b67b-41bd-b359-cf4e399462f3",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about the educational background and schools attended by Richard Pillsbury Gale.",
+              "context_title": "Richard Pillsbury Gale",
+              "page_content": "Richard Pillsbury Gale attended the public schools of Minneapolis. Richard Pillsbury Gale was graduated from Yale University in 1922. Richard Pillsbury Gale attended The Blake School at Hopkins, Minnesota. Richard Pillsbury Gale attended University of Minnesota at Minneapolis. Richard Pillsbury Gale attended Minnesota Farm School."
+            },
+            {
+              "chunk_id": "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative roles and locations of cities within counties.",
+              "context_title": "Minneapolis",
+              "page_content": "Minneapolis is the county seat of Hennepin County."
+            },
+            {
+              "chunk_id": "0a682ad6-fba4-4f9e-bc90-062071050668",
+              "chunk_title": "Education Background",
+              "chunk_summary": "This chunk contains information about the educational background of individuals, including attendance at grade schools, high schools, and universities.",
+              "context_title": "Franklin Ellsworth",
+              "page_content": "Franklin Fowler Ellsworth attended the law department of the University of Minnesota at Minneapolis. Franklin Fowler Ellsworth attended grade schools. Franklin Fowler Ellsworth attended high schools."
+            },
+            {
+              "chunk_id": "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+              "chunk_title": "City Classification & Location",
+              "chunk_summary": "This chunk contains information about the classification and geographic location of cities, specifically identifying Minnetonka as a suburban city in Hennepin County, Minnesota, including its relative position to Minneapolis.",
+              "context_title": "Minnetonka, Minnesota",
+              "page_content": "Minnetonka is in Hennepin County. Minnetonka is 13 km west of Minneapolis. Minnetonka is eight miles west of Minneapolis. Hennepin County is in Minnesota. Minnetonka is a suburban city. Minnesota is in the United States."
+            },
+            {
+              "chunk_id": "5e2bd78c-c80b-405e-9b7f-1579794f7d15",
+              "chunk_title": "Locations & Venues",
+              "chunk_summary": "This chunk contains information about the locations of specific venues or buildings.",
+              "context_title": "A Prairie Home Companion",
+              "page_content": "The Fitzgerald Theater is in Saint Paul, Minnesota."
+            },
+            {
+              "chunk_id": "552d21d9-1f3c-41f0-8006-96b8100d2667",
+              "chunk_title": "Educational Locations",
+              "chunk_summary": "This chunk contains information about the locations of educational institutions and where specific classes are held.",
+              "context_title": "Minnesota Institute for Talented Youth",
+              "page_content": "Macalester College is in Saint Paul, Minnesota. Classes for Expand Your Mind take place at Macalester College."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What Minnesota county is that city in?",
+          "answer": "Hennepin County",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "What Minnesota county is Minneapolis in?",
+          "planner_rationale": "Q 的核心询问——确定大学所在城市所属的明尼苏达州县名。已 SOLVED + healthy，证据充分（3 个独立来源交叉验证 Minneapolis 位于 Hennepin County）。",
+          "solver_judgment": "question 要求确认 'that city'（根据 search_query 可知指 Minneapolis）所在的 Minnesota 县。search_query 搜索了 'What Minnesota county is Minneapolis in?'。chunks 返回了多条信息，其中 chunk d68cd0d7-95ac-4df6-9a35-b72179bb316b 明确记载 'Minneapolis is the county seat of Hennepin County'，chunk 25389e42-08c8-47fc-9ca8-ebff660e05e7 和 chunk 898801e4-1e48-4a2c-b3e8-2cf0518ae835 也提及 'Minneapolis, Hennepin County, Minnesota'。检索精准，信息完整，直接回答了问题。",
+          "critic_factual_notes": "3 个支撑来源，其中 3 个独立（文档 Minneapolis、文档 Richard Pillsbury Gale、文档 Walter Newton）。chunk d68cd0d7-95ac-4df6-9a35-b72179bb316b 明确记载 'Minneapolis is the county seat of Hennepin County'；chunk 25389e42-08c8-47fc-9ca8-ebff660e05e7 和 898801e4-1e48-4a2c-b3e8-2cf0518ae835 均提及 'Minneapolis, Hennepin County, Minnesota'。三个独立来源对核心事实表述一致，交叉验证通过。",
+          "critic_normative_advice": "证据充分，多来源一致，建议 INHERIT——下轮直接保留。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 3,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+            "25389e42-08c8-47fc-9ca8-ebff660e05e7",
+            "898801e4-1e48-4a2c-b3e8-2cf0518ae835"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+              "chunk_title": "City Administration",
+              "chunk_summary": "This chunk contains information about the administrative roles and locations of cities within counties.",
+              "context_title": "Minneapolis",
+              "page_content": "Minneapolis is the county seat of Hennepin County."
+            },
+            {
+              "chunk_id": "25389e42-08c8-47fc-9ca8-ebff660e05e7",
+              "chunk_title": "Birthplace & Origin",
+              "chunk_summary": "This chunk contains information about the birthplace and origin of individuals.",
+              "context_title": "Richard Pillsbury Gale",
+              "page_content": "Richard Pillsbury Gale was born in Minneapolis, Hennepin County, Minnesota."
+            },
+            {
+              "chunk_id": "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+              "chunk_title": "City Classification & Location",
+              "chunk_summary": "This chunk contains information about the classification and geographic location of cities, specifically identifying Minnetonka as a suburban city in Hennepin County, Minnesota, including its relative position to Minneapolis.",
+              "context_title": "Minnetonka, Minnesota",
+              "page_content": "Minnetonka is in Hennepin County. Minnetonka is 13 km west of Minneapolis. Minnetonka is eight miles west of Minneapolis. Hennepin County is in Minnesota. Minnetonka is a suburban city. Minnesota is in the United States."
+            },
+            {
+              "chunk_id": "898801e4-1e48-4a2c-b3e8-2cf0518ae835",
+              "chunk_title": "Biographical Details",
+              "chunk_summary": "This chunk contains biographical details about Walter Hughes Newton, including his birth and death dates, locations, and burial site.",
+              "context_title": "Walter Newton",
+              "page_content": "Walter Hughes Newton was born in Minneapolis, Hennepin County, Minnesota. Walter Hughes Newton died in Minneapolis, Minnesota. Walter Hughes Newton was interred in Lakewood Cemetery. Walter Hughes Newton was born on October 10, 1880. Walter Hughes Newton died on August 10, 1941."
+            },
+            {
+              "chunk_id": "71020347-f416-4022-882f-db30660c202c",
+              "chunk_title": "Locations & Movements",
+              "chunk_summary": "This chunk contains information about the geographical locations of cities, towns, institutions, and individual movements between them.",
+              "context_title": "Sydney Anderson",
+              "page_content": "Sydney Anderson moved to Kansas City, Missouri. Highland Park College is located in Des Moines, Iowa. Zumbrota is located in Goodhue County, Minnesota. Sydney Anderson moved from Kansas City, Missouri to Lanesboro, Minnesota. The University of Minnesota is located in Minneapolis."
+            },
+            {
+              "chunk_id": "7bb6cdf6-d37b-4ed9-9b6f-5394165f37f6",
+              "chunk_title": "City Population Rankings",
+              "chunk_summary": "This chunk contains information about the population size and rankings of specific cities within their states and nationally, including relevant dates.",
+              "context_title": "Minneapolis",
+              "page_content": "As of 2016, Minneapolis is the largest city in the state of Minnesota. As of 2016, Minneapolis has an estimated population of 413,651. As of 2016, Minneapolis is the 46th-largest city in the United States."
+            },
+            {
+              "chunk_id": "4262b8d9-a1a4-4809-95d5-da0acf63001f",
+              "chunk_title": "City Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of cities.",
+              "context_title": "Clinton, Minnesota",
+              "page_content": "Clinton is a city in Big Stone County, Minnesota, United States."
+            },
+            {
+              "chunk_id": "58b853cb-1aa4-465c-adbf-e14e0943249a",
+              "chunk_title": "Twin Cities Metro Stats",
+              "chunk_summary": "This chunk contains information about the size, population, ranking, and economic significance of the Twin Cities metropolitan area within the United States and the Midwest.",
+              "context_title": "Minneapolis",
+              "page_content": "The Twin Cities are the 16th-largest metropolitan area in the United States. The Twin Cities metropolitan area has about 3.5 million people. Minneapolis and Saint Paul anchor the second-largest economic center in the Midwest. Chicago anchors the largest economic center in the Midwest. The Twin Cities metropolitan area is the third largest in the Midwest. Minneapolis is the larger of the Twin Cities."
+            },
+            {
+              "chunk_id": "29a40001-b346-468a-81b0-54e734a6ab00",
+              "chunk_title": "Legal Career Milestones",
+              "chunk_summary": "This chunk contains information about the professional legal career milestones of Walter Hughes Newton, including his bar admission, practice locations, prosecutorial service, and judicial appointments.",
+              "context_title": "Walter Newton",
+              "page_content": "Walter Hughes Newton served as first assistant prosecuting attorney of Hennepin County from 1914 to 1918. Walter Hughes Newton was admitted to the bar in 1905. Walter Hughes Newton served as Federal Referee in Bankruptcy until his death. Walter Hughes Newton was appointed Federal Referee in Bankruptcy in 1938. Walter Hughes Newton resumed the practice of law in Minneapolis, Minnesota in 1934. Walter Hughes Newton commenced the practice of law in Minneapolis, Minnesota in 1905."
+            },
+            {
+              "chunk_id": "a3a8ed04-1734-4070-9bf4-78a651ea0813",
+              "chunk_title": "Abraham M. Radcliffe Biography",
+              "chunk_summary": "This chunk contains biographical and professional information about architect Abraham M. Radcliffe, including his life dates, locations of practice, specific building designs, and historical influence; add further details regarding his life, architectural works, or historical context here.",
+              "context_title": "Abraham M. Radcliffe",
+              "page_content": "Abraham M. Radcliffe was born in New York City. Abraham M. Radcliffe was born in 1827. Abraham M. Radcliffe opened a St. Paul office in 1858. Abraham M. Radcliffe was an architect. Abraham M. Radcliffe designed early commercial buildings in Minneapolis. Abraham M. Radcliffe inspired the architectural career of Cass Gilbert. Abraham M. Radcliffe designed early commercial buildings in St. Paul. Abraham M. Radcliffe died in 1886. Abraham M. Radcliffe opened a Minneapolis office in 1857. Abraham M. Radcliffe closed his Minneapolis office in 1868. Abraham M. Radcliffe designed the Dakota County Courthouse."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Where is the University of Minnesota located (city/campus)?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "71020347-f416-4022-882f-db30660c202c",
+        "e9348fc2-b5d4-4bb4-bfe2-9752e6dc0932",
+        "be392d02-6cbd-4ea6-ad3d-6210198b6098",
+        "7bb6cdf6-d37b-4ed9-9b6f-5394165f37f6",
+        "edd900be-b67b-41bd-b359-cf4e399462f3",
+        "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+        "0a682ad6-fba4-4f9e-bc90-062071050668",
+        "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+        "5e2bd78c-c80b-405e-9b7f-1579794f7d15",
+        "552d21d9-1f3c-41f0-8006-96b8100d2667"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "What Minnesota county is Minneapolis in?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "d68cd0d7-95ac-4df6-9a35-b72179bb316b",
+        "25389e42-08c8-47fc-9ca8-ebff660e05e7",
+        "e3444da9-aa6d-47c6-91f7-fe78f252b405",
+        "898801e4-1e48-4a2c-b3e8-2cf0518ae835",
+        "71020347-f416-4022-882f-db30660c202c",
+        "7bb6cdf6-d37b-4ed9-9b6f-5394165f37f6",
+        "4262b8d9-a1a4-4809-95d5-da0acf63001f",
+        "58b853cb-1aa4-465c-adbf-e14e0943249a",
+        "29a40001-b346-468a-81b0-54e734a6ab00",
+        "a3a8ed04-1734-4070-9bf4-78a651ea0813"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where is the University of Minnesota located (city/campus)?（理由：Q 询问大学所在的县，需先确定大学的具体地理位置，这是定位县名的前置事实），F2: What Minnesota county is that city in?（理由：Q 的核心询问——确定大学所在城市所属的明尼苏达州县名）。关系: F1 是 Q 的分解产物（decomposition——先确定大学位置），F2 依赖 F1（dependency——F2 的 question 中 'that city' 必须用 F1 的 answer 消解后才能搜索）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N0（根节点，INHERIT 保留），$1（question='Where is the University of Minnesota located (city/campus)?'），原因：Q 询问县名，需先定位大学的地理坐标。$2（question='What Minnesota county is that city in?'），原因：Q 的最终目标——确定县名。新增边: N0→$1（decomposition），原因：F1 是 Q 的第一步分解。$1→$2（dependency），原因：F2 的 'that city' 指代 F1 的答案，构成硬依赖。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：①所有非根节点已 SOLVED；②推理链语义匹配——N1_1 answer='Minneapolis' 有效消解 N1_2 question 中的 'that city' 指代，依赖链完整；③全部节点 healthy——N1_1 单来源但直接具体，N1_2 三来源一致，ROOT 推理链完整；④首轮无拓扑变化。答案置信度高：University of Minnesota 位于 Minn"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where is the University of Minnesota located (city/campus)?（理由：Q 询问大学所在的县，需先确定大学的具体地理位置，这是定位县名的前置事实），F2: What Minnesota county is that city in?（理由：Q 的核心询问——确定大学所在城市所属的明尼苏达州县名）。关系: F1 是 Q 的分解产物（decomposition——先确定大学位置），F2 依赖 F1（dependency——F2 的 question 中 'that city' 必须用 F1 的 answer 消解后才能搜索）。当前 DAG 已完全覆盖 Q 的语义需求，推理链完整：University of Minnesota → Minneapolis → Hennepin County。",
+      "hypothesis_delta": "本轮无结构调整——所有节点 INHERIT 保留，无边变更。原因：上一轮假设（F1 大学位置 + F2 城市所属县，F1→F2 dependency）被完全验证。N1_1 已 SOLVED（answer=Minneapolis，1 个直接来源支撑），N1_2 已 SOLVED（answer=Hennepin County，3 个独立来源交叉验证），Critic 判定两者均为 healthy。推理链完整且一致，Q 的语义需求已被完全覆盖，无需新增、删除或换标任何节点。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": true,
+        "condition_2_passed": true,
+        "condition_3_passed": true,
+        "reason": "四条件全满足：条件①（所有非根节点已 SOLVED）满足；条件④（本轮拓扑与上一轮一致）通过；条件②（推理链语义匹配）通过——N1_1 answer='Minneapolis' 语义消解 N1_2 question 中的 'that city'，依赖链完整；条件③（全部节点 healthy）通过——N0/N1_1/N1_2 均为 healthy。推理链完整（University of Minnes"
+      }
+    }
+  ]
+}

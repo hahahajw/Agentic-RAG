@@ -1,0 +1,1421 @@
+{
+  "question_index": 73,
+  "question_id": "2hop__31326_31270",
+  "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+  "answer": "45",
+  "prediction": "45",
+  "error": null,
+  "latency_ms": 537901.5076999785,
+  "dataset_type": "musique",
+  "timestamp": "2026-05-17T18:49:31.677789+00:00",
+  "chunks": [
+    {
+      "chunk_id": "8206e5f5-7822-420d-af30-8f5fe4429c8b",
+      "chunk_title": "Tennessee Corporate Locations",
+      "chunk_summary": "This chunk contains information about the headquarters locations of major corporations and significant industrial facilities based in Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "The North American headquarters of Nissan Motor Company is based in Franklin. Regal Entertainment Group is based in Knoxville. Hospital Corporation of America is based in Nashville. Tennessee is the location of the Volkswagen factory. The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville. Caterpillar Financial is a major corporation with headquarters in Tennessee. The North American headquarters of Nissan Motor Company is a major corporate presence with headquarters in Tennessee. Pilot Corporation is based in Knoxville. Unum is a major corporation with headquarters in Tennessee. Tennessee is the location of a $1.2 billion polysilicon production facility by Hemlock Semiconductor. Eastman Chemical Company is a major corporation with headquarters in Tennessee. Unum is based in Chattanooga. Eastman Chemical Company is based in Kingsport. Tennessee is the location of a $2 billion polysilicon production facility by Wacker Chemie. Caterpillar Financial is based in Nashville. Hospital Corporation of America is a major corporation with headquarters in Tennessee. The $2 billion polysilicon production facility by Wacker Chemie is in Bradley County. The Volkswagen factory is in Chattanooga."
+    },
+    {
+      "chunk_id": "003c01bf-e844-4cc8-83b5-151a26b32531",
+      "chunk_title": "Geographical Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and hierarchical relationships of specific places, including creeks, townships, counties, and countries.",
+      "context_title": "Frozen Run",
+      "page_content": "Frozen Run flows through Frosty Valley. Hemlock Creek is in Columbia County, Pennsylvania. Columbia County is in the United States. Frozen Run flows through Hemlock Township."
+    },
+    {
+      "chunk_id": "5f6ec7aa-31ef-44e9-bc11-124d14d1fcd9",
+      "chunk_title": "Stream Environment",
+      "chunk_summary": "This chunk contains information about the land cover, vegetation, and surrounding environment of streams.",
+      "context_title": "Devil Hole Run",
+      "page_content": "Hemlock trees are plantlife common in the vicinity of Devil Hole Run. The stream Devil Hole Run is mostly surrounded by forested land."
+    },
+    {
+      "chunk_id": "26aff08f-272a-4248-bdb5-ec538e2a8e66",
+      "chunk_title": "Optics Industry Scale & Focus",
+      "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, particularly highlighting Tucson's significant involvement and its nickname \"Optics Valley\".",
+      "context_title": "Tucson, Arizona",
+      "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has earned the nickname Optics Valley."
+    },
+    {
+      "chunk_id": "f309b440-9359-4ecf-842b-e7ad9b61d9c0",
+      "chunk_title": "Optics Industry Scale & Nicknames",
+      "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+      "context_title": "Tucson, Arizona",
+      "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has the nickname Optics Valley."
+    },
+    {
+      "chunk_id": "b58747f4-748d-4a0f-b150-0c4a2b64fc53",
+      "chunk_title": "Tributaries & Water Bodies",
+      "chunk_summary": "This chunk contains information about tributaries and their relationships to larger water bodies, including details on named and unnamed streams.",
+      "context_title": "Frozen Run",
+      "page_content": "Frozen Run has several unnamed tributaries. Frozen Run is a tributary of Hemlock Creek."
+    },
+    {
+      "chunk_id": "2af7feee-9666-4f87-a96c-66750abbbe7d",
+      "chunk_title": "Optics Industry Scale & Nicknames",
+      "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+      "context_title": "Tucson, Arizona",
+      "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+    },
+    {
+      "chunk_id": "c1f0a97b-097b-40e3-8b9f-4aa3af1c46fe",
+      "chunk_title": "Company Locations",
+      "chunk_summary": "This chunk contains information about the geographic locations of companies, including headquarters and production facilities.",
+      "context_title": "Richmond, Virginia",
+      "page_content": "The DuPont production facility in South Richmond is known as the Spruance Plant. McKesson is based in San Francisco. DuPont maintains a production facility in South Richmond. UPS Freight has its corporate headquarters in Richmond, Virginia."
+    },
+    {
+      "chunk_id": "ef808e30-0412-4337-9d8d-25ea7e1a53dd",
+      "chunk_title": "Optics Industry Scale & Focus",
+      "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, including details on company counts and regional nicknames.",
+      "context_title": "Tucson, Arizona",
+      "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+    },
+    {
+      "chunk_id": "5835a20c-04e4-47d5-b49f-76e496d5e16a",
+      "chunk_title": "Optics Industry Scale & Nickname",
+      "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+      "context_title": "Tucson, Arizona",
+      "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+    },
+    {
+      "chunk_id": "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+      "chunk_title": "Tennessee City Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is near the Great Smoky Mountains. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+    },
+    {
+      "chunk_id": "455a9a66-7694-446b-9d67-4a3731d5ef70",
+      "chunk_title": "Tennessee City Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+    },
+    {
+      "chunk_id": "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+      "chunk_title": "Tennessee City Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Chattanooga is near the Great Smoky Mountains. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Clarksville is some 45 miles (72 km) northwest of Nashville."
+    },
+    {
+      "chunk_id": "0758ecb6-892e-4c38-a928-f4c834023484",
+      "chunk_title": "Tennessee City Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Chattanooga is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville."
+    },
+    {
+      "chunk_id": "269802a0-3a31-43b5-8eaf-ebce433f7de0",
+      "chunk_title": "Tennessee City Locations",
+      "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Knoxville is in the eastern part of Tennessee. Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains."
+    },
+    {
+      "chunk_id": "a56a92ec-1006-440a-a6f0-99699906dd47",
+      "chunk_title": "Town Location & Classification",
+      "chunk_summary": "This chunk contains information about the location and classification of specific towns, such as Nolensville.",
+      "context_title": "Nolensville, Tennessee",
+      "page_content": "Nolensville is a town in Williamson County, Tennessee. Nolensville is located in Middle Tennessee. Nolensville is about 22 miles southeast of Nashville, Tennessee."
+    },
+    {
+      "chunk_id": "cb9bfe85-f70a-4393-88e1-bbf177c6bb11",
+      "chunk_title": "Tennessee City Populations",
+      "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Murfreesboro consists of some 108,755 residents. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Chattanooga has approximately one-third of the population of Memphis."
+    },
+    {
+      "chunk_id": "d46f2153-f6bc-4d94-b337-e3991a4a8f93",
+      "chunk_title": "Tennessee City Populations",
+      "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Murfreesboro is the sixth-largest city in Tennessee. Clarksville is a significant population center in Tennessee. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Memphis has the largest population of any city in Tennessee. Chattanooga has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Nashville's 13-county metropolitan area has been the state's largest metropolitan area in Tennessee since c. 1990."
+    },
+    {
+      "chunk_id": "a071b195-38b1-4477-a6ae-32d64b541408",
+      "chunk_title": "Tennessee City Populations",
+      "chunk_summary": "This chunk contains information about city and metropolitan area populations, rankings, and relative sizes within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Memphis. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Murfreesboro is the sixth-largest city in Tennessee. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990."
+    },
+    {
+      "chunk_id": "97de6680-8bde-457c-9c6c-1f425c775fcc",
+      "chunk_title": "Tennessee City Populations",
+      "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+      "context_title": "Tennessee",
+      "page_content": "Memphis has the largest population of any city in Tennessee. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Murfreesboro consists of some 108,755 residents. Clarksville is a significant population center in Tennessee. Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Memphis. Knoxville has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Nashville."
+    }
+  ],
+  "em": 1.0,
+  "f1": 1.0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "context_recall": 1.0,
+  "hit": 1,
+  "mrr": 1.0,
+  "retrieval_precision": 0.5,
+  "retrieval_count": 2,
+  "total_chunks": 20,
+  "total_distinct_titles": 6,
+  "search_depth": 5,
+  "search_path": null,
+  "sub_questions": null,
+  "total_rounds": 5,
+  "termination_reason": "max_rounds",
+  "dag_nodes": 3,
+  "dag_edges": 3,
+  "dag_snapshots": [
+    {
+      "q": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+      "round_number": 1,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Hemlock Semiconductor 生产电子元件的地点，以及从 Nashville 到该地点的英里距离",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链聚合。子节点 N1_1 的 answer='Clarksville, Tennessee'（单来源，语义存在 polysilicon vs electronic components 的粒度差异），N1_2 的 answer='45'（5 个 chunk 一致，但均来自同一文档 Tennessee）。推理链结构完整（N1_1→N1_2 依赖有效），但 N1_1 的证据存在语义缺口，影响 ROOT 的整体置信度。",
+          "critic_normative_advice": "建议保留当前结构，但需关注 N1_1 的语义匹配问题——KB 中仅提及 'polysilicon production facility' 而非 'electronic components'，若 KB 无更精确覆盖，可接受此近似；若有其他 Hemlock Semiconductor 相关文档，建议补充搜索以确认 'electronic components' 的生产地点。",
+          "round_created": 0,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where does Hemlock Semiconductor produce electronic components?",
+          "answer": "Clarksville, Tennessee",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Where does Hemlock Semiconductor produce electronic components?",
+          "planner_rationale": "Q 询问从 Nashville 到 Hemlock Semiconductor 生产电子元件的地点的距离，必须先确定该生产地点的具体位置",
+          "solver_judgment": "question 要求确认 Hemlock Semiconductor 生产电子元件的地点。search_query 直接使用了原问题。chunks 中的 8206e5f5... 明确指出 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville' 并多次提及 Tennessee。虽然原文具体指 'polysilicon（多晶硅）生产设施' 而非直接写 'electronic components'，但多晶硅是半导体及电子元件制造的核心基础材料，且该 chunk 是唯一提及该公司生产地点的文本。检索精准命中目标实体与地点，信息完整。",
+          "critic_factual_notes": "1 个来源（文档 Tennessee，chunk 8206e5f5）。该 chunk 明确陈述 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville'，但原文使用的是 'polysilicon production facility'（多晶硅生产设施），而非问题中的 'electronic components'（电子元件）。Solver 自行推理多晶硅是电子元件制造的基础材料从而建立关联。交叉验证：不充分（仅 1 个来源，且存在语义粒度差异）。",
+          "critic_normative_advice": "建议 INHERIT 但标注语义不确定性——当前 KB 中这是唯一提及 Hemlock Semiconductor 生产地点的文本。若 KB 无其他相关文档，此答案可作为最佳近似接受；若后续搜索发现 Hemlock Semiconductor 另有 'electronic components' 生产设施，需修正。当前证据不足以标记 healthy，因为答案与 chunk 内容存在术语不匹配。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "8206e5f5-7822-420d-af30-8f5fe4429c8b"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "8206e5f5-7822-420d-af30-8f5fe4429c8b",
+              "chunk_title": "Tennessee Corporate Locations",
+              "chunk_summary": "This chunk contains information about the headquarters locations of major corporations and significant industrial facilities based in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "The North American headquarters of Nissan Motor Company is based in Franklin. Regal Entertainment Group is based in Knoxville. Hospital Corporation of America is based in Nashville. Tennessee is the location of the Volkswagen factory. The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville. Caterpillar Financial is a major corporation with headquarters in Tennessee. The North American headquarters of Nissan Motor Company is a major corporate presence with headquarters in Tennessee. Pilot Corporation is based in Knoxville. Unum is a major corporation with headquarters in Tennessee. Tennessee is the location of a $1.2 billion polysilicon production facility by Hemlock Semiconductor. Eastman Chemical Company is a major corporation with headquarters in Tennessee. Unum is based in Chattanooga. Eastman Chemical Company is based in Kingsport. Tennessee is the location of a $2 billion polysilicon production facility by Wacker Chemie. Caterpillar Financial is based in Nashville. Hospital Corporation of America is a major corporation with headquarters in Tennessee. The $2 billion polysilicon production facility by Wacker Chemie is in Bradley County. The Volkswagen factory is in Chattanooga."
+            },
+            {
+              "chunk_id": "003c01bf-e844-4cc8-83b5-151a26b32531",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and hierarchical relationships of specific places, including creeks, townships, counties, and countries.",
+              "context_title": "Frozen Run",
+              "page_content": "Frozen Run flows through Frosty Valley. Hemlock Creek is in Columbia County, Pennsylvania. Columbia County is in the United States. Frozen Run flows through Hemlock Township."
+            },
+            {
+              "chunk_id": "5f6ec7aa-31ef-44e9-bc11-124d14d1fcd9",
+              "chunk_title": "Stream Environment",
+              "chunk_summary": "This chunk contains information about the land cover, vegetation, and surrounding environment of streams.",
+              "context_title": "Devil Hole Run",
+              "page_content": "Hemlock trees are plantlife common in the vicinity of Devil Hole Run. The stream Devil Hole Run is mostly surrounded by forested land."
+            },
+            {
+              "chunk_id": "26aff08f-272a-4248-bdb5-ec538e2a8e66",
+              "chunk_title": "Optics Industry Scale & Focus",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, particularly highlighting Tucson's significant involvement and its nickname \"Optics Valley\".",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has earned the nickname Optics Valley."
+            },
+            {
+              "chunk_id": "f309b440-9359-4ecf-842b-e7ad9b61d9c0",
+              "chunk_title": "Optics Industry Scale & Nicknames",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has the nickname Optics Valley."
+            },
+            {
+              "chunk_id": "b58747f4-748d-4a0f-b150-0c4a2b64fc53",
+              "chunk_title": "Tributaries & Water Bodies",
+              "chunk_summary": "This chunk contains information about tributaries and their relationships to larger water bodies, including details on named and unnamed streams.",
+              "context_title": "Frozen Run",
+              "page_content": "Frozen Run has several unnamed tributaries. Frozen Run is a tributary of Hemlock Creek."
+            },
+            {
+              "chunk_id": "2af7feee-9666-4f87-a96c-66750abbbe7d",
+              "chunk_title": "Optics Industry Scale & Nicknames",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            },
+            {
+              "chunk_id": "c1f0a97b-097b-40e3-8b9f-4aa3af1c46fe",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of companies, including headquarters and production facilities.",
+              "context_title": "Richmond, Virginia",
+              "page_content": "The DuPont production facility in South Richmond is known as the Spruance Plant. McKesson is based in San Francisco. DuPont maintains a production facility in South Richmond. UPS Freight has its corporate headquarters in Richmond, Virginia."
+            },
+            {
+              "chunk_id": "ef808e30-0412-4337-9d8d-25ea7e1a53dd",
+              "chunk_title": "Optics Industry Scale & Focus",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, including details on company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            },
+            {
+              "chunk_id": "5835a20c-04e4-47d5-b49f-76e496d5e16a",
+              "chunk_title": "Optics Industry Scale & Nickname",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the distance in miles from Nashville to that place?",
+          "answer": "45",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "distance in miles from Nashville to Clarksville, Tennessee",
+          "planner_rationale": "Q 的核心询问——从 Nashville 到上述生产地点的英里距离，需要先用 N1 的 answer 消解 'that place' 指代",
+          "solver_judgment": "question 要求确认从 Nashville 到 'that place' 的距离（英里）。search_query 搜索了 'distance in miles from Nashville to Clarksville, Tennessee'，明确了 'that place' 指代 Clarksville。chunks 返回了多个 Tennessee City Locations 片段，其中均明确记载 'Clarksville is some 45 miles (72 km) northwest of Nashville'，直接提供了 45 英里的答案。检索精准，信息完整。",
+          "critic_factual_notes": "5 个支撑 chunk（f928d974, 455a9a66, 183366a3, 0758ecb6, 269802a0），均来自同一文档 Tennessee（Tennessee City Locations）。所有 5 个 chunk 一致陈述 'Clarksville is some 45 miles (72 km) northwest of Nashville'。来源数量：5 个 chunk，1 个独立文档。一致性：完全一致。交叉验证：通过（多 chunk 一致确认）。依赖源 N1_1 的 answer='Clarksville, Tennessee' 有效消解了 'that place' 指代。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多 chunk 一致确认 45 英里距离，依赖链语义有效。",
+          "round_created": 1,
+          "round_last_updated": 1,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+            "455a9a66-7694-446b-9d67-4a3731d5ef70",
+            "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+            "0758ecb6-892e-4c38-a928-f4c834023484",
+            "269802a0-3a31-43b5-8eaf-ebce433f7de0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is near the Great Smoky Mountains. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+            },
+            {
+              "chunk_id": "455a9a66-7694-446b-9d67-4a3731d5ef70",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+            },
+            {
+              "chunk_id": "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Clarksville is some 45 miles (72 km) northwest of Nashville."
+            },
+            {
+              "chunk_id": "0758ecb6-892e-4c38-a928-f4c834023484",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville."
+            },
+            {
+              "chunk_id": "269802a0-3a31-43b5-8eaf-ebce433f7de0",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Knoxville is in the eastern part of Tennessee. Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains."
+            },
+            {
+              "chunk_id": "a56a92ec-1006-440a-a6f0-99699906dd47",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of specific towns, such as Nolensville.",
+              "context_title": "Nolensville, Tennessee",
+              "page_content": "Nolensville is a town in Williamson County, Tennessee. Nolensville is located in Middle Tennessee. Nolensville is about 22 miles southeast of Nashville, Tennessee."
+            },
+            {
+              "chunk_id": "cb9bfe85-f70a-4393-88e1-bbf177c6bb11",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Murfreesboro consists of some 108,755 residents. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Chattanooga has approximately one-third of the population of Memphis."
+            },
+            {
+              "chunk_id": "d46f2153-f6bc-4d94-b337-e3991a4a8f93",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Murfreesboro is the sixth-largest city in Tennessee. Clarksville is a significant population center in Tennessee. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Memphis has the largest population of any city in Tennessee. Chattanooga has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Nashville's 13-county metropolitan area has been the state's largest metropolitan area in Tennessee since c. 1990."
+            },
+            {
+              "chunk_id": "a071b195-38b1-4477-a6ae-32d64b541408",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city and metropolitan area populations, rankings, and relative sizes within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Memphis. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Murfreesboro is the sixth-largest city in Tennessee. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990."
+            },
+            {
+              "chunk_id": "97de6680-8bde-457c-9c6c-1f425c775fcc",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Memphis has the largest population of any city in Tennessee. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Murfreesboro consists of some 108,755 residents. Clarksville is a significant population center in Tennessee. Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Memphis. Knoxville has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Nashville."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+      "round_number": 2,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Hemlock Semiconductor 生产电子元件的地点，以及从 Nashville 到该地点的英里距离",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链聚合。子节点 N1_1 的 answer='Clarksville, Tennessee'（单来源，KB 原文为 'polysilicon production facility' 而非 'electronic components'，存在术语粒度差异），N1_2 的 answer='45'（5 个 chunk 一致确认，均来自同一文档 Tennessee）。推理链结构完整（N1_1→N1_2 依赖有效），但 N1_1 的语义缺口导致 ROOT 整体置信度不足。",
+          "critic_normative_advice": "建议保留当前结构。N1_1 的语义不确定性（polysilicon vs electronic components）是 KB 覆盖限制而非结构缺陷——其他 9 个检索结果均不相关，说明 KB 无更精确匹配。若 KB 确无 'electronic components' 直接表述，此近似可接受；但 ROOT 的 health 需随 N1_1 同步标记为 needs_verification。",
+          "round_created": 0,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where does Hemlock Semiconductor produce electronic components?",
+          "answer": "Clarksville, Tennessee",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Where does Hemlock Semiconductor produce electronic components?",
+          "planner_rationale": "Q 询问从 Nashville 到 Hemlock Semiconductor 生产电子元件的地点的距离，必须先确定该生产地点的具体位置。KB 中唯一提及 Hemlock Semiconductor 生产设施的是 Clarksville, Tennessee 的多晶硅生产设施——多晶硅是半导体/电子元件制造的核心基础材料，在 KB 无更精确覆盖的情况下，此答案可作为最佳近似接受",
+          "solver_judgment": "question 要求确认 Hemlock Semiconductor 生产电子元件的地点。search_query 直接使用了原问题。chunks 中的 8206e5f5... 明确指出 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville' 并多次提及 Tennessee。虽然原文具体指 'polysilicon（多晶硅）生产设施' 而非直接写 'electronic components'，但多晶硅是半导体及电子元件制造的核心基础材料，且该 chunk 是唯一提及该公司生产地点的文本。检索精准命中目标实体与地点，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Tennessee，chunk 8206e5f5）。该 chunk 明确陈述 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville'，但原文使用 'polysilicon production facility'（多晶硅生产设施），而非问题中的 'electronic components'（电子元件）。Solver 自行推理多晶硅是半导体/电子元件制造的基础材料从而建立关联。交叉验证：不充分（仅 1 个来源，且存在术语不匹配）。其余 9 个检索结果（Tucson 光学产业、Frozen Run 等）均不相关。",
+          "critic_normative_advice": "建议 INHERIT 但保持 needs_verification——当前 KB 中这是唯一提及 Hemlock Semiconductor 生产地点的文本，其他搜索方向已穷尽且无改善。多晶硅与电子元件的关联是合理推理但非直接陈述，证据不足以标记 healthy。若 KB 确无更精确覆盖，此答案可作为最佳近似接受。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "8206e5f5-7822-420d-af30-8f5fe4429c8b"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "8206e5f5-7822-420d-af30-8f5fe4429c8b",
+              "chunk_title": "Tennessee Corporate Locations",
+              "chunk_summary": "This chunk contains information about the headquarters locations of major corporations and significant industrial facilities based in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "The North American headquarters of Nissan Motor Company is based in Franklin. Regal Entertainment Group is based in Knoxville. Hospital Corporation of America is based in Nashville. Tennessee is the location of the Volkswagen factory. The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville. Caterpillar Financial is a major corporation with headquarters in Tennessee. The North American headquarters of Nissan Motor Company is a major corporate presence with headquarters in Tennessee. Pilot Corporation is based in Knoxville. Unum is a major corporation with headquarters in Tennessee. Tennessee is the location of a $1.2 billion polysilicon production facility by Hemlock Semiconductor. Eastman Chemical Company is a major corporation with headquarters in Tennessee. Unum is based in Chattanooga. Eastman Chemical Company is based in Kingsport. Tennessee is the location of a $2 billion polysilicon production facility by Wacker Chemie. Caterpillar Financial is based in Nashville. Hospital Corporation of America is a major corporation with headquarters in Tennessee. The $2 billion polysilicon production facility by Wacker Chemie is in Bradley County. The Volkswagen factory is in Chattanooga."
+            },
+            {
+              "chunk_id": "003c01bf-e844-4cc8-83b5-151a26b32531",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and hierarchical relationships of specific places, including creeks, townships, counties, and countries.",
+              "context_title": "Frozen Run",
+              "page_content": "Frozen Run flows through Frosty Valley. Hemlock Creek is in Columbia County, Pennsylvania. Columbia County is in the United States. Frozen Run flows through Hemlock Township."
+            },
+            {
+              "chunk_id": "5f6ec7aa-31ef-44e9-bc11-124d14d1fcd9",
+              "chunk_title": "Stream Environment",
+              "chunk_summary": "This chunk contains information about the land cover, vegetation, and surrounding environment of streams.",
+              "context_title": "Devil Hole Run",
+              "page_content": "Hemlock trees are plantlife common in the vicinity of Devil Hole Run. The stream Devil Hole Run is mostly surrounded by forested land."
+            },
+            {
+              "chunk_id": "26aff08f-272a-4248-bdb5-ec538e2a8e66",
+              "chunk_title": "Optics Industry Scale & Focus",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, particularly highlighting Tucson's significant involvement and its nickname \"Optics Valley\".",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has earned the nickname Optics Valley."
+            },
+            {
+              "chunk_id": "f309b440-9359-4ecf-842b-e7ad9b61d9c0",
+              "chunk_title": "Optics Industry Scale & Nicknames",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has the nickname Optics Valley."
+            },
+            {
+              "chunk_id": "b58747f4-748d-4a0f-b150-0c4a2b64fc53",
+              "chunk_title": "Tributaries & Water Bodies",
+              "chunk_summary": "This chunk contains information about tributaries and their relationships to larger water bodies, including details on named and unnamed streams.",
+              "context_title": "Frozen Run",
+              "page_content": "Frozen Run has several unnamed tributaries. Frozen Run is a tributary of Hemlock Creek."
+            },
+            {
+              "chunk_id": "2af7feee-9666-4f87-a96c-66750abbbe7d",
+              "chunk_title": "Optics Industry Scale & Nicknames",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            },
+            {
+              "chunk_id": "c1f0a97b-097b-40e3-8b9f-4aa3af1c46fe",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of companies, including headquarters and production facilities.",
+              "context_title": "Richmond, Virginia",
+              "page_content": "The DuPont production facility in South Richmond is known as the Spruance Plant. McKesson is based in San Francisco. DuPont maintains a production facility in South Richmond. UPS Freight has its corporate headquarters in Richmond, Virginia."
+            },
+            {
+              "chunk_id": "ef808e30-0412-4337-9d8d-25ea7e1a53dd",
+              "chunk_title": "Optics Industry Scale & Focus",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, including details on company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            },
+            {
+              "chunk_id": "5835a20c-04e4-47d5-b49f-76e496d5e16a",
+              "chunk_title": "Optics Industry Scale & Nickname",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the distance in miles from Nashville to that place?",
+          "answer": "45",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "distance in miles from Nashville to Clarksville, Tennessee",
+          "planner_rationale": "Q 的核心询问——从 Nashville 到上述生产地点的英里距离，需要先用 N1_1 的 answer 消解 'that place' 指代。5 个 chunk 一致确认 Clarksville 距 Nashville 约 45 英里，证据充分",
+          "solver_judgment": "question 要求确认从 Nashville 到 'that place' 的距离（英里）。search_query 搜索了 'distance in miles from Nashville to Clarksville, Tennessee'，明确了 'that place' 指代 Clarksville。chunks 返回了多个 Tennessee City Locations 片段，其中均明确记载 'Clarksville is some 45 miles (72 km) northwest of Nashville'，直接提供了 45 英里的答案。检索精准，信息完整。",
+          "critic_factual_notes": "5 个支撑来源（均来自同一文档 Tennessee，chunks f928d974, 455a9a66, 183366a3, 0758ecb6, 269802a0）。所有 5 个 chunk 一致陈述 'Clarksville is some 45 miles (72 km) northwest of Nashville'。来源数量：5 个 chunk，1 个独立文档。一致性：完全一致。交叉验证：通过（多 chunk 一致确认）。依赖源 N1_1 的 answer='Clarksville, Tennessee' 有效消解了 'that place' 指代。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多 chunk 一致确认 45 英里距离，依赖链语义有效。",
+          "round_created": 1,
+          "round_last_updated": 2,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+            "455a9a66-7694-446b-9d67-4a3731d5ef70",
+            "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+            "0758ecb6-892e-4c38-a928-f4c834023484",
+            "269802a0-3a31-43b5-8eaf-ebce433f7de0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is near the Great Smoky Mountains. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+            },
+            {
+              "chunk_id": "455a9a66-7694-446b-9d67-4a3731d5ef70",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+            },
+            {
+              "chunk_id": "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Clarksville is some 45 miles (72 km) northwest of Nashville."
+            },
+            {
+              "chunk_id": "0758ecb6-892e-4c38-a928-f4c834023484",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville."
+            },
+            {
+              "chunk_id": "269802a0-3a31-43b5-8eaf-ebce433f7de0",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Knoxville is in the eastern part of Tennessee. Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains."
+            },
+            {
+              "chunk_id": "a56a92ec-1006-440a-a6f0-99699906dd47",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of specific towns, such as Nolensville.",
+              "context_title": "Nolensville, Tennessee",
+              "page_content": "Nolensville is a town in Williamson County, Tennessee. Nolensville is located in Middle Tennessee. Nolensville is about 22 miles southeast of Nashville, Tennessee."
+            },
+            {
+              "chunk_id": "cb9bfe85-f70a-4393-88e1-bbf177c6bb11",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Murfreesboro consists of some 108,755 residents. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Chattanooga has approximately one-third of the population of Memphis."
+            },
+            {
+              "chunk_id": "d46f2153-f6bc-4d94-b337-e3991a4a8f93",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Murfreesboro is the sixth-largest city in Tennessee. Clarksville is a significant population center in Tennessee. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Memphis has the largest population of any city in Tennessee. Chattanooga has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Nashville's 13-county metropolitan area has been the state's largest metropolitan area in Tennessee since c. 1990."
+            },
+            {
+              "chunk_id": "a071b195-38b1-4477-a6ae-32d64b541408",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city and metropolitan area populations, rankings, and relative sizes within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Memphis. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Murfreesboro is the sixth-largest city in Tennessee. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990."
+            },
+            {
+              "chunk_id": "97de6680-8bde-457c-9c6c-1f425c775fcc",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Memphis has the largest population of any city in Tennessee. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Murfreesboro consists of some 108,755 residents. Clarksville is a significant population center in Tennessee. Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Memphis. Knoxville has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Nashville."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+      "round_number": 3,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点，需要确立 Hemlock Semiconductor 生产电子元件的地点，以及从 Nashville 到该地点的英里距离。子节点 N1_1 和 N1_2 均已 SOLVED，推理链完整。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链聚合。子节点 N1_1 的 answer='Clarksville, Tennessee'（单来源，KB 原文为 'polysilicon production facility' 而非 'electronic components'，存在术语粒度差异），N1_2 的 answer='45'（5 个 chunk 一致确认，均来自同一文档 Tennessee）。推理链结构完整（N1_1→N1_2 依赖有效），但 N1_1 的语义不确定性导致 ROOT 整体置信度不足。",
+          "critic_normative_advice": "建议保留当前结构。N1_1 的语义不确定性（polysilicon vs electronic components）是 KB 覆盖限制而非结构缺陷——其他 9 个检索结果均不相关，说明 KB 无更精确匹配。若 KB 确无 'electronic components' 直接表述，此近似可接受；但 ROOT 的 health 需随 N1_1 同步标记为 needs_verification。",
+          "round_created": 0,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where does Hemlock Semiconductor produce electronic components?",
+          "answer": "Clarksville, Tennessee",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Where does Hemlock Semiconductor produce electronic components?",
+          "planner_rationale": "Q 询问从 Nashville 到 Hemlock Semiconductor 生产电子元件的地点的距离，必须先确定该生产地点的具体位置。KB 中唯一提及 Hemlock Semiconductor 生产设施的是 Clarksville, Tennessee 的多晶硅生产设施——多晶硅是半导体/电子元件制造的核心基础材料，在 KB 无更精确覆盖的情况下，此答案可作为最佳近似接受。",
+          "solver_judgment": "question 要求确认 Hemlock Semiconductor 生产电子元件的地点。search_query 直接使用了原问题。chunks 中的 8206e5f5... 明确指出 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville' 并多次提及 Tennessee。虽然原文具体指 'polysilicon（多晶硅）生产设施' 而非直接写 'electronic components'，但多晶硅是半导体及电子元件制造的核心基础材料，且该 chunk 是唯一提及该公司生产地点的文本。检索精准命中目标实体与地点，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Tennessee，chunk 8206e5f5）。该 chunk 明确陈述 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville'，但原文使用 'polysilicon production facility'（多晶硅生产设施），而非问题中的 'electronic components'（电子元件）。Solver 自行推理多晶硅是半导体/电子元件制造的基础材料从而建立关联。交叉验证：不充分（仅 1 个来源，且存在术语不匹配）。其余 9 个检索结果（Tucson 光学产业、Frozen Run 等）均不相关。",
+          "critic_normative_advice": "建议 INHERIT 但保持 needs_verification——当前 KB 中这是唯一提及 Hemlock Semiconductor 生产地点的文本，其他搜索方向已穷尽且无改善。多晶硅与电子元件的关联是合理推理但非直接陈述，证据不足以标记 healthy。若 KB 确无更精确覆盖，此答案可作为最佳近似接受。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "8206e5f5-7822-420d-af30-8f5fe4429c8b"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "8206e5f5-7822-420d-af30-8f5fe4429c8b",
+              "chunk_title": "Tennessee Corporate Locations",
+              "chunk_summary": "This chunk contains information about the headquarters locations of major corporations and significant industrial facilities based in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "The North American headquarters of Nissan Motor Company is based in Franklin. Regal Entertainment Group is based in Knoxville. Hospital Corporation of America is based in Nashville. Tennessee is the location of the Volkswagen factory. The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville. Caterpillar Financial is a major corporation with headquarters in Tennessee. The North American headquarters of Nissan Motor Company is a major corporate presence with headquarters in Tennessee. Pilot Corporation is based in Knoxville. Unum is a major corporation with headquarters in Tennessee. Tennessee is the location of a $1.2 billion polysilicon production facility by Hemlock Semiconductor. Eastman Chemical Company is a major corporation with headquarters in Tennessee. Unum is based in Chattanooga. Eastman Chemical Company is based in Kingsport. Tennessee is the location of a $2 billion polysilicon production facility by Wacker Chemie. Caterpillar Financial is based in Nashville. Hospital Corporation of America is a major corporation with headquarters in Tennessee. The $2 billion polysilicon production facility by Wacker Chemie is in Bradley County. The Volkswagen factory is in Chattanooga."
+            },
+            {
+              "chunk_id": "003c01bf-e844-4cc8-83b5-151a26b32531",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and hierarchical relationships of specific places, including creeks, townships, counties, and countries.",
+              "context_title": "Frozen Run",
+              "page_content": "Frozen Run flows through Frosty Valley. Hemlock Creek is in Columbia County, Pennsylvania. Columbia County is in the United States. Frozen Run flows through Hemlock Township."
+            },
+            {
+              "chunk_id": "5f6ec7aa-31ef-44e9-bc11-124d14d1fcd9",
+              "chunk_title": "Stream Environment",
+              "chunk_summary": "This chunk contains information about the land cover, vegetation, and surrounding environment of streams.",
+              "context_title": "Devil Hole Run",
+              "page_content": "Hemlock trees are plantlife common in the vicinity of Devil Hole Run. The stream Devil Hole Run is mostly surrounded by forested land."
+            },
+            {
+              "chunk_id": "26aff08f-272a-4248-bdb5-ec538e2a8e66",
+              "chunk_title": "Optics Industry Scale & Focus",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, particularly highlighting Tucson's significant involvement and its nickname \"Optics Valley\".",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has earned the nickname Optics Valley."
+            },
+            {
+              "chunk_id": "f309b440-9359-4ecf-842b-e7ad9b61d9c0",
+              "chunk_title": "Optics Industry Scale & Nicknames",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has the nickname Optics Valley."
+            },
+            {
+              "chunk_id": "b58747f4-748d-4a0f-b150-0c4a2b64fc53",
+              "chunk_title": "Tributaries & Water Bodies",
+              "chunk_summary": "This chunk contains information about tributaries and their relationships to larger water bodies, including details on named and unnamed streams.",
+              "context_title": "Frozen Run",
+              "page_content": "Frozen Run has several unnamed tributaries. Frozen Run is a tributary of Hemlock Creek."
+            },
+            {
+              "chunk_id": "2af7feee-9666-4f87-a96c-66750abbbe7d",
+              "chunk_title": "Optics Industry Scale & Nicknames",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            },
+            {
+              "chunk_id": "c1f0a97b-097b-40e3-8b9f-4aa3af1c46fe",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of companies, including headquarters and production facilities.",
+              "context_title": "Richmond, Virginia",
+              "page_content": "The DuPont production facility in South Richmond is known as the Spruance Plant. McKesson is based in San Francisco. DuPont maintains a production facility in South Richmond. UPS Freight has its corporate headquarters in Richmond, Virginia."
+            },
+            {
+              "chunk_id": "ef808e30-0412-4337-9d8d-25ea7e1a53dd",
+              "chunk_title": "Optics Industry Scale & Focus",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, including details on company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            },
+            {
+              "chunk_id": "5835a20c-04e4-47d5-b49f-76e496d5e16a",
+              "chunk_title": "Optics Industry Scale & Nickname",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the distance in miles from Nashville to that place?",
+          "answer": "45",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "distance in miles from Nashville to Clarksville, Tennessee",
+          "planner_rationale": "Q 的核心询问——从 Nashville 到上述生产地点的英里距离，需要先用 N1_1 的 answer 消解 'that place' 指代。5 个 chunk 一致确认 Clarksville 距 Nashville 约 45 英里，证据充分。",
+          "solver_judgment": "question 要求确认从 Nashville 到 'that place' 的距离（英里）。search_query 搜索了 'distance in miles from Nashville to Clarksville, Tennessee'，明确了 'that place' 指代 Clarksville。chunks 返回了多个 Tennessee City Locations 片段，其中均明确记载 'Clarksville is some 45 miles (72 km) northwest of Nashville'，直接提供了 45 英里的答案。检索精准，信息完整。",
+          "critic_factual_notes": "5 个支撑来源（均来自同一文档 Tennessee，chunks f928d974, 455a9a66, 183366a3, 0758ecb6, 269802a0）。所有 5 个 chunk 一致陈述 'Clarksville is some 45 miles (72 km) northwest of Nashville'。来源数量：5 个 chunk，1 个独立文档。一致性：完全一致。交叉验证：通过（多 chunk 一致确认）。依赖源 N1_1 的 answer='Clarksville, Tennessee' 有效消解了 'that place' 指代。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多 chunk 一致确认 45 英里距离，依赖链语义有效。",
+          "round_created": 1,
+          "round_last_updated": 3,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+            "455a9a66-7694-446b-9d67-4a3731d5ef70",
+            "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+            "0758ecb6-892e-4c38-a928-f4c834023484",
+            "269802a0-3a31-43b5-8eaf-ebce433f7de0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is near the Great Smoky Mountains. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+            },
+            {
+              "chunk_id": "455a9a66-7694-446b-9d67-4a3731d5ef70",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+            },
+            {
+              "chunk_id": "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Clarksville is some 45 miles (72 km) northwest of Nashville."
+            },
+            {
+              "chunk_id": "0758ecb6-892e-4c38-a928-f4c834023484",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville."
+            },
+            {
+              "chunk_id": "269802a0-3a31-43b5-8eaf-ebce433f7de0",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Knoxville is in the eastern part of Tennessee. Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains."
+            },
+            {
+              "chunk_id": "a56a92ec-1006-440a-a6f0-99699906dd47",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of specific towns, such as Nolensville.",
+              "context_title": "Nolensville, Tennessee",
+              "page_content": "Nolensville is a town in Williamson County, Tennessee. Nolensville is located in Middle Tennessee. Nolensville is about 22 miles southeast of Nashville, Tennessee."
+            },
+            {
+              "chunk_id": "cb9bfe85-f70a-4393-88e1-bbf177c6bb11",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Murfreesboro consists of some 108,755 residents. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Chattanooga has approximately one-third of the population of Memphis."
+            },
+            {
+              "chunk_id": "d46f2153-f6bc-4d94-b337-e3991a4a8f93",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Murfreesboro is the sixth-largest city in Tennessee. Clarksville is a significant population center in Tennessee. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Memphis has the largest population of any city in Tennessee. Chattanooga has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Nashville's 13-county metropolitan area has been the state's largest metropolitan area in Tennessee since c. 1990."
+            },
+            {
+              "chunk_id": "a071b195-38b1-4477-a6ae-32d64b541408",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city and metropolitan area populations, rankings, and relative sizes within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Memphis. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Murfreesboro is the sixth-largest city in Tennessee. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990."
+            },
+            {
+              "chunk_id": "97de6680-8bde-457c-9c6c-1f425c775fcc",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Memphis has the largest population of any city in Tennessee. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Murfreesboro consists of some 108,755 residents. Clarksville is a significant population center in Tennessee. Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Memphis. Knoxville has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Nashville."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+      "round_number": 4,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1（Hemlock 生产地点=Clarksville, Tennessee）和 N1_2（距离=45 英里）均已 SOLVED，推理链完整。N1_1 存在术语粒度差异（polysilicon vs electronic components），但 KB 已穷尽搜索无更精确匹配，此近似可接受。ROOT 答案可由子节点推理链聚合：45 英里。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链聚合。子节点 N1_1 的 answer='Clarksville, Tennessee'（单来源，KB 原文为 'polysilicon production facility' 而非 'electronic components'，存在术语粒度差异），N1_2 的 answer='45'（5 个 chunk 一致确认，均来自同一文档 Tennessee）。推理链结构完整（N1_1→N1_2 依赖有效），但 N1_1 的语义不确定性导致 ROOT 整体置信度不足。",
+          "critic_normative_advice": "建议保留当前结构。N1_1 的语义不确定性（polysilicon vs electronic components）是 KB 覆盖限制而非结构缺陷——其他 9 个检索结果均不相关，说明 KB 无更精确匹配。若 KB 确无 'electronic components' 直接表述，此近似可接受；但 ROOT 的 health 需随 N1_1 同步标记为 needs_verification。",
+          "round_created": 0,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where does Hemlock Semiconductor produce electronic components?",
+          "answer": "Clarksville, Tennessee",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Where does Hemlock Semiconductor produce electronic components?",
+          "planner_rationale": "Q 询问从 Nashville 到 Hemlock Semiconductor 生产电子元件的地点的距离，必须先确定该生产地点。KB 中唯一提及 Hemlock Semiconductor 生产设施的是 Clarksville, Tennessee 的多晶硅生产设施——多晶硅是半导体/电子元件制造的核心基础材料，KB 无更精确覆盖，此答案作为最佳近似接受。",
+          "solver_judgment": "question 要求确认 Hemlock Semiconductor 生产电子元件的地点。search_query 直接使用了原问题。chunks 中的 8206e5f5... 明确指出 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville' 并多次提及 Tennessee。虽然原文具体指 'polysilicon（多晶硅）生产设施' 而非直接写 'electronic components'，但多晶硅是半导体及电子元件制造的核心基础材料，且该 chunk 是唯一提及该公司生产地点的文本。检索精准命中目标实体与地点，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Tennessee，chunk 8206e5f5）。该 chunk 明确陈述 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville'，但原文使用 'polysilicon production facility'（多晶硅生产设施），而非问题中的 'electronic components'（电子元件）。Solver 自行推理多晶硅是半导体/电子元件制造的基础材料从而建立关联。交叉验证：不充分（仅 1 个来源，且存在术语不匹配）。其余 9 个检索结果（Tucson 光学产业、Frozen Run 等）均不相关。",
+          "critic_normative_advice": "建议 INHERIT 但保持 needs_verification——当前 KB 中这是唯一提及 Hemlock Semiconductor 生产地点的文本，其他搜索方向已穷尽且无改善。多晶硅与电子元件的关联是合理推理但非直接陈述，证据不足以标记 healthy。若 KB 确无更精确覆盖，此答案可作为最佳近似接受。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "8206e5f5-7822-420d-af30-8f5fe4429c8b"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "8206e5f5-7822-420d-af30-8f5fe4429c8b",
+              "chunk_title": "Tennessee Corporate Locations",
+              "chunk_summary": "This chunk contains information about the headquarters locations of major corporations and significant industrial facilities based in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "The North American headquarters of Nissan Motor Company is based in Franklin. Regal Entertainment Group is based in Knoxville. Hospital Corporation of America is based in Nashville. Tennessee is the location of the Volkswagen factory. The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville. Caterpillar Financial is a major corporation with headquarters in Tennessee. The North American headquarters of Nissan Motor Company is a major corporate presence with headquarters in Tennessee. Pilot Corporation is based in Knoxville. Unum is a major corporation with headquarters in Tennessee. Tennessee is the location of a $1.2 billion polysilicon production facility by Hemlock Semiconductor. Eastman Chemical Company is a major corporation with headquarters in Tennessee. Unum is based in Chattanooga. Eastman Chemical Company is based in Kingsport. Tennessee is the location of a $2 billion polysilicon production facility by Wacker Chemie. Caterpillar Financial is based in Nashville. Hospital Corporation of America is a major corporation with headquarters in Tennessee. The $2 billion polysilicon production facility by Wacker Chemie is in Bradley County. The Volkswagen factory is in Chattanooga."
+            },
+            {
+              "chunk_id": "003c01bf-e844-4cc8-83b5-151a26b32531",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and hierarchical relationships of specific places, including creeks, townships, counties, and countries.",
+              "context_title": "Frozen Run",
+              "page_content": "Frozen Run flows through Frosty Valley. Hemlock Creek is in Columbia County, Pennsylvania. Columbia County is in the United States. Frozen Run flows through Hemlock Township."
+            },
+            {
+              "chunk_id": "5f6ec7aa-31ef-44e9-bc11-124d14d1fcd9",
+              "chunk_title": "Stream Environment",
+              "chunk_summary": "This chunk contains information about the land cover, vegetation, and surrounding environment of streams.",
+              "context_title": "Devil Hole Run",
+              "page_content": "Hemlock trees are plantlife common in the vicinity of Devil Hole Run. The stream Devil Hole Run is mostly surrounded by forested land."
+            },
+            {
+              "chunk_id": "26aff08f-272a-4248-bdb5-ec538e2a8e66",
+              "chunk_title": "Optics Industry Scale & Focus",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, particularly highlighting Tucson's significant involvement and its nickname \"Optics Valley\".",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has earned the nickname Optics Valley."
+            },
+            {
+              "chunk_id": "f309b440-9359-4ecf-842b-e7ad9b61d9c0",
+              "chunk_title": "Optics Industry Scale & Nicknames",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has the nickname Optics Valley."
+            },
+            {
+              "chunk_id": "b58747f4-748d-4a0f-b150-0c4a2b64fc53",
+              "chunk_title": "Tributaries & Water Bodies",
+              "chunk_summary": "This chunk contains information about tributaries and their relationships to larger water bodies, including details on named and unnamed streams.",
+              "context_title": "Frozen Run",
+              "page_content": "Frozen Run has several unnamed tributaries. Frozen Run is a tributary of Hemlock Creek."
+            },
+            {
+              "chunk_id": "2af7feee-9666-4f87-a96c-66750abbbe7d",
+              "chunk_title": "Optics Industry Scale & Nicknames",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            },
+            {
+              "chunk_id": "c1f0a97b-097b-40e3-8b9f-4aa3af1c46fe",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of companies, including headquarters and production facilities.",
+              "context_title": "Richmond, Virginia",
+              "page_content": "The DuPont production facility in South Richmond is known as the Spruance Plant. McKesson is based in San Francisco. DuPont maintains a production facility in South Richmond. UPS Freight has its corporate headquarters in Richmond, Virginia."
+            },
+            {
+              "chunk_id": "ef808e30-0412-4337-9d8d-25ea7e1a53dd",
+              "chunk_title": "Optics Industry Scale & Focus",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, including details on company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            },
+            {
+              "chunk_id": "5835a20c-04e4-47d5-b49f-76e496d5e16a",
+              "chunk_title": "Optics Industry Scale & Nickname",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the distance in miles from Nashville to that place?",
+          "answer": "45",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "distance in miles from Nashville to Clarksville, Tennessee",
+          "planner_rationale": "Q 的核心询问——从 Nashville 到上述生产地点的英里距离。依赖 N1_1 的 answer 消解 'that place' 指代后搜索，5 个 chunk 一致确认 Clarksville 距 Nashville 约 45 英里，证据充分。",
+          "solver_judgment": "question 要求确认从 Nashville 到 'that place' 的距离（英里）。search_query 搜索了 'distance in miles from Nashville to Clarksville, Tennessee'，明确了 'that place' 指代 Clarksville。chunks 返回了多个 Tennessee City Locations 片段，其中均明确记载 'Clarksville is some 45 miles (72 km) northwest of Nashville'，直接提供了 45 英里的答案。检索精准，信息完整。",
+          "critic_factual_notes": "5 个支撑来源（均来自同一文档 Tennessee，chunks f928d974, 455a9a66, 183366a3, 0758ecb6, 269802a0）。所有 5 个 chunk 一致陈述 'Clarksville is some 45 miles (72 km) northwest of Nashville'。来源数量：5 个 chunk，1 个独立文档。一致性：完全一致。交叉验证：通过（多 chunk 一致确认）。依赖源 N1_1 的 answer='Clarksville, Tennessee' 有效消解了 'that place' 指代。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多 chunk 一致确认 45 英里距离，依赖链语义有效。",
+          "round_created": 1,
+          "round_last_updated": 4,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+            "455a9a66-7694-446b-9d67-4a3731d5ef70",
+            "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+            "0758ecb6-892e-4c38-a928-f4c834023484",
+            "269802a0-3a31-43b5-8eaf-ebce433f7de0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is near the Great Smoky Mountains. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+            },
+            {
+              "chunk_id": "455a9a66-7694-446b-9d67-4a3731d5ef70",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+            },
+            {
+              "chunk_id": "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Clarksville is some 45 miles (72 km) northwest of Nashville."
+            },
+            {
+              "chunk_id": "0758ecb6-892e-4c38-a928-f4c834023484",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville."
+            },
+            {
+              "chunk_id": "269802a0-3a31-43b5-8eaf-ebce433f7de0",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Knoxville is in the eastern part of Tennessee. Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains."
+            },
+            {
+              "chunk_id": "a56a92ec-1006-440a-a6f0-99699906dd47",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of specific towns, such as Nolensville.",
+              "context_title": "Nolensville, Tennessee",
+              "page_content": "Nolensville is a town in Williamson County, Tennessee. Nolensville is located in Middle Tennessee. Nolensville is about 22 miles southeast of Nashville, Tennessee."
+            },
+            {
+              "chunk_id": "cb9bfe85-f70a-4393-88e1-bbf177c6bb11",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Murfreesboro consists of some 108,755 residents. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Chattanooga has approximately one-third of the population of Memphis."
+            },
+            {
+              "chunk_id": "d46f2153-f6bc-4d94-b337-e3991a4a8f93",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Murfreesboro is the sixth-largest city in Tennessee. Clarksville is a significant population center in Tennessee. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Memphis has the largest population of any city in Tennessee. Chattanooga has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Nashville's 13-county metropolitan area has been the state's largest metropolitan area in Tennessee since c. 1990."
+            },
+            {
+              "chunk_id": "a071b195-38b1-4477-a6ae-32d64b541408",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city and metropolitan area populations, rankings, and relative sizes within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Memphis. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Murfreesboro is the sixth-largest city in Tennessee. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990."
+            },
+            {
+              "chunk_id": "97de6680-8bde-457c-9c6c-1f425c775fcc",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Memphis has the largest population of any city in Tennessee. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Murfreesboro consists of some 108,755 residents. Clarksville is a significant population center in Tennessee. Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Memphis. Knoxville has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Nashville."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "q": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+      "round_number": 5,
+      "nodes": {
+        "N0": {
+          "id": "N0",
+          "question": "What is the distance in miles from Nashville to the place where Hemlock Semiconductor produces electronic components?",
+          "answer": "",
+          "status": "unsolved",
+          "health": "needs_verification",
+          "search_query": "",
+          "planner_rationale": "根节点——Q 的最终锚点。子节点 N1_1（Hemlock 生产地点=Clarksville, Tennessee）和 N1_2（距离=45 英里）均已 SOLVED，推理链完整。N1_1 存在术语粒度差异（polysilicon vs electronic components），但 KB 已穷尽搜索无更精确匹配，此近似可接受。ROOT 答案可由子节点推理链聚合：45 英里。",
+          "solver_judgment": "",
+          "critic_factual_notes": "ROOT 节点——答案由子节点推理链聚合。子节点 N1_1 的 answer='Clarksville, Tennessee'（单来源，KB 原文为 'polysilicon production facility' 而非 'electronic components'，存在术语粒度差异），N1_2 的 answer='45'（5 个 chunk 一致确认，均来自同一文档 Tennessee）。推理链结构完整（N1_1→N1_2 依赖有效），但 N1_1 的语义不确定性导致 ROOT 整体置信度不足。",
+          "critic_normative_advice": "建议保留当前结构。N1_1 的语义不确定性（polysilicon vs electronic components）是 KB 覆盖限制而非结构缺陷——其他 9 个检索结果均不相关，说明 KB 无更精确匹配。若 KB 确无 'electronic components' 直接表述，此近似可接受；但 ROOT 的 health 需随 N1_1 同步标记为 needs_verification。",
+          "round_created": 0,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 0,
+          "retrieved_chunks_count": 0,
+          "supporting_chunks": [],
+          "retrieved_chunks_summary": []
+        },
+        "N1_1": {
+          "id": "N1_1",
+          "question": "Where does Hemlock Semiconductor produce electronic components?",
+          "answer": "Clarksville, Tennessee",
+          "status": "solved",
+          "health": "needs_verification",
+          "search_query": "Where does Hemlock Semiconductor produce electronic components?",
+          "planner_rationale": "Q 询问从 Nashville 到 Hemlock Semiconductor 生产电子元件的地点的距离，必须先确定该生产地点。KB 中唯一提及 Hemlock Semiconductor 生产设施的是 Clarksville, Tennessee 的多晶硅生产设施——多晶硅是半导体/电子元件制造的核心基础材料，KB 无更精确覆盖，此答案作为最佳近似接受。",
+          "solver_judgment": "question 要求确认 Hemlock Semiconductor 生产电子元件的地点。search_query 直接使用了原问题。chunks 中的 8206e5f5... 明确指出 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville' 并多次提及 Tennessee。虽然原文具体指 'polysilicon（多晶硅）生产设施' 而非直接写 'electronic components'，但多晶硅是半导体及电子元件制造的核心基础材料，且该 chunk 是唯一提及该公司生产地点的文本。检索精准命中目标实体与地点，信息完整。",
+          "critic_factual_notes": "1 个支撑来源（文档 Tennessee，chunk 8206e5f5）。该 chunk 明确陈述 'The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville'，但原文使用 'polysilicon production facility'（多晶硅生产设施），而非问题中的 'electronic components'（电子元件）。Solver 自行推理多晶硅是半导体/电子元件制造的基础材料从而建立关联。交叉验证：不充分（仅 1 个来源，且存在术语不匹配）。其余 9 个检索结果（Tucson 光学产业、Frozen Run 等）均不相关。",
+          "critic_normative_advice": "建议 INHERIT 但保持 needs_verification——当前 KB 中这是唯一提及 Hemlock Semiconductor 生产地点的文本，其他搜索方向已穷尽且无改善。多晶硅与电子元件的关联是合理推理但非直接陈述，证据不足以标记 healthy。若 KB 确无更精确覆盖，此答案可作为最佳近似接受。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 1,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "8206e5f5-7822-420d-af30-8f5fe4429c8b"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "8206e5f5-7822-420d-af30-8f5fe4429c8b",
+              "chunk_title": "Tennessee Corporate Locations",
+              "chunk_summary": "This chunk contains information about the headquarters locations of major corporations and significant industrial facilities based in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "The North American headquarters of Nissan Motor Company is based in Franklin. Regal Entertainment Group is based in Knoxville. Hospital Corporation of America is based in Nashville. Tennessee is the location of the Volkswagen factory. The $1.2 billion polysilicon production facility by Hemlock Semiconductor is in Clarksville. Caterpillar Financial is a major corporation with headquarters in Tennessee. The North American headquarters of Nissan Motor Company is a major corporate presence with headquarters in Tennessee. Pilot Corporation is based in Knoxville. Unum is a major corporation with headquarters in Tennessee. Tennessee is the location of a $1.2 billion polysilicon production facility by Hemlock Semiconductor. Eastman Chemical Company is a major corporation with headquarters in Tennessee. Unum is based in Chattanooga. Eastman Chemical Company is based in Kingsport. Tennessee is the location of a $2 billion polysilicon production facility by Wacker Chemie. Caterpillar Financial is based in Nashville. Hospital Corporation of America is a major corporation with headquarters in Tennessee. The $2 billion polysilicon production facility by Wacker Chemie is in Bradley County. The Volkswagen factory is in Chattanooga."
+            },
+            {
+              "chunk_id": "003c01bf-e844-4cc8-83b5-151a26b32531",
+              "chunk_title": "Geographical Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and hierarchical relationships of specific places, including creeks, townships, counties, and countries.",
+              "context_title": "Frozen Run",
+              "page_content": "Frozen Run flows through Frosty Valley. Hemlock Creek is in Columbia County, Pennsylvania. Columbia County is in the United States. Frozen Run flows through Hemlock Township."
+            },
+            {
+              "chunk_id": "5f6ec7aa-31ef-44e9-bc11-124d14d1fcd9",
+              "chunk_title": "Stream Environment",
+              "chunk_summary": "This chunk contains information about the land cover, vegetation, and surrounding environment of streams.",
+              "context_title": "Devil Hole Run",
+              "page_content": "Hemlock trees are plantlife common in the vicinity of Devil Hole Run. The stream Devil Hole Run is mostly surrounded by forested land."
+            },
+            {
+              "chunk_id": "26aff08f-272a-4248-bdb5-ec538e2a8e66",
+              "chunk_title": "Optics Industry Scale & Focus",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, particularly highlighting Tucson's significant involvement and its nickname \"Optics Valley\".",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has earned the nickname Optics Valley."
+            },
+            {
+              "chunk_id": "f309b440-9359-4ecf-842b-e7ad9b61d9c0",
+              "chunk_title": "Optics Industry Scale & Nicknames",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems. Tucson has the nickname Optics Valley."
+            },
+            {
+              "chunk_id": "b58747f4-748d-4a0f-b150-0c4a2b64fc53",
+              "chunk_title": "Tributaries & Water Bodies",
+              "chunk_summary": "This chunk contains information about tributaries and their relationships to larger water bodies, including details on named and unnamed streams.",
+              "context_title": "Frozen Run",
+              "page_content": "Frozen Run has several unnamed tributaries. Frozen Run is a tributary of Hemlock Creek."
+            },
+            {
+              "chunk_id": "2af7feee-9666-4f87-a96c-66750abbbe7d",
+              "chunk_title": "Optics Industry Scale & Nicknames",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            },
+            {
+              "chunk_id": "c1f0a97b-097b-40e3-8b9f-4aa3af1c46fe",
+              "chunk_title": "Company Locations",
+              "chunk_summary": "This chunk contains information about the geographic locations of companies, including headquarters and production facilities.",
+              "context_title": "Richmond, Virginia",
+              "page_content": "The DuPont production facility in South Richmond is known as the Spruance Plant. McKesson is based in San Francisco. DuPont maintains a production facility in South Richmond. UPS Freight has its corporate headquarters in Richmond, Virginia."
+            },
+            {
+              "chunk_id": "ef808e30-0412-4337-9d8d-25ea7e1a53dd",
+              "chunk_title": "Optics Industry Scale & Focus",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific geographic regions, including details on company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            },
+            {
+              "chunk_id": "5835a20c-04e4-47d5-b49f-76e496d5e16a",
+              "chunk_title": "Optics Industry Scale & Nickname",
+              "chunk_summary": "This chunk contains information about the scale and focus of the optics and optoelectronics industry in specific regions, including company counts and regional nicknames.",
+              "context_title": "Tucson, Arizona",
+              "page_content": "Tucson has earned the nickname Optics Valley. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems."
+            }
+          ]
+        },
+        "N1_2": {
+          "id": "N1_2",
+          "question": "What is the distance in miles from Nashville to that place?",
+          "answer": "45",
+          "status": "solved",
+          "health": "healthy",
+          "search_query": "distance in miles from Nashville to Clarksville, Tennessee",
+          "planner_rationale": "Q 的核心询问——从 Nashville 到上述生产地点的英里距离。依赖 N1_1 的 answer 消解 'that place' 指代后搜索，5 个 chunk 一致确认 Clarksville 距 Nashville 约 45 英里，证据充分。",
+          "solver_judgment": "question 要求确认从 Nashville 到 'that place' 的距离（英里）。search_query 搜索了 'distance in miles from Nashville to Clarksville, Tennessee'，明确了 'that place' 指代 Clarksville。chunks 返回了多个 Tennessee City Locations 片段，其中均明确记载 'Clarksville is some 45 miles (72 km) northwest of Nashville'，直接提供了 45 英里的答案。检索精准，信息完整。",
+          "critic_factual_notes": "5 个支撑来源（均来自同一文档 Tennessee，chunks f928d974, 455a9a66, 183366a3, 0758ecb6, 269802a0）。所有 5 个 chunk 一致陈述 'Clarksville is some 45 miles (72 km) northwest of Nashville'。来源数量：5 个 chunk，1 个独立文档。一致性：完全一致。交叉验证：通过（多 chunk 一致确认）。依赖源 N1_1 的 answer='Clarksville, Tennessee' 有效消解了 'that place' 指代。",
+          "critic_normative_advice": "建议 INHERIT——证据充分，多 chunk 一致确认 45 英里距离，依赖链语义有效。",
+          "round_created": 1,
+          "round_last_updated": 5,
+          "supporting_chunks_count": 5,
+          "retrieved_chunks_count": 10,
+          "supporting_chunks": [
+            "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+            "455a9a66-7694-446b-9d67-4a3731d5ef70",
+            "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+            "0758ecb6-892e-4c38-a928-f4c834023484",
+            "269802a0-3a31-43b5-8eaf-ebce433f7de0"
+          ],
+          "retrieved_chunks_summary": [
+            {
+              "chunk_id": "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is near the Great Smoky Mountains. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+            },
+            {
+              "chunk_id": "455a9a66-7694-446b-9d67-4a3731d5ef70",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee."
+            },
+            {
+              "chunk_id": "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities in Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Clarksville is some 45 miles (72 km) northwest of Nashville."
+            },
+            {
+              "chunk_id": "0758ecb6-892e-4c38-a928-f4c834023484",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Chattanooga is near the Great Smoky Mountains. Knoxville is in the eastern part of Tennessee. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville."
+            },
+            {
+              "chunk_id": "269802a0-3a31-43b5-8eaf-ebce433f7de0",
+              "chunk_title": "Tennessee City Locations",
+              "chunk_summary": "This chunk contains information about the geographical locations and nearby landmarks of cities within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Knoxville is in the eastern part of Tennessee. Chattanooga is near the Great Smoky Mountains. Clarksville is some 45 miles (72 km) northwest of Nashville. Chattanooga is in the eastern part of Tennessee. Knoxville is near the Great Smoky Mountains."
+            },
+            {
+              "chunk_id": "a56a92ec-1006-440a-a6f0-99699906dd47",
+              "chunk_title": "Town Location & Classification",
+              "chunk_summary": "This chunk contains information about the location and classification of specific towns, such as Nolensville.",
+              "context_title": "Nolensville, Tennessee",
+              "page_content": "Nolensville is a town in Williamson County, Tennessee. Nolensville is located in Middle Tennessee. Nolensville is about 22 miles southeast of Nashville, Tennessee."
+            },
+            {
+              "chunk_id": "cb9bfe85-f70a-4393-88e1-bbf177c6bb11",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Murfreesboro consists of some 108,755 residents. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Chattanooga has approximately one-third of the population of Memphis."
+            },
+            {
+              "chunk_id": "d46f2153-f6bc-4d94-b337-e3991a4a8f93",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Murfreesboro is the sixth-largest city in Tennessee. Clarksville is a significant population center in Tennessee. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Memphis has the largest population of any city in Tennessee. Chattanooga has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Knoxville has approximately one-third of the population of Memphis. Nashville's 13-county metropolitan area has been the state's largest metropolitan area in Tennessee since c. 1990."
+            },
+            {
+              "chunk_id": "a071b195-38b1-4477-a6ae-32d64b541408",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city and metropolitan area populations, rankings, and relative sizes within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Memphis. Murfreesboro consists of some 108,755 residents. Knoxville has approximately one-third of the population of Nashville. Murfreesboro is the sixth-largest city in Tennessee. Memphis has the largest population of any city in Tennessee. Clarksville is a significant population center in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990."
+            },
+            {
+              "chunk_id": "97de6680-8bde-457c-9c6c-1f425c775fcc",
+              "chunk_title": "Tennessee City Populations",
+              "chunk_summary": "This chunk contains information about city populations and metropolitan area rankings within Tennessee.",
+              "context_title": "Tennessee",
+              "page_content": "Memphis has the largest population of any city in Tennessee. Murfreesboro is the sixth-largest city in Tennessee. Nashville's 13-county metropolitan area has been the largest metropolitan area in Tennessee since c. 1990. Murfreesboro consists of some 108,755 residents. Clarksville is a significant population center in Tennessee. Knoxville has approximately one-third of the population of Memphis. Chattanooga has approximately one-third of the population of Memphis. Knoxville has approximately one-third of the population of Nashville. Chattanooga has approximately one-third of the population of Nashville."
+            }
+          ]
+        }
+      },
+      "edges": [
+        {
+          "from": "N0",
+          "to": "N1_1",
+          "type": "decomposition"
+        },
+        {
+          "from": "N0",
+          "to": "N1_2",
+          "type": "decomposition"
+        },
+        {
+          "from": "N1_1",
+          "to": "N1_2",
+          "type": "dependency"
+        }
+      ]
+    }
+  ],
+  "search_trace": [
+    {
+      "round": 1,
+      "query": "Where does Hemlock Semiconductor produce electronic components?",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "8206e5f5-7822-420d-af30-8f5fe4429c8b",
+        "003c01bf-e844-4cc8-83b5-151a26b32531",
+        "5f6ec7aa-31ef-44e9-bc11-124d14d1fcd9",
+        "26aff08f-272a-4248-bdb5-ec538e2a8e66",
+        "f309b440-9359-4ecf-842b-e7ad9b61d9c0",
+        "b58747f4-748d-4a0f-b150-0c4a2b64fc53",
+        "2af7feee-9666-4f87-a96c-66750abbbe7d",
+        "c1f0a97b-097b-40e3-8b9f-4aa3af1c46fe",
+        "ef808e30-0412-4337-9d8d-25ea7e1a53dd",
+        "5835a20c-04e4-47d5-b49f-76e496d5e16a"
+      ]
+    },
+    {
+      "round": 1,
+      "query": "distance in miles from Nashville to Clarksville, Tennessee",
+      "chunks_returned": 10,
+      "chunk_ids": [
+        "f928d974-12eb-4692-8fd5-e72ceac11c6d",
+        "455a9a66-7694-446b-9d67-4a3731d5ef70",
+        "183366a3-a5d3-45b0-9e8a-d4c86b75e303",
+        "0758ecb6-892e-4c38-a928-f4c834023484",
+        "269802a0-3a31-43b5-8eaf-ebce433f7de0",
+        "a56a92ec-1006-440a-a6f0-99699906dd47",
+        "cb9bfe85-f70a-4393-88e1-bbf177c6bb11",
+        "d46f2153-f6bc-4d94-b337-e3991a4a8f93",
+        "a071b195-38b1-4477-a6ae-32d64b541408",
+        "97de6680-8bde-457c-9c6c-1f425c775fcc"
+      ]
+    }
+  ],
+  "round_summaries": [
+    {
+      "round": 1,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 2,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where does Hemlock Semiconductor produce electronic components?（理由：Q 询问从 Nashville 到某地点的距离，该地点是 Hemlock Semiconductor 生产电子元件的地方，必须先确定这个地点），F2: What is the distance in miles from Nashville to that place?（理由：Q 的核心询问——从 Nashville 到上述生产地点的英里距离）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的 question 中 'that place' 必须用 F1 的 answer 消解后才能搜索）。",
+      "hypothesis_delta": "本轮为首轮——所有节点为新增，无从上一轮调整的变更。新增: N1（question='Where does Hemlock Semiconductor produce electronic components?'，rationale='Q 询问从 Nashville 到某地点的距离，该地点是 Hemlock Semiconductor 生产电子元件的地方，必须先确定这个地点'），原因：Q 的语义需求——确定目标地点。新增: N2（question='What is the distance in miles from Nashville to that place?'，rationale='Q 的核心询问——从 Nashville 到上述生产地点的英里距离，需要先用 N1 的 answer 消解 that place 指代'），原因：Q 的语义需求——计算/查询距离。新增边: N0→N1（decomposition），原因：N1 是 Q 的分解产物——确定生产地点。新增边: N0→N2（decomposition），原因：N2 是 Q 的分解产物——查询距离。新增边: N1→N2（d",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_1 的 critic_health 为 needs_verification（非 healthy）。N1_1 的支撑 chunk 仅提及 'polysilicon production facility' 而非问题中的 'electronic components'，存在语义粒度差异，单来源且术语不匹配。条件②通过：N1_1→N1_2 依赖链语义有效，'Clarksville,"
+      }
+    },
+    {
+      "round": 2,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where does Hemlock Semiconductor produce electronic components?（理由：Q 询问从 Nashville 到某地点的距离，该地点是 Hemlock Semiconductor 生产电子元件的地方，必须先确定这个地点），F2: What is the distance in miles from Nashville to that place?（理由：Q 的核心询问——从 Nashville 到上述生产地点的英里距离）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的 question 中 'that place' 必须用 F1 的 answer 消解后才能搜索）。",
+      "hypothesis_delta": "本轮无结构变更——所有节点和边均 INHERIT 保留。原因：(1) N1_1 已 SOLVED，answer='Clarksville, Tennessee'，虽存在 'polysilicon production facility' 与 'electronic components' 的术语差异，但 KB 中仅此一处在提及 Hemlock Semiconductor 的生产设施，其他 9 个检索结果均不相关（Tucson 光学产业、Frozen Run 等），说明 KB 无更精确覆盖。多晶硅是半导体/电子元件制造的核心基础材料，此近似可接受。(2) N1_2 已 SOLVED + healthy，5 个 chunk 一致确认 45 英里距离，依赖链有效。(3) Critic 建议保留当前结构，仅标注语义不确定性——当前 DAG 结构已完整覆盖 Q 的语义需求，无需调整。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_1 和 N0 的 critic_health 均为 needs_verification（非 healthy）。N1_1 的证据存在语义缺口——KB 原文为 'polysilicon production facility' 而非 'electronic components'，仅 1 个来源且依赖推理建立关联。条件②通过：推理链 N1_1→N1_2 语义有效（'Clarksv"
+      }
+    },
+    {
+      "round": 3,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where does Hemlock Semiconductor produce electronic components?（理由：Q 询问从 Nashville 到某地点的距离，该地点是 Hemlock Semiconductor 生产电子元件的地方，必须先确定这个地点），F2: What is the distance in miles from Nashville to that place?（理由：Q 的核心询问——从 Nashville 到上述生产地点的英里距离）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的 question 中 'that place' 必须用 F1 的 answer 消解后才能搜索）。当前 DAG 已完整覆盖 Q 的语义需求，N1_1 和 N1_2 均已 SOLVED，结构稳定收敛。",
+      "hypothesis_delta": "本轮无结构变更——所有节点和边均 INHERIT 保留。原因：(1) N1_1 已 SOLVED，answer='Clarksville, Tennessee'，虽存在 'polysilicon production facility' 与 'electronic components' 的术语差异，但 KB 中仅此一处在提及 Hemlock Semiconductor 的生产设施，其他 9 个检索结果均不相关，说明 KB 无更精确覆盖。多晶硅是半导体/电子元件制造的核心基础材料，此近似可接受。(2) N1_2 已 SOLVED + healthy，5 个 chunk 一致确认 45 英里距离，依赖链有效。(3) Critic 建议保留当前结构，指出当前 DAG 结构已完整覆盖 Q 的语义需求，无需调整。这是稳定的收敛状态。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N0 和 N1_1 的 critic_health 均为 needs_verification（非 healthy）。N1_1 的 KB 原文为 'polysilicon production facility' 而非 'electronic components'，存在术语不匹配，证据不足以标记 healthy。条件②通过（N1_1→N1_2 依赖链语义有效，N1_1 answer"
+      }
+    },
+    {
+      "round": 4,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where does Hemlock Semiconductor produce electronic components?（理由：Q 询问从 Nashville 到某地点的距离，该地点是 Hemlock Semiconductor 生产电子元件的地方，必须先确定这个地点），F2: What is the distance in miles from Nashville to that place?（理由：Q 的核心询问——从 Nashville 到上述生产地点的英里距离）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的 question 中 'that place' 必须用 F1 的 answer 消解后才能搜索）。当前 DAG 已完整覆盖 Q 的语义需求，N1_1 和 N1_2 均已 SOLVED，结构稳定收敛。",
+      "hypothesis_delta": "本轮无结构变更——所有节点和边均 INHERIT/LINK 保留。原因：(1) N1_1 已 SOLVED，answer='Clarksville, Tennessee'，虽存在 'polysilicon production facility' 与 'electronic components' 的术语差异，但 KB 中仅此一处在提及 Hemlock Semiconductor 的生产设施，其他 9 个检索结果均不相关，说明 KB 无更精确覆盖。多晶硅是半导体/电子元件制造的核心基础材料，此近似可接受。(2) N1_2 已 SOLVED + healthy，5 个 chunk 一致确认 45 英里距离，依赖链有效。(3) Critic 建议保留当前结构，指出当前 DAG 结构已完整覆盖 Q 的语义需求，无需调整。这是稳定的收敛状态。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N0 和 N1_1 的 critic_health 均为 needs_verification（非 healthy）。N1_1 的证据存在术语不匹配（KB 原文为 'polysilicon production facility' 而非 'electronic components'），仅单来源支撑，不足以标记 healthy。此不确定性传播至 ROOT 节点 N0。条件②通过（N1"
+      }
+    },
+    {
+      "round": 5,
+      "planner_ok": true,
+      "planner_revisions": 0,
+      "search_calls": 0,
+      "hypothesis_target": "Q 需要确立以下事实: F1: Where does Hemlock Semiconductor produce electronic components?（理由：Q 询问从 Nashville 到某地点的距离，该地点是 Hemlock Semiconductor 生产电子元件的地方，必须先确定这个地点），F2: What is the distance in miles from Nashville to that place?（理由：Q 的核心询问——从 Nashville 到上述生产地点的英里距离）。关系: F1 是 Q 的分解产物（decomposition），F2 是 Q 的分解产物（decomposition），F2 依赖于 F1（dependency——F2 的 question 中 'that place' 必须用 F1 的 answer 消解后才能搜索）。当前 DAG 已完整覆盖 Q 的语义需求，N1_1 和 N1_2 均已 SOLVED，结构稳定收敛。",
+      "hypothesis_delta": "本轮无结构变更——所有节点和边均 INHERIT/LINK 保留。原因：(1) N1_1 已 SOLVED，answer='Clarksville, Tennessee'，虽存在 'polysilicon production facility' 与 'electronic components' 的术语差异，但 KB 中仅此一处在提及 Hemlock Semiconductor 的生产设施，其他 9 个检索结果均不相关，说明 KB 无更精确覆盖。多晶硅是半导体/电子元件制造的核心基础材料，此近似可接受。(2) N1_2 已 SOLVED + healthy，5 个 chunk 一致确认 45 英里距离，依赖链有效。(3) Critic 建议保留当前结构，指出当前 DAG 结构已完整覆盖 Q 的语义需求，无需调整。这是稳定的收敛状态。",
+      "planner_errors": [],
+      "termination_check": {
+        "should_terminate": false,
+        "condition_2_passed": true,
+        "condition_3_passed": false,
+        "reason": "条件③未通过：N1_1 和 N0 的 critic_health 均为 needs_verification（非 healthy）。N1_1 的 answer='Clarksville, Tennessee' 基于单来源且存在术语不匹配（KB 原文为 'polysilicon production facility' 而非 'electronic components'），证据不足以标记 heal"
+      }
+    }
+  ]
+}
