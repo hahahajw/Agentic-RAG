@@ -1,10 +1,10 @@
 针对使用 RAG 算法求解「多跳问答」，这个项目仓库中包含两种可解释的多轮自适应探索 RAG 算法，分别是「[递归检索 RAG 算法（RAG with Judge）](# 递归检索 RAG 算法)」和「[规划-执行-反馈闭环 RAG 算法（Loop RAG）](# 规划-执行-反馈闭环 RAG 算法)」。这个两个算法在 HotpotQA、2WikiMultihopQA 和 MuSiQue 三个主流多跳问答数据集上的表现如下（其中 CR 指标是「累积召回率（CumulativeRecall）」，表示算法在所有探索轮次中召回的所有文档占支撑段落的比例）：
 
-![image-20260623235207856](img/performance.png)
+![performance](img/performance.png)
 
 该结果的实验设置如下：
 
-![image-20260623235706241](img/setup.png)
+![setup](img/setup.png)
 
 ## 实验结果可视化
 
